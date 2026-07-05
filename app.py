@@ -46,6 +46,11 @@ load_env()
 app = Flask(__name__)
 app.secret_key = os.environ.get("SECRET_KEY", "dev-secret-change-me")
 
+# Trust Render's / any reverse proxy so request.host_url uses the real https scheme
+# (needed for correct password-reset links behind TLS termination).
+from werkzeug.middleware.proxy_fix import ProxyFix
+app.wsgi_app = ProxyFix(app.wsgi_app, x_for=1, x_proto=1, x_host=1)
+
 RESEND_API_KEY = os.environ.get("RESEND_API_KEY", "")
 RESEND_FROM = os.environ.get("RESEND_FROM", "Dialysis Quiz <onboarding@resend.dev>")
 
