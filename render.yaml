@@ -13,8 +13,10 @@ services:
         value: 3.12.6
       - key: POOL_MAX
         value: "4"
-      - key: RESEND_FROM
-        value: Dialysis Quiz <onboarding@resend.dev>
+      - key: SMTP_HOST
+        value: smtp.gmail.com
+      - key: SMTP_PORT
+        value: "465"
       - key: SECRET_KEY
         generateValue: true
       - key: PGHOST
@@ -27,5 +29,9 @@ services:
         sync: false
       - key: PGDATABASE
         sync: false
-      - key: RESEND_API_KEY
+      - key: SMTP_USER
+        sync: false
+      - key: SMTP_PASSWORD
+        sync: false
+      - key: MAIL_FROM
         sync: false
