@@ -321,9 +321,10 @@ button{font-family:inherit; cursor:pointer; border:none; border-radius:11px; tra
 .site-footer .heart{color:#e5484d; animation:beat 1.4s ease-in-out infinite; display:inline-block}
 @keyframes beat{0%,100%{transform:scale(1)}15%{transform:scale(1.25)}30%{transform:scale(1)}}
 
-.auth-forgot{margin:14px 0 0; text-align:center}
-.auth-forgot a{color:var(--muted); font-size:13.5px; text-decoration:none}
-.auth-forgot a:hover{color:var(--brand); text-decoration:underline}
+.auth-forgot{margin:14px 0 2px; text-align:center}
+.auth-forgot a{color:var(--brand); font-size:14px; font-weight:700;
+  text-decoration:underline; display:inline-block; padding:8px 12px; border-radius:8px}
+.auth-forgot a:hover{background:var(--brand-tint)}
 
 /* ---------- history clickable + detail ---------- */
 .hinfo.clickable{cursor:pointer; border-radius:8px; transition:background .12s; padding:2px 4px; margin:-2px -4px}

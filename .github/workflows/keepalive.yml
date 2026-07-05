@@ -6,7 +6,7 @@ name: Keep Render app awake
 #   e.g. RENDER_URL = https://dialysis-quiz.onrender.com
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "*/8 * * * *"   # every 8 minutes
   workflow_dispatch: {}
 
 jobs:
@@ -16,10 +16,7 @@ jobs:
       - name: Ping health endpoint
         run: |
           URL="${{ vars.RENDER_URL }}"
-          if [ -z "$URL" ]; then
-            echo "RENDER_URL variable not set — skipping. Add it in repo Variables."
-            exit 0
-          fi
+          if [ -z "$URL" ]; then URL="https://ravina-cre.onrender.com"; fi
           echo "Pinging $URL/healthz"
-          code=$(curl -s -o /dev/null -w "%{http_code}" --max-time 30 "$URL/healthz" || echo "000")
-          echo "HTTP $code"
+          code=$(curl -s -o /dev/null -w "%{http_code}" --max-time 40 "$URL/healthz" || echo "000")
+          echo "HTTP $code (a 200 keeps the Render free instance awake)"
