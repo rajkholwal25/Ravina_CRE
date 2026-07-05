@@ -38,10 +38,10 @@ $("#resetForm").addEventListener("submit", async (e) => {
       method: "POST", headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ token: $("#token").value, password: $("#password").value }),
     });
-    const data = await r.json();
+    let data = {}; try { data = await r.json(); } catch (e) {}
     if (r.ok) { showMsg((data.message || "Password updated.") + " Redirecting…", true); setTimeout(() => location.href = "/login", 1400); }
-    else { showMsg(data.error || "Could not reset password.", false); btn.disabled = false; }
-  } catch (err) { showMsg("Network error.", false); btn.disabled = false; }
+    else { showMsg(data.error || (r.status >= 500 ? "Server is waking up — wait a few seconds and try again." : "Could not reset password."), false); btn.disabled = false; }
+  } catch (err) { showMsg("Couldn't reach the server — it may be waking up. Try again in a few seconds.", false); btn.disabled = false; }
 });
 </script>
 </body>

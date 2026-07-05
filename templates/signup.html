@@ -39,12 +39,12 @@ $("#signupForm").addEventListener("submit", async (e) => {
       method: "POST", headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ name: $("#name").value, email: $("#email").value, password: $("#password").value }),
     });
-    const data = await r.json();
+    let data = {}; try { data = await r.json(); } catch (e) {}
     if (r.ok) {
       showMsg("Account created! Redirecting to login…", true);
       setTimeout(() => { window.location.href = "/login"; }, 1200);
-    } else { showMsg(data.error || "Sign up failed.", false); btn.disabled = false; }
-  } catch (err) { showMsg("Network error. Is the server running?", false); btn.disabled = false; }
+    } else { showMsg(data.error || (r.status >= 500 ? "Server is waking up — wait a few seconds and try again." : "Sign up failed."), false); btn.disabled = false; }
+  } catch (err) { showMsg("Couldn't reach the server — it may be waking up. Try again in a few seconds.", false); btn.disabled = false; }
 });
 </script>
 </body>

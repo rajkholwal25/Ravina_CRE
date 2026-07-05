@@ -22,7 +22,6 @@ from functools import wraps
 
 import psycopg2
 from psycopg2.extras import Json, RealDictCursor
-from psycopg2.pool import ThreadedConnectionPool
 from flask import (Flask, abort, g, jsonify, redirect, render_template,
                    request, send_file, session, url_for)
 from werkzeug.security import check_password_hash, generate_password_hash
@@ -58,19 +57,26 @@ SMTP_USER = os.environ.get("SMTP_USER", "")
 SMTP_PASSWORD = os.environ.get("SMTP_PASSWORD", "").replace(" ", "")
 MAIL_FROM = os.environ.get("MAIL_FROM", SMTP_USER)
 
-POOL = ThreadedConnectionPool(
-    1, int(os.environ.get("POOL_MAX", "4")),
+PG = dict(
     host=os.environ["PGHOST"], port=os.environ.get("PGPORT", "5432"),
     user=os.environ["PGUSER"], password=os.environ["PGPASSWORD"],
     dbname=os.environ.get("PGDATABASE", "postgres"), connect_timeout=20,
 )
 
 
+def _connect():
+    conn = psycopg2.connect(**PG)
+    conn.autocommit = True
+    return conn
+
+
 def db():
+    # Fresh connection per request. Render free instances sleep and Supabase's
+    # pooler drops idle connections, so a long-lived app-side pool goes stale
+    # and the next query fails. Opening per request (Supabase's pooler handles
+    # the real pooling) avoids stale connections entirely.
     if "conn" not in g:
-        conn = POOL.getconn()
-        conn.autocommit = True
-        g.conn = conn
+        g.conn = _connect()
     return g.conn
 
 
@@ -86,14 +92,16 @@ def q(sql, params=None, one=False):
 def close_db(exc):
     conn = g.pop("conn", None)
     if conn is not None:
-        POOL.putconn(conn)
+        try:
+            conn.close()
+        except Exception:
+            pass
 
 
 # ----------------------------------------------------------------- schema setup
 def ensure_schema():
     """Create/upgrade tables and seed the admin account (idempotent)."""
-    conn = POOL.getconn()
-    conn.autocommit = True
+    conn = _connect()
     cur = conn.cursor()
     cur.execute("""
         CREATE TABLE IF NOT EXISTS dialysis_chapters (
@@ -125,7 +133,7 @@ def ensure_schema():
         cur.execute(
             "INSERT INTO dialysis_users (email, password_hash, name, is_admin) VALUES (%s,%s,%s,true)",
             ("admin@test.com", generate_password_hash("admin"), "Administrator"))
-    POOL.putconn(conn)
+    conn.close()
 
 
 try:

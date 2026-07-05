@@ -33,10 +33,10 @@ $("#forgotForm").addEventListener("submit", async (e) => {
       method: "POST", headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ email: $("#email").value }),
     });
-    const data = await r.json();
+    let data = {}; try { data = await r.json(); } catch (e) {}
     if (r.ok) { showMsg(data.message || "Check your email.", true); }
-    else { showMsg(data.error || "Could not send reset link.", false); btn.disabled = false; }
-  } catch (err) { showMsg("Network error. Is the server running?", false); btn.disabled = false; }
+    else { showMsg(data.error || (r.status >= 500 ? "Server is waking up — wait a few seconds and try again." : "Could not send reset link."), false); btn.disabled = false; }
+  } catch (err) { showMsg("Couldn't reach the server — it may be waking up. Try again in a few seconds.", false); btn.disabled = false; }
 });
 </script>
 </body>
