@@ -50,10 +50,11 @@ app.secret_key = os.environ.get("SECRET_KEY", "dev-secret-change-me")
 from werkzeug.middleware.proxy_fix import ProxyFix
 app.wsgi_app = ProxyFix(app.wsgi_app, x_for=1, x_proto=1, x_host=1)
 
-# Email via Resend (HTTP API). SMTP is blocked on Render's network, so we use
-# Resend's HTTPS API which works from Render.
-RESEND_API_KEY = os.environ.get("RESEND_API_KEY", "")
-RESEND_FROM = os.environ.get("RESEND_FROM", "Dialysis Quiz <onboarding@resend.dev>")
+# Email via Brevo (HTTPS API). SMTP is blocked on Render, so we use an HTTPS
+# email API. Brevo lets you verify a single sender address and email anyone.
+BREVO_API_KEY = os.environ.get("BREVO_API_KEY", "")
+MAIL_FROM_EMAIL = os.environ.get("MAIL_FROM_EMAIL", "rajkholwal25@gmail.com")
+MAIL_FROM_NAME = os.environ.get("MAIL_FROM_NAME", "Dialysis Quiz")
 
 PG = dict(
     host=os.environ["PGHOST"], port=os.environ.get("PGPORT", "5432"),
@@ -168,16 +169,19 @@ def admin_required(f):
 
 
 def send_email(to, subject, html):
-    """Send an email via Resend's HTTPS API. Returns (ok, message)."""
-    if not RESEND_API_KEY:
-        return False, "Email is not configured (missing RESEND_API_KEY)."
-    payload = json.dumps({"from": RESEND_FROM, "to": [to],
-                          "subject": subject, "html": html}).encode()
+    """Send an email via Brevo's HTTPS API. Returns (ok, message)."""
+    if not BREVO_API_KEY:
+        return False, "Email is not configured (missing BREVO_API_KEY)."
+    payload = json.dumps({
+        "sender": {"name": MAIL_FROM_NAME, "email": MAIL_FROM_EMAIL},
+        "to": [{"email": to}],
+        "subject": subject,
+        "htmlContent": html,
+    }).encode()
     req = urllib.request.Request(
-        "https://api.resend.com/emails", data=payload,
-        headers={"Authorization": f"Bearer {RESEND_API_KEY}",
+        "https://api.brevo.com/v3/smtp/email", data=payload,
+        headers={"api-key": BREVO_API_KEY,
                  "Content-Type": "application/json",
-                 "User-Agent": "dialysis-quiz/1.0",
                  "Accept": "application/json"}, method="POST")
     try:
         with urllib.request.urlopen(req, timeout=20) as r:

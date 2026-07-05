@@ -25,7 +25,8 @@ python app.py
 Open http://127.0.0.1:5000 — you'll land on the login page. Create an account, then log in.
 
 Credentials/config are read from `dialysis_quiz/.env` (not committed). Keys used:
-`PGHOST PGPORT PGUSER PGPASSWORD PGDATABASE SECRET_KEY RESEND_API_KEY RESEND_FROM`.
+`PGHOST PGPORT PGUSER PGPASSWORD PGDATABASE SECRET_KEY BREVO_API_KEY MAIL_FROM_EMAIL
+MAIL_FROM_NAME`.
 
 ## Data & database
 - Source of truth for questions is `questions_json/chNN.json` → loaded into local
@@ -35,20 +36,23 @@ Credentials/config are read from `dialysis_quiz/.env` (not committed). Keys used
   `dialysis_questions`, `dialysis_users`, `dialysis_results`. `app.py` auto-creates/upgrades
   tables and seeds the admin account on startup (`ensure_schema`).
 
-## Email (password reset) — Resend
-Reset emails are sent via **Resend's HTTPS API** (`RESEND_API_KEY`, `RESEND_FROM`).
-We use Resend rather than SMTP because **Render blocks outbound SMTP ports** (25/465/587),
-so Gmail/SMTP is unreachable from Render — an HTTPS email API is required.
+## Email (password reset) — Brevo
+Reset emails are sent via **Brevo's HTTPS API** (`BREVO_API_KEY`, `MAIL_FROM_EMAIL`,
+`MAIL_FROM_NAME`). We use an HTTPS API rather than SMTP because **Render blocks outbound
+SMTP ports** (25/465/587).
 
-A new Resend account is in **test mode** and only delivers to the account owner's email.
-To send reset links to *any* user, verify a domain at https://resend.com/domains and set
-`RESEND_FROM` to an address at that domain (e.g. `Quiz <no-reply@yourdomain.com>`).
+Brevo setup (in the Brevo dashboard):
+1. **Senders** → verify `MAIL_FROM_EMAIL` as a sender (Brevo emails it a confirmation link).
+2. **Security → Authorized IPs** → turn OFF the IP restriction (Render's IP is dynamic),
+   otherwise the API returns 401 "unrecognised IP address".
+
+Once the sender is verified, Brevo can email any recipient (free tier ~300/day).
 
 ## Deploy to Render (free) + keep-awake
 1. Push the `dialysis_quiz/` folder to a GitHub repo.
 2. In Render: **New + → Blueprint**, select the repo (uses `render.yaml`).
 3. Set the secret env vars in the Render dashboard: `PGHOST PGPORT PGUSER PGPASSWORD
-   PGDATABASE RESEND_API_KEY` (SECRET_KEY is auto-generated).
+   PGDATABASE BREVO_API_KEY MAIL_FROM_EMAIL` (SECRET_KEY is auto-generated).
 4. After it's live, copy the URL (e.g. `https://dialysis-quiz.onrender.com`).
 5. In the GitHub repo: **Settings → Secrets and variables → Actions → Variables**, add
    `RENDER_URL` = your Render URL. The workflow in `.github/workflows/keepalive.yml`
