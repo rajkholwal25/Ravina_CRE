@@ -1,0 +1,603 @@
+321
+Hemodiafiltration
+Bernard Canaud, Sudhir Bowry,  
+and Stefano Stuard
+Conventional diffusion-based dialysis modalities, including  high-flux 
+hemodialysis, are limited in their capacity to effectively remove 
+larger-molecular-weight uremic toxins. Hemodiafiltration (HDF) 
+is a modality that enhances convective solute transport of a broad 
+range of uremic toxins known to be involved in uremia (Vanholder, 
+2003) and may provide patients with a number of benefits, including 
+ improved outcomes.
+ I. DIFFUSION VERSUS CONVECTION-BASED CLEARANCES.  Hemodialysis 
+relies on diffusive transport. The rate of diffusion of the molecules 
+is inversely proportional to the square root of their molecular 
+weight. Larger molecules have a relatively low speed of diffu-
+sion and therefore a relatively slow clearance by hemodialysis. 
+ Convective transport depends on solvent drag, where molecules, 
+regardless of their molecular weight, are transported across the 
+membrane by bulk fluid flow. The extent to which the solute is 
+taken across the membrane depends on the so-called sieving 
+coefficient, which varies from 0 to 1.0. The sieving coefficient is 
+different for different solutes and also depends on membrane 
+characteristics. Convective transport markedly increases the re-
+moval of those middle- and large-sized molecules that are poorly 
+cleared by diffusion-based therapies.
+ II. BASICS OF HEMODIAFILTRATION. HD F is a “hybrid” therapy combin-
+ing within the same dialyzer module the two main solute trans-
+port mechanisms described above: diffusion and convection.
+A. Clearance due to diffusion and convection in HDF.  T he total clear -
+ance results from the sum of diffusive and convective clear -
+ances. For detailed equations, see Table 17.1. Convective 
+clearance for a given solute depends on the total ultrafiltered 
+volume and the solute sieving coefficient for the membrane 
+being used. The total ultrafiltered volume is the sum of the 
+fluid removed during the treatment for the purpose of correct-
+ing extracellular fluid overload plus the volume of “replace-
+ment or substitution fluid” infused during the treatment for 
+the purpose of enhancing convection.
+17
+Daugirdas9781451144291-ch017.indd   321 11/10/14   2:29 am
+Part II / Blood-Based Therapies
+322
+FIGURE 17.1 Postdilution online hemodiafiltration.
+The EUDIAL group (Tattersall, 2013) has proposed the following equations to 
+describe clearance with HDF.
+The diffusive component (KD) can be estimated as follows:
+1e
+(1 )( 1/ )e
+D
+[( )/() ]
+bb
+[( )/() ]
+ob db d
+ob db d
+= −
+−×
+×− ×
+×− ×K /Q Q .
+KA QQ QQ
+KA QQ QQ
+where Qb is blood flow rate; Qd is dialysis fluid flow rate; and KoA is solute-specific 
+dialyzer mass transfer-area coefficient.
+The convective component (KC) can be estimated as follows:
+C
+bD
+b
+f= − ××K QK
+Q QS ,
+where Qf is the convective flow rate and S is sieving coefficient.
+The total clearance KT can be estimated as the sum of both components as 
+follows:
+() DFTD C=+ ×KK K
+in which DF stands for dilution factor, depending on how the replacement fluid is 
+infused during the treatment (postdilution, predilution, or mixed dilution).
+Formulas for Solute Clearance with Hemodiafiltration
+17.1
+TABLE
+B. Substitution mode: Postdilution, predilution, and mixed dilution.  In-
+fusing the substitution fluid solution in postdilution mode 
+(Fig.  17.1) means that the fluid is added to the blood flow  
+stream as it exits the hemodialyzer. This is the most efficient 
+option for solute clearances (Fig. 17.1) because there is no di-
+lution of blood in the dialyzer, where convection is occurring. 
+However, when blood flow rate is limited, or when adverse 
+Daugirdas9781451144291-ch017.indd   322 11/10/14   2:29 am
+323Chapter 17 / Hemodiafiltration
+hemorheological conditions (such as high hemoglobin or 
+high protein concentration) are present, or when the rate of 
+substitution fluid infusion needs to be quite high, to avoid he-
+moconcentration in the filter, one can infuse all of the replace-
+ment fluid (predilution mode, Fig. 17.2) or a part of it (mixed 
+dilution, Fig. 17.3) into the blood line upstream to the filter 
+(Pedrini, 2003). The predilution and mixed-dilution modes 
+FIGURE 17.2 Predilution online hemodiafiltration.
+FIGURE 17.3 Mixed-dilution online hemodiafiltration.
+Daugirdas9781451144291-ch017.indd   323 11/10/14   2:29 am
+Part II / Blood-Based Therapies
+324
+Postdilution Predilution Mixed Dilution
+Pros
+•	 High 	solute	clearance	
+and removal of small-, 
+middle-, and high-
+molecular-weight 
+solutes
+•	 Reduced	volume 
+of substitution fluid 
+relative to the other 
+modalities
+•	 Hemodilution
+- Decrease in 
+proteincrit and 
+hematocrit
+-	 Reduced	viscosity	and	
+oncotic pressure
+-	 Reduced	fiber	and	
+membrane fouling
+- Permits HDF with 
+suboptimal blood 
+flow or unfavorable 
+hemorheological 
+conditions
+•	 Facilitates	protein-
+bound solute 
+clearance and 
+removal
+•	 Preserves 	hydraulic	
+and solute membrane 
+permeability (reduces 
+membrane stress)
+•	 Avoids	drawbacks	
+of both post- and 
+predilution methods
+•	 Permits	HDF	under	
+suboptimal blood 
+flow conditions 
+and unfavorable 
+hemorheological 
+conditions
+Cons
+•	 Hemoconcentration
+- Increase in proteincrit 
+and hematocrit
+- Increase in viscosity 
+and oncotic pressure
+- Potential membrane 
+fouling
+•	 Reduced	hydraulic	
+and solute membrane 
+permeability
+- Increase in 
+transmembrane 
+pressure
+-	 Reduced	sieving	
+coefficient
+- Fiber clotting
+- Potential alarms
+- Increased membrane 
+stress
+- Potential albumin 
+leakage
+•	 Reduced	solute	
+clearance and 
+removal of small-, 
+middle-, and high-
+molecular-weight 
+solutes
+•	 Increased	volume	
+of substitution fluid 
+needed (twofold)
+•	 Require 	specific	
+hardware equipment
+- Two infusion pumps
+- Specific blood tubing 
+set
+•	 Requires	specific	
+software and 
+algorithm
+- Accounting for 
+hematocrit and 
+proteincrit changes
+- Adjusting post-/
+preinfusion 
+ratio,	keeping	
+transmembrane 
+pressure in target 
+range
+- Increased volume 
+of substitution fluid 
+(only 1.3-fold)
+Advantages and Shortcomings of Each of HDF Modalities
+17.2
+TABLE
+reduce solute clearance considerably because the concentra -
+tion of toxins in the blood entering  the dialyzer is diluted by 
+the substitution fluid. Advantages and disadvantages of each 
+substitution fluid infusion mode are given in Table 17.2.
+Daugirdas9781451144291-ch017.indd   324 11/10/14   2:29 am
+325Chapter 17 / Hemodiafiltration
+C. T echnical issues
+1. Vascular access.  P atients treated with HDF require a vas-
+cular access capable of delivering an extracorporeal blood 
+flow of at least 350–400 mL/min on a reliable basis.
+2. High-flux hemodiafilter. T he semipermeable membrane should 
+have a high hydraulic permeability (KUF >50 mL per hour 
+per mm Hg), high solute permeability (sieving coefficient for 
+β2-microglobulin >0.6), and an optimal surface area of ex -
+change (1.60–1.80 m2). Further, low internal blood resistance 
+(internal fiber diameter >200 micrometers, sufficient num-
+ber of fibers; length of fiber bundle <30 cm) is highly desirable 
+to reduce hemoconcentration and facilitate ultrafiltration.
+3. Online production of substitution fluid.  O utside of the United 
+States, most dialysis machine manufacturers provide an 
+upgrade option enabling direct production of substitu-
+tion fluid for intravenous infusion from dialysis solution 
+ (Blankestijn, 2010). Such online techniques enable provi-
+sion of virtually unlimited amounts of sterile nonpyrogenic 
+substitution fluid at a relatively low cost. All studies have 
+shown that online production of substitution fluid is a safe, 
+reliable, and economically viable solution for routine clini -
+cal application (Canaud, 2000). This approach has gained 
+the approval of all European regulatory bodies operating 
+under the European Community label.
+The production of sterile and nonpyrogenic dialy-
+sis fluid (ultrapure dialysate) is achieved by “cold steril-
+ization” of the freshly prepared dialysis solution using 
+dedicated sterilizing ultrafilters. The infusion module 
+consists of an adjustable infusion pump that can be set 
+to operate at 0–250 mL/minute. The ultrapure dialysate 
+produced in this manner is then diverted by the infusion 
+pump and passed through a second ultrafilter. The doubly 
+filtered substitution fluid is then infused into the patient’s 
+blood. The sterilizing ultrafilters are incorporated in the 
+dialysis fluid paths and are disinfected in situ within the 
+machine. They need to be replaced periodically accord-
+ing to defined criteria (either number of sessions or dura-
+tion of use) to prevent loss of their endotoxin adsorption 
+capacity.
+4. W ater quality.  W ater used for convection-based therapies 
+needs to comply with very stringent criteria of purity. Such 
+high refinement in water purification has led to the concept 
+of “ultrapure water”—virtually sterile and nonpyrogenic 
+water. The overall target of this concept is to ensure both 
+the chemical and microbiological purity of all fluids used. 
+Technical aspects of water treatment systems and water 
+distribution piping systems have been detailed elsewhere. 
+The basic technical options required to produce ultrapure 
+water consists of a pretreatment system (microfiltration, 
+softeners, activated carbon, downstream microfiltration) 
+that is followed by two reverse osmosis modules in series. 
+Daugirdas9781451144291-ch017.indd   325 11/10/14   2:29 am
+Part II / Blood-Based Therapies
+326
+Ultrapurified water is delivered to dialysis machines via a 
+distribution loop that ensures continuous recirculation of 
+water. As already described, microbiological-quality dialy-
+sis fluid is derived from this chemically pure water by using 
+downstream sterilizing ultrafilters incorporated within the 
+dialysis machine.
+5. Quality assurance and hygienic rules.  A q uality assurance pro-
+cess is required to maintain, on a regular basis, the ultrapu-
+rity of water produced and delivered to all HDF machines. 
+This implies regular disinfection of the water treatment 
+system (chemical and/or thermal) and microbiological 
+monitoring of the produced water (bacteriometry using 
+appropriate methods and assessment of endotoxin con-
+tent based on Limulus amebocyte lysate [LAL] assay). In 
+addition, online HDF machines are submitted to regular 
+disinfection, changes of sterilizing ultrafilters, and micro -
+biological monitoring according to manufacturer recom -
+mendations and local regulations.
+ III. PRESCRIPTION OF HDF . I n chronic kidney disease patients, con-
+ventional HDF treatment schedules are based on three dialysis 
+sessions per week each of 4 hours duration (12 hours per week). 
+A discussion of more frequent or extended treatment schedules is 
+not within the scope of this chapter.
+A. Ultrafiltered volume.  T o derive the full benefits from HDF ther -
+apy, the total ultrafiltered volume in postdilution mode, a 
+surrogate of convective dose, should be targeted to 20–24 L 
+per session (85–90 mL/kg per hour) (Canaud, 2006; Bowry, 
+2013). To achieve in predilution mode an equivalent convec-
+tive dose, the targeted ultrafiltration volume should be mul-
+tiplied by 2, or in mixed-dilution mode, the volume should be 
+ multiplied by 1.3.
+B. Electrolyte composition.  E lectrolyte prescription is crucial, par -
+ticularly when a high volume of replacement fluid is used. The 
+electrolyte composition of dialysis fluids needs to be individu-
+alized on the basis of the clinical situation. Dialysate sodium 
+concentration can be aligned with the patient predialysis 
+plasma sodium concentration to reduce osmotic gradient shift 
+and to facilitate removal of excess sodium. Dialysate potas-
+sium concentration should be preferably between 2 and 4 mM. 
+Dialysate calcium, depending on targeted calcium mass bal-
+ance, should be in the range of 1.25–1.50 mM (2.5–3.0 mEq/L) 
+to ensure a neutral or minimally positive calcium balance. 
+Higher calcium concentration (1.75 mM or 3.5  mEq/L) use 
+should be restricted to severe hypocalcemia and particu-
+lar indications (e.g., hypoparathyroidism, calcimimetic use). 
+The typical dialysate magnesium concentration is 0.50 mM 
+(1.0  mEq/L). Dialysate bicarbonate concentration (mea -
+sured after reaction with acid concentrate) should be pref-
+erably in the range of 28–30 mM, considering the additional 
+Daugirdas9781451144291-ch017.indd   326 11/10/14   2:29 am
+327Chapter 17 / Hemodiafiltration
+alkalinizing effect of the acetate (4–8 mM) or citrate (0.8–1.0 
+mM, 2.4–3.0 mEq/L) that is also commonly present in the final 
+dialysis/replacement solution.
+C. Anticoagulation. HD F may result in higher blood procoagula-
+tory activity when compared with  standard hemodialysis 
+owing to forced ultrafiltration and potential loss of antico -
+agulant. Administration of low-molecular-weight heparin 
+and to a lesser extent unfractionated heparin via the arterial 
+line results in a significant clearance of heparin, because HDF 
+may remove this size range of molecules. Heparin should 
+not be given as a bolus into the hemodiafilter inlet blood 
+line, because up to 50% of unfractionated heparin or 80% of 
+low-molecular-weight heparin can be removed on first pas-
+sage through a high-efficiency HDF setup (this phenomenon  
+occurs only at the “first passage” when heparin is not bound 
+to antithrombin or protein. It is not true afterward when 
+heparin has mixed with the blood and has become bound to 
+antithrombin). Instead, the initial heparin bolus dose should 
+be infused via the venous needle or blood line and allowed to 
+mix with the patient’s blood for at least 3–5 minutes before 
+initiating extracorporeal blood flow. The dose of heparin 
+needed can vary widely from patient to patient and requires 
+a stepwise,  titration-based increase.  Failure to achieve ade-
+quate ultrafiltration or clotting within the circuit usually 
+responds to an increase in the heparin dose. Dose adjustment 
+protocols need to be based on an assessment of the bleed-
+ing risk, patency of the extracorporeal circuit, and type of 
+ heparin used.
+ I V. CLINICAL BENEFITS OF CONVECTIVE THERAPIES
+A. Solute removal
+1. Clearance of middle molecules.  S everal prospective con -
+trolled studies have confirmed enhanced clearance and 
+mass removal of β 2-microglobulin in HDF (30–40% higher 
+than high-flux hemodialysis) accompanied by a 10–20% 
+decline of circulating blood β 2-microglobulin concentra -
+tions (Ward, 2000; Maduell, 2002; Lornoy, 2006; Pedrini, 
+2011). When one acknowledges the predictive value of 
+ β2-microglobulin concentrations on morbidity and mor -
+tality in hemodialysis patients, it appears crucial to target 
+lower circulating levels of this uremic toxin when consider-
+ing dialysis adequacy (Cheung, 2006).
+2. Clearance of phosphate.  I n HDF, phosphate mass removal is 
+enhanced by 15–20% (Lornoy, 2000). In one large study, pre-
+dialysis serum phosphate levels with HDF were reduced by 
+6%, and the percentage of patients reaching target pretreat-
+ment serum phosphorus levels increased from 64  to 74% 
+(Penne, 2010).
+3. Other substances.  H igh removal rates of a number of 
+other substances considered as uremic toxins have been 
+Daugirdas9781451144291-ch017.indd   327 11/10/14   2:29 am
+Part II / Blood-Based Therapies
+328
+documented using HDF, including complement factor D 
+(a  proinflammatory mediator), leptin (16 kDa; effective 
+removal of leptin may favor the improvement of patient 
+nutritional status), FGF23 (30 kDa, mediator implicated in 
+metabolic bone disorders and vascular calcification), and 
+various cytokines, erythropoiesis inhibitors such as 3-car -
+boxy-4-methyl-5-propyl-2-furanpropionic acid (CMPF), im-
+munoglobulin light chains (κ, λ) and circulating advanced 
+glycosylation end products (AGEs), and AGE precursors 
+(Chun-Liang, 2003; Stein, 2001).
+B. Clinical comparisons of HDF versus hemodialysis.
+1. Intradialytic symptoms. W ith HDF, some studies have shown a 
+substantial reduction in intradialytic hypotensive episodes 
+compared with conventional hemodialysis. This benefi -
+cial effect has been ascribed to negative thermal balance 
+(due to infusion of relatively cool replacement fluid), a high 
+sodium concentration of the substitution fluid, and/or 
+removal of vasodilating mediators (Van der Sande, 2001). 
+By reducing repetitive ischemic cardiac insults, HDF may 
+have a cardioprotective effect (Ohtake, 2012). In one study 
+in which HDF was compared with  hemodialysis with simi-
+lar extracorporeal heat transfer rates, no benefit in terms 
+of better blood stability could be demonstrated, illustrat -
+ing the potential importance of the temperature factor 
+(Kumar, 2013).
+2. Residual renal function.  S everal small, observational studies 
+( following fewer than 60 patients) have suggested that HDF 
+contributes to a longer and better preservation of residual 
+renal function than conventional HD (Schiffl, 2013). The 
+larger randomized comparisons of HDF with hemodialysis 
+have not reported on this. If true, the beneficial effect might 
+be due to reduction of microinflammation and to preven-
+tion of repetitive renal ischemic insults due to intradialytic 
+hypotension.
+3. Lower inflammatory profile.  O n the basis of sensitive biomark -
+ers of the acute-phase reaction (C-reactive protein, vari-
+ous interleukins), several prospective studies have shown 
+that the behavior of these markers is reduced with HDF 
+relative to conventional hemodialysis (  Susantitaphong, 
+2013).
+4. Anemia correction and erythropoiesis stimulating agent (ESA) con-
+sumption. V arious meta-  analyses suggest that HDF does 
+not have a major impact on ESA dose (Susantitaphong, 
+2013), although a positive effect should logically be pres-
+ent owing to better removal of erythropoietic inhibitor 
+substances and/or to a reduction of inflammation. In some 
+studies where ESA dose has been reduced, the benefit 
+may be related to the use of advanced dialysis technology 
+with higher-quality water and dialysis solution associated 
+with≈HDF.
+Daugirdas9781451144291-ch017.indd   328 11/10/14   2:29 am
+329Chapter 17 / Hemodiafiltration
+5. Malnutrition. M ost studies did not find significant changes 
+in anthropometric parameters, or protein markers of nu-
+trition (albumin, prealbumin) in patients treated with en -
+hanced convective therapies. Several studies did report an 
+improvement in appetite.
+6. Dyslipidemia and oxidative stress. T he regular use of enhanced 
+convective therapies has been shown to improve lipid pro-
+file, to reduce serum markers of oxidative stress, and to 
+lower serum AGE concentrations. Such beneficial effects 
+may be partly due to the improved overall biocompatibility 
+of the dialysis system preventing inflammation and car -
+bonyl stress, and, more speculatively, to the removal of pro-
+oxidative uremic toxins.
+7. a2-microglobulin amyloidosis.  S everal large cohort studies 
+indicate that the extended use of high-flux membranes 
+and convective therapies have a beneficial impact on the 
+development of β 2-microglobulin amyloidosis, reducing 
+the incidence of carpal tunnel syndrome. This beneficial 
+effect probably results from the regular use of ultrapure 
+water and biocompatible material that prevents inflam -
+mation combined with convective modalities that enhance 
+ β2-microglobulin removal (Schiffl, 2014).
+C. Morbidity and mortality benefits.  T hree randomized trials com -
+paring survival and hospitalizations in patients treated with 
+HDF versus patients treated with either high-flux or low-flux 
+hemodialysis have been performed, each with about 700–900 
+patients. An initial study (Ok, 2013) failed to find a difference 
+in survival, hospitalization rates, or incidence of intradialytic 
+hypotension. The mean ultrafiltration volume (substitution 
+fluid volume plus excess volume removed) in that study was 
+about 19.5 L, and a post hoc analysis showed better survival in 
+patients in whom higher substitution fluid  volumes had been 
+used. Two subsequent prospective randomized trials (CON-
+TRAST and ESHOL) in which the mean ultrafiltration volumes 
+were somewhat higher came to different conclusions. In CON-
+TRAST (Grooteman, 2012), the mean ultrafiltration volume 
+was 21 L, and a substantial lowering of serum β2-microgobulin 
+was achieved relative to the control group that was treated 
+with low-flux hemodialysis. However, there was no difference 
+between HDF and the hemodialysis group in terms of survival 
+or hospitalizations. In the ESHOL study (Maduell, 2013), the 
+mean average ultrafiltration volume was about 23–24 L, and 
+the comparison group was treated with high-flux dialysis. 
+Here, the result was markedly different; the group treated with 
+HDF showed a 30% reduction in all-cause mortality. Thus, the 
+effect of HDF on survival is at present a matter of some un-
+certainty. It remains possible that relatively high doses of HDF 
+are required to show an improvement in mortality. In all three 
+studies, there was a trend for a reduction in cardiovascular 
+mortality in the patients treated with HDF (Mostovaya, 2014).
+Daugirdas9781451144291-ch017.indd   329 11/10/14   2:29 am
+Part II / Blood-Based Therapies
+330
+ V. ISSUES TO BE CONSIDERED WHEN APPLYING CONVECTIVE MODALITIES
+A. Dialysate/water quality. I n case of cold sterilization failure of re-
+placement fluid or inadequate disinfection of HDF machines, 
+the potential adverse effects of bacterial-derived products 
+(endotoxin, peptidoglycans, bacterial DNA) entering the 
+bloodstream is an important consideration. By applying strict 
+hygienic rules of disinfection to the HDF machine, stringent 
+microbial monitoring, and regular replacement of sterilizing 
+ultrafilters, such risks should be minimized. It is good clinical 
+practice to monitor clinical symptomatology of HDF-treated 
+patients and to measure blood CRP using a sensitive assay on 
+a regular basis.
+B. Protein loss.  T he use of highly permeable membranes sub -
+jected to high transmembrane pressure may lead to increased 
+albumin loss. Improvement of membrane manufacturing 
+technology has reduced the sieving coefficient for albumin 
+in commonly used HDF membranes to a very low number 
+(<0.001). Higher-molecular-weight cutoff membranes that do 
+leak albumin are not a good option for HDF and expose the pa-
+tient to risk of significant albumin loss. There is one school of 
+thought that some albumin loss during hemodialysis may be 
+a good thing, as it serves to increase the removal of albumin-
+bound uremic toxins  (Niwa, 2013), but the benefits of such 
+protein-leaking membranes is still being debated.
+C. Deficiency syndromes. E nhanced loss of nutrients is a theoreti-
+cal risk associated with all modalities that use high-flux mem-
+branes. Soluble vitamins, trace elements, amino acids, small 
+peptides, and proteins may be lost. The amount lost per ses-
+sion is low and in most cases can be compensated for by ad-
+equate oral intake (Morena, 2002; Cross and Davenport, 2011). 
+The role of vitamin supplementation in high flux treatments is 
+discussed in Chapters 31 and 34.
+ VI. AL TERNATIVE CONVECTIVE METHODS.  O ther variants include pure 
+hemofiltration, mid-dilution HDF, push/pull HDF, double high-
+flux hemodialysis, and paired HDF. Their description is beyond 
+the scope of the Handbook.
+References and Suggested Reading
+Altieri P , et al. Predilution hemofiltration, the Second Sardinian Multicenter Study: 
+comparisons between hemofiltration and haemodialysis during identical Kt/V 
+and session times in a long-term cross-over study. Nephrol Dial Transplant. 
+2001;16:1207–1213.
+Blankestijn PJ, Ledebo I, Canaud B. Hemodiafiltration: clinical evidence and remaining 
+questions. Kidney Int. 2010;77:581–587.
+Bowry SK, Canaud B. Achieving high convective volumes in on-line hemodiafiltration. 
+Blood Purif. 2013;35(suppl 1):23–28.
+Canaud B, Bowry SK. Emerging clinical evidence on online hemodiafiltration: does 
+volume of ultrafiltration matter? Blood Purif. 2013;35:55–62.
+Canaud B, et al. On-line haemodiafiltration: safety and efficacy in long-term clinical 
+practice. Nephrol Dial Transplant. 2000;15(suppl 1):60–67.
+Canaud B, et al. Mortality risk for patients receiving hemodiafiltration versus hemodi-
+alysis: European results from the DOPPS. Kidney Int. 2006;69:2087–2093.
+Daugirdas9781451144291-ch017.indd   330 11/10/14   2:29 am
+331Chapter 17 / Hemodiafiltration
+Cheung AK, et al. Serum beta-2 microglobulin levels predict mortality in dialysis 
+ patients: results of the HEMO study. J Am Soc Nephrol. 2006;17:546–555.
+Chun-Liang L, et al. Reduction of advanced glycation end products levels by on-line he-
+modiafiltration in long-term hemodialysis patients. Am J Kidney Dis. 2003;42:524.
+Cross J, Davenport A. Does online hemodiafiltration lead to reduction in trace ele-
+ments and vitamins? Hemodial Int. 2011;15:509–14.
+European Best Practice Guidelines (EBPG) Expert Group on Hemodialysis, European 
+Renal Association: Section II. Haemodialysis adequacy. Nephrol Dial Transplant. 
+2002;17(suppl 7):16.
+Grooteman MP , et al; CONTRAST Investigators. Effect of online hemodiafiltration 
+on all-cause mortality and cardiovascular outcomes. J Am Soc Nephrol. 2012;23:  
+1087–1096.
+Jirka T, et al. Mortality risk for patients receiving hemodiafiltration versus hemodialy-
+sis. Kidney Int. 2006;70:1524
+Kumar S, et al. Haemodiafiltration results in similar changes in intracellular water 
+and extracellular water compared to cooled haemodialysis. Am J Nephrol. 2013;  
+37:320–324.
+Locatelli F, Canaud B. Dialysis adequacy today: a European perspective. Nephrol Dial 
+Transplant. 2012;27:3043–3048.
+Locatelli F, et al. Hemofiltration and hemodiafiltration reduce intradialytic hypoten -
+sion in ESRD. J Am Soc Nephrol. 2010;21:1798–1807.
+Lornoy W , et al. On-line haemodiafiltration. Remarkable removal of beta2- microglobulin: 
+long-term clinical observations. Nephrol Dial Transplant. 2000;15(suppl 1):49.
+Lornoy W , et al. Impact of convective flow on phosphorus removal in maintenance 
+hemodialysis patients. J Ren Nutr. 2006;16:47–53.
+Maduell F, et al. Osteocalcin and myoglobin removal in on-line hemodiafiltration ver-
+sus low- and high-flux hemodialysis. Am J Kidney Dis. 2002;40:582–589.
+Maduell F, et al; ESHOL Study Group. High-efficiency postdilution online hemodiafil-
+tration reduces all-cause mortality in hemodialysis patients. J Am Soc Nephrol. 
+2013;24:487–497.
+Morena M, et al. Convective and diffusive losses of vitamin C during haemodiafiltra-
+tion session: a contributive factor to oxidative stress in haemodialysis patients. 
+Nephrol Dial Transplant. 2002;17:422.
+Mostovaya IM, et al on behalf of EUDIAL—an official ERA-EDTA Working Group. 
+Clinical evidence on hemodiafiltration: a systematic review and a meta-analysis. 
+Semin Dial. 2014;27:119–127.
+Nistor I, et al. Convective versus diffusive dialysis therapies for chronic kidney failure: 
+an updated systematic review of randomized controlled trials. Am J Kidney Dis. 
+2014;63:954–67.
+Niwa T. Removal of protein-bound uraemic toxins by haemodialysis. Blood Purif. 
+2013;35 Suppl 2:20–5.
+Ohtake T, et al. Cardiovascular protective effects of on-line hemodiafiltration: com-
+parison with conventional hemodialysis. Ther Apher Dial. 2012;16:181–188.
+Ok E, et al; Turkish Online Haemodiafiltration Study. Mortality and cardiovascular 
+events in online haemodiafiltration (OL-HDF) compared with high-flux di-
+alysis: results from the Turkish OL-HDF Study. Nephrol Dial Transplant. 2013;28:  
+192–202.
+Panichi V , et al; RISCAVID Study Group. Chronic inflammation and mortality in 
+haemodialysis: effect of different renal replacement therapies. Results from the 
+RISCAVID study. Nephrol Dial Transplant. 2008;23:2337–2343.
+Pedrini LA, De Cristofaro V . On-line mixed hemodiafiltration with a feedback for ul-
+trafiltration control: effect on middle-molecule removal. Kidney Int. 2003;64:1505.
+Pedrini LA, et al. Long-term effects of high-efficiency on-line haemodiafiltration on 
+uraemic toxicity: a multicentre prospective randomized study. Nephrol Dial Trans-
+plant. 2011;26:2617–2624.
+Penne EL, et al; CONTRAST Investigators. Short-term effects of online hemodiafiltra-
+tion on phosphate control: a result from the randomized controlled Convective 
+Transport Study (CONTRAST). Am J Kidney Dis. 2010;55:77.
+Schiffl H. Impact of advanced dialysis technology on the prevalence of dialysis-
+related amyloidosis in long-term maintenance dialysis patients. Hemodial Int. 
+2014;18:136–141.
+Schiffl H, Lang SM, Fischer R. Effects of high efficiency post-dilution on-line hemodi-
+afiltration or conventional hemodialysis on residual renal function and left ven -
+tricular hypertrophy. Int Urol Nephrol. 2013;45:1389–1396.
+Daugirdas9781451144291-ch017.indd   331 11/10/14   2:29 am
+Part II / Blood-Based Therapies
+332
+Stein G, et al. Influence of dialysis modalities on serum AGE levels in end-stage renal 
+disease patients. Nephrol Dial Transplant. 2001;16:999.
+Susantitaphong P , Siribamrungwong M, Jaber BL. Convective therapies versus low-flux 
+hemodialysis for chronic kidney failure: a meta-analysis of randomized controlled 
+trials. Nephrol Dial Transplant. 2013;28:2859–2874.
+Tattersall JE, Ward RA; EUDIAL group. Online haemodiafiltration: definition, dose 
+quantification and safety revisited. Nephrol Dial Transplant. 2013;28:542–550.
+Van der Sande FM, et al. Thermal effects and blood pressure response during postdilu-
+tion hemodiafiltration and hemodialysis: the effect of amount of replacement fluid 
+and dialysate temperature. J Am Soc Nephrol. 2001;12:1916.
+van der Weerd NC, et al. Haemodiafiltration: promise for the future? Nephrol Dial 
+Transplant. 2008;23:438–443.
+Vanholder R, et al. Back to the future: middle molecules, high flux membranes, and 
+optimal dialysis. Hemodial Int. 2003;7:52.
+Vilar E, et al. Long-term outcomes in online hemodiafiltration and high-flux hemodi-
+alysis: a comparative analysis. Clin J Am Soc Nephrol. 2009;4:1944–1953.
+Wang AY, et al. Effect of hemodiafiltration or hemofiltration compared with hemodial-
+ysis on mortality and cardiovascular disease in chronic kidney failure: a systematic 
+review and meta-analysis of randomized trials. Am J Kidney Dis. 2014;63:968–78.
+Ward RA, et al. A comparison of on-line hemodiafiltration and high-flux hemodialysis: 
+a prospective clinical study. J Am Soc Nephrol. 2000;11:2344.
+Daugirdas9781451144291-ch017.indd   332 11/10/14   2:29 am

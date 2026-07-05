@@ -1,0 +1,1037 @@
+Chronic kidney disease (CKD) can be defined in a variety of ways. 
+The US Preventive Health Service defines it as decreased kidney 
+function, with size-adjusted estimated glomerular filtration rate 
+(eGFR/1.73 m2) <60 mL/min, or as kidney damage that persists for 
+at least 3 months.
+The management of a patient with CKD involves the follow-
+ing considerations: screening, etiologic diagnosis, and staging of the 
+CKD severity; identifying and managing patients at high risk of pro-
+gression; management of complications of CKD; and preparing the 
+patient for transplantation or renal replacement therapy.
+ I. SCREENING, DIAGNOSIS, AND ST AGING. S creening should include 
+monitoring for the presence of proteinuria and measurement of 
+kidney function. Screening should focus on patients with CKD 
+risk factors. These include diabetes mellitus, hypertension, car -
+diovascular disease, history of smoking, obesity, age >60 years,  
+indigenous racial origin, and a family history of CKD.
+A. Urinary protein measurement.  T he US Preventive Health Service 
+recommends urinary protein measurement as a screening test 
+in all high-risk individuals. The American Diabetes Associa-
+tion (ADA) recommends that an evaluation for microalbumin-
+uria be performed in all type 2 diabetic patients at the time of 
+diagnosis and in all type 1 diabetic patients 5 years after ini-
+tial evaluation. Screening can be done by urine dipstick, but 
+a more reliable method is an early morning measurement of 
+the  albumin-to-creatinine ratio in a spot urine sample. The 
+dipstick used should be able to detect both albumin and evi-
+dence of blood or white cells. If the dipstick test suggests ei-
+ther blood or white cell activity, then a microscopic analysis 
+of the urinary sediment should be performed. Table 1.1 lists 
+several limitations of urine dipstick evaluation. One problem 
+with urine dipstick tests is that they measure concentration 
+only, and can give falsely negative results in a dilute urine. 
+The urine albumin-to-creatinine ratio (UACR) overcomes this 
+problem by looking at the ratio of albumin to creatinine, as 
+both will be affected by dilution, and the effects of dilution will 
+Approach to Patients with 
+Chronic Kidney Disease, 
+Stages 1–4
+Ajay Singh
+1
+2
+Daugirdas9781451144291-ch001.indd   2 09/10/14   1:00 am
+Chapter 1 / Approach to Patients with Chronic Kidney Disease, Stages 1–4 3
+tend to cancel out. In terms of milligrams albumin per gram 
+or millimole of creatinine, normoalbuminuria is defined as 
+<30 mg/g (<3 mg/mmol); microalbuminuria as 30–300 mg/g 
+(3–30 mg/mmol); and macroalbuminuria as >300 mg/g (>30 
+mg/mmol). These cutoffs correspond only roughly to albu-
+minuria measured in terms of milligrams per day (e.g., 30 and 
+300 mg per day), and they assume that 1 g of creatinine is be-
+ing excreted per day. In fact, the average amount of creatinine 
+excreted per day is actually higher, and as discussed elsewhere 
+in this chapter, creatinine excretion is greater in men than in 
+women and in young people versus older people. However, 
+fine-tuning these “cutoff ” UACR ratios is not of great clinical 
+importance, as the risk of increased urine albumin excretion 
+is continuous, and risk is increased even when the albumin 
+excretion is <30 mg per day. The UACR can be done at any 
+time, but a morning test may increase sensitivity and will 
+tend to exclude the relatively benign condition of orthostatic 
+proteinuria, where, proteinuria is present during the day, but 
+ceases while the subject is sleeping supine. A positive UACR 
+test should be repeated at least twice over 3 months to exclude 
+acute kidney injury and to confirm a positive test.
+B. Measurement of kidney function
+1. Glomerular filtration rate (GFR) . The GFR, usually expressed
+in terms of milliliters per minute, is the volume of serum
+cleared by the kidneys per unit of time. The GFR depends
+on body size and age, and so an isolated value of GFR needs 
+to be evaluated in context. One usually normalizes GFR
+to body surface area, specifically, per 1.73 m
+2. In healthy
+subjects, GFR/1.73 m 2 is similar in men and women, but
+GFR/1.73 m 2 declines with age, averaging about 115 mL/
+min in young adults, 100 mL/min in the middle-aged, and
+then dwindling to 90, 80, and 70 mL/min as patient age in-
+creases to 60, 70, and 80 years, respectively.
+Limitations of Urine Dipstick
+1.1
+TABLE
+False Negatives
+Low urine-specific gravity (<1.010)
+High urine salt concentration
+Acidic urine
+Nonalbumin proteinuria
+False Positives
+Presence of blood or semen
+Alkaline urine
+Detergents/disinfectants
+Radiocontrast agents
+High urine-specific gravity (>1.030)
+Daugirdas9781451144291-ch001.indd   3 09/10/14   1:00 am
+Part I / Chronic Kidney Disease Management
+4
+2. Serum creatinine.  Creatinine is produced at a relatively
+constant rate from creatine in muscle and is excreted by
+the kidneys by both glomerular filtration and tubular se-
+cretion. Normal creatinine concentrations range from 0.6
+to 1.0 mg/dL (53–88 mcmol/L) in women and from 0.8
+to 1.3  mg/dL (70–115 mcmol/L) in men. Measurement of
+the serum creatinine concentration is one way to obtain a
+rough estimate of the level of renal function, because as re-
+nal function falls, creatinine will continue to be produced,
+and the serum levels will rise. The relationship between
+serum creatinine and renal function is nonlinear: a dou -
+bling of the serum creatinine will reflect a decline in GFR
+of approximately 50%. Doubling of serum creatinine from
+an initially low value can result in a serum creatinine still
+in the “normal range” despite a substantial loss of kidney
+function. Serum creatinine levels are influenced by muscle
+mass, recent dietary intake, especially of cooked meat, and 
+concomitant drug therapy (e.g., treatment with cimetidine, 
+a drug that blocks tubular secretion of creatinine and which 
+will slightly increase the serum creatinine without any ef-
+fect on GFR). In patients with cirrhosis and ascites, estima-
+tion of renal function from serum creatinine is particularly 
+difficult. There can be a very low creatinine production rate 
+due to extremely low muscle mass (low creatinine produc-
+tion rate), plus it often is difficult to determine ascites-free
+body weight for normalization. In such patients, serum cre-
+atinine levels in the 0.5–1.0-mg/dL range (44–88 mcmol/L), 
+nominally “normal, ” may reflect moderately to markedly
+impaired levels of renal function. Even in patients without
+cachexia, the serum creatinine level must always be inter -
+preted in the context of a patient’s muscle mass. For ex -
+ample, a serum creatinine of 1.3 mg/dL (115 mcmol/L) can 
+represent a creatinine clearance of 94 mL/min in a young
+80-kg male, or a creatinine clearance of only 28 mL/min in
+an elderly, 50-kg female (Macgregor and Methven, 2011).
+Until recently the serum creatinine was measured by a 
+variety of methods, some of which, due to interfering sub-
+stances in the blood, deviated substantially from “true” val-
+ues of creatinine concentration as determined by isotope 
+dilution mass spectrometry (IDMS). In the United States 
+and many other countries, laboratories are now normal -
+izing their measurement methods to IDMS, and the nor -
+malized values tend to be lower than those obtained using 
+other methods.
+3. Creatinine clearance by timed urine collection.  A timed (usu -
+ally 24 hours) urine collection of creatinine excretion can
+be used to calculate the creatinine clearance (C
+Cr), which
+is defined as the volume of serum cleared of creatinine
+per minute. Normal C
+Cr is approximately 95 ± 20 mL/
+min in average-size adult women and 125 ± 25 mL/min in
+ average-size adult men. Patients are instructed to urinate
+Daugirdas9781451144291-ch001.indd   4 09/10/14   1:00 am
+Chapter 1 / Approach to Patients with Chronic Kidney Disease, Stages 1–4 5
+into the toilet on arising, and to mark this time as the start 
+of the collection period. Next they are to pass all of their 
+urine into a container during the ensuing day and night. 
+The following morning, the patients are to urinate into the 
+container one last time, and to note this time as the end 
+of the collection period. By dividing the amount of creati-
+nine in the collected urine by the number of minutes in the 
+collection period (start time to finish time), the laboratory 
+can calculate the per minute rate of creatinine excretion. A 
+sample of blood must be drawn at some point during the 
+urine collection period in which the serum creatinine level 
+is measured. To calculate creatinine clearance, one simply 
+divides the per minute creatinine excretion rate by the se-
+rum value. This gives the volume per minute of serum that 
+had to have been “cleared” of creatinine by the kidneys. 
+For example, if the per minute creatinine excretion rate is 
+1.0 mg/min, and the serum creatinine level is 1 mg/dL, or 
+0.01 mg/mL, then 1.0/0.01 = 100 mL/min of serum were 
+on average being cleared of creatinine by the kidneys dur -
+ing the collection period. Despite the technical challenge 
+of collecting urine properly, timed urine collections are a 
+very useful means of estimating kidney function in cachec-
+tic patients, including those with cirrhosis and ascites, as 
+well as markedly obese patients. The completeness of the 
+urine collection for creatinine can be estimated by com-
+paring the amount of creatinine recovered per day based 
+on the expected daily creatinine excretion rate for a given 
+patient based on sex and body weight. Thus, one expects 
+daily creatinine excretion to be about 15–20 mg/kg lean 
+body weight in women and 20–25 mg/kg lean body weight 
+in men. A more exact estimate of daily creatinine excretion 
+rate can be obtained from the use of an equation incorpo-
+rating body weight, gender, age, and race, such as that de-
+veloped by Ix (2011), and which is detailed as a nomogram 
+in Appendix A. A creatinine excretion rate that is signifi-
+cantly less than expected usually indicates an incomplete 
+urine collection.
+Because creatinine is cleared by the renal tubules in 
+addition to being filtered at the glomerulus, the creatinine 
+clearance is greater than GFR. When GFR/1.73 m 2 is very 
+low (e.g., less than 10–15 mL/min), the proportion of cre-
+atinine excretion due to tubular secretion is high. To get a 
+more reliable estimate of GFR when GFR is low, one can 
+measure the amounts of both creatinine and urea in the 
+timed urine sample, and measure the serum urea level as 
+well as the creatinine level during the collection period. 
+The per minute clearance of urea is calculated in the same 
+way as for creatinine. Urea is filtered at the glomerulus, but 
+then some urea is reabsorbed by the renal tubules, so with 
+urea, the situation is opposite to that with creatinine; due 
+to tubular reabsorption, the urea clearance will be less than 
+Daugirdas9781451144291-ch001.indd   5 09/10/14   1:00 am
+Part I / Chronic Kidney Disease Management
+6
+the GFR, whereas the creatinine clearance will be greater 
+than the GFR. Averaging the urea and creatinine clearances 
+has been shown to give a good estimate of GFR in patients 
+with GFR less than 10–15 mL/min.
+4. Estimated creatinine clearance.  To avoid the inaccuracies and
+inconvenience of timed urine collections, creatinine clear -
+ance (C Cr) can be estimated by using equations that esti-
+mate the per minute creatinine excretion rate based on age, 
+body size, gender, and in some equations, race. One equa-
+tion that has been used for this is the Cockcroft–Gault 
+equation: 
+Estimated C
+Cr =  (140 − Age) × (0.85 if female) × 
+(W in kg) / (72 × SCr in mg/dL)
+or
+Estimated CCr =  (140 − Age) × (0.85 if female) × 
+(W in kg) / (0.814 × SCr in mcmol/L)
+where W is body weight. This equation provides a quick 
+and reasonably accurate estimate of renal function at the 
+bedside. The more recently developed Ix equation (Ix, 
+2011), described in Appendix A, also can be used. The Ix 
+equation was developed and validated in a much larger 
+sample of individuals, including blacks, and was based on 
+modern, IDMS-calibrated laboratory measures of creati -
+nine. Neither equation is very accurate in markedly obese 
+or cachectic patients. Some have suggested that the ac-
+curacy of the Cockcroft–Gault equation can be increased 
+by using actual body weight for cachectic patients, ideal 
+body weight for normal weight patients, and adjusted 
+body weight for markedly obese patients (Brown, 2013). 
+See 
+ Appendix B for more details.
+5. Estimated GFR
+a. Modification of Diet in Renal Disease (MDRD) equation.  This
+equation was derived from the MDRD trial and reports
+eGFR normalized per 1.73 m 2 of body surface area. For
+laboratories using the new IDMS-standardized serum
+creatinine values, the version of the MDRD equation that 
+should be used is what follows:
+eGFR/1.73 m
+2 =  175 × [S Cr] − 1.154 × [Age] − 0.203
+× [0.742 if patient is female] × [1.210 if 
+patient is black].
+The “175” term in this equation replaces the “186” 
+term in the original published equation to account for 
+the slightly lower values of IDMS-standardized cre-
+atinine assays compared to assays used in the MDRD 
+study. When serum creatinine is measured in SI units 
+(mcmol/L), one needs to divide the serum creatinine 
+value by 88.5 to convert to mg/dL prior to inserting into 
+the equation.
+Daugirdas9781451144291-ch001.indd   6 09/10/14   1:00 am
+Chapter 1 / Approach to Patients with Chronic Kidney Disease, Stages 1–4 7
+The MDRD GFR equation differs from the  Cockcroft–
+Gault or Ix estimates of the creatinine clearance in several 
+ways. First, it was developed from data that measured GFR 
+by iothalamate, a substance which is not secreted by the re-
+nal tubules, and so it predicts GFR rather than creatinine 
+clearance. All else being equal, the MDRD equation will 
+give a lower value for renal function (GFR) than creatinine 
+clearance, which includes the tubular secretion component 
+of renal function. Secondly, the MDRD equation is normal-
+ized to body size and is expressed as eGFR/1.73 m
+2 of body 
+surface area. Creatinine clearance, whether obtained from 
+a timed urine sample or from the Ix or Cockcroft–Gault 
+equation, is raw renal creatinine clearance that has not 
+been adjusted for body size.
+b. The CKD-EPI GFR equation.  This is similar to the MDRD
+equation, but this newer equation was validated in a
+larger group of subjects, particularly those with only mild
+degrees of renal impairment. The CKD-EPI equation is
+listed in Appendix A. The differences between the two
+equations are usually not of clinical importance, as they
+occur primarily in patients with GFR levels greater than
+60, where the impact of knowing the precise level of renal 
+function is not particularly large.
+c. Cystatin C equations.  An alternative method of estimating
+GFR is based on equations that use the serum cystatin
+C level. Cystatin C is a 13-kDa protein produced by all
+cells that is filtered by the glomerulus and not reab-
+sorbed. The production rate of cystatin C is not related
+to muscle mass or dietary meat intake, and cystatin
+C–based estimates of GFR correlate better with CKD-
+ 
+related outcomes than creatinine-based equations in
+some studies. Some of the newest efforts to predict GFR
+combine both serum creatinine and cystatin C levels
+(Levey, 2014). Laboratory methods of measuring cystatin 
+C are not commonly standardized (this is in progress,
+similar to IDMS standardization of creatinine), and for
+the moment, cystatin C equations are not in wide use.
+6. Problems with estimated clearances in acute kidney injury. The es-
+timating equations based on either creatinine or cystatin
+are based on steady-state assumptions. If one were to sur -
+gically remove both kidneys, the serum creatinine or cys-
+tatin C levels would begin to rise, but this would take place 
+over a number of days as opposed to immediately. For this
+reason, none of the renal function estimating equations
+described above are useful in situations where the level of
+kidney function is rapidly changing. The timed urine col -
+lection method can be used to measure creatinine clear -
+ance, but then serum creatinine levels need to be measured 
+at both the beginning and end of the collection period,
+and the per minute excretion rate should be divided by the 
+time-averaged serum value in the calculations.
+Daugirdas9781451144291-ch001.indd   7 09/10/14   1:00 am
+Part I / Chronic Kidney Disease Management
+8
+C. Ultrasound and serum electrolytes. I n patients found to have CKD, 
+one should image the kidneys, commonly by ultrasound, to 
+look for structural abnormalities and possible obstruction 
+and measure serum electrolytes (Na, K, Cl, HCO3) to screen for 
+metabolic acidosis and electrolyte disorders, the presence of 
+which may give clues to an underlying renal disease.
+D. Looking for an etiologic diagnosis.  I dentifying the underlying 
+cause of CKD is important. The CKD may be reversible, for 
+example in a patient with bilateral renovascular disease or 
+chronic bladder neck obstruction from prostatic hypertrophy. 
+The cause of CKD may provide insights into the tempo of dis-
+ease progression. Since some etiologies of kidney disease are 
+very likely to recur in a future kidney allograft, identifying the 
+underlying cause of CKD at the outset may help in later man-
+agement decisions.
+E. Staging. T he National Kidney Foundation’s (NKF) Kidney Dis-
+ease Outcome Quality Initiative’s (KDOQI) staging of CKD has 
+been widely adopted. It stages CKD from stage 1 (mildest) to 
+stage 5 (most severe) based on the level of eGFR normalized 
+to body surface area. The two mildest stages—stages 1 and 2, 
+in which the eGFR/1.73 m 2 is still above 60 mL/min—require 
+evidence for kidney damage apart from reduced GFR. Kidney 
+damage can be manifest as pathologic changes on kidney bi-
+opsy; abnormalities in the composition of the blood or urine 
+(proteinuria or changes in the urine sediment examination), 
+or abnormalities in imaging tests. The more severe stages of 
+CKD—stages 3, 4, and 5—are present by definition when the 
+GFR is below 60, 30, and 15, respectively. Some elderly patients 
+with eGFR/1.73 m 2 in the range of 45–60 mL/min may not 
+have obvious kidney damage, nor an increased risk of an ac-
+celerated decline in renal function or mortality. A subsequent 
+staging system developed by KDIGO (Kidney Disease: Improv-
+ing Global Outcomes) partially takes this into account by sub-
+dividing stage 3 CKD into two levels: 3a, with eGFR/1.73 m2 in 
+the range of 45–59 mL/min; and 3b, with GFR levels between 
+30 and 44 mL/min. Also, the newer staging system adds in the 
+degree of proteinuria as measured by the UACR. One newer 
+staging system is shown in Table 1.2, where a low risk of CKD 
+progression and complications is indicated by “green, ” and 
+progressively increased risk is indicated by “yellow, ” “orange, ” 
+and “red. ”
+ II. SLOWING PROGRESSION OF CKD AND OF CARDIOV ASCULAR DISEASE. In 
+CKD patients, risk factors for progression of renal disease are 
+very similar to those associated with increased cardiovascular 
+risk. One purpose of identifying CKD patients early on is to at -
+tempt to correct and/or mitigate such risk factors, in the hopes of 
+both maintaining GFR and minimizing cardiovascular risk. The 
+main risk factors include smoking, high blood pressure, hypergly-
+cemia in diabetic patients (and perhaps in nondiabetic persons 
+as well), elevated blood lipid levels, anemia, and elevated serum 
+Daugirdas9781451144291-ch001.indd   8 09/10/14   1:00 am
+Chapter 1 / Approach to Patients with Chronic Kidney Disease, Stages 1–4 9
+phosphorus levels. Urinary protein excretion and even microal-
+buminuria markedly increase both the risk of progression and 
+cardiovascular complications. Levels of inflammatory mediators, 
+notably C-reactive protein (CRP), are increased in CKD and are 
+associated with increased atherosclerotic risk.
+A. Cessation of smoking.  Smoking is a traditional cardiovascular 
+risk factor, and cessation of smoking is important in terms of 
+limiting cardiovascular risk. Evidence suggests that smoking 
+accelerates the rate of progression of renal disease, emphasiz-
+ing the importance of stopping smoking by CKD patients.
+B. Control of blood pressure and proteinuria. The blood pressure target 
+in CKD patients is evolving. The target blood pressure rec-
+ommended by KDIGO and KDOQI is < 130/80 mm Hg for all 
+patients with kidney disease, those with and those without 
+diabetes, regardless of degree of proteinuria. However, the 
+Eighth Joint National Committee (JNC 8) guidelines published 
+in 2013 recommend a less aggressive blood pressure target of 
+<140/90 mm Hg in patients under age 60 with diabetes and 
+kidney disease. Whether or not hypertension is present, use of 
+an angiotensin-converting enzyme inhibitor/angiotensin re-
+ceptor blocker (ACE-I/ARB) is recommended to slow the rate 
+of progression in patients with diabetic kidney disease as well 
+as in nondiabetic CKD patients with proteinuria (spot urine 
+ protein-to-creatinine ratio of ≥ 200 mg/g). Thiazide diuretics 
+are the diuretic of choice for mild CKD, when SCr is <1.8 mg/dL 
+(<160 mcmol/L). When S Cr is > 1.8 mg/dL (> 160 mcmol/L), 
+Prognosis of CKD by GFR and Albuminuria Categories 
+(KDIGO 2012)1.2
+TABLE
+eGFR 
+category eGFR/1.73 m2
+Normal 
+to mildly 
+increased
+Moderately 
+increased
+Severely 
+increased
+<3 mg/mmol 3–30 mg/mmol >30 mg/mmol
+<30 mg/g 30–300 mg/g >300 mg/g
+1* ≥90 Green Yellow Orange
+2* 60–89 Green Yellow Orange
+3a 45–49 Yellow Orange Red
+3b 30–44 Orange Red Red
+4 15–29 Red Red Red
+5 <15 on 
+dialysis
+Red Red Red
+Colors denote the following: green = no risk if no other markers for kidney disease, no CKD; 
+ yellow = moderately increased risk; orange = high risk; red = very high risk.
+*Not CKD unless hematuria or structural or pathological changes present.  Risk of progression may 
+be moderately high with certain causes of kidney disease.
+Modified from Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO 2012 
+Clinical 
+ Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney 
+Int Suppl. 2013;3:1–150.
+Daugirdas9781451144291-ch001.indd   9 09/10/14   1:00 am
+Part I / Chronic Kidney Disease Management
+10
+a loop diuretic (twice-a-day dosing regimen) is recommended, 
+due to presumed reduced efficacy of thiazides under those cir-
+cumstances; however, lack of efficacy of thiazides in patients 
+with reduced GFR has been challenged. Chlorthalidone, a 
+longer-acting thiazide diuretic, is effective in CKD in causing 
+volume reduction (Agarwal, 2014), to the point that volume 
+depletion–related side effects were observed.
+Doses of ACE-Is/ARBs can be titrated up to minimize pro-
+teinuria, but blood pressure, potassium, and creatinine should 
+be monitored after initiation of therapy and after each dose 
+change. Sodium restriction and use of diuretics increase the 
+antiproteinuric effects of ACE-I/ARB therapy. ACE-Is or ARBs 
+are contraindicated in patients who are pregnant, particularly 
+beyond the first trimester, and in patients with a history of 
+angioedema. For patients with an eGFR/1.73 m 2 of > 15 mL/
+min, one rarely needs to adjust the dose of antihypertensive 
+drugs downward due to impaired renal excretion, although the 
+plasma half-life of some classes of antihypertensives will be in-
+creased (see Chapter 33).
+C. Beta-blockers and aspirin: Cardioprotective effects.  Beta-blockers 
+provide cardioprotection in CKD patients, although they are 
+no longer recommended by JNC 8 (Eight Joint National Com-
+mittee) as a first-line drug in treating hypertension. Aspirin 
+and beta-blocker cardioprotection after myocardial infarction 
+is similar in CKD patients and in patients with normal renal 
+function. Aspirin has been associated with GI bleeding in end-
+stage kidney disease (ESKD) patients. Whether an increased 
+risk is present in stages 1–4 CKD patients is not well known.
+D. Strict glycemic control in diabetic patients with CKD.  St udies in pa -
+tients with either type 1 or type 2 diabetes have demonstrated 
+that tight glycemic control slows the development of micro -
+vascular and macrovascular disease. Tight glycemic control 
+also slows the rate of progression of renal disease in diabetic 
+patients with CKD. The goal of glycemic control should be a 
+HbA1C of <7.0%, although the latest ADA guidelines have em-
+phasized individualization of the HbA1C threshold in patients 
+with type 2 diabetes, and KDIGO guidelines have suggested 
+that this target be relaxed in patients at risk of hypoglycemia 
+or with substantial comorbidities.
+E. Lipid-lowering therapy . E levated levels of low-density lipopro-
+tein (LDL) cholesterol and other lipid marker molecules are 
+a traditional risk factor for cardiovascular disease, and the 
+cardioprotective effects of statins in non-CKD patients, even 
+when cholesterol levels are in the normal range, have been 
+described in several studies. Data in animals suggest that 
+high lipid levels and cholesterol loading may augment glo-
+merular injury. Thus, treatment of CKD patients with statins 
+to reduce lipids may both prevent progression and lower car -
+diovascular risk. The latest American College of Cardiology 
+(ACC) and American Heart Association (AHA) lipid guide-
+lines (Goff, 2014; Stone, 2013), which are targeted toward the 
+Daugirdas9781451144291-ch001.indd   10 09/10/14   1:00 am
+Chapter 1 / Approach to Patients with Chronic Kidney Disease, Stages 1–4 11
+general population and not toward CKD, identify four groups 
+of patients for primary and secondary prevention using 
+statins.
+1. Individuals with clinical atherosclerotic cardiovascular
+disease
+2. Individuals with LDL cholesterol levels of ≥190 mg/dL
+(4.9 mmol/L)
+3. Diabetic patients without cardiovascular disease aged
+ 40–75 years old with LDL cholesterol levels between 70 and 
+189 mg/dL (1.8 and 4.9 mmol/L)
+4. Patients without evidence of cardiovascular disease, and
+LDL cholesterol level 70–189 mg/dL (1.8–4.9 mmol/L),
+and a 10-year risk of atherosclerotic cardiovascular disease 
+≥7.5%.
+CKD patients theoretically could be treated according to 
+the same scheme, although using the AHA risk calculator (see 
+the spreadsheet AHA risk calculator hyperlink attached to the 
+reference listing for Goff [2014]), almost all patients greater 
+than 63 years of age, even with the calculator’s “optimal levels” 
+of systolic blood pressure, LDL and HDL cholesterol, and with-
+out diabetes, will have a 10-year cardiovascular risk > 7.5%, 
+even in the absence of CKD. Thus, these guidelines have been 
+questioned regarding their rather intensive recommendations 
+for use of statin therapy.
+The 2013 KDIGO lipid guidelines recommend that all 
+CKD patients (eGFR/1.73 m
+2 < 60) not on dialysis and ≥50 
+years of age be treated with either a statin or a statin/ ezetimibe 
+combination. Patients ≥50 years of age who have CKD by vir -
+tue of some evidence of renal damage but with eGFR/1.73 m 2 
+≥60, namely stage 1 or 2 CKD, should be offered statin treat-
+ment only, as evidence for the benefits of a statin/ezetimibe 
+combination in this group is not strong. Finally, younger CKD 
+(age 18–49) not on dialysis should be treated with statins if 
+they have known coronary disease, diabetes mellitus, prior 
+ischemic stroke, or a 10-year CV risk greater than 10%. The 
+2013 KDIGO lipid guidelines recommend that statins or the 
+statin/ezetimibe combination should not be initiated rou-
+tinely in dialysis patients, but if the patients are already on 
+these drugs when dialysis is initiated, then these drugs should 
+be continued.
+In nondialysis CKD patients, the benefits of these “lipid-
+lowering” drugs seem to be present regardless of the level of 
+LDL cholesterol, and the current trend is to use overall car -
+diovascular risk and presence of comorbidity rather than LDL 
+cholesterol levels as an indication for treatment. For a more 
+complete discussion of treatment of dyslipidemias in stage 5 
+CKD patients receiving dialysis, see Chapter 38.
+1. Statins: Cardioprotective effects.  The cardioprotective effects
+of statins, well documented in nonuremic patients, are
+controversial in dialysis patients, but effectiveness ap -
+pears to be present in nondialysis CKD, and statin use has
+Daugirdas9781451144291-ch001.indd   11 09/10/14   1:00 am
+Part I / Chronic Kidney Disease Management
+12
+been shown to retard progression of CKD in some studies 
+( Deedwania, 2014).
+a. Dose adjustment for renal insufficiency.  Statins as a class
+have been associated with rhabdomyolysis, and dose re-
+duction in severe renal impairment is recommended for
+some statins (e.g., rosuvastatin) or when statins are used 
+in combination with fibrates (Chapter 38).
+2. Ezetimibe. Ezetimibe is an inhibitor of cholesterol absorp -
+tion, and it decreases plasma levels of LDL cholesterol,
+triglycerides, and apolipoprotein B, and increases plasma
+levels of HDL cholesterol. As with statins, ezetimibe exerts
+significant antiatherogenic, anti-inflammatory, and antiox-
+idant actions (Katsiki, 2013). The SHARP trial, where both
+nondialysis and dialysis patients were given a combination 
+of simvastatin and ezetimibe (Sharp Collaborative Group,
+2010), forms the basis of the recommendation to use ezeti-
+mibe in nondialysis CKD patients. However, it is not clear
+to what extent the benefits found were due to the statin
+(simvastatin) used, and to what extent, if any, the addition
+of ezetimibe contributed to the treatment benefit that was
+found.
+F. Protein restriction. Dietary protein restriction as a treatment to 
+slow CKD progression remains controversial. Evidence from 
+animal studies demonstrates that diets high in protein lead 
+to histologic abnormalities in the kidney and to proteinuria. 
+Furthermore, restricting protein intake slows progression. 
+However, randomized clinical trials suggest that the effects 
+of protein restriction are likely to be small and difficult to 
+achieve. Nonetheless, evidence does support some benefit 
+and indeed meta-analyses suggest that protein restriction is 
+beneficial in reducing CKD progression. One reasonable ap-
+proach is to restrict protein intake to about 0.8 g/kg per day in 
+all patients with CKD. Recommendations differ from various 
+guideline groups regarding the benefits of any further restric -
+tion of 
+ protein intake. The 2000 KDOQI guidelines suggested 
+a restriction to 0.6 g/kg per day in those with a eGFR/1.73 m 2 
+<25  mL/min might be beneficial, but in general, Canadian, 
+many European, and the most recent KDIGO guidelines do 
+not recommend protein restriction below 0.8 g/kg per day 
+at any level of renal function. One needs to apply judgment 
+when restricting protein intake, especially in malnourished 
+CKD patients. Patients who are malnourished at the start 
+of dialysis have a poorer survival than their well-nourished 
+counterparts, and restricting food choices always carries the 
+risk of a worsening nutritional status. Close follow-up for any 
+evidence of malnutrition, either by clinical parameters or by 
+serum albumin, is essential. A dietitian should be 
+ monitoring 
+such  patients carefully. The recommended caloric intake 
+is 30–35 kcal/kg per day. In stage 4 and 5 patients, evidence 
+of failing nutritional status is one key determinant in the 
+ decision to begin dialysis therapy.
+Daugirdas9781451144291-ch001.indd   12 09/10/14   1:00 am
+Chapter 1 / Approach to Patients with Chronic Kidney Disease, Stages 1–4 13
+III. MANAGEMENT OF COMPLICATIONS OF CKD.
+A. Correction of anemia.  Anemia is common in CKD patients. As
+kidney disease advances, the incidence and prevalence of 
+anemia increase. Anemia of CKD is multifactorial in etiology. 
+The most common causes are erythropoietin deficiency, iron 
+deficiency, and inflammation. Observational studies have sug-
+gested an increased risk of cardiovascular and renal complica-
+tions, lower quality of life, and higher mortality with a lower 
+Hb level. However, large randomized clinical trials have dem-
+onstrated that correction of anemia to a Hb level of 13 g/dL 
+(130 g/L) and above with an erythropoiesis-stimulating agent 
+(ESA) is associated with either no benefit or an increased risk 
+of cardiovascular complications, stroke, and/or death. Also, 
+correction of anemia is associated with either no effect on kid-
+ney progression or an increased rate of ESKD. Recent studies 
+have found an association between exposure to high doses of 
+ESA and heightened risk of adverse events. It is not clear to 
+what extent this is causal or a reflection of the relatively high 
+Hb targets used and the known association of ESA resistance 
+with poor outcome. Contemporary approaches to anemia 
+management have now emphasize only partial correction of 
+anemia, using the lowest possible dose of ESA, together with 
+treatment of iron deficiency and inflammation.
+1. Initiation of ESA therapy and Hb thresholds. Diagnosis and man-
+agement of anemia in nondialysis CKD patients is similar
+to that in ESKD and is discussed in detail in Chapter 34.
+The KDIGO guidelines recommend that erythropoietin
+therapy should not be started until the hemoglobin falls
+below 10 g/dL (100 g/L). KDIGO guidelines recommend to
+maintain the hemoglobin level between 9 and 11.5 g/dL (90 
+and 115 g/L), although the US FDA now recommends that
+ESA dosing should be reduced or interrupted if the Hb level 
+exceeds 11 g/dL (110 g/L). Treatment of anemia in CKD
+with ESA therapy should be individualized, and one of the
+main goals should be to reduce the need for blood transfu-
+sion. The KDIGO guidelines counsel caution when treating 
+CKD patients with a history of prior stroke or cancer. Thus, 
+the effective Hb goal, in the United States at least, is 9–11
+g/dL (90–110 g/L). Controversy exists as to whether a Hb
+level of 9 g/dL (90 g/L) may be too low in CKD patients,
+since this might increase use of blood transfusion and ex -
+pose patients eligible for kidney transplantation to the al -
+losensitizing effects of transfused blood.
+2. Types of ESA therapy. There are short-acting and long-acting
+ESAs. Epoetin alfa, approved in 1989 and available world-
+wide, is a short-acting ESA with a half-life when given in-
+travenously of about 8 hours and 16–24 hours when given
+subcutaneously. Several different short-acting ESAs and
+their biosimilars are available in non-US markets. A typi-
+cal dose in a CKD patient might be 4,000–6,000 units sub-
+cut. once a week. The most widely used long-acting ESA is
+Daugirdas9781451144291-ch001.indd   13 09/10/14   1:00 am
+Part I / Chronic Kidney Disease Management
+14
+darbepoetin alfa with a half-life of about 25–50 hours when 
+given IV or subcut., respectively. The optimal administra-
+tion dosing schedule for darbepoetin alfa is once weekly (a 
+typical dose might be 20–30 mcg) or every 2 weeks (40–60 
+mcg) in a stable CKD patient. The dose does not differ if 
+given by intravenous route or subcutaneous route. Outside 
+of the United States, another long-acting ESA has been ap-
+proved and marketed for use; this is Continuous Erythro-
+poietin Receptor Activator (CERA), which is a compound 
+where a water-soluble polyethylene glycol (PEG) moiety 
+has been added to the epoetin beta molecule. The half-life 
+is approximately 136 hours. CERA is recommended to be 
+administered every 2 weeks for correction of anemia and 
+then once a month during the maintenance phase (typical 
+dose 150 mcg/month).
+3. Frequency of administration and route of administration of ESAs. The
+frequency of ESA administration is usually influenced by
+patient convenience and efficacy considerations. In non -
+dialysis CKD patients, longer-acting ESAs are preferred
+because their use is associated with fewer injections and/
+or visits to a doctor’s office for administration in the event
+that a patient cannot self-administer, but the shorter-
+acting ESAs can be dosed once a week, or even once every
+2 weeks, with considerable effect.
+4. Resistant anemia.  Patients may be classified as having ESA
+hyporesponsiveness if they have no increase in Hb level
+from baseline after the first month of ESA treatment on
+appropriate weight-based dosing. The KDIGO Work Group 
+recommends that in these patients, escalation of ESA dose 
+should not go beyond double the initial weight-based dose; 
+further, KDIGO recommends avoiding maximal doses no
+greater than four times initial weight-based appropriate
+doses. In patients with initial or acquired ESA hypore-
+sponsiveness, evaluation for specific causes of poor ESA
+response should be undertaken.
+B. Correction of iron deficiency.  Iron deficiency is present in over 
+40% of patients with CKD not on dialysis and is the most com-
+mon cause of apparent ESA resistance. The causes of iron de-
+ficiency are multifactorial but include reduced absorption of 
+iron; blood loss from either frequent blood draws or occult GI 
+blood loss, and reduced nutritional intake.
+1. Assessment of iron deficiency.  Iron status (iron stores and
+bioavailable iron levels) should be evaluated regularly in
+patients with CKD. Ferritin is an iron storage protein and
+its serum levels reflect iron storage. Serum ferritin is also
+an acute phase reactant, however, and patients with CKD
+often exhibit chronic inflammation; therefore, the ferritin
+level should be interpreted cautiously in inflamed patients. 
+Serum ferritin values are of greatest predictive value for
+iron deficiency when low (<100 ng/mL), but are of limited
+value when elevated. The transferrin saturation (TSAT;
+Daugirdas9781451144291-ch001.indd   14 09/10/14   1:00 am
+Chapter 1 / Approach to Patients with Chronic Kidney Disease, Stages 1–4 15
+serum iron × 100 / total iron binding capacity) is the most 
+common method of measuring iron bioavailability. A TSAT 
+<20% is indicative of low iron availability in CKD. Iron de-
+ficiency can lead to decreased effectiveness of ESA therapy, 
+and iron therapy without ESA therapy is usually unsuccess-
+ful in patients with CKD. Therefore, before initiating ESA 
+therapy, iron status must be addressed.
+2. T reatment of iron deficiency anemia.  O ptions for therapy de -
+pend on the stage of CKD and include oral and intrave-
+nous therapies. Oral iron therapy is the preferred method 
+of treating nondialysis CKD patients and is recommended 
+by KDIGO as an initial approach to treating iron deficiency. 
+Strategies to improve oral iron absorption include only tak-
+ing pills on an empty stomach, avoiding enteric-coated for-
+mulations, and avoiding ingestion of iron with phosphate 
+binders. Intravenous iron may be needed in some patients 
+who either do not respond to oral iron or have large ongoing 
+losses of iron (e.g., chronic bleeding from the gastrointesti-
+nal tract). The use of low-molecular-weight iron therapy is 
+recommended—low-molecular-weight dextrans, ferrous 
+gluconate, iron sucrose, or ferumoxytol. The use of high-
+molecular-weight iron dextran has been associated with 
+an increased risk of severe anaphylaxis.
+Dosing strategies for oral iron aim at providing 
+approximately 200 mg of elemental iron daily, which is 
+equivalent to ferrous sulfate 325 mg three times daily; each 
+pill providing 65  mg of elemental iron. If iron repletion 
+goals are not met after a 1–3 month trial, it is appropri-
+ate to consider intravenous iron supplementation. Intra -
+venous iron can be administered as a single large dose or 
+as repeated smaller doses, depending on the preparation 
+used. The initial course of intravenous iron treatment 
+is to supply approximately 1,000 mg of iron. This may be 
+repeated if the initial course of treatment fails to increase 
+Hb level and/or decrease ESA dose. Iron status should be 
+monitored every 3 months with TSAT and ferritin while a 
+patient is receiving ESA therapy and more frequently when 
+initiating or increasing ESA dose, in the setting of ongoing 
+blood loss, or in circumstances where iron stores are likely 
+to become depleted.
+C. Chronic Kidney Disease-Mineral and Bone Disorder (CKD-MBD).  The 
+pathogenesis of CKD-MBD is depicted in Figure 1.1. The man-
+agement of serum phosphorus, vitamin D, and parathyroid 
+hormone (PTH) levels in dialysis patients is fully discussed 
+in Chapter 36 and only issues pertinent to CKD will be dis-
+cussed here.
+1. Hyperphosphatemia. A h igh serum phosphorus level is a risk 
+factor for mortality and adverse cardiovascular outcomes 
+in both CKD and ESKD patients. Even in nonuremic pa-
+tients, mild serum phosphorus elevation is associated 
+with increased cardiovascular risk. Hyperphosphatemia 
+Daugirdas9781451144291-ch001.indd   15 09/10/14   1:00 am
+Part I / Chronic Kidney Disease Management
+16
+is associated with increased risk of vascular calcification 
+and left ventricular hypertrophy in ESKD. In a number of 
+experimental renal failure models, hyperphosphatemia 
+accelerates progression of renal failure. In such models, 
+hyperphosphatemia stimulates parathyroid gland growth 
+and PTH secretion.
+a. Dietary management.  M anagement includes a careful di -
+etary review to look for abnormally high consumption of 
+foods rich in phosphorus, including dairy products, cer -
+tain colas, and processed meats. A careful review of the 
+diet should be made with the goal of reducing consump-
+tion of foods containing phosphorus additives. Phospho-
+rus intake should be restricted to 800–1,000 mg per day 
+(26–32 mmol per day).
+b. Target serum calcium and phosphorus levels.  P revious rec -
+ommendations to maintain serum calcium at the high 
+end of the normal range to ensure PTH suppression have 
+been replaced by a strategy of keeping serum calcium to-
+ward the middle or low range of normal, to minimize the 
+risk of vascular calcification. Similarly serum phospho -
+rus levels should be maintained within the normal range.
+c. Phosphorus binders.  P hosphorus binders may need to be 
+used. The choices are described in Chapter 36. It is pru-
+dent to restrict total calcium intake in CKD patients to 
+about 1,500 mg per day (37 mmol per day) (KDOQI guide-
+lines are less restrictive and suggest a ceiling of 2,000 
+mg per day [50 mmol per day]), to minimize the risk of 
+vascular calcification. This means that if calcium salts 
+are used as phosphorus binders, they may need to be 
+combined with sevelamer, lanthanum, or, possibly, mag-
+nesium or one of the newer iron-containing phosphorus 
+binders described in Chapter 36. Aluminum-containing 
+FIGURE 1.1 Pathogenesis of MBD.  (Reprinted by permission from Macmillan Publishers 
+Ltd: Nigwekar SU, Tamez H, Thadhani RI. Vitamin D and chronic kidney disease-mineral 
+bone disease (CKD-MBD). Bonekey Rep. 2014;3:498. eCollection 2014.)
+Chronic kidney disease
+Reduced renal phosphorus clearance
+Hyperphosphatemia Increased FGF-23
+Hypocalcemia
+Reduced 
+1,25 (OH)2 vitamin D
+Vitamin D
+resistance
+Secondary hyperparathyroidism
+Calcidiol 
+deficiency
+Daugirdas9781451144291-ch001.indd   16 09/10/14   1:00 am
+Chapter 1 / Approach to Patients with Chronic Kidney Disease, Stages 1–4 17
+phosphorus binders generally should not be used. Use 
+of sevelamer as a phosphorus binder has been shown 
+to perhaps stabilize the rate of vascular calcification in 
+CKD patients and to improve outcomes, although stud-
+ies are not definitive in this area. It has been argued that 
+if there is a beneficial effect, it may be due partially to the 
+lipid-lowering effects of sevelamer, and sevelamer may 
+have additional anti-
+ inflammatory effects and may act 
+to reduce FGF23 ( fibroblast growth factor 23), a com-
+pound found in markedly increased concentration in the 
+blood in CKD that also is associated with poor outcome. 
+This remains an active area of ongoing research.
+2. Serum parathyroid hormone levels. Control of serum PTH levels 
+is important to minimize the degree of parathyroid gland
+hypertrophy and the risk of developing large, nonsuppress-
+ible glands. Hyperparathyroidism is associated with bone
+disease, and PTH may also act as a uremic toxin with ad-
+verse effects on many different organ systems. The control
+of PTH secretion is detailed in Chapter 36.
+a. Frequency of measurement.  The 2009 KDIGO clinical prac-
+tice guidelines for bone metabolism and disease in CKD
+recommend measuring PTH levels, as well as serum cal-
+cium and phosphorus, in all patients with a eGFR/1.73 m
+2
+<60 mL/min, though this may not be necessary in elderly
+patients with eGFR/1.73 m 2 in the 40–65 mL/min range
+and few risk factors for progression of CKD. The frequency 
+of these measurements should be every 12  months for
+eGFR/1.73 m
+2 values between 30 and  45–60 mL/min, and
+every 3 months when eGFR/1.73 m 2 is between 15 and
+30 mL/min.
+b. Target range of PTH. The intact PTH assay has been avail-
+able since 1990 and identifies both 1–84 and 7–84 PTH,
+and most bone biopsy studies on which target levels are
+based have employed this assay. Bio-intact PTH, also
+known as biPTH or whole PTH, is a newer assay that
+responds only to the complete 1–84 PTH molecule, re-
+sulting in PTH values that are about half as high as those 
+measured by the previous “intact” PTH assay. Either
+assay can be employed for diagnosis and treatment of
+hyperparathyroidism in CKD, but the target PTH range
+will depend on the specific assay employed. As CKD
+progresses, the bone becomes resistant to the actions of
+PTH, and so the target PTH range increases. The initial
+KDOQI recommendations proposed various targets for
+PTH at different levels of renal impairment, but given the 
+wide variation among assays and uncertainty of benefit,
+the 2009 KDIGO guidelines simply recommend that for
+nondialysis CKD, assay-specific elevated levels of PTH be 
+investigated, and treated with vitamin D if found to be
+persistently high and/or increasing. In dialysis patients,
+a target PTH range of 2–9 times normal is proposed as
+Daugirdas9781451144291-ch001.indd   17 09/10/14   1:00 am
+Part I / Chronic Kidney Disease Management
+18
+being desirable. In nondialysis CKD patients, the recom-
+mended first-line treatment of elevated PTH levels is rec-
+ommended to be vitamin D therapy.
+3. Serum alkaline phosphatase.  Alkaline phosphatase is present
+in bone and is an indicator of bone turnover rate. When
+high, particularly in combination with elevated serum
+PTH, serum alkaline phosphatase can be a reasonably good 
+indicator of a hyperactive parathyroid gland that needs to
+be suppressed. The current KDIGO CKD-MBD guidelines
+recommend at least yearly monitoring of serum alkaline
+phosphatase levels for stage 4 CKD and higher.
+4. Vitamin D. In CKD patients, 25-D levels are quite low, prob-
+ably because of lack of sunlight exposure and low ingestion 
+of vitamin D–containing foods. As CKD progresses, the
+rate of conversion of 25-D to 1,25-D by the 1-α-hydroxylase 
+enzyme diminishes, and even with adequate 25-D levels,
+serum 1,25-D levels may be reduced and PTH suppression
+may be inadequate. Vitamin D affects multiple organ sys-
+tems; most of these effects are beneficial, although excess
+vitamin D has been associated with vascular calcification
+and even accelerated renal failure. The 1-α-hydroxylase en-
+zyme exists in various tissues, suggesting that it may be im-
+portant to ensure proper levels of both 25-D and 1,25-D in
+the circulation for optimum health. Recently active vitamin 
+D sterol administration has been linked to improved sur -
+vival and improved cardiovascular outcomes in ESKD pa-
+tients. The mechanism of this survival benefit is not clear,
+and these are observational studies that need to be con-
+firmed. In addition, in small randomized trials, vitamin D
+treatment has been shown to reduce proteinuria and slow
+progression of CKD (Palmer and Strippoli, 2013), and vita-
+min D also may improve ESA sensitivity and reduce anemia 
+by reducing inflammation.
+a. Target serum levels of 25-D in CKD.  Serum levels of 25-D
+should be at least 30 ng/mL (75 nmol/L). Low serum lev-
+els of 25-D have been linked to severe muscle weakness
+in elderly nonuremic patients. Because CKD patients
+typically have very low levels of 25-D in the serum, for
+primary prevention, CKD patients should be supple -
+mented with at least 1,000–2,000 IU of cholecalciferol per 
+day, and higher doses may be needed. Cholecalciferol is
+available in the United States only as an over-the-
+ counter 
+vitamin supplement. This level of cholecalciferol supple-
+mentation does not affect GI absorption of calcium or
+phosphorus. To treat a low serum 25-D level, the 2003
+KDOQI bone disease guidelines recommended using
+ergocalciferol, which is slightly less effective than chole-
+calciferol and is available only in relatively large dosage
+forms designed to be prescribed weekly or monthly. Er -
+gocalciferol does have the advantage in the United States 
+of being available as a formulary drug.
+Daugirdas9781451144291-ch001.indd   18 09/10/14   1:00 am
+Chapter 1 / Approach to Patients with Chronic Kidney Disease, Stages 1–4 19
+b. When to use active vitamin D preparations. In the more severe 
+stages of CKD, conversion of 25-D to 1,25-D in the kid-
+ney becomes suboptimal, and even with adequate stores 
+of 25-D, the serum levels of 1,25-D may remain low. In
+such situations, PTH often is not adequately suppressed. 
+In stages 3 and 4 CKD patients in whom serum PTH re-
+mains above the target range despite adequate serum
+levels of 25-D, the use of an active vitamin D preparation 
+is indicated. Choices and doses of active vitamin D prep-
+arations (e.g., calcitriol, paricalcitol, and doxercalciferol) 
+are outlined in Chapter 36. As in ESKD patients, when
+active vitamin D sterols are being given, the dose should 
+be held or reduced in the presence of hypercalcemia or
+hyperphosphatemia.
+5. Cinacalcet. Cinacalcet is a calcimimetic drug that increases 
+the sensitivity of calcium receptors on the parathyroid
+gland to calcium, resulting in a decrease in PTH secretion.
+One main advantage of cinacalcet is its use in patients
+with hyperparathyroidism and high serum calcium and/
+or phosphorus levels, where use of active vitamin D sterols 
+to suppress PTH would be contraindicated (active vitamin
+D sterols increase GI absorption of phosphorus and may
+worsen hyperphosphatemia). Cinacalcet has been shown
+to lower PTH levels in stages 3 and 4 CKD patients. The
+relative roles of cinacalcet versus active vitamin D sterols
+for PTH suppression in predialysis patients are not yet well 
+defined. In the United States, product labeling of cinacalcet 
+states that the drug is not indicated for use in nondialysis
+patients and the 2009 KDIGO CKD-MBD guidelines do not
+recommend its use in the nondialysis CKD population.
+D. Electrolyte and acid–base complications.  A variety of electrolyte 
+abnormalities may become apparent as kidney function de -
+clines. The most prominent is hyperkalemia. Acidosis can 
+also develop although it is generally mild and usually with a 
+normal anion gap until kidney function is severely impaired. 
+Treatment of acute hyperkalemia is discussed elsewhere. In 
+the chronic setting, hyperkalemia usually is the result of rela-
+tively high dietary potassium intake, and especially, binge in-
+take of high potassium foods such as fruits. Hyperkalemia is 
+also more commonly found in patients taking ACE inhibitors 
+or angiotensin receptor blockers or mineralocorticoid recep-
+tor antagonists such as aldosterone. It also is more common in 
+patients taking nonsteroidal anti-inflammatory drugs as well 
+as trimethoprim. The recent development of novel gastroin-
+testinal sorbents to prevent absorption of ingested potassium 
+may allow more widespread use of renin–angiotensin aldoste-
+rone system (RAAS) antagonists.
+Chronic metabolic acidosis results in increased resorp-
+tion of bone, and also has been associated with an increased 
+rate of progression of CKD. The use of sodium bicarbonate 
+is recommended to maintain the serum bicarbonate level at 
+Daugirdas9781451144291-ch001.indd   19 09/10/14   1:00 am
+Part I / Chronic Kidney Disease Management
+20
+≥22 mmol/L. The usual amount of sodium bicarbonate to give 
+is 0.5–1.0 mmol/kg per day. Alkali therapy has been shown to 
+slow the rate of progression of CKD in several small random-
+ized trials.
+ I V. PREP ARING A PATIENT FOR DIALYSIS.  T asks here include preparation 
+for dialysis or preemptive kidney transplantation; placement of 
+vascular or peritoneal access; choosing the most appropriate 
+mode and location of dialysis (i.e., peritoneal dialysis, outpatient 
+hemodialysis center, home hemodialysis); vaccinations; contin -
+ued nutritional management, particularly in terms of phospho -
+rus control; and prevention of fluid overload and hypertension. 
+These are discussed in more detail in the next chapter.
+References and Suggested Readings
+Agarwal R, et al. Chlorthalidone for poorly controlled hypertension in chronic kidney 
+disease: an interventional pilot study. Am J Nephrol. 2014;39:171–182.
+American Diabetes Association. Executive summary: standards of medical care in 
+diabetes—2012. Diabetes Care. 2012;35(suppl 1):S4–S10.
+Brown DL, Masselink AJ, Lalla CD. Functional range of creatinine clearance for renal 
+drug dosing: a practical solution to the controversy of which weight to use in the 
+Cockcroft-Gault equation. Ann Pharmacother. 2013;47:1039–1044.
+Daugirdas JT, ed. Handbook of Chronic Kidney Disease Management. Wolters Kluwer; 
+Philadelphia, 2011.
+Deedwania PC. Statins in chronic kidney disease: cardiovascular risk and kidney func-
+tion. Postgrad Med. 2014;126:29–36.
+Eckardt KU, et al. Evolving importance of kidney disease: from subspecialty to global 
+health burden. Lancet. 2013;382:158–169.
+Fink HA, et al. Screening for, monitoring, and treatment of chronic kidney disease 
+stages 1 to 3: a systematic review for the U.S. Preventive Services Task Force and 
+for an American College of Physicians Clinical Practice Guideline. Ann Intern Med. 
+2012;156:570–581.
+Goff DC Jr, et al. 2013 ACC/AHA Guideline on the Assessment of Cardiovascular 
+Risk: J Am Coll Cardiol. 2014;63;2935–2959. Downloadable CV Risk calculator in 
+Excel format: http://static.heart.org/ahamah/risk/Omnibus_Risk_Estimator.xls. 
+ Accessed April 28, 2014.
+Ix JH, et al. Equations to estimate creatinine excretion rate: the CKD epidemiology 
+collaboration. Clin J Am Soc Nephrol. 2011;6:184–191.
+James PA, et al. 2014 evidence-based guideline for the management of high blood 
+pressure in adults: report from the panel members appointed to the Eighth Joint 
+National Committee (JNC 8). JAMA 2014;311:507–520.
+Katsiki N, et al. Ezetimibe therapy for dyslipidemia: an update. Curr Pharm Des. 
+2013;19:3107–3114.
+Kidney Disease: Improving Global Outcomes (KDIGO) Anemia Work Group. KDIGO 
+Clinical Practice Guideline for Anemia in Chronic Kidney Disease. Kidney Int 
+Suppl. 2012;2:279–335.
+Kidney Disease: Improving Global Outcomes (KDIGO) CKD-MBD Work Group. 
+KDIGO clinical practice guideline for the diagnosis, evaluation, prevention, and 
+treatment of chronic kidney disease-mineral and bone disorder (CKD-MBD). 
+ Kidney Int. 2009;76(suppl 113):S1–S130.
+Kidney Disease: Improving Global Outcomes Lipid Guideline Development Work 
+Group Members. KDIGO Clinical Practice Guideline for Lipid Management in 
+CKD: summary of recommendation statements and clinical approach to the 
+ patient. Kidney Int Suppl. 2013;3:259–305.
+Levey AS, et al. The definition, classification, and prognosis of chronic kidney disease: 
+a KDIGO Controversies Conference report. Kidney Int. 2011;80:7–28.
+Levey AS, Coresh J. Chronic kidney disease. Lancet. 2012;379:165–180
+Levey AS, Inker LA, Coresh J. GFR estimation: from physiology to public health. Am J 
+Kidney Dis. 2014;63:820–834.
+Daugirdas9781451144291-ch001.indd   20 09/10/14   1:00 am
+Chapter 1 / Approach to Patients with Chronic Kidney Disease, Stages 1–4 21
+Macgregor MS, Methven S. Assessing kidney function. In: Daugirdas JT, ed. Hand -
+book of Chronic Kidney Disease Management. Philadelphia, PA: Wolters Kluwer; 
+2011:1–18.
+National Kidney Foundation (NKF). KDOQI clinical practice guidelines for bone me-
+tabolism and disease in chronic kidney disease. Am J Kidney Dis. 2003;42(4 suppl 
+3):S1–S201.
+Palmer SC, Strippoli GF. Proteinuria: does vitamin D treatment improve outcomes in 
+CKD? Nat Rev Nephrol. 2013;9:638–640.
+Ptinopoulou AG, Pikilidou MI, Lasaridis AN. The effect of antihypertensive drugs on 
+chronic kidney disease: a comprehensive review. Hypertens Res. 2013;36:91–101.
+Sharp Collaborative Group. Study of Heart and Renal Protection (SHARP): randomized 
+trial to assess the effects of lowering low-density lipoprotein cholesterol among 
+9,438 patients with chronic kidney disease. Am Heart J. 2010;160:785–794.
+Stone NJ, et al. 2013 ACC/AHA guideline on the treatment of blood cholesterol to 
+reduce atherosclerotic cardiovascular risk in adults: a report of the American Col-
+lege of Cardiology/American Heart Association Task Force on Practice Guidelines. 
+Circulation. 2014;129(25 suppl 2):S1–S45.
+Daugirdas9781451144291-ch001.indd   21 09/10/14   1:00 am

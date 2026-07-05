@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sign up — Dialysis Quiz</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body class="auth-body">
+  <div class="auth-card">
+    <div class="auth-brand"><span class="logo">🩺</span></div>
+    <h1 class="auth-title">Create your account</h1>
+    <p class="auth-sub">Sign up with your email to save your quiz scores.</p>
+    <form id="signupForm" class="auth-form" autocomplete="on">
+      <label class="field">Name <span class="opt">(optional)</span>
+        <input type="text" id="name" placeholder="Your name" autocomplete="name">
+      </label>
+      <label class="field">Email
+        <input type="email" id="email" placeholder="you@example.com" required autocomplete="email">
+      </label>
+      <label class="field">Password
+        <input type="password" id="password" placeholder="At least 6 characters" required autocomplete="new-password" minlength="6">
+      </label>
+      <div id="msg" class="auth-msg hidden"></div>
+      <button type="submit" class="primary big" id="submitBtn">Create account →</button>
+    </form>
+    <p class="auth-switch">Already have an account? <a href="{{ url_for('login_page') }}">Log in</a></p>
+  </div>
+<script>
+const $ = (s) => document.querySelector(s);
+const msg = $("#msg");
+function showMsg(t, ok) { msg.textContent = t; msg.className = "auth-msg " + (ok ? "ok" : "err"); }
+$("#signupForm").addEventListener("submit", async (e) => {
+  e.preventDefault();
+  const btn = $("#submitBtn"); btn.disabled = true;
+  msg.className = "auth-msg hidden";
+  try {
+    const r = await fetch("/api/signup", {
+      method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ name: $("#name").value, email: $("#email").value, password: $("#password").value }),
+    });
+    const data = await r.json();
+    if (r.ok) {
+      showMsg("Account created! Redirecting to login…", true);
+      setTimeout(() => { window.location.href = "/login"; }, 1200);
+    } else { showMsg(data.error || "Sign up failed.", false); btn.disabled = false; }
+  } catch (err) { showMsg("Network error. Is the server running?", false); btn.disabled = false; }
+});
+</script>
+</body>
+</html>

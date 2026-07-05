@@ -1,0 +1,665 @@
+{
+  "chapter": 8,
+  "questions": [
+    {
+      "topic": "Access survival factors",
+      "question": "Once an arteriovenous access is in use, which trio of complications most importantly limits its survival?",
+      "options": {
+        "A": "Stenosis, thrombosis, and infection",
+        "B": "Aneurysm, steal syndrome, and heart failure",
+        "C": "Hematoma, edema, and recirculation",
+        "D": "Hypotension, hypovolemia, and anemia"
+      },
+      "correct": "A",
+      "explanation": "Correct: stenosis, thrombosis, and infection are the three most important factors limiting AV access survival once it is in use, and complications occur more commonly in grafts than in fistulas. The other option sets (aneurysm/steal/heart failure; hematoma/edema/recirculation; hypotension/hypovolemia/anemia) are real access problems but are downstream complications or contributors, not the principal survival-limiting trio. Recognizing this triad frames why surveillance targets stenosis before it progresses to thrombosis or infection."
+    },
+    {
+      "topic": "Graft stenosis cause",
+      "question": "What is the most common cause of stenosis in AV grafts, and where does it typically occur?",
+      "options": {
+        "A": "Atherosclerosis at the arterial anastomosis",
+        "B": "Neointimal hyperplasia at or just distal to the graft-vein anastomosis",
+        "C": "Extrinsic compression at the midgraft",
+        "D": "Calcification of the central veins"
+      },
+      "correct": "B",
+      "explanation": "Correct: neointimal hyperplasia is the most common cause of graft stenosis, characteristically at or just distal to the graft-vein (venous) anastomosis. Atherosclerosis at the arterial anastomosis, midgraft extrinsic compression, and central vein calcification are not the typical dominant graft lesion. This explains why stents and surveillance focus on the venous anastomosis: worsening outflow narrowing there raises intra-access pressure and drops flow toward the thrombosis-prone range."
+    },
+    {
+      "topic": "Fistula stenosis site",
+      "question": "In AV fistulas, which region is a frequent site of stenosis?",
+      "options": {
+        "A": "The central subclavian vein",
+        "B": "The midgraft segment",
+        "C": "The juxta-anastomotic region",
+        "D": "The axillary vein"
+      },
+      "correct": "C",
+      "explanation": "Correct: in fistulas the site and cause of stenosis are more varied than in grafts, but the juxta-anastomotic region near the AV anastomosis is a frequent location. The central subclavian vein, midgraft segment, and axillary vein are not the characteristic fistula site (midgraft applies to grafts). This matters because juxta-anastomotic stenosis is the common culprit in fistula nonmaturation and is usually salvageable with balloon angioplasty."
+    },
+    {
+      "topic": "Surveillance rationale",
+      "question": "Why do guidelines favor detecting and electively treating stenosis before thrombosis occurs?",
+      "options": {
+        "A": "Thrombectomy is cheaper than angioplasty",
+        "B": "Stenosis never recurs after correction",
+        "C": "Doppler ultrasound is contraindicated in grafts",
+        "D": "Access patency is much worse after thrombectomy than after elective angioplasty"
+      },
+      "correct": "D",
+      "explanation": "Correct: guidelines favor pre-emptive detection because access patency is much worse after thrombectomy than after elective angioplasty, so correcting stenosis before the access clots preserves it longer. Thrombectomy is not cheaper, stenosis can recur, and Doppler is not contraindicated in grafts. A nuance from the chapter: surveillance reduces thrombosis in fistulas but has not consistently improved graft outcomes in randomized trials, so the overall benefit remains debated."
+    },
+    {
+      "topic": "Recirculation onset",
+      "question": "At approximately what range of access flow does access recirculation typically begin to appear (barring needle reversal or malposition)?",
+      "options": {
+        "A": "350-500 mL/min",
+        "B": "800-1,000 mL/min",
+        "C": "1,000-1,200 mL/min",
+        "D": "100-200 mL/min"
+      },
+      "correct": "A",
+      "explanation": "Correct: recirculation of dialyzed blood does not appear until access flow falls to near or below the extracorporeal circuit flow, roughly 350-500 mL/min (barring needle reversal or malposition). Higher ranges like 800-1,200 mL/min are typical normal access flows, and 100-200 mL/min is below where trouble would already be obvious. At 350-500 mL/min an AV graft is already at high thrombosis risk, which is why detecting recirculation carries different urgency in grafts versus fistulas."
+    },
+    {
+      "topic": "Recirculation in grafts",
+      "question": "If true recirculation is detected in an AV graft, what does this signify?",
+      "options": {
+        "A": "The graft is functioning normally",
+        "B": "An urgent indication to image the graft and correct the stenosis",
+        "C": "That the needles are simply too small",
+        "D": "That surveillance can be safely discontinued"
+      },
+      "correct": "B",
+      "explanation": "Correct: because recirculation only appears once flow drops to 350-500 mL/min and grafts are already at high thrombosis risk at that flow, detected true recirculation in a graft is an urgent indication to image and correct the stenosis. It does not signify normal function, is not explained away by small needles, and is not a reason to stop surveillance. Contrast this with fistulas, where patency often persists despite recirculation."
+    },
+    {
+      "topic": "Recirculation in fistulas",
+      "question": "When recirculation is present in an AV fistula at flows of 350-500 mL/min, what is the primary value of detecting it?",
+      "options": {
+        "A": "It indicates imminent thrombosis requiring emergency surgery",
+        "B": "It signals central vein stenosis",
+        "C": "It is useful chiefly to prevent underdialysis rather than thrombosis",
+        "D": "It has no clinical value"
+      },
+      "correct": "C",
+      "explanation": "Correct: in fistulas continued patency is likely even when recirculation is present at 350-500 mL/min, so the value of screening is chiefly to prevent underdialysis rather than to warn of imminent thrombosis. It does not mandate emergency surgery, does not specifically indicate central vein stenosis, and is not valueless. This is the key contrast with grafts, where recirculation is an urgent thrombosis warning; multiple collateral outflow veins help fistulas stay open."
+    },
+    {
+      "topic": "Interneedle stenosis",
+      "question": "A stenosis located between the usual needle insertion sites will characteristically produce which finding?",
+      "options": {
+        "A": "Marked recirculation with normal access flow",
+        "B": "High venous pressure with no change in flow",
+        "C": "An audible bruit only during arm elevation",
+        "D": "Reduced access flow to thrombosis-prone levels without detectable recirculation"
+      },
+      "correct": "D",
+      "explanation": "Correct: a stenosis located between the two needle sites reduces access flow to thrombosis-prone levels but does NOT cause recirculation, since it lies outside the recirculation loop. It does not present as marked recirculation with normal flow, unchanged flow with high venous pressure, or an elevation-dependent bruit. Suspect this lesion when measured access flow is below the blood pump rate yet recirculation is undetectable."
+    },
+    {
+      "topic": "Outflow stenosis distribution",
+      "question": "Outflow stenosis occurs much more frequently in which of the following?",
+      "options": {
+        "A": "Grafts, and also is not uncommon in upper arm fistulas",
+        "B": "Forearm fistulas rather than grafts",
+        "C": "Only in the central veins",
+        "D": "Only in radiocephalic fistulas"
+      },
+      "correct": "A",
+      "explanation": "Correct: outflow stenosis occurs much more frequently in grafts than in forearm fistulas, and is also not uncommon in upper arm fistulas. In forearm fistulas neointimal hyperplasia is less and accessory outflow veins compensate for obstruction, so outflow lesions matter less there. It is not confined to central veins or radiocephalic fistulas. Hence outflow-detecting strategies such as venous pressure trending are most useful for grafts and upper arm fistulas."
+    },
+    {
+      "topic": "Physical exam limitation",
+      "question": "Physical examination of an AV access is LEAST effective at detecting which of the following?",
+      "options": {
+        "A": "Isolated inflow stenosis",
+        "B": "Combined inflow and outflow lesions",
+        "C": "Isolated outflow stenosis",
+        "D": "A clotted access"
+      },
+      "correct": "B",
+      "explanation": "Correct: physical examination is useful for isolated inflow or isolated outflow stenosis but is least effective at detecting combined inflow and outflow lesions, because their opposing effects mask each other. A clotted access is actually easy to detect (absent thrill and pulse). Accuracy improves substantially when examiners receive special training. This limitation is why objective surveillance (pressures, flow) complements the physical exam."
+    },
+    {
+      "topic": "Clotted access exam",
+      "question": "On physical examination, a thrombosed (clotted) access is characterized by which finding?",
+      "options": {
+        "A": "A water-hammer, hyperpulsatile pulse",
+        "B": "A continuous high-pitched thrill",
+        "C": "Absence of thrill or bruit with an absent pulse",
+        "D": "Good augmentation on the augmentation test"
+      },
+      "correct": "C",
+      "explanation": "Correct: a thrombosed (clotted) access shows absence of thrill or bruit together with an absent pulse per Table 8.1. A water-hammer hyperpulsatile pulse indicates outflow stenosis; a continuous thrill is the normal finding; and good augmentation implies adequate inflow, not clotting. Absent thrill or bruit is also the key physical sign of thrombosis noted in the thrombosis section, prompting urgent declotting."
+    },
+    {
+      "topic": "Inflow stenosis exam",
+      "question": "Which set of physical findings is characteristic of inflow (arterial) stenosis?",
+      "options": {
+        "A": "Hyperpulsation with high venous pressure and prolonged bleeding",
+        "B": "Arm and shoulder edema with facial swelling",
+        "C": "A continuous thrill with normal collapse on arm elevation",
+        "D": "Feeble pulse (hypopulsation), poor augmentation, and difficulty in cannulation with increased negative arterial pressure"
+      },
+      "correct": "D",
+      "explanation": "Correct: inflow (arterial) stenosis produces a feeble pulse (hypopulsation), poor augmentation on the augmentation test, and difficulty cannulating with increased negative arterial pressure. Hyperpulsation with high venous pressure and prolonged bleeding describes outflow stenosis; arm, shoulder, and facial edema indicates central stenosis; a continuous thrill with normal elevation collapse is normal. These Table 8.1 patterns let the exam localize the lesion."
+    },
+    {
+      "topic": "Ionic dialysance",
+      "question": "As the degree of access recirculation increases, what happens to the in vivo ionic dialysance (with other prescription factors constant)?",
+      "options": {
+        "A": "It decreases",
+        "B": "It increases",
+        "C": "It remains unchanged",
+        "D": "It becomes unmeasurable"
+      },
+      "correct": "A",
+      "explanation": "Correct: ionic dialysance measured by conductivity includes any recirculation component, so as access recirculation rises the in vivo ionic dialysance falls (assuming dialyzer K0A, blood/dialysate flows, and heparin are held constant). It does not increase, stay unchanged, or become unmeasurable. Trending this is useful: a sustained 20% fall in Kt was linked to recirculation in one small fistula series, and machines integrate clearance into a Kt value each session."
+    },
+    {
+      "topic": "Dialysance-to-flow ratio",
+      "question": "A ratio of ionic dialysance to blood flow at or below which value had high sensitivity and specificity for access recirculation?",
+      "options": {
+        "A": "1.0",
+        "B": "0.5",
+        "C": "0.8",
+        "D": "0.25"
+      },
+      "correct": "B",
+      "explanation": "Correct: a ratio of ionic dialysance to blood flow of 0.5 or less had high sensitivity and specificity for access recirculation in one report (Mohan, 2010). Ratios of 1.0, 0.8, or 0.25 were not the reported cutoff. This ratio is attractive because it uses data already gathered each treatment on machines that measure ionic dialysance, giving noninvasive surveillance without added equipment; a sustained 20% Kt fall is a complementary signal."
+    },
+    {
+      "topic": "Venous pressure trend",
+      "question": "A progressive rise in venous pressure over weeks to months during routine hemodialysis is often due to what?",
+      "options": {
+        "A": "Needle reversal",
+        "B": "Improved access flow",
+        "C": "Access outflow stenosis",
+        "D": "Access inflow stenosis"
+      },
+      "correct": "C",
+      "explanation": "Correct: all else equal, a progressive rise in venous pressure over weeks to months usually reflects access outflow stenosis, since venous pressure is a function of needle size, hematocrit (viscosity), and blood flow rate. It is not caused by needle reversal, improved flow, or inflow stenosis (inflow narrowing instead raises pre-pump arterial pressure negatively). Some organizations trend these pressures with software such as Vasc-Alert to flag failing accesses."
+    },
+    {
+      "topic": "Prepump arterial pressure",
+      "question": "Worsening access inflow stenosis will cause the pre-pump arterial pressure to do what?",
+      "options": {
+        "A": "Decrease toward zero",
+        "B": "Remain unchanged",
+        "C": "Fluctuate randomly",
+        "D": "Increase in a negative direction"
+      },
+      "correct": "D",
+      "explanation": "Correct: worsening access inflow stenosis makes the pre-pump arterial pressure increase in a negative direction (more strongly negative), reflecting the greater suction needed to pull blood from a narrowed inflow. It does not move toward zero, stay unchanged, or fluctuate randomly. Trending pre-pump arterial pressure thus complements venous pressure trending, which instead detects outflow stenosis."
+    },
+    {
+      "topic": "Pressure measurement flow",
+      "question": "To increase the sensitivity of intradialytic pressure measurements for detecting stenosis, at what blood flow rate should measurements ideally be taken?",
+      "options": {
+        "A": "A low rate of 200-225 mL/min at the beginning of dialysis",
+        "B": "A high rate of 400-450 mL/min",
+        "C": "The maximum tolerated rate",
+        "D": "Any rate at the end of dialysis"
+      },
+      "correct": "A",
+      "explanation": "Correct: sensitivity of intradialytic pressure measurements for stenosis is highest when taken at the beginning of dialysis with a low blood flow rate of 200-225 mL/min, because at high flow rates much of the resistance comes from the needle rather than the access itself. High rates (400-450 or maximum) and end-of-dialysis timing obscure the access signal. A baseline should be set when the access is first used, and thresholds must be exceeded on three or more successive treatments."
+    },
+    {
+      "topic": "Venous pressure threshold",
+      "question": "For 15G needles, a suggested starting venous pressure threshold that should trigger further evaluation is approximately which value?",
+      "options": {
+        "A": ">200 mm Hg",
+        "B": ">115-120 mm Hg",
+        "C": ">150 mm Hg",
+        "D": ">80 mm Hg"
+      },
+      "correct": "B",
+      "explanation": "Correct: for 15G needles a starting venous pressure threshold to trigger evaluation is about >115-120 mm Hg, while for larger-bore 16G needles it is about >150 mm Hg, since bigger needles lower resistance. >200 or >80 mm Hg are not the cited 15G values. The threshold depends on needle size, blood viscosity, and other factors, and must be exceeded on three or more successive treatments to be significant."
+    },
+    {
+      "topic": "Graft clotting flow",
+      "question": "AV fistulas may stay patent at flows as low as 200 mL/min, whereas AV grafts begin to clot at access flows in which range?",
+      "options": {
+        "A": "200-350 mL/min",
+        "B": "1,000-1,200 mL/min",
+        "C": "600-800 mL/min",
+        "D": "1,500-2,000 mL/min"
+      },
+      "correct": "C",
+      "explanation": "Correct: AV grafts begin to clot at access flows between 600 and 800 mL/min, whereas fistulas can stay patent at flows as low as 200 mL/min. Ranges of 200-350, 1,000-1,200, or 1,500-2,000 mL/min are not the graft clotting threshold. The danger is that 600-800 mL/min often still delivers adequate dialysis and gives few premonitory signs, so grafts can thrombose without warning, which is why flow surveillance is emphasized."
+    },
+    {
+      "topic": "KDOQI flow referral",
+      "question": "Per KDOQI (2006), a patient should be referred for access visualization when access flow is below which absolute threshold?",
+      "options": {
+        "A": "<800 mL/min",
+        "B": "<1,200 mL/min",
+        "C": "<350 mL/min",
+        "D": "<600 mL/min"
+      },
+      "correct": "D",
+      "explanation": "Correct: KDOQI (2006) recommends referral for access visualization if access flow is <600 mL/min, or if flow is <1,000 mL/min and has fallen by >25% over the preceding 4 months. <800 and <1,200 are not the absolute cutoff, and <350 is far too low. Forearm fistulas normally flow 500-800 and grafts about 1,000 mL/min, so these thresholds flag accesses trending toward the thrombosis-prone range."
+    },
+    {
+      "topic": "Saline dilution flow",
+      "question": "To measure access blood flow by the saline dilution (Transonic) technique, what must be done to the blood lines?",
+      "options": {
+        "A": "Reverse the arterial and venous lines so the dialyzer is fed from the downstream needle",
+        "B": "Keep the lines in the normal, non-reversed configuration",
+        "C": "Remove and replace both access needles",
+        "D": "Stop the blood pump entirely"
+      },
+      "correct": "A",
+      "explanation": "Correct: to measure access blood flow by the saline dilution (Transonic) method, the arterial and venous lines are deliberately reversed so the dialyzer is fed from the downstream needle, forcing recirculation whose degree depends on the ratio of access flow to dialyzer flow. Keeping lines normal measures recirculation, not flow; needles are not removed and the pump is not stopped. A saline bolus is then tracked by paired ultrasound sensors, with a non-reversed control run."
+    },
+    {
+      "topic": "Doppler flow site",
+      "question": "Why is access flow by Doppler better measured at the brachial artery than within the access itself?",
+      "options": {
+        "A": "The brachial artery carries no blood to the access",
+        "B": "The brachial artery is a smooth cylinder with nonturbulent flow, giving accurate velocity and diameter measurements",
+        "C": "The access is always inaccessible to ultrasound",
+        "D": "Brachial artery flow is unrelated to access flow"
+      },
+      "correct": "B",
+      "explanation": "Correct: access flow by Doppler is better measured at the brachial artery because it is a smooth cylinder of blood with nonturbulent flow, allowing accurate velocity and diameter measurement; within the access, turbulence and nonuniform diameter cause error. The brachial artery does carry blood to the access, the access is not always inaccessible, and brachial flow is not unrelated to access flow. Apart from about 60-80 mL/min nutrient flow, nearly all brachial artery flow feeds the access, so it correlates very well."
+    },
+    {
+      "topic": "PIA/MAP ratio",
+      "question": "When the PIA/MAP ratio rises above 0.50 in an AV graft, what is the likely status of graft flow?",
+      "options": {
+        "A": "Flow is elevated above 2,000 mL/min",
+        "B": "Flow is normal and no action is needed",
+        "C": "Flow has decreased into the thrombosis-prone range of 600-800 mL/min and stenosis is likely",
+        "D": "Flow cannot be estimated from this ratio"
+      },
+      "correct": "C",
+      "explanation": "Correct: when the PIA/MAP ratio rises above 0.50 in a graft, flow has commonly dropped into the thrombosis-prone 600-800 mL/min range and stenosis is likely. Normally intra-access pressure is <50% of MAP, with most of the drop at the arterial anastomosis. Flow is not elevated, not reassuringly normal, and is estimable from this ratio. In fistulas PIA is lower and may not rise with outflow stenosis (collateral veins), making it less useful there."
+    },
+    {
+      "topic": "MRA indication",
+      "question": "The 2007 European Best Practice guidelines recommend MRA for access imaging particularly in which situation?",
+      "options": {
+        "A": "When only the arterial tree needs visualization",
+        "B": "For routine monthly surveillance",
+        "C": "Only when Doppler is unavailable",
+        "D": "When both the venous and arterial parts of the upper extremity circulation need to be seen"
+      },
+      "correct": "D",
+      "explanation": "Correct: the 2007 European Best Practice guidelines recommend MRA specifically when both the venous and arterial parts of the upper extremity circulation must be seen. It is not reserved for arterial-only imaging, routine monthly surveillance, or only when Doppler is unavailable. A caution: gadolinium can cause nephrogenic systemic fibrosis (reduced with newer agents), and cumulative risk from repeated MRA in dialysis patients is not well quantified."
+    },
+    {
+      "topic": "Intervention threshold",
+      "question": "Percutaneous angioplasty or surgical revision is warranted once a stenosis exceeds what degree, along with one or more clinical criteria?",
+      "options": {
+        "A": "Greater than 50%",
+        "B": "25%",
+        "C": "75%",
+        "D": "85%"
+      },
+      "correct": "A",
+      "explanation": "Correct: intervention (angioplasty or surgical revision) is warranted once a stenosis exceeds 50% AND one or more clinical criteria are present: abnormal physical exam, prior thrombosis, decreasing access flow, or elevated/increasing static intra-access pressure normalized to MAP. 25% is subthreshold; 75% or 85% would delay needed treatment (though residual stenosis >85% after declotting does mandate retreatment). Anatomic stenosis alone without a clinical trigger does not by itself require intervention."
+    },
+    {
+      "topic": "Fistula nonmaturation",
+      "question": "Approximately what proportion of AV fistulas fail to adequately develop and sustain dialysis therapy?",
+      "options": {
+        "A": "1%-5%",
+        "B": "10%-35%",
+        "C": "50%-60%",
+        "D": "70%-90%"
+      },
+      "correct": "B",
+      "explanation": "Correct: a significant number, 10%-35%, of AV fistulas fail to develop adequately and cannot sustain dialysis therapy. 1%-5% understates it, and 50%-60% or 70%-90% overstate it. The main culprits are vascular stenosis and/or a significant accessory vein; stenosis is present in over 70% of nonmaturation cases, usually juxta-anastomotic and salvageable by balloon angioplasty, while accessory veins are treated by ligation, cutdown, or coil obliteration."
+    },
+    {
+      "topic": "Nonmaturation cause",
+      "question": "In fistula nonmaturation, stenosis is present in what proportion of cases and where is it usually located?",
+      "options": {
+        "A": "About 30%, in the central veins",
+        "B": "About 50%, in the midfistula",
+        "C": "Over 70%, usually close to the anastomosis (juxta-anastomotic)",
+        "D": "Under 10%, at the venous outflow"
+      },
+      "correct": "C",
+      "explanation": "Correct: of the two culprits (stenosis and accessory veins), stenosis is present in over 70% of fistula nonmaturation cases and is usually located close to the anastomosis as a juxta-anastomotic lesion. It is not about 30% central, 50% midfistula, or under 10% at the outflow. Percutaneous balloon angioplasty can treat this lesion and salvage most otherwise failed fistulas; accessory veins are handled by ligation, venous cutdown, or coil insertion."
+    },
+    {
+      "topic": "Stent graft patency",
+      "question": "In a randomized trial comparing stent graft versus angioplasty alone for graft-vein anastomosis stenosis, primary patency at 6 months was approximately what for the stent graft?",
+      "options": {
+        "A": "23%",
+        "B": "85%",
+        "C": "100%",
+        "D": "51%"
+      },
+      "correct": "D",
+      "explanation": "Correct: in the Haskal (2010) randomized trial, 6-month primary patency for graft-vein anastomosis stenosis was 51% with a stent graft versus only 23% with angioplasty alone (P<0.001). So 51% is the stent-graft figure; 23% is angioplasty; 85% and 100% are not reported. A stent graft is a metal stent with PTFE covering, used mainly at or just distal to the graft-vein anastomosis and also for pseudoaneurysms; coexisting stenoses can blunt the benefit."
+    },
+    {
+      "topic": "Thrombosis frequency",
+      "question": "Thrombosis is the most common complication of AV access and accounts for what proportion of access loss?",
+      "options": {
+        "A": "80%-85%",
+        "B": "20%-30%",
+        "C": "40%-50%",
+        "D": "95%-100%"
+      },
+      "correct": "A",
+      "explanation": "Correct: thrombosis is the most common complication of AV access and accounts for 80%-85% of access loss. 20%-30% and 40%-50% understate it, and 95%-100% overstates it. Both endovascular (mechanical or pharmacologic) and surgical declotting are effective; with recurrent thrombosis one must look for causes other than stenosis. Because thrombosis dominates access loss, surveillance aims to catch the stenosis that usually precedes it."
+    },
+    {
+      "topic": "Graft patency rates",
+      "question": "The primary patency rate of AV grafts is approximately what at 1 year?",
+      "options": {
+        "A": "70%-80%",
+        "B": "40%-50%",
+        "C": "90%-95%",
+        "D": "10%-20%"
+      },
+      "correct": "B",
+      "explanation": "Correct: the primary patency of AV grafts is around 40%-50% at 1 year and 25% at 2 years. 70%-80% or 90%-95% overstate durability, while 10%-20% understates 1-year patency. These modest figures explain the emphasis on surveillance, timely stenosis correction, and evaluating every patient for a secondary fistula after graft failure. Primary (unassisted) patency differs from the secondary patency achievable with interventions."
+    },
+    {
+      "topic": "Thrombosis mechanism",
+      "question": "Which classic triad describes the primary causes of access thrombosis?",
+      "options": {
+        "A": "Infection, aneurysm, and steal",
+        "B": "Anemia, hypertension, and edema",
+        "C": "Stasis of flow, vascular endothelial injury, and altered blood coagulability",
+        "D": "High flow, high pressure, and high output"
+      },
+      "correct": "C",
+      "explanation": "Correct: the primary causes of access thrombosis are stasis of flow, vascular endothelial injury, and altered blood coagulability (Virchow's triad). Contributing factors include arterial stenosis, fistula compression, cannulation hematoma, hypovolemia, hypotension, and hypercoagulable states. The other option sets (infection/aneurysm/steal; anemia/hypertension/edema; high flow/pressure/output) are not the core triad. On exam, thrombosis shows absent thrill or bruit."
+    },
+    {
+      "topic": "Warfarin risk",
+      "question": "Why is warfarin use particularly problematic in dialysis patients with protein S or C deficiency?",
+      "options": {
+        "A": "It causes hyperkalemia",
+        "B": "It directly thromboses the access",
+        "C": "It has no anticoagulant effect in these patients",
+        "D": "It may precipitate calciphylaxis with skin necrosis"
+      },
+      "correct": "D",
+      "explanation": "Correct: warfarin is problematic because in patients with protein S or C deficiency, and even without it, warfarin may precipitate calciphylaxis with skin necrosis. It does not cause hyperkalemia, does not directly thrombose the access, and does have anticoagulant effect. It is also hard to monitor in patients with lupus anticoagulant because the prothrombin time becomes unreliable. These hazards, plus negative trials, argue against routine anticoagulation for access patency."
+    },
+    {
+      "topic": "Antiplatelet therapy",
+      "question": "A meta-analysis of antiplatelet therapy for preventing vascular access failure concluded what?",
+      "options": {
+        "A": "Antiplatelet agents were useful to protect fistulas but had little or no effect on graft patency",
+        "B": "Antiplatelet agents protect both fistulas and grafts equally",
+        "C": "Antiplatelet agents worsened fistula outcomes",
+        "D": "Antiplatelet agents only benefit grafts"
+      },
+      "correct": "A",
+      "explanation": "Correct: the Palmer (2013) meta-analysis of 21 trials concluded antiplatelet agents help protect fistulas from thrombosis or loss of patency but have little or no effect on AV graft patency. They do not protect both equally, do not worsen fistulas, and are not graft-only. This fits the chapter's separate findings that low-dose warfarin and clopidogrel-plus-aspirin failed in PTFE grafts (with bleeding), whereas dipyridamole reduced thrombosis risk in new PTFE grafts."
+    },
+    {
+      "topic": "Secondary fistula",
+      "question": "For a patient with failed graft thrombectomy and thrombolysis, KDOQI recommends surgical efforts focus on what?",
+      "options": {
+        "A": "Permanent tunneled catheter placement",
+        "B": "Creating a secondary fistula from the venous drainage of the graft",
+        "C": "Placing a thigh graft",
+        "D": "Abandoning access entirely"
+      },
+      "correct": "B",
+      "explanation": "Correct: after failed graft thrombectomy and thrombolysis, surgical efforts should focus on creating a secondary fistula from the venous drainage of the graft, exploiting the venous enlargement and thickening caused by the prior graft; such fistulas are usable much sooner. A tunneled catheter, another thigh graft, or abandoning access are not the KDOQI-preferred path. KDOQI recommends evaluating every patient for a secondary fistula after each episode of graft failure."
+    },
+    {
+      "topic": "Steal syndrome frequency",
+      "question": "Dialysis access-associated hand ischemia (steal syndrome) complicates approximately what percentage of accesses?",
+      "options": {
+        "A": "30%-50%",
+        "B": "50%-70%",
+        "C": "1%-20%",
+        "D": "80%-85%"
+      },
+      "correct": "C",
+      "explanation": "Correct: dialysis access-associated hand ischemia (steal syndrome) complicates 1%-20% of accesses and can cause pain, loss of function, and rarely limb loss. 30%-50%, 50%-70%, and 80%-85% overstate its frequency. The mechanism involves arterial steal from retrograde distal-artery flow toward the access, often compounded by arterial stenosis or small-vessel arteriopathy; risk factors include upper arm access, peripheral arterial disease, and diabetes."
+    },
+    {
+      "topic": "Steal risk factors",
+      "question": "Which of the following is a recognized set of risk factors for access-associated hand ischemia?",
+      "options": {
+        "A": "Forearm access location",
+        "B": "Low access flow",
+        "C": "Young age",
+        "D": "Upper arm access, peripheral arterial disease, and diabetes"
+      },
+      "correct": "D",
+      "explanation": "Correct: recognized risk factors for access-associated hand ischemia are upper arm access, peripheral arterial disease, and diabetes. Forearm access, low access flow, and young age are not the listed risks (upper arm and high-flow access instead raise risk). Steal arises from retrograde flow in the distal artery toward the access plus contributory arterial stenosis or distal small-vessel arteriopathy, so these vascular comorbidities predispose to it."
+    },
+    {
+      "topic": "Steal emergency",
+      "question": "Which finding in a limb bearing an AV access constitutes a surgical emergency?",
+      "options": {
+        "A": "Loss of motor function of the hand",
+        "B": "Coldness alone",
+        "C": "Paresthesias without motor loss",
+        "D": "A 2-cm increase in arm circumference"
+      },
+      "correct": "A",
+      "explanation": "Correct: loss of motor function of the hand is a surgical emergency requiring immediate surgical evaluation for banding or ligation of the access. Coldness alone, paresthesias without motor loss, and a 2-3 cm arm circumference increase are managed expectantly or are benign. Symptoms range from pain, coldness, and paresthesias progressing over days to weeks to cyanosis, pulselessness, ulcers, and gangrene, but motor loss signals critical ischemia demanding urgent action."
+    },
+    {
+      "topic": "DRIL procedure",
+      "question": "The distal revascularization interval ligation (DRIL) procedure involves which of the following?",
+      "options": {
+        "A": "Banding of the venous outflow only",
+        "B": "Ligation of the artery immediately distal to the fistula origin plus a reversed saphenous vein bypass around the ligation",
+        "C": "Complete ligation of the AV fistula",
+        "D": "Converting a side-of-vein to an end-of-vein anastomosis"
+      },
+      "correct": "B",
+      "explanation": "Correct: DRIL requires ligation of the artery immediately distal to the fistula origin plus a reversed saphenous vein bypass from the artery proximal to the fistula to the artery distal to the ligation, restoring distal perfusion while preserving fistula patency. It is not venous banding, not complete fistula ligation, and not a side-to-end vein conversion (that treats hand edema). Success is higher when the bypass origin is well upstream of the anastomosis to avoid the low-pressure zone."
+    },
+    {
+      "topic": "Arm circumference",
+      "question": "A small increase in arm circumference of what magnitude is common after AV access placement, whereas larger increases suggest venous hypertension?",
+      "options": {
+        "A": "5-6 cm",
+        "B": "8-10 cm",
+        "C": "2-3 cm",
+        "D": "Less than 0.5 cm"
+      },
+      "correct": "C",
+      "explanation": "Correct: a small increase of 2-3 cm in arm circumference is common and benign after AV access placement, whereas larger increases indicate venous hypertension, usually from central vein stenosis. 5-6, 8-10, or under 0.5 cm are not the cited normal range. Hand edema after fistula creation can also be treated by converting a side-of-vein to an end-of-vein anastomosis or by selectively tying off affected veins."
+    },
+    {
+      "topic": "Pseudoaneurysm cause",
+      "question": "Pseudoaneurysm of an AV access most commonly results from what?",
+      "options": {
+        "A": "A single central vein stenosis",
+        "B": "Neointimal hyperplasia at the arterial anastomosis",
+        "C": "Systemic hypercoagulability",
+        "D": "Failure to rotate puncture sites, inadequate hemostasis, and blood extravasation after needle removal"
+      },
+      "correct": "D",
+      "explanation": "Correct: pseudoaneurysm (more common than true aneurysm) results from failure to properly rotate puncture sites, inadequate hemostasis, and extravasation of blood after needle removal. It is not caused by central vein stenosis, arterial-anastomotic neointimal hyperplasia, or systemic hypercoagulability. Repeated cannulation in one area damages all wall layers; a downstream stenosis raising intra-access pressure promotes expansion, and these lesions risk infection, thrombosis, and rupture."
+    },
+    {
+      "topic": "Graft pseudoaneurysm treatment",
+      "question": "An AV graft pseudoaneurysm should be treated by resection and interposition graft under which circumstance?",
+      "options": {
+        "A": "When rapidly expanding, >12 mm in diameter, and/or threatening the overlying skin",
+        "B": "In all cases regardless of size",
+        "C": "Only after systemic anticoagulation fails",
+        "D": "Only if it is smaller than 5 mm"
+      },
+      "correct": "A",
+      "explanation": "Correct: an AV graft pseudoaneurysm should be resected with an interposition graft when it is rapidly expanding, >12 mm in diameter, and/or threatening overlying skin viability. Not all cases need surgery, treatment is not withheld pending failed anticoagulation, and small (<5 mm) lesions do not warrant resection. In grafts there is no true luminal expansion; the wall is external soft tissue. The graft should also be revised if the pseudoaneurysm limits puncture sites or causes persistent pain and throbbing."
+    },
+    {
+      "topic": "Aneurysm rupture signs",
+      "question": "Which of the following is a sign of impending aneurysm rupture requiring early intervention?",
+      "options": {
+        "A": "A soft, easily compressible pulse",
+        "B": "Thin and shiny overlying skin, prolonged leaking or ulceration, and rapid enlargement",
+        "C": "A continuous thrill",
+        "D": "Normal skin with slow enlargement"
+      },
+      "correct": "B",
+      "explanation": "Correct: impending rupture is signaled by thin and shiny overlying skin, prolonged leaking or ulceration over the surface, and rapid enlargement of the aneurysm, mandating early intervention to prevent exsanguinating hemorrhage. A soft compressible pulse, a continuous thrill, and normal skin with slow enlargement are reassuring or normal findings. Because rupture can be fatal, these warning signs demand prompt surgical or endovascular attention."
+    },
+    {
+      "topic": "Stent graft indication",
+      "question": "Which situation is clearly an indication for a stent graft to stabilize the access and avoid emergency surgery?",
+      "options": {
+        "A": "A stable small pseudoaneurysm",
+        "B": "Mild recirculation",
+        "C": "Complete rupture from angioplasty-induced vascular injury",
+        "D": "Asymptomatic contrast extravasation"
+      },
+      "correct": "C",
+      "explanation": "Correct: complete rupture from angioplasty-induced vascular injury is a clear indication for a stent graft, which stabilizes the access and avoids emergency surgery. A stable small pseudoaneurysm, mild recirculation, and asymptomatic contrast extravasation do not require it (subclinical extravasation is usually not concerning). Stent grafts also provide rescue in angioplasty-induced rupture generally, though cannulation-through-stent safety and infection risk remain unresolved concerns."
+    },
+    {
+      "topic": "Access infection first sign",
+      "question": "Besides erythema, pain, or purulent exudate, what is often the first sign of an access infection?",
+      "options": {
+        "A": "Sudden loss of thrill",
+        "B": "Aneurysm formation",
+        "C": "Hand ischemia",
+        "D": "Fever with no other obvious source and positive blood cultures"
+      },
+      "correct": "D",
+      "explanation": "Correct: beyond erythema, pain, or purulent exudate, the first sign of access infection is often fever with no other obvious source plus positive blood cultures; an actively infected access should not be used. Sudden loss of thrill, aneurysm formation, and hand ischemia are not the described early infection signs. Blood and any wound cultures should be taken, antibiotics started, and endocarditis or other sources investigated, especially if cultures fail to clear."
+    },
+    {
+      "topic": "Fistula infection treatment",
+      "question": "AV fistula infections are usually staphylococcal and should be treated like subacute endocarditis with how long of antibiotics?",
+      "options": {
+        "A": "6 weeks",
+        "B": "1 week",
+        "C": "2 weeks",
+        "D": "12 weeks"
+      },
+      "correct": "A",
+      "explanation": "Correct: AV fistula infections, though rare, are usually staphylococcal and are treated like subacute endocarditis with 6 weeks of antibiotics. One week and two weeks are too short; twelve weeks is not specified. Diagnosis rests on local signs of inflammation; prompt antistaphylococcal therapy after local and blood cultures is often curative, and a septic embolus during therapy warrants removal of the fistula."
+    },
+    {
+      "topic": "Graft infection rate",
+      "question": "Graft infection eventually occurs in approximately what proportion of grafts placed?",
+      "options": {
+        "A": "Less than 1%",
+        "B": "5%-20%",
+        "C": "30%-40%",
+        "D": "50%-60%"
+      },
+      "correct": "B",
+      "explanation": "Correct: graft infection eventually occurs in 5%-20% of grafts placed, with thigh grafts having an even higher rate. <1% understates it, and 30%-40% or 50%-60% overstate it. Prophylactic antimicrobials are advised when graft patients undergo bacteremia-inducing procedures such as dental extraction or genitourinary manipulation. Most infections are staphylococcal, but gram-negatives like E. coli occur, especially in thigh grafts."
+    },
+    {
+      "topic": "Graft infection organisms",
+      "question": "Initial empiric antibiotic therapy for a suspected AV graft infection should cover which organisms?",
+      "options": {
+        "A": "Only gram-positive staphylococci",
+        "B": "Only anaerobes",
+        "C": "Gram-negative and gram-positive organisms as well as Enterococcus",
+        "D": "Only fungi"
+      },
+      "correct": "C",
+      "explanation": "Correct: initial empiric therapy for a suspected graft infection should cover gram-negative and gram-positive organisms as well as Enterococcus. Covering only gram-positive staphylococci, only anaerobes, or only fungi would be inadequate. Although most graft infections are staphylococcal, gram-negatives such as E. coli are cultured especially from thigh grafts, so broad initial coverage is chosen pending culture results; local infection may be resected while extensive infection needs complete excision."
+    },
+    {
+      "topic": "Early graft infection",
+      "question": "A graft that becomes infected within how many days of placement probably should be removed?",
+      "options": {
+        "A": "90 days",
+        "B": "14 days",
+        "C": "7 days",
+        "D": "30 days"
+      },
+      "correct": "D",
+      "explanation": "Correct: a graft that becomes infected within 30 days of placement probably should be removed, since early infection of prosthetic material is difficult to eradicate. 90, 14, and 7 days are not the cited cutoff. Graft infection can also cause hemorrhage from rupture, and septicemia may occur without local signs, in which case a technetium-labeled leukocyte scan can help localize it (remove blood-soaked dressings first to avoid a false-positive result)."
+    },
+    {
+      "topic": "Silent graft infection",
+      "question": "A silent infection in an old thrombosed AV graft can be a cause of which of the following?",
+      "options": {
+        "A": "Elevated serum C-reactive protein levels and ESA resistance",
+        "B": "Steal syndrome",
+        "C": "Central vein stenosis",
+        "D": "High-output heart failure"
+      },
+      "correct": "A",
+      "explanation": "Correct: a silent infection in an old thrombosed AV graft can cause elevated serum C-reactive protein and erythropoiesis-stimulating agent (ESA) resistance, often with few local signs. It is not a cause of steal syndrome, central vein stenosis, or high-output heart failure. This raises the question of electively removing abandoned grafts, but because removal often needs extensive tissue dissection, the chapter says the issue needs further study before a blanket recommendation."
+    },
+    {
+      "topic": "CHF and access location",
+      "question": "Congestive heart failure related to an AV access is unusual with a forearm access but may occur with what?",
+      "options": {
+        "A": "Any radiocephalic fistula",
+        "B": "Upper arm or femoral fistulas, particularly with coexistent heart disease",
+        "C": "A clotted access",
+        "D": "A well-functioning low-flow forearm graft"
+      },
+      "correct": "B",
+      "explanation": "Correct: access-related congestive heart failure is unusual with a forearm access but may occur with upper arm or femoral fistulas, particularly when heart disease coexists. It is not typical of any radiocephalic fistula, a clotted access, or a low-flow forearm graft. Access closure has been associated with reduced left ventricular mass and improved hypertrophy, and a high-flow access can aggravate pulmonary hypertension via increased pulmonary arterial flow."
+    },
+    {
+      "topic": "High-output heart failure",
+      "question": "There is a higher risk of high-output heart failure when access flow exceeds what percentage of cardiac output?",
+      "options": {
+        "A": "5%",
+        "B": "10%",
+        "C": "20%",
+        "D": "50%"
+      },
+      "correct": "C",
+      "explanation": "Correct: the risk of high-output heart failure rises when access flow exceeds 20% of cardiac output; upper arm access and access flow >2,000 mL/min further increase this risk. 5%, 10%, and 50% are not the cited threshold. Banding to reduce flow is considered, ideally after cardiac studies show marked cardiac-output change with transient access occlusion. Anemia, vasodilators without beta-blockade, and volume overload are correctable contributors to check first."
+    },
+    {
+      "topic": "High cardiac output workup",
+      "question": "In a dialysis patient with unexplained high cardiac output, which reversible cause should be considered and corrected first?",
+      "options": {
+        "A": "Access thrombosis",
+        "B": "Central vein stenosis",
+        "C": "Pseudoaneurysm",
+        "D": "Anemia"
+      },
+      "correct": "D",
+      "explanation": "Correct: in unexplained high cardiac output, one should first consider and correct anemia. Access thrombosis, central vein stenosis, and pseudoaneurysm are not the reversible metabolic cause to address first. Other correctable causes include use of vasodilators such as minoxidil or hydralazine without concomitant beta-blockade, and volume overload, which is common in dialysis patients and must be considered in anyone with heart-failure signs before attributing them to the access."
+    },
+    {
+      "topic": "Angioplasty complication",
+      "question": "What is the most frequent procedure-related complication of access angioplasty, and roughly how often does it occur?",
+      "options": {
+        "A": "Vessel rupture from contrast extravasation and/or bleeding, in about 2%",
+        "B": "Stroke, in about 10%",
+        "C": "Myocardial infarction, in about 25%",
+        "D": "Limb loss, in about 50%"
+      },
+      "correct": "A",
+      "explanation": "Correct: the most frequent procedure-related complication of access angioplasty is vessel rupture, evidenced by contrast extravasation and/or bleeding, occurring in about 2%. Stroke, myocardial infarction, and limb loss at the quoted high rates are not described. Severity ranges from clinically insignificant subclinical extravasation to large hematomas from near-total vein rupture; an endovascular stent can be very helpful to stem bleeding in severe cases."
+    },
+    {
+      "topic": "Distal embolization",
+      "question": "If distal embolization of thrombus into an artery occurs during thrombectomy, what is the appropriate management?",
+      "options": {
+        "A": "Observation only",
+        "B": "Immediate removal of the thrombus using an embolectomy catheter",
+        "C": "Systemic thrombolysis for 48 hours",
+        "D": "Immediate access ligation"
+      },
+      "correct": "B",
+      "explanation": "Correct: distal embolization of thrombus into an artery during thrombectomy should be managed by immediately removing the thrombus with an embolectomy catheter. Observation, 48 hours of systemic thrombolysis, and immediate access ligation are not the recommended response. This is one of the percutaneous-intervention complications alongside vessel rupture and pulmonary embolism (a particular risk during thrombectomy, though clinically significant PE is infrequent)."
+    },
+    {
+      "topic": "CQI data collection",
+      "question": "A continuous quality improvement vascular access program should collect which data?",
+      "options": {
+        "A": "Only patient satisfaction scores",
+        "B": "Only the total number of dialysis sessions",
+        "C": "Infection and thrombosis rates, number and type of accesses and interventions, and time to access failure",
+        "D": "Only dialyzer clearance values"
+      },
+      "correct": "C",
+      "explanation": "Correct: a CQI vascular access program should collect the number and type of vascular accesses, infection and thrombosis rates, number and type of interventions performed, and time to access failure. Patient satisfaction alone, session counts alone, or dialyzer clearance values alone are insufficient. A vascular access team (nephrologists, surgeons, interventionists, a coordinator, and dialysis staff) reviews these data against KDOQI goals to favor salvage over replacement and minimize catheter use."
+    }
+  ]
+}

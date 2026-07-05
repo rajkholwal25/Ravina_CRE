@@ -1,0 +1,1097 @@
+535
+ I. CAUSES OF PROTEIN ENERGY W ASTING (PEW) IN CKD PATIENTS.  
+ Metabolic and nutritional derangements are common in patients 
+with chronic kidney disease (CKD), especially in patients on 
+maintenance dialysis therapy (Ikizler, 2013). These derange-
+ments are called protein energy wasting (PEW) of CKD. Patients 
+with this syndrome have increased rates of hospitalization and 
+mortality (Kalantar-Zadeh, 2004). There are multiple etiologies of 
+PEW (Table 31.1), including decreased nutrient intake; metabolic 
+derangements such as metabolic acidosis, dialysis-associated 
+catabolism, uremic toxins; and comorbid medical conditions 
+such as diabetes mellitus and cardiovascular disease (Carrero, 
+2013). PEW affects approximately one-third of hemodialysis and 
+peritoneal dialysis patients (Pupim, 2006). The sequelae of PEW 
+in kidney disease are numerous and include malaise, fatigue, poor 
+rehabilitation, impaired wound healing, increased susceptibility 
+to infection, increased cardiovascular disease risk, and increased 
+rates of hospitalization and mortality. In most instances, serum 
+levels of inflammatory markers are increased, and numerous 
+causes of chronic inflammation may be present (Kaysen, 2001). 
+Proinflammatory cytokines can cause anorexia with suppres -
+sion of nutrient intake (Kaizu, 2003). Chronic inflammation also 
+is associated with cytokine-mediated hypermetabolism and 
+resistance to anabolic actions of insulin leading to increased net 
+protein catabolism (Siew, 2010). Disruption of the growth hor -
+mone (GH) and insulin-like growth factor-1 (IGF-1) axis leads 
+to decreased protein synthesis. Increased leptin concentrations 
+may worsen anorexia due to central effects.
+A. Obesity .  Concern has always focused on wasting in CKD 
+patients, because the death rate increases steeply with evi-
+dence of skeletal muscle loss, weight that is below peer weight, 
+or body mass index. There is, however, an increasing incidence 
+of obesity among patients initiating maintenance dialysis ther-
+apy (Kramer, 2006). Although obesity has traditionally been 
+defined in terms of body mass index, some dialysis patients 
+who are normal or overweight by BMI have been found to be 
+obese as defined by percent body fat (Gracia-Iguacel, 2013). 
+Studies of the effect of obesity on survival in dialysis patients 
+Nutrition
+Michael V. Rocco and  
+T. Alp Ikizler31
+Daugirdas9781451144291-ch031.indd   535 09/10/14   1:38 am
+Part IV / Clinical Problem Areas
+536
+are difficult to interpret because of the observational nature of 
+the studies, differences in analysis techniques and definitions 
+of obesity, and confounding (Stenvinkel, 2013).
+II. NUTRITIONAL ASSESSMENT
+A. Patient interview and physical examination.  Symptoms of nausea,
+vomiting, and anorexia, as well as recent changes in body 
+weight, should be carefully evaluated to ascertain cause. Non-
+uremic causes of changes in weight and/or food intake must 
+be kept in mind, including severe congestive heart failure, dia-
+betes, various gastrointestinal diseases, and depression. Phos-
+phate binders or oral iron preparations can cause dyspepsia 
+and other gastrointestinal symptoms.
+B. Assessment of food intake.  Patient recall of food intake should 
+be determined on both dialysis and nondialysis days, 
+ performed biannually (Kopple, 2001); intake on dialysis 
+days typically is about 20% lower (Burrowes, 2003). Food fre-
+quency 
+ questionnaires may also provide useful information 
+(Kalantar-Zadeh, 2002).
+Decreased nutritional intake
+Overzealous dietary restrictions
+Delayed gastric emptying and diarrhea
+Intercurrent illnesses and hospitalizations
+Decrease in food intake on hemodialysis days
+Medications causing dyspepsia (phosphate binders, iron preparations)
+Suppression of oral intake by peritoneal dialysate glucose load
+Inadequate dialysis
+Monetary restrictions
+Inability to prepare or acquire food due to physical limitations
+Poor dentition or severe gum disease
+Neurologic disorders that impair eating/swallowing
+Depression
+Altered sense of taste
+Increased losses
+Gastrointestinal blood loss (100 mL blood = 14–17 g protein)
+Intradialytic nitrogen losses (hemodialysis, 6–8 g amino acid per procedure; 
+peritoneal dialysis, 8–10 g protein per day)
+Severe proteinuria (>8–10 g/d)
+Increase in protein catabolism
+Intercurrent illnesses and hospitalizations
+Other medical comorbidities, including diabetes mellitus, cardiovascular disease, 
+infection
+Metabolic acidosis (promotes protein catabolism)
+Catabolism associated with hemodialysis (due to activation of proinflammatory 
+cytokines)
+Dysfunction of the growth hormone–insulin growth factor endocrine axis
+Insulin resistance
+Catabolic effects of other hormones (parathyroid hormone, cortisol, glucagon)
+Causes of Kidney Disease Wasting
+31.1
+TABLE
+Daugirdas9781451144291-ch031.indd   536 09/10/14   1:38 am
+Chapter 31 / Nutrition 537
+C. Nutritional screening tools:  A variety of screening tools are avail-
+able, such as the Malnutrition Universal Screening Tool 
+(MUST), Mini Nutritional Assessment (MNA), and others. All 
+these tools require a brief patient interview. Questions that 
+are common to all screening tools include information about 
+body weight changes within a given time frame, amount of 
+oral intake, or lack of appetite. Because of its simplicity and 
+reliability, the Malnutrition Screening Tool (MST), which is 
+simpler to apply than the more comprehensive MUST, is sug -
+gested as the first option. The MST includes two questions 
+about weight loss and one question about appetite. When 
+scores for answers to these questions are added together and 
+the result is greater than 2, the patient is at risk for malnutri-
+tion/PEW , and a nutritional assessment is recommended.
+D. Nutritional assessment tools
+1. Body composition
+a. Body weight and body mass index. One should compare ideal
+or median standard weight (see Appendix B) with actual
+body weight. Comparison with prior values is important
+as both body weight and lean body mass decrease over
+time in hemodialysis patients (Di Filippo, 2006; Rocco,
+2004). Although BMI is easy to calculate and is used in
+many nutritional guidelines, it should be emphasized that
+this metric is a poor estimate of fat mass and its distribu-
+tion within the body, especially in patients with CKD.
+b. Anthropometry. The waist–hip ratio (WHR) and skinfold
+thickness are superior to BMI for the correct classifica -
+tion of obesity in CKD in cross-sectional studies. Skinfold 
+thickness measured at the biceps or triceps provides an
+estimate of body fat, whereas midarm circumference can 
+be used to estimate muscle mass. These measures can
+be compared with reference ranges established in well-
+nourished dialysis patients (Chumlea, 2003). Patients
+with values below the 25th percentile for either middle
+upper arm circumference or triceps skinfold thickness
+are likely to be malnourished.
+c. Bioimpedance. Bioimpedance analysis is based on the
+measurement of resistance and reactance when a con-
+stant alternating electrical current is applied to a patient. 
+Empirical equations are used to predict total-body water 
+from resistance and total-body mass from the ratio of
+resistance to reactance or from its geometrical deriva-
+tive, the phase angle. Phase angle correlates strongly with 
+anthropometric measures of nutritional status and with
+serum albumin levels. For reproducibility, bioimpedance 
+measurements should be performed within 120 min-
+utes of the end of a dialysis treatment (Di Iorio, 2004).
+Low phase angle measurements are associated with an
+increased risk of mortality (Mushnick, 2003). An interna-
+tional study using bioimpedance spectroscopy has noted 
+an impairment in the lean tissue index in all dialysis
+Daugirdas9781451144291-ch031.indd   537 09/10/14   1:38 am
+Part IV / Clinical Problem Areas
+538
+patients, with better preservation in peritoneal dialysis 
+patients versus hemodialysis patients (van  Biesen, 2013).
+d. Dual energy x-ray absorptiometry (DEXA).  This test was devel-
+oped to measure bone density, but was later adapted to
+quantify soft tissue composition, including fat and fat-
+free mass. A DEXA scan takes only 6–15 minutes, involves 
+minimal radiation exposure, and hence can be used seri-
+ally to follow changes over time. At present, DEXA is
+used mostly for research purposes; it is more costly, and
+there are no data relating DEXA results to outcome in
+patients with advanced kidney disease. DEXA findings
+must be evaluated with hydration status in mind as well.
+2. Composite indices.  Subjective global assessment (SGA) is
+a clinical method for evaluating nutritional status that
+includes history, symptoms, and physical parameters. The
+history component focuses on five areas: (a) percentage of
+body weight lost in the previous 6 months; (b) dietary nutri-
+ent intake; (c) the presence of anorexia, nausea, vomiting,
+diarrhea, or abdominal pain; (d) functional capacity; and (e)
+metabolic demands in view of underlying disease state. Phys-
+ical parameters focus on assessment of subcutaneous fat;
+muscle wasting in the temporal area, deltoids, and quadri-
+ceps; the presence of ankle or sacral edema; and the presence 
+of ascites. The SGA has a good reproducibility and correlates 
+strongly with outcomes in end stage kidney disease (ESKD)
+patients (Duerksen, 2000). Other scoring systems that have
+been proposed include the modified SGA (Churchill, 1996),
+the Dialysis Malnutrition Score, and the Malnutrition Inflam-
+mation Score (Kalantar-Zadeh, 2001), all of which use a com-
+bination of objective and subjective factors. The Geriatric
+Nutritional Risk Index (GNRI) consists of only three objective 
+parameters—body weight, height, and serum albumin level;
+the score is predictive of mortality (Kobayashi, 2010).
+E. Laboratory tests
+1. Serum albumin. Low levels are a strong predictor of mortal-
+ity, and hospitalization risk rises dramatically and logarith-
+mically as levels decline below 4.0 g/dL (40 g/L). The assay
+method used can change results by as much as 20%. Serum 
+albumin levels correlate modestly with other nutritional
+measures, and hypoalbuminemia may be due to a low nutri-
+ent intake, protein losses, increased catabolism or some
+combination of these mechanisms. Additional assessment
+including, but not limited to, physical exam, dietary recalls 
+and measurement of acute phase reactants (e.g., plasma
+C-reactive protein level) is necessary for appropriate man-
+agement of the patient.
+2. Predialysis serum urea nitrogen (SUN). The predialysis SUN level 
+reflects the balance between urea generation and removal.
+Thus, a low SUN level could occur in a very well-dialyzed
+patient with good protein intake, or in an inadequately
+ dialyzed patient with poor protein intake. Also, a low SUN
+Daugirdas9781451144291-ch031.indd   538 09/10/14   1:38 am
+Chapter 31 / Nutrition 539
+may reflect substantial residual kidney function or a mark-
+edly anabolic state (such as during rapid recovery from an 
+intercurrent illness). Therefore, it is difficult to infer the 
+level of protein intake from the SUN directly.
+3. Urea nitrogen appearance (g).  This measurement can be used
+to estimate protein intake. This is because, in the absence of
+marked catabolism or anabolism, the urea nitrogen appear-
+ance rate reflects protein intake. In catabolic or anabolic
+patients, protein intake will be over- or underestimated,
+respectively. As discussed in Chapter 3, in hemodialysis
+patients, the g can be computed using a pre- and postdialysis
+SUN. In patients with AKI, g can be estimated by measuring
+SUN at two time points, usually 24 hours apart, after mak -
+ing an estimate of total body water. Another method used in
+computing g for both hemodialysis and peritoneal dialysis
+patients is to collect aliquots of the spent dialysate as well as 
+urine, and to measure the amount of urea nitrogen in each.
+4. Protein equivalent of total nitrogen appearance (PNA).  Several 
+formulas are available for the calculation of PNA from g, 
+given that, on average, the percentage of nitrogen from
+protein that winds up as urea is known. Dialysis model-
+ing programs usually normalize the PNA to the “kinetic”
+body weight; the latter is estimated as urea distribution
+volume divided by 0.58. The kinetic weight (which usually
+is an internal number and is not reported) is usually, but
+not always, close to the actual body weight. Dividing PNA
+by the kinetic weight gives a “normalized” PNA, or nPNA in 
+units of g/kg per day.
+5. Clinical utility of the nPNA.  The utility of the PNA in terms of
+predicting outcomes has been questioned. In the HEMO
+trial, as well as in observational data sets, once serum albu-
+min and creatinine were controlled for, the PNA had little, if 
+any, additional predictive power in terms of outcome. In the 
+HEMO trial, PNA was a very poor predictor of dietary pro-
+tein intake. It was assumed that the dietary recall method
+used was not sufficiently sensitive to show a relationship,
+but alternative explanations are possible as well.
+6. Other laboratory measures. Serum transferrin  is low in almost all
+dialysis patients and is influenced by changes in iron stores, 
+presence of inflammation, and changes in volume status;
+it is not a good indicator of nutritional status. Serum pre-
+albumin levels may be elevated because of interaction of
+prealbumin with retinol-binding protein and decreased
+renal clearance. C-reactive protein (CRP) is an acute
+phase reactant that correlates negatively with albumin and 
+other visceral protein concentrations. When serum levels
+of albumin or prealbumin are low, it is appropriate to check 
+CRP levels to help uncover potential covert inflammation.
+CRP levels are highly variable in ESKD patients, reducing
+their practical utility, but serial CRP measurements may
+provide valuable information.
+Daugirdas9781451144291-ch031.indd   539 09/10/14   1:38 am
+Part IV / Clinical Problem Areas
+540
+III. DIETARY REQUIREMENTS.  The recommended average levels of
+nutritional intake are listed in Table 31.2, and include recom-
+mendations that are generally consistent with the National
+Kidney Foundation’s (NKF) Kidney Disease Outcome Quality
+Nutrient or Substance Hemodialysis Peritoneal Dialysis
+Protein (g/kg) >1.2 >1.2; >1.5 with peritonitis
+Calories (sedentary, 
+kcal/kg)
+30–35b 30–35b, c
+Protein (%) 15–25
+Carbohydrate (%) 50–60 d 50–60c, d
+Fat (%) 25–35
+Cholesterol <200 mg (0.52 mmol)
+Saturated fat (%) <7
+Crude fiber (g) 20–30
+Sodium 80–100 mmole
+Potassium < 1 mmol/kg if elevated Usually not an issue
+Calcium 2.0 g (50 mmol)f
+Phosphorus 0.8–1.0 g (26–32 mmol)g
+Magnesium 0.2–0.3 g (8–12 mmol)
+Iron See Chapter 34
+Vitamin A None
+β-carotene None
+Retinol None
+Thiamine (mg) 1.5
+Riboflavin (mg) 1.7
+Vitamin B6 (mg) 10
+Vitamin B12 (mg) 0.006
+Niacin (mg) 20
+Folic acid (mg) >1.0
+Pantothenic acid (mg) 10
+Biotin (mg) 0.3
+Vitamin C (mg) 60–100
+Vitamin E None
+Vitamin D See Chapter 36
+Vitamin K See text
+aAll intakes calculated on the basis of normalized body weight (i.e., the average body weight of 
+normal persons of the same age, height, and sex as the patient).
+b35 kcal/kg body weight per day if <60 years of age; 30–35 kcal/body weight per day if >60 years 
+of age.
+cIncludes glucose absorbed from dialysis solutions.
+dCarbohydrate intake should be decreased in patients with hypertriglyceridemia.
+eLower sodium intakes, in the range of 1.0–1.5 g (43–65 mmol), may result in better control of 
+blood pressure in peritoneal dialysis patients and a lower dialysis solution glucose load, and are 
+recommended if this can be done while maintaining energy intake.
+fThe total dose of elemental calcium provided by the calcium-based phosphate binders should not 
+exceed 1,500 mg (37 mmol) per day, and the total intake of elemental calcium (including dietary 
+calcium) should not exceed 2,000 mg (50 mmol) per day.
+gFor patients with serum phosphorus level >5.5 mg/dL (1.8 mmol/L); use phosphate binders if 
+elevated.
+Daily Dietary Recommendations For Dialysis Patientsa
+31.2
+TABLE
+Daugirdas9781451144291-ch031.indd   540 09/10/14   1:38 am
+Chapter 31 / Nutrition 541
+Initiative (KDOQI) 2001 guidelines on nutrition (NKF, 2001) 
+and the European best practice guidelines for nutrition 
+ (Dombros, 2005).
+A. Need for individualization.  A “renal” diet has numerous restric-
+tions, and so adherence to such a diet can be difficult and 
+stressful. Prescribed diets should be individualized to help 
+accommodate each patient’s unique circumstances in terms 
+of palatability, cost, comorbid medical conditions, and cultural 
+eating habits. Specific nutritional issues in the diabetic dialy-
+sis patient are discussed in Chapter 32. Too many restrictions 
+should be avoided as they may lead to poor intake. The nutri-
+tional recommendations need to be reinforced by all members 
+of the health care team. Compliance should be assessed on a 
+regular basis, even monthly at the initiation of dialysis or for 
+those with a previous history of noncompliance.
+B. Peer rather than actual body weight.  One problem with dietary 
+intake recommendations for dialysis patients, who often have 
+PEW , is the choice of weight to use in the denominator. For 
+example, if a patient has lost body mass such that his or her 
+weight is now 50 kg versus a premorbid weight of 90 kg, inges-
+tion of an “adequate” amount of protein or calories based on 
+actual weight may maintain the patient at that lower body 
+weight, but may not be optimal for regaining lost weight, 
+assuming that this is desired. Protein and caloric recommen-
+dations should be based on the median standard (or “peer”) 
+body weight (see Tables B.1 and B.2 in Appendix B) for healthy 
+subjects of the same sex, height, age, and body frame size as 
+the patient. On the other hand, in obese patients, adjusted 
+body weight should be used (Adjusted BW = Peer Body 
+Weight + 0.25 × (actual Body Weight – Peer Body Weight).
+Example: A severely malnourished 35-year-old male 
+hemodialysis patient weighs 60 kg. Using the Tables in Appen-
+dix B for peer weight, we find that the peer weight for this 
+medium-frame patient (were he healthy) given a height of 183 
+cm (72 in.) would be about 84 kg. Our urea kinetic modeling 
+program had reported that his nPNA was 1.2 g/kg per day. As 
+discussed above, this nPNA is based on the patient’s “kinetic” 
+weight. Is this patient ingesting an adequate amount of pro-
+tein?
+We can recover the value for modeled V from the program 
+and divide this by 0.58 to find the “kinetic” weight that was 
+used by the program. Assume that this turns out to be 60 kg. 
+Then 1.2 g/kg per day = 1.2 × 60 = 72 g per day for his PNA, 
+which means that estimated protein intake is also 72 g per day. 
+To compute PNA normalized to this patient’s peer weight, we 
+divide 72 by 84 kg. Now his PNA/peer weight is only 72/84 = 
+0.86 g/kg per day, which may be suboptimal.
+C. Adequacy of dialysis.  The delivery of a dialysis dose that is less 
+than adequate can adversely affect appetite, nutrient intake, 
+and measures of nutrition. Provision of adequate dialysis cor -
+rects subtle uremia and thus mitigates uremia-associated 
+Daugirdas9781451144291-ch031.indd   541 09/10/14   1:38 am
+Part IV / Clinical Problem Areas
+542
+anorexia, and may improve hypercatabolism as well. Hav -
+ing said this, in the HEMO study, there was no improvement 
+in either protein or energy intake in patients randomized to 
+high-dose (single-pool Kt/V~1.65) compared with patients 
+randomized to standard-dose (single-pool Kt/V ~1.25) dialysis. 
+Weight declined similarly in both groups of patients, although 
+the decreases in some anthropometric parameters were 
+somewhat less for patients assigned to the higher dialysis dose 
+(Rocco, 2004). Assignment to the high-flux group had little 
+measurable nutritional advantage. Despite anecdotal reports 
+of marked nutritional improvement on changing hemodialy -
+sis patients from a three per week to more frequent schedule, 
+the two randomized Frequent Hemodialysis Network trials 
+failed to find improvement in either serum albumin or lean 
+body mass in patients assigned to more frequent short daily 
+or long nocturnal therapy (Kaysen, 2012). Claims have also 
+been made of nutritional improvement in patients receiving 
+intermittent hemofiltration or hemodiafiltration, but the sup-
+portive  evidence is also relatively weak.
+D. Protein. KDOQI guidelines recommend that both hemodialysis 
+and peritoneal dialysis patients should ingest 1.2 g of protein/
+kg (using peer body weight) per day. At least 50% of the protein 
+ingested should be of high biologic value. This level of protein 
+intake is often difficult to achieve in practice, however, and 
+30%–50% of hemodialysis patients report intakes of <1.0 g of 
+protein/kg per day (Rocco, 2004).
+E. Energy .  KDOQI guidelines recommend that all dialysis patients 
+younger than 61 years ingest 35 kcal/kg per day. For patients 
+older than 60 years, the recommended intake is 30–35 kcal/
+kg per day, with the lower value used for sedentary patients. 
+Note that this level of intake includes any calories provided 
+from the dialysis procedure. Higher levels of caloric intake 
+may be required for patients who perform strenuous labor, 
+for patients who are well below their desired weight, and for 
+patients who are hospitalized, have peritonitis, or have other 
+causes of catabolic stress. This recommended level of caloric 
+intake is difficult to achieve in practice; as an example, in the 
+HEMO study, intake based on dietary recall averaged 23–27 
+kcal/kg. The data correlate with an observed mean resting 
+energy expenditure of 24.6 kcal/kg per day in Japanese hemo-
+dialysis patients (Kogirima, 2006). This may be related to the 
+usual underreporting observed in dietary recalls. The KDOQI 
+recommended levels of dietary protein and energy intake 
+have been achieved in some patients receiving more frequent 
+hemodialysis (Rocco, 2013).
+In peritoneal dialysis patients, a substantial amount of 
+glucose absorbed from the dialysate contributes to total energy 
+intake (Table 31.3), which occurs daily; the amount depends 
+on the percent dextrose used for each dwell, the length of each 
+exchange, the volume of each dwell, the number of exchanges, 
+and peritoneal membrane transport properties.
+Daugirdas9781451144291-ch031.indd   542 09/10/14   1:38 am
+Chapter 31 / Nutrition 543
+Instilled Volume %D Daytime %D Overnight kcal Absorbed
+CAPD
+4 × 2.0 L 1.5% D 2.5% D 332
+4 × 2.5 L 1.5% D 7.5% Icodextrin 187
+4 × 2.5 L 1.5% D 2.5% D 386
+4 × 3.0 L 1.5% D 2.5% D 432
+APD (day dwell)a
+3 × 2.0 & 2.0 2.5% D 1.5% D 299
+3 × 2.5 & 2.5 2.5% D 1.5% D 350
+3 × 3.0 & 3.0 2.5% D 1.5% D 396
+3 × 2.5 & 2.5 + 2.5 Both 1.5% D 1.5% D 342
+3 × 2.5 & Ico 7.5% Icodextrin 1.5% D 144
+D, % dextrose of instilled solution; APD, automated peritoneal dialysis.
+aAPD using 9 hours overnight and three exchanges per night and a last-bag-fill for APD regimens 1, 
+2, 3, and 5. APD regimen 4 includes a last-bag-fill and midday exchange.
+Adapted from Burkart J. Metabolic consequences of peritoneal dialysis. Semin Dial. 2004 17: 
+498–504. These estimates do not take into account glucose losses during icodextrin dwells or  
+kcal gained from the metabolism of polyglucose.
+Estimated Kilocalories of Glucose Absorbed as Instilled 
+ Volume Varies in CAPD and APD Patients31.3
+TABLE
+1. Percent carbohydrates.  Table 31.2 reflects the conventional
+wisdom that 50%–60% of dietary intake (including glu-
+cose absorbed from dialysate) should be carbohydrates.
+This would represent 1,000 kcal, or 250 g of carbohydrates,
+for a 2,000-kcal diet. Given that 300–400 kcal of glucose is
+normally absorbed with most peritoneal dialysis regimens, 
+in peritoneal dialysis patients the percent carbohydrates
+ingested as food needs to be reduced by a similar amount.
+Hypertriglyceridemia and impaired glucose tolerance
+are common in peritoneal dialysis patients and are not
+rare in those being treated with hemodialysis. For such
+patients, the percent carbohydrates may need to be further 
+reduced, with the caloric deficit being made up primarily
+by increased intake of both protein and monounsaturated
+fats (Arora, 2005).
+F. Lipids. The classic therapeutic goal for hemodialysis patients 
+has been to achieve a low-density lipoprotein (LDL) cholesterol 
+of <100 mg/dL (2.6 mmol/L) and a fasting triglyceride level 
+of <500 mg/dL (5.7 mmol/L). Therapeutic lifestyle changes 
+include diet, weight reduction, increased physical activity, 
+abstinence from alcohol, and treatment of hyperglycemia, 
+if present. However, in dialysis patients, low LDL cholesterol 
+levels are not associated with improved cardiovascular health 
+or survival. Thus, these recommendations are not evidence-
+based but rather are ported from patients with normal kidney 
+function. With regard to diet composition, the usual recom-
+mendation has been a diet containing <7% saturated fat, with 
+Daugirdas9781451144291-ch031.indd   543 09/10/14   1:38 am
+Part IV / Clinical Problem Areas
+544
+polyunsaturated fat <10% of total calories and monounsatu-
+rated fat <20% of total calories, and with total fat at 25%–35% 
+of total calories. However, the conventional wisdom regarding 
+the adverse cardiovascular effects of saturated fat is currently 
+the subject of a large amount of controversy  (Chowdhury, 
+2014). Carbohydrates should not exceed 50%–60% of total calo-
+ries in hemodialysis patients, and dietary carbohydrate intake 
+should likely be even less in peritoneal dialysis patients. In all 
+dialysis patients, 20–30 g of fiber per day should be consumed 
+to help reduce dyslipidemia and to reduce gastrointestinal 
+transit time, as high-fiber diets have in general been associ-
+ated with lower cardiovascular mortality. Many uremic toxins 
+such as indoxyl sulfate and p-cresol sulfate may be generated 
+by bacteria in the gut, and reducing gastrointestinal transit 
+time may limit the time during which gut bacteria can gener -
+ate these toxins. Lipid management is  discussed in more detail 
+in Chapter 38.
+G. Sodium and water . Most excess fluid intake is driven by inges-
+tion of excess sodium, and dietary counseling needs to edu-
+cate patients and their families about the importance of 
+limiting sodium. In some patients, there are substantial non–
+salt-driven causes of fluid ingestion as well, and these should 
+be sought and corrected. Regulatory bodies in the past sug-
+gested that healthy (non-CKD) persons limit dietary sodium 
+intake to 2.3 g (100 mmol) per day, and for older persons, 
+African Americans, or patients with kidney disease, a restric-
+tion to 1.5 g (65 mmol) per day, (Institute of Medicine, 2004); 
+however, the extent to which sodium reduction leads to car -
+diovascular benefits is currently a source of controversy (Insti-
+tute of Medicine, 2013). In peritoneal dialysis, although one 
+can remove sodium-stimulated fluid ingestion using higher 
+glucose dwells, this comes at the cost of glucose loading, with 
+potential adverse effects on the peritoneal membrane as well 
+as on lipids and triglyceride levels, so a lower sodium intake is 
+desirable. In ESKD patients who are anuric, fluid intake gener-
+ally should be limited to about 1.0–1.5 L per day. Additional 
+fluid can be consumed in patients with residual renal func-
+tion, with the amount based on the daily urine volume.
+H. Potassium. Mild potassium restriction (4 g or 100 mmol per 
+day) is usually all that is needed in patients with a moderate 
+degree of residual renal function. Hyperkalemia sometimes 
+becomes an issue in the presence of acidemia or hypoaldo-
+steronism, or with the administration of nonsteroidal anti-
+inflammatory drugs (NSAIDs), potassium-sparing diuretics, 
+angiotensin-converting enzyme inhibitors, angiotensin block-
+ers, aldosterone receptor antagonists, or β-receptor blockers.
+Hyperkalemia in anuric peritoneal dialysis patients is 
+unusual because the dialysate contains no potassium. Perito -
+neal dialysis patients typically require only modest potassium 
+restriction (4 g or 100 mmol per day) or no restriction at all. 
+In hemodialysis patients with limited residual renal function, 
+Daugirdas9781451144291-ch031.indd   544 09/10/14   1:38 am
+Chapter 31 / Nutrition 545
+a lower intake of potassium (2 g or 50 mmol per day) is often 
+required to prevent predialysis hyperkalemia. An important 
+issue that needs attention is to limit exposure to very low 
+potassium (0 K or 1 K) hemodialysis solutions, as the latter 
+have been associated with arrhythmias and an increased risk 
+of sudden death.
+I. Calcium and phosphorus.  The dietary intake of calcium and 
+phosphorus and management of hyperphosphatemia are dis -
+cussed in Chapter 36. An important issue that needs to be kept 
+in mind is that dietary protein recommendations should con-
+sider not only the phosphorus content from protein sources 
+but also the phosphorus content in additives and preserva-
+tives in processed foods, which can be substantial (Kalantar-
+Zadeh, 2010)
+J. Vitamins
+1. Water-soluble vitamins.  Dialysis patients may develop defi -
+ciencies of water-soluble vitamins unless supplements 
+are given. Vitamin deficiencies are caused by poor intake, 
+interference with absorption by drugs or uremia, altered 
+metabolism, and losses to the dialysate. All dialysis patients 
+should receive supplementary folic acid and B vitamins in 
+the doses listed in Table 31.2. B-vitamin replacement may 
+need to be more intensive in patients undergoing high-flux 
+dialysis owing to increased losses (Kasama, 1996). High 
+levels of folate supplementation, however, do not result in 
+a significant decrease in homocysteine levels (Ghandour, 
+2002). Ascorbic acid supplementation should be limited to 
+60–100 mg per day as higher doses can result in the accu-
+mulation of its metabolite, oxalate. The use of injectable 
+vitamin B12 in patients with lower-range serum cobalamin 
+levels to reduce erythropoietin stimulating agent require -
+ments is discussed in Chapter 34.
+2. Fat-soluble vitamins. Fat-soluble vitamins cannot be removed 
+by either hemodialysis or peritoneal dialysis. Multivitamin 
+supplementation in maintenance dialysis patients should 
+not include fat-soluble vitamins. The dosing of vitamin D is 
+discussed in Chapter 36. Vitamin E has been promoted as 
+an antioxidant in maintenance dialysis patients, although 
+supplemental therapy has not led to any changes in mark -
+ers of inflammation or oxidative stress (Himmelfarb, 2014) 
+despite encouraging earlier studies. One should carefully 
+check any vitamin given to ESKD patients to make sure 
+that it does not contain vitamin A. High levels of vitamin A 
+can result in multiple, serious adverse effects in nonuremic 
+individuals. Hypervitaminosis A in dialysis patients can 
+also cause anemia and abnormalities of lipid and calcium 
+metabolism. Recently there has been a focus on low vitamin 
+K levels and impaired vitamin K recycling in ESKD patients 
+as a potential cause for accelerated vascular calcification.  
+Vitamin K comes in 2 avaiable forms, phylloquinone (K1), 
+found in green leafy vegetables, and menaquinone (K2), 
+Daugirdas9781451144291-ch031.indd   545 09/10/14   1:38 am
+Part IV / Clinical Problem Areas
+546
+found in fermented dairy products.  Phylloquinone can be 
+converted to menaquinone. Dietary menaquinone intake 
+correlates inversely with levels of an inactivated form of 
+calcification inhibitor, dephosphorylated, uncarboxylated 
+matrix Gla protein (dp-uc-MGP; Calluwe, 2014).  Currently 
+there are two randomized trials in progress (Calluwe, 2014; 
+Krueger, 2014) that will give either menaquinone (K2) or 
+phylloquinone (K1) supplements, respectively, to dialy-
+sis patients, to see if this retards progression of vascular 
+calcification.
+I V. NUTRIENT REQUIREMENTS IN HOSPITALIZED PATIENTS
+WITH KIDNEY DISEASE
+A. Energy requirements in hospitalized dialysis patients.  In general,
+most patients with acute kidney injury (AKI) requiring dialy-
+sis have energy needs between 30 and 40 kcal/kg. Higher levels 
+of caloric intake have not been shown to be beneficial from 
+a nutritional standpoint, worsen net nitrogen balance, and 
+can cause hypercapnia, especially if patients have impaired 
+pulmonary function. A simple method is to assume a baseline 
+requirement of 30 or 35 kcal/kg per day, and then multiply 
+by one or more adjustment factors, which range from 1.1 to 
+1.7, and are used when hypermetabolism is likely to be pres-
+ent (Table 31.4). Apart from these adjustment factors, energy 
+expenditure in acutely ill patients with AKI has not been 
+Clinical Condition Adjustment Factor
+Mechanical ventilation
+Without sepsis 1.10–1.20
+With sepsis 1.25–1.35
+Peritonitis 1.15
+Infections
+Mild 1.00–1.10
+Moderate 1.10–1.20
+Sepsis 1.20–1.30
+Soft tissue trauma 1.10
+Bone fractures 1.15
+Burns (% of body surface area)
+0%–20% 1.15
+20%–40% 1.50
+40%–100% 1.70
+Recommendations adapted from Blackburn GL, et al. Nutritional and metabolic assessment of the 
+hospitalized patient. J Parenter Enteral Nutr. 1977;1:11–22; Bouffard Y , et al. Energy expenditure 
+in the acute renal failure patient mechanically ventilated. Intens Care Med. 1987;13:401–404; 
+Schneeweiss B, et al. Energy metabolism in acute and chronic renal failure. Am J Clin Nutr. 
+1990;52:596–601; Soop M, et al. Energy expenditure in postoperative multiple organ failure with 
+acute renal failure. Clin Nephrol. 1989;31:139–145.
+Adjustment factors for determination of energy 
+requirements31.4
+TABLE
+Daugirdas9781451144291-ch031.indd   546 09/10/14   1:38 am
+Chapter 31 / Nutrition 547
+shown to be higher than in acutely ill patients with normal 
+kidney function (Soop, 1989).
+B. Protein requirements. In critical illness, amino acids are infused 
+to help prevent protein breakdown, not to provide an addi-
+tional source of calories; hence, they are not counted as part 
+of the daily energy intake. The amino acid intake for patients 
+with AKI or CKD undergoing either maintenance dialysis or 
+one of the continuous renal replacement therapies during a 
+hospitalization should be in the range of 1.1–2.0 g/kg per day. 
+There appears to be no benefit in using higher levels of pro-
+tein supplementation, even in the face of very high nitrogen 
+losses. When higher levels are given, there does not appear to 
+be any additional improvement in nitrogen balance, and there 
+is increased formation of urea and other nitrogenous waste 
+products.
+C. Lipid requirements.  Energy requirements cannot usually be 
+achieved by the administration of glucose infusions alone. The 
+daily amount of glucose administered should not exceed 5 g/
+kg body weight, as supplementation above this level results 
+in incomplete oxidation of glucose and conversion of glucose 
+to fat. The balance of energy requirements is provided by lip-
+ids. Lipids have a high specific energy content as well as a low 
+osmolality. The daily provision of 1.0 g/kg body weight or less 
+usually prevents the development of an essential fatty acid 
+deficiency while decreasing the risk of hypertriglyceridemia.
+ V. TREA TMENT
+A. General comments. Reversible causes of PEW of CKD should be 
+diligently pursued and corrected (see Fig. 31.1 for a treatment 
+algorithm developed by the International Society of Renal 
+Nutrition and Metabolism). Inadequate dietary protein and 
+energy intake is a major cause of PEW of CKD (Wang, 2003) 
+and is often secondary to anorexia. Anorexia has many etiolo-
+gies. The provision of adequate dialysis is a crucial first step in 
+improving nutritional status; however, data on more frequent 
+hemodialysis is mixed regarding the benefit of an increased 
+dose of dialysis on nutritional parameters (Rocco, 2013). 
+Other medical conditions, especially infection and inflamma -
+tion, acidemia, intercurrent illness, and cardiovascular dis -
+ease, should be identified and treated if possible. Metabolic 
+acidosis promotes PEW by increasing muscle protein catab-
+olism and by stimulating the oxidation of essential amino 
+acids. Thus, a predialysis goal of 22–24 mmol/L in hemodialy-
+sis patients and >22 mmol/L in peritoneal dialysis patients 
+is suggested for patients with PEW (Stein, 1997). Causes of 
+inflammation, including the use of central venous catheters in 
+hemodialysis, should be treated or eliminated if possible. Cor-
+rection of GI disturbances, including diabetic gastroparesis, 
+colitis, and pancreatic insufficiency, may also improve nutri-
+tional  status. Other considerations include access to, and abil-
+itity to  prepare, food, ethnic and personal food preferences, 
+Daugirdas9781451144291-ch031.indd   547 09/10/14   1:38 am
+Part IV / Clinical Problem Areas
+548
+and assessment for the need for or repair of dentures and/or 
+bridges. Once reversible causes of poor nutritional status have 
+been identified and corrected, intervention in the form of oral 
+or parenteral supplements should be considered.
+B. When to initiate nutritional supplements.  The International Soci -
+ety of Renal Nutrition and Metabolism has recently published 
+recommendations for the nutritional management and sup-
+port of patients with CKD (Ikizler, 2013). Once preventive and 
+preliminary corrective approaches have failed, indications for 
+prescription of nutritional supplements include the following 
+(Fig 31.1):
+1. Poor appetite and/or poor oral intake
+2. Dietary protein intake (DPI) <1.2 g/kg per day, Dietary 
+energy intake (DEI) <30 kcal/kg per day
+3. Serum albumin level <3.8 g/dL or (if patient anuric) serum 
+prealbumin level <28 mg/dL
+4. Unintentional weight loss >5% of ideal body weight (IBW) 
+or end-dialysis weight (EDW) over 3 months
+FIGURE 31.1 Algorithm for nutritional management and support in patients with chronic 
+kidney disease. (Reproduced with permission from MacMillan Publishers Ltd: Ikizler TA, 
+Cano NJ, Franch H, et al. Prevention and treatment of protein energy wasting in chronic 
+kidney disease patients: a consensus statement by the International Society of Renal 
+Nutrition and Metabolism. Kidney Int. 2013;84:1096–1107.) BMI, body mass index;  CHF, 
+congestive heart failure; DEI, dietary energy intake; DM, diabetes mellitus; DPI, dietary 
+protein intake; EDW, end-dialysis weight; GH, growth hormone; IBW, ideal body weight; 
+IDPN, intradialytic parenteral nutrition;  MIS, malnutrition inflammation score; ONS, 
+oral nutritional supplementation; PEW, protein energy wasting; RRT, renal replacement 
+therapy; Salb, serum albumin; SPrealb, serum prealbumin; SGA, subjective global assess-
+ment; TPN, total parenteral nutrition.
+*Periodic nutritional screening
+SAlb, Weight, BMI, MIS, DPI, DEI
+Nutritional assessment (as indicated)
+SPrealb; SGA; Anthropometrics
+Continuous preventive measures:
+Continuous nutritional counseling
+Optimize RRT -Rx and dietary nutrient intake
+Manage co-morbidities (Acidosis, DM, Inflammation, CHF , Depression)
+Indications for nutritional interventions despite preventive measures:
+•  Poor appetite and/or poor oral intake
+    •  DPI <1.2 (CKD 5D) or <0.7 (CKD 3-4); DEI <30 Kcal/kg/d
+•  Unintentional weight loss – >5% of IBW or EDW over 3 months
+•  SAIB <3.8 g/dL or SPrealb ^ <28 mg/dL
+•  Worsening nutritional markers over time
+•  SGA in PEW range
+Salb >3.8; SPrealb >28;
+weight or LBM gain 
+Adjunct therapies
+•  Anabolic hormones
+•  Androgens, GH
+•  Appetite stimulants
+•  Anti-inflammatory interventions
+•  Omega 3; IL-1ra
+•  Exercise (as tolerated)
+Intensified therapy
+•  Dialysis prescription alterations
+•  Incrase quantity of oral therapy
+•  Tube feeding or PEG if indicated
+•  Parenteral interventions:
+•  IDPN (esp. if Salb <3.0 g/dL)
+•  TPN
+Maintenance nutritional therapy
+   goals:
+•  SAlb >4.0 g/dL
+•  SPrealb >30 mg/dL
+•  DPI >1.2 (CKD-5D) & >0.7 g/kg/d
+   (CKD 3-4)
+•  DEI 30–35 Kcal/kg/d
+No improvement or
+deterioration
+Start CKD-specific oral nutritional supplementation:
+•  CKD 3–4: DPI target of >0.8 g/kg/d (± AA/KA or ONS)
+•  CKD 5D: DPI target >1.2 g/kg/d (ONS at home or during
+dialysis treatment; in-center meals) 
+Daugirdas9781451144291-ch031.indd   548 09/10/14   1:38 am
+Chapter 31 / Nutrition 549
+5. Worsening nutritional markers over time
+6. SGA in PEW range
+The initial nutritional supplementation should be CKD 
+specific with a target dietary protein intake of >1.2 g/kg per 
+day for ESKD and >0.8 g/kg per day for nondialysis CKD 
+patients, a target dietary energy intake of 30–35 kcal/kg per 
+day, a goal serum albumin level of 3.8 g/dL (38 g/L) initially, 
+with a long-term goal of >4.0 g/dL (40 g/L).
+Patients who do not show improvement with oral nutri -
+tional supplementation should have intensified therapy, which 
+can include an increased quantity of oral nutritional supplemen-
+tation, feeding via tube or percutaneous endoscopic gastrostomy 
+or jejunostomy if indicated (Cano, 2009), and parenteral inter-
+ventions. Intradialytic parenteral nutrition (IDPN) should be 
+reserved for patients who cannot tolerate or do not respond to 
+oral intake or use of a feeding tube. (Cano, 2006). Adjuvant thera-
+pies that can be considered include anabolic hormones, appetite 
+stimulants, anti-inflammatory interventions, and exercise.
+C. Oral supplements.  Oral amino acid supplementation, given 
+either during hemodialysis (Kalantar-Zadah, 2013) or two to 
+three times a day (preferably 1 hour after main meals), has 
+been shown to improve whole-body protein metabolism in the 
+short term and SGA, serum albumin, and serum prealbumin 
+in the long term (Stratton, 2005) as well as patient outcomes 
+(Weiner, 2014).
+A number of different enteral formulas specifically for -
+mulated for maintenance dialysis patients are available. Other 
+considerations in the choice of oral nutritional supplements 
+include cost, palatability, and lactose tolerance. 
+D. Intradialytic total parenteral nutrition (IDPN) in hemodialysis patients
+1. Indications and benefits.  IDPN is indicated in the adequately
+dialyzed hemodialysis patient with PEW who is unable to
+ingest or absorb sufficient food via the gastrointestinal
+tract. IDPN promotes protein anabolism in the acute set -
+ting. There are conflicting reports of the benefits of IDPN; it 
+appears that there is a correlation between the response to 
+nutritional supplementation and the severity of PEW and
+the amount of nutrients received. (Cano, 2007).
+2. Composition, infusion, and complications. The IDPN solution is
+usually composed of an 8.5% amino acid solution mixed with 
+250 mL of 50% dextrose. It is infused into the venous drip
+chamber for the entire duration of the hemodialysis proce-
+dure. Additional energy can be provided by also infusing a
+lipid emulsion; patients receiving lipids should be monitored 
+closely for hypertriglyceridemia, changes in liver function
+tests, or compromise of the reticuloendothelial system. A
+typical composition of IDPN solution is outlined in Table 31.5.
+Painful arm cramps can occur when a high-osmolality 
+IDPN solution is infused too rapidly (the dialysis session 
+may need to be lengthened). Hypoglycemia can occur when 
+a rapid infusion of glucose-containing IDPN solution is 
+Daugirdas9781451144291-ch031.indd   549 09/10/14   1:38 am
+Part IV / Clinical Problem Areas
+550
+suddenly discontinued. Patients should consume some car-
+bohydrate within the last 30 minutes of the IDPN infusion to 
+prevent hypoglycemia. Likewise, if patients dialyze against 
+a glucose-free dialysate, the IDPN should not be discontin-
+ued until the conclusion of the hemodialysis procedure.
+3. Potential risks of IDPN.  Hypo- and hyperglycemia, especially 
+in patients with diabetes mellitus, should be anticipated 
+and appropriately treated. Prolonged use of IDPN may 
+lead to increased risk of infections, abnormalities in lipid 
+profile, and accumulation of fat tissue rather than mus-
+cle. When amino acids are given as part of IDPN, there 
+typically will be about a 0.2 decline in the treatment Kt/V  
+(McCann, 1999). This decline in Kt/V is thought to be 
+due to a  sudden increase in urea generation associated 
+with amino acid infusion, which elevates the postdialysis 
+serum urea nitrogen level.
+E. T otal parenteral nutrition (TPN).  TPN is used in patients with severe 
+nutritional deficits who cannot receive adequate nutritional 
+intake from oral supplements, intraperitoneal amino acids, or 
+IDPN. General guidelines for the formulation of a typical TPN 
+solution are outlined in Table 31.6.
+1. Carbohydrates. Approximately 50%–70% of nonprotein calories 
+in TPN are provided from glucose. Glucose is usually provided 
+as 70% d-glucose to minimize the amount of fluid adminis-
+tered. The precise amount of d -glucose given is dependent 
+on the calculated energy intake indicated for an individual 
+patient. Each milliliter of 70% dextrose provides 2.38 kcal.
+2. Amino acids.  There is much controversy regarding the opti-
+mal mix of essential and nonessential amino acids used in 
+TPN solutions. Some authors report that essential amino 
+acids can be used more efficiently than larger quantities 
+of essential and nonessential amino acids, whereas others 
+Component Amount
+50% dextrose (D-glucose) 125 g (250 mL)
+8.5% crystalline amino acids 
+(essential and nonessential)
+42.5 g (500 mL)
+20% lipids 50 g (250 mL)
+Electrolytes: Sodium, phosphate, potassium sulfate, 
+chloride, and magnesium with amount per 
+IDPN bag adjusted for serum electrolyte levels
+Vitamins See text and Table 31.2
+Insulin, regular Adjusted/blood glucose levels
+Caloric content
+50% dextrose 425 kcal/treatment
+20% lipid emulsion 500 kcal/treatment
+Total 925 kcal/treatment
+IDPN, intradialytic parenteral nutrition.
+Composition of a “typical” solution for intradialytic 
+ parenteral nutrition31.5
+TABLE
+Daugirdas9781451144291-ch031.indd   550 09/10/14   1:38 am
+Chapter 31 / Nutrition 551
+report the development of nausea, vomiting, and metabolic 
+acidosis when only essential amino acids are administered. 
+Most commercial crystalline amino acid solutions provide 
+a mix of essential and nonessential amino acids.
+3. Lipids. Lipids can provide up to 50% of the nonprotein
+calories in TPN solutions. Lipid emulsions are usually 
+available in 10% and 20% solutions; the latter provides 
+2.0 kcal/mL. Lipids should be given over a 12- to 24-hour 
+period to decrease the risk of decreased functioning of the 
+reticuloendothelial system. Some authors recommend 
+decreasing the amount of lipids given by 50% if the patient 
+is septic or at a high risk for sepsis. There is some contro-
+versy regarding the ratio of polyunsaturated to saturated 
+fatty acids that is preferable in acutely ill dialysis patients, 
+with most authors recommending a ratio between 1.0 and 
+2.0. If patients develop marked hypertriglyceridemia, lipid 
+infusions can be provided once or twice weekly instead 
+of daily.
+Component Amount
+70% dextrose (d-glucose) 350 g (500 mL)
+8.5% crystalline amino acids 
+(essential and nonessential)
+42.5 g (500 mL)
+20% lipids or 10% lipids 100 g or 50 g (in 500 mL)
+Electrolytes (general guidelines)a
+Sodium See text
+Chloride See text
+Potassium <35 mmol/d
+Acetate 35–40 mmol/d
+Calcium 5 mmol/d
+Phosphorus 5–10 mmol/d
+Magnesium 2–4 mmol/d
+Iron 2 mg/d
+Vitamins See text and Table 31.2
+Caloric content
+Solution
+Administration Rate: 40 mL/hr or 60 mL/hr or
+960 mL/d 1,440 mL/d
+70% dextrose 762 kcal/d 1,142 kcal/d
+20% lipid emulsion (LE) 640 kcal/d 960 kcal/d
+Total with 20% LE 1,402 kcal/d 2,102 kcal/d
+70% dextrose 762 kcal/d 1,142 kcal/d
+10% lipid emulsion (LE) 352 kcal/d 528 kcal/d
+Total with 10% LE 1,114 kcal/d 1,670 kcal/d
+aThe specific amount of electrolytes given should be modified on the basis of the patient’s clinical 
+condition and serum concentration of electrolytes. The guidelines listed include electrolytes con-
+tributed by the infusion of amino acids. Use of a total parenteral nutrition sodium level of about 140 
+mmol/L will prevent hyponatremia, but requires either daily dialysis or continuous renal replace-
+ment therapy for adequate volume control.
+Composition of “typical” total parenteral nutrition solutions 
+for hospitalized patients with kidney disease31.6
+TABLE
+Daugirdas9781451144291-ch031.indd   551 09/10/14   1:38 am
+Part IV / Clinical Problem Areas
+552
+4. Electrolytes. The amount of sodium and chloride, the two
+principal ions, depends on whether continuous renal replace-
+ment therapy (CRRT) or intermittent hemodialysis (IHD) is
+being done. With CRRT, the TPN solutions, as well as most
+other infusates, should have a sodium level close to 140 mM. 
+With IHD, a lower TPN solution sodium level is often used
+(40–80 mM) in order to minimize the risk of causing volume 
+overload and pulmonary edema. With SLED (sustained low-
+efficiency dialysis) given daily, higher TPN solution sodium
+concentrations often can be used to limit hyponatremia.
+Acetate, which is metabolized to bicarbonate, is traditionally 
+added to TPN solutions when alkalinization of the serum is
+desired. The high glucose load plus the anabolism induced
+by TPN solutions can result in hypokalemia, hypophospha-
+temia, and hypomagnesemia owing to intracellular shifts
+of these ions. Therefore, blood levels of these electrolytes
+should be monitored frequently, and they should be added to 
+the TPN solution or infused separately, as needed.
+5. Vitamins. Little research has been performed on vitamin
+requirements in patients with AKI. In general, vitamin
+supplementation during TPN should be similar to that
+ provided to maintenance dialysis patients (Table 31.2).
+6. Minerals and trace elements.  Iron should be supplemented to
+help provide for effective erythropoiesis. Zinc is sometimes 
+given on the basis of some evidence that it accelerates
+wound healing. Other trace elements probably need not
+be supplemented unless the patient receives TPN for more
+than 3 weeks.
+F. Intraperitoneal infusion of amino acids in peritoneal dialysis patients
+1. Indications and benefits. Amino acid dialysate should be con-
+sidered in peritoneal dialysis patients with PEW who are
+unable to tolerate or are not suitable for oral nutritional
+supplements. The evidence of benefit of amino acid dialy-
+sate is conflicting; benefit is more likely when significant
+hypoalbuminemia is present. (Jones 1998)
+2. Composition, infusion, and complications.  Usually, the amino
+acid dialysate solution consists of both essential and non-
+essential amino acids. It is given as the overnight exchange 
+in continuous ambulatory peritoneal dialysis (CAPD)
+patients or as the long daytime dwell in continuous cycling 
+peritoneal dialysis patients in order to maximize protein
+absorption. The osmotic effect of a 1.0% amino acid dialy-
+sate solution is similar to that of a 2.0% dextrose solution.
+Complications of utilizing amino acid dialysate solutions
+include anorexia, nausea, vomiting, and an increase in SUN 
+levels, and are more common when patients receive two
+amino acid dialysate dwells per day versus one per day.
+G. Adjuvant therapies and exercise. Other therapies that can be con-
+sidered include growth hormone, anabolic steroids, exercise, 
+appetite stimulants, and anti-inflammatory interventions. 
+Evidence of the effectiveness of these interventions is weak. 
+Daugirdas9781451144291-ch031.indd   552 09/10/14   1:38 am
+Chapter 31 / Nutrition 553
+In maintenance dialysis patients, endurance exercise has been 
+associated with an improvement in the rate of glucose disap-
+pearance and a reduction in fasting plasma insulin levels; in 
+addition, with exercise, plasma triglyceride values decrease, 
+and high-density lipoprotein (HDL) cholesterol concentra-
+tions increase. Other benefits of exercise include an increase 
+in muscle size and strength, and improvement in endurance.
+References and Suggested Readings
+Arora SK, McFarlane SI. The case for low carbohydrate diets in diabetes management. 
+Nutr Metab. (Lond). 2005;2:16.
+Burrowes JD, et al. Effects of dietary intake, appetite, and eating habits on dialysis and 
+non-dialysis treatment days in hemodialysis patients: cross-sectional results from 
+the HEMO study. J Ren Nutr. 2003;13:191–198.
+Caluwé R, et al. Vitamin K2 supplementation in haemodialysis patients: a randomized 
+dose-finding study. Nephrol Dial Transplant. 2014;29:1385-90.
+Cano N, et al. ESPEN guidelines on enteral nutrition: adult renal failure. Clin Nutr. 
+2006;25:295–310.
+Cano NJ, et al. Intradialytic parenteral nutrition does not improve survival in malnour-
+ished hemodialysis patients: a 2-year multicenter, prospective, randomized study. 
+J Am Soc Nephrol 2007;18:2583–2591.
+Cano NJ, et al. ESPEN Guidelines on Parenteral Nutrition: adult renal failure. Clin Nutr. 
+2009;28:401–414.
+Carrero JJ, et al. Etiology of the protein-energy wasting syndrome in chronic kidney 
+disease: a consensus statement From the International Society of Renal Nutrition 
+and Metabolism (ISRNM). J Ren Nutr. 2013;23:77–90.
+Chowdhury R, et al. Association of dietary, circulating, and supplement fatty acids with cor-
+onary risk: a systematic review and meta-analysis. Ann Intern Med. 2014;160:398–406.
+Chumlea WC, et al; Nutritional status assessed from anthropometric measures in the 
+HEMO study. J Ren Nutr. 2003;13:31–38.
+Churchill DN, Taylor W , Keshaviah PR. Adequacy of dialysis and nutrition in con -
+tinuous peritoneal dialysis: association with clinical outcomes. Canada-USA 
+(CANUSA) Peritoneal Dialysis Study Group. J Am Soc Nephrol. 1996;7:198–207.
+Di Filippo S, et al. Reduction in urea distribution volume over time in clinically stable 
+dialysis patients. Kidney Int. 2006;69:754–759.
+Di Iorio BR, et al. A systematic evaluation of bioelectrical impedance measurement 
+after hemodialysis session. Kidney Int. 2004;65:2435–2440.
+Dombros N, et al. for the EBPG Expert Group on Peritoneal Dialysis. European best 
+practice guidelines for peritoneal dialysis. 8 Nutrition in peritoneal dialysis. 
+Nephrol Dial Transplant. 2005;20(suppl 9):ix28–ix33.
+Duerksen DR, et al. The validity and reproducibility of clinical assessment of nutri-
+tional status in the elderly. Nutrition. 2000;16:740–744.
+Ghandour H, et al. Distribution of plasma folate forms in hemodialysis patients receiv-
+ing high daily doses of L-folinic or folic acid. Kidney Int. 2002;62:2246–2249.
+Gracia-Iguacel C, et al. Subclinical versus overt obesity in dialysis patients: more than 
+meets the eye. Nephrol Dial Transplant. 2013;28(suppl 4):iv175–iv181.
+Himmelfarb J, et al. Provision of antioxidant therapy in hemodialysis (PATH): a 
+ randomized clinical trial. J Am Soc Nephrol. 2014;25:623–633.
+Ikizler TA, Cano NJ, Franch H et al. Prevention and treatment of protein energy wast-
+ing in chronic kidney disease patients: a consensus statement by the International 
+Society of Renal Nutrition and Metabolism. Kidney Int. 2013;84:1096–1107.
+Institute of Medicine. Dietary reference intakes: water, potassium, sodium, chloride, and 
+sulfate. Washington, DC, National Academy Press, 2004.
+Jones M, et al. Treatment of malnutrition with 1.1% amino acid peritoneal dialysis solu-
+tion: results of a multicenter outpatient study. Am J Kidney Dis. 1998;32:761–769.
+Kaizu Y, et al. Association between inflammatory mediators and muscle mass in long-
+term hemodialysis patients. Am J Kidney Dis. 2003;42:295–302.
+Kalantar-Zadeh K, et al. A malnutrition-inflammation score is correlated with 
+ morbidity and mortality in maintenance hemodialysis patients. Am J Kidney Dis. 
+2001;38:1251–1263.
+Daugirdas9781451144291-ch031.indd   553 09/10/14   1:38 am
+Part IV / Clinical Problem Areas
+554
+Kalantar-Zadeh K, et al. Food intake characteristics of hemodialysis patients as 
+obtained by food frequency questionnaire. J Ren Nutr. 2002;12:17–31.
+Kalantar-Zadeh K, et al. Appetite and inflammation, nutrition, anemia, and clinical 
+outcome in hemodialysis patients. Am J Clin Nutr. 2004;80:299–307.
+Kalantar-Zadeh K, et al. Understanding sources of dietary phosphorus in the treat-
+ment of patients with chronic kidney disease. Clin J Am Soc Nephrol . 2010;5:  
+519–530.
+Kalantar-Zadeh K, Ikizler TA. Let them eat during dialysis: an overlooked oppor -
+tunity to improve outcomes in maintenance hemodialysis patients. J Ren Nutr. 
+2013;23:157–163.
+Kasama R, et al. Vitamin B6 and hemodialysis: the impact of high flux/high-efficiency 
+dialysis and review of the literature. Am J Kidney Dis. 1996;8:680–686.
+Kaysen GA. The microinflammatory state in uremia: causes and potential 
+ consequences. J Am Soc Nephrol. 2001;12:1549–1557.
+Kaysen GA, et al; and the FHN Trial Group. The effect of frequent hemodialysis on 
+nutrition and body composition: frequent Hemodialysis Network Trial. Kidney Int. 
+2012;82:90–99.
+Kobayashi I, et al. Geriatric Nutritional Risk Index, a simplified nutritional screening 
+index, is a significant predictor of mortality in chronic dialysis patients. Nephrol 
+Dial Transplant. 2010;25:3361–3365.
+Kogirima M, et al. Low resting energy expenditure in middle-aged and elderly 
+ hemodialysis patients with poor nutritional status. J Med Invest. 2006;53:34–41.
+Kopple JD. National kidney foundation K/DOQI clinical practice guidelines for nutri-
+tion in chronic renal  failure. Am J Kidney Dis. 2001; 37(suppl 2):S66–S70.
+Kramer HJ, et al. Increasing body mass index and obesity in the incident ESRD 
+ population. J Am Soc Nephrol. 2006;17:1453–1459.
+Krueger T, et al. Vitamin K1 to slow vascular calcification in haemodialysis patients 
+(VitaVasK trial): a rationale and study protocol. Nephrol Dial Transplant . 
+2014;29:1633-1638.
+McCann L, et al. Effect of intradialytic parenteral nutrition on delivered Kt/V . Am  
+J Kidney Dis. 1999;33:1131–1135.
+Mushnick R, et al. Relationship of bioelectrical impedance parameters to nutrition and 
+survival in peritoneal dialysis patients. Kidney Int. 2003;87(suppl):S53–S56.
+National Kidney Foundation. K/DOQI clinical practice guidelines for nutrition in chronic 
+renal failure. New York, NY: National Kidney Foundation, 2001.
+Pupim LB, Cuppari L, Ikizler TA. Nutrition and metabolism in kidney disease. Semin 
+Nephrol. 2006;26:134–157.
+Rocco MV , et al; for the HEMO Study Group. The effect of dialysis dose and membrane 
+flux on nutritional parameters in hemodialysis patients: results of the HEMO 
+study. Kidney Int. 2004;65:2321–2334.
+Rocco MV . Does more frequent hemodialysis provide dietary freedom? J Ren Nutr. 
+2013;23:259–262.
+Siew ED, Ikizler TA. Insulin resistance and protein energy metabolism in patients with 
+advanced chronic kidney disease. Semin Dial. 2010;23:378–382.
+Soop M, et al. Energy expenditure in postoperative multiple organ failure with acute 
+renal failure. Clin Nephrol. 1989;31:139–145.
+Stein A, et al. Role of an improvement in acid-base status and nutrition in CAPD 
+patients. Kidney Int. 1997;52:1089–1095.
+Stenvinkel P , Zoccali C, Ikizler TA. Obesity in CKD—What Should Nephrologists 
+Know? J Am Soc Nephrol. 2013;24:1727–1736.
+Stratton RJ, et al. Multinutrient oral supplements and tube feeding in maintenance 
+dialysis: a systematic review and meta-analysis. Am J Kidney Dis. 2005;46:387–405.
+van Biesen W , et al. A multicentric, international matched pair analysis of body 
+ composition in peritoneal dialysis versus haemodialysis patients. Nephrol Dial 
+Transplant. 2013;28:2620–2628.
+Wang AY, et al. Important factors other than dialysis adequacy associated with 
+ inadequate dietary protein and energy intakes in patients receiving maintenance 
+peritoneal dialysis. Am J Clin Nutr. 2003;77:834–841.
+Wang W , et al. Outcomes associated with intradialytic oral nutritional supplements 
+in patients undergoing maintenance hemodialysis: a quality improvement report. 
+Am J Kidney Dis. 2012;60:591–600.
+Weiner DE. Oral intradialytic nutritional supplement use and mortality in hemo -
+dialysis patients. Am J Kidney Dis. 2014;63:276–285.
+Daugirdas9781451144291-ch031.indd   554 09/10/14   1:38 am

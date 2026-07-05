@@ -1,0 +1,665 @@
+{
+ "chapter": 13,
+ "questions": [
+  {
+   "topic": "Reuse prevalence",
+   "question": "From the mid-1990s to 2013, the percentage of U.S. dialysis facilities practicing dialyzer reuse changed from about 78% to approximately what value?",
+   "options": {
+    "A": "About 50%",
+    "B": "About 90%",
+    "C": "About 25%",
+    "D": "About 10%"
+   },
+   "correct": "A",
+   "explanation": "The chapter states U.S. reuse prevalence fell from 78% of facilities in the mid-1990s to about 50% of facilities (47% of patients) by 2013, so 50% (A) is correct. The decline occurred because the cost of high-flux, biocompatible dialyzers came down, weakening the economic incentive to reprocess. 90% (B) would mean reuse grew, while 25% (C) and 10% (D) overstate the drop; none match the cited figures. This trend explains why single-use has increasingly displaced reuse in modern U.S. dialysis practice."
+  },
+  {
+   "topic": "Reusable dialyzer type",
+   "question": "Which category of dialyzer is eligible to be reprocessed for multiple use?",
+   "options": {
+    "A": "Parallel-plate dialyzers labeled for single use",
+    "B": "Only hollow-fiber dialyzers labeled by the manufacturer for multiple use",
+    "C": "Any dialyzer regardless of manufacturer labeling",
+    "D": "Only cellulosic dialyzers sterilized with ethylene oxide"
+   },
+   "correct": "B",
+   "explanation": "Only hollow-fiber dialyzers that the manufacturer has labeled for multiple use may be reprocessed, making B correct. Parallel-plate or single-use-labeled dialyzers (A) cannot be reused, so labeling governs eligibility regardless of design. It is not true that any dialyzer may be reused irrespective of labeling (C), and reuse is not restricted to cellulosic ethylene-oxide-sterilized units (D)—those older membranes have largely been abandoned. Manufacturers must specifically certify a device and supply performance data before multiple use is allowed."
+  },
+  {
+   "topic": "Governing standards",
+   "question": "Which organization's standards must a dialysis unit meticulously follow in order to reprocess dialyzers for multiple use?",
+   "options": {
+    "A": "The World Health Organization",
+    "B": "The American Nurses Association",
+    "C": "The Association for the Advancement of Medical Instrumentation (AAMI)",
+    "D": "The National Institutes of Health"
+   },
+   "correct": "C",
+   "explanation": "Reprocessing units must meticulously follow the AAMI standards (ANSI/AAMI RD47:2002/A1:2003), so C is correct. These standards are incorporated into the Medicare ESRD Facility Conditions for Coverage (V304-V368), giving them regulatory force. The WHO (A), American Nurses Association (B), and NIH (D) do not set the controlling reprocessing standards. Even where Medicare's language differs from AAMI's, CMS holds the facility accountable to the AAMI text, underscoring that AAMI is the operative reference for a compliant reuse program."
+  },
+  {
+   "topic": "Regulatory accountability",
+   "question": "When the text of the Medicare conditions differs from the text of the AAMI document, to which text does CMS hold the facility accountable?",
+   "options": {
+    "A": "The Medicare conditions text only",
+    "B": "Whichever text is less stringent",
+    "C": "The dialyzer manufacturer's directions for use",
+    "D": "The text and language in the AAMI document"
+   },
+   "correct": "D",
+   "explanation": "When Medicare's conditions and the AAMI document differ in wording, CMS holds the facility accountable for the text and language in the AAMI document, so D is correct. This holds even though the AAMI standards are the ones incorporated into the Medicare conditions. The Medicare text alone (A) is not the controlling reference, CMS does not default to whichever text is less stringent (B), and the manufacturer's directions for use (C) govern only device-specific steps, not this conflict. Facilities should validate practices against the AAMI wording."
+  },
+  {
+   "topic": "Total cell volume",
+   "question": "Total cell volume (TCV), a key quality control measurement in reprocessing, is best defined as which of the following?",
+   "options": {
+    "A": "Fiber bundle volume plus the volume in the headers",
+    "B": "Dialysate compartment volume alone",
+    "C": "The ultrafiltration coefficient of the membrane",
+    "D": "The volume of germicide instilled into the dialyzer"
+   },
+   "correct": "A",
+   "explanation": "TCV is the fiber bundle volume plus the volume contained in the headers of the blood compartment, so A is correct. It is a blood-compartment measurement, not the dialysate compartment volume (B). TCV is distinct from the ultrafiltration coefficient (C), which measures water permeability, and it is unrelated to the volume of germicide instilled (D). TCV is measured before first use to set a baseline and remeasured after each reuse; a 20% fall corresponds to a 10% drop in urea clearance, the maximum acceptable, making it a core clearance surrogate."
+  },
+  {
+   "topic": "Automated equipment",
+   "question": "Any automated reprocessing equipment used in a dialysis facility must have which of the following?",
+   "options": {
+    "A": "A CDC infection-control certificate",
+    "B": "An FDA 510(k) clearance",
+    "C": "An OSHA safety exemption",
+    "D": "A CMS premarket approval waiver"
+   },
+   "correct": "B",
+   "explanation": "Any automated reprocessing equipment must have FDA 510(k) clearance, so B is correct. A 510(k) is a premarket submission demonstrating the device is at least as safe and effective as—substantially equivalent to—a legally marketed device. A CDC certificate (A), OSHA exemption (C), and CMS premarket approval waiver (D) are not the required clearance. Medical directors using automated equipment must also follow the manufacturer's directions for use, whereas those choosing a manual system must validate each step and design their own quality-control audits."
+  },
+  {
+   "topic": "Reprocessing phases",
+   "question": "Reprocessing is divided into three phases. Which of the following correctly lists them?",
+   "options": {
+    "A": "Rinsing, disinfection, and labeling",
+    "B": "Cleaning, testing, and storage",
+    "C": "Inventory, transport, and disposal",
+    "D": "Pre-first-use, the dialysis treatment, and postdialysis"
+   },
+   "correct": "D",
+   "explanation": "Reprocessing is divided into three phases: pre-first-use, the dialysis treatment, and postdialysis, so D is correct. The other choices name individual steps that occur within postdialysis reprocessing—rinsing, disinfection, labeling (A); cleaning, testing, storage (B)—rather than the three overarching phases. Inventory, transport, and disposal (C) are likewise sub-activities, not defined phases. Pre-first-use includes baseline TCV measurement, the treatment phase covers safe setup and use, and postdialysis covers rinse, clean, test, disinfect, inspect, label, and store."
+  },
+  {
+   "topic": "Peracetic acid contact",
+   "question": "Because peracetic acid has no vapor pressure and depends on direct contact, how does the PCP confirm adequate disinfectant contact before use?",
+   "options": {
+    "A": "By smelling the ports for a vinegar odor",
+    "B": "By weighing the dialyzer on a calibrated scale",
+    "C": "By examining the air-fluid level with the dialyzer held horizontally, ensuring both headers are at least two-thirds full",
+    "D": "By measuring the dialysate conductivity"
+   },
+   "correct": "C",
+   "explanation": "Peracetic acid has no vapor pressure and depends on direct contact to disinfect, so the PCP confirms adequate contact by holding the dialyzer horizontally and checking that both headers are at least two-thirds full of fluid (C). Smelling for vinegar (A), weighing the dialyzer (B), or measuring dialysate conductivity (D) do not verify that disinfectant fluid actually contacts the fibers. Insufficient fluid volume leaves surfaces unexposed to germicide, which is why this visual air-fluid level check is a required safety step before the dialyzer is used."
+  },
+  {
+   "topic": "Germicide confirmation",
+   "question": "How is the presence of germicide in a reprocessed dialyzer confirmed prior to use?",
+   "options": {
+    "A": "By visual inspection of dialyzer color only",
+    "B": "By checking the reuse master file entry",
+    "C": "By measuring the blood compartment volume",
+    "D": "By using a test strip of appropriate sensitivity"
+   },
+   "correct": "D",
+   "explanation": "The presence of germicide is confirmed using a test strip of appropriate sensitivity, so D is correct; for peracetic acid specifically, its presence is verified with test strips. Visual color inspection (A) can detect discoloration but cannot confirm germicide, a master-file entry (B) is documentation not verification, and blood compartment volume (C) measures clearance, not germicide. After the recirculating rinse, a test strip is again used to confirm the dialyzer, circuit, and saline bag are free of residual germicide before the patient is connected."
+  },
+  {
+   "topic": "Recirculating rinse",
+   "question": "During the pre-treatment recirculating rinse to remove germicide, what is the minimum blood compartment recirculating flow rate specified?",
+   "options": {
+    "A": "At least 200 mL/min",
+    "B": "At least 100 mL/min",
+    "C": "At least 350 mL/min",
+    "D": "At least 500 mL/min"
+   },
+   "correct": "A",
+   "explanation": "The pre-treatment recirculating rinse runs at a blood compartment recirculating flow rate of at least 200 mL/min while dialysate flows through at 500 mL/min or more, for 15-30 minutes, so A is correct. 100 mL/min (B) is below the specified minimum, and 350 (C) or 500 mL/min (D) confuse the blood-side minimum with the dialysate rate. Avoiding air introduction and rotating the dialyzer during flushing are important, because air trapped in the fibers or dialysate compartment reduces the effectiveness of germicide removal."
+  },
+  {
+   "topic": "Germicide rebound",
+   "question": "If the start of treatment is delayed after rinsing is complete, why should the PCP retest for a germicide 'rebound'?",
+   "options": {
+    "A": "Because the germicide test strip degrades over time",
+    "B": "Because the patient's temperature may have changed",
+    "C": "Because refrigeration increases germicide concentration",
+    "D": "Because the dialysate or saline flow may have been interrupted while the dialyzer was in standby"
+   },
+   "correct": "D",
+   "explanation": "A germicide rebound can occur when the dialysate or saline flow is interrupted while the dialyzer sits in standby, so retesting is required if treatment is delayed after rinsing—making D correct. It is not that the test strip degrades (A), that patient temperature changes (B), or that refrigeration increases germicide concentration (C). Standby allows residual germicide to diffuse back out of the fibers into the fluid. The medical director should set guidelines for how long a set-up dialyzer may sit before it must be reprocessed again."
+  },
+  {
+   "topic": "Time-out checklist",
+   "question": "Before starting a reuse treatment, two PCPs perform a 'time-out.' Which of the following is a critical element they must confirm?",
+   "options": {
+    "A": "That the dialyzer is for this patient and is now free of germicide",
+    "B": "That the patient has fasted before dialysis",
+    "C": "That the dialysate contains citrate",
+    "D": "That the dialyzer has been reused at least five times"
+   },
+   "correct": "A",
+   "explanation": "During the two-PCP time-out, critical elements include confirming the dialyzer is for this patient, is the correct model, had appropriate germicide contact time, is now free of germicide, and that the label confirms it is safe—so A is correct. Fasting (B), citrate dialysate (C), and a minimum of five prior reuses (D) are not part of this safety checklist. Both PCPs must sign off and the patient is invited to participate, reflecting a deliberate error-prevention step aimed at preventing the wrong or unsafe dialyzer from being used."
+  },
+  {
+   "topic": "Postdialysis refrigeration",
+   "question": "If a dialyzer cannot be promptly reprocessed after use, within what time frame should it be refrigerated in a temperature-monitored container?",
+   "options": {
+    "A": "Within 30 minutes",
+    "B": "Within 2 hours",
+    "C": "Within 6 hours",
+    "D": "Within 12 hours"
+   },
+   "correct": "B",
+   "explanation": "If a dialyzer cannot be promptly reprocessed, AAMI RD47:2002 requires it be refrigerated in a temperature-monitored container, avoiding freezing, within 2 hours—so B is correct. Thirty minutes (A) is stricter than the standard, while 6 (C) or 12 hours (D) exceed the allowed window, risking microbial growth in residual blood. Refrigeration slows bacterial proliferation until reprocessing; facility policy then sets how long refrigeration may continue, typically 36-48 hours from end of treatment, before the dialyzer must be reprocessed or discarded."
+  },
+  {
+   "topic": "Refrigeration time limit",
+   "question": "Facility practice typically sets the maximum time a used dialyzer may be refrigerated before reprocessing or discard at what range from the end of treatment?",
+   "options": {
+    "A": "12 to 24 hours",
+    "B": "24 to 30 hours",
+    "C": "36 to 48 hours",
+    "D": "60 to 72 hours"
+   },
+   "correct": "C",
+   "explanation": "Facility practice typically sets the maximum refrigeration time at 36 to 48 hours from the end of treatment before a used dialyzer must be reprocessed or discarded, so C is correct. Shorter windows of 12-24 (A) or 24-30 hours (B) understate the typical limit, and 60-72 hours (D) exceeds it. This limit is distinct from the 2-hour window within which refrigeration must begin. The medical director approves these limits to balance workflow against the risk of microbial growth in blood-exposed dialyzers held in storage."
+  },
+  {
+   "topic": "Nonsterile fluid exposure",
+   "question": "Why may staff NOT refrigerate a dialyzer that has been rinsed with nonsterile RO water?",
+   "options": {
+    "A": "Because RO water freezes at a higher temperature",
+    "B": "Because RO water destroys the germicide",
+    "C": "Because refrigeration is only allowed for peracetic acid dialyzers",
+    "D": "Because once the blood compartment is exposed to other than sterile fluids, the dialyzer must be promptly reprocessed"
+   },
+   "correct": "D",
+   "explanation": "Once the blood compartment has been exposed to other than sterile fluids—such as nonsterile RO rinse water—the dialyzer must be promptly reprocessed and may not be refrigerated, making D correct. The reason is contamination risk, not that RO water freezes differently (A), destroys germicide (B), or that refrigeration is limited to peracetic acid dialyzers (C). AAMI does not require rinse water to be sterile, but once nonsterile fluid contacts the blood compartment the unit can no longer be safely held and must move directly into reprocessing."
+  },
+  {
+   "topic": "Water bacteria limits 2008",
+   "question": "In 2008, the AAMI standards enforced by Medicare surveyors specified a bacteria upper limit for reprocessing water of which value?",
+   "options": {
+    "A": "< 200 cfu/mL",
+    "B": "< 100 cfu/mL",
+    "C": "< 50 cfu/mL",
+    "D": "< 2 cfu/mL"
+   },
+   "correct": "A",
+   "explanation": "In 2008 the AAMI standards enforced by Medicare surveyors specified a bacteria upper limit of < 200 cfu/mL for reprocessing water, with an action level of < 50 cfu/mL—so A is correct. The < 100 cfu/mL figure (B) is the stricter 2011 revision, < 50 (C) is the action level rather than the upper limit, and < 2 cfu/mL (D) confuses bacteria with the endotoxin unit. Because CMS had not adopted the 2011 revisions as of 2014, surveyors continued to enforce the 2008 limits, which is what facilities are actually held to."
+  },
+  {
+   "topic": "Water endotoxin limits",
+   "question": "In its 2011 revision, AAMI reduced the maximum allowable endotoxin level in reprocessing water to which value?",
+   "options": {
+    "A": "< 2 eu/mL",
+    "B": "< 0.25 eu/mL",
+    "C": "< 1 eu/mL",
+    "D": "< 0.5 eu/mL"
+   },
+   "correct": "B",
+   "explanation": "In its 2011 revision AAMI reduced the maximum allowable endotoxin in reprocessing water to < 0.25 eu/mL, with an action level of < 0.125 eu/mL—so B is correct. The < 2 eu/mL value (A) was the 2008 upper limit and < 1 eu/mL (C) was the 2008 action level; < 0.5 eu/mL (D) appears nowhere. The 2011 standard also tightened bacteria to < 100 cfu/mL and required more rigorous microbiologic techniques and longer incubation. As of 2014 CMS had not adopted these stricter limits into the conditions for coverage."
+  },
+  {
+   "topic": "Manifold pressure gradient",
+   "question": "During manifold flushing, a positive pressure gradient is maintained in which direction to help flush clots and detritus from the blood circuit?",
+   "options": {
+    "A": "From the blood compartment to the dialysate compartment",
+    "B": "Alternating equally between both compartments",
+    "C": "No pressure gradient is applied",
+    "D": "From the dialysate compartment to the blood compartment"
+   },
+   "correct": "D",
+   "explanation": "During manifold flushing a positive pressure gradient is maintained from the dialysate compartment to the blood compartment, so D is correct; this direction helps flush clots and plasma detritus out of the blood circuit. A blood-to-dialysate gradient (A), alternating pressure (B), or no gradient (C) would not accomplish this reverse-ultrafiltration cleaning. The pressures must not exceed the manufacturer's specified limits to avoid rupturing or collapsing the hollow fibers, so cleaning aggressiveness is constrained by membrane integrity."
+  },
+  {
+   "topic": "Header cleaning infections",
+   "question": "Failure to adhere to correct practices during which reprocessing step has frequently been the root cause of outbreaks of bloodstream infections and pyrogen reactions?",
+   "options": {
+    "A": "Dialyzer header cleaning",
+    "B": "Labeling of the dialyzer",
+    "C": "The pre-treatment recirculating rinse",
+    "D": "Baseline TCV measurement"
+   },
+   "correct": "A",
+   "explanation": "Failure to adhere to correct practices during dialyzer header cleaning has frequently been the root cause of outbreaks of bloodstream infections and pyrogen reactions, so A is correct. Labeling (B), the pre-treatment rinse (C), and baseline TCV measurement (D) are not the cited culprits. Header cleaning invades the blood compartment—removing lipids and clots, sometimes removing header caps and O-rings—and AAMI standard water is not sterile, so any assist device or cap must be disinfected between dialyzers to prevent cross-contamination."
+  },
+  {
+   "topic": "Novaflux machine",
+   "question": "The novel ClearFlux reprocessing machine from Novaflux differs from conventional equipment because it does what?",
+   "options": {
+    "A": "Uses heated water at 105 degrees C for all cleaning",
+    "B": "Eliminates the need for any germicide",
+    "C": "Does not require a precleaning with nonsterile fluids before reprocessing",
+    "D": "Removes the potting compound automatically"
+   },
+   "correct": "C",
+   "explanation": "The ClearFlux machine from Novaflux does not require precleaning with nonsterile fluids before reprocessing, so C is correct. Its first step instead runs a mixture of compressed air and a proprietary cleaning agent through the dialyzer, effectively removing clots from the headers. It does not rely on heated water at 105 degrees C (A), it does not eliminate germicide entirely (B), and it does not remove the potting compound (D). Conventional equipment cannot effectively clear large clots, which is why standard precleaning steps are otherwise necessary."
+  },
+  {
+   "topic": "Bleach cleaning",
+   "question": "Sodium hypochlorite (bleach) used as a cleaning agent should be diluted to what concentration or less, and it acts to do what?",
+   "options": {
+    "A": "1.5% or less; it destroys bacterial spores",
+    "B": "37% or less; it colors the dialyzer blue",
+    "C": "0.2% or less; it neutralizes peracetic acid",
+    "D": "0.06% or less; it dissolves proteinaceous deposits that may occlude hollow fibers"
+   },
+   "correct": "D",
+   "explanation": "Sodium hypochlorite (bleach) diluted to 0.06% or less dissolves proteinaceous deposits that may occlude the hollow fibers, so D is correct. The 1.5% figure (A) belongs to heated citric acid, 37% (B) is concentrated formalin, and 0.2% (C) is the glutaraldehyde OSHA limit—none describe bleach cleaning. The bleach used should be free of dyes or scents and EPA-listed for cleaning and disinfection. Note that bleach also strips the membrane's protein coat, which can reduce biocompatibility and increase albumin permeability in high-flux dialyzers."
+  },
+  {
+   "topic": "Peracetic acid composition",
+   "question": "Peracetic acid, the most commonly used cleaning agent and germicide, is a mixture of which two chemicals?",
+   "options": {
+    "A": "Acetic acid and hydrogen peroxide",
+    "B": "Formaldehyde and citric acid",
+    "C": "Sodium hypochlorite and water",
+    "D": "Glutaraldehyde and ethylene oxide"
+   },
+   "correct": "A",
+   "explanation": "Peracetic acid is a mixture of acetic acid and hydrogen peroxide, making A correct; it is the most commonly used cleaning agent and germicide. It is not formaldehyde plus citric acid (B), sodium hypochlorite (C), or glutaraldehyde plus ethylene oxide (D). A limitation is that peracetic acid may not completely remove proteins deposited on the membrane, and because it depends on direct contact with no vapor pressure, adequate fluid must fill the dialyzer. Its oxidizing action can also create a negative membrane charge linked to bradykinin-mediated reactions."
+  },
+  {
+   "topic": "Pressure leak test",
+   "question": "A blood path integrity (pressure leak) test works by generating a pressure gradient across the membrane and observing for what?",
+   "options": {
+    "A": "A change in dialysate conductivity",
+    "B": "A pressure fall in either the blood or dialysate compartment",
+    "C": "A rise in the ultrafiltration coefficient",
+    "D": "A color change on the test strip"
+   },
+   "correct": "B",
+   "explanation": "A blood path integrity (pressure leak) test generates a pressure gradient across the membrane and observes for a pressure fall in either the blood or dialysate compartment, so B is correct. It does not rely on dialysate conductivity (A), a rise in KUF (C), or a test-strip color change (D). The gradient can be made by instilling pressurized air or nitrogen into the blood side or drawing a vacuum on the dialysate side. Only minimal air should leak through an intact wetted membrane; damaged fibers rupture, and the test also screens O-rings, potting, and end-caps."
+  },
+  {
+   "topic": "TCV measurement method",
+   "question": "How is the blood compartment volume (TCV) physically measured during reprocessing?",
+   "options": {
+    "A": "By weighing the dry dialyzer",
+    "B": "By timing dialysate flow through the dialyzer",
+    "C": "By measuring the pressure needed to rupture the fibers",
+    "D": "By purging the filled blood compartment with air and measuring the volume of fluid obtained"
+   },
+   "correct": "D",
+   "explanation": "TCV is measured by purging the filled blood compartment—header plus fiber volume—with air and measuring the volume of fluid obtained, so D is correct. Weighing the dry dialyzer (A), timing dialysate flow (B), or measuring rupture pressure (C) do not quantify blood compartment volume. Every dialyzer is processed before first use to establish a baseline TCV, and the change from baseline is tracked after each reuse. Because TCV reflects patent fiber volume, it indirectly measures changes in membrane clearance for small molecules such as urea."
+  },
+  {
+   "topic": "TCV discard threshold",
+   "question": "A reduction in TCV of what magnitude corresponds to a 10% reduction in urea clearance, the maximum decrease acceptable for continued use?",
+   "options": {
+    "A": "20%",
+    "B": "5%",
+    "C": "10%",
+    "D": "40%"
+   },
+   "correct": "A",
+   "explanation": "A 20% reduction in TCV corresponds to a 10% reduction in urea clearance, which is the maximum decrease acceptable for continued use, so A is correct. A 5% (B) or 10% (C) drop is within acceptable range, and 40% (D) would far exceed the limit. TCV is monitored after each reuse because plugged capillaries reduce effective clearance. This 20%/10% relationship is the quantitative rule that determines when a dialyzer should be discarded, linking a simple volume measurement to a clinically meaningful decline in small-solute clearance."
+  },
+  {
+   "topic": "TCV failures and heparin",
+   "question": "In a given patient, repeated failure to reach the target number of reuses due to TCV test failures suggests what, and should prompt what action?",
+   "options": {
+    "A": "Membrane albumin loss; switch to a low-flux dialyzer",
+    "B": "Excessive clot formation during dialysis; review of the heparin prescription",
+    "C": "Germicide overdose; reduce contact time",
+    "D": "Water contamination; culture the RO system"
+   },
+   "correct": "B",
+   "explanation": "Repeated failure to reach the target number of reuses because of TCV test failures suggests excessive clot formation during dialysis and should prompt a review of the heparin prescription, so B is correct. It does not indicate albumin loss requiring a low-flux switch (A), germicide overdose (C), or water contamination (D). Clotting plugs fibers, lowering TCV and shortening dialyzer life. Because reusability deteriorates quickly without adequate anticoagulation, individually targeted heparin dosing has been reported to increase the number of achievable reuses."
+  },
+  {
+   "topic": "KUF and beta-2 clearance",
+   "question": "A decrease in a reused dialyzer's KUF is usually accompanied by a reduction in the clearance of which molecule?",
+   "options": {
+    "A": "Urea",
+    "B": "Creatinine",
+    "C": "Sodium",
+    "D": "Beta-2-microglobulin"
+   },
+   "correct": "D",
+   "explanation": "A decrease in a reused dialyzer's KUF is usually accompanied by a reduction in beta-2-microglobulin clearance, so D is correct. KUF measures water permeability but also indirectly reflects mass transfer for larger molecules, so it does not track small-solute clearance of urea (A), creatinine (B), or sodium (C). Notably, a falling KUF does not impair fluid removal, because modern machines with automated ultrafiltration control compensate via transmembrane pressure adjustments—so the clinical impact of KUF loss falls on middle-molecule, not volume, clearance."
+  },
+  {
+   "topic": "Disinfection vs sterilization",
+   "question": "High-level disinfection, which is all that current standards require for reprocessing, differs from sterilization in what way?",
+   "options": {
+    "A": "It requires higher temperatures",
+    "B": "It cannot be automated",
+    "C": "It may not destroy spores",
+    "D": "It kills only gram-negative bacteria"
+   },
+   "correct": "C",
+   "explanation": "High-level disinfection differs from sterilization in that it may not destroy spores, so C is correct; high-level disinfection is all that current standards require. It is not defined by needing higher temperatures (A), an inability to be automated (B), or selective killing of gram-negative bacteria (D). Sterilization as legally defined is not easily accomplished in a dialysis facility. Disinfection renders living organisms inactive by chemical germicide or heat; heated citric acid or water methods can destroy spores, but routine high-level disinfection is the required standard."
+  },
+  {
+   "topic": "Germicide sampling frequency",
+   "question": "How does the requirement for verifying germicide presence differ between manual and automated reprocessing systems?",
+   "options": {
+    "A": "Both require checking every dialyzer twice",
+    "B": "Automated systems require checking every dialyzer; manual only a daily sample",
+    "C": "Neither system requires germicide verification",
+    "D": "In manual systems each dialyzer must be checked; in automated systems only a sample is tested each day"
+   },
+   "correct": "D",
+   "explanation": "In manual reprocessing each dialyzer must be individually checked for the presence of germicide, whereas in automated systems only a sample needs to be tested each day—so D is correct. It is not that both require double-checking every dialyzer (A), nor the reversed rule that automated systems check every one while manual needs only a daily sample (B), nor that verification is unnecessary (C). Automation makes cleansing cycles reproducible, justifying sample-based verification, while manual processing lacks that reproducibility and demands per-dialyzer confirmation."
+  },
+  {
+   "topic": "Aldehyde germicide decline",
+   "question": "The use of formaldehyde or glutaraldehyde as reprocessing germicides has essentially disappeared largely for what reason?",
+   "options": {
+    "A": "They were found to transmit hepatitis B",
+    "B": "They damage all synthetic membranes",
+    "C": "The FDA banned their use in dialysis",
+    "D": "There are no automated methods for reprocessing with them and manual aldehyde methods are burdensome under OSHA standards"
+   },
+   "correct": "D",
+   "explanation": "Formaldehyde and glutaraldehyde use has essentially disappeared largely because there are no automated reprocessing methods for them and manual aldehyde reuse is burdensome under OSHA standards—so D is correct. It was not driven by hepatitis B transmission (A), damage to all synthetic membranes (B), or an outright FDA ban (C). Manual aldehyde methods require meeting OSHA rules for safe handling, exposure limits, and surveillance and respiratory testing of exposed staff. Peracetic acid, which can be automated, has become the dominant germicide instead."
+  },
+  {
+   "topic": "Heat disinfection",
+   "question": "Which of the following describes a nonnoxious chemical alternative used for heat disinfection of dialyzers?",
+   "options": {
+    "A": "Room-temperature bleach at 0.06%",
+    "B": "Ethylene oxide gas at 60 degrees C",
+    "C": "Heated 1.5% citric acid at 95 degrees C, or heated water at 105 degrees C",
+    "D": "Cold glutaraldehyde soak for 24 hours"
+   },
+   "correct": "C",
+   "explanation": "Heated 1.5% citric acid at 95 degrees C, or the original method of heated water at 105 degrees C, are nonnoxious chemical alternatives for disinfection—so C is correct. Room-temperature bleach (A), ethylene oxide gas (B), and cold glutaraldehyde soaking (D) are not the described heat methods. Laboratory studies show these heat methods destroy spores, unlike routine high-level chemical disinfection. However, they are cumbersome because they are not available in automated form, and heat affects the durability of many dialyzers, so directors must validate effectiveness locally."
+  },
+  {
+   "topic": "Peracetic acid shelf life",
+   "question": "Peracetic acid has a shelf life of about how long, prompting a recommendation to re-disinfect stored peracetic acid dialyzers at that interval?",
+   "options": {
+    "A": "3-5 days",
+    "B": "7-10 days",
+    "C": "14-21 days (re-disinfect every 14 days)",
+    "D": "30-45 days"
+   },
+   "correct": "C",
+   "explanation": "Peracetic acid has a shelf life of 14-21 days, and because residual blood in a dialyzer reduces its concentration, peracetic acid-sterilized dialyzers should be re-disinfected every 14 days—so C is correct. Shorter intervals of 3-5 (A) or 7-10 days (B), or a longer 30-45 days (D), do not match the stated shelf life. Storage temperature also influences required germicide contact time. It remains uncertain how long a dialyzer can be safely stored even with periodic re-disinfection, so the medical director must specify re-disinfection and disposal limits."
+  },
+  {
+   "topic": "First-use reactions",
+   "question": "Dialyzer 'first-use' reactions with restlessness, chest pain, coughing, dyspnea, hypoxemia, and hypotension appeared to do what when reprocessed dialyzers were used?",
+   "options": {
+    "A": "Become more frequent and severe",
+    "B": "Occur only with heat disinfection",
+    "C": "Become less frequent, though some patients remain sensitive",
+    "D": "Remain completely unchanged"
+   },
+   "correct": "C",
+   "explanation": "First-use reactions—restlessness, chest pain, coughing, dyspnea, hypoxemia, and hypotension—appeared less frequent when reprocessed dialyzers were used, though some patients remain sensitive even with multiply reprocessed dialyzers, so C is correct. They did not become more frequent (A), occur only with heat disinfection (B), or remain unchanged (D). Reuse leaves a protein coat that makes the membrane more biocompatible on subsequent use, and it removes residual ethylene oxide and manufacturing chemicals. Modern biocompatible synthetic membranes have reduced these reactions with single use too."
+  },
+  {
+   "topic": "Complement activation",
+   "question": "One recognized source of first-use reactions is a membrane-blood bioincompatibility that results in which of the following?",
+   "options": {
+    "A": "Direct hemolysis of red blood cells",
+    "B": "Complement-mediated (alternative pathway) sequestration of leucocytes in the pulmonary circulation",
+    "C": "IgG-mediated platelet aggregation",
+    "D": "Coagulation cascade activation via factor VII"
+   },
+   "correct": "B",
+   "explanation": "One recognized source of first-use reactions is a membrane-blood bioincompatibility causing complement-mediated (alternative pathway) sequestration of leucocytes in the pulmonary circulation, so B is correct. It is not direct hemolysis (A), IgG-mediated platelet aggregation (C), or factor VII coagulation activation (D). During use the membrane becomes coated with protein; many peracetic acid methods leave this coat, rendering the membrane more biocompatible on reuse, whereas bleach strips it. Other reactions stem from IgE responses to residual ethylene oxide or leached components."
+  },
+  {
+   "topic": "Bleach and biocompatibility",
+   "question": "Reprocessing a dialyzer with bleach has what effect on membrane biocompatibility?",
+   "options": {
+    "A": "It strips off the proteinaceous coat, potentially resulting in a less biocompatible dialyzer",
+    "B": "It deposits a new protein layer, increasing biocompatibility",
+    "C": "It has no effect on biocompatibility",
+    "D": "It permanently sterilizes the membrane against reactions"
+   },
+   "correct": "A",
+   "explanation": "Reprocessing with bleach strips off the proteinaceous coat that forms on the membrane during dialysis, potentially resulting in a less biocompatible dialyzer—so A is correct. It does not deposit a new protein layer to increase biocompatibility (B), have no effect (C), or permanently sterilize the membrane against reactions (D). The protein coat normally makes the membrane more biocompatible on subsequent use, so removing it can restore first-use-type bioincompatibility. Bleach also increases albumin permeability, most notably in dialyzers with very high water permeability."
+  },
+  {
+   "topic": "Ethylene oxide reactions",
+   "question": "Some first-use type reactions are caused by a true IgE-mediated anaphylactoid reaction to residual amounts of which substance used to sterilize the dialyzer?",
+   "options": {
+    "A": "Peracetic acid",
+    "B": "Citric acid",
+    "C": "Ethylene oxide",
+    "D": "Sodium hypochlorite"
+   },
+   "correct": "C",
+   "explanation": "Some first-use-type reactions are caused by a true IgE-mediated anaphylactoid reaction to residual ethylene oxide used to sterilize the dialyzer, so C is correct. Peracetic acid (A), citric acid (B), and sodium hypochlorite (D) are reprocessing agents, not the sterilant implicated in this IgE mechanism. Preprocessing and reprocessing help remove ethylene oxide and other manufacturing chemicals, reducing their ability to leach into the patient. The broader shift away from ethylene oxide sterilization toward biocompatible synthetic membranes has markedly reduced these reactions."
+  },
+  {
+   "topic": "Mortality evidence",
+   "question": "Which statement best characterizes the published evidence on dialyzer reuse and mortality?",
+   "options": {
+    "A": "Large randomized controlled trials proved reuse increases mortality",
+    "B": "All studies uniformly showed reuse is safer than single use",
+    "C": "Reuse was proven to reduce mortality in randomized trials",
+    "D": "A systematic review found no evidence of an adverse mortality effect, and there have been no large prospective randomized controlled trials"
+   },
+   "correct": "D",
+   "explanation": "The best characterization is that the Galvao 2012 systematic review found no published evidence of an adverse mortality effect of multiple use, and there have been no large prospective randomized controlled trials of reuse versus single use—so D is correct. There were no RCTs proving harm (A), no uniform finding that reuse is safer (B), and no trials proving reduced mortality (C). Most outcome studies were observational, from the cellulosic-dialyzer era, and prone to bias and confounding by indication; the large DaVita cohort (Bond, 2011) showed no adverse mortality effect."
+  },
+  {
+   "topic": "Formaldehyde antibodies",
+   "question": "When formaldehyde was in widespread reprocessing use, patients were reported to develop which antibodies?",
+   "options": {
+    "A": "Anti-N antibodies",
+    "B": "Anti-A antibodies",
+    "C": "Anti-nuclear antibodies",
+    "D": "Anti-platelet antibodies"
+   },
+   "correct": "A",
+   "explanation": "With widespread formaldehyde reprocessing use, providers reported patients developing anti-N antibodies, so A is correct. Anti-A antibodies (B), antinuclear antibodies (C), and anti-platelet antibodies (D) were not the reported association. Patients also experienced acute formaldehyde reactions characterized by burning at the needle site and itching in the access arm during dialysis. These problems, together with OSHA handling burdens and the lack of automated aldehyde methods, contributed to formaldehyde being abandoned in favor of peracetic acid."
+  },
+  {
+   "topic": "Bacteremia clusters",
+   "question": "Clusters of bacteremia caused by gram-negative water-borne organisms such as Stenotrophomonas maltophilia, Burkholderia cepacia, or Ralstonia pickettii have been reported in which setting?",
+   "options": {
+    "A": "Single-use dialysis facilities only",
+    "B": "Facilities using dialyzer reprocessing",
+    "C": "Home dialysis programs exclusively",
+    "D": "Peritoneal dialysis units"
+   },
+   "correct": "B",
+   "explanation": "Clusters of bacteremia from gram-negative water-borne organisms—Stenotrophomonas maltophilia, Burkholderia cepacia, or Ralstonia pickettii—are rarely if ever reported in single-use facilities but have occurred in facilities using dialyzer reprocessing, so B is correct. They are not confined to single-use units (A), home dialysis (C), or peritoneal dialysis (D). The source is generally the water used to rinse and clean dialyzers and to prepare germicides, demanding scrupulous water treatment; bacteria sequestered in clotted fibers may escape the sterilant and be dislodged during treatment."
+  },
+  {
+   "topic": "ACE inhibitor reactions",
+   "question": "An outbreak of anaphylactoid reactions to reused dialyzers reprocessed with peracetic acid occurred mostly in patients treated with which medication class?",
+   "options": {
+    "A": "Beta-blockers",
+    "B": "Calcium channel blockers",
+    "C": "ACE inhibitors",
+    "D": "Statins"
+   },
+   "correct": "C",
+   "explanation": "An outbreak of anaphylactoid reactions to peracetic acid-reprocessed dialyzers occurred mostly in patients treated with ACE inhibitors, so C is correct—not beta-blockers (A), calcium channel blockers (B), or statins (D). Oxidizing agents like peracetic acid can impart a strong negative charge on the protein-coated membrane, activating factor XII, kininogen, kallikrein, and bradykinin; ACE inhibitors block bradykinin degradation and potentiate the reaction. For unexplained early reactions, the medication list should be reviewed for ACE inhibitors regardless of germicide."
+  },
+  {
+   "topic": "HBV reuse policy",
+   "question": "Under current Medicare conditions of coverage, what is required regarding hepatitis B (HBV)-positive patients and reuse?",
+   "options": {
+    "A": "They may participate in reuse with universal precautions only",
+    "B": "They require reuse with heat disinfection only",
+    "C": "They are excluded from reuse and must be dialyzed in a separate isolation room",
+    "D": "They are excluded from reuse but need no isolation"
+   },
+   "correct": "C",
+   "explanation": "Current Medicare conditions of coverage require excluding hepatitis B (HBV)-positive patients from reuse (V301) and dialyzing them in a separate isolation room (V128), so C is correct. They may not participate with universal precautions alone (A), are not simply assigned heat disinfection (B), and are not excluded without isolation (D). HBV's transmissibility drives both the reuse exclusion and the isolation requirement, a stricter standard than that applied to HIV or HCV patients, for whom isolation is not required."
+  },
+  {
+   "topic": "HIV and HCV reuse policy",
+   "question": "According to the CDC recommendations described, how are HIV and HCV patients handled with respect to reuse?",
+   "options": {
+    "A": "Both must be excluded from reuse and isolated",
+    "B": "Both may continue reuse without required isolation, universal precautions being considered adequate",
+    "C": "Both require reuse only with formaldehyde",
+    "D": "Both must be dialyzed in a separate isolation room like HBV patients"
+   },
+   "correct": "B",
+   "explanation": "Per the CDC recommendations described, HIV and HCV patients may continue on a reuse program without required isolation, universal precautions being considered adequate to protect staff and other patients—so B is correct. They are not both excluded and isolated (A), restricted to formaldehyde reuse (C), or placed in isolation rooms like HBV patients (D). The medical director may nonetheless choose to exclude HIV patients from reuse to limit staff exposure to HIV-infected blood, but this is a discretionary rather than a required measure."
+  },
+  {
+   "topic": "Fiber bundle volume threshold",
+   "question": "As long as the fiber bundle volume of a reused hollow-fiber dialyzer remains at least what percentage of baseline, urea clearance remains clinically acceptable?",
+   "options": {
+    "A": "80%",
+    "B": "50%",
+    "C": "70%",
+    "D": "95%"
+   },
+   "correct": "A",
+   "explanation": "As long as the fiber bundle volume of a reused hollow-fiber dialyzer remains at least 80% of baseline, urea clearance stays clinically acceptable—so A is correct. Lower thresholds of 50% (B) or 70% (C) would permit excessive clearance loss, and 95% (D) is stricter than required. This 80% floor mirrors the discard rule: a 20% TCV reduction equals a 10% urea clearance drop, the maximum acceptable. The HEMO study confirmed that urea clearance decreases only modestly with reuse, at most 1.4%-2.9% over 20 uses."
+  },
+  {
+   "topic": "HEMO study urea clearance",
+   "question": "The HEMO study found that, independent of the reuse method, urea clearance decreased by approximately what amount over 20 uses?",
+   "options": {
+    "A": "5%-8%",
+    "B": "1.4%-2.9%",
+    "C": "10%-15%",
+    "D": "20%-25%"
+   },
+   "correct": "B",
+   "explanation": "The HEMO study found that, independent of the reuse method, urea clearance decreased only 1.4%-2.9% over 20 uses—at most a modest change—so B is correct. Larger estimates of 5%-8% (A), 10%-15% (C), or 20%-25% (D) overstate the loss. A reused dialyzer becomes less efficient as capillaries plug with protein or clot, but clearance stays acceptable while fiber bundle volume is at least 80% of baseline. This reassuring finding supports that properly monitored reuse does not meaningfully compromise small-solute dialysis adequacy."
+  },
+  {
+   "topic": "Citrate dialysate",
+   "question": "Bicarbonate dialysate containing a small amount of citrate in place of acetate has been reported to increase urea clearance in a reuse setting, possibly through which mechanism?",
+   "options": {
+    "A": "Increased dialysate flow rate",
+    "B": "Direct removal of the membrane protein coat",
+    "C": "Enhanced complement activation",
+    "D": "Calcium chelation by citrate at the membrane boundary layer, reducing activation of clotting factors and platelets"
+   },
+   "correct": "D",
+   "explanation": "Bicarbonate dialysate containing a small amount of citrate in place of acetate has been reported to increase urea clearance in reuse, possibly through calcium chelation by citrate at the membrane boundary layer, reducing activation of clotting factors and platelets—so D is correct. It is not from higher dialysate flow (A), removal of the protein coat (B), or enhanced complement activation (C). This local anticoagulant effect keeps fibers patent, and it is potentially beneficial in single-use programs as well, mirroring how better anticoagulation preserves dialyzer performance."
+  },
+  {
+   "topic": "Beta-2 microglobulin reuse",
+   "question": "Of most concern regarding beta-2-microglobulin clearance during reuse is the rapid falloff seen in which scenario?",
+   "options": {
+    "A": "When high-flux cellulose dialyzers are reused with peracetic acid without a bleach cycle",
+    "B": "When low-flux dialyzers are reused with heat",
+    "C": "When any dialyzer is reused with formaldehyde",
+    "D": "When dialyzers are reused fewer than five times"
+   },
+   "correct": "A",
+   "explanation": "The greatest concern for beta-2-microglobulin clearance is the rapid falloff when high-flux cellulose dialyzers are reused with peracetic acid/hydrogen peroxide/acetic acid without a bleach cycle—so A is correct. Low-flux dialyzers reused with heat (B), any dialyzer with formaldehyde (C), and reuse fewer than five times (D) are not the cited high-risk scenario. Protein deposits not removed by peracetic acid reduce middle-molecule clearance, and a bleach cycle can strip them. Notably, the Novaflux air-fluid two-phase system maintains both water permeability and larger-molecule clearance."
+  },
+  {
+   "topic": "Albumin loss",
+   "question": "An increase in dialyzer permeability to albumin during reuse, correlating with the number of reuses, is most associated with which condition?",
+   "options": {
+    "A": "Heat disinfection of low-flux dialyzers",
+    "B": "Exposure to bleach, most pronounced in dialyzers with very high water permeability",
+    "C": "Peracetic acid reuse without bleach",
+    "D": "Formaldehyde reuse of cellulosic membranes"
+   },
+   "correct": "B",
+   "explanation": "Increased dialyzer permeability to albumin during reuse, correlating with the number of reuses, is most associated with exposure to bleach and is most pronounced in dialyzers with very high water permeability—so B is correct. It is not tied to heat disinfection of low-flux dialyzers (A), peracetic acid reuse without bleach (C), or formaldehyde reuse of cellulosic membranes (D). Bleach strips the protein coat and can open the membrane to albumin, an unwanted protein loss that scales with reuse number and with the intrinsic water permeability of high-flux membranes."
+  },
+  {
+   "topic": "Medical director responsibility",
+   "question": "Under U.S. federal regulations, who is responsible for the decision to have a reprocessing program (V311), a decision that should be reflected in the governing body minutes?",
+   "options": {
+    "A": "The medical director",
+    "B": "The charge nurse",
+    "C": "The individual reprocessing technician",
+    "D": "The dialyzer manufacturer"
+   },
+   "correct": "A",
+   "explanation": "Under U.S. federal regulations the medical director is responsible for the decision to have a reprocessing program (V311), a decision that should be reflected in the governing body minutes—so A is correct. The charge nurse (B), individual reprocessing technician (C), and dialyzer manufacturer (D) do not hold this responsibility. The medical director is also accountable for staff training and competence (V308 ff), and the patient's nephrologist must agree to and order reprocessing for that patient, reinforcing physician oversight of the entire reuse program."
+  },
+  {
+   "topic": "Suspension of reuse",
+   "question": "The medical director must suspend reuse under which circumstance (V382)?",
+   "options": {
+    "A": "Whenever a single dialyzer fails a TCV test",
+    "B": "When water bacteria counts reach the action level once",
+    "C": "When there is a cluster of adverse patient events that could be attributed to the reuse program",
+    "D": "When any patient requests single-use dialyzers"
+   },
+   "correct": "C",
+   "explanation": "The medical director must suspend reuse when there is a cluster of adverse patient events that could be attributed to the reuse program (V382), so C is correct. A single TCV failure (A), water bacteria reaching the action level once (B), or a patient requesting single-use dialyzers (D) do not trigger mandatory suspension. The action-level concept prompts investigation, not shutdown, whereas a cluster of adverse events signals a systemic problem. The reuse program is subject to ongoing QAPI review, and root cause analysis is required for any suspension event."
+  },
+  {
+   "topic": "Manufacturer reuse labeling",
+   "question": "Under FDA guidelines allowing manufacturers to label dialyzers for multiple use, manufacturers must provide performance data over how many reuses?",
+   "options": {
+    "A": "5 reuses",
+    "B": "10 reuses",
+    "C": "15 reuses",
+    "D": "20 reuses"
+   },
+   "correct": "C",
+   "explanation": "FDA guidelines allow manufacturers to label dialyzers for multiple use, recommend an appropriate reuse method, and provide performance data over 15 reuses (FDA, 1995)—so C is correct. Five (A), ten (B), and twenty (D) reuses are not the specified figure. These guidelines arose because dialyzers labeled single-use-only were previously reused widely. Manufacturers may still choose to label their dialyzers for single use only, and because the U.S. is the major market for multiple-use labeling, some decline certification, paradoxically reducing dialyzer choices for patients."
+  },
+  {
+   "topic": "Blood tubing reuse",
+   "question": "What is the current status of blood tubing reuse?",
+   "options": {
+    "A": "It is freely permitted under AAMI standards",
+    "B": "It is banned entirely by the FDA",
+    "C": "It is permitted for HIV patients only",
+    "D": "It is permitted only with an FDA-accepted manufacturer protocol, and currently no such product is available"
+   },
+   "correct": "D",
+   "explanation": "Blood tubing reuse is permitted only when the manufacturer has developed a specific protocol accepted by the FDA, and currently no such product is available—so D is correct. It is not freely permitted under AAMI standards (A), banned entirely by the FDA (B), or limited to HIV patients (C). Although guidelines for blood tubing reuse have been published (AAMI, 2002), the required FDA-accepted manufacturer protocol does not yet exist. Separately, Medicare conditions do not allow reuse of transducer protectors, so reuse of disposables is tightly restricted."
+  },
+  {
+   "topic": "Informed consent",
+   "question": "What is the requirement regarding informed consent for reprocessing dialyzers?",
+   "options": {
+    "A": "Written informed consent is mandatory before every treatment",
+    "B": "There is no rule requiring informed consent, but patients must be fully informed with written information about risks and benefits",
+    "C": "Verbal consent from a family member is legally required",
+    "D": "Informed consent is required only for HBV patients"
+   },
+   "correct": "B",
+   "explanation": "There is no rule requiring formal informed consent for reprocessing, but Medicare conditions require that patients and caregivers be fully informed, including written information about the risks and benefits in language appropriate for the patient—so B is correct. Mandatory written consent before every treatment (A), legally required verbal family consent (C), and consent only for HBV patients (D) are not the standard. The information should describe the program's rationale, and patients should be invited to participate in confirming their dialyzer is correctly identified and safe."
+  },
+  {
+   "topic": "Cost argument",
+   "question": "What is described as the strongest argument for multiple-use dialyzers, and why has it become less compelling?",
+   "options": {
+    "A": "Cost savings enabling use of higher mass-transfer, more biocompatible dialyzers; less compelling as high-flux dialyzer costs have fallen",
+    "B": "Reduced infection rates; less compelling as antibiotics improved",
+    "C": "Improved urea clearance; less compelling as URR targets fell",
+    "D": "Lower staffing needs; less compelling as automation increased"
+   },
+   "correct": "A",
+   "explanation": "The strongest argument for multiple-use dialyzers is that cost savings enable use of dialyzers with higher mass-transfer coefficients that are more biocompatible; this is less compelling as the cost of efficient high-flux dialyzers has fallen—so A is correct. It is not primarily about reduced infections (B), improved urea clearance (C), or lower staffing (D). The true cost of a reused dialyzer cannot fall below the cost of reprocessing—staff wages, training, equipment depreciation, water, chemicals, germicides, test strips, cultures, LAL tests, and added QAPI—so savings may be small."
+  },
+  {
+   "topic": "QAPI records",
+   "question": "Which of the following must the reuse QAPI records track under the accountability of the medical director?",
+   "options": {
+    "A": "Only the total number of dialyzers purchased annually",
+    "B": "Staff training and competence, audits, validation, microbiology, average reuses, failure reasons, and adverse events",
+    "C": "Only patient satisfaction survey scores",
+    "D": "Only the germicide inventory levels"
+   },
+   "correct": "B",
+   "explanation": "Reuse QAPI records, under the medical director's accountability, must track staff training and continued competence, audits, validation, microbiology, average number of reuses, reasons for failure, and adverse events—so B is correct. Tracking only dialyzers purchased (A), only satisfaction scores (C), or only germicide inventory (D) is insufficient. Records must also capture patient complaints and root cause analysis of any event requiring suspension of reuse, and the facility must maintain each dialyzer's history from preprocessing to disposal, per detailed AAMI requirements."
+  },
+  {
+   "topic": "Peracetic acid OSHA limit",
+   "question": "What is stated regarding OSHA exposure limits for peracetic acid?",
+   "options": {
+    "A": "The limit is 1 ppm TWA",
+    "B": "There are no current OSHA exposure limits for peracetic acid",
+    "C": "The limit is 0.2 ppm",
+    "D": "The limit is 3 ppm short-term"
+   },
+   "correct": "B",
+   "explanation": "There are no current OSHA exposure limits for peracetic acid, so B is correct. It does not have a 1 ppm TWA limit (A), a 0.2 ppm limit (C), or a 3 ppm short-term limit (D)—those figures belong to other germicides. For comparison, the 1990 OSHA limits are formaldehyde 1 ppm TWA (3 ppm short-term), hydrogen peroxide 1 ppm TWA, and glutaraldehyde 0.2 ppm. Despite no specific peracetic acid limit, protective eyewear, clothing, proper spill handling, and adequate air turnover with forced inward air and exhaust ducts are still required."
+  }
+ ]
+}

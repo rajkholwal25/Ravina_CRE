@@ -1,0 +1,1232 @@
+555
+Diabetes
+David J. Leehey, Mary Ann Emanuele, 
+and Nicholas Emanuele
+More than 40% of all new patients starting dialysis in the United 
+States are diabetic. Provision of maintenance dialysis for this group 
+can be a challenging task. Morbidity and mortality are substantially 
+higher in diabetic patients maintained on dialysis than in their non -
+diabetic counterparts, with cardiovascular disease and infection 
+being the leading causes of death. In the United States, the 3-year 
+survival rate of diabetic patients maintained on dialysis is only about 
+50% (USRDS, 2013).
+ I. WHEN TO INITIATE DIALYSIS.  Early referral to nephrologists of dia-
+betic patients with renal failure reportedly improves outcomes. 
+Previous guidelines emphasized initiation of dialysis prior to 
+the appearance of frank uremic manifestations (at an estimated 
+glomerular filtration rate [eGFR] of ≤15 mL/min per 1.73 m
+2). 
+However, a recent randomized controlled trial that examined 
+mortality versus time of dialysis initiation, the IDEAL study, 
+found no difference in survival between early or late initiation of 
+dialysis, and in that study, approximately one-third of the partici-
+pants were diabetic (Cooper, 2010).
+II. HEMODIALYSIS VERSUS PERITONEAL DIALYSIS.  The potential prob -
+lems with each form of dialysis are listed in Table 32.1. Long-term 
+peritoneal dialysis (PD) in diabetic patients may complicate
+control of blood sugar because altered glucose homeostasis is
+stressed further by the large amount of glucose administered
+via the dialysis solution. In addition, glucose absorption from
+the abdominal cavity decreases appetite. Many PD patients have
+difficulty ingesting the higher recommended amount of protein
+for PD patients (1.2 g/kg daily). On the other hand, the incidence 
+and severity of hypoglycemic episodes is reduced in continuous
+ambulatory peritoneal dialysis (CAPD) or automated peritoneal
+dialysis (APD) compared with hemodialysis (HD) because of the
+constant or near-constant presence of glucose in the abdomen.
+Rates of infection (peritonitis, exit-site and tunnel infections) and 
+rates of catheter replacement are similar between diabetic and
+nondiabetic patients on PD. Administration of insulin intraperi -
+toneally appears to increase slightly the risk of peritonitis in PD
+32
+Daugirdas9781451144291-ch032.indd   555 11/10/14   3:42 am
+Part IV / Clinical Problem Areas
+556
+patients and, though appealing on physiologic grounds, is now 
+less commonly employed. With HD, coexisting blood vessel dis-
+ease often hinders creation of an adequate, long-lasting vascular 
+access. The survival rates of both arteriovenous (AV) fistulas and 
+grafts are substantially reduced in diabetic compared with non-
+diabetic patients. A small fraction of diabetic patients develop 
+severe hand ischemia after creation of an ipsilateral AV fistula, 
+which can lead to gangrene and need for amputation; prompt 
+ligation of the fistula is indicated in such instances. Because of 
+autonomic nervous system dysfunction or cardiac diastolic dys -
+function, diabetic patients are at increased risk for hypotension 
+during HD. Problems with vascular access and increased risk 
+of hypotension may cause diabetic patients to receive a lesser 
+amount of dialysis (in terms of fractional urea clearance [Kt /V]) 
+than their nondiabetic counterparts.
+Modality Advantages Disadvantages
+Hemodialysis Very efficient
+Frequent medical follow-up 
+(in-center)
+No protein loss to dialysate
+May be poorly tolerated in 
+patients with advanced cardiac 
+disease
+Multiple arteriovenous access 
+surgeries often required; risk of 
+severe hand ischemia
+Relatively high incidence of 
+hypotension during dialysis 
+session
+Predialysis hyperkalemia
+Prone to hypoglycemia
+CAPD Good cardiovascular tolerance
+No need for arteriovenous 
+access
+Good control of serum 
+potassium
+Lower risk of hypoglycemia
+Peritonitis, exit-site infection, 
+and tunnel infection (however, 
+risks similar to those in 
+nondiabetic dialysis patients)
+Protein loss to dialysate
+Increased intra-abdominal 
+pressure effects (hernias, fluid 
+leaks, etc.)
+Often needs helper (e.g., some 
+blind patients)
+APD Good cardiovascular tolerance
+No need for arteriovenous 
+access
+Good control of serum 
+potassium
+Lower risk of hypoglycemia
+Good for blind diabetics
+Peritonitis risk slightly less than 
+for CAPD
+Protein loss to dialysate
+CAPD, continuous ambulatory peritoneal dialysis; APD, automated peritoneal dialysis.
+Dialysis Modalities for Diabetics
+32.1
+TABLE
+Daugirdas9781451144291-ch032.indd   556 11/10/14   3:42 am
+557Chapter 32 / Diabetes
+Lower extremity amputations are frequent in diabetic pa -
+tients on either HD or PD. The rate of progression of retinopa-
+thy appears to be similar between patients treated with HD and 
+PD. Although visual impairment impedes training for CAPD and 
+makes it difficult for the patient to perform the exchange proce -
+dure properly, even blind diabetic patients can be trained to per-
+form CAPD without a helper. When properly instructed, their risk 
+of developing peritonitis is only slightly greater than the risk in 
+sighted diabetics. A number of devices are available to help vi-
+sually impaired patients connect the dialysis solution container 
+to the peritoneal transfer set (see Chapter 22). APD is a better 
+therapeutic choice for blind diabetic patients because many APD 
+schedules require the performance of only one “on” and one “off ” 
+procedure daily.
+Earlier reports from the U.S. Renal Data System suggested 
+that mortality is higher in diabetic patients, and especially dia-
+betic women, on PD than in those on HD. Patient selection biases 
+and/or inadequate PD may have affected these observations. In 
+a subsequent large analysis, mortality risk was actually higher 
+with HD than PD among younger diabetics with no comorbid-
+ity but lower with HD in older diabetics, especially if they had 
+comorbidities (Vonesh, 2004). These results are undoubtedly 
+also affected by selection biases. Comorbidity and malnutrition 
+have much larger effects on mortality than the dialysis modality. 
+Meticulous management and prevention of cardiovascular and 
+infectious morbidity may lead to substantial improvement in pa-
+tient survival.
+ III. DIET .  W hatever the mode of dialysis therapy, diabetic patients 
+generally show evidence of wasting and malnutrition. Many fac-
+tors contribute, including chronic inflammation, inadequate 
+food intake, diabetic gastroparesis and enteropathy, and the 
+catabolic stress associated with frequent intercurrent illness. In 
+the event of serious illness, diabetic dialysis patients often require 
+early and intensive nutritional support.
+A. Routine dietary prescription. T he diets advocated for nondiabetic 
+HD and PD patients in Chapter 31 also apply to patients with 
+diabetes. In an anuric diabetic patient being treated with HD, 
+the stringent sodium, potassium, and fluid restrictions de-
+scribed in Chapter 31 should be applied. Special effort should 
+be made to limit intake of simple sugars and saturated fats.
+1. Carbohydrates percentage.  T he general recommendation for 
+a diabetic diet is for 50%–60% of intake to be carbohy-
+drates, with some interest in using an even lower carbo-
+hydrate diet in diabetic patients (Arora, 2005). In patients 
+undergoing PD, the glucose calories supplied from the PD 
+regimen (usually around 400 kcal) should be subtracted 
+from the dietary carbohydrate prescription, and perhaps 
+in selected patients with hypertriglyceridemia, a focus on 
+avoiding all high-glycemic-index carbohydrates might be 
+of benefit.
+Daugirdas9781451144291-ch032.indd   557 11/10/14   3:42 am
+Part IV / Clinical Problem Areas
+558
+2. Dietary “glycotoxins” from advanced glycosylation end products  
+(AGEs). L evels of AGEs are increased in food that has been 
+cooked at high temperature, especially if food contains 
+a high proportion of fat. Dietary AGE ingestion has been 
+linked to adverse lipid profiles and inflammatory mark -
+ers in diabetic patients (Uribarri, 2005) and to increased 
+serum levels of AGEs in end-stage kidney  disease (ESKD) 
+patients, with perhaps increased risk of access thrombosis. 
+Any reason to additionally restrict food in ESKD patients 
+should be done with caution, given the high prevalence 
+of malnutrition; however, some attention to food prepa -
+ration with a focus on minimizing formation of AGEs 
+(avoidance of deep frying, extensive heating) might be a 
+consideration.
+B. Diabetic gastroparesis and enteropathy. T he diagnosis of diabetic 
+gastroparesis is often made on the basis of symptoms of nau-
+sea, vomiting, early satiety, and postprandial fullness. Since 
+other treatable conditions can have similar symptoms, an 
+esophagogastroduodenoscopy should be performed before 
+symptoms are ascribed to gastroparesis alone. The traditional 
+“gold standard” to establish the diagnosis of gastroparesis is 
+scintigraphic measurement of gastric emptying. However, a 
+drawback is that scintigraphy exposes patients to radiation 
+and is therefore not ideally suited for repeated investigations 
+(to monitor the response to therapy). This problem can be 
+overcome by 13C-labeled acetate and octanoic acid breath 
+tests. Diabetic gastroparesis can be associated with poor food 
+intake and unpredictable nutrient absorption; the result can 
+be hypoglycemia alternating with hyperglycemia.
+In such patients, small, frequent (up to six times per day) 
+feedings may improve symptoms. The pharmacologic treat -
+ment of gastroparesis in diabetic persons on dialysis is unsat -
+isfactory. Metoclopramide given in a small starting dose (5 mg 
+before meals) with small increments until results are seen is 
+usually the first drug prescribed. This drug is associated with 
+a high incidence of extrapyramidal complications in dialysis 
+patients, particularly at higher doses, and its effects are often 
+temporary. Other “prokinetic” gastrointestinal motility drugs, 
+such as domperidone, motilin agonists, or ondansetron, may 
+be tried.
+Diabetic enteropathy r esults from functional impairment of 
+the enteric nervous system and can result in disordered motil-
+ity of the small bowel and the colon, resulting in either pro -
+longed or shortened bowel transit times. Diabetic enteropathy 
+with resulting diarrhea can complicate alimentation, causing 
+debilitation, poor food intake, and hypoglycemia. Severe cases 
+of diabetic enteropathy can be treated with a trial of broad-
+spectrum antimicrobials (e.g., doxycycline in a dose of 50 or 
+100 mg daily) to combat bacterial overgrowth in the intestine. 
+Loperamide hydrochloride (up to 10 mg daily) to decrease 
+bowel motility is also useful.
+Daugirdas9781451144291-ch032.indd   558 11/10/14   3:42 am
+559Chapter 32 / Diabetes
+ I V. CONTROL OF BLOOD SUGAR
+A. Alteration of insulin metabolism by CKD.  I n uremic patients (both 
+diabetic and nondiabetic), insulin secretion by the β cells of 
+the pancreas is reduced, and the responsiveness of peripheral 
+tissues (e.g., muscle) to insulin is depressed; that is, there is 
+increased insulin resistance. Insulin resistance occurs in al -
+most all uremic patients and results in hyperglycemia. The lit-
+erature suggests that hepatic glucose production and uptake 
+are normal in uremia and that skeletal muscle is the primary 
+site of insulin resistance, probably via a postreceptor defect 
+(Castellino, 1992). However, many of the actions of insulin are 
+maintained in renal failure, including potassium uptake by the 
+cells and inhibition of proteolysis.
+The kidney is pivotal in insulin metabolism in healthy 
+individuals. Insulin is freely filtered by the glomerulus, with 
+60% cleared via glomerular filtration and 40% by extraction 
+from the peritubular vessels; less than 1% of filtered insulin is 
+excreted in the urine unchanged. Approximately 6–8 units of 
+insulin are degraded by the kidney each day, roughly 25% of 
+the daily production of insulin by the pancreas. Renal metabo-
+lism is enhanced in diabetic subjects receiving exogenous in-
+sulin, since injected insulin bypasses the liver and goes directly 
+into the systemic circulation. The rate of insulin catabolism is 
+decreased owing to decreased renal mass, and therefore the 
+half-life of any insulin present in the circulation is prolonged. 
+The reduction in insulin clearance is also mediated by a de-
+cline in hepatic metabolism. All of these abnormalities are only 
+partially corrected after institution of maintenance dialysis 
+ therapy.
+1. Abnormal glucose tolerance tests in all dialysis patients.  Th e glu -
+cose tolerance test cannot be used to diagnose diabetes in 
+dialysis patients because the rise in serum glucose concen-
+tration will be greater and more prolonged than normal in 
+all dialysis patients as a result of uremia-induced insulin 
+resistance. However, fasting serum glucose concentrations 
+are normal in nondiabetic HD patients; a high level sug-
+gests the presence of diabetes. In PD patients, a true fasting 
+state is never achieved owing to constant absorption of glu-
+cose from the dialysis solution. In this group, unless peri-
+tonitis is present, the “fasting” serum glucose value rarely 
+exceeds 160 mg/dL (8.9 mmol/L), even when using 4.25% 
+dextrose dialysis solution; higher levels suggest that the 
+patient has diabetes. In CAPD patients using icodextrin, 
+serum glucose values may be spuriously overestimated by 
+auto-analyzers that use the glucose dehydrogenase method 
+of sample analysis (Tsai, 2010).
+2. Increased sensitivity to insulin.  I n diabetic dialysis patients 
+being treated with exogenous insulin, the importance 
+of reduced insulin catabolism overrides the impact of 
+insulin resistance; when exogenous insulin is adminis-
+tered, its effect may be intensified and prolonged. Thus, 
+Daugirdas9781451144291-ch032.indd   559 11/10/14   3:42 am
+Part IV / Clinical Problem Areas
+560
+smaller-than-usual doses should be given. Bolus adminis-
+tration of moderately large intravenous doses (e.g., 15 units 
+of regular insulin), even when ketosis is present, can result 
+in severe hypoglycemia. Hypoglycemia can occur also after 
+administration of the longer-acting insulins, such as iso-
+phane insulin (NPH) and insulin glargine.
+3. Hyperglycemia. T he clinical presentation of hyperglycemia 
+is modified when renal function is absent. The absence 
+of the “safety valve” effect of glycosuria may result in the 
+development of severe hyperglycemia (serum glucose 
+level >1,000 mg/dL [56 mmol/L]). Severe hyperosmolality 
+with accompanying alteration of mental status is unusual 
+because of the absence of water loss induced by osmotic 
+diuresis. Indeed, even extreme hyperglycemia is often as-
+ymptomatic in dialysis patients (Al-Kudsi, 1982). However, 
+manifestations can include thirst, weight gain, and, on oc-
+casion, pulmonary edema or coma (Tzamaloukas, 2004). 
+Diabetic ketoacidosis, frequently accompanied by severe 
+hyperkalemia and coma, can develop in insulin-dependent 
+dialysis patients. Management of hyperglycemia with or 
+without ketoacidosis differs from that in patients without 
+renal failure in that administration of large amounts of 
+fluid is unnecessary and generally contraindicated. All of 
+the clinical and laboratory abnormalities of hyperglycemia 
+are corrected by insulin administration, which often is the 
+only treatment needed. To manage severe hyperglycemia, 
+one can administer a continuous infusion of low-dose 
+regular insulin (starting at 2 units/hr) with close clinical 
+monitoring and measurement of serum glucose and po-
+tassium concentrations at 2- to 3-hour intervals. If severe 
+hyperkalemia is present, electrocardiography should be 
+done. Emergency dialysis may be needed in patients with 
+hyperglycemia and either severe pulmonary edema or life-
+threatening hyperkalemia.
+4. Hypoglycemia. A voidance of hypoglycemia is often the rate-
+limiting step in obtaining good glucose control. Treat -
+ment for hypoglycemia can lead to rebound hyperglycemia 
+and erratic glycemic control. There are many factors that 
+contribute to hypoglycemia, including decreased caloric 
+intake due to attendant anorexia, decreased insulin clear -
+ance, reduced renal gluconeogenesis due to the reduction 
+in functioning renal mass, impaired release of the coun-
+terregulatory hormone epinephrine due to the autonomic 
+neuropathy of renal failure, decreased hepatic metabolism 
+of insulin, and decreased metabolism of drugs that might 
+promote a reduction in the plasma glucose concentration 
+such as alcohol, propranolol and other nonselective adren-
+ergic blockers. Additionally, hypoglycemic unawareness 
+and gastroparesis may increase the risk for hypoglycemia. 
+In diabetic patients, HD solution should always contain 
+about 90 mg/dL (5 mM) glucose; if glucose is not added, 
+Daugirdas9781451144291-ch032.indd   560 11/10/14   3:42 am
+561Chapter 32 / Diabetes
+severe hypoglycemia during or soon after the HD session 
+can result (Burmeister, 2012). Higher (200 mg/dL, 11 mM) 
+dialysate glucose levels may increase the frequency of hy-
+perglycemia (Raimann, 2012), and may not protect against 
+hypoglycemic episodes better than the 90 mg/dL option.
+B. Insulin therapy. A chieving and maintaining reasonable glucose 
+control while avoiding hypoglycemia is the challenge in man-
+aging patients with diabetes on dialysis. Reasonable glycemic 
+control in diabetic patients on chronic dialysis is considered a 
+fasting blood glucose below 140 mg/dL and a 1-hour postpran-
+dial value of less than 200 mg/dL with an HbA1c between 7% 
+and 8%. Several large studies have found no significant correla-
+tion between glycemic control and survival, yet a much higher 
+risk of hypoglycemia with stricter glycemic control (Williams, 
+2010). The HbA1c target that is associated with the best out -
+come in dialysis patients has not been established (KDOQI 
+clinical practice guidelines, 2005). It has been suggested that 
+measurement of glycated albumin more accurately assesses 
+glycemic control in this population as it is not affected by the 
+Hb level, but this test is not readily available. Another issue 
+with HbA1c is that it can be affected (reduced) by administra-
+tion of ESAs and iron (Ng, 2010).
+Irreversibly and slowly formed compounds that are the 
+result of nonenzymatic glycosylation of proteins, the so-called 
+AGEs, alter the structure and function of vascular basement 
+membranes, stimulate the production of growth factors, and 
+alter the function of intracellular proteins. In PD patients, AGE 
+deposition in the peritoneal membrane is associated with an 
+increase in permeability and excessive protein losses in the di-
+alysate (Nakamoto, 2002).
+1. Insulin regimens. T he following dose recommendations have 
+been made for insulin dosage in the setting of kidney dis-
+ease (Snyder, 2004):
+a. No dose adjustment is required if the GFR is above 
+50 mL/min.
+b. Reduce the insulin dose by 25% when the GFR is 
+10–50 mL/min.
+c. Reduce the dose by 50% when the GFR is less than 
+10 mL/min.
+2. Example using glargine and rapid-acting insulin.  A s an example, 
+a common weight-based dose might be 0.6 units/kg total 
+daily dose of insulin (Murphy, 2009). Reducing this by 50% 
+for ESKD changes this to 0.3 units/kg total daily dose of in-
+sulin (Baldwin, 2012). Of this, half should be given as basal 
+insulin and half as mealtime bolus insulin. This would 
+mean that 0.15 units/kg would be given in the morning as a 
+basal dose, and then the remainder (0.15 units/kg) divided 
+up by the number of meals, given as rapid-acting insulin; 
+say 0.05 units/kg at breakfast, lunch, and supper. For a 70- 
+kg patient, the total dose of insulin would be 70 kg × 0.3 
+units/kg = 21 units. Half of this, or approximately 10 units, 
+Daugirdas9781451144291-ch032.indd   561 11/10/14   3:42 am
+Part IV / Clinical Problem Areas
+562
+would be given as the basal once-daily glargine, and the re-
+maining 11 units would be given over the 3 daily meals, or 
+3–4 units rapid-acting insulin per meal.
+3. Example using NPH plus a rapid-acting insulin. W hen using NPH 
+with rapid-acting insulin, the total daily dose would be the 
+same (21 units), but two-thirds of the daily dose (or 14 units) 
+should be given as NPH, with two-thirds of the NPH (9 
+units) given at breakfast and the remaining 5 units of NPH 
+at bedtime. The non-NPH remainder of the total daily dose 
+(7 units) would then be given as rapid-acting insulin, giving 
+3 units at breakfast and 4 units at dinner. A lunchtime dose 
+of rapid-acting insulin is not needed, as the morning dose 
+of NPH is peaking at this time and would cover this meal.
+4. Other insulin combinations.  N ew basal and rapid-acting in-
+sulin analogs are expected to be available for clinical use 
+in 2015, but have not been studied in patients with ESKD 
+(Danne, 2011).
+5. T iming of mealtime insulin.  W hile mealtime insulin is generally 
+given about 5 minutes before the meal, some patients prefer 
+to take it just after the meal. This is somewhat safer in that it 
+allows patients to reduce the insulin dose if the entire meal is 
+not eaten. For example, if only 50% of the meal is eaten, only 
+50% of the dose is taken. Finer enhancements of the mealtime 
+insulin dose include modification by carbohydrate counting 
+(if the patient is willing to learn and implement this tech -
+nique) and by addition to or subtraction from the mealtime 
+insulin dose using a correction factor scale (if the patient is 
+willing to check his or her glucose values before each meal).
+6. Glucose monitoring. I t is important that blood glucose levels 
+be monitored closely and that individually appropriate dose 
+adjustments in insulin therapy be made. Patients receiving 
+insulin therapy at home should monitor their glucose levels 
+at least twice daily, in the morning and at bedtime. With 
+both of the above regimens, a reasonable “correction dose” 
+of insulin would be 1 extra unit of daily insulin for every 50 
+mg/dL glucose above target ( for example the target level 
+might be 150 mg/dL) for that patient.
+7. Effect of hemodialysis on insulin dose.  HD h as been shown to 
+improve both tissue sensitivity to insulin and insulin secre-
+tory response to glucose (DeFronzo, 1978). The mechanism 
+by which this occurs is unknown, but improved acid–base 
+status may be contributing. When HD is initiated, the insu-
+lin requirement in any given patient may change, depend -
+ing on the net balance between improved tissue sensitivity 
+and improved hepatic insulin metabolism. One cannot 
+readily predict insulin requirements in this setting, and 
+careful observation of the patient is essential.
+In HD patients, several different insulin regimens can 
+be used to achieve glycemic control. The glargine- and NPH-
+based regimens described above can be used as a starting 
+point. Some experts feel that long-acting insulin preparations 
+Daugirdas9781451144291-ch032.indd   562 11/10/14   3:42 am
+563Chapter 32 / Diabetes
+should be avoided, while others feel that such agents should be 
+used, but there are no head-to-head comparisons of different 
+regimens in dialysis patients.
+With regard to insulin therapy on dialysis versus nondi -
+alysis days, the usual baseline dose is normally given, but  the 
+timing of mealtime doses is often changed when dialysis alters 
+the times when food is consumed.
+8. E ffect of peritoneal dialysis on insulin dose . T he glucose con-
+tained in peritoneal dialysate increases the need for blood 
+glucose–lowering therapy, and more insulin is often required 
+because of insulin resistance and the glucose load absorbed 
+from the hypertonic dialysate. A 1.5-percent dextrose (glu-
+cose monohydrate, MW 198) dialysate solution, for example, 
+has a glucose (MW 180) concentration of 1,500 × (180/198) 
+= 1,364 mg (76 mmol/L), well above that in the plasma. On 
+the other hand, in some PD patients less insulin can be re-
+quired than anticipated owing to decreased carbohydrate in-
+take and to prolongation of the duration of action of insulin 
+resulting from reduced renal and hepatic insulin clearance.
+To help maintain near-normal glycemia during PD, blood 
+sugar in patients treated with CAPD or APD can be controlled 
+with intraperitoneal insulin, although this is now done only 
+rarely. Use of the intraperitoneal route has the advantages of a 
+continuous or nearly continuous presence of insulin, elimina-
+tion of the need for injections, and a more physiologic route 
+of insulin supply to the liver via the portal vein, mimicking 
+the way that pancreatic insulin reaches the liver (Tzamalou-
+kas, 1991). Disadvantages are the potential for bacterial con -
+tamination of dialysate during injection of insulin into the 
+bags, need for somewhat higher daily total insulin doses due 
+to losses of insulin with the spent dialysate, and, perhaps of 
+greatest concern, the risk of peritoneal fibroblastic prolifera -
+tion and hepatic subcapsular steatosis (Maxwell, 1991). If in-
+traperitoneal insulin is used, it is recommended that a long, 
+3.8-cm (1.5 in) needle be used to ensure that the full dose of 
+insulin is injected into the dialysis solution container rather 
+than being trapped in the infusion port; the dialysis solution 
+container should be inverted several times after injection to 
+ensure proper mixing. For intraperitoneal insulin protocols, 
+please refer to previous editions of this Handbook.
+It is important to remember that icodextrin and malt -
+ose, which are contained in some PD solutions, can interfere 
+with, or cause falsely elevated glucose results with, some self-  
+monitoring methods, possibly leading to inappropriate ther -
+apy (Tsai, 2010; Firanek, 2013).
+9. Use of an insulin infusion pump.  I n fragile type 1 diabetic pa-
+tients where frequent hypoglycemia is a problem, continu-
+ous subcutaneous insulin injection can be of benefit. In 
+such cases, the insulin infusion may be shut off 1 hour or so 
+prior to HD and resumed shortly after the dialysis session is 
+completed (Atherton, 2004).
+Daugirdas9781451144291-ch032.indd   563 11/10/14   3:42 am
+Part IV / Clinical Problem Areas
+564
+C. Oral hypoglycemic agents and noninsulin injectable agents.  These 
+agents are useful adjuncts in the treatment of diabetic pa-
+tients and are used by many nephrologists. Suggested agents 
+and appropriate doses are listed in Table 32.2. In a 2010 survey 
+of U.S. dialysis patients with diabetes, 80% were recorded as 
+receiving some form of glycemic therapy, and of these, 49/80 
+were being managed with insulin alone, 8/80 with insulin plus 
+some form of oral medication, and 23/80 with an oral agent 
+only. Of the oral agents being used in 2010, the great major -
+ity were either sulfonylureas or thiazolidinediones, although 
+this may change as more information and experience with the 
+newer agents become available.
+1. Sulfonylureas. Su lfonylureas are insulin secretagogues that 
+bind to the sulfonylurea receptor, a part of the potassium 
+channel, on pancreatic β cells. They cause potassium chan-
+nel closure with subsequent membrane depolarization, 
+which, in turn, causes opening of voltage-gated calcium 
+channels. This allows for a sudden increase in intracellu-
+lar calcium, which causes preformed insulin to be released 
+from intracellular secretory granules. First generation 
+sulfonylureas (acetohexamide, chlorpropamide, tolaza -
+mide, and tolbutamide) are almost never used anymore. 
+The second generation drugs (glipizide, glyburide, and 
+glimepiride) are still fairly widely employed. All the sec -
+ond generation sulfonylureas undergo hepatic metabolism 
+with a variable percentage of renal excretion (Spiller, 2006). 
+Glyburide and glimepiride have active metabolites with 
+relatively long half-lives that are renally excreted and so are 
+not recommended for end-stage kidney disease (ESKD) pa-
+tients. The metabolite of glipizide has little or no hypogly-
+cemic activity and a short half-life of 2–4 hours. Therefore, 
+even though its renal excretion is high (80%–85%), glipizide 
+is the sulfonylurea of choice in dialysis patients. However, 
+sulfonylureas as a class show a relatively high incidence 
+of hypoglycemia, plus many drugs frequently used in di-
+alysis patients can either antagonize (phenytoin, nicotinic 
+acid, diuretics) or enhance (salicylates, warfarin, ethanol) 
+the hypoglycemic action of sulfonylureas. Another reason 
+that sulfonylureas are not optimal in the ESKD population 
+is that their mechanism of action ( facilitating insulin re-
+lease) presupposes that the individual being treated is still 
+producing some endogenous insulin. In people with type 2 
+diabetes, endogenous insulin, assessed by C-peptide mea-
+surements, was highest in people with recently diagnosed 
+disease and progressively decreased in people as the dura-
+tion of diabetes increased. (Duckworth, 2011). Since most 
+people on dialysis will have had diabetes for a fairly long 
+time, many will be producing little or no endogenous insu-
+lin and so will be unable to respond to sulfonylureas.
+2. Metformin. M etformin, a member of the biguanide class, 
+is perhaps the most widely used oral agent to treat type 2 
+Daugirdas9781451144291-ch032.indd   564 11/10/14   3:42 am
+565Chapter 32 / Diabetes
+Drug Usual Nonuremic Dose
+Dialysis Patient Dose 
+(% of Nonuremic Dose)
+Insulins
+Short-acting
+Regular 0.2–1 units/kg/d SC 
+b.i.d.–q.i.d.
+Decrease dose 
+(25%–50%)
+Lispro 0.2–1 units/kg/d SC 
+b.i.d.–q.i.d.
+Decrease dose 
+(25%–50%)
+Aspart 0.2–1 units/kg/d SC 
+b.i.d.–q.i.d.
+Decrease dose (not 
+defined)
+Intermediate-acting
+NPH 0.2–1 units/kg/d SC 
+q24h–b.i.d.
+Decrease dose (not 
+defined)
+Long-acting
+Glargine 0.1–1 units/kg/d SC q24h Decrease dose (not 
+defined)
+Detemir 0.1–1 units/kg/d SC q24h Decrease dose (not 
+defined)
+Sulfonylureas
+Glipizide 2.5–20 mg PO q24h–b.i.d. 2.5–10 mg PO q24h–
+b.i.d. (50%)
+Glimeperide 1–8 mg PO q24h 1–4 mg PO q24h (50%)
+Tolbutamide 250–3,000 mg PO q24h Same (100%)
+Glyburide 1.25–10 mg PO q24h Avoid in renal failure
+Thiazolidinedionesa
+Rosiglitazone 4–8 mg PO q24h–b.i.d. Same (100%)
+Pioglitazone 15–30 mg PO q24h Same (100%)
+a-Glucosidase inhibitors
+Acarbose 50–100 mg PO t.i.d. Not recommended in 
+renal failure
+Miglitol 50–100 mg PO t.i.d. Not recommended in 
+renal failure
+Meglitinides
+Repaglinide 0.5–8 mg PO t.i.d. 0.5–4 mg PO t.i.d. (50%)
+Nateglinide 60–120 mg PO t.i.d. Avoid in renal failure
+Biguanides
+Metformin 850–2,550 mg PO 
+q24h–b.i.d.
+Avoid in renal failure
+Amylin analogs
+Pramlintide 30–120 mcg SC q.a.c. Same (100%). No data 
+on dialysis patients
+SGLT-2 inhibitor
+Canagliflozin 100 mg–300 mg q24h If eGFR 45 to <60 mL/
+min/1.73 m2, 100 mg
+Avoid if eGFR <45 mL/
+min/1.73 m2
+Agents for Diabetes Mellitus in Chronic Kidney Disease
+32.2
+TABLE
+(continued)
+Daugirdas9781451144291-ch032.indd   565 11/10/14   3:42 am
+Part IV / Clinical Problem Areas
+566
+Drug Usual Nonuremic Dose
+Dialysis Patient Dose 
+(% of Nonuremic Dose)
+DPP-4 inhibitors
+Sitagliptin 100 mg q24h If eGFR ≥30 mL/
+min/1.73 m2
+and <50 mL/min/ 
+1.73 m2, 50 mg (50%) 
+If eGFR <30 mL/
+min/1.73 m2, 25 mg
+(25%)
+Saxagliptin 2.5–5 mg q24h If eGFR <50 L/
+min/1.73 m2, 2.5 mg
+(50%)
+Linagliptin 5 mg q24h Same
+Alogliptin 25 mg q24h If eGFR ≥30 mL/
+min/1.73 m2
+and <50 mL/ 
+min/1.73 m2, 12.5 mg 
+(50%)
+If eGFR <30 mL/
+min/1.73 m2, 6.25 mg
+(25%)
+GLP-1 receptor agonists
+Exenatide 2 mg weekly SC
+Up to 10 mcg b.i.d. SC
+Avoid if eGFR <30 mL/
+min/1.73 m2
+Liraglutide Up to 1.8 mg q24h SC Limited experience with 
+advanced renal disease; 
+caution advised
+aMay cause fluid retention in chronic kidney disease patients not on dialysis.
+SC, subcutaneously; b.i.d., two times per day; q.i.d., four times per day; q24h, daily; PO, by mouth; 
+t.i.d., three times per day; q.a.c., before meals.
+Agents for Diabetes Mellitus in Chronic Kidney Disease 
+(continued)32.2
+TABLE
+diabetes in patients with normal renal function and has sev-
+eral distinct advantages. Metformin use is associated with 
+a very low incidence of hypoglycemia, weight loss  instead 
+of weight gain, and a favorable effect on serum  lipids. Its 
+mechanism of action is to acutely decrease  hepatic glucose 
+production by transiently inhibiting the respiratory enzyme 
+chain in mitochondria. However, metformin has been asso-
+ciated with the rare complication of life-  threatening lactic 
+acidosis. The causation of this association is not completely 
+clear, and acidosis is most commonly seen in patients with 
+substantial comorbidity, but patients with markedly re -
+duced renal function are at increased risk. Metformin is not 
+metabolized, and 90% is excreted as the  active drug by the 
+kidneys (Spiller, 2006). Plasma metformin levels are thus 
+substantially higher in patients with reduced creatinine 
+clearance (Lipska, 2011). There is controversy  regarding the 
+safety of use in patients with nondialysis CKD; in the United 
+Daugirdas9781451144291-ch032.indd   566 11/10/14   3:42 am
+567Chapter 32 / Diabetes
+States, the drug label warns against use of metformin when 
+serum creatinine is greater than 1.5 mg/dL (130 mcmol/L) 
+in males or 1.4 mg/dL (124 mcmol/L) in females, whereas 
+there are studies suggesting that metformin can be used 
+with relative safety down to a GFR of 45 mL/min. Metfor -
+min should not be used in dialysis patients.
+3. α-Glycosidase inhibitors. T here are two α-glucosidase inhibi-
+tors available in the United States : acarbose and miglitol. 
+They work by competitively and reversibly inhibiting gut 
+enzymes that mediate the intestinal breakdown of oli-
+gosaccharides into simple sugars, thereby limiting their 
+ absorption. Postprandial glucose surges are reduced with -
+out stimulation of endogenous insulin, and, thus, the risk of 
+hypoglycemia is relatively low. Little acarbose is absorbed, 
+but it is extensively metabolized in the gut, and about 
+one-third of the metabolites, some active, are absorbed 
+(Spiller, 2006; Reilly, 2010). In patients with reduced renal 
+function, the plasma levels of acarbose and its metabo-
+lites can increase. Miglitol  is absorbed to a greater extent 
+than acarbose. Miglitol is not metabolized and is excreted 
+ unchanged in the urine (Spiller, 2006; Reilly, 2010). Neither 
+acarbose nor miglitol has been well studied in patients in 
+whom eGFR is less than 25 mL/min per 1.73 m 2, and, in 
+general, their use is not recommended in dialysis patients.
+4. Peroxisome proliferator-activated receptor (PPAR) agonists.  P PAR- γ 
+agonists include drugs such as rosiglitazone and pioglitazone. 
+These drugs sensitize target tissues to insulin,  increase glucose 
+uptake in muscle and adipose tissue, and decrease hepatic glu-
+cose production. They may also have beneficial anti-inflam-
+matory, vascular, and metabolic  (hypolipidemic) effects.
+Pioglitazone i s metabolized primarily by the liver. It has 
+been found to be safe and effective as monotherapy and 
+add-on therapy to other oral antidiabetic agents in patients 
+on HD when studied up to 96 weeks (Abe, 2010). There is no 
+need for dose reduction. Pioglitazone has been associated 
+with bladder cancer. In the United States, it carries a warn-
+ing to avoid use in patients with active bladder cancer and 
+to consider risks versus benefits prior to initiating therapy 
+in patients with a history of bladder cancer.
+Like pioglitazone, rosiglitazone  is metabolized 
+ primarily by the liver. Rosiglitazone was effective at all 
+ degrees of renal function (Chapelsky, 2003). One group 
+found an increase in interdialysis weight on rosiglitazone, 
+but this study lacked a true control group (Chiang, 2007). 
+There was no meaningful change in the pharmacokinetics 
+of the drug in patients on HD, and there was no difference 
+in plasma drug levels on dialysis compared with nondialy-
+sis days (Thompson-Culkin, 2002), suggesting no need for 
+dosage adjustment because of altered renal function. How-
+ever, in one study in patients on CAPD, the half-life of rosi-
+glitazone was increased compared with healthy volunteers 
+Daugirdas9781451144291-ch032.indd   567 11/10/14   3:42 am
+Part IV / Clinical Problem Areas
+568
+(Aramwit, 2008). In 2007, a review of a variety of sources of 
+available data linked rosiglitazone with an increased risk of 
+myocardial infarction and cardiovascular death, and its use 
+has been restricted in the United States (Nissen, 2007). This 
+restriction was partially lifted by the U.S. Food and Drug Ad-
+ministration (FDA) in November of 2013, but rosiglitazone 
+remains suspended from the market in Europe and a num-
+ber of other countries. Both pioglitazone and rosiglitazone 
+have been associated with weight gain, edema, and conges-
+tive heart failure in nonuremic patients; the mechanism 
+is thought to be increased renal retention of sodium and 
+water. Acute myopathy has been reported when glitazones 
+were given in conjunction with fibrates.
+5. Meglitinides. Repaglinide i s a member of the meglitinide fam-
+ily of compounds and acts as an insulin secretagogue. It 
+binds to the sulfonylurea receptor and functions in a man-
+ner similar to the sulfonylureas , but it has an additional 
+β cell binding site and thus a different binding profile 
+(Hatorp, 2002). It differs from the sulfonylureas  in several 
+ways. First, it has a much shorter duration of action with a 
+half-life of 1–1.5 hours with somewhat less hypoglycemic 
+risk than SUs. Second, it is eliminated almost entirely by he-
+patic metabolism with biliary or fecal excretion of mainly 
+inactive metabolites. Only 8% is excreted in urine. Like SUs, 
+it is highly protein bound. Several studies have examined 
+the impact of renal disease on repaglinide pharmacokinet -
+ics (Marbury, 2000; Schumacher, 2001; Hatorp, 2002). In 
+general, there is no impact with moderate renal disease. 
+However, with more severe renal disease (GFR < 30 mL/
+min), the “area under the curve ” of the plasma level of the 
+drug was higher because of increased elimination half life. 
+Despite these findings, there was little difference in hypo-
+glycemia, and repaglinide is not contraindicated in people 
+with renal disease but should be used with caution, starting 
+at a low dose (0.5 mg) and titrating upward slowly. Stud-
+ies were not conducted in patients with eGFR <20 mL/min 
+per 1.73 m 2 or in patients with renal failure requiring di -
+alysis. Like the SUs, it may not be effective if the individual 
+being treated can no longer generate endogenous insulin.
+In contrast to repaglinide, which has primarily fecal ex-
+cretion, nateglinide, another meglitinide, is 90% excreted 
+by the kidney, primarily as active metabolites (Spiller, 
+2006; Reilly, 2010). Use of nateglinide in patients on dialysis 
+should thus be avoided or done with the greatest caution.
+6. Glucagon-like peptide-1(GLP-1) receptor agonists . T here are two 
+glucagon-like peptide-1 (GLP-1) receptor agonists avail-
+able, exenatide (which comes in both twice-per-day and 
+once-per-week formulations) and liraglutide. GLP-1  is a 
+naturally occurring gut peptide made and secreted by co-
+lonic L-cells in response to meals. It has multiple actions, 
+including stimulation of endogenous insulin secretion, 
+Daugirdas9781451144291-ch032.indd   568 11/10/14   3:42 am
+569Chapter 32 / Diabetes
+inhibition of endogenous glucagon secretion, delay of gas-
+tric emptying, and inhibition of appetite. The effects on 
+insulin and glucagon are glucose-dependent, that is, they 
+occur only in the presence of hyperglycemia. These actions 
+result in improved glucose control with little hypoglycemic 
+risk (as monotherapy) and weight loss. GLP-1 is rapidly de-
+graded by dipeptidyl peptidase 4 (DPP-4). However, both 
+exenatide and liraglutide are degradation-resistant and 
+undergo little systemic metabolism.
+Exenatide i s excreted mainly by the kidneys. The half-
+life increases with decreasing renal function. Exenatide 
+was generally well tolerated in the mild and moderate renal 
+insufficiency without dose adjustment, but not in subjects 
+with ESKD due to nausea and vomiting (Linnebjerg, 2007). 
+Its use is not recommended for those with eGFR <30 mL/
+min per 1.73 m 2. Caution is also advised for people who 
+have received kidney transplants. Exenatide caused an 
+increased incidence in thyroid C-cell tumors at clinically 
+relevant exposures in rats compared with controls. It is un-
+known whether it causes thyroid C-cell tumors in humans, 
+including medullary thyroid carcinoma; nonetheless, it is 
+contraindicated in patients with a personal or family his -
+tory of medullary thyroid carcinoma and in patients with 
+multiple endocrine neoplasia syndrome type 2. Pancreati -
+tis has been identified in postmarketing studies as a pos-
+sible adverse consequence of exenatide use.
+In contrast to exenatide, only about 6% of liraglutide 
+(as metabolites) is excreted by the kidneys; the pharmacoki-
+netics of the drug is little altered by kidney disease  (Jacobsen, 
+2009). However, there is increased incidence of nausea in 
+those with eGFR <60 mL/min per 1.73 m2, though the num-
+ber of people studied was small (Davidson, 2011). No dose ad-
+justment is required in US labeling, but it should be used with 
+caution in people with advanced kidney impairment because 
+of limited experience. Liraglutide carries the same warnings 
+as exenatide with regard to medullary thyroid cancer, mul-
+tiple endocrine neoplasia syndrome type 2, and pancreatitis.
+7. Dipeptidyl peptidase-4 (DPP-4) inhibitors.  T here are four DPP-4 
+inhibitors now available in the United States : sitagliptin, 
+saxagliptin, linagliptin, and alogliptin. As a group, they act 
+by inhibiting the enzyme (DPP-4), which rapidly degrades 
+endogenous incretin hormones. The major incretin is 
+ glucagon-like peptide 1 (GLP-1), a gut hormone that stimu-
+lates insulin, suppresses glucagon, delays gastric emptying, 
+and decreases appetite.
+Approximately 75%–80% of an oral dose of sitagliptin 
+is excreted unchanged in the urine, and sitagliptin levels 
+markedly increase with declining renal function (Bergman, 
+2007). Because of this, it is recommended that the dose be 
+adjusted on the basis of eGFR. A 100-mg daily dose can be 
+given if eGFR is >50 mL/min per 1.73 m2. This dose should 
+Daugirdas9781451144291-ch032.indd   569 11/10/14   3:42 am
+Part IV / Clinical Problem Areas
+570
+be reduced to 50 mg if eGFR falls below 50 mL/min per 1.73 
+m2, and to 25 mg daily if eGFR is below 30 mL/min per 1.73 
+m2 or if the patient is on dialysis (Arjona Ferreira, 2013). 
+At these reduced doses, sitagliptin was similarly effective in 
+improving glycemic control as glipizide with less severe hy-
+poglycemia (0% vs. 7.7%) in patients on dialysis. These find-
+ings confirm an earlier study in which hypoglycemia was 
+much less common with sitagliptin (4.6% of the patients 
+treated with sitagliptin compared with 23% of those treated 
+with glipizide) (Chan, 2008). The fraction removed by HD is 
+relatively small, 13% and 4%, for HD initiated 4 or 48 hours 
+postdose, respectively, so that sitagliptin can be adminis-
+tered without regard to the timing of HD (Bergman, 2007).
+Saxagliptin, t he second DPP-4 inhibitor to reach market, 
+has a major active metabolite 5-hydroxy saxagliptin, which 
+is about half as potent as the parent compound (Boulton, 
+2011). About 75% is excreted in the urine; 24% is saxagliptin 
+and 36% is 5-hydroxy saxagliptin and minor metabolites. 
+Levels of saxagliptin and 5-hydroxy saxagliptin rise with the 
+degree of renal impairment with the metabolite rising to a 
+greater degree than saxagliptin itself. Because of this, a dos-
+age adjustment is advised. A full 5-mg dose of saxagliptin can 
+be used if eGFR is greater than 50 mL/min per 1.73 m, 2 but 
+dose should be reduced to 2.5 mg daily for lower eGFR. In-
+terestingly, in patients on HD, saxagliptin concentrations are 
+slightly lower than in healthy subjects, but 5-hydroxy saxa-
+gliptin is much higher. It has been speculated that this may 
+be due to the efficient removal of saxagliptin by HD. Because 
+4 hours of HD removes about 23% of saxagliptin, it should 
+be given after dialysis sessions. Saxagliptin was superior to 
+placebo in improving glycemic control in those with mod-
+erate or severe renal insufficiency, but saxagliptin was no 
+better than placebo in those with ESKD (Nowicki, 2011). The 
+percentage of patients with hypoglycemic events was simi-
+lar between those treated with saxagliptin (28%) and those 
+treated with placebo (29%) (Nowicki, 2011).
+The elimination of the third available DPP-4 inhibitor, 
+linagliptin, is not dependent on the kidney. Renal excre-
+tion of unchanged linagliptin is less than 7%, and the degree 
+of renal impairment does not affect linagliptin concentra -
+tions. Its 5-mg daily dose does not need to be adjusted in 
+renal disease (Graefe-Mody, 2011). However, experience in 
+people with advanced renal disease is limited
+About 10%–20% of alogliptin is metabolized by the 
+liver to compounds with little pharmacological activity. 
+Approximately 63% is excreted unchanged by the kidney. 
+Alogliptin doses should be reduced by one-half of the stan-
+dard dose (to 12.5 mg/day) for patients with eGFR between 
+30 and 50 mL/min per 1.73 m 2, and by three-quarters (to 
+6.25 mg/day) in those with eGFR < 30 mL/min per 1.73 m2 
+or ESKD requiring HD (Golightly, 2012).
+Daugirdas9781451144291-ch032.indd   570 11/10/14   3:42 am
+571Chapter 32 / Diabetes
+Safety concerns have been raised with the incretin cat-
+egory of antidiabetic agents relating to a pancreatic safety 
+signal associated with incretin-based medications. The U.S. 
+FDA and the European Medicines Agency (EMA) working 
+in parallel reviewed nonclinical toxicology studies, clinical 
+trial data, and epidemiologic data relating to these medica-
+tions. Both agencies agreed and published that assertions 
+concerning a causal association between incretin-based 
+medications and pancreatitis or pancreatic cancer were 
+inconsistent with their review (Egan, 2014).
+8. Sodium glucose co-transporter 2 inhibitor . Canagliflozin and 
+dapaglifozin are sodium glucose co-transporter 2 inhibi-
+tors. These medications lower the renal threshold for glu-
+cose, cause an osmotic diuresis by increasing urinary 
+glucose excretion, and thereby decrease plasma glucose in 
+hyperglycemic patients. Because of their urine-dependent 
+mechanism of action, these medications are not effective 
+in patients with severe renal impairment.
+9. Pramlintide. P ramlintide is a synthetic analog of human am-
+ylin. Amylin is a naturally occurring hormone synthesized 
+by pancreatic β cells that is co-secreted with insulin in re-
+sponse to food intake. Pramlintide, like amylin, prevents 
+the postprandial rise in glucagon and increases satiety, 
+thus decreasing caloric intake. Pramlintide also slows gas -
+tric emptying. It is metabolized mainly by the kidneys to an 
+active metabolite. There is no need for dosage adjustment 
+in patients with renal impairment down to an eGFR of 20 
+mL/min per 1.73 m2. There are few or no data on its use in 
+patients on dialysis.
+ V. HYPERKALEMIA. H yperkalemia occurs commonly in diabetic pa -
+tients treated by maintenance HD. The causal factors include in-
+sulin deficiency and resistance (resulting in impaired potassium 
+uptake by cells), aldosterone deficiency (resulting in impaired co-
+lonic and residual renal excretion), metabolic acidosis (resulting 
+in increased proton–potassium exchange across cells), admin-
+istration of other drugs that can cause hyperkalemia, intracel -
+lular to extracellular fluid shifts due to hyperglycemia (resulting 
+in movement of water accompanied by potassium out of cells), 
+and excesses in dietary potassium intake. Severe hyperkalemia is 
+much less frequently found in diabetic patients on maintenance 
+PD. Treatment in diabetic patients generally does not differ 
+from that in the general dialysis population, and is discussed in 
+ Chapters 10 and 11.
+ VI. CARDIOVASCULAR DISEASE AND HYPERTENSION
+A. Hypertension. T he incidence of hypertension is high in dia-
+betic dialysis patients. Control of high blood pressure is very 
+important for the prevention of cardiovascular sequelae and 
+deterioration of vision. Most diabetics have volume-sensitive 
+hypertension that can be controlled by appropriate sodium 
+Daugirdas9781451144291-ch032.indd   571 11/10/14   3:42 am
+Part IV / Clinical Problem Areas
+572
+and fluid restriction and by removal of excess extracellular 
+fluid by dialysis. The treatment of hypertension in diabetic 
+dialysis patients is similar to that for all such patients, and is 
+discussed in detail in Chapter 33.
+B. Coronary artery disease . Despite the increased prevalence of 
+diabetic patients, outcomes of coronary artery bypass grafting 
+have continuously improved in dialysis patients. Nonetheless, 
+mortality rates remain almost threefold higher compared with 
+non-ESKD patients (Parikh, 2010). See Chapter 38.
+C. Peripheral vascular disease.  D iabetic patients on dialysis have a 
+very high rate of amputation (O’Hare, 2003). Frequent exami-
+nation of the feet by a podiatrist is important; with regular 
+care focused on prevention of ulcer development, the risk of 
+amputation can be minimized.
+ VII. CEREBROVASCULAR DISEASE.  T he incidence of stroke is higher 
+in diabetic dialysis patients than in their nondiabetic counter -
+parts. Although the use of aspirin has been shown to reduce the 
+risk of stroke in nonuremic patients, the benefit of such therapy 
+in diabetic dialysis patients is unknown, and the use of aspirin 
+theoretically increases the risk of intraocular hemorrhage. Cou-
+marin anticoagulants also increase bleeding risk in this popula -
+tion more than in nonuremic diabetic patients and are associated 
+with additional risks of vascular calcification and calciphylaxis.
+ VIII. EYE PROBLEMS IN DIABETICS ON DIALYSIS
+A. Diabetic retinopathy. Ret inopathy is present in almost all type 1 
+diabetic patients with ESKD. In such patients, another cause 
+of kidney disease should be sought if the retinal examination 
+(including fluorescein angiography) is normal. The situation 
+in type 2 diabetic patients is not as clear. In one study, diabetic 
+retinopathy was present in only 15 of 27 patients (56%) with 
+biopsy-proven diabetic glomerulosclerosis (Parving, 1992). 
+In another biopsy study, a close correlation was observed be-
+tween the presence of severe retinopathy and Kimmelsteil–
+Wilson nodules on biopsy, whereas those without retinopathy 
+had mesangial sclerosis but not nodular sclerosis. Thus, the 
+presence of retinopathy appears to increase the likelihood of 
+more severe renal lesions (Schwartz, 1998).
+Hypertension, which is also present in the majority of di-
+alysis patients, accelerates progression of diabetic retinopathy, 
+and may by itself, cause retinal and vitreous hemorrhage. Vas-
+cular events secondary to hypertensive retinopathy (branch 
+retinal vein occlusion from obstruction at the site of arteriove-
+nous crossings) can cause sudden decreases in vision. Control 
+of hypertension may prevent this complication, as well as the 
+more rare central retinal vein and artery occlusion.
+Retinopathy ultimately progresses to a proliferative stage 
+believed to be secondary to local hypoxia and characterized by 
+intense proliferation of new blood vessels in the retina. These 
+vessels, which are located in the surface layer of the retina, cause 
+Daugirdas9781451144291-ch032.indd   572 11/10/14   3:42 am
+573Chapter 32 / Diabetes
+loss of vision through vitreous bleeding, and by causing macular 
+distortion or detachment. Discovery of proliferative retinopathy 
+is an indication for laser treatment, which decreases the risk of 
+detachment and the need for oxygen (by destroying nonessen-
+tial parts of the retina). Vitreous hemorrhages from proliferative 
+retinopathy obstruct the path of light and may lead to retinal 
+detachment and blindness. Vitrectomy and other microsurgi-
+cal techniques (removal of retinal membranes, reattachment of 
+retina) can improve vision in one-third to one-half of patients. 
+Evidence is accumulating for a role for inhibitors of vascular 
+endothelial growth factor (VEGF) in this condition (Osaadon, 
+2014). Active collaboration with an ophthalmologist skilled in 
+laser photocoagulation is necessary. Most diabetic patients with 
+ESKD have retinopathy by the time dialysis is initiated. Addi-
+tional laser therapy and regular screening for glaucoma are vital 
+components of comprehensive care for diabetic dialysis patients.
+B. Other eye problems.  D iabetic patients on dialysis are subject 
+to other eye complications common to all patients on dialy -
+sis. Conjunctivitis and keratitis  are treated with ophthal -
+mic preparations of antibiotic, antifungal, or antiviral agents 
+in the usual doses. The dose of antibiotics given system-
+atically should be adjusted for dialysis. Band keratopathy  
+ (corneal– conjunctival calcification) may afflict both diabetic 
+and nondiabetic dialysis patients who have uncontrolled hy -
+perphosphatemia. A “ red-eye syndrome” due to irritation of 
+the conjunctiva by calcium phosphate deposits may compli-
+cate band keratopathy. Superficial keratectomy or chelation of 
+the  calcium deposits with local application of ethylenediamine 
+tetraacetic acid (EDTA) has been used to treat refractory cases. 
+Glaucoma and cataracts in dialysis patients are treated in 
+the same way as in the general population. Proactive eye sur -
+veillance and intervention have been effective in sustaining at 
+least ambulatory vision in nearly all diabetic dialysis patients.
+ IX. IMPOTENCE. I mpotence is common in diabetic dialysis patients. 
+Autonomic neuropathy and peripheral vascular disease associ-
+ated with diabetes are operative, as are the usual uremic causes.
+ X. REFERRAL FOR TRANSPLANTATION. I n diabetic patients in whom no 
+contraindication to transplantation exists, renal transplantation 
+is the preferred method of managing ESKD because of improved 
+survival with transplantation (approximately 80% 3-year survival 
+vs. 50% 3-year survival in patients maintained on dialysis). Among 
+predialysis diabetic patients with chronic kidney disease who are 
+eligible for transplantation, preemptive kidney transplantation is 
+preferred to initiation of dialysis followed by transplantation. Liv-
+ing donor kidneys are preferred to deceased donor kidneys. Use of 
+extended donor kidneys can increase the number of diabetic di-
+alysis patients undergoing successful transplantation. Screening 
+coronary angiography may be necessary as part of the pretrans-
+plant workup; screening dobutamine stress echocardiography, if 
+Daugirdas9781451144291-ch032.indd   573 11/10/14   3:42 am
+Part IV / Clinical Problem Areas
+574
+negative, may be sufficient in some patients (especially those not 
+yet on dialysis, in whom there is a risk of contrast nephropathy).
+ XI. BONE DISEASE.  A dynamic bone disease is common among dia-
+betic patients with ESKD (see Chapter 36).
+ XII. ANEMIA. T he response to erythropoietin is satisfactory for ane-
+mic diabetics treated with either HD or PD (see Chapter 34).
+ XIII. CONCLUSION. T he care of diabetic patients with ESKD is a de-
+manding task. In addition to members of the dialysis team, rep-
+resentatives of other specialties (e.g., vascular surgery, podiatry, 
+ophthalmology, neurology, transplantation surgery) are needed. 
+The existence of a diabetic team, with all of the subspecialties 
+available, working under the coordination of a nephrologist and 
+a nurse-specialist in diabetes is highly desirable to provide the 
+best care for this population.
+References and Suggested Readings
+Abe M, et al. Clinical effectiveness and safety evaluation of long-term pioglitazone 
+treatment for erythropoietin responsiveness and insulin resistance in type 2 dia -
+betic patients on hemodialysis. Expert Opin Pharmacother. 2010;11:1611–1620.
+Adamis AP , et al. Changes in retinal neovascularization after pegaptanib (Macugen) 
+therapy in diabetic individuals. Ophthalmology. 2006;113:23–28.
+Agrawal A, Sautter M, Jones N. Effects of rosiglitazone maleate when added to a sul-
+fonylurea regimen in patients with type 2 diabetes mellitus and mild to moderate 
+renal impairment: a post hoc analysis. Clin Therap. 2003;25:2754–2764.
+Al-Kudsi RR, et al. Extreme hyperglycemia in dialysis patients. Clin Nephrol. 
+1982;17:228–231.
+Aramwit P , Supasyndh O, Sriboonruang T. Pharmacokinetics of single-dose rosigli-
+tazone in chronic ambulatory peritoneal dialysis patients. J Clin Pharm Therap. 
+2008;33:685–690.
+Arjona Ferreira JC, et al. Efficacy and safety of sitagliptin in patients with type 2 dia-
+betes and ESRD receiving dialysis: a 54-week randomized trial. Am J Kidney Dis . 
+2013;61:579–587.
+Arora SK, McFarlane SI. The case for low carbohydrate diets in diabetes management. 
+Nutr Metab (Lond). 2005;2:16.
+Atherton G.  Renal replacement and diabetes care: the role of a specialist nurse. J Diab 
+Nursing 2004;8:70–72.
+Baldwin D, et al. A randomized trial of two weight-based doses of insulin glargine 
+and glulisine in hospitalized subjects with type 2 diabetes and renal insufficiency 
+Diabetes Care. 2012;35:1970–1974.
+Beardsworth SF, et al. Intraperitoneal insulin: a protocol for administration during 
+CAPD and review of published protocols. Perit Dial Int. 1988;8:145
+Bergman AJ, et al. Effect of renal insufficiency on the pharmacokinetics of sitagliptin, a 
+dipeptidyl peptidase-4 inhibitor. Diabetes Care. 2007;30:1862–1864.
+Boulton DW , et al. Influence of renal or hepatic impairment on the pharmacokinetics 
+of saxagliptin. Clin Pharmacokinet. 2011;50: 253–265.
+Burmeister JE, Campos JF, Miltersteiner DR. Effect of different levels of glucose in the 
+dialysate on the risk of hypoglycaemia during hemodialysis in diabetic patients. J 
+Bras Nefrol. 2012;34:323–327.
+Castellino P , et al. Glucose and amino acid metabolism in chronic renal failure: effect 
+of insulin and amino acids. Am J Physiol. 1992;262:F168–F176.
+Chan JCN, et al. Safety and efficacy of sitagliptin in patients with type 2 diabetes and 
+chronic renal insufficiency. Diabetes Obes Metab. 2008;10:545–555.
+Chapelsky M, et al. Pharmacokinetics of rosiglitazone in patients with varying degrees 
+of renal insufficiency. J Clin Pharmacol. 2003;43:252–259.
+Charpentier G, Riveline JP , Varroud-Vial M. Management of drugs affecting blood glu-
+cose in diabetic patients with renal failure. Diabet Metab. 2000;26(suppl 4):73–85.
+Daugirdas9781451144291-ch032.indd   574 11/10/14   3:42 am
+575Chapter 32 / Diabetes
+Chiang C, et al. Rosiglitazone in diabetes control in hemodialysis patients with and 
+without viral hepatitis infection effectiveness and side effects. Diabetes Care. 
+2007;30:3–7.
+Cooper BA, et al. The IDEAL Study : a randomized, controlled trial of early versus late 
+initiation of dialysis. N Engl J Med. 2010;363:609–619.
+Czock D, et al. Pharmacokinetics and pharmacodynamics of lispro-insulin in hemodi-
+alysis patients with diabetes mellitus. Int J Clin Pharmacol Ther. 2003;41:492–497.
+Daniels ID, Markell MS. Blood glucose control in diabetics: II. Semin Dial. 1993;6:394.
+Danne T, Bolinder J. New insulins and insulin therapy. Diabetes Care. 2011;34:661–665.
+Dasgupta MK. Management of patients with type 2 diabetes on peritoneal dialysis. Adv 
+Perit Dial. 2005;21:120–122.
+Davidson J, et al. Mild renal impairment has no effect on the efficacy and safety of 
+liraglutide. Endocr Pract. 2011;17:345–355.
+DeFronzo RA, et al. Glucose intolerance in uremia. Quantification of pancreatic beta 
+cell sensitivity to glucose and tissue sensitivity to insulin. J Clin Invest. 1978;62:425–
+435.
+Duckworth W , et al; for the VADT Investigators. The duration of diabetes affects the 
+response to intensive glucose control in type 2 subjects: the VA Diabetes Trial.  
+J Diabetes Complications. 2011;25:355–361.
+Egan AG, et al. Pancreatic safety of incretin-based drugs—FDA and EMA assessment 
+N Engl J Med. 2014;370:794–797.
+Firanek CA, Jacob DT, Sloand JA. Avoidable iatrogenic hypoglycemia in patients on 
+peritoneal dialysis: the risks of nonspecific glucose monitoring devices and drug-
+device interaction. J Patient Saf. 2013 Sep 27.
+Flynn CT. The Iowa Lutheran protocol. Perit Dial Bull. 1981;1:100.
+Goldberg T, et al. Advanced glycoxidation end products in commonly consumed foods. 
+J Am Diet Assoc. 2004;104:1287–1291.
+Golightly LK, Drayna CC, McDermott MT. Comparative clinical pharmacokinetics of 
+dipeptidyl peptidase-4 inhibitors. Clin Pharmacokinet. 2012;5:501–514.
+Graefe-Mody U, et al. Effect of renal impairment on the pharmacokinetics of the di -
+peptidyl peptidase-4 inhibitor linagliptin. Diabetes Obes Metab. 2011;13:939–946.
+Graham GG, et al. Clinical pharmacokinetics of metformin. Clin Pharmacokinet . 
+2011;50:81–98.
+Hatorp V . Clinical pharmacokinetics and pharmacodynamics of repaglinide [Review]. 
+Clin Pharmacokinet. 2002;41:471–483.
+Iglesias P , Diez JJ. Peroxisome proliferator-activated receptor gamma agonists in renal 
+disease. Eur J Endocrinol. 2006;154:613–621.
+Jackson MA, et al. Hemodialysis-induced hypoglycemia in diabetic patients. Clin 
+Nephrol. 2000;54:30–34.
+Jacobsen L, et al. Effect of renal impairment on the pharmacokinetics of the GLP-1 
+analogue liraglutide. Br J Clin Pharm. 2009;68:898–905.
+K/DOQI Workgroup. K/DOQI clinical practice guidelines for cardiovascular disease in 
+dialysis patients. Am J Kidney Dis 2005;45(suppl 3):S1.
+Khanna R, et al. The Toronto Western Hospital protocol. Perit Dial Bull. 1981;1:101.
+Legrain M, Rottembourg J. The “Pitie-Salpetriere” protocol. Perit Dial Bull. 1981;1:101.
+Lin CL, et al. Improvement of clinical outcomes by early nephrology referral in type II 
+diabetics on hemodialysis. Ren Fail. 2003;25:455–464.
+Linnebjerg H, et al. Effect of renal impairment on the pharmacokinetics of exenatide. 
+Br J Clin Pharm. 2007;64:317–327.
+Lipska KJ, Bailey CJ, Inzucchi SE. Use of metformin in the setting of mild-to-moderate 
+renal insufficiency. Diabetes Care. 2011;34:1431–1437.
+List JF, et al. Sodium-glucose co-transport inhibition with dapagliflozin in type 2 dia-
+betes mellitus. Diabetes Care. 2009;32:650–657.
+Little R, et al. Can glycohemoglobin be used to assess glycemic control in patients with 
+chronic renal failure? Clin Chem. 2002;48:784–785.
+Locatelli F, Pozzoni P , Del Vecchio L. Renal replacement therapy in patients with diabe-
+tes and end-stage renal disease. J Am Soc Nephrol. 2004;(suppl 1):S25–S29.
+Marbury T, Ruckle J, Hatorp V . Pharmacokinetics of repaglinide in subjects with renal 
+impairment. Clin Pharmacol Therap. 2000;67:7–15.
+Maxwell R, et al. Insulin influence on the mitogenic-induced effect of the peritoneal 
+effluent in CAPD patients. In: Khanna R, et al., eds. Advances in Peritoneal Dialysis. 
+Toronto, Canada: University of Toronto Press; 1991:161–164.
+McCormack J, Johns K, Tildesley H. Metformin’s contraindications should be contrain-
+dicated. CMAJ. 2005;173:502–504.
+Daugirdas9781451144291-ch032.indd   575 11/10/14   3:42 am
+Part IV / Clinical Problem Areas
+576
+Murphy DM, et al. Reducing hyperglycemia hospitalwide: the basal-bolus concept. Jt 
+Comm J Qual Patient Saf. 2009;35:216–23.
+Nakamoto H, et al. Effect of diabetes on peritoneal function assessed by peritoneal 
+dialysis capacity test in patients undergoing CAPD. Am J Kidney Dis. 2002;40:1045–
+1054.
+Ng JM, et al. The effect of iron and erythropoietin treatment on the A1C of patients 
+with diabetes and chronic kidney disease. Diabetes Care. 2010;33:2310–2313.
+Nissen S, Wolsky K. Effect of rosiglitazone on the risk of myocardial infarction and 
+death from cardiovascular causes. N Eng J Med. 2007;356:2457–2471.
+Nowicki M, et al. Long-term treatment with the dipeptidyl peptidase-4 inhibi-
+tor saxagliptin in patients with type 2 diabetes mellitus and renal impairment: 
+a randomised controlled 52-week efficacy and safety study. Int J Clin Pract. 
+2011;65:1232–1239.
+O’Hare AM, et al. Factors associated with future amputation among patients undergo-
+ing hemodialysis: results from the Dialysis Morbidity and Mortality Study Waves 3 
+and 4. Am J Kidney Dis. 2003;41:162–170.
+Oomichi T, et al. Impact of glycemic control on survival of diabetic patients on chronic 
+regular hemodialysis: a 7-year observational study. Diabetes Care. 2006;29:1496–
+1500.
+Osaadon P , et al. A review of anti-VEGF agents forproliferative diabetic retinopathy. 
+Eye (Lond) 2014;28:510–520.
+Parikh DS, et al. Perioperative outcomes among patients with end-stage renal disease 
+following coronary artery bypass surgery in the USA. Nephrol Dial Transplant. 
+2010;25:2275–2283.
+Parving HH, et al. Prevalence and causes of albuminuria in non-insulin-dependent 
+diabetic patients. Kidney Int. 1992;41:758–762.
+Phakdeekitcharoen B, Leelasa-nguan P . Effects of an ACE inhibitor or angioten-
+sin receptor blocker on potassium in CAPD patients. Am J Kidney Dis. 2004;44:  
+738–746.
+Quellhorst E. Insulin therapy during peritoneal dialysis: pros and cons of various forms 
+of administration. J Am Soc Nephrol. 2002;13(suppl 1):S92–S96.
+Raimann JG, et al. Metabolic effects of dialyzate glucose in chronic hemodialysis: 
+results from a prospective, randomized crossover trial. Nephrol Dial Transplant. 
+2012;27:1559–1568.
+Reilly JB, Berns JS. Selection and dosing of medications for management of diabetes in 
+patients with advanced kidney disease. Semin Dial. 2010;23:163–168.
+Schomig M, et al. The diabetic foot in the dialyzed patient. J Am Soc Nephrol. 
+2000;11:1153–1159.
+Schumacher S, et al. Single- and multiple-dose pharmacokinetics of repaglinide 
+in patients with type 2 diabetes and renal impairment. Eur J Clin Pharmacol. 
+2001;52:147–152.
+Schwartz MM, et al. Renal pathology patterns in type II diabetes mellitus: relation-
+ship with retinopathy. The Collaborative Study Group. Nephrol Dial Transplant. 
+1998;13:2547–52.
+Shurraw S, et al. Glycemic control and the risk of death in 1,484 patients receiving 
+maintenance hemodialysis. Am J Kidney Dis. 2010;55:875–884.
+Sloan L, et al. Efficacy and safety of sitagliptin in patients with type 2 diabetes and 
+ESRD receiving dialysis: a 54-week randomized trial. Am J Kidney Dis. 2013;61:  
+579–587.
+Snyder RW , Berns JS. Use of insulin and oral hypoglycemic medications in patients 
+with diabetes mellitus and advanced kidney disease. Semin Dial. 2004;17:365–370.
+Spiller HA, Sawyer TS. Toxicology of oral antidiabetic medications. Am J Health-Syst 
+Pharm. 2006;63:929–938.
+St Peter W , Weinhandl ED, Flessner MF. Sitagliptin—another option for managing type 
+2 diabetes in dialysis patients? Am J Kidney Dis. 2013;61:532–535.
+Thompson-Culkin K, et al. Pharmacokinetics of rosiglitazone in patients with end-
+stage renal disease. J Int Med Res. 2002;30:391–399.
+Tsai CY, et al. False elevation of blood glucose levels measured by GDH-PQQ-based 
+glucometers occurs during all daily dwells in peritoneal dialysis patients using 
+icodextrin. Perit Dial Int. 2010;30:329–335.
+Tzamaloukas AH, Oreopoulos DG. Subcutaneous versus intraperitoneal insulin in the 
+management of diabetics on CAPD: a review. Adv Perit Dial. 1991;7:81–85.
+Daugirdas9781451144291-ch032.indd   576 11/10/14   3:42 am
+577Chapter 32 / Diabetes
+Tzamaloukas AH, et al. Serum tonicity, extracellular volume and clinical manifesta-
+tions in symptomatic dialysis-associated hyperglycemia treated only with insulin. 
+Int J Artif Organs. 2004;27:751–758.
+Uribarri J, et al. Diet-derived advanced glycation end products are major contributors 
+to the body’s AGE pool and induce inflammation in healthy subjects [Review]. Ann 
+N Y Acad Sci. 2005;1043:461–466.
+U.S. Renal Data System. USRDS 2013 Annual Data Report: Atlas of Chronic Kidney Dis-
+ease and End-Stage Renal Disease in the United States. Bethesda, MD: National 
+Institutes of Health, National Institute of Diabetes and Digestive and Kidney Dis-
+eases; 2013.
+Vonesh EF, et al. The differential impact of risk factors on mortality in hemodialysis 
+and peritoneal dialysis. Kidney Int. 2004;66:2389–2401.
+Williams ME, et al. Glycemic control and extended hemodialysis survival in patients 
+with diabetes mellitus: comparative results of traditional and time-dependent Cox 
+model analyses. Clin J Am Soc Nephrol. 2010;5:1595–1601.
+Windus DW , et al. Prosthetic fistula survival and complications in hemodialysis pa-
+tients: effects of diabetes and age. Am J Kidney Dis. 1992;19:448–452.
+Yale JF. Oral antihyperglycemic agents and renal disease: new agents, new concepts 
+[Review]. J Am Soc Nephrol. 2005;16(suppl 1):S7–S10.
+Yale JF, et al. Efficacy and safety of canagliflozin in subjects with type 2 diabetes and 
+chronic kidney disease. Diabetes Obes Metab. 2013;15:463–473.
+Daugirdas9781451144291-ch032.indd   577 11/10/14   3:42 am

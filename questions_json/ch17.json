@@ -1,0 +1,665 @@
+{
+ "chapter": 17,
+ "questions": [
+  {
+   "topic": "Diffusion physics",
+   "question": "In diffusion-based hemodialysis, how does a molecule's rate of diffusion relate to its molecular weight?",
+   "options": {
+    "A": "Inversely proportional to the square root of molecular weight",
+    "B": "Directly proportional to molecular weight",
+    "C": "Directly proportional to the square root of molecular weight",
+    "D": "Completely independent of molecular weight"
+   },
+   "correct": "A",
+   "explanation": "The rate of diffusion is inversely proportional to the square root of molecular weight, so as MW rises, diffusive speed and clearance fall; large middle molecules are cleared slowly by diffusion-based hemodialysis. Direct proportionality (B, C) is wrong because bigger molecules move slower, not faster, and diffusion is not independent of size (D). This limitation is exactly what HDF overcomes: diffusion handles small solutes like urea well but poorly removes larger uremic toxins, which is why convection is added."
+  },
+  {
+   "topic": "Convective transport",
+   "question": "By what mechanism are solutes removed during convective transport in hemodiafiltration?",
+   "options": {
+    "A": "A concentration gradient across the membrane",
+    "B": "Solvent drag from bulk fluid flow across the membrane",
+    "C": "Active membrane transport pumps",
+    "D": "Electrostatic binding to the membrane surface"
+   },
+   "correct": "B",
+   "explanation": "Convective transport works by solvent drag: bulk fluid flow across the membrane carries solutes with it regardless of their molecular weight, so even middle and large molecules are swept across. A concentration gradient (A) drives diffusion, not convection; there are no active transport pumps (C) or electrostatic binding (D) in dialysis membranes. Because drag is size-independent, convection markedly boosts removal of larger toxins that diffusion clears slowly, which is the rationale for HDF."
+  },
+  {
+   "topic": "Sieving coefficient",
+   "question": "The sieving coefficient governing convective solute transport ranges between which values?",
+   "options": {
+    "A": "1 to 10",
+    "B": "0.5 to 2.0",
+    "C": "0 to 1.0",
+    "D": "0 to 100"
+   },
+   "correct": "C",
+   "explanation": "The sieving coefficient ranges from 0 to 1.0, where 1.0 means the solute passes freely with the ultrafiltrate and 0 means it is fully retained; it differs by solute and by membrane characteristics. Values above 1 or negative are physically meaningless, so ranges like 1-10 (A), 0.5-2.0 (B), or 0-100 (D) are wrong. This coefficient directly determines convective clearance, which equals ultrafiltered volume times sieving coefficient, so a high value (e.g., >0.6 for beta-2-microglobulin) is desirable in HDF membranes."
+  },
+  {
+   "topic": "Convection advantage",
+   "question": "Convective transport most markedly increases the removal of which solutes compared with diffusion?",
+   "options": {
+    "A": "Sodium and potassium",
+    "B": "Water alone",
+    "C": "Small ions such as urea",
+    "D": "Middle- and large-sized molecules"
+   },
+   "correct": "D",
+   "explanation": "Convection markedly increases removal of middle- and large-sized molecules that are poorly cleared by diffusion-based therapy, because solvent drag is size-independent. Small ions like urea, sodium, and potassium (A, C) are already well cleared by diffusion, so convection adds little for them, and water alone (B) is not the target solute. This is the central benefit of HDF: adding convective transport to diffusion broadens the spectrum of uremic toxins removed, especially larger mediators like beta-2-microglobulin and FGF23."
+  },
+  {
+   "topic": "HDF definition",
+   "question": "Hemodiafiltration is best characterized as which kind of therapy?",
+   "options": {
+    "A": "A hybrid therapy combining diffusion and convection in one dialyzer",
+    "B": "A purely diffusive therapy",
+    "C": "A purely convective therapy",
+    "D": "A peritoneal-based therapy"
+   },
+   "correct": "A",
+   "explanation": "HDF is a hybrid therapy that combines both main solute transport mechanisms, diffusion and convection, within the same dialyzer module. It is not purely diffusive (B) like standard hemodialysis nor purely convective (C) like hemofiltration, and it is a blood-based extracorporeal therapy, not peritoneal (D). By merging the two, HDF clears small solutes efficiently by diffusion while adding convective removal of middle and large molecules, giving a broader clearance profile than high-flux hemodialysis alone."
+  },
+  {
+   "topic": "Total clearance",
+   "question": "In hemodiafiltration, total solute clearance is determined by which relationship?",
+   "options": {
+    "A": "Convective clearance alone",
+    "B": "The sum of diffusive and convective clearances",
+    "C": "Diffusive clearance minus convective clearance",
+    "D": "The product of blood flow and dialysate flow only"
+   },
+   "correct": "B",
+   "explanation": "Total clearance in HDF equals the sum of the diffusive and convective clearances, per the EUDIAL formulation KT = (KD + KC) x dilution factor. It is not convection alone (A) or diffusion minus convection (C), and it is not simply the product of blood and dialysate flows (D). Understanding this additive relationship matters clinically because increasing convective volume adds to, rather than replaces, diffusive clearance of small solutes, letting HDF deliver both good urea clearance and enhanced middle-molecule removal."
+  },
+  {
+   "topic": "Convective clearance",
+   "question": "Convective clearance for a given solute in HDF depends on which two factors?",
+   "options": {
+    "A": "Blood temperature and dialysate flow",
+    "B": "Session length and heparin dose",
+    "C": "Total ultrafiltered volume and the solute sieving coefficient",
+    "D": "Molecular weight and dialysate sodium"
+   },
+   "correct": "C",
+   "explanation": "Convective clearance for a solute depends on the total ultrafiltered volume and that solute's sieving coefficient for the membrane used (KC relates to convective flow Qf and sieving coefficient S). It is not set by blood temperature, session length, heparin dose, or dialysate sodium. This is why HDF prescriptions target a high convective volume (20-24 L postdilution) and why membranes with a high sieving coefficient for beta-2-microglobulin (>0.6) are chosen: both factors directly raise convective removal of middle molecules."
+  },
+  {
+   "topic": "Ultrafiltered volume",
+   "question": "The total ultrafiltered volume during HDF is the sum of which components?",
+   "options": {
+    "A": "Dialysate flow plus blood flow",
+    "B": "Residual urine plus oral intake",
+    "C": "Diffusive plus convective clearance",
+    "D": "Fluid removed for overload correction plus the substitution fluid volume"
+   },
+   "correct": "D",
+   "explanation": "Total ultrafiltered volume is the sum of fluid removed to correct extracellular fluid overload plus the substitution or replacement fluid infused to enhance convection. It is not dialysate plus blood flow (A), residual urine plus oral intake (B), or a sum of clearances (C). This distinction matters because the convective dose is driven mainly by the substitution volume; in postdilution HDF the target of 20-24 L per session comes largely from replacement fluid, not just the net fluid removed for the patient's weight."
+  },
+  {
+   "topic": "EUDIAL equations",
+   "question": "In the EUDIAL convective clearance equation, the term S represents which quantity?",
+   "options": {
+    "A": "The sieving coefficient",
+    "B": "The session time",
+    "C": "The substitution fluid sodium",
+    "D": "The membrane surface area"
+   },
+   "correct": "A",
+   "explanation": "In the EUDIAL convective component equation, Qf is the convective flow rate and S is the sieving coefficient; together they determine KC. S is not session time (B), substitution sodium (C), or membrane surface area (D). Because convective clearance scales with S, a membrane with a high sieving coefficient for target middle molecules (e.g., >0.6 for beta-2-microglobulin) removes more per liter of ultrafiltrate, which is why membrane selection is central to effective HDF."
+  },
+  {
+   "topic": "Dilution factor",
+   "question": "In the total clearance equation KT = (KD + KC) x DF, the dilution factor DF depends on what?",
+   "options": {
+    "A": "The dialyzer surface area",
+    "B": "How the replacement fluid is infused (post-, pre-, or mixed dilution)",
+    "C": "The patient's hematocrit alone",
+    "D": "The blood flow rate alone"
+   },
+   "correct": "B",
+   "explanation": "In KT = (KD + KC) x DF, the dilution factor DF depends on how the replacement fluid is infused: postdilution, predilution, or mixed dilution. It is not governed by dialyzer surface area (A), hematocrit alone (C), or blood flow alone (D). DF matters because predilution dilutes the toxin concentration in blood entering the dialyzer, lowering effective clearance; this is why an equivalent convective dose needs about twice the ultrafiltration volume in predilution and 1.3 times in mixed dilution versus postdilution."
+  },
+  {
+   "topic": "Mass transfer coefficient",
+   "question": "In the EUDIAL diffusive clearance equation, KoA refers to which parameter?",
+   "options": {
+    "A": "The blood flow rate",
+    "B": "The ultrafiltration coefficient",
+    "C": "The solute-specific dialyzer mass transfer-area coefficient",
+    "D": "The dialysate flow rate"
+   },
+   "correct": "C",
+   "explanation": "KoA is the solute-specific dialyzer mass transfer-area coefficient in the EUDIAL diffusive clearance equation, where Qb is blood flow and Qd is dialysate flow. It is not the blood flow rate (A), the ultrafiltration coefficient (B), or the dialysate flow rate (D) themselves. KoA characterizes how efficiently a given dialyzer transfers a particular solute by diffusion; a higher KoA means better diffusive clearance, and it combines with the convective component to yield the total HDF clearance."
+  },
+  {
+   "topic": "Postdilution mode",
+   "question": "In postdilution hemodiafiltration, at what point is the substitution fluid added to the blood?",
+   "options": {
+    "A": "Before the blood enters the dialyzer",
+    "B": "Both before and after the dialyzer at once",
+    "C": "Directly into the dialysate compartment",
+    "D": "As the blood exits the hemodialyzer"
+   },
+   "correct": "D",
+   "explanation": "In postdilution mode the substitution fluid is added to the blood stream as it exits the hemodialyzer. It is not infused before the dialyzer (A, predilution), both before and after simultaneously (B, mixed), or into the dialysate compartment (C). Adding fluid after the dialyzer keeps blood undiluted where convection occurs, making postdilution the most efficient mode for clearance, but it also causes hemoconcentration in the filter, which limits how much convective volume can be achieved."
+  },
+  {
+   "topic": "Postdilution efficiency",
+   "question": "Why is postdilution generally the most efficient mode for solute clearance?",
+   "options": {
+    "A": "There is no dilution of blood inside the dialyzer where convection occurs",
+    "B": "It uses the largest volume of substitution fluid",
+    "C": "It requires two infusion pumps",
+    "D": "It lowers the hematocrit within the dialyzer"
+   },
+   "correct": "A",
+   "explanation": "Postdilution is most efficient because the substitution fluid is added after the dialyzer, so blood is not diluted inside the filter where convection takes place, keeping solute concentrations and thus convective removal maximal. It does not use the largest fluid volume (that is predilution, B) or require two pumps (C, mixed dilution), and it raises rather than lowers hematocrit in the dialyzer (D). The trade-off is hemoconcentration, which raises viscosity and transmembrane pressure and can reduce the sieving coefficient and cause clotting."
+  },
+  {
+   "topic": "Predilution rationale",
+   "question": "Predilution or mixed dilution is preferred over postdilution in which situation?",
+   "options": {
+    "A": "When the patient has a very low hematocrit",
+    "B": "When blood flow is limited or hemorheological conditions are adverse",
+    "C": "When the smallest possible substitution volume is desired",
+    "D": "When no substitution fluid is available"
+   },
+   "correct": "B",
+   "explanation": "Predilution or mixed dilution is chosen when blood flow is limited or when hemorheological conditions are adverse (high hemoglobin or high protein), because diluting blood before the filter avoids the hemoconcentration that would otherwise cause clotting and high transmembrane pressure. It is not selected for very low hematocrit (A), to minimize substitution volume (C, predilution actually needs more), or when no fluid is available (D). The cost is reduced clearance per liter, so more ultrafiltration volume is required."
+  },
+  {
+   "topic": "Predilution site",
+   "question": "In predilution hemodiafiltration, where is the replacement fluid infused?",
+   "options": {
+    "A": "Into the venous return line after the dialyzer",
+    "B": "Into the dialysate inlet",
+    "C": "Into the blood line upstream of the filter",
+    "D": "Directly into the patient's fistula"
+   },
+   "correct": "C",
+   "explanation": "In predilution the replacement fluid is infused into the blood line upstream of the filter, diluting blood before it enters the dialyzer. It is not added to the venous return after the dialyzer (A, postdilution), into the dialysate inlet (B), or directly into the fistula (D). Predilution lowers viscosity, oncotic pressure, and membrane fouling and permits HDF under suboptimal blood flow, but because incoming toxin concentrations are diluted, solute clearance falls and roughly twice the volume is needed for an equivalent dose."
+  },
+  {
+   "topic": "Predilution drawback",
+   "question": "A key disadvantage of predilution compared with postdilution HDF is that it:",
+   "options": {
+    "A": "Increases membrane fouling and clotting",
+    "B": "Raises the hematocrit within the dialyzer",
+    "C": "Cannot be used with online substitution fluid",
+    "D": "Reduces solute clearance because incoming blood toxins are diluted"
+   },
+   "correct": "D",
+   "explanation": "Predilution's key disadvantage is reduced solute clearance, because infusing fluid upstream dilutes the toxin concentration in blood entering the dialyzer, lowering the gradient and convective removal of small, middle, and large molecules. It reduces rather than increases fouling and clotting (A), lowers rather than raises hematocrit in the filter (B), and can use online fluid (C). To offset the loss, predilution requires about a twofold larger substitution volume than postdilution to match the convective dose."
+  },
+  {
+   "topic": "Predilution benefits",
+   "question": "Which of the following is an advantage of predilution hemodiafiltration?",
+   "options": {
+    "A": "Reduced viscosity and reduced fiber/membrane fouling",
+    "B": "Increased proteincrit and hematocrit",
+    "C": "Reduced volume of substitution fluid needed",
+    "D": "Increased transmembrane pressure"
+   },
+   "correct": "A",
+   "explanation": "An advantage of predilution is hemodilution, which decreases proteincrit and hematocrit and thereby reduces viscosity, oncotic pressure, and fiber/membrane fouling, preserving membrane permeability and permitting HDF under suboptimal blood flow. Increased proteincrit/hematocrit (B) and increased transmembrane pressure (D) are actually postdilution problems, and reduced substitution volume (C) is a postdilution advantage since predilution needs about twice as much fluid. Predilution also facilitates protein-bound solute clearance."
+  },
+  {
+   "topic": "Postdilution cons",
+   "question": "Which problem is characteristic of postdilution HDF because of hemoconcentration in the filter?",
+   "options": {
+    "A": "Excessive dilution of blood proteins",
+    "B": "Reduced sieving coefficient and fiber clotting",
+    "C": "The need for two infusion pumps",
+    "D": "A twofold increase in substitution fluid volume"
+   },
+   "correct": "B",
+   "explanation": "Postdilution causes hemoconcentration in the filter, which increases proteincrit, hematocrit, viscosity, oncotic pressure, and transmembrane pressure; this reduces the sieving coefficient and hydraulic/solute permeability and promotes fiber clotting, membrane fouling, alarms, and potential albumin leakage. Excessive protein dilution (A) and a twofold fluid increase (D) belong to predilution, and needing two pumps (C) is a mixed-dilution issue. These limits cap the convective volume achievable in postdilution mode."
+  },
+  {
+   "topic": "Mixed dilution",
+   "question": "The main rationale for mixed-dilution HDF is that it:",
+   "options": {
+    "A": "Eliminates the need for ultrapure water",
+    "B": "Uses no substitution fluid",
+    "C": "Avoids the drawbacks of both post- and predilution methods",
+    "D": "Requires no specialized hardware"
+   },
+   "correct": "C",
+   "explanation": "Mixed dilution splits infusion before and after the filter to avoid the drawbacks of both post- and predilution: it limits hemoconcentration like predilution yet preserves more clearance than pure predilution, permitting HDF under suboptimal blood flow and unfavorable hemorheological conditions. It does not eliminate the need for ultrapure water (A), use no substitution fluid (B), or avoid special hardware (D). Its cost is added complexity, needing specific pumps, tubing, and software, and about 1.3-fold more substitution volume than postdilution."
+  },
+  {
+   "topic": "Mixed dilution hardware",
+   "question": "A shortcoming of mixed-dilution HDF is that it:",
+   "options": {
+    "A": "Markedly reduces beta-2-microglobulin clearance",
+    "B": "Cannot correct fluid overload",
+    "C": "Prohibits use of high-flux membranes",
+    "D": "Requires specific hardware including two infusion pumps and special tubing"
+   },
+   "correct": "D",
+   "explanation": "Mixed dilution requires specific hardware, including two infusion pumps and a specific blood tubing set, plus dedicated software to adjust the pre/post infusion ratio and keep transmembrane pressure in range. It does not markedly reduce beta-2-microglobulin clearance (A), it can still correct fluid overload (B), and it uses high-flux membranes (C). This equipment burden is the trade-off for avoiding the drawbacks of both other modes; it needs only about 1.3-fold more substitution fluid than postdilution, less than predilution's twofold."
+  },
+  {
+   "topic": "Vascular access",
+   "question": "HDF requires a vascular access able to reliably deliver an extracorporeal blood flow of at least:",
+   "options": {
+    "A": "350-400 mL/min",
+    "B": "150-200 mL/min",
+    "C": "250-300 mL/min",
+    "D": "500-600 mL/min"
+   },
+   "correct": "A",
+   "explanation": "HDF requires a vascular access that can reliably deliver an extracorporeal blood flow of at least 350-400 mL/min, because high convective volumes depend on high blood flow to avoid excessive hemoconcentration in postdilution. Lower flows of 150-300 mL/min (B, C) cannot sustain the ultrafiltration needed, and 500-600 mL/min (D) exceeds the stated requirement. When adequate blood flow cannot be achieved, predilution or mixed dilution is used instead to permit HDF under suboptimal flow conditions."
+  },
+  {
+   "topic": "Membrane permeability",
+   "question": "For a high-flux hemodiafilter, the recommended hydraulic permeability (KUF) is:",
+   "options": {
+    "A": "Less than 10 mL per hour per mm Hg",
+    "B": "Greater than 50 mL per hour per mm Hg",
+    "C": "Exactly 20 mL per hour per mm Hg",
+    "D": "Greater than 500 mL per hour per mm Hg"
+   },
+   "correct": "B",
+   "explanation": "A high-flux hemodiafilter should have high hydraulic permeability, defined as KUF greater than 50 mL per hour per mm Hg, so it can support the high ultrafiltration rates convection requires. Less than 10 (A) or exactly 20 (C) describe low- or mid-flux membranes inadequate for HDF, and greater than 500 (D) is far beyond the stated criterion. Alongside a high sieving coefficient for beta-2-microglobulin (>0.6) and an optimal surface area of 1.6-1.8 m2, high KUF is a defining membrane requirement for effective HDF."
+  },
+  {
+   "topic": "Membrane sieving",
+   "question": "For an HDF membrane, the sieving coefficient for beta-2-microglobulin should be:",
+   "options": {
+    "A": "Less than 0.1",
+    "B": "Exactly 0.3",
+    "C": "Greater than 0.6",
+    "D": "Less than 0.001"
+   },
+   "correct": "C",
+   "explanation": "An HDF membrane needs high solute permeability, with a sieving coefficient for beta-2-microglobulin greater than 0.6, so this middle molecule crosses readily by convection. Values of <0.1 or 0.3 (A, B) would remove too little, and <0.001 (D) is actually the target albumin sieving coefficient, deliberately kept very low to prevent protein loss. This contrast highlights membrane design: high sieving for middle molecules like beta-2-microglobulin but near-zero sieving for albumin to avoid depleting it."
+  },
+  {
+   "topic": "Dialyzer surface area",
+   "question": "The optimal surface area of exchange recommended for an HDF hemodiafilter is:",
+   "options": {
+    "A": "0.5-0.8 m2",
+    "B": "1.00-1.20 m2",
+    "C": "2.50-3.00 m2",
+    "D": "1.60-1.80 m2"
+   },
+   "correct": "D",
+   "explanation": "The optimal surface area of exchange for an HDF hemodiafilter is 1.60-1.80 m2, balancing sufficient membrane for diffusion and convection against blood volume and resistance. Smaller areas of 0.5-1.2 m2 (A, B) limit clearance, while 2.5-3.0 m2 (C) is larger than recommended. Surface area is one of several membrane criteria, alongside KUF >50 mL/h/mm Hg, beta-2-microglobulin sieving >0.6, and low internal resistance (fiber diameter >200 micrometers, bundle length <30 cm), that together define a good HDF filter."
+  },
+  {
+   "topic": "Fiber geometry",
+   "question": "To reduce hemoconcentration and facilitate ultrafiltration, an HDF hemodiafilter should have:",
+   "options": {
+    "A": "Internal fiber diameter greater than 200 micrometers and bundle length less than 30 cm",
+    "B": "Internal fiber diameter less than 100 micrometers",
+    "C": "A fiber bundle length greater than 50 cm",
+    "D": "As few fibers as possible"
+   },
+   "correct": "A",
+   "explanation": "To reduce hemoconcentration and facilitate ultrafiltration, an HDF hemodiafilter should have low internal blood resistance: internal fiber diameter greater than 200 micrometers, a sufficient number of fibers, and a fiber bundle length less than 30 cm. Diameters under 100 micrometers (B), bundles over 50 cm (C), or as few fibers as possible (D) all raise resistance and hemoconcentration. Low resistance keeps blood flowing evenly and transmembrane pressure manageable, which is especially important in postdilution where hemoconcentration already threatens the filter."
+  },
+  {
+   "topic": "Online substitution fluid",
+   "question": "Online production of substitution fluid for HDF is achieved by which process?",
+   "options": {
+    "A": "Heat pasteurization of tap water",
+    "B": "Cold sterilization of freshly prepared dialysis solution using dedicated ultrafilters",
+    "C": "Chemical chlorination of dialysate",
+    "D": "Adding commercial sterile bags to the circuit"
+   },
+   "correct": "B",
+   "explanation": "Online substitution fluid is produced by cold sterilization of freshly prepared dialysis solution using dedicated sterilizing ultrafilters, yielding virtually unlimited sterile, nonpyrogenic fluid at low cost. It is not made by heat pasteurizing tap water (A), chlorinating dialysate (C), or adding commercial sterile bags (D). This online technique, standard outside the United States and approved by European regulators, makes high-volume HDF practical; the ultrafilters must be replaced periodically to preserve endotoxin adsorption capacity."
+  },
+  {
+   "topic": "Infusion pump range",
+   "question": "The adjustable infusion pump used to divert substitution fluid in online HDF operates over which range?",
+   "options": {
+    "A": "0-50 mL/minute",
+    "B": "100-500 mL/minute",
+    "C": "0-250 mL/minute",
+    "D": "0-1000 mL/minute"
+   },
+   "correct": "C",
+   "explanation": "The adjustable infusion pump that diverts substitution fluid in online HDF operates at 0-250 mL/minute, allowing the high infusion rates needed for a 20-24 L convective dose. A range of 0-50 (A) would be too slow, while 100-500 (B) or 0-1000 (D) misstate the specification. The ultrapure dialysate is diverted by this pump and passed through a second ultrafilter before infusion, so the pump both sets the convective volume and feeds the final sterilizing filtration step."
+  },
+  {
+   "topic": "Double filtration",
+   "question": "Before infusion into the patient in online HDF, the substitution fluid passes through how many ultrafilters?",
+   "options": {
+    "A": "None; it is used directly",
+    "B": "One ultrafilter only",
+    "C": "Four ultrafilters",
+    "D": "Two ultrafilters (doubly filtered)"
+   },
+   "correct": "D",
+   "explanation": "Before reaching the patient, online HDF substitution fluid passes through two ultrafilters: the first produces ultrapure dialysate by cold sterilization, then the infusion pump diverts it through a second ultrafilter, so the fluid is doubly filtered. It is never used directly (A), single-filtered (B), or passed through four filters (C). This redundant sterilizing filtration is the safety backbone of online HDF, guarding against endotoxin and bacterial products entering the blood if one filter's capacity is exceeded."
+  },
+  {
+   "topic": "Ultrafilter replacement",
+   "question": "Why must the sterilizing ultrafilters in online HDF machines be replaced periodically?",
+   "options": {
+    "A": "To prevent loss of their endotoxin adsorption capacity",
+    "B": "Because they dissolve in dialysate",
+    "C": "To increase the blood flow rate",
+    "D": "Because reuse beyond one session is banned"
+   },
+   "correct": "A",
+   "explanation": "Sterilizing ultrafilters must be replaced periodically, based on a defined number of sessions or duration of use, to prevent loss of their endotoxin adsorption capacity. They do not dissolve in dialysate (B), affect blood flow rate (C), or face a one-session reuse ban (D). Because online HDF infuses substitution fluid directly into blood, maintaining ultrafilter performance is critical; failure of cold sterilization or filter exhaustion could let endotoxin, peptidoglycans, or bacterial DNA reach the bloodstream and trigger inflammation."
+  },
+  {
+   "topic": "Ultrapure water",
+   "question": "The basic setup to produce ultrapure water consists of a pretreatment system followed by:",
+   "options": {
+    "A": "A single reverse osmosis module",
+    "B": "Two reverse osmosis modules in series",
+    "C": "A deionizer only",
+    "D": "An ultraviolet lamp only"
+   },
+   "correct": "B",
+   "explanation": "Ultrapure water production uses a pretreatment system (microfiltration, softeners, activated carbon, downstream microfiltration) followed by two reverse osmosis modules in series. A single RO module (A), a deionizer only (C), or a UV lamp only (D) cannot reliably reach the chemical and microbiological purity HDF demands. The purified water then circulates in a distribution loop, and downstream sterilizing ultrafilters in the machine derive microbiologically pure dialysis fluid from it, ensuring both chemical and microbial purity of all fluids."
+  },
+  {
+   "topic": "Water distribution",
+   "question": "How is ultrapurified water delivered to dialysis machines to maintain its quality?",
+   "options": {
+    "A": "In sealed disposable bottles",
+    "B": "By gravity feed from a rooftop tank",
+    "C": "Via a distribution loop with continuous recirculation",
+    "D": "Through a dead-end straight pipe"
+   },
+   "correct": "C",
+   "explanation": "Ultrapurified water is delivered to dialysis machines through a distribution loop that continuously recirculates the water, preventing the stagnation and biofilm that promote bacterial growth. Sealed bottles (A), gravity feed from a tank (B), or a dead-end straight pipe (D) all allow stasis and contamination. Continuous recirculation is a core hygienic principle for convective therapies, where water quality directly affects patient safety because substitution fluid derived from this water is infused into the blood."
+  },
+  {
+   "topic": "Endotoxin monitoring",
+   "question": "Assessment of endotoxin content in HDF water quality assurance is based on which assay?",
+   "options": {
+    "A": "ELISA for albumin",
+    "B": "PCR for bacterial DNA",
+    "C": "Gram staining",
+    "D": "Limulus amebocyte lysate (LAL) assay"
+   },
+   "correct": "D",
+   "explanation": "Endotoxin content in HDF water quality assurance is assessed by the Limulus amebocyte lysate (LAL) assay, alongside bacteriometry for viable counts. ELISA for albumin (A), PCR for bacterial DNA (B), and Gram staining (C) do not quantify endotoxin the way LAL does. Regular LAL testing, disinfection of the water system, and ultrafilter changes form the quality-assurance loop that keeps online HDF fluids nonpyrogenic; monitoring blood CRP in patients complements this by detecting subclinical inflammation."
+  },
+  {
+   "topic": "HDF schedule",
+   "question": "The conventional HDF treatment schedule for chronic kidney disease patients is:",
+   "options": {
+    "A": "Three sessions per week of 4 hours each (12 hours per week)",
+    "B": "Two sessions per week of 6 hours each",
+    "C": "Daily 2-hour sessions",
+    "D": "Three sessions per week of 2 hours each"
+   },
+   "correct": "A",
+   "explanation": "Conventional HDF for chronic kidney disease uses three sessions per week of 4 hours each, totaling 12 hours per week. Two 6-hour sessions (B), daily 2-hour sessions (C), or three 2-hour sessions (D) are not the standard schedule described. More frequent or extended schedules exist but are outside this chapter's scope. This thrice-weekly, 4-hour framework is the basis on which convective dose targets (20-24 L postdilution per session) and electrolyte prescriptions are built."
+  },
+  {
+   "topic": "Convective dose target",
+   "question": "In postdilution HDF, the total ultrafiltered volume (surrogate of convective dose) should be targeted to:",
+   "options": {
+    "A": "5-10 L per session",
+    "B": "20-24 L per session (85-90 mL/kg per hour)",
+    "C": "40-50 L per session",
+    "D": "12-15 L per session"
+   },
+   "correct": "B",
+   "explanation": "In postdilution HDF the total ultrafiltered volume, a surrogate of convective dose, should be targeted to 20-24 L per session (85-90 mL/kg per hour). Lower targets of 5-15 L (A, D) underdose convection, and 40-50 L (C) exceeds the recommendation. This dose matters clinically: the ESHOL trial, which reached about 23-24 L, showed a 30% mortality reduction, whereas trials with lower volumes (~19.5-21 L) did not, suggesting a high convective volume is needed for outcome benefit."
+  },
+  {
+   "topic": "Predilution volume factor",
+   "question": "To achieve an equivalent convective dose in predilution mode, the targeted ultrafiltration volume should be multiplied by:",
+   "options": {
+    "A": "0.5",
+    "B": "1.3",
+    "C": "2",
+    "D": "4"
+   },
+   "correct": "C",
+   "explanation": "To match the postdilution convective dose, predilution requires multiplying the targeted ultrafiltration volume by 2, because infusing fluid upstream dilutes blood and halves clearance efficiency per liter. Factors of 0.5 (A), 1.3 (B, which is mixed dilution), or 4 (D) are incorrect. This twofold penalty is predilution's main cost, offset by its benefits of lower viscosity and fouling; when postdilution is feasible it is preferred precisely because it needs the least substitution fluid for a given dose."
+  },
+  {
+   "topic": "Mixed dilution factor",
+   "question": "To achieve an equivalent convective dose in mixed-dilution mode, the targeted ultrafiltration volume should be multiplied by:",
+   "options": {
+    "A": "2",
+    "B": "3",
+    "C": "0.7",
+    "D": "1.3"
+   },
+   "correct": "D",
+   "explanation": "To achieve an equivalent convective dose in mixed dilution, the targeted ultrafiltration volume is multiplied by 1.3, a smaller penalty than predilution's factor of 2 because only part of the fluid is infused pre-filter. Factors of 2 (A), 3 (B), or 0.7 (C) are wrong. This intermediate volume requirement reflects mixed dilution's design goal of avoiding the drawbacks of both post- and predilution while keeping the extra substitution fluid modest, about 1.3-fold above postdilution."
+  },
+  {
+   "topic": "Dialysate sodium",
+   "question": "To reduce osmotic gradient shift and facilitate removal of excess sodium, dialysate sodium in HDF should be:",
+   "options": {
+    "A": "Aligned with the patient's predialysis plasma sodium concentration",
+    "B": "Set well above the plasma sodium",
+    "C": "Kept below 130 mM",
+    "D": "Fixed at 145 mM regardless of the patient"
+   },
+   "correct": "A",
+   "explanation": "Dialysate sodium in HDF can be aligned with the patient's predialysis plasma sodium concentration to reduce the osmotic gradient shift and facilitate removal of excess sodium. Setting it well above plasma (B) or fixed at 145 mM (D) risks sodium loading and thirst, while below 130 mM (C) risks disequilibrium and hypotension. Individualized, isonatric prescribing is especially important in HDF because large replacement-fluid volumes can markedly influence sodium balance if the concentration is not matched to the patient."
+  },
+  {
+   "topic": "Dialysate potassium",
+   "question": "The preferred dialysate potassium concentration range for HDF is:",
+   "options": {
+    "A": "0 to 1 mM",
+    "B": "2 to 4 mM",
+    "C": "5 to 7 mM",
+    "D": "8 to 10 mM"
+   },
+   "correct": "B",
+   "explanation": "Dialysate potassium in HDF should preferably be between 2 and 4 mM. A bath of 0-1 mM (A) risks dangerous hypokalemia and arrhythmia, while 5-10 mM (C, D) would fail to remove potassium and could cause hyperkalemia. Electrolyte prescription is particularly crucial in HDF because the high replacement-fluid volume amplifies the impact of bath composition, so potassium, like sodium and calcium, must be individualized to the clinical situation within this recommended range."
+  },
+  {
+   "topic": "Dialysate calcium",
+   "question": "For a neutral or minimally positive calcium balance, the dialysate calcium concentration should generally be:",
+   "options": {
+    "A": "0.50-0.75 mM",
+    "B": "3.0-3.5 mM",
+    "C": "1.25-1.50 mM (2.5-3.0 mEq/L)",
+    "D": "1.75-2.00 mM"
+   },
+   "correct": "C",
+   "explanation": "For a neutral or minimally positive calcium balance, dialysate calcium should be 1.25-1.50 mM (2.5-3.0 mEq/L). Lower baths of 0.50-0.75 mM (A) would give a negative balance, while 1.75 mM and above (B, D) drive a positive balance and are reserved for special cases. The chosen concentration depends on the targeted calcium mass balance; because HDF exchanges large fluid volumes, calcium prescribing is important to avoid unintended positive balance that could contribute to vascular calcification."
+  },
+  {
+   "topic": "High calcium indication",
+   "question": "A higher dialysate calcium of 1.75 mM (3.5 mEq/L) should be restricted to which situations?",
+   "options": {
+    "A": "Routine use in all HDF patients",
+    "B": "Hyperphosphatemia",
+    "C": "Patients with high blood flow",
+    "D": "Severe hypocalcemia and indications such as hypoparathyroidism or calcimimetic use"
+   },
+   "correct": "D",
+   "explanation": "Higher dialysate calcium of 1.75 mM (3.5 mEq/L) should be restricted to severe hypocalcemia and particular indications such as hypoparathyroidism or calcimimetic use, where extra calcium is needed. Routine use in all patients (A) risks positive calcium balance, and it is not indicated for hyperphosphatemia (B) or simply high blood flow (C). The default for neutral balance is 1.25-1.50 mM; reserving 1.75 mM for specific situations reflects concern about calcium loading with the large fluid exchanges of HDF."
+  },
+  {
+   "topic": "Dialysate bicarbonate",
+   "question": "The preferred dialysate bicarbonate concentration (measured after reaction with acid concentrate) in HDF is:",
+   "options": {
+    "A": "28-30 mM",
+    "B": "20-22 mM",
+    "C": "35-40 mM",
+    "D": "45-50 mM"
+   },
+   "correct": "A",
+   "explanation": "Dialysate bicarbonate in HDF should preferably be 28-30 mM (measured after reaction with acid concentrate), because the acetate (4-8 mM) or citrate (0.8-1.0 mM) in the final solution adds further alkalinizing effect. Higher targets of 35-50 mM (C, D) risk metabolic alkalosis, and 20-22 mM (B) may undercorrect acidosis. Accounting for the buffer contribution of acetate or citrate is essential in HDF to avoid over-alkalinization when large replacement-fluid volumes are infused."
+  },
+  {
+   "topic": "Dialysate magnesium",
+   "question": "The typical dialysate magnesium concentration used in HDF is:",
+   "options": {
+    "A": "2.00 mM",
+    "B": "0.50 mM (1.0 mEq/L)",
+    "C": "1.50 mM",
+    "D": "0.10 mM"
+   },
+   "correct": "B",
+   "explanation": "The typical dialysate magnesium concentration in HDF is 0.50 mM (1.0 mEq/L). Higher values of 1.5-2.0 mM (A, C) would impair magnesium removal or cause loading, and 0.10 mM (D) is atypically low. As with other electrolytes, magnesium prescribing matters more in HDF than in conventional dialysis because the large convective and replacement-fluid volumes magnify the effect of bath composition on the patient's mineral balance, so standard solutions center on this 0.50 mM value."
+  },
+  {
+   "topic": "Heparin clearance",
+   "question": "Why should the initial heparin bolus NOT be given into the hemodiafilter inlet blood line?",
+   "options": {
+    "A": "It would clot the venous chamber",
+    "B": "It causes immediate hemolysis",
+    "C": "Up to 50% of unfractionated or 80% of low-molecular-weight heparin can be removed on first passage before binding antithrombin",
+    "D": "It dangerously raises the transmembrane pressure"
+   },
+   "correct": "C",
+   "explanation": "The heparin bolus should not go into the hemodiafilter inlet line because, on first passage through a high-efficiency HDF setup, up to 50% of unfractionated heparin or 80% of low-molecular-weight heparin can be removed while still unbound to antithrombin, undermining anticoagulation. It is not primarily about clotting the venous chamber (A), hemolysis (B), or raising transmembrane pressure (D). This first-pass loss occurs only before heparin binds antithrombin or protein; once bound in the blood it is no longer readily removed."
+  },
+  {
+   "topic": "Heparin administration",
+   "question": "How should the initial heparin bolus be given in HDF to ensure adequate anticoagulation?",
+   "options": {
+    "A": "As a bolus into the hemodiafilter inlet line",
+    "B": "Into the dialysate compartment",
+    "C": "Orally 30 minutes before the session",
+    "D": "Via the venous needle/blood line, mixing for at least 3-5 minutes before starting blood flow"
+   },
+   "correct": "D",
+   "explanation": "The initial heparin bolus should be infused via the venous needle or blood line and allowed to mix with the patient's blood for at least 3-5 minutes before starting extracorporeal blood flow, so it binds antithrombin before reaching the filter. Giving it into the inlet line (A) risks removing up to 50-80% on first pass, and dialysate dosing (B) or oral heparin (C) are not viable routes. Doses vary widely between patients and require stepwise titration; inadequate ultrafiltration or clotting usually responds to a higher dose."
+  },
+  {
+   "topic": "Beta-2-microglobulin clearance",
+   "question": "Compared with high-flux hemodialysis, beta-2-microglobulin clearance in HDF is approximately:",
+   "options": {
+    "A": "30-40% higher",
+    "B": "The same",
+    "C": "50% lower",
+    "D": "10% lower"
+   },
+   "correct": "A",
+   "explanation": "Beta-2-microglobulin clearance in HDF is about 30-40% higher than with high-flux hemodialysis, confirmed by several prospective controlled studies. It is not the same (B), 50% lower (C), or 10% lower (D); convection specifically enhances removal of this middle molecule. The enhanced clearance produces a 10-20% fall in circulating levels, which matters because higher beta-2-microglobulin predicts mortality in dialysis patients, so targeting lower levels is a goal of dialysis adequacy that HDF helps achieve."
+  },
+  {
+   "topic": "Beta-2-microglobulin decline",
+   "question": "Enhanced beta-2-microglobulin removal in HDF is accompanied by a decline in circulating blood concentrations of about:",
+   "options": {
+    "A": "70-80%",
+    "B": "10-20%",
+    "C": "50-60%",
+    "D": "No measurable change"
+   },
+   "correct": "B",
+   "explanation": "Enhanced beta-2-microglobulin removal in HDF is accompanied by a 10-20% decline in circulating blood concentrations. It is not a 70-80% (A) or 50-60% (C) drop, nor is it unchanged (D); the modest but consistent reduction reflects that beta-2-microglobulin has a large distribution volume and ongoing generation. Because higher beta-2-microglobulin levels predict morbidity and mortality in hemodialysis patients, even this degree of sustained lowering is considered clinically meaningful for adequacy."
+  },
+  {
+   "topic": "Phosphate removal",
+   "question": "In HDF, phosphate mass removal is enhanced by approximately:",
+   "options": {
+    "A": "50-60%",
+    "B": "1-2%",
+    "C": "15-20%",
+    "D": "80-90%"
+   },
+   "correct": "C",
+   "explanation": "In HDF, phosphate mass removal is enhanced by about 15-20% compared with conventional hemodialysis. It is not a 1-2% (B), 50-60% (A), or 80-90% (D) change. In one large study, predialysis serum phosphate fell by 6% and the share of patients reaching target levels rose from 64% to 74%. Because phosphate behaves partly like a middle molecule with slow intercompartmental transfer, the added convective flow of HDF modestly but usefully improves its control."
+  },
+  {
+   "topic": "Uremic toxin removal",
+   "question": "Which larger uremic substances have been documented to be effectively removed by HDF?",
+   "options": {
+    "A": "Sodium chloride",
+    "B": "Glucose",
+    "C": "Water only",
+    "D": "FGF23 and leptin"
+   },
+   "correct": "D",
+   "explanation": "HDF documents effective removal of larger uremic substances including complement factor D, leptin (16 kDa), FGF23 (30 kDa), CMPF, immunoglobulin light chains, and advanced glycation end products, so FGF23 and leptin are correct. Sodium chloride (A) and glucose (B) are small solutes cleared by diffusion, and water alone (C) is not a solute. These middle and large molecules are poorly removed by diffusion, so convection is what allows HDF to clear them, with potential benefits for nutritional, bone-mineral, and inflammatory pathways."
+  },
+  {
+   "topic": "Intradialytic hypotension",
+   "question": "The reduction in intradialytic hypotension with HDF has been attributed partly to:",
+   "options": {
+    "A": "Negative thermal balance from infusion of relatively cool replacement fluid",
+    "B": "Higher dialysate temperature",
+    "C": "Rapid ultrafiltration rates",
+    "D": "Lower substitution fluid sodium concentration"
+   },
+   "correct": "A",
+   "explanation": "The reduction in intradialytic hypotension with HDF is attributed partly to negative thermal balance from infusing relatively cool replacement fluid, plus the high sodium of the substitution fluid and removal of vasodilating mediators. Higher dialysate temperature (B), rapid ultrafiltration (C), and lower substitution sodium (D) would worsen, not reduce, hypotension. The importance of temperature is shown by a study where HDF and hemodialysis with matched heat transfer showed no difference in blood pressure stability."
+  },
+  {
+   "topic": "ESA consumption",
+   "question": "According to meta-analyses, the impact of HDF on erythropoiesis stimulating agent (ESA) dose is:",
+   "options": {
+    "A": "A dramatic increase in requirement",
+    "B": "No major impact on ESA dose",
+    "C": "Complete elimination of ESA need",
+    "D": "A doubling of ESA dose"
+   },
+   "correct": "B",
+   "explanation": "Meta-analyses suggest HDF has no major impact on ESA (erythropoiesis-stimulating agent) dose, so it neither dramatically increases (A), eliminates (C), nor doubles (D) the requirement. A benefit might logically be expected from better removal of erythropoietic inhibitors and reduced inflammation, and some studies did show lower ESA doses, but that benefit may reflect the higher-quality water and dialysis solution used with HDF rather than convection itself. Overall the anemia effect remains modest and uncertain."
+  },
+  {
+   "topic": "Amyloidosis",
+   "question": "Extended use of high-flux membranes and convective therapies affects beta-2-microglobulin amyloidosis by:",
+   "options": {
+    "A": "Increasing carpal tunnel syndrome incidence",
+    "B": "Causing new amyloid deposition",
+    "C": "Having a beneficial impact, reducing carpal tunnel syndrome incidence",
+    "D": "Having no relationship to amyloidosis"
+   },
+   "correct": "C",
+   "explanation": "Extended use of high-flux membranes and convective therapies has a beneficial impact on beta-2-microglobulin amyloidosis, reducing the incidence of carpal tunnel syndrome. It does not increase carpal tunnel (A), cause new amyloid deposition (B), or lack any relationship (D). The benefit likely stems from enhanced convective removal of beta-2-microglobulin combined with regular use of ultrapure water and biocompatible materials that prevent the inflammation driving amyloid formation."
+  },
+  {
+   "topic": "Mortality trials",
+   "question": "How many randomized trials comparing survival with HDF versus hemodialysis are described, and roughly how large was each?",
+   "options": {
+    "A": "One trial with 100 patients",
+    "B": "Ten trials of 50 patients each",
+    "C": "Two trials of 5,000 patients each",
+    "D": "Three trials, each with about 700-900 patients"
+   },
+   "correct": "D",
+   "explanation": "Three randomized trials compared survival and hospitalizations in HDF versus high- or low-flux hemodialysis, each enrolling about 700-900 patients. It was not a single 100-patient trial (A), ten small trials (B), or two 5,000-patient trials (C). The three (the Turkish OL-HDF study, CONTRAST, and ESHOL) reached differing conclusions largely by convective dose: the highest-volume trial, ESHOL (~23-24 L), showed a mortality benefit, suggesting high HDF doses may be required to improve survival."
+  },
+  {
+   "topic": "ESHOL trial",
+   "question": "In the ESHOL study (mean ultrafiltration volume ~23-24 L, high-flux comparator), HDF was associated with:",
+   "options": {
+    "A": "A 30% reduction in all-cause mortality",
+    "B": "No change in mortality",
+    "C": "Increased all-cause mortality",
+    "D": "A reduction only in cancer deaths"
+   },
+   "correct": "A",
+   "explanation": "In ESHOL, where mean ultrafiltration volume was about 23-24 L and the comparator was high-flux dialysis, the HDF group showed a 30% reduction in all-cause mortality. It was not unchanged (B), increased (C), or limited to cancer deaths (D). ESHOL's positive result, contrasting with the neutral Turkish (~19.5 L) and CONTRAST (21 L) trials, supports the idea that a high convective volume is needed for survival benefit; across all three trials there was also a trend toward lower cardiovascular mortality."
+  },
+  {
+   "topic": "CONTRAST trial",
+   "question": "In the CONTRAST trial (mean ultrafiltration volume 21 L) comparing HDF with low-flux hemodialysis, the result was:",
+   "options": {
+    "A": "A large survival benefit with HDF",
+    "B": "Substantial lowering of serum beta-2-microglobulin but no difference in survival or hospitalizations",
+    "C": "Higher hospitalization with HDF",
+    "D": "No change in beta-2-microglobulin"
+   },
+   "correct": "B",
+   "explanation": "In CONTRAST, with a mean ultrafiltration volume of 21 L and a low-flux hemodialysis comparator, HDF substantially lowered serum beta-2-microglobulin but showed no difference in survival or hospitalizations. It did not produce a large survival benefit (A), raise hospitalizations (C), or leave beta-2-microglobulin unchanged (D). CONTRAST's neutral survival outcome at 21 L, versus ESHOL's benefit at 23-24 L, is part of the evidence suggesting higher convective doses may be needed to turn improved solute clearance into a mortality advantage."
+  },
+  {
+   "topic": "Albumin sieving",
+   "question": "Improved membrane manufacturing has reduced the sieving coefficient for albumin in commonly used HDF membranes to:",
+   "options": {
+    "A": "About 0.5",
+    "B": "Greater than 0.6",
+    "C": "A very low value (less than 0.001)",
+    "D": "Exactly 1.0"
+   },
+   "correct": "C",
+   "explanation": "Improved membrane manufacturing has reduced the albumin sieving coefficient in commonly used HDF membranes to a very low number, less than 0.001, minimizing albumin loss during high-transmembrane-pressure convective therapy. Values around 0.5 (A), greater than 0.6 (B, the target for beta-2-microglobulin), or 1.0 (D) would cause unacceptable protein loss. Higher-cutoff membranes that leak albumin are not recommended for HDF; though some argue albumin loss aids removal of protein-bound toxins, the benefit of protein-leaking membranes remains debated."
+  }
+ ]
+}

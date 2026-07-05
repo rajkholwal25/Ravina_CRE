@@ -1,0 +1,362 @@
+[
+  {
+    "num": 1,
+    "title": "Approach to Patients with Chronic Kidney Disease, Stages 1-4",
+    "part": "I: CKD Management",
+    "start": 2,
+    "end": 21,
+    "chars": 56884,
+    "file": "dialysis_quiz/chapters_text/ch01.txt"
+  },
+  {
+    "num": 2,
+    "title": "Management of CKD Stages 4 and 5: Preparation for Transplantation, Dialysis, or Conservative Care",
+    "part": "I: CKD Management",
+    "start": 22,
+    "end": 33,
+    "chars": 26745,
+    "file": "dialysis_quiz/chapters_text/ch02.txt"
+  },
+  {
+    "num": 3,
+    "title": "Physiologic Principles and Urea Kinetic Modeling",
+    "part": "II: Blood-Based Therapies",
+    "start": 34,
+    "end": 65,
+    "chars": 77525,
+    "file": "dialysis_quiz/chapters_text/ch03.txt"
+  },
+  {
+    "num": 4,
+    "title": "Hemodialysis Apparatus",
+    "part": "II: Blood-Based Therapies",
+    "start": 66,
+    "end": 88,
+    "chars": 53239,
+    "file": "dialysis_quiz/chapters_text/ch04.txt"
+  },
+  {
+    "num": 5,
+    "title": "Dialysis Water and Dialysate",
+    "part": "II: Blood-Based Therapies",
+    "start": 89,
+    "end": 98,
+    "chars": 29763,
+    "file": "dialysis_quiz/chapters_text/ch05.txt"
+  },
+  {
+    "num": 6,
+    "title": "Arteriovenous Fistulas and Grafts: The Basics",
+    "part": "II: Blood-Based Therapies",
+    "start": 99,
+    "end": 120,
+    "chars": 61132,
+    "file": "dialysis_quiz/chapters_text/ch06.txt"
+  },
+  {
+    "num": 7,
+    "title": "Venous Catheter Access: The Basics",
+    "part": "II: Blood-Based Therapies",
+    "start": 121,
+    "end": 136,
+    "chars": 48045,
+    "file": "dialysis_quiz/chapters_text/ch07.txt"
+  },
+  {
+    "num": 8,
+    "title": "Arteriovenous Vascular Access Monitoring and Complications",
+    "part": "II: Blood-Based Therapies",
+    "start": 137,
+    "end": 154,
+    "chars": 51586,
+    "file": "dialysis_quiz/chapters_text/ch08.txt"
+  },
+  {
+    "num": 9,
+    "title": "Venous Catheter Infections and Other Complications",
+    "part": "II: Blood-Based Therapies",
+    "start": 155,
+    "end": 171,
+    "chars": 45714,
+    "file": "dialysis_quiz/chapters_text/ch09.txt"
+  },
+  {
+    "num": 10,
+    "title": "Acute Hemodialysis Prescription",
+    "part": "II: Blood-Based Therapies",
+    "start": 172,
+    "end": 191,
+    "chars": 56771,
+    "file": "dialysis_quiz/chapters_text/ch10.txt"
+  },
+  {
+    "num": 11,
+    "title": "Chronic Hemodialysis Prescription",
+    "part": "II: Blood-Based Therapies",
+    "start": 192,
+    "end": 214,
+    "chars": 64878,
+    "file": "dialysis_quiz/chapters_text/ch11.txt"
+  },
+  {
+    "num": 12,
+    "title": "Complications during Hemodialysis",
+    "part": "II: Blood-Based Therapies",
+    "start": 215,
+    "end": 236,
+    "chars": 65446,
+    "file": "dialysis_quiz/chapters_text/ch12.txt"
+  },
+  {
+    "num": 13,
+    "title": "Dialyzer Reuse",
+    "part": "II: Blood-Based Therapies",
+    "start": 237,
+    "end": 251,
+    "chars": 46463,
+    "file": "dialysis_quiz/chapters_text/ch13.txt"
+  },
+  {
+    "num": 14,
+    "title": "Anticoagulation",
+    "part": "II: Blood-Based Therapies",
+    "start": 252,
+    "end": 267,
+    "chars": 46544,
+    "file": "dialysis_quiz/chapters_text/ch14.txt"
+  },
+  {
+    "num": 15,
+    "title": "Continuous Renal Replacement Therapies",
+    "part": "II: Blood-Based Therapies",
+    "start": 268,
+    "end": 304,
+    "chars": 99925,
+    "file": "dialysis_quiz/chapters_text/ch15.txt"
+  },
+  {
+    "num": 16,
+    "title": "Home and Intensive Hemodialysis",
+    "part": "II: Blood-Based Therapies",
+    "start": 305,
+    "end": 320,
+    "chars": 47337,
+    "file": "dialysis_quiz/chapters_text/ch16.txt"
+  },
+  {
+    "num": 17,
+    "title": "Hemodiafiltration",
+    "part": "II: Blood-Based Therapies",
+    "start": 321,
+    "end": 332,
+    "chars": 30352,
+    "file": "dialysis_quiz/chapters_text/ch17.txt"
+  },
+  {
+    "num": 18,
+    "title": "Therapeutic Apheresis",
+    "part": "II: Blood-Based Therapies",
+    "start": 333,
+    "end": 359,
+    "chars": 73039,
+    "file": "dialysis_quiz/chapters_text/ch18.txt"
+  },
+  {
+    "num": 19,
+    "title": "The Relevance of Sorbent Technology Today",
+    "part": "II: Blood-Based Therapies",
+    "start": 360,
+    "end": 367,
+    "chars": 18435,
+    "file": "dialysis_quiz/chapters_text/ch19.txt"
+  },
+  {
+    "num": 20,
+    "title": "Use of Dialysis and Hemoperfusion in the Treatment of Poisoning",
+    "part": "II: Blood-Based Therapies",
+    "start": 368,
+    "end": 390,
+    "chars": 64326,
+    "file": "dialysis_quiz/chapters_text/ch20.txt"
+  },
+  {
+    "num": 21,
+    "title": "Physiology of Peritoneal Dialysis",
+    "part": "III: Peritoneal Dialysis",
+    "start": 392,
+    "end": 407,
+    "chars": 35445,
+    "file": "dialysis_quiz/chapters_text/ch21.txt"
+  },
+  {
+    "num": 22,
+    "title": "Apparatus for Peritoneal Dialysis",
+    "part": "III: Peritoneal Dialysis",
+    "start": 408,
+    "end": 424,
+    "chars": 42762,
+    "file": "dialysis_quiz/chapters_text/ch22.txt"
+  },
+  {
+    "num": 23,
+    "title": "Peritoneal Dialysis Catheters, Placement, and Care",
+    "part": "III: Peritoneal Dialysis",
+    "start": 425,
+    "end": 450,
+    "chars": 68724,
+    "file": "dialysis_quiz/chapters_text/ch23.txt"
+  },
+  {
+    "num": 24,
+    "title": "Peritoneal Dialysis for the Treatment of Acute Kidney Injury",
+    "part": "III: Peritoneal Dialysis",
+    "start": 451,
+    "end": 463,
+    "chars": 34877,
+    "file": "dialysis_quiz/chapters_text/ch24.txt"
+  },
+  {
+    "num": 25,
+    "title": "Adequacy of Peritoneal Dialysis and Chronic Peritoneal Dialysis Prescription",
+    "part": "III: Peritoneal Dialysis",
+    "start": 464,
+    "end": 482,
+    "chars": 51993,
+    "file": "dialysis_quiz/chapters_text/ch25.txt"
+  },
+  {
+    "num": 26,
+    "title": "Volume Status and Fluid Overload in Peritoneal Dialysis",
+    "part": "III: Peritoneal Dialysis",
+    "start": 483,
+    "end": 489,
+    "chars": 21763,
+    "file": "dialysis_quiz/chapters_text/ch26.txt"
+  },
+  {
+    "num": 27,
+    "title": "Peritonitis and Exit-Site Infection",
+    "part": "III: Peritoneal Dialysis",
+    "start": 490,
+    "end": 512,
+    "chars": 64021,
+    "file": "dialysis_quiz/chapters_text/ch27.txt"
+  },
+  {
+    "num": 28,
+    "title": "Hernias, Leaks, and Encapsulating Peritoneal Sclerosis",
+    "part": "III: Peritoneal Dialysis",
+    "start": 513,
+    "end": 520,
+    "chars": 21375,
+    "file": "dialysis_quiz/chapters_text/ch28.txt"
+  },
+  {
+    "num": 29,
+    "title": "Metabolic, Acid-Base, and Electrolyte Aspects of Peritoneal Dialysis",
+    "part": "III: Peritoneal Dialysis",
+    "start": 521,
+    "end": 526,
+    "chars": 19154,
+    "file": "dialysis_quiz/chapters_text/ch29.txt"
+  },
+  {
+    "num": 30,
+    "title": "Psychosocial Issues",
+    "part": "IV: Clinical Problem Areas",
+    "start": 528,
+    "end": 534,
+    "chars": 22783,
+    "file": "dialysis_quiz/chapters_text/ch30.txt"
+  },
+  {
+    "num": 31,
+    "title": "Nutrition",
+    "part": "IV: Clinical Problem Areas",
+    "start": 535,
+    "end": 554,
+    "chars": 59638,
+    "file": "dialysis_quiz/chapters_text/ch31.txt"
+  },
+  {
+    "num": 32,
+    "title": "Diabetes",
+    "part": "IV: Clinical Problem Areas",
+    "start": 555,
+    "end": 577,
+    "chars": 68543,
+    "file": "dialysis_quiz/chapters_text/ch32.txt"
+  },
+  {
+    "num": 33,
+    "title": "Hypertension",
+    "part": "IV: Clinical Problem Areas",
+    "start": 578,
+    "end": 591,
+    "chars": 41225,
+    "file": "dialysis_quiz/chapters_text/ch33.txt"
+  },
+  {
+    "num": 34,
+    "title": "Hematologic Abnormalities",
+    "part": "IV: Clinical Problem Areas",
+    "start": 592,
+    "end": 614,
+    "chars": 65895,
+    "file": "dialysis_quiz/chapters_text/ch34.txt"
+  },
+  {
+    "num": 35,
+    "title": "Infections",
+    "part": "IV: Clinical Problem Areas",
+    "start": 615,
+    "end": 664,
+    "chars": 113718,
+    "file": "dialysis_quiz/chapters_text/ch35.txt"
+  },
+  {
+    "num": 36,
+    "title": "Bone Disease",
+    "part": "IV: Clinical Problem Areas",
+    "start": 665,
+    "end": 692,
+    "chars": 79092,
+    "file": "dialysis_quiz/chapters_text/ch36.txt"
+  },
+  {
+    "num": 37,
+    "title": "Dialysis in Infants and Children",
+    "part": "IV: Clinical Problem Areas",
+    "start": 693,
+    "end": 712,
+    "chars": 54274,
+    "file": "dialysis_quiz/chapters_text/ch37.txt"
+  },
+  {
+    "num": 38,
+    "title": "Cardiovascular Disease",
+    "part": "IV: Clinical Problem Areas",
+    "start": 713,
+    "end": 735,
+    "chars": 67723,
+    "file": "dialysis_quiz/chapters_text/ch38.txt"
+  },
+  {
+    "num": 39,
+    "title": "Obstetrics and Gynecology in Dialysis Patients",
+    "part": "IV: Clinical Problem Areas",
+    "start": 736,
+    "end": 753,
+    "chars": 52916,
+    "file": "dialysis_quiz/chapters_text/ch39.txt"
+  },
+  {
+    "num": 40,
+    "title": "Nervous System and Sleep Disorders",
+    "part": "IV: Clinical Problem Areas",
+    "start": 754,
+    "end": 776,
+    "chars": 58888,
+    "file": "dialysis_quiz/chapters_text/ch40.txt"
+  }
+]

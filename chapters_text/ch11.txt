@@ -1,0 +1,1167 @@
+192
+Chronic Hemodialysis 
+Prescription
+John T. Daugirdas
+Please review Chapter 3 at this time. Many concepts developed in 
+Chapter 3 will be only briefly touched on here.
+ I. UREA AS A MARKER SOLUTE. Although uremic toxicity is due to both 
+small- and large-molecular-weight solutes, small toxins appear to 
+be of greater importance. For this reason (and there are practical, 
+laboratory measurement issues as well), the amount of dialysis 
+prescribed is based on removal of urea, which has a molecular 
+weight of 60 Da. Urea is only slightly toxic per se, and so its plasma 
+level is only reflecting concentrations of other, presumably more 
+harmful, uremic toxins.
+A. Urea removal versus serum level . Both removal and serum level 
+should be monitored when checking dialysis adequacy. 
+Monitoring of urea removal is more important. If removal is 
+inadequate, then dialysis is inadequate, regardless of the se-
+rum level. On the other hand, a low serum urea level does not 
+necessarily reflect adequate dialysis. Serum level depends not 
+only on the rate of removal but also on the rate of urea gen-
+eration. The generation rate is linked to the protein nitrogen 
+appearance rate because most protein nitrogen is excreted as 
+urea. A low serum urea level may be found in patients in whom 
+removal is poor but in whom the generation rate is also low 
+(e.g., due to poor protein intake).
+B. Measures of urea removal. These are the urea reduction ratio (URR), 
+the single-pool Kt/V (spKt/V), the equilibrated Kt/V (eKt/V), and 
+the weekly standard Kt/V (stdKt/V) (see Chapter 3).
+C. Dose of dialysis in terms of urea removal for thrice-weekly dialysis. In a 
+secondary analysis of the randomized National Cooperative Di-
+alysis Study, the rate of treatment failure increased dramatically 
+in patients dialyzed three times per week when spKt/V was <0.8, 
+compared with when values were > 1.0. In large 
+ observational 
+studies, similar results were found. For this reason, the KDOQI 
+Adequacy Workgroups have recommended a minimum spKt/V 
+for dialysis patients of 1.2, with a target value of at least 1.4. This 
+translates to a stdKt/V urea value of 2.1 when stdKt/V is calcu-
+lated using modeling or by a method that takes volume con-
+traction into account. The 
+ European Best Practice  Guidelines 
+11
+Daugirdas9781451144291-ch011.indd   192 11/10/14   2:06 am
+193Chapter 11 / Chronic Hemodialysis Prescription
+recommend a slightly higher minimum amount of dialysis, de-
+fined as a minimum eKt/V of 1.2. Values for eKt/V values tend to 
+be about 0.15 units lower than spKt/V, the amount depending on 
+the rate of dialysis. High-level evidence guideline recommenda-
+tions depend on randomized studies, and in the field of dialysis 
+adequacy, the only other larger randomized study that has been 
+done is the HEMO study, where an spKt/V of 1.7 was compared 
+with an spKt/V of 1.3 (the study doses were actually defined in 
+terms of eKt/V). Patients assigned to the higher dose of dialysis 
+did not live longer, were not hospitalized less frequently, and were 
+not found to manifest nutritional or other benefits. Apart from 
+these two studies, there is little high-quality evidence regarding 
+dialysis dose and outcomes, and almost all recommendations 
+and guidelines in this area are primarily opinion-based.
+1. Effect of gender . In the randomized analysis of the HEMO
+trial, the women assigned to the higher dose of dialysis
+survived longer than the women assigned to the standard 
+dose. Survival in the men assigned to the higher dialysis
+dose was slightly worse, so the overall effect of dose in
+the HEMO trial was negative, and it is not clear whether
+this dose–gender interaction was real or just a statistical
+fluke. If women need more dialysis, the reason is unclear.
+As detailed in Chapter 3, an alternative method of scaling 
+dialysis dose might be to scale to body surface area (BSA)
+instead of by urea distribution volume (V ). In healthy pa-
+tients and in children, glomerular filtration rate (GFR)
+naturally scales to BSA, and an adult man and woman
+with similar values for BSA will have similar levels of GFR 
+(Daugirdas, 2009). Because the ratio of V :BSA is about
+12%–15% different in men than in women, under current
+dosing guidelines, if a man and a woman have the same
+level of V, they will get the same dose of dialysis; however,
+BSA in the woman will be 12%–15% higher, so theoreti-
+cally one might argue that women need about 15% more
+dialysis than men. If one wishes to increase the dose of
+dialysis in terms of stdKt/V, the increase in spKt/V has to
+be increased by about twice as much. So this line of rea-
+soning would suggest that the minimum spKt/V in women 
+should be about 25%–30% higher than that in men. How-
+ever, the optimum method of scaling dialysis dose is not
+known, and there are no firm data other than the HEMO
+study and a few observational studies to suggest that BSA 
+should be used to scale dialysis dose instead of V .
+2. Smaller patients . One can come up with four reasons why
+smaller patients should get relatively more dialysis when
+dose is measured as spKt/V:
+a. Small patients (those with small values for V) would get a 
+larger amount of dialysis if dose were scaled to BSA.
+b. The KDOQI dose targets are in the form of spKt/V and
+not eKt/V; postdialysis urea rebound tends to be larger in 
+smaller patients.
+Daugirdas9781451144291-ch011.indd   193 11/10/14   2:06 am
+Part II / Blood-Based Therapies
+194
+c. It is fairly easy to deliver a high Kt/V to small  patients (and
+also women) in a short session length (e.g., 2.5  hours).
+Such short session lengths may not be sufficient to al-
+low for removal of middle molecules, nor for adequate
+removal of excess fluid, and this  may result in a chroni -
+cally overhydrated patient.
+d. Short session length treatments may give a seemingly ad-
+equate Kt/V level, but in patients who gain large amounts 
+of fluid between treatments, short session lengths may
+require a relatively high ultrafiltration (UF) rate to re -
+move this fluid and high UF rates are associated with a
+poor outcome.
+3. Malnourished patients . When a patient’s weight is substan-
+tially below the weight of his or her peers, or when a patient 
+has lost a large amount of weight, one opinion is to scale
+dialysis to the patient’s optimum “healthy” weight, and not 
+the current reduced weight. The thinking is that the in-
+creased amount of dialysis will help return the patient to
+his or her healthier, premorbid condition.
+4. Residual renal urea clearance (Kru) . Whether patients with
+substantial residual kidney function can be managed with
+lower doses of dialysis is an unanswered question. In one
+large study, when patient urine volume was >100 mL per
+day, the amount of dialysis delivered had little impact on
+survival (Temorshuizen, 2004). Methods of adjusting dialy-
+sis dose for residual kidney function are entirely opinion-
+based. There are a variety of modeling-based adjustments
+that can be used. Readers can look to the European Best
+Practice recommendations (2002) and to the NKF-KDOQI
+2006 adequacy guidelines for some suggested guidance.
+D. Adequacy targets for schedules other than three times per week. There 
+is no high-level evidence that can guide us in terms of dose ti-
+tration when dialysis is given other than three times per week. 
+One approach is to maintain a minimum stdKt/V (calculated 
+using modeling or the FHN equation) of 2.1 across all dialysis 
+schedules (Table 11.1). The value of 2.1 was chosen because 
+it corresponds to a three-times-per-week schedule with an 
+spKt/V of 1.2 (NKF-KDOQI, 2006).
+1. Four to six sessions per week . In one randomized trial that
+showed a benefit of more frequent dialysis, the FHN Daily
+Trial, the average delivered stdKt/V averaged 3.7, consider -
+ably higher than the 2.1 minimum dose suggested by NKF-
+KDOQI. The average number of treatments delivered per
+week was 5, and the average delivered session length was
+154 minutes (FHN Trial Group, 2010).
+2. Twice-a-week dialysis. In the developing world, many patients
+are dialyzed only twice a week for economic reasons, and in
+the United States, this was not unusual in the recent past.
+Kinetic modeling using an stdKt/V approach suggests that
+twice-a-week dialysis is not appropriate in patients without
+some modest degree of residual kidney function. On the other 
+Daugirdas9781451144291-ch011.indd   194 11/10/14   2:06 am
+195Chapter 11 / Chronic Hemodialysis Prescription
+hand, there are preliminary data suggesting that starting inci-
+dent patients out on twice-a-week dialysis may result in lon-
+ger preservation of residual kidney function (Kalantar Zadeh, 
+2014). One observational study of twice-a-week dialysis done 
+in the United States was unable to show an adverse associa-
+tion for this treatment strategy, and outcomes were actually 
+a bit better than in patients dialyzed three times per week. 
+Lack of harm may have been due to preferential selection of 
+patients with some residual kidney function (Hanson, 1999), 
+but there was no definitive evidence that this was the case.
+E. Adequacy targets based on metrics other than urea removal.
+1. Dialysis time . Urea removal is only one measure of dialysis
+adequacy. For solutes such as phosphorus and middle 
+ molecules, total weekly time is the major determinant of re-
+moval. Short weekly time also makes it difficult to remove 
+excess salt and water from patients safely and effectively. 
+The US KDOQI 2006 adequacy work group recommended 
+a minimum session length of 3 hours for patients dialyzed 
+three times per week with little residual renal function. 
+The European Best Practices Group (2002) recommends a 
+minimum 4-hour treatment time. The benefits of dialysis 
+sessions longer than 3.5 hours are not clear, and seem to 
+be greatest in Japan and intermediate in Europe; benefits 
+are difficult to demonstrate in the United States (Tentori, 
+2012), perhaps because of the more intense dialysis given 
+in that country. Also, dose-versus-outcomes data may be 
+confounded by dose-targeting bias, a situation where sur -
+vival is higher in patients who are meeting whatever dose 
+target is being applied (Daugirdas, 2013). In the United 
+States, the average dialysis time is about 3.5 hours and is 
+increasing toward 4 hours, similar to the practice in the 
+rest of the world. A large randomized study (TiMe trial) 
+is currently underway in the United States to determine 
+whether setting a minimum dialysis time of 4.25 hours for 
+all new (incident) patients, regardless of body size, will re-
+sult in meaningful outcome benefits. A substantial number 
+of patients in the United States dialyze 
+ in-center overnight 
+Scheduleb Kr , 2 mL/min per 1.73 m 2 Kr . 2 mL /min per 1.73 m2
+Two times per week Not recommended 2.0
+Three times per week 1.2 0.9
+Four times per week 0.8 0.6
+Assumes session lengths of 3.5–4 hr; Kr = residual kidney clearance.
+a Target spKt/V values should be about 15% higher than the minimum values shown.
+b Frequent dialysis (five and six times per week) is more completely discussed in Chapter 16.
+Adapted from NKF-KDOQI Clinical Practice Recommendations. Hemodialysis Adequacy. Update 
+2006. Am J Kidney Dis. 2006:48:(Suppl1):S2–S90.
+Minimuma spKt/V Values for Various Frequency Schedules 
+of Dialysis (Achieving an Estimated stdKt/V = 2.1)11.1
+TABLE
+Daugirdas9781451144291-ch011.indd   195 11/10/14   2:06 am
+Part II / Blood-Based Therapies
+196
+for about 6–9 hours per treatment. This strategy is de-
+scribed more completely in Chapter 16.
+Another argument against Kt/V is that a focus on urea 
+removal tends to drive high-efficiency dialysis, with use of 
+large dialyzers and rapid blood flows; the high efficiency of 
+such treatments may result in solute disequilibrium and intra-
+dialytic side effects. Also, high blood flow rates delivered using 
+the requisite larger needle sizes may engender more blood tur-
+bulence and platelet activation, as well as access dysfunction. 
+A related question is whether one should make “optimum” 
+use of the dialysis time by prescribing the highest blood flow 
+that is consistently achievable, and using the most efficient 
+(high K0A) dialyzer that one can afford. An alternative “slow 
+and gentle” approach remains popular in Europe, according 
+to which low blood flow rates and relatively small dialyzers 
+are used. There are no randomized trials available to help 
+choose between these two options. The best approach may be 
+to set targets on the basis of both Kt/V (perhaps with higher 
+minimum targets for women and smaller patients) and dialy-
+sis time. Changing the Kt/V target to a surface- area-adjusted 
+value by itself solves the problem of short dialysis time given to 
+smaller patients and women, as the amount of dialysis given 
+to such patients based on surface area needs to be consider-
+ably larger, and this takes more time to deliver.
+ II. WRITING THE INITIAL PRESCRIPTION
+A. The dialysis dose: K  t. A dialysis prescription involves two main 
+components: K, the dialyzer clearance, and t, the dialysis ses-
+sion length. K, in turn, depends on the dialyzer size used and 
+the blood flow rate. The dialysate flow rate also plays a small 
+role as discussed in Chapter 3.
+1. K usually ranges from 200 to 260 mL  /min. For adult patients dia -
+lyzed using a blood flow rate of 400 mL/min, dialyzer clear-
+ance K will usually be about 230 ± 30 mL/min. One can use a 
+urea kinetics calculator or a nomogram such as  Figure 13.6, 
+to get a reasonable estimate of dialyzer clearance from the 
+blood flow rate and the efficiency of the dialyzer (K 0A) be-
+ing used. If we assume that K will be 250 mL/min for a di-
+alysis session length of 4 hours, K × t will be 250 × 240 = 
+60,000 mL or 60 L. This represents the total volume of blood 
+cleared of urea during the dialysis session.
+2. T argeting K  t on the basis of patient size and desired Kt/V. Assume 
+that we have a clearance of 250 mL/min and a session length 
+of 4 hours. How large a patient could we dialyze and still meet 
+KDOQI guidelines? Remember that the guidelines suggest 
+using a prescribed (K × t)/V of 1.4 to ensure that the delivered 
+dose stays above 1.2. Over the 4-hour session we are deliver-
+ing 60 L of K  × t, and if we want a prescribed Kt/V of 1.4, V 
+must be 60/1.4 = 43 L, corresponding to a weight of about  
+78 kg. See Tables 11.2 and 11.3 for some additional examples.
+Daugirdas9781451144291-ch011.indd   196 11/10/14   2:06 am
+197Chapter 11 / Chronic Hemodialysis Prescription
+Step 1: Estimate the patient’s V.
+Step 2: Multiply V by the desired Kt /V to get the required K  t.
+Step 3: Compute required K for a given t, or the required t for a given K.
+Step 1. Estimate V. This is best done from anthropometric equations incorporating 
+height, weight, age, and gender as devised by Watson (Appendix A). If the 
+patient is African American, add 2 kg to the Watson value for Vant. Alternatively, 
+one can use the Hume–Weyers equations or the nomogram derived from them 
+(Appendix A). Assume that, in this case, the estimated V is 40 L.
+Step 2. Compute the required K  t. If the desired Kt /V is 1.5 and the estimated V is 
+40 L, then the required K × t is 1.5 times V, or 1.5 × 40 = 60 L.
+Step 3. Compute the required t or K. The required K × t can be achieved with a 
+variety of different combinations of K (which depends on K0A, QB, and QD) and t. A 
+variety of urea modeling programs are available that will do a computer simulation 
+of various scenarios and come up with many possible combinations of K and t. 
+Internet-based calculators can be accessed via the Web References cited at the 
+end of this chapter.
+Given a desired session length t, how to compute required K.
+One approach is to input a session length t and then ask: What kind of dialyzer, 
+blood flow rate, and dialysate flow rate would I then need to achieve the required 
+K × t? Again, simple algebra is sufficient. From the previous example:
+Desired spKt /V = 1.5; Vant = 40 L, K × t = 60 L
+First, convert K × t to milliliters to get 60,000 mL. If the desired session length is 4 
+hr, or 240 min:
+Desired t = 240 min
+Required K = (K × t)/t = 60,000/240 = 250 mL/min
+Now that we know the required K, how to choose K0A, QB, and QD.
+How does one now choose K0A, QB, and QD? A simple way is to select the most 
+rapid value of QB that can be reliably and consistently delivered. Assume in this 
+patient that a blood pump speed of 400 mL/min will be possible. One can then 
+go to the K-K0A-QB nomogram (Figure 13.6) to find the approximate dialyzer K 0A 
+value that will be required to achieve a K  of 250 mL/min at a blood flow rate of 
+400 mL/min.
+To find the required dialyzer K0A, find 400 (which is QB) on the horizontal axis, 
+then go up until you find 250 (desired K) on the vertical axis. At this point, you are 
+on a K0A line of about 900, so a dialyzer with a K0A value of at least 900 mL/min 
+will be needed. If such a high-efficiency dialyzer is not available, one will need 
+to dialyze longer than 4 hours. Some 5%–10% improvement in K can be obtained 
+by increasing dialysate flow rate to 800 mL/min. However, with some modern 
+dialyzers that include spacer yarns to optimize dialysate flow around the fibers, 
+increasing dialysate flow from 600 to 800 mL/min was shown to have very little 
+impact (Ward, 2011).
+The Initial Prescription for a Specific Patient to Achieve a 
+Desired spKt/V.11.2
+TABLE
+Daugirdas9781451144291-ch011.indd   197 11/10/14   2:06 am
+Part II / Blood-Based Therapies
+198
+B. How weight change during dialysis affects the dialysis prescription . In 
+patients who have large weight gains, one will need a higher 
+Kt/V to get a given URR than in patients with minimal weight 
+gain (see Figure 3.14 in Chapter 3). For example, to get a URR 
+of 70%, one needs to prescribe a Kt/V of only 1.3 if no fluid is 
+removed, but one needs a Kt/V of 1.5 if the weight loss during 
+dialysis (UF/W) is 6% of the body weight (see the 0.06 UF/W 
+line in Figure 3.14).
+III. CHECKING THE DELIVERED DOSE OF DIALYSIS . The dialysis dose is
+usually monitored on a monthly basis, according to KDOQI
+guidelines, by drawing a predialysis and postdialysis serum urea
+nitrogen (SUN). Alternatively and/or additionally, in vivo dialyzer 
+clearance can be monitored during each treatment by checking
+the dialyzer sodium clearance, or delivered dialysis dose can be
+followed by tracking the UV absorbance of the spent dialysate, as 
+described in Chapter 3.
+A common situation occurs when the maximum blood flow rate that can be 
+reliably delivered is known. Often, one has a choice between using a larger (more 
+expensive) or a smaller (slightly cheaper) dialyzer. Let us assume that one is 
+constrained to use a dialysate flow rate of 500 mL/min. What would the dialysis 
+session length then need to be to achieve a target spKt/V of 1.5? Let us assume 
+that we are prescribing for the same patient, with an estimated V of 40 L, which 
+means that K × t again must be 60 L, or 60,000 mL. Assume that the projected 
+blood flow rate is 400 mL/min. Of the two dialyzers available, we look up their K
+0A 
+(maximum clearance) values and find they are 1,400 mL/min for the larger one and 
+800 mL/min for the smaller one. So how long do we need to dialyze this patient with 
+each of the two dialyzers?
+Step 1:
+ From Figure 13.6 (which we can use because QD = 500 mL/min), find the 
+K corresponding to QB of 400 mL/min (x-axis value) for each of the two dialyzers. 
+K will be the value on the vertical axis that corresponds to the intersection of the 
+1,400- and 800-K0A lines with a perpendicular rising from the horizontal axis (QB) at 
+a point representing 400 mL/min. We find that the K values are about 270 mL/min 
+for the bigger (K
+0A = 1,400) dialyzer and 220 mL/min for the smaller (K0A = 800) 
+dialyzer.
+Step 2: We know that spKt/V = 1.5 and estimated V = 40 L. Our desired K × t is 
+60 L, or 60,000 mL. By algebra:
+225 55 5 3 3555 5
+225 55 5 3 3555 5
+KA dialyzer K Kt
+K
+KA dialyzer K Kt
+K
+800 , 200:t () 60,000
+220 273 min
+1400 , 270:t () 60,000
+270 222 min
+0
+0
+Our calculations thus suggest that we will need to dialyze for 50 minutes longer 
+using the smaller (K0A = 800) dialyzer to achieve the same spKt/V of 1.5.
+Given an Actual Blood Flow Rate (QB), How to Compute Required 
+Session Length Given Two Possible Choices of Dialyzers11.3
+TABLE
+Daugirdas9781451144291-ch011.indd   198 11/10/14   2:06 am
+199Chapter 11 / Chronic Hemodialysis Prescription
+The pre- and post-SUN values are used to compute the URR, 
+which is then combined with information concerning UF/W and 
+with some other adjustments to compute the delivered spKt/V. 
+One caveat: When checking the URR, one must be sure to use a 
+properly drawn postdialysis blood specimen. In the presence of 
+access recirculation, the postdialysis blood may be low due to 
+admixture with dialyzer outlet blood unless a slow-blood-flow or 
+a stop-dialysate-flow technique is used. Two KDOQI-suggested 
+techniques for blood drawing are described in Table 11.4, and the 
+reasons behind them are explained in detail in Chapter 3.
+A. Methods of computing spKt/V from the pre- and post-SUN
+1. Nomogram method. One uses Figure 3.14 as described before.
+Assume that a URR of 0.70 or 70% is measured. Depending 
+on whether 0%, 3%, or 6% of the body weight was removed 
+during the dialysis treatment, the delivered spKt/V for that 
+treatment will be 1.3, 1.4, or 1.5, respectively.
+2. More exact methods . The optimal method recommended by
+the KDOQI guidelines to calculate Kt/V is to use a urea ki-
+netic modeling program. The basic principles of how such 
+programs work are described in Chapter 3. These programs 
+are available commercially, and one, Solute Solver, is avail-
+able on the Internet (http://www.ureakinetics.org). An al-
+ternative method that is approved by KDOQI is to use the 
+following equation (Daugirdas, 1993):
+spKt/V = –ln(R – 0.008 × t) + (4 – 3.5 × R) × UF/W
+where R is (1 – URR), or simply post-SUN/pre-SUN, 
+t is the session length in hours, –ln is the negative natural 
+logarithm, UF is the weight loss in kilograms, and W is the 
+postdialysis weight. See Chapter 3 for a more complete dis-
+cussion of this formula.
+Principles
+The effect of access recirculation will reverse quickly. When blood flow is slowed 
+to 100 mL/min, the inflow urea concentration will rise in about 10–20 s (depending 
+on the amount of dead space in the arterial line, usually about 10 mL).
+Method
+1.
+ Set UF rate to 0.
+2. Slow the blood pump to 100 mL/min for 10–20 s.
+3. Stop the pump.
+4. Draw a sample, either from the arterial blood line sampling port or from the 
+tubing attached to the arterial needle.
+Alternate Method
+1. Set UF rate to 0.
+2. Put dialysate into bypass.
+3. Keep blood flow going at usual rate; wait 3 min.
+4. Draw the sample.
+Guidelines for Obtaining the Postdialysis Serum Urea 
+ Nitrogen Sample11.4
+TABLE
+Daugirdas9781451144291-ch011.indd   199 11/10/14   2:06 am
+Part II / Blood-Based Therapies
+200
+I V. ADJUSTING THE INITIAL DIALYSIS PRESCRIPTION . When patients are
+put on a particular dialysis prescription, even when there are no
+apparent changes in therapy, the delivered spKt/V derived from
+the measured URR often will vary considerably from month to
+month. The reasons are not completely clear, but laboratory error 
+in measuring the SUN values in the samples, possible variations
+in how the postdialysis blood is drawn and variations in actual
+session length, time-averaged blood flow rate, and dialyzer clear-
+ance may all have a role. It may be useful to average the spKt/V
+value from three monthly treatments to determine whether or
+not the standard minimum spKt/V of 1.2 is being delivered.
+Example: Assume that we want to target an spKt/V of 1.5. The 
+patient is monitored monthly , and from the URR the following
+spKt/V values are obtained:
+Month spKt / V
+Jan 1.40
+Feb 1.35
+Mar 1.54
+Apr 1.30
+The average of these values is 1.40. Although this is well 
+within KDOQI targets for dialysis adequacy, if one wishes to 
+achieve the original spKt/V goal of 1.5, one needs to increase the 
+numerator (K×t) in Kt/V by a factor of 1.5/1.4, or 1.07 (7%).
+One now has a choice in that either the K  or the t  term can 
+be increased by 7% (or each one can be increased so that their 
+product increases by 7%). The simplest way to increase Kt/V from 
+1.4 to 1.5 is to increase dialysis session length by 7%. This would 
+mean adding 17 minutes to a 4-hour treatment (1.07  × 240 = 
+257 minutes). Another option is to try to increase the K  term by 
+going to a higher blood flow rate, going to a larger dialyzer, or 
+increasing the dialysate flow rate. However, it is often difficult 
+to increase the blood flow rate further. The impact of changing 
+to a more efficient dialyzer can be estimated from the K
+0A ver-
+sus clearance nomogram shown in Figure 3.6. Increasing dialy-
+sate flow rate to 800 mL/min, which typically results in about a 
+5%–10% increase in clearance as long as the blood flow rate is 
+>400 mL/min might also do the trick, but is not always helpful 
+with some advanced dialyzers where the dialysate flow path is 
+already optimized (Ward, 2011).
+ V. THE CONCEPT OF MODELED V. One of the advantages of using a mod-
+eling program is that the computer calculates how much urea 
+was removed, and then, on the basis of the URR, weight change 
+and session length, calculates the size of the volume from which 
+the urea appears to have been removed. To do this, the computer 
+uses a “marbles in the box” approach described in Chapter 3. It is 
+Daugirdas9781451144291-ch011.indd   200 11/10/14   2:06 am
+201Chapter 11 / Chronic Hemodialysis Prescription
+important to recognize that V is a tool that is used to assess dialy-
+sis adequacy. It does not always reflect the true urea distribution 
+volume. Computers are not very smart, in the sense that they use 
+only the information given to them. For example, if the URR and 
+hence spKt/V suddenly decrease owing to a batch of bad dialyz-
+ers, all the computer knows is that the spKt/V has suddenly fallen, 
+but it is not told that the dialyzer clearance (K) has changed. Also, 
+the session length (t ) has not changed. How, then, can the com-
+puter explain the sudden decrease in spKt/V if K×t is unchanged? 
+All it knows is that (K×t)/V is lower than it was, and that (K×t) is 
+unchanged. The only way the computer can explain this scenario 
+is to assume that the patient’s urea distribution volume (V) must 
+have increased. A marked change in a patient’s true volume hap-
+pens only rarely, so a rise in modeled V usually means that for some 
+reason, less dialysis was given than was ordered or anticipated.
+A. Monitoring modeled V in individual patients.
+Example 1. In a different patient, in May an spKt/V of 1.5 is 
+delivered, and the computer models the size of the patient’s 
+urea volume (modeled V ) as 43 L. Values for the subsequent  
+4 months are as shown.
+Month spKt/V Modeled V
+May 1.5 43
+Jun 1.43 45
+Jul 1.7 38
+Aug 1.8 36
+Sep 1.1 58
+A transient increase in the value for V  was found in 
+ September owing to an unexpectedly low value for the spKt/V. 
+What should be done at this point?
+Step 1: Review the dialysis run sheet for the September treat -
+ment. The low spKt/V and the apparent rise in V most 
+probably reflect an unrecorded decrease in K or t. Was 
+the treatment shortened? Was the blood flow rate re-
+duced during all or part of the treatment? Did the di-
+alysate concentrate run out? Were there problems with 
+access during the treatment? If the answer to these 
+questions is no, it can be assumed that the aberrant re-
+sult was most likely due to measurement error.
+Step 2: The prescription should not be changed at this point. 
+One approach is to obtain one or more additional pre-/
+post-SUN measurements to determine whether the low 
+spKt/V value was a fluke or something about which to 
+be concerned. The September spKt/V measure is still 1.1, 
+which is close to the minimum KDOQI guideline of 1.2, 
+so, one could justify waiting for the next regular monthly 
+blood draw. This situation shows why having some sort 
+Daugirdas9781451144291-ch011.indd   201 11/10/14   2:06 am
+Part II / Blood-Based Therapies
+202
+of machine-generated clearance, from either dialyzer so-
+dium clearance or UV dialysate absorbance, would be of 
+great help, as these clearances are measured every treat-
+ment, and they would show whether the low September 
+value is an anomaly or some form of laboratory error.
+A repeat spKt/V should be measured, and if the repeat 
+value is still low, this means that some major problem has 
+developed in delivering either the prescribed K or t. The most 
+likely explanation that would cause a decrease in spKt/V of this 
+magnitude would be the development of access recirculation. 
+Other potential causes are discussed in Table 11.5.
+Example 2 (sustained fall in V). Suppose that in another 
+ patient we have a sustained increase in spKt/V for no apparent 
+reason, causing a decrease in modeled V:
+Month spKt /V Modeled V
+Jul 1.2 54
+Aug 1.15 56
+Sep 1.35 48
+Oct 1.18 55
+Nov 1.5 43
+Dec 1.43 45
+Jan 1.5 43
+Feb 1.43 45
+Mar 1.7 38
+Apr 1.47 43
+Here we have a patient whose V was initially about 54 L, and 
+then, sometime around November, the V appeared to decrease 
+suddenly to about 44 L. The treatment was unchanged. spKt/V 
+jumped from 1.2 to 1.5, so the computer interprets this as a 
+ patient who has shrunk. What could cause this (Table 11.5)?
+Step 1: T he first possibility to rule out is a true decrease in V, 
+which can occur either because of better removal of 
+chronic overhydration or because of loss of lean body 
+mass due to intercurrent illness. Such a massive change 
+is unlikely and can easily be ruled out by checking the 
+patient’s weights.
+Step 2: Re view the dialysis run sheets. Assuming that the   
+patient’s weight has not markedly decreased, true V has 
+not decreased. Rather, the K×t must have increased 
+in some manner relative to that delivered in October. 
+The goal is to explain how this could have occurred. 
+One needs to compare the run sheets before and after 
+ October. It is possible that a preexisting problem in 
+Daugirdas9781451144291-ch011.indd   202 11/10/14   2:06 am
+203Chapter 11 / Chronic Hemodialysis Prescription
+delivering the entire session length or prescribed blood 
+flow rate that was active prior to October was corrected 
+in October and the months that followed.
+Step 3: A ccess recirculation/needle placement. If there was a 
+change in access in October, then this might have re-
+sulted in cessation of access recirculation, or perhaps 
+prior to October the needles were being reversed and 
+after October the problem was found and corrected.
+Step 4: C heck to see whether there was a systematic change 
+in how the blood samples were collected. Consider the 
+following scenario: This patient always had access re-
+circulation; however, prior to October, the postdialysis 
+sample was drawn using a proper slow-flow method. 
+Then, in October a new technician arrived, who drew 
+the postdialysis samples after simply stopping the blood 
+pump, without any antecedent slow-flow period to clear 
+the blood line of recirculated blood. This would result 
+in a sudden, unexplained drop in the postdialysis SUN, 
+which would translate into a factitious rise in the URR 
+and spKt/V, with a concomitant fall in modeled V.
+ VI. MONITORING CHANGES IN V FOR THE ENTIRE UNIT AS A QUALITY ASSUR-
+ANCE TOOL. Whereas large fluctuations in V can occur in individ -
+ual patients, averaging the modeled V for the entire unit is useful 
+as a quality assurance tool and can identify several problems as-
+sociated with dialysis delivery. Here, a small change in V for the 
+Reasons why delivered Kt/V may be less than prescribed (in this case, modeled V 
+will be increased)
+Patient’s V greater than initial estimate (initial Rx only)
+Actual blood flow less than that marked on the blood pump (very common when 
+prepump negative pressure is high)
+Blood flow temporarily lowered (symptoms or other reasons)
+Actual dialysis session length shorter than prescribed
+Dialyzer K0A less than expected (manufacturer specifications incorrect, decreased 
+due to reuse, etc.)
+Access recirculation or inadvertent needle reversal (when postdialysis SUN is 
+drawn properly using a slow-flow period prior to the draw)
+Rebound (use of delayed postdialysis SUN to compute spKt/V and V)
+Reasons why delivered Kt /V may be greater than prescribed (in this case, 
+ modeled V will be decreased)
+Patient’s V less than initial estimate (initial Rx only) or recent, severe weight loss
+Postdialysis SUN specimen artifactually low
+Access recirculation or inadvertent needle reversal, and postdialysis blood 
+contaminated with dialyzer outlet blood (slow-flow method not used)
+Specimen drawn from dialyzer outlet blood line
+Session length longer than the time recorded
+Recent correction of access recirculation or inadvertent needle reversal
+SUN, serum urea nitrogen.
+Reasons Why the Urea Reduction Ratio-Based Delivered 
+spKt/V May Be Different Than Prescribed Kt/V11.5
+TABLE
+Daugirdas9781451144291-ch011.indd   203 11/10/14   2:06 am
+Part II / Blood-Based Therapies
+204
+unit over time can often be detected. It is useful to compute both 
+an anthropometric V (V ant) and the modeled V for each patient, 
+and to follow the ratio of the two. Unit wide, V/Vant should average 
+close to 0.90–1.0. An average unit-wide ratio >1.0 suggests that 
+one or both components of K×t are being overestimated.
+ VII. INABILITY TO REACH  THE DESIRED spKt/V. Patients in whom it is
+ difficult to reach an spKt/V of at least 1.2 fall into three catego-
+ries: (a) patients with poor access, resulting in either limitation of
+blood flow and/or access recirculation; (b) very large patients; and  
+(c) patients with frequent hypotension, angina, or other side ef-
+fects, resulting in frequent reductions in blood flow during dialysis.
+A. Therapy four times per week. Four-sessions-per-week schedules are 
+becoming increasingly popular for treating larger patients as 
+well as patients with hypertension and problems with remov -
+ing excess fluid. The 2006 version of the KDOQI clinical prac-
+tice recommendations suggest that with such schedules, when 
+residual renal urea clearance is below 2.0 mL/min per 1.73 m
+2, 
+the minimum spKt/V value can be reduced from 1.2 to about 
+0.8 (Table 11.1). One additional advantage of a four-per-week 
+schedule is that it avoids the long, weekend interdialytic inter-
+val, around which adverse events and deaths are more common 
+(Foley, 2011).
+ VIII. COMPUTING AND MONITORING THE NORMALIZED PROTEIN NITROGEN
+APPEARANCE RATE (nPNA). This is described in Chapter 3, and moni-
+toring of nutritional status is discussed in Chapter 31.
+IX. CHOICE OF DIALYZER
+A. Membrane material. Issues pertaining to biocompatibility and acute 
+dialyzer reactions are discussed in Chapters 4, 10, and 12.
+B. Should a high-flux dialyzer be used?  This question was partially
+answered by the NIH HEMO trial. Although randomiza-
+tion to high-flux membranes was associated with about an 
+8% increased survival, this did not attain statistical signifi-
+cance. Significant benefits in survival were measured in the 
+predefined subgroup of patients who were on dialysis longer 
+than 3.7 years (the median level for the HEMO patients). Also, 
+cardiovascular mortality appeared to be reduced in all pa -
+tients assigned to high-flux dialysis. These data are generally 
+in 
+ accord with the European MPO trial (Locatelli, 2009). On 
+the basis of these results, both the KDOQI Adequacy Work -
+group in 2006 (reiterated in 2015) and the European Best 
+Practices Group recommend the use of a high-flux membrane 
+where proper water treatment is available. Use of high-flux 
+membranes may also reduce the incidence of beta-2 micro-
+globulin amyloidosis in patients dialyzed for many years. It 
+is not clear whether this benefit is due to enhanced removal 
+of beta-2 microglobulin or whether use of more advanced di-
+alysis technology associated with high-flux dialysis results in 
+less procedure-related inflammation.
+Daugirdas9781451144291-ch011.indd   204 11/10/14   2:06 am
+205Chapter 11 / Chronic Hemodialysis Prescription
+ X. FLUID REMOVAL ORDERS
+A. Concept of “dry weight” or optimum postdialysis weight. The so-called 
+“dry weight” (optimum postdialysis weight is a better term) is 
+the postdialysis weight at which all or most excess body fluid 
+has been removed. If the dry weight is set too high, the patient 
+will remain in a fluid-overloaded state at the end of the dialy-
+sis session. Fluid ingestion during the interdialysis interval 
+might then result in edema or pulmonary congestion. If the 
+dry weight is set too low, the patient may suffer frequent hypo-
+tensive episodes during the latter part of the dialysis session. 
+Patients who have been ultrafiltered to below their optimum 
+postdialysis weight often experience malaise, a washed-out 
+feeling, cramps, and dizziness after dialysis. The postdialysis 
+recovery is extremely stressful and unpleasant.
+In practice, the optimum postdialysis weight of each pa-
+tient must be determined on a trial-and-error basis. When set-
+ting the UF rate, allow for the 0.2 L of saline that the patient 
+will receive at the end of dialysis during the blood return pro-
+cedure. Also, compensate for any fluid ingestion or parenteral 
+fluid administration during the treatment session.
+1. Frequent resetting of the optimum postdialysis weight. A common er-
+ror in dialysis units is failure to reevaluate the optimum post-
+dialysis weight often enough. If a patient loses flesh weight, 
+the previously set dry weight becomes too high, and if main-
+tained, can result in patient overhydration and hospitalization 
+for fluid overload. The optimum postdialysis weight should 
+therefore be reevaluated at least every 2 weeks. A progressive 
+decrease in the optimum postdialysis weight can be a clue to 
+an underlying nutritional disturbance or disease process.
+As discussed in Chapter 33, clinical determination of 
+optimum postdialysis weight based on signs of edema or 
+lung râles is unreliable. Bioimpedance devices identify an 
+important subset of patients who appear to be markedly 
+fluid-overloaded despite no outward signs of edema. A dif-
+ferent subset of patients is made up of those who have been 
+taken below their optimum postdialysis weight (Hecking, 
+2013). This can result in large interdialytic weight gains and 
+heightened sodium intake as patients struggle to return to 
+a more optimum weight, and can also result in accelerated 
+loss of residual kidney function.
+The use of bioimpedance to help identify optimum 
+postdialysis weight, along with other technology such as 
+lung ultrasound (“comets”), is discussed more completely 
+in Chapter 33. While the new technology is helpful, experi-
+ence with these devices is just beginning, and with whole-
+body bioimpedance, for example, it is not clear to what 
+extent their estimate of fluid overload is applicable to di-
+alysis patients of various body mass index levels.
+B. Fluid removal rate. Usually, fluid is removed at a constant rate dur-
+ing dialysis. There has been interest in restricting maximum UF 
+rate as a quality assurance tool. Evidence suggests that patients 
+Daugirdas9781451144291-ch011.indd   205 11/10/14   2:06 am
+Part II / Blood-Based Therapies
+206
+in whom the UF rate is <12 mL/kg per hr have a higher survival 
+rate (Movilli, 2007). It is not clear whether UF limits should 
+be scaled to body weight, to BSA, or remain unscaled (e.g., 
+<800  mL/hr) (Lacson, 2014). There are several approaches by 
+which the fluid removal rate can be reduced. The most obvious 
+is to extend the dialysis time, but this is not the only approach: 
+reducing interdialytic weight gain by limiting sodium intake 
+often is more acceptable to the patient and easy to implement 
+(Burkart, 2012). In patients with substantial urine volume, use 
+of diuretics will reduce UF rate by virtue of increasing daily urine 
+volume unless the patient reacts by taking in more fluid.
+There is some interest in using a nonconstant fluid re-
+moval rate during a dialysis session. In one approach, the fluid 
+removal rate is increased during the initial 1–2 hours of dialy-
+sis and reduced toward the end of dialysis. The dialysis solution 
+sodium level also may be increased during the initial phase of 
+dialysis to help maintain the blood volume osmotically. The 
+benefits of this approach remain controversial.
+XI. DIALYSIS SOLUTIONS (Table 11.6)
+A. Flow rate. The standard dialysis solution flow rate is 500 mL/
+min. When the blood flow rate is high (e.g., >400 mL/min) and 
+when a high-K
+0A dialyzer is used, increasing the dialysis solu-
+tion flow rate to 800 mL/min will increase dialyzer clearance 
+(K) by about 5%–10%. The optimum value for the dialysis solu-
+tion flow rate is 1.5 to 2.0 times the blood flow rate.
+B. Composition
+1. Bicarbonate concentration. Bicarbonate dialysis solution is the 
+fluid of choice, and use of acetate-based dialysate is now 
+considered obsolete in most countries.
+The concentration of base should be adjusted to 
+achieve a predialysis plasma bicarbonate concentration of 
+20–23 mmol/L. There has been some interest in increas-
+ing dialysis solution bicarbonate level, or giving supple -
+mentary oral bicarbonate to increase the predialysis HCO
+3 
+Flow rate:
+500 mL/min
+Base:
+Bicarbonate (32 mM)/plus acetate (4 mM); or bicarbonate 28 mM / plus acetate 8 mMa
+Electrolytes and dextrose:
+Potassium = 2.0 mM (3.0 mM for patients taking digitalis, or patients with a  
+low-normal potassium predialysis)
+Sodium = 135–145 mM (138 mM)
+Dextrose = 100 mg/dL (5.5 mmol/L)
+Calcium = 1.25–1.5 mM (2.5–3.0 mEq/L; depends on the type of phosphate  
+binder used)
+Magnesium = 0.50 mM (1.0 mEq/L)
+aFor example, when using sodium diacetate (Granuflo) dry acid concentrate.
+Dialysis Solution Orders
+11.6
+TABLE
+Daugirdas9781451144291-ch011.indd   206 11/10/14   2:06 am
+207Chapter 11 / Chronic Hemodialysis Prescription
+level. A definite clinical benefit of raising predialysis HCO 3 
+beyond 20–23 has not been shown. Metabolic alkalosis 
+may result postdialysis in such patients, with theoretical 
+increased risk of calcium–phosphorus precipitation, and of 
+cardiac arrhythmia.
+As discussed in Chapter 4, in dialysis machines that 
+are capable of adjusting the dialysis solution bicarbonate 
+level, the machine readout usually gives the bicarbonate 
+level of the product dialysate not taking into account the 
+presence of any bicarbonate-generating anions such as 
+acetate or citrate. Acetate, especially when sodium diace-
+tate is used in the concentrate, can add as much as 8 mM 
+of bicarbonate-generating base to the dialysate. This added 
+base content should be kept in mind when titrating dialysis 
+solution to bicarbonate to the serum level.
+The average dialysis solution bicarbonate level tends to 
+be higher in the United States than in some European coun-
+tries, and high dialysis bicarbonate values have been associ-
+ated with increased mortality (Tentori, 2013). The increased 
+mortality was due primarily to infectious, rather than to 
+cardiovascular, causes. It is not at all clear whether this as-
+sociation is causal or mediated by some sort of confounding. 
+Mortality is increased in patients with both low and high pre-
+dialysis serum bicarbonate, but the mortality at the high end 
+is confounded by malnutrition, as patients with low predialy-
+sis serum bicarbonate levels are commonly malnourished.
+High dialysis solution bicarbonate has been shown to 
+act synergistically with low dialysis solution calcium and 
+potassium (Di Iorio, 2012) to prolong the QTc interval on 
+the electrocardiogram, a change associated with increased 
+risk of arrhythmia.
+2. Potassium. The usual dialysis solution potassium level is 2.0 mM 
+unless the patient’s usual predialysis plasma potassium con-
+centration is <4.5 or unless the patient is receiving digitalis.
+In the latter two instances, the dialysis solution potassium
+level should usually be 3.0 mM. Should the interdialytic serum 
+potassium levels be high because of the use of this 3-mM di-
+alysis solution, chronic administration of sodium polystyrene
+sulfonate resin may be required. The new potassium-binding
+compounds under development, ZS-9 (ZS Pharma, Coppell,
+TX) and Partiromer (Relypsa, Redwood City, CA) respectively, 
+may increase caregiver options in this regard.
+Malnourished patients may have low predialysis se-
+rum 
+ potassium levels, and in these patients the dialysate 
+ potassium level can and should be increased to avoid 
+ hypokalemia. Use of 1.0-mM potassium dialysate on a chronic 
+basis to control hyperkalemia has been associated with in -
+creased incidence of cardiac arrest (Lafrance, 2006). If a low 
+dialysis solution potassium level is used at all, it should be 
+used on a relatively short-term basis. If the patient stops in-
+gesting a high-potassium diet for whatever reason, continued 
+Daugirdas9781451144291-ch011.indd   207 11/10/14   2:06 am
+Part II / Blood-Based Therapies
+208
+use of a low-potassium dialysis solution can then result in ad-
+verse consequences. Survival is highest in patients being dia-
+lyzed against a 3 K bath or higher (Jadoul, 2012).
+3. Sodium. The usual dialysis solution sodium level is between 
+135 and 145 mM. Levels above 138 mM are associated with 
+increased thirst and weight gain between dialyses, although 
+the extra fluid often can be removed during dialysis with 
+fewer symptoms. The blood pressure may increase. Dialysis 
+solution sodium levels lower than 135 mM predispose to 
+hypotension and cramps.
+One study suggests that patients may have individ-
+ual “set points” for sodium (Keen, 1997). Little is known 
+about why some dialysis patients have low predialysis so-
+dium values. Predialysis hyponatremia has been linked to 
+overhydration and increased interdialytic weight gain. In 
+nondialysis populations, as well as in dialysis patients, hy-
+ponatremia is associated with an increased mortality risk. 
+These patients may have cardiac dysfunction with nonos-
+motic release of vasopressin, or some sort of “sick cell” syn-
+drome with impairment of the Na–K exchanger, reflecting 
+overall poor health. In patients with a low sodium set point, 
+a lower dialysis sodium level can logically be used, which 
+should minimize postdialysis thirst and weight gain. How -
+ever, a cross-sectional study found slightly better survival 
+when hyponatremic patients were dialyzed against higher 
+sodium dialysis solution (Hecking, 2012).
+4. Dextrose. In the United States, it is common to add dextrose 
+(200  mg/dL or 11 mmol/L) to dialysis solutions. The pres-
+ence of dextrose may reduce the incidence of hypoglycemia 
+during dialysis. In Europe, a lower dextrose concentration, 
+100 mg/dL or 5.5 mmol/L, is commonly used. The Europeans 
+may be right, as some data suggest that the lower glucose 
+level still protects against hypoglycemia, but is associated 
+with better control of blood sugar. Also, high dialysis glucose 
+solutions encourage potassium (and possible phosphorus) 
+ entry into cells, reducing their removal during dialysis.
+5. Calcium. Dialysis solution calcium levels in chronic patients 
+normally range from 1.25 to 1.5 mM (2.5–3.0 mEq/L). The 
+usual level in patients taking calcium-containing phospho-
+rus binders is 1.25 mM (2.5 mEq/L), but the level may have 
+to be adjusted upward or downward depending on clini-
+cal response and parathyroid hormone status. In patients 
+taking the newer resin-based phosphate binders, which 
+do not contain calcium, the dialysis solution calcium level 
+may need to be increased to avoid negative calcium bal-
+ance. Dialysis solution calcium levels lower than 1.25 mM 
+(2.5 mEq/L) have been advocated by some when calcium-
+containing phosphorus binders are used, in order to pre -
+vent calcium overload. However, use of such low dialysate 
+calcium solutions has been associated with increased risk 
+of sudden cardiac arrest (Pun, 2013).
+Daugirdas9781451144291-ch011.indd   208 11/10/14   2:06 am
+209Chapter 11 / Chronic Hemodialysis Prescription
+6. Magnesium. The usual dialysis solution magnesium level is
+0.25–0.5 mM (0.5–1.0 mEq/L). In general, dialysis patient
+survival is better when such patients are not hypomagne-
+semic. Also, frequent use of protein-pump inhibitors in this 
+population may reduce oral magnesium absorption and in-
+crease the risk of hypomagnesemia (Alhosaini, 2014). The
+trend is to use 0.5 mM (1.0 mEq/L) solution, at the higher
+end of this range.
+C. Temperature. The dialysate temperature should be set as low 
+as possible without engendering patient discomfort, gener -
+ally in the range of 34.5°C–36.5°C. As discussed in Chapter 
+12, individualization of cool dialysate, effected by measuring 
+patient tympanic membrane temperature and setting dialysis 
+solution temperature 0.5°C lower, may retain the benefits of 
+cool dialysis solution in terms of protection from intradialytic 
+hypotension and shortening of postdialysis recovery time, 
+while avoiding the discomfort of feeling cold and shivering. 
+Individualized cool dialysate also may reduce the incidence 
+of myocardial stunning and dialysis-associated ischemic dam-
+age to brain white matter. In one study from China, use of cool 
+temperature dialysis solution chronically was associated with 
+reduced cardiovascular morbidity and mortality (Hsu, 2012).
+XII. ANTICOAGULATION ORDERS. See Chapter 14.
+ XIII. STANDING ORDERS FOR COMPLICATIONS. Complications are discussed 
+in depth in Chapter 12. Frequently occurring complications, such 
+as hypotension, cramps, restlessness, nausea, vomiting, itching,
+and chest pain, can be managed with a set of standing orders.
+However, symptoms during dialysis may be the result of a more
+serious disease process that can require immediate diagnosis and 
+specific treatment.
+ XIV . PATIENT MONITORING
+A. Prior to and during the treatment session
+1. Prior to dialysis
+a. Weight. The predialysis weight should be compared with 
+the patient’s last postdialysis weight and with the tar -
+get optimum weight to obtain some idea of interdialysis 
+weight gain. A large interdialysis weight gain, especially 
+when coupled with symptoms of orthopnea or dyspnea, 
+should prompt a complete cardiovascular examination
+and reassessment of the target weight (it may be too
+high). Patients should strive to keep their interdialysis
+weight gain below 1.0 kg per day, although the average
+weight gain tends to be higher. They also need to be
+counseled about limiting sodium rather than fluid in-
+take, as the water intake generally follows that of salt.
+Excessive thirst may be due to a high dialysis solution
+sodium level. Complaints of a washed-out feeling or of
+persistent muscle cramps after dialysis suggest that the 
+Daugirdas9781451144291-ch011.indd   209 11/10/14   2:06 am
+Part II / Blood-Based Therapies
+210
+target postdialysis weight is too low. As noted above, 
+postdialysis recovery time can be shortened by use of 
+cool dialysis solution.
+b. Blood pressure. The optimum blood pressure to monitor is 
+controversial, and either average intradialytic pressure or 
+postdialysis pressure may be more predictive of volume 
+overload than predialysis pressure (see Chapter 33). In 
+some patients, blood pressure can increase during dialysis 
+despite fluid removal. The causes are speculative, but this 
+has been associated with poor survival. Volume-resistant 
+hypertensive patients sometimes benefit from further 
+fluid removal, and blood pressure may decrease only after 
+a lag period of several months (Fishbane, 1996).
+Patients with hypertension are routinely counseled 
+to withhold their blood pressure medication on the day of 
+dialysis to limit the incidence of dialysis hypotension. This 
+is not absolutely necessary, especially for patients who will 
+be dialyzed in the afternoon. Management of high blood 
+pressure is described in Chapter 33, but basically focuses 
+on sodium restriction, lengthening the weekly dialysis 
+time, and, if available, moving to a more frequent dialysis 
+schedule. Use of whole-body bioimpedance to guide fluid 
+removal has been shown to lower blood pressure. Abiding 
+by a maximum UF rate and using this as an incentive to get 
+patients to reduce interdialytic weight gain can also reduce 
+blood pressure (Burkart, 2012).
+While it is important to investigate and perhaps treat 
+patients with very high levels of predialysis blood pressure, 
+very aggressive approaches to reduce predialysis blood 
+pressure have been associated with an increased rate of di-
+alysis hypotension and access failure (see Chapter 33).
+c. T emperature . The patient’s temperature should be mea-
+sured. The presence of a fever prior to dialysis is a serious 
+finding and should be investigated diligently. The mani-
+festations of infection in a dialysis patient may be subtle. 
+On the other hand, a rise in body temperature of about 
+0.5°C during dialysis is normal and not necessarily a sign 
+of infection or pyrogen reaction.
+d. Access site. Whether or not fever is present, the vascular 
+access site should always be examined for signs of infec-
+tion before each dialysis.
+2. During the dialysis session. Blood pressure and pulse rate are usu-
+ally measured every 30–60 minutes. Any complaints of dizzi-
+ness or of a washed-out feeling are suggestive of hypotension 
+and should prompt immediate measurement of the blood 
+pressure. Symptoms of hypotension may be quite subtle, and 
+patients sometimes remain asymptomatic until the blood 
+pressure has fallen to dangerously low levels.
+B. Laboratory tests (predialysis values)
+1. Serum urea nitrogen. This should be measured monthly as 
+part of the URR. Whether the monthly postdialysis BUN 
+Daugirdas9781451144291-ch011.indd   210 11/10/14   2:06 am
+211Chapter 11 / Chronic Hemodialysis Prescription
+measurement can be dispensed with in units where in 
+vivo dialyzer clearance is monitored using conductiv -
+ity, or patient Kt/V is monitored via UV dialysate absor-
+bance, is an open question. Use of the predialysis urea 
+nitrogen would continue to be useful, as it allows for 
+computation of the nPNA.
+2. Serum albumin . The predialysis serum albumin level should 
+be measured every 3 months. The serum albumin concen-
+tration is an important indicator of nutritional state. A low 
+serum albumin level is a very strong predictor of subsequent 
+illness or death in dialysis patients. The increased mortal-
+ity risk begins at serum albumin levels <4.0 g/dL (40 g/L). 
+Patients with serum albumin levels <3.0 g/dL (30 g/L) are at 
+high risk of morbid events, and every  effort should be made 
+to find the cause of the low albumin value and correct it. 
+3. Serum creatinine . The predialysis serum creatinine level 
+is measured monthly. The usual mean value in hemodi-
+alysis patients is  about 10 mg/dL (884 mcmol/L), with 
+a common range of 5–15 mg/dL (440–1,330 mcmol/L). 
+Paradoxically, in dialysis patients, high serum creatinine 
+levels are associated with a low risk of mortality, prob-
+ably because the serum creatinine value is an indicator 
+of muscle mass and nutritional status.
+The serum creatinine and urea nitrogen levels should 
+be examined in tandem. If parallel changes in both  occur, 
+then alteration in the dialysis prescription or degree of 
+residual renal function should be suspected. If the serum 
+creatinine level remains constant but a marked change 
+occurs in the serum urea nitrogen value, the change in the 
+latter is most likely due to altered dietary protein intake 
+or altered catabolic rate of endogenous body proteins.
+4. Serum total cholesterol . The serum total cholesterol level 
+is an indicator of nutritional status. A predialysis value 
+of 200–250 mg/dL (5.2–6.5 mmol/L) is associated 
+with the lowest mortality risk in dialysis patients. Low 
+ serum total cholesterol values, especially <150 mg/dL  
+(3.9 mmol/L), are associated with an elevated mortality 
+risk in dialysis patients, probably because they reflect 
+poor nutritional status.
+5. Serum potassium . Dialysis patients with a predialysis 
+ serum potassium level of 5.0–5.5 mmol/L have the low-
+est mortality risk. The mortality risk increases greatly for 
+values over 6.5 and under 4.0 mmol/L.
+6. Serum phosphorus. Measure monthly. The predialysis value 
+associated with the lowest mortality is below 5.5 mg/dL 
+(1.8 mmol/L). Mortality rates increase sharply for values 
+over 9.0 mg/dL (2.9 mmol/L) and under 3.0 mg/dL (1.0 
+mmol/L). Current KDIGO targets are to “lower serum 
+phosphorus toward the normal range”. Serum phospho-
+rus values tend to be slightly higher on Monday/Tuesday, 
+that is, after the 3-day interdialytic interval.
+Daugirdas9781451144291-ch011.indd   211 11/10/14   2:06 am
+Part II / Blood-Based Therapies
+212
+7. Serum calcium . Measure monthly (more often when
+changing the dose of vitamin D). The lowest mortality is
+ associated with values of 9–12 mg/dL (2.25–3.0 mmol/L). 
+Mortality rates increase markedly at values over 12 mg/dL  
+(3.0 mmol/L) and under 7 mg/dL (1.75 mmol/L). The tar-
+get value should be a calcium within the normal range.
+Targeting the upper range of normal serum calcium is no 
+longer recommended, for fear of precipitating vascular
+calcification.
+8. Serum magnesium.   This is not routinely monitored in he -
+modialysis patients. However, hypomagnesemia is com-
+mon in hemodialysis patients receiving proton pump
+inhibitors (Alhosaini, 2014), and low serum magnesium is 
+associated with atrial fibrillation and poor cardiovascular 
+outcome in many populations. The cost-benefits of rou-
+tine periodic monitoring of serum magnesium have not
+been studied. 
+9. Serum alkaline phosphatase. Measure every 3 months. High
+values are a sign of hyperparathyroidism or liver disease. 
+High levels are associated with elevated mortality risk.
+10. Serum bicarbonate . Measure monthly. Lowest mortal -
+ity is for values between 20 and 22.5 mmol/L. Mortality
+increases for both lower and higher values. Marked in-
+creases in mortality are noted when the predialysis value 
+is under 15 mmol/L. Predialysis acidosis can be cor -
+rected by administration of alkali between dialyses.
+11. Hemoglobin. This is checked at least monthly, and in
+many cases every 2 weeks. Machine measurement of
+ hemoglobin using optical sensors is becoming popu-
+lar. Optimal management of chronic kidney disease
+related anemia is discussed in Chapter 34. Spontane-
+ously high hemoglobin levels (without erythropoietin
+therapy) may be a sign of polycystic kidney disease,
+acquired renal cystic disease, hydronephrosis, or renal
+carcinoma. Serum ferritin levels, iron levels, and iron-
+binding capacity, as well as erythrocyte indexes, should 
+be checked every 3 months.
+12. Serum aminotransferase values are usually checked monthly . 
+High or even high-normal values may unmask silent liver 
+disease, especially hepatitis or hemosiderosis. The blood 
+should be screened for the presence of hepatitis B sur -
+face antigen and for hepatitis C (see Chapter 35).
+13. Serum parathyroid hormone levels should be checked every
+3-6 months, as detailed in Chapter 36.
+References and Suggested Readings
+Alhosaini M, et al. Hypomagnesemia in hemodialysis patients: role of proton pump 
+inhibitors. Am J Nephrol. 2014;39:204–209.
+Cheung AK, et al. Effects of high-flux hemodialysis on clinical outcomes: results of the 
+HEMO study. J Am Soc Nephrol. 2003;14:3251–3263.
+Daugirdas JT. Dialysis time, survival, and dose-targeting bias. Kidney Int. 2013;83:9–13.
+Daugirdas9781451144291-ch011.indd   212 11/10/14   2:06 am
+213Chapter 11 / Chronic Hemodialysis Prescription
+Daugirdas JT. Dialysis dosing for chronic hemodialysis: beyond Kt/V. Semin Dial. 
+2014;27:98–107.
+Daugirdas JT, et al. Relationship between apparent (single-pool) and true (double-pool) 
+urea distribution volume. Kidney Int. 1999;56:1928–1933.
+Daugirdas JT. Second generation logarithmic estimates of single-pool variable volume 
+Kt/V: an analysis of error. J Am Soc Nephrol. 1993;4:1205–1213.
+Depner T, et al. Dialysis dose and the effect of gender and body size on outcome in the 
+HEMO Study. Kidney Int. 2004;65:1386–1394.
+Di Iorio B, et al. Dialysate bath and QTc interval in patients on chronic maintenance 
+hemodialysis: pilot study of single dialysis effects. J Nephrol. 2012;25:653–660.
+Eknoyan G, et al. Effect of dialysis dose and membrane flux in maintenance hemodi-
+alysis. N Engl J Med. 2002;347:2010–2019.
+European Best Practice Guidelines Expert Group. Haemodialysis. Nephrol Dial Trans-
+plant. 2002;17(suppl 7):S16–S31.
+FHN Trial Group. In-center hemodialysis six times per week versus three times per 
+week. N Engl J Med. 2010;363:2287–2300.
+Fishbane S, et al. Role volume overload in dialysis-refractory hypertension. Am J  Kidney 
+Dis. 1996;28:257–261.
+Foley RN, et al. Long interdialytic interval and mortality among patients receiving 
+ hemodialysis. N Engl J Med. 2011;365:1099–1107.
+Hanson JA, et al. Prescription of twice-weekly hemodialysis in the USA. Am J Nephrol. 
+1999;19:625–633.
+Hecking M, et al. Predialysis serum sodium level, dialysate sodium, and mortality in 
+maintenance hemodialysis patients: the Dialysis Outcomes and Practice Patterns 
+Study (DOPPS). Am J Kidney Dis. 2012;59:238–248.
+Hecking M, et al. Significance of interdialytic weight gain vs. chronic volume overload: 
+consensus opinion. Am J Nephrol. 2013;38:78–90.
+Hsu HJ, et al. Association between cold dialysis and cardiovascular survival in hemo-
+dialysis patients. Nephrol Dial Transplant. 2012;27:2457–2464.
+Jadoul M, et al. Modifiable practices associated with sudden death among hemodialy-
+sis patients in the Dialysis Outcomes and Practice Patterns Study. Clin J Am Soc 
+Nephrol. 2012;7:765–774.
+Kalantar-Zadeh K, et al. Twice-weekly and incremental hemodialysis treatment for 
+initiation of kidney replacement therapy. Am J Kidney Dis. 2014;64:181–186.
+Karnik JA, et al. Cardiac arrest and sudden death in dialysis units. Kidney Int. 
+2001;60:350–357.
+Keen M, Janson S, Gotch F. Plasma sodium (CpNa) “set point”: relationship to inter -
+dialytic weight gain (IWG) and mean arterial pressure (MAP) in hemodialysis pa-
+tients (HDP) [Abstract]. J Am Soc Nephrol. 1997;8:241A.
+Lacson, Jr, et al. Body size and gender dependent differences in mortality risks associ-
+ated with ultrafiltration rates [Abstract]. J Am Soc Nephrol. 2013;25.
+Lafrance J, et al. Predictors and outcome of cardiopulmonary resuscitation (CPR) calls 
+in a large haemodialysis unit over a seven-year period. Nephrol Dial Transplant. 
+2006;21:1006–1012.
+Locatelli F, et al. Membrane Permeability Outcome (MPO) Study Group. Effect of 
+membrane permeability on survival of hemodialysis patients. J Am Soc Nephrol. 
+2009;20:645–654.
+Movilli E, et al. Association between high ultrafiltration rates and mortality in uraemic 
+patients on regular haemodialysis: a 5-year prospective observational multicentre 
+study. Nephrol Dial Transplant. 2007;22:3547–3552.
+NKF-KDOQI clinical practice guidelines; update 2006. Am J Kidney Dis. 
+2006;48(suppl 1):S2–S90.
+Pirkle JL, et al. Effect of limiting maximum ultrafiltration rate in an in-center hemodi-
+alysis population [Abstract]. J Am Soc Nephrol. 2012:23:6A.
+Pun PH, et al. Dialysate calcium concentration and the risk of sudden cardiac arrest in 
+hemodialysis patients. Clin J Am Soc Nephrol. 2013;8:797–803.
+Saran R, et al. Longer treatment time and slower ultrafiltration in hemodialysis: as-
+sociations with reduced mortality in the DOPPS. Kidney Int. 2006;69:1222–1228.
+Tentori F, et al. Association of dialysate bicarbonate concentration with mortality in 
+the Dialysis Outcomes and Practice Patterns Study (DOPPS). Am J Kidney Dis. 
+2013;62:738–746.
+Tentori F, et al. Longer dialysis session length is associated with better intermediate 
+outcomes and survival among patients on in-center three times per week hemo-
+Daugirdas9781451144291-ch011.indd   213 11/10/14   2:06 am
+Part II / Blood-Based Therapies
+214
+dialysis: results from the Dialysis Outcomes and Practice Patterns Study (DOPPS). 
+Nephrol Dial Transplant. 2012;27:4180–4188.
+Termorshuizen F, et al for the NECOSAD Study Group. Relative contribution of resid-
+ual renal function and different measures of adequacy to survival in hemodialysis 
+patients: an analysis of the Netherlands Cooperative Study on the Adequacy of 
+Dialysis (NECOSAD)-2. J Am Soc Nephrol .2004;15:1061–1070.
+Twardowski ZJ. Safety of high venous and arterial line pressures during hemodialysis. 
+Semin Dial. 2000;13:336–337.
+Ward RA, et al. Dialysate flow rate and delivered Kt/Vurea for dialyzers with enhanced 
+dialysate flow distribution. Clin J Am Soc Nephrol. 2011;6:2235–2239.
+Web References
+HDCN adequacy channel: http://www.hdcn.com/ch/adeq/.
+NKF KDOQI guidelines for hemodialysis adequacy: http://www.kidney.org.
+Urea kinetics calculators: http://www.ureakinetics.org.
+Daugirdas9781451144291-ch011.indd   214 11/10/14   2:06 am

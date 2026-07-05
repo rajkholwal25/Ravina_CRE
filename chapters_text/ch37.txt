@@ -1,0 +1,1021 @@
+693
+Dialysis in Infants 
+and Children
+Susan R. Mendley37
+Choices in dialysis treatment for infants and children are wide and 
+include the full range of therapies utilized in adult patients. Theoreti-
+cal considerations of clearance, kinetic modeling, and adequacy of 
+dialysis are equally relevant in pediatric dialysis, although they are 
+less well studied in this population than in adults. There are impor -
+tant technical considerations in performing dialysis on patients 
+whose weights may vary by as much as 50-fold. Furthermore, there are 
+indications for and complications of the dialysis procedure that are 
+unique to children. Finally, chronic care of children receiving 
+ dialysis 
+is complex and requires attention to growth and cognitive develop -
+ment, age-appropriate nutritional interventions, consequences of 
+metabolic disturbances, and psychosocial adjustment to achieve the 
+goal of complete rehabilitation.
+ I. ACUTE DIALYSIS
+A. Indications. The indications for acute renal replacement  therapy 
+in an infant, child, or adolescent are similar to those in adults 
+and include:
+1. Oliguric acute renal failure where optimal nutritional
+and medical support will require fluid and/or electrolyte
+removal
+2. Volume overload with congestive heart failure, pulmo-
+nary edema, or severe hypertension not manageable with
+diuretics or conservative measures; fluid overload greater
+than 20% of body weight in the setting of critical illness may 
+be an independent indication
+3. Hyperkalemia with electrocardiographic abnormalities
+4. Metabolic acidosis that cannot be safely corrected with
+sodium bicarbonate administration because of risk of
+sodium or volume overload
+5. Symptoms of uremic encephalopathy, with particular
+attention to seizures
+6. Uremic pericarditis
+7. Tumor lysis syndrome or severe hyperuricemia compli -
+cating chemotherapy for malignancy
+8. Progressively rising blood urea nitrogen (BUN) level in a
+situation where imminent recovery is not anticipated andDaugirdas9781451144291-ch037.indd   693 09/10/14   1:44 am
+Part IV / Clinical Problem Areas
+694
+uremic consequences are likely. The BUN level where con -
+cern arises will vary with the age of the child; 35–50 mg/
+dL (12–18 mmol/L) is potentially dangerous in an infant, 
+whereas 150 mg/dL (54 mmol/L) in an adolescent may 
+necessitate initiation of dialysis.
+9. Inborn error of metabolism with severe organic acidemia 
+or hyperammonemia
+10. Toxic ingestion. Guidelines for extracorporeal therapy for 
+poisoning are found in Chapter 20.
+B. Choice of acute dialysis modality
+1. Acute peritoneal dialysis  is often used in infants and young 
+ children and has several advantages. It does not require 
+sophisticated equipment or technical expertise. One can 
+avoid the need for vascular access, blood priming, and anti-
+coagulation; hemodynamic instability is uncommon. Con -
+tinuous peritoneal dialysis (PD) provides efficient clearance 
+in small children. It is frequently used as adjunctive therapy 
+to manage fluid overload in infants after cardiac surgery 
+with cardiopulmonary bypass. However, severe hyperam-
+monemia, hyperphosphatemia, or hyperkalemia often 
+require more rapid correction; in such situations, hemodial-
+ysis (sometimes in combination with continuous hemo[dia]
+filtration) may be more appropriate. Furthermore, volume 
+removal by ultrafiltration in PD is often unpredictable and 
+may not be rapid enough in some patients with congestive 
+heart failure or pulmonary edema. Dialysate leakage with 
+risk of peritonitis may limit acute PD.
+There are no guidelines as to what constitutes 
+ adequate PD in acute renal failure (ARF), and one attempts 
+maximum possible clearance to compensate for catabolic 
+stress, utilizing continuous exchanges. The initial pre-
+scription may include hourly exchanges; more frequent 
+exchanges can be performed, although a greater fraction 
+of total time is then spent in filling and draining, rather 
+than in solute exchange. An automated cycler facilitates 
+this process, limiting nursing effort and repeated opening 
+of the catheter. Most cyclers can deliver exchange  volumes 
+small enough for infants and young children. When a 
+cycler is unavailable or when fill volumes < 150 mL are 
+desirable, a safe alternative is the Dialy-Nate set (Utah 
+Medical Products, Gesco), which allows one to connect 
+a bag of dialysate to a closed circuit, including a buretrol 
+device (in-line sterile graduated cylinder) connected to the 
+patient's PD catheter, and a drainage line for effluent dialy-
+sate attached to a measurement device. The desired vol-
+ume fills the buretrol and is then infused into the patient; 
+after a defined dwell, the effluent dialysate is drained and 
+measured, and the process is repeated without opening 
+the system. This allows one to perform closed circuit, low-
+volume, manual continuous PD in infants and very small 
+children.
+Daugirdas9781451144291-ch037.indd   694 09/10/14   1:44 am
+695Chapter 37 / Dialysis in Infants and Children 
+Exchange volumes may be targeted at 30–50 mL/kg in 
+infants and up to 1,100 mL/m2 in children, but immediately 
+after catheter placement, it is prudent to limit volumes to 
+half or less of this volume to avoid leakage, which predis-
+poses to peritonitis. Hourly exchanges may result in obli-
+gate ultrafiltration even when 1.5% dextrose concentration 
+is used, so that parenteral or enteral fluid intake is needed 
+to avoid volume depletion and prolongation of ARF.
+2. Acute hemodialysis  is performed when rapid solute clear -
+ance is of paramount importance or PD is contraindicated 
+because of an intra-abdominal process (including recent 
+abdominal surgery, diaphragmatic hernia, omphalocele, or 
+gastroschisis) or respiratory limitation.
+Acute hemodialysis in infants and small children 
+requires experience and technical expertise, as well as size-
+appropriate dialyzers, blood lines, and vascular catheters. 
+Very small patients may require blood or albumin priming 
+of the hemodialysis circuit. Small patient size allows effi-
+cient and rapid solute clearance where appropriate (i.e., 
+ammonia), but must be approached with caution where 
+overly rapid osmolar shifts could precipitate seizures 
+(reportedly more common in children than in adults). Dia-
+lyzers are available in a range of sizes for children through 
+older adolescents (Table 37.1); however, the choices in 
+small dialyzers have become fewer, and availability is often 
+limited.
+3. Continuous therapies. Continuous renal replacement therapy 
+(CRRT) has been utilized in pediatric patients, ranging 
+from preterm infants to older adolescents. The physiologic 
+principles are unchanged from those in adults (see  Chapter 
+15); because of small patient size, clearance can be 
+extremely efficient, replacing a large fraction of endog-
+enous renal function. Prospective registry data on CRRT in 
+infants and children are becoming available and providing 
+insights into practice variation and determinants of out -
+come  (Ashkenazi, 2013). We recognize fluid overload as an 
+independent risk factor for mortality in children with acute 
+kidney injury (AKI) receiving CRRT and adjust ultrafiltra-
+tion to address that. CRRT has been successfully combined 
+with extracorporeal membrane oxygenation support even 
+in infants and provides better volume management than 
+free-flow systems. Further, continuous therapies permit 
+better phosphorus clearance than intermittent hemodi -
+alysis or PD and are thus frequently employed in the tumor 
+lysis syndrome in children with Burkitt lymphoma or acute 
+lymphoblastic leukemia.
+Maintaining vascular access with adequate flow in 
+small vessels can be problematic (Table 37.2) and is often 
+the limiting factor. There are older reports of arteriove-
+nous hemofiltration (CAVH), but most centers have found 
+pump-driven venovenous treatments to perform more 
+Daugirdas9781451144291-ch037.indd   695 09/10/14   1:44 am
+Part IV / Clinical Problem Areas
+696
+Characteristics of Low-volume Dialyzers Suitable for Pediatric Use
+Dialyzer
+Priming  
+Volume (mL)
+Surface 
+Area (m2)
+Urea Clearance (QB 200 or  
+as Specified)
+B12 Clearance 
+(at Highest 
+Tested QB) K0A Membrane Manufacturer
+Polyflux 6H 52 0.6 50 QB = 5097 
+QB = 100136 
+QB = 150167 
+QB = 200
+90 465 QB = 200 Polyflux 
+(polyarylethersulfone, 
+polyvinylpyrrolidone, 
+polyamide)
+Gambro
+CA50, CA70 35, 45 0.5, 0.7 128 (147 
+QB = 300), 153 (175 
+QB = 300)
+27, 36 243, 333 Cellulose acetate Baxter
+F3, F4, F5 28, 42, 63 0.4, 0.7, 1.0 125, 155 (183 
+QB = 300), 170 (206 
+QB = 300)
+20, 34, 47 231, 364, 472 Polysulfone Fresenius
+Filtryzer 
+B3-0.8A
+49 0.8 163 61 404 PMMA Toray
+PMMA, polymethylmethacrylate.
+37.1
+TABLE
+Daugirdas9781451144291-ch037.indd   696 09/10/14   1:44 am
+697Chapter 37 / Dialysis in Infants and Children 
+reliably and to maintain circuit patency longer. As in acute 
+hemodialysis, the entire circuit volume must be consid-
+ered and a blood or albumin prime used if the circuit vol-
+ume is >10% of the patient's estimated blood volume. The 
+electrolyte concentrations and pH of the blood prime are 
+far from normal values, and many infants will experience 
+hemodynamic instability at initiation of therapy. Zero bal -
+ance ultrafiltration has been proposed to bring the electro-
+lyte concentrations in the blood prime close to physiologic 
+values, which might avoid instability at initiation (Hack -
+barth, 2005). Cooling of the blood circuit is a concern in 
+infants; a blood warmer may be used in-line, although with 
+some models this increases the circuit volume. Hemofilters 
+appropriate for pediatric use are listed in Table 37.3. Ultra-
+filtration is controlled by volumetric pump or automated 
+weighing to avoid errors in replacement fluid, which, if 
+compounded over days of therapy, could be dramatic in a 
+small, anuric patient.
+Currently available machines, including the Gam-
+bro Prismaflex (Gambro Lundia AB, Lund, Sweden), the 
+Braun Diapact (B. Braun Medical, Bethlehem, PA), and 
+the NxStage (NxStage Medical Inc., Lawrence, MA), have 
+been used in children, although the NxStage does not 
+permit blood flow rates in a range appropriate for small 
+patients. Several studies have demonstrated the success 
+of CRRT in critically ill infants and children. Ultrafiltra -
+tion rates in infants and small children may be as low as 
+5–30 mL/hr without replacement fluid (slow continuous 
+ultrafiltration, SCUF) or as high as 100–600 mL/hr with 
+replacement fluid (C-HF); larger children can tolerate 
+ultrafiltration and replacement rates near those of adults. 
+Commercially available bicarbonate-based dialysate or 
+replacement solution (PrismaSol, PrismaSATE, [Gambro 
+Lundia AB, Lund, Sweden], Accusol, [Baxter Healthcare, 
+Patient Size Catheter Size Access Location
+Neonate UVC—5.0 F Umbilicus
+UAC—3.5, 5.0 F Umbilicus
+or 5.0 F single lumen Femoral vein(s)
+or 6.5, 7.0 F dual lumen Femoral vein(s)
+3–15 kg 6.5, 7.0 F dual lumen Femoral/subclavian vein
+16–30 kg 7.0, 9.0 F dual lumen Femoral/internal jugular/subclavian
+>30 kg 9.0, 11.5 F dual lumen Femoral/internal jugular/subclavian
+UVC, umbilical vein catheter; UAC, umbilical artery catheter; F, French gauge.
+Catheters for Use in Pediatric Extracorporeal Renal 
+ Replacement Therapy37.2
+TABLE
+Daugirdas9781451144291-ch037.indd   697 09/10/14   1:44 am
+Part IV / Clinical Problem Areas
+698
+Deerfield, IL], Pureflow (NxStage Medical, Inc., Lawrence, 
+MA), Normocarb (Dialysis Solutions Inc., Whitby, ON), or 
+Hemosol BO [Gambro Lundia AB, Lund, Sweden), is the 
+safest choice; errors in local preparation of solutions in 
+hospital pharmacies are well recognized and are no longer 
+appropriate now that standardized solutions are available. 
+Successful circuit anticoagulation has been reported with 
+both heparin and citrate. Since the citrate infusion rate 
+is scaled to circuit blood flow, which is relatively large in 
+infants and small children, citrate accumulation may occur 
+after prolonged therapy, resulting in “citrate lock” or persis-
+tently low ionized calcium levels despite calcium infusion. 
+The combination of fixed concentration bicarbonate-
+ 
+containing replacement fluid and citrate anticoagu  lation 
+may result in metabolic alkalosis after several days of 
+therapy. In reported series, infants <5 kg are more often 
+anticoa
+ gulated with heparin. Doses for systemic heparin 
+anticoagulation in infants are larger than those reported 
+for adults, and monitoring the system by activated clotting 
+times (ACTs) is recommended. Circuit life is significantly 
+shorter in pediatric patients run without anticoagulation.
+II. CHRONIC DIALYSIS
+A. Indications. Optimal management of chronic kidney disease
+(CKD) avoids some of the historical indications for initiation of 
+dialysis. Anemia, acidosis, hyperparathyroidism, and growth 
+delay can often be managed medically, so nephrologists must 
+be attuned to subtle indications of uremia, that is, diminished 
+energy (less vigorous play), resumption of napping, anorexia 
+(with absence of expected weight gain), and inattentiveness at 
+school or failure to attain expected developmental milestones, 
+in order to recognize the appropriate time to begin dialysis. 
+Hemofilter
+Priming 
+ Volume 
+(mL)
+Surface 
+Area (m
+2)
+Ultrafiltration 
+Rate (mL/min, 
+Q
+B = 100) Membrane Manufacturer
+Minifilter 
+Plus
+15 0.07 1–8 Polysulfone Baxter
+RenafloII HF 
+400, 700
+28, 53 0.3, 0.7 20–35, 35–45 Polysulfone Minntech
+Prismaflex, 
+M60, M100 
+set
+93, 152 0.6, 0.9 38,44 AN69 Gambro
+Prismaflex 
+HF20
+60 0.2 PAES Gambro
+AN69, acrylonitrile and sodium methallyl sulfonate; PAES, polyarylethersulfone.
+Hemofilters and Sets Appropriate for Pediatric Use
+37.3
+TABLE
+Daugirdas9781451144291-ch037.indd   698 09/10/14   1:44 am
+699Chapter 37 / Dialysis in Infants and Children 
+There is no consensus as to the specific level of GFR at which 
+dialysis should be started. Symptomatic uremia or metabolic 
+disturbances such as hyperkalemia, hyperphosphatemia, mal-
+nutrition, or growth failure that cannot be managed conser -
+vatively are agreed upon as indications for initiation of renal 
+replacement therapy. Chronic dialysis is usually an interim 
+measure to allow time to prepare for kidney transplantation.
+B. Choice of chronic dialysis modality
+1. Chronic PD is often the therapy of choice for pediatric 
+patients. Transperitoneal solute exchange in children 
+appears to be as efficient as in adults. Since peritoneal 
+surface area is correlated with body surface area, small 
+children have a relatively large surface for solute exchange 
+compared with adults, which makes PD an effective modal-
+ity. Peritoneal equilibration testing (PET) shows that very 
+young children are more likely to fall in the category of 
+high or high-average transport, although this observation 
+appears to be the result of large surface area for transport 
+rather than a difference in peritoneal membrane charac -
+teristics and can be corrected for by testing patients at fill 
+volumes of 1,000–1,100 mL/m 2. Adolescents and teenag-
+ers have PET results more typical of adults. Enhanced glu-
+cose absorption will result in relatively rapid attainment 
+of osmotic equilibrium between dialysate and plasma, 
+limiting ultrafiltration on long dwells. Automated forms of 
+PD utilizing short dwells are most commonly used in chil-
+dren to accommodate high average peritoneal transport 
+in young children and to improve treatment adherence in 
+older children.
+PD offers additional benefits as a chronic dialysis 
+modality. It is technically simple and avoids the need for 
+chronic vascular access (which is particularly difficult in 
+infants and small children). Blood pressure and volume 
+status may be better controlled with PD than with hemodi-
+alysis. Less time is spent in the hospital and in the dialysis 
+unit, with more time spent at school and engaged in other 
+ age-appropriate activities. Parents often feel they have 
+greater control over their child's care when they perform PD.
+a. Limitations to peritoneal dialysis.  Previous abdominal sur -
+gery may result in intra-abdominal adhesions that make 
+PD impossible, particularly repair of complex urogenital 
+anomalies, which are often a cause of end-stage kidney  
+disease (ESKD) in children. However, one can rarely pre-
+dict whether adhesions will limit therapy, and a trial of 
+PD is usually warranted. The presence of a ventriculo-
+peritoneal shunt was once considered a relative contra -
+indication to PD; however, multicenter data show that 
+dialysis can be performed successfully without ascend-
+ing infection even in the setting of peritonitis (Dolan, 
+2013). The presence of a ureterostomy, pyelostomy, or 
+loop ileostomy is not an absolute contraindication to 
+Daugirdas9781451144291-ch037.indd   699 09/10/14   1:44 am
+Part IV / Clinical Problem Areas
+700
+performance of PD, although the risk of exit site infec-
+tion and peritonitis with urinary organisms is increased.
+b. Transplantation in peritoneal dialysis patients. PD is continued 
+up to the time of renal transplantation without increased 
+risk of infection. The PD catheter is often removed at the 
+time of living-donor transplantation (assuming immedi-
+ate graft function), but sometimes it is left in place if a
+deceased donor transplant is performed. The catheter
+will then be removed electively once graft function is sta-
+ble; delay in catheter removal has been associated with
+posttransplantation peritonitis in the dry abdomen.
+c. Complications of peritoneal dialysis.  The complications of
+pediatric PD include those already described in adults
+(see Chapters 28–29). PD presents particular problems
+for children and families. Months or years of a demand -
+ing regimen may result in “burnout” or caregiver fatigue, 
+which exacerbates underlying family conflicts; non -
+adherence to therapy becomes common, particularly
+among adolescents. The presence of a PD catheter may
+adversely affect body image. Children have a higher rate
+of peritonitis than adults, which further complicates
+therapy. Eradication of nasal Staphylococcus aureus  car-
+riage leads to decreased exit site infection and peritonitis 
+in adults, but studies in children have shown no benefit.
+Congenital defects in the diaphragm may result in com-
+munication between the pleural and peritoneal spaces.
+In some cases, a change to automated peritoneal dialysis 
+(APD) with empty periods may permit continuation of
+PD. Some children become obese from excessive glucose 
+absorption from dialysate; this presents additional prob-
+lems for body image as well as adversely affecting blood
+lipid levels and an already increased risk of cardiovascu-
+lar disease. Chronic hypoalbuminemia develops in some 
+patients, particularly with repeated peritonitis; its long-
+term consequences for growth in stature and lean body
+mass are unknown.
+C. Apparatus for acute and chronic peritoneal dialysis
+1. Lactate-based PD solutions are available in a range of bag
+sizes appropriate for small patients who perform chronic
+ambulatory peritoneal dialysis and automated (cycler)
+PD. Calcium concentrations of 1.25 mM and 1.75 mM are
+used, depending on the desired calcium balance and type
+and amount of phosphorus binder being used. Standard
+dextrose concentrations (1.5%, 2.5%, and 4.25%) are uti-
+lized, depending on the need for ultrafiltration. Enhanced
+glucose absorption in small children occasionally warrants 
+higher glucose concentration to maintain ultrafiltration,
+although short-dwell dialysis is usually preferred in that
+situation. Amino acid–containing PD solution is tolerated
+in children, although there remains a greater reliance on
+supplemental tube feeding in infants and young children.
+Daugirdas9781451144291-ch037.indd   700 09/10/14   1:44 am
+701Chapter 37 / Dialysis in Infants and Children 
+Icodextrin-containing solutions have been used in children 
+for long dwells to limit peritoneal glucose exposure. Neutral 
+pH solutions of pure bicarbonate or a bicarbonate/lactate 
+combination have been shown to be safe in children and 
+offer the potential benefit of protection of peritoneal mem-
+brane integrity. The long-term impact of new solutions on 
+acid–base and nutritional status is still unclear, and their 
+role in chronic care of pediatric PD patients is still to be 
+determined.
+2. PD catheters are available in neonatal and pediatric sizes
+of almost any configuration used in adults, including
+Tenckhoff (curled and straight), swan-neck, and Toronto-
+Western, usually with a choice of one or two cuffs. Most
+commonly placed in children is a curled Tenckhoff cath -
+eter with a straight tunnel; North American Pediatric Renal 
+Trials and Collaborative Studies data suggest a benefit to
+double-cuffed catheters and downward-oriented exit sites
+in decreasing peritonitis rates.
+a. Implantation. Chronic catheters are almost invariably
+implanted surgically in pediatric patients under general
+anesthesia. Laparoscopic placement is preferred if sur -
+gical experience is available. Laparoscopic technique
+allows the surgeon to see that the catheter is placed
+in an optimal position, and it minimizes incision size
+and healing time. Several technical points appear to be
+important:
+1.
+Sealing the peritoneum around the catheter (to pre-
+vent leakage) by use of a pursestring suture, which is
+also affixed to the cuff. The exit site should be directed 
+caudally, as shown in Figure 37.1, to facilitate drainage 
+and to minimize the risk of exit site infection.
+2.
+Use of a second pursestring suture to seal the poste-
+rior rectus sheath opening and fix the posterior rectus 
+sheath to the upper part of the cuff (to prevent leakage 
+and displacement; this is not shown in Fig. 37.1).
+3.
+Performance of a partial omentectomy (to prevent
+obstruction)
+4.
+Intraoperative search for and closure of associated
+hernial defects, especially a patent tunica vaginalis.
+5.
+Intraoperative testing of the catheter to verify that
+there is free inflow and outflow of dialysate.
+We try to allow 2 weeks for healing of the abdomen 
+before using the catheter. It can be used immediately for 
+acute PD or unanticipated clinical deterioration in CKD  
+but one risks early leakage. Small exchange volumes and 
+performance of APD in the supine position may help 
+avoid dialysate leakage.
+b. Acute “temporary” catheters can be placed after prefill -
+ing the abdomen with dialysate as in adults (see Chapter 
+23 for description of the technique in adults). Older acute 
+PD catheters were much stiffer than chronic catheters,
+Daugirdas9781451144291-ch037.indd   701 09/10/14   1:44 am
+Part IV / Clinical Problem Areas
+702
+conferring a greater risk of bowel injury. Newer, more 
+flexible acute PD catheters have been developed, and 
+some have reported success with their use with a low 
+leakage and infection rate. However, most centers uti -
+lize a surgically implanted chronic PD catheter for acute 
+peritoneal dialysis, placing it at bedside in the intensive 
+care unit in the most unstable patients.
+3. APD cyclers have facilitated PD in young patients, and all 
+available cyclers permit sufficiently small exchange vol -
+umes to be used even in infants. Pediatric cycler tubing is 
+available for some models of cyclers; it helps reduce dialy-
+sis inefficiency due to dead space in the tubing, which is 
+an important consideration with very small dwell volumes 
+(<200 mL).
+D. Chronic peritoneal dialysis prescription
+1. Continuous ambulatory peritoneal dialysis (CAPD).  The technique 
+for performing CAPD in the pediatric patient is similar 
+to that in adults. Fill volumes are determined by patient 
+comfort, but most children can tolerate 40–50 mL/kg or 
+800–1,100 mL/m2 without discomfort or leakage once their 
+catheter exit site is well healed, although this may require 
+assessment of intraperitoneal pressure. The choice of glu-
+cose concentration depends on ultrafiltration needs ( fluid 
+intake minus urine output and insensible losses).
+FIGURE 37.1 One method of implanting a peritoneal catheter in children. The pursestring 
+suture used to seal the peritoneum includes the catheter cuff. A second pursestring 
+suture (not shown) may also be used as described in the text to seal the posterior rectus 
+sheath.  (Modified from Alexander SR, et al. Clinical parameters in continuous ambula-
+tory peritoneal dialysis for infants and children. In: Moncrief JW, Popovich RP , eds. CAPD 
+update. New York, NY: Masson, 1981.)
+Daugirdas9781451144291-ch037.indd   702 09/10/14   1:44 am
+703Chapter 37 / Dialysis in Infants and Children 
+a. Kinetic modeling of CAPD as Kt/V-urea and creatinine 
+clearance has been performed in children; however, out-
+come data to define adequate clearance are not avail-
+able. The NKF KDOQI (2006 update) recommendation 
+for adequate CAPD in children is a weekly Kt/V-urea of 
+1.8 per week; if residual renal function contributes to this 
+clearance, it should be measured regularly. Collections 
+of effluent dialysate and residual urine output (in con-
+tinent patients with normal bladder function) are used 
+to ensure that target clearance values are being achieved 
+and that loss of kidney function is not compromising the 
+adequacy of therapy. Patients unable to perform urine 
+collections should be assumed to have no residual GFR 
+to avoid inadvertent underdialysis. Many patients can 
+achieve acceptable clearance and ultrafiltration with 
+four exchanges per day; some will require more. The 
+risk of noncompliance with the dialysis prescription 
+and missing exchanges increases as the task of dialysis 
+becomes more burdensome and intrudes on usual fam-
+ily activities.
+2. APD is well suited for chronic PD in children, accommo -
+dating their efficient solute exchange and higher risk of 
+ peritonitis. APD can be performed without a daytime dwell 
+(nightly intermittent peritoneal dialysis, NIPD), with a day-
+time dwell (continuous cycling peritoneal dialysis, CCPD), 
+or with a daytime dwell and midday exchange if solute 
+clearance or fluid removal necessitate. The daytime dwell 
+is recommended to improve middle molecule clearance in 
+those patients without residual renal function. NIPD may 
+allow improved nutritional intake and decrease the risk of 
+hernia formation, but clearance will likely be adequate only 
+in patients with high or high-average transport as mea-
+sured by PET or those with residual renal function. The day 
+dwell of CCPD may allow one to shorten nightly treatments 
+(desirable in older children) or improve clearance for low 
+and low-average transporters; yet high transporters usually 
+absorb most of their long dwell if it is left in all day. The 
+initial prescription is guided by transport characteristics 
+determined by PET, typically ranging from four to eight 
+exchanges per night with dwell times of 45 minutes to 2 
+hours.
+a. Kinetic modeling.  Although kinetic modeling of PD deliv-
+ery has been performed in children treated by CCPD and 
+NIPD, outcome data to define adequate clearance are not 
+available. Target clearance (peritoneal and renal) is the 
+same as for CAPD, a weekly Kt/V-urea of 1.8. Dialysate 
+and urine collections are performed to assess the actual 
+delivered dialysis dose at a given prescription. Collections 
+are repeated whenever the prescription is changed and 
+at regular intervals to assess changes in residual renal 
+function and peritoneal transport function. In practice, 
+Daugirdas9781451144291-ch037.indd   703 09/10/14   1:44 am
+Part IV / Clinical Problem Areas
+704
+young children with PET-defined high or high-average 
+permeability peritoneal membranes can almost always 
+exceed these values, particularly if there is residual renal 
+function. Older children with low-average permeability 
+peritoneal membranes and without residual renal func -
+tion often require a midday exchange to achieve accept -
+able clearances.
+3. T idal dialysis  is used in children; it can enhance clearance in 
+patients with borderline values for Kt/V who might other -
+wise need to change modalities. Children with abdominal 
+pain at the end of a drain may be more comfortable using 
+tidal dialysis with less frequent complete drains. Tidal ther-
+apy is unwise in infants because of the risk of overfilling of 
+the abdomen with respiratory compromise when the child 
+cannot alert caregivers to distress.
+E. Chronic hemodialysis.  Chronic hemodialysis is the appropri-
+ate modality for children and families not capable of provid -
+ing reliable home care. Furthermore, large adolescents with 
+low-permeability peritoneal membranes may not achieve 
+adequate clearance on PD without a burdensome exchange 
+schedule, and such adolescents are appropriate candidates for 
+hemodialysis. Because hemodialysis treatments take children 
+out of usual activities (school and play), a hemodialysis unit 
+must provide intensive nursing, tutoring, and play therapy 
+during dialysis treatments.
+1. Hemodialysis equipment
+a. Vascular access. Vascular access remains a major limita-
+tion to successful hemodialysis in small children. Placing 
+and maintaining permanent accesses in small vessels 
+requires experienced and dedicated surgeons and radi -
+ologists. Vascular catheters can be placed by interven-
+tional radiologists or surgeons depending on the best 
+experience available in an institution. A conservative 
+strategy for permanent access is critical because of the 
+lifelong need for renal replacement therapy. Some young 
+adults leave pediatric dialysis units after many years of 
+hemodialysis treatments (with interval failed renal trans-
+plants), and one must ensure they have not depleted all 
+options for long-term vascular access.
+1. Catheters (Table 37.2). Available double-lumen hemo-
+dialysis catheters range from 7 F to 14 F in lengths 
+appropriate for small children through older adoles-
+cents. Both temporary and permanent catheters are 
+available, and precurved models for internal jugular 
+cannulation are available in larger sizes. The catheter 
+tip should be radiologically positioned in the junction 
+of the superior vena cava and right atrium.
+In small infants and neonates, single-lumen cath-
+eters may be more appropriate considering vessel size. 
+In neonates, a catheter can be inserted into the vena 
+cava through the umbilical vessel if the vessel is still 
+Daugirdas9781451144291-ch037.indd   704 09/10/14   1:44 am
+705Chapter 37 / Dialysis in Infants and Children 
+patent. Most of these catheters can be left in place for 
+several weeks.
+2. Fistulas and grafts.  In older children, creation of an 
+arteriovenous fistula between the radial artery and 
+cephalic vein in the nondominant arm with an end-
+to-side anastomosis is a common mode of vascular 
+access. When blood vessel size is too small for con-
+structing an adequate fistula, a polytetrafluoroethyl-
+ene (GoreTex or Impra) graft can be placed between an 
+extremity artery and vein. Children with myelomenin-
+gocele may prefer a graft placed in the thigh because 
+of absent sensation if the vasculature is sufficiently 
+developed to support that. Lower extremity grafts 
+allow unimpeded play or schoolwork during dialysis 
+treatments, but risk leg edema and hypertrophy.
+3. Blood flows. Desired blood flow rate is targeted to urea 
+clearance specifications for a chosen dialyzer. In a 
+patient with advanced uremia, an initial urea clearance 
+of 3 mL/min per kg is prudent to avoid symptomatic 
+disequilibrium; higher urea removal rates are usually 
+tolerated after the first few treatments. Smaller blood 
+vessels cause higher venous resistance than in adults, 
+which eventually limits flow, typically in the range of 
+50–150 mL/min in small children and 200–350 mL/
+min in older children. Small catheters often limit flow 
+to 25–100 mL/min because of limited arterial inflow.
+b. Dialyzers. A limited listing of dialyzers that may be appro-
+priate for small patients is provided (Table 37.1).
+c. Blood lines. Appropriately sized blood lines allow control 
+of circuit volume. If the volume of the entire extracor -
+poreal circuit exceeds 10% of the patient's blood  volume 
+(>8 mL/kg), a warmed blood (or albumin) prime is 
+ usually given to ensure hemodynamic stability. Small 
+volume blood lines have become more difficult to find 
+in an era of integrated hemodialysis machines. If small 
+volume lines are chosen, it is important that the blood 
+pump be properly calibrated for the chosen lines. Neona-
+tal lines are not compatible with most currently available 
+volumetric dialysis machines.
+d. Dialysis solution.  Bicarbonate dialysis solution is stan -
+dard for pediatric hemodialysis; it provides better 
+hemodynamic stability and fewer intradialytic symp -
+toms. Patients with small muscle mass will be unable to 
+metabolize a large acetate load quickly.
+e. Dialysis machines.  Dialysis machines that provide 
+ volumetric ultrafiltration control are required. Small 
+errors in ultrafiltration volume (of a few hundred milli -
+liters) may cause symptomatic hypotension or chronic 
+volume overload. Blood flows must be accurate within 
+the range of 30–300 mL/min, and the blood pump 
+ calibrated to different size lines.
+Daugirdas9781451144291-ch037.indd   705 09/10/14   1:44 am
+Part IV / Clinical Problem Areas
+706
+2. Hemodialysis prescription.  Small patients require a cautious 
+approach to avoid disequilibrium by targeting urea clear -
+ance of 3 mL/min per kg, which is calculated from the 
+specifications of the chosen dialyzer and the blood flow 
+attainable through the patient's access. Early treatments 
+may be programmed even more slowly if the patient is 
+very uremic; repeated short treatments are usually advis -
+able during initiation of hemodialysis when the BUN 
+is extremely elevated. Once a stable, chronic dialysis 
+ prescription is attained, more efficient urea clearance is 
+usually well tolerated, and fluid removal is more often 
+a cause of intradialytic symptoms. With conditioning 
+and distraction, most children can tolerate hemodialysis 
+ sessions lasting 2–4 hours.
+a. Anticoagulation. The strategy for heparin administra -
+tion to infants and children is similar to that for adults. 
+Clotting is infrequent when the ACT is prolonged to 
+approximately 150% of the population baseline value. A 
+“low-dose” heparin protocol would be used to prolong 
+the clotting time to 125% of the population baseline 
+value. The initial loading dosage is usually 10–20 units/
+kg, with higher dosages being used for infants and chil-
+dren weighing <15 kg. The initial maintenance heparin 
+infusion rate ( for the first 20–30 minutes) can be set at 
+0.3–0.5 units/kg/min, with further adjustments based on 
+changes in the ACT. Low molecular weight heparin has 
+been used in children receiving chronic hemodialysis. 
+Heparin-induced thrombocytopenia occurs in children, 
+and anticoagulation has been successful with dan -
+aparoid, hirudin, and argatroban, although published 
+reports are few.
+In older children, heparin-free dialysis can be per -
+formed successfully. Different dialyzer membrane types 
+have not been systematically compared with regard to 
+clotting. Clotting will be more likely in smaller children, 
+in whom the blood flow rate is usually low relative to 
+the size of the dialyzer. Intermittent saline flushes of the 
+dialysis circuit will result in excessive volume adminis-
+tration in small children unless removal of excess fluid 
+by ultrafiltration is carried out simultaneously.
+b. Kinetic modeling of hemodialysis.  Formal three-point urea 
+kinetic modeling of hemodialysis has been performed in 
+children, and results are useful in assessing the efficiency 
+of the dialysis treatment as well as dietary protein intake 
+(as a function of urea generation rate) during the inter -
+dialytic period. Recommended dietary protein intake in 
+children is greater than that in adults, and the long-term 
+effects of inadequate intake on growth and neurologic 
+development are of even greater concern. The techni -
+cal aspects of kinetic modeling are discussed in Chapter 
+3 and are applied similarly in children. The slow-flow 
+Daugirdas9781451144291-ch037.indd   706 09/10/14   1:44 am
+707Chapter 37 / Dialysis in Infants and Children 
+technique for blood sampling is important for accurate 
+measurement, and the duration of slow flow is deter -
+mined by the volume of the blood line from the needle 
+or catheter to the sampling port. Pediatric blood lines 
+can be adequately cleared by a slow-flow rate (60 mL/
+min) for 17 seconds; we predict infant lines will require 
+12 seconds at a slow-flow rate of 20 mL/min. The greater 
+reliance on catheters in pediatric dialysis raises concern 
+that recirculation will diminish treatment efficiency.
+c. Adequacy of hemodialysis. When small patients receive effi-
+cient clearance (i.e., relatively high K/V), there is a greater 
+amount of postdialysis urea rebound with reequilibra-
+tion of urea from either the intracellular space or rela-
+tively underperfused tissues. Thus, single-pool modeling 
+overestimates dose of dialysis and urea generation rate. 
+The NKF KDOQI 2006 recommendation in adults is for 
+a minimum delivered dialysis dose of a single-pool Kt/V 
+= 1.2. The guidelines recommend using single-pool Kt/V 
+to guide therapy, but to increase the minimum dose 
+for smaller patients, including children. A minimum 
+spKt/V value of 1.4–1.5 would seem to be appropriate 
+for children, and in practice, such a minimum value is 
+easily achievable. Equilibrated Kt/V is recommended 
+by the European Best Practice Guidelines, and this can 
+be derived from single-pool Kt/V and the rate of dialy-
+sis using the Tattersall equation described in Chapter 
+3. Yet another approach is to extrapolate from a postdi-
+alysis sample taken 15 minutes after dialysis (Goldstein, 
+1999). Whether spKt/V or equilibrated Kt/V is used to 
+target dose, it is prudent to err on the side of providing 
+more therapy when treating this vulnerable population. 
+Small children have a high surface area to total body 
+water ratio, and alternative scaling of hemodialysis dose 
+to body surface area would require even higher doses 
+of Kt/V (Daugirdas, 2010). Residual renal function can 
+significantly impact the hemodialysis prescription, espe-
+cially in very small patients. Regular measurements are 
+needed to ensure overall treatment adequacy as the GFR 
+falls. If patients are unable to perform urine collections, 
+they should be assumed to have no residual GFR to avoid 
+inadvertent underdialysis.
+d. Complications
+1. Disequilibrium and seizures.  Infants and small children 
+develop seizures as a manifestation of the disequi-
+librium syndrome more commonly than adults. For 
+this reason, the blood flow rate and session length 
+are usually limited for the first few treatments. Overly 
+rapid urea removal is generally avoided by choos-
+ing an appropriately sized dialyzer and blood flow 
+rate to provide 3 mL/min per kg urea clearance for 
+the initial treatments; often, blood flows are limited 
+Daugirdas9781451144291-ch037.indd   707 09/10/14   1:44 am
+Part IV / Clinical Problem Areas
+708
+by the caliber of the dialysis access. Other measures 
+sometimes utilized to help prevent disequilibrium 
+syndrome include keeping the dialysate sodium at or 
+slightly above the plasma level and the prophylactic 
+infusion of mannitol (0.5–1.0 g/kg body weight) dur -
+ing the hemodialysis session.
+2. Hypotension. Intradialytic hypotension and cramping 
+with fluid removal >5% of body weight are  common, 
+yet interdialytic weight gains can be large in anuric 
+children on largely liquid diets and in  noncompliant 
+adolescents, resulting in sustained interdialytic hyper-
+tension. Volume removal must be closely monitored 
+because blood pressure is normally lower in children 
+than in adults and there is a narrower margin to hypo-
+tension. Infants and very young children are prone to 
+precipitous falls in blood pressure with no warning 
+and no ability to communicate distress. Isolated ultra-
+filtration or lower dialysate temperature may make 
+fluid removal more tolerable. If hypoalbuminemia is 
+present, intravenous albumin infusion (0.5–1.5 g/kg) 
+will increase oncotic pressure and may permit ultra-
+filtration. Repeated treatments may be the only way to 
+remove fluid safely, and small children often require 
+four or five treatments per week for fluid and blood 
+pressure management.
+3. Hypothermia with isolated ultrafiltration.  If warmed dialy-
+sis solution is not circulated, then the extracorpo-
+real blood circuit will function as a radiator, cooling 
+the blood and the child. Body temperature should 
+be monitored throughout dialysis, especially during 
+ isolated ultrafiltration.
+ III. CARE OF THE PEDIATRIC ESKD PATIENT
+A. Nutrition. Comprehensive nutritional management is impor -
+tant for the achievement of growth and physical development 
+through ESKD. The recommended energy intakes for pediat -
+ric dialysis patients depend on their ages and should be the 
+same as the estimated energy requirement (EER) for their non-
+uremic counterparts. For infants, the EER for energy is approx-
+imately 100 kcal/kg per day. Such high intakes usually require 
+supplementation, and gavage feeding is standard practice to 
+avoid undernutrition and growth failure. In older children, 
+obesity has become a greater concern and can adversely affect 
+posttransplant outcomes; thus nutrition counseling in this age 
+group will be markedly different than in infants and toddlers.
+Protein requirements for children depend on their age 
+and are greater than those in adults. The daily recommended 
+intake (DRI) of protein for pediatric dialysis patients is the 
+same as that for their nonuremic counterparts plus an esti-
+mate of amino acids and protein lost through dialysis. There is 
+an emphasis on the early use of supplements, both orally and 
+Daugirdas9781451144291-ch037.indd   708 09/10/14   1:44 am
+709Chapter 37 / Dialysis in Infants and Children 
+through gastrostomy tubes. There is limited experience with 
+the use of amino acid–containing PD fluids, although individ-
+ual patients have been treated for up to a year.
+Supplementation of water-soluble vitamins is routine 
+practice for children treated with chronic PD or hemodialysis. 
+Fat-soluble vitamins should not be supplemented as clearance 
+of vitamin A metabolites is impaired, risking hypervitaminosis 
+A; an appropriate multivitamin not containing vitamin A must 
+be selected.
+It is difficult to impose fluid, sodium, phosphate, and 
+potassium restrictions on pediatric patients; however, such 
+restrictions may be unnecessary when PD is the treatment 
+modality. Potassium and phosphorus binders are almost 
+always required for adolescents, yet some infants receiving 
+efficient dialysis will require supplementation. For hemodialy-
+sis patients, restrictions depend on the amount of residual uri-
+nary output, but always require individual dietary guidance to 
+achieve stringent fluid, sodium, and potassium intake. Infants 
+pose a particular challenge; daily fluid intake in an anuric 
+infant on hemodialysis should be limited to 400–500 mL/m 2, 
+and formula should be concentrated and appropriately supple-
+mented to achieve nutritional goals. However, polyuric infants 
+will require supplemental fluid and sodium to maintain vol -
+ume status and permit growth.
+Enteral feeding supplements designed for adults should 
+be used cautiously in young children. Fortunately a whey-based 
+infant formula lower in phosphorus and potassium is available; 
+infants with formula allergies and intolerances present special 
+challenges. Oral hypersensitivity and food avoidance are com-
+mon in infants and young children, and carefully timed solid 
+food introduction with speech therapy is usually necessary.
+B. Hypertension. Hypertension is a particular concern given the 
+accelerated rate of cardiovascular disease in children with 
+CKD. Attention is directed to the maintenance of normal vol-
+ume status and age-appropriate blood pressure. High blood 
+pressure in children undergoing PD is usually the result of 
+incorrect dialysate glucose concentrations chosen at home 
+coupled with excessive sodium and fluid intake; it is usually 
+managed with dietary counseling, parent education, and close 
+monitoring of weight and blood pressure at home. In hemodi-
+alysis patients, hypertension may be the result of inadequate 
+fluid removal during dialysis and nonadherence to sodium 
+and fluid restrictions. In patients who remain hypertensive 
+despite increased dialysis time, lowered dialysate tempera -
+ture or isolated ultrafiltration may make volume removal 
+more tolerable. Dietary and psychological counseling for the 
+patient and family are advisable in cases of repeated nonad-
+herence as this may reflect more serious difficulties in cop-
+ing with the chronic disease process. Some patients remain 
+hypertensive despite apparent euvolemia, and antihyperten-
+sive medications are indicated. All antihypertensive agents 
+Daugirdas9781451144291-ch037.indd   709 09/10/14   1:44 am
+Part IV / Clinical Problem Areas
+710
+typically prescribed for adults have been used successfully in 
+pediatric dialysis patients, and doses should be titrated to age- 
+appropriate blood pressure targets and reassessed frequently.
+C. Anemia. Children undergoing hemodialysis tend to be anemic 
+more often than adults and have a lower hemoglobin at the 
+initiation of dialysis. Children respond well to erythropoietin; 
+the indications, route of administration, and potential com -
+plications are similar for children and adults. Dosage per kilo-
+gram is often higher in very young children (150–300 units/
+kg per week) than in adults. Iron deficiency and repeated 
+episodes of peritonitis adversely affect the erythropoietin 
+response, and nonadherence to home therapy is occasionally 
+a problem. Iron supplementation, either intravenous or oral, is 
+usually necessary in pediatric ESKD patients; blood loss in the 
+hemodialysis circuit is an important cause of iron deficiency 
+in very small patients, especially when more than three treat-
+ments per week are prescribed. Androgen therapy, rarely used 
+in adults, is contraindicated in prepubertal children because it 
+will lead to premature closure of epiphyses.
+D. Growth. Few longitudinal studies describing growth in pediat -
+ric patients undergoing CAPD or APD have been undertaken. 
+Initial data comparing growth with CAPD or APD with that 
+obtained with hemodialysis seemed to favor the PD approach; 
+however, definitive controlled studies have not been per -
+formed. In children undergoing CAPD or APD, improvement 
+in growth has been linked to a reduction in the degree of sec-
+ondary hyperparathyroidism. Others have attributed better 
+growth with CAPD or APD to improved nutritional intake, but 
+increasing energy intake much above the EER will not usually 
+be of benefit.
+1. Recombinant human growth hormone (rhGH) therapy.  There is 
+ evidence that rhGH treatment increases growth rate in 
+children receiving chronic dialysis, although not as effec-
+tively as in children with nondialysis CKD. The usual dos-
+age is 0.05 mg/kg per day or 30 IU/m2 per week as a nightly 
+subcutaneous injection, although other dosing strategies 
+have been used. Slipped capital femoral epiphyses and 
+worsening of metabolic bone disease may occur with rhGH; 
+secondary hyperparathyroidism should be controlled prior 
+to initiation of therapy. Growth hormone therapy is often 
+paused at the time of renal transplantation, and growth 
+velocity reassessed with a functioning allograft. Glucocor -
+ticoid minimization or withdrawal is integral to successful 
+growth after transplant.
+2. Acidosis. Metabolic acidosis is common in children with 
+ESKD and is more problematic in those receiving hemo-
+dialysis than those treated with PD. Chronic acidosis may 
+impair growth by affecting bone mineralization through 
+the growth hormone/insulin-like growth factor-1 axis, as 
+well as exerting a catabolic effect on lean body mass. Some 
+pediatric patients benefit from oral sodium bicarbonate 
+Daugirdas9781451144291-ch037.indd   710 09/10/14   1:44 am
+711Chapter 37 / Dialysis in Infants and Children 
+or sodium citrate therapy or higher dialysate bicarbonate 
+concentrations to maintain a serum bicarbonate concen -
+tration ≥22 mmol/L.
+3. Renal osteodystrophy . Renal osteodystrophy can be amelio -
+rated in children undergoing dialysis treatment by good 
+control of serum calcium, phosphorus, bicarbonate, intact 
+parathyroid hormone, and alkaline phosphatase levels. 
+Calcitriol and vitamin D analogs are used to treat hyper -
+parathyroidism and associated bone disease. There are 
+small series reporting the use of cinacalcet in children, 
+but there is little guidance regarding dosing or outcomes 
+in the youngest patients. Hyperphosphatemia should be 
+ controlled by dietary manipulation and by oral adminis -
+tration of phosphate binders to an age-appropriate serum 
+phosphorus level. Phosphorus intake is targeted at or 
+below the DRI for age with greater restriction in patients 
+with hyperphosphatemia or hyperparathyroidism.  Calcium 
+carbonate and calcium acetate have long been used as 
+phosphate binders, but sevelamer is a good choice even 
+in infants and young children because of a greater aware-
+ness of the risks of calcium overload and recognition of 
+early cardiac calcification in adolescents and young adults 
+with ESKD. Calcium acetate is available in a liquid formu-
+lation, and sevelamer is available in powder, which have 
+facilitated dosing in infants and young children. The use 
+of aluminum-containing phosphate binders should be 
+avoided in infants and young children with CKD because of 
+bone and neurotoxicity. There are no long-term data on the 
+safety of lanthanum in children.
+References and Suggested Readings
+Ashkenazi DJ, et al. Continuous renal replacement therapy in children ≤10 kg: a report 
+from the prospective pediatric continuous renal replacement therapy  registry. 
+J Pediatr. 2013;162:587–592.
+Canepa A, et al. Use of new peritoneal dialysis solutions in children. Kidney Int.  
+2008;73:S137–S144.
+Daugirdas JT, et al. Dose of dialysis based on body surface area is markedly less in 
+younger children than in older adolescents. Clin J Am Soc Nephrol. 2010;5:821–827.
+Dolan NM, et al. Ventriculoperitoneal shunts in children on peritoneal dialysis: a sur-
+vey of the International Pediatric Peritoneal Dialysis Network. Pediatr Nephrol.  
+2013;28:315–319.
+Fischbach M, Warady, B. Peritoneal dialysis prescription in children: bedside  principles 
+for optimal practice. Pediatr Nephrol. 2009;24:1633–1642.
+Furth SL, et al. Peritoneal dialysis catheter infections and peritonitis in children: a 
+report of the North American Pediatric Renal Transplant Cooperative Study. 
+ Pediatr Nephrol. 2000;15:179–182.
+Goldstein SL, et al. Evaluation and prediction of urea rebound and equilibrated Kt/V in 
+the pediatric hemodialysis population. Am J Kidney Dis. 1999;34:49–54.
+Goldstein SL, et al. Quality of life for children with chronic kidney disease. Semin 
+Nephrol. 2006;26:114–117.
+Gorman G, et al. Clinical outcomes and dialysis adequacy in adolescent hemo dialysis 
+patients. Am J Kidney Dis. 2006;47:285–293.
+Hackbarth RM, et al. Zero balance ultrafiltration (Z-BUF) in blood-primed CRRT cir -
+cuits achieves electrolyte and acid-base homeostasis prior to patient connection. 
+Pediatr Nephrol. 2005;20:1328–1333.
+Daugirdas9781451144291-ch037.indd   711 09/10/14   1:44 am
+Part IV / Clinical Problem Areas
+712
+Kidney Disease Improving Global Outcomes. Clinical practice guildeline for 
+chronic kidney disease-mineral and bone disorder (CKD-MBD). Kidney Int.  
+2009; 76(suppl 113):S1–S130.
+Kidney Disease Improving Global Outcomes. Clinical practice guildeline for acute kid-
+ney injury. Kidney Int. 2012;2(suppl 1):1–138.
+Kramer AM, et al. Demographics of blood pressure and hypertension in children on 
+renal replacement therapy in Europe. Kidney Int. 2011;80:1092–1098.
+Mendley SR. Acute dialysis in children. In: Henrich WL, ed. Principles and Practice of 
+Dialysis, 4th ed. Philadelphia, PA: Lippincott Williams & Wilkins; 2009:641–652.
+Monagle P , et al. Antithrombotic therapy in children: the Seventh ACCP  Conference 
+on antithrombotic and thrombolytic therapy. Chest. 2004;126(suppl 3):645S–687S.
+National Kidney Foundation. KDOQI clinical practice guidelines for hemodialysis 
+adequacy, update 2006. Guideline 8. Pediatric hemodialysis prescription and ade-
+quacy. Am J Kidney Dis. 2006;48(suppl 1):S45–S47.
+National Kidney Foundation. KDOQI clinical practice guidelines for peritoneal dialysis 
+adequacy, update 2006. Guideline 6. Pediatric peritoneal dialysis. Am J Kidney Dis. 
+2006;48(suppl 1): S127–S129.
+Rees L, et al. Growth in very young children undergoing chronic peritoneal dialysis. 
+J Am Soc Nephrol. 2011;22:2303–2312.
+Schaefer F, et al. Peritoneal transport properties and dialysis dose affect growth and 
+nutritional status in children on chronic peritoneal dialysis. Mid-European Pedi-
+atric PD Study Group. J Am Soc Nephrol. 1999;10:1786–1792.
+Shmitt CP , et al. Effect of the dialysis fluid buffer on peritoneal membrane function in 
+children. Clin J Am Soc Nephrol. 2013;8:108–115.
+Smye SW , et al. Paediatric haemodialysis: estimation of treatment efficiency in the 
+presence of urea rebound. Clin Phys Physiol Meas. 1992;13:51–62.
+Sutherland SM, et al. Fluid overload and mortality in children receiving continuous 
+renal replacement therapy: the prospective pediatric continuous renal replace-
+ment therapy registry. Am J Kidney Dis. 2010;55:316–325.
+Symons JM, et al. Continuous renal replacement therapy with an automated monitor 
+is superior to a free-flow system during extracorporeal life support. Pediatr Crit 
+Care Med. 2013;14:e404–e408.
+Warady B, et al. Pediatric Dialysis. Dordrecht: Kluwer Academic; 2004.
+Warady BA, et al. Consensus guidelines for the prevention and treatment of 
+ catheter-related infections and peritonitis in pediatric patients receiving perito-
+neal dialysis: 2012 update. Perit Dial Int. 2012;32(suppl 2):S32–S86.
+Web References
+North American Pediatric Renal Trials and Collaborative Studies Annual Dialysis: 
+https://web.emmes.com/study/ped/annlrept/annualrept2011.pdf.
+Pediatric Continuous Renal Replacement Therapy website: http://www.pcrrt.com/.
+Daugirdas9781451144291-ch037.indd   712 09/10/14   1:44 am

@@ -1,0 +1,376 @@
+528
+Psychosocial Issues
+Scott D. Cohen, Daniel Cukor, and  
+Paul L. Kimmel
+Patients with end stage kidney disease (ESKD) are affected by 
+numerous psychosocial stressors. These include effects of illness and 
+treatment, functional limitations and sexual dysfunction, dietary 
+restrictions, time constraints, and fear of death. In addition, there 
+may be marital conflict, strained interpersonal relationships with 
+family and administrative or medical personnel, and socioeconomic 
+concerns regarding costs of treatment and unemployment.
+Approximately 10% of ESKD patients who are hospitalized 
+have an underlying psychiatric disorder. Hospitalization rates for 
+ psychiatric disorders are high relative to other chronically ill patients. 
+Common problems include depression, dementia and delirium, 
+ psychosis, personality and anxiety disorders, and substance abuse.
+ I. DEPRESSION. D epression is the most common, as well as the 
+most important, problem because of the risk of resulting non-
+compliance with the dialysis and/or medication regimen and the 
+risk of suicide. Depression may be widely underdiagnosed and 
+untreated. According to the most recent version of the Diagnos -
+tic and Statistical Manual for Mental Disorder (DSM 5), a major 
+depressive disorder should be diagnosed if, during a period of at 
+least 2 weeks, a patient experiences depressed mood nearly every 
+day or loss of interest/pleasure in usual activities and at least 
+four of the following additional symptoms: (a) significant weight 
+loss or weight gain or appetite disturbance, (b) change in sleep 
+pattern, including insomnia or hypersomnia, (c) psychomotor 
+agitation or retardation, (d) fatigue, (e) feelings of worthlessness 
+or excessive guilt, (f ) decreased concentration, or (g) recurring 
+thoughts of death or suicide. The last criterion, (g), is prob-
+ably the most specific, as some of the others are associated with 
+ uremia per se.
+Some investigators have estimated that depression occurs in 
+as many as 10%–50% of dialysis patients. Screening tools include 
+the Beck Depression Inventory (BDI) and the Hamilton Rating 
+Scale for Depression. In patients with no underlying medical 
+problems, a BDI score <9 suggests no or minimal depression, 
+10–18 indicates mild to moderate depression, 19–29 moderate 
+30
+Daugirdas9781451144291-ch030.indd   528 09/10/14   1:37 am
+529Chapter 30 / Psychosocial Issues
+to severe depression, and ≥30 severe depression. In patients with 
+ESKD, the recommended cutoff scores for depression are higher, 
+with BDI scores ≥14–16 indicating significant disease.
+Screening for underlying depression in the dialysis popula-
+tion is an important element of the treatment plan. Depressive 
+affect can influence medical outcomes in several ways. In addi-
+tion to the risk of suicide, depression may lead to poor compli-
+ance with the dialysis prescription, to abnormal immunologic 
+function, or to anorexia and poor nutritional status. Depressive 
+affect has also been linked to a higher incidence of peritonitis. 
+Whether depression increases mortality risk is controversial. 
+Some studies have suggested that baseline depressive symptom-
+atology is associated with increased mortality, even after 
+ multiple 
+medical risk factors have been accounted for in analyses.
+ESKD patients can display suicidal behavior differently 
+from patients with other chronic illnesses. Their rate of suicide 
+is higher than in the general U.S. population. Important risk fac-
+tors include a previous history of mental illness, recent hospital -
+ization, age >75, male gender, white or Asian race, and alcohol 
+or drug dependence. ESKD patients presumably can commit or 
+attempt suicide more easily either through noncompliance with 
+their medical regimen or by manipulating their dialysis access 
+sites.
+A. Treatment options.  Treatment options for depression include 
+pharmacotherapy, psychotherapy, including cognitive behav -
+ioral therapy, and electroconvulsive therapy. Unfortunately, 
+there are limited data on the effects of antidepressants in 
+patients with ESKD, since these patients are often excluded 
+from many of the large clinical trials.
+1. Pharmacotherapy
+a. Selective serotonin reuptake inhibitors (SSRIs) and tricyclic
+ antidepressants (TCAs).  Treatment with SSRIs should
+be continued for at least 4–6 weeks before deciding
+whether there has been a therapeutic benefit. If efficacy
+is not achieved, then a switch to another antidepressant 
+of the same class or a different class is a reasonable step. 
+SSRIs are advantageous because they typically cause
+fewer anticholinergic symptoms than TCAs, and are not
+associated with cardiac conduction abnormalities. Fur -
+thermore, TCAs can cause death if taken in large doses
+and hence pose a potential suicide risk. However, there
+is a potential for increased bleeding in patients taking
+SSRIs, which may be relevant to patients with ESKD
+and preexisting qualitative platelet defects from uremia. 
+SSRIs may also worsen nausea and vomiting, which are
+ common symptoms in the dialysis patient population.
+Typically, SSRIs are cleared by the liver and are 
+highly protein bound. It has been recommended that the 
+dose of SSRI in patients with ESKD should be reduced 
+to two-thirds of the usual amount. SSRIs may have an 
+additional benefit of reducing postural and intradialytic 
+Daugirdas9781451144291-ch030.indd   529 09/10/14   1:37 am
+Part IV / Clinical Problem Areas
+530
+hypotension through effects on vascular tone. Fluox -
+etine, the first available SSRI, is the best studied drug in 
+this family. A dose of 20 mg of fluoxetine daily is usually 
+well tolerated, although data are limited to the short 
+term. Other medications in this same family include par-
+oxetine, sertraline, and citalopram.
+b. Selective norepinephrine reuptake inhibitors (SNRIs).  Venla -
+faxine and bupropion hydrochloride are examples of
+a different class of antidepressants called SNRIs. The
+SNRIs should be used with caution in ESKD patients,
+since these drugs are primarily renally excreted. Bupro-
+pion has active metabolites that are almost completely
+removed by the kidney. These metabolites may accumu-
+late in dialysis patients, predisposing them to developing 
+seizures.
+c. Monoamine oxidase inhibitors (MAOIs).  MAOIs have numer -
+ous side effects and should be avoided if possible in
+ESKD patients, because of their potential to cause
+hypotension.
+2. Nonpharmacologic options. There are several forms of psycho-
+therapy (cognitive behavioral therapy [CBT], interpersonal, 
+supportive, and group therapy) that might be effective in
+managing psychological distress. There are few data on
+such treatments in patients with chronic kidney disease.
+Individual psychotherapy (cognitive–behavioral, inter -
+personal, and supportive) is useful when the patient has
+identified that there is a problem and has accepted en-
+couragement by the clinician to seek treatment. A recent
+randomized crossover trial of 65 hemodialysis patients
+showed significant improvements in depression scores as
+measured by the Beck Depression Inventory II (BDI II) and 
+the Hamilton Depression Rating Scale in those patients
+who received CBT. With CBT, there was also an improve-
+ment in quality-of-life scores and a reduction in interdia-
+lytic weight gain. Denial is common and is a way of coping
+with uncomfortable thoughts or feelings related to being
+a “dialysis patient. ” When a patient is noncompliant with
+treatment, denial might play a part in such behavior. Such
+patients may benefit from psychiatric interventions. How -
+ever, these patients may resist treatment, as the implication 
+is that “there is something wrong” with them. Motivating a 
+patient to accept these forms of therapy may be difficult.
+Introducing therapy as a stress management approach to
+living with ESKD might be one approach to ease the patient 
+into appropriate treatment. Supportive psychotherapy in
+conjunction with pharmacologic treatment is important
+for decreasing the rate of relapse. Group therapy may also
+have a positive impact. One uncontrolled study showed
+participation in group therapy sessions at the dialysis unit
+was associated with improved patient survival. Finally,
+electroconvulsive therapy may be used for patients with
+Daugirdas9781451144291-ch030.indd   530 09/10/14   1:37 am
+531Chapter 30 / Psychosocial Issues
+severe refractory depression, provided that there are no 
+contraindications.
+II. DEMENTIA/DELIRIUM. Neurocognitive disorders are common in
+ESKD patients. Cognitive deficits may be related to underlying
+uremia or other coexistent underlying medical conditions, as
+described in more detail in Chapter 40. Physicians should initiate 
+discussions with the family about cessation of dialysis in patients 
+with progressive dementia. Withdrawal from dialysis is relatively 
+common, especially in elderly patients or patients who fail to
+thrive. Advanced directives should be offered to patients at the
+initiation of renal replacement therapy, ideally before the onset
+of any disease that would impair their capacity for decision mak-
+ing. The guidelines regarding shared decision making endorsed
+by the U.S. Renal Physicians Association are a helpful resource.
+III. ANXIETY AND BEHAVIOR DISORDERS.  Anxiety disorders can be
+ frequent in patients with ESKD and are associated with lower
+patient perception of quality of life. There was a 45% prevalence
+of anxiety disorders in a single center study of 70 hemodialysis
+patients. Disruptive behavior directed toward the dialysis staff
+occurs in a minority of patients, but nevertheless can be a dis-
+turbance to all those in the dialysis unit. It is important to try
+to understand why the patient is angry and to explore poten-
+tial solutions. Anxiety states should be treated through psycho-
+therapy and behavioral techniques. Setting limits or establishing
+boundaries is paramount when hostility or aggression poses a
+threat of harm to the patient or to others. Hostility and aggres-
+sive behaviors might be manifestations of an underlying psychi -
+atric symptom, such as paranoia, referential thinking, or even
+conditions associated with delirium. If doubt about a particular
+patient exists, consultation with a psychiatrist should be sought.
+If these measures are not effective, short-acting benzodiaz-
+epines such as lorazepam or alprazolam may be prescribed for 
+limited periods. These benzodiazepines are metabolized by the 
+liver. Nevertheless, as with the SSRIs, it is prudent to start with 
+lower doses. The use of diazepam and chlordiazepoxide should 
+be avoided in dialysis patients, owing to their metabolism to 
+pharmacologically active metabolites. Barbiturates should not 
+be used in place of benzodiazepines, since the long-acting ones 
+are removed by hemodialysis. For the acutely agitated patient, 
+antipsychotic medications, such as haloperidol, are sometimes 
+required. Haloperidol is not renally cleared; therefore, no dose 
+adjustment is usually necessary. Little is known about the effects 
+of other atypical antipsychotics, such as risperidone or olanzap -
+ine, in this patient population. Gabapentin is currently used to 
+treat anxiety, but it does not have U.S. Food and Drug Adminis-
+tration approval for this indication. Gabapentin is eliminated by 
+renal excretion as an unchanged drug. In patients with ESKD, 
+the plasma clearance of gabapentin is reduced. ESKD and CKD 
+patients with bipolar disorders requiring lithium should have 
+Daugirdas9781451144291-ch030.indd   531 09/10/14   1:37 am
+Part IV / Clinical Problem Areas
+532
+serum lithium levels checked frequently. Lithium is cleared by 
+dialysis; therefore, the dose should be given after each dialysis 
+treatment. Valproic acid is another mood stabilizer sometimes 
+used to treat bipolar disorder. Free serum levels of this drug have 
+been observed to be elevated in patients with impaired renal func-
+tion. Caution should be exercised in the administration of gluco-
+corticoids to potential renal transplant patients with a history of 
+psychosis, because of the risk of steroid-induced psychosis. Other 
+steroid-sparing agents should be used if clinically feasible.
+ I V. OTHER PSYCHOSOCIAL ISSUES IN THE ESKD POPULATION
+A. Marital issues. T here have been only a few studies that assess 
+marital relationships in ESKD patients. One study found 
+that more than 50% of couples that included a patient with 
+ESKD experienced marital discord. Marital conflict may be an 
+important stressor for ESKD patients. Marital conflict may be 
+associated with a patient,s perception of burden of illness and 
+the degree to which a patient does not adhere to the dialysis 
+prescription. Marital satisfaction and conflict may be particu-
+larly salient for female patients. One study showed that female 
+ESKD patients treated with hemodialysis with higher levels of 
+marital satisfaction had improved survival. Marital satisfac -
+tion was not associated with differential outcomes in men.
+B. Sexual dysfunction.  E SKD patients have a high prevalence of 
+sexual dysfunction, owing to the effects of uremia, neuropa-
+thy, autonomic dysfunction, vascular disease, depression, and 
+medications. Disturbances in the hypothalamic–  pituitary–
+gonadal axis are also frequently encountered. Problems 
+include decreased libido, erectile dysfunction, menstrual disor-
+ders, and infertility. Impotence is believed to occur in roughly 
+70% of men treated with dialysis, and men about to initiate 
+dialysis should be counseled regarding the possibility of erectile 
+dysfunction. This may lead to better communication with the 
+physician and therefore reduce the possibility of depression. 
+Women treated with dialysis commonly have  disturbances in 
+fertility and menstruation. Irregular menstrual cycles are com-
+mon after the initiation of hemodialysis treatment. The most 
+common menstrual disorder in women with ESKD is anovula-
+tion. For information about treatment, see Chapter 39.
+C. Socioeconomic issues. M ore than half of ESKD patients do not 
+continue working after beginning renal replacement therapy. 
+Those holding professional occupations may have greater 
+flexibility in their work schedules and may be more likely to 
+continue employment. Unemployment can have a significant 
+psychologic impact on the individual, possibly contributing to 
+a greater likelihood of depression.
+D. Rehabilitation. E xercise may play an important role in improv-
+ing a patient ,s overall sense of well-being. Specially designed 
+exercise programs are available for those with physical impair-
+ments, and these should be promoted at the dialysis center 
+or during routine physician visits. Other therapeutic modali-
+ties to consider are stress reduction/relaxation exercises and 
+Daugirdas9781451144291-ch030.indd   532 09/10/14   1:37 am
+533Chapter 30 / Psychosocial Issues
+biofeedback, which have been successfully used, especially in 
+managing disruptive and unstable patients.
+E. Quality of life (QOL). It is essential for the medical staff and family 
+to address the patient ,s perception of QOL. This is especially 
+important when making decisions regarding the initiation 
+or withdrawal of dialysis. Patients who rate their QOL higher 
+and have an increased sense of well-being may be more likely 
+to comply with their dialysis prescription. There are several 
+different scales that have been used to assess QOL in ESKD 
+patients, including the SF-36, Illness Effects Questionnaire, 
+Karnofsky Scale, Satisfaction with Life Scale, and the KD-QOL, 
+or Kidney Disease Quality-of-Life Scale. These scales primarily 
+consist of subjective measures. Therapy with erythropoietin 
+has improved QOL for dialysis patients. ESKD patients with 
+successful renal transplants tend to rate their QOL higher 
+than those with failed transplants or those treated with dialy-
+sis. There have been several recent clinical trials that evalu -
+ated the impact of intensification of dialysis prescriptions on 
+patients, perceptions of quality of life. The Frequent Hemodi-
+alysis Network (FHN) evaluated the effect of intense dialysis 
+six times weekly versus conventional three times weekly treat-
+ments on quality of life and depression scores. Although there 
+were few changes in many subdomain measures of QOL, there 
+were improvements in both the SF-36 and BDI scores in the six 
+times weekly dialysis arm. Physicians should strongly consider 
+the impact their medical decisions have on a patient's QOL, 
+and discuss these issues in depth with patients and their fami-
+lies. In addition, patient satisfaction with care is an important 
+aspect of QOL that should be evaluated.
+Suggested Readings
+American Psychiatric Association. Diagnostic and Statistical Manual of Mental 
+ Disorders 5th ed. Arlington, VA: American Psychiatric Publishing; 2013.
+Atalay H, et al: Sertraline treatment is associated with an improvement in depression 
+and health-related quality of life in chronic peritoneal dialysis patients. Int Urol 
+Nephrol. 2010;42:527–536.
+Blumenfield M, et al. Fluoxetine in depressed patients on dialysis. Int J Psychiatry Med. 
+1997;27:71–78.
+Castaneda C, et al. Resistance training to reduce the malnutrition-inflammation 
+ complex syndrome of chronic kidney disease. Am J Kidney Dis. 2004;43:607–616.
+Chertow GM, et al. In-center hemodialysis six times per week versus three times per 
+week. N Engl J Med. 2010;363:2287–2300.
+Cohen SD, et al. Screening, diagnosis, and treatment of depression in patients with 
+end-stage renal disease. Clin J Am Soc Nephrol. 2007;2:1332–1342.
+Cukor D, et al. Psychosocial aspects of chronic disease: ESRD as a paradigmatic illness. 
+J Am Soc Nephrol. 2007;18:3042–3055.
+Cukor D, et al. Anxiety disorders in adults treated by hemodialysis: a single-center 
+study. Am J Kidney Dis. 2008;52:128–136.
+Cukor D, et al. Psychosocial intervention improves depression, quality of life, and fluid 
+adherence in hemodialysis. J Am Soc Nephrol. 2014;25:196–206.
+Daneker B, et al. Depression and marital dissatisfaction in patients with end-stage 
+renal disease and in their spouses. Am J Kidney Dis. 2001;38:839–846.
+Dheenan S, et al. Effect of sertraline hydrochloride on dialysis hypotension. Am J 
+ Kidney Dis. 1998;31:624–630.
+Dogan E, et al. Relation between depression, some laboratory parameters, and 
+ quality-of-life in hemodialysis patients. Ren Fail. 2005;27:695–699.
+Daugirdas9781451144291-ch030.indd   533 09/10/14   1:37 am
+Part IV / Clinical Problem Areas
+534
+Finkelstein FO, et al. Depression in chronic dialysis patients: assessment and 
+ treatment. Nephrol Dial Transplant. 2000;15:1911–1913.
+Friend R, et al. Group participation and survival among patients with end-stage renal 
+disease. Am J Public Health. 1986;76:670–672.
+Gee CB, et al. Couples coping in response to kidney disease: a developmental perspec-
+tive. Semin Dial. 2005;18:103–108.
+Hedayati SS, et al. A practical approach to the treatment of depression in patients with 
+chronic kidney disease and end-stage renal disease. Kidney Int. 2012;81:247–255.
+Holley JL. Palliative care in end-stage renal disease: focus on advance care planning, 
+hospice referral, and bereavement [Review]. Semin Dial. 2005;18:154–156.
+Kimmel PL. Just whose quality-of-life is it anyway? Controversies and consistencies in 
+measurements of quality-of-life. Kidney Int. 2000;57(suppl 74):113–120.
+Kimmel PL, et al. Marital conflict, gender and survival in urban hemodialysis patients. 
+J Am Soc Nephrol. 2000;11:1518–1525.
+Kimmel PL, et al. Multiple measurements of depression predict mortality in a 
+ longitudinal study of chronic hemodialysis patients. Kidney Int. 2000;57:2093–2098.
+Kimmel PL, et al. Depression in end-stage renal disease patients treated with hemodi-
+alysis: tools, correlates, outcomes, and needs. Semin Dial. 2005;18:73–79.
+King K, et al. The frequency and significance of the “difficult” patient: the nephrology 
+community,s perceptions. Adv Chronic Kidney Dis. 2004;11:234–239.
+Kolewaski CD, et al. Quality-of-life and exercise rehabilitation in end stage renal 
+ disease. CANNT J. 2005;15:22–29.
+Kouidi E, et al. Exercise renal rehabilitation program: psychosocial effects. Nephron. 
+1997;77:152–158.
+Kurella M, et al. Chronic kidney disease and cognitive impairment in the elderly: the 
+Health, Aging and Body Composition Study. J Am Soc Nephrol. 2005;16:2127–2133.
+Kurella M, et al. Suicide in the end-stage renal disease program. J Am Soc Nephrol. 
+2005;16:774–781.
+Lopes AA, et al. Depression as a predictor of mortality and hospitalization among 
+hemodialysis patients in the United States and Europe. Kidney Int. 2002;62:199–207.
+Moss AH, et al. Palliative care [Review]. Am J Kidney Dis. 2004;43:172–173.
+Painter P . Physical functioning in end-stage renal disease patients: update 2005 
+[Review]. Hemodial Int. 2005;9:218–235.
+Patel SS, et al. Psychosocial variables, quality of life and religious beliefs in end-stage renal 
+disease patients treated with hemodialysis. Am J Kidney Dis. 2002;40:1013–1022.
+Patel S, et al. The impact of social support on end-stage renal disease. Semin Dial. 
+2005;18:89–93.
+Renal Physicians Association. Shared decision making (guideline regarding withdrawal 
+from dialysis and palliative care). Available at http://www.renalmd.org/. Accessed 
+September 12, 2006.
+Shidler NR, et al. Quality-of-life and psychosocial relationships in patients with chronic 
+renal insufficiency. Am J Kidney Dis. 1998;32:557–566.
+Snow V , et al. Pharmacologic treatment of acute major depression and dysthymia. 
+American College of Physicians-American Society of Internal Medicine. Ann Intern 
+Med. 2000;132:738–742.
+Tawney K. Developing a dialysis rehabilitation program. Nephrol Nurs J. 2000;27:  
+524–539.
+Turk S, et al. Treatment with antidepressive drugs improved quality-of-life in chronic 
+hemodialysis patients. Clin Nephrol. 2006;65:113–118.
+Unruh ML, et al. Health-related quality-of-life in nephrology research and clinical 
+ practice. Semin Dial. 2005;18:82–90.
+Watnick S, et al. The prevalence and treatment of depression among patients starting 
+dialysis. Am J Kidney Dis. 2003;41:105–110.
+Wilson B, et al. Screening for depression in chronic hemodialysis patients: comparison 
+of the Beck Depression Inventory, primary nurse, and nephrology team. Hemodial 
+Int. 2006;10:35–41.
+Wu AW , et al. Changes in quality-of-life during hemodialysis and peritoneal dialysis treat-
+ment: generic and disease specific measures. J Am Soc Nephrol. 2004;15:743–753.
+Wuerth D, et al. Chronic peritoneal dialysis patients diagnosed with clinical depres-
+sion: results of pharmacologic therapy. Semin Dial. 2003;16:424–427.
+Wuerth D, et al. The identification and treatment of depression in patients maintained 
+on dialysis. Semin Dial. 2005;18:142–146.
+Daugirdas9781451144291-ch030.indd   534 09/10/14   1:37 am

@@ -1,0 +1,1034 @@
+99
+ I. INTRODUCTION: TYPES OF VASCULAR ACCESS. A rteriovenous (AV) fis-
+tulas and grafts are the commonest forms of vascular access used 
+for maintenance hemodialysis. An AV fistula involves creating an 
+anastomosis between an artery and a native vein, allowing the 
+blood to flow directly from the artery to the vein. Traditionally, 
+the anastomosis is made at the wrist between the radial artery 
+and the cephalic vein, although there are many variations pos-
+sible, with anastomoses in the snuffbox, in the forearm area, or 
+at the elbow or upper arm. An AV graft is similar, except that the 
+distance between the feeding artery and vein is bridged by a tube 
+made of prosthetic material. The most commonly used bridging 
+material is polytetrafluoroethylene (PTFE) polymer. A third type 
+of access, the cuffed venous catheter, is discussed in the following 
+chapter.
+An AV fistula cannot be used immediately as the fistula 
+maturation process generally takes about 6–8 weeks. During the 
+maturation process blood flow through the newly created fistula 
+will gradually increase due to dilatation of both artery and vein. 
+Pressure and flow–induced remodeling (thickening) of the wall 
+of the fistula vein, which is the section where the needles will be 
+inserted, strengthens the fistula and limits tearing and extrava-
+sation, while dilatation of the vein facilitates future needle in-
+sertion. An AV graft can be used earlier than a fistula, generally 
+within 1–3 weeks after placement.
+A well-functioning fistula remains the preferred access 
+compared to a graft due to a fistula’s lower incidence of infec-
+tion, higher patency rates, and overall better patient survival. 
+However, AV fistulas have their problems as well, one important 
+downside being a poor maturation rate in those with unsuitable 
+blood vessels, including many elderly patients. An AV graft can be 
+a suitable initial choice of access in patients with insufficiently 
+large or poorly distensible blood vessels. With prolonged use, 
+some dilatation of the vein downstream to an AV graft typically 
+occurs, and sometimes this newly enlarged vein segment can 
+then be connected directly to an artery, converting the graft to 
+a fistula.
+Arteriovenous Fistulas 
+and Grafts: The Basics
+Tushar J. Vachharajani, Steven Wu, 
+Deborah Brouwer-Maier, and Arif Asif
+6
+Daugirdas9781451144291-ch006.indd   99 11/10/14   1:56 am
+Part II / Blood-Based Therapies
+100
+A. Neointimal hyperplasia. Mechanistically, an AV graft is a less de-
+sirable vascular access option than an AV fistula because with 
+a graft there is a higher risk of neointimal hyperplasia. Most 
+commonly, this occurs in the venous segment downstream 
+from the graft–vein anastomosis. Hyperplasia obstructs the 
+lumen of the downstream vein, leading to poor flow in the 
+graft and prolonged bleeding after removal of dialysis needles 
+(due to increased intragraft pressure). Eventually, this leads to 
+graft thrombosis. The cause of accelerated neointimal hyper -
+plasia in AV grafts is thought to be turbulence downstream 
+to the graft–vein anastomosis, and also to a compliance mis-
+match between the relatively rigid graft and the more flexible 
+vein. Periodic exposure of this vulnerable vein segment to acti-
+vated blood exiting the dialyzer may accelerate the process, al-
+though stenosis can develop downstream to an AV graft even 
+when the graft is left unused.
+Although an AV graft is an inferior access option com -
+pared to a mature AV fistula, it is superior to a central venous 
+catheter. Patients with either AV fistula or AV graft have less se-
+rious infections, lower morbidity, and higher survival rates than 
+patients managed with venous catheters. Recently, some of the 
+poorer results with central venous catheters have been shown 
+to be due to selection bias (venous catheters tend to be used in 
+sicker patients), and the infection risk with venous catheters, 
+especially in elderly patients, has been found to be relatively 
+low (Murea, 2014). Thus, in certain clinical circumstances dis-
+cussed more thoroughly in the next chapter, the chronic 
+ venous 
+catheter remains a useful form of vascular access.
+II. GUIDELINES TARGETING INCREASED USE OF AV FISTULA. Guidelines de-
+veloped by the National Kidney Foundation’s Kidney Disease Out-
+comes Quality Initiative (KDOQI) and the “Fistula First” initiative 
+(see web references) promote construction of AV fistulas, target-
+ing at least 68% use in prevalent patients on dialysis. Early referral 
+of CKD patients to nephrologists prior to the start of hemodialy-
+sis allows more time for construction of an AV access. This avoids 
+the risks of a central vein catheter that is usually required when
+the patient is referred for dialysis late in the course of chronic
+kidney disease. Recently “urgent start peritoneal dialysis” has
+been advocated as an initial treatment method for patients who
+urgently need dialysis. This allows such patients to be stabilized
+without subjecting them to a chronic venous catheter. One key
+factor to increasing AV fistula use is the presence of a dedicated
+and trained access surgeon functioning as part of a vascular ac-
+cess team.
+Over the past decade, since the implementation of the US 
+Government sponsored fistula first breakthrough initiative, the 
+AV fistula rate in the US prevalent hemodialysis patients has in-
+creased from 26% to 61%. Many US Centers and European centers 
+achieve much higher percentages ( ≥90 %). In the United States, 
+however, the central venous catheter use rate has not declined as 
+Daugirdas9781451144291-ch006.indd   100 11/10/14   1:56 am
+Chapter 6 / Arteriovenous Fistulas and Grafts: The Basics 101
+much as planned, leading to a revision of the initiative goal from 
+“fistula first” to “fistula first and catheter last. ”
+III. VESSEL PRESERVATION. In patients with progressive CKD who are
+expected to require dialysis, superficial and deep veins of both
+arms must be protected, anticipating their possible use for vas-
+cular access. Accordingly, one should minimize venipunctures
+and placement of peripheral infusion lines in the upper extrem -
+ity, especially in the cephalic and antecubital veins of either arm. 
+The veins on the dorsum of the hand should be used whenever
+possible. Because of the risk of subsequent central vein stenosis,
+the subclavian vein should not be cannulated unless absolutely
+necessary and use of percutaneously inserted central catheter
+(PICC) lines and midline catheters should be rejected, also. The
+radial and brachial arteries need to be preserved for future AV
+access creation, and so cardiac and other endovascular percu -
+taneous interventions should not be done through these arter -
+ies. Placement of endovascular leads for a cardiac implantable
+electronic device (CIED) should be avoided as well, as this can
+adversely affect patency of the central veins; plus, the long-term
+risk of infection will be high. Instead, CKD patients who require a 
+pacemaker or similar device should be evaluated for approaches
+utilizing epicardial as well as subcutaneous lead placement.
+A. The American Nephrology Nurses Association “Save the Vein” project.  
+This organization has a website (See Web References) that of-
+fers patient-targeted brochures in English or Spanish describ-
+ing the importance of preserving arm veins. The website also 
+has links to a supplier for patient wristbands bearing the in -
+scription: “Save Veins • No IV / LAB Draws. ”
+I V. ARTERIOVENOUS ACCESS PLANNING
+A. Patient education and timing issues.  Patients with a glomerular
+filtration rate (GFR) of <30 mL/min per 1.73 m2 should be ed-
+ucated about all renal replacement modality options includ -
+ing peritoneal dialysis and renal transplantation. For those 
+choosing hemodialysis, an AV fistula should be placed at least 
+6 months prior to the planned initiation of dialysis. In patients 
+planning to start peritoneal dialysis, creation of an AV fistula is 
+optional. A backup AV fistula is sometimes created in a perito-
+neal dialysis patient to avoid the risks associated with central 
+vein catheters when peritoneal dialysis must be stopped for a 
+time; for example, to replace the catheter because of malfunc-
+tion or severe peritonitis. However, peritonitis rates are much 
+lower now than in the past, so most centers no longer create 
+such backup fistulas. Patients who are planning to receive a 
+live donor kidney in the near future but who need dialysis for a 
+short time can be managed without a permanent AV access. In 
+such patients, short-term use (<6 months) of a cuffed venous 
+catheter for access may be appropriate unless the patient has 
+a contraindication to venous catheter use (such as valvular 
+heart disease, which might predispose to endocarditis).
+Daugirdas9781451144291-ch006.indd   101 11/10/14   1:56 am
+Part II / Blood-Based Therapies
+102
+B. Predicting the need for dialysis. A nticipating the need for dialysis 
+correctly is not always a simple task. Premature creation of an 
+AV access is an unnecessary utilization of resources, and many 
+elderly patients, especially, have been shown to die before need-
+ing dialysis. One tool that may help in predicting the need for re-
+nal replacement therapy was developed by Tangri (2011, 2013), 
+though their equations predict the risk of developing ESRD over 
+a time window of 3 years. A similar predictive equation based 
+on male US Veterans Affairs patients was developed by Drawz 
+(2013), which predicts the risk of ESRD over a 1-year period.
+ V. PREOPERATIVE EVALUATION
+A. Patient history. A t horough history is required, querying about 
+previous episodes of central vein catheters or intravenous 
+pacemaker/CIED implantation, prior use of PICC lines, and 
+prior vascular surgery. Comorbid conditions such as conges -
+tive heart failure, diabetes mellitus, or peripheral vascular dis-
+ease may limit options for access construction. Patients with 
+severe heart failure may not tolerate the additional cardiac 
+output required to circulate blood through the access. Patients 
+with severe vascular disease due to atherosclerosis or diabetes 
+or patients with extensive damage to their arm veins due to 
+prior needle sticks or failed AV fistula may not have adequate 
+blood vessels to support creation of an AV access, although 
+even in such patients an AV fistula often can be created in the 
+upper extremity using innovative surgical techniques.
+B. Physical examination: T he presence of all pulses in upper extrem-
+ity (axillary, brachial, radial, and ulnar) should be evaluated 
+and recorded. The blood pressure in both arms should be mea-
+sured, and the difference between the arms should be graded as 
+normal if <10 mm Hg, borderline if 10–20 mm Hg, or problem-
+atic if > 20 mm Hg. The Allen test, which measures collateral 
+flow between the radial and ulnar arteries at the palmar arch, 
+can be either done by physical exam or aided by Doppler (see 
+what follows). The sensitivity of the Allen test can be increased 
+if combined with pulse oximetry (Paul and Feeny, 2003). Details 
+of how to perform the Allen test are given in  Table 6.1. The pa-
+tient should be examined for evidence of previous central or 
+venous catheterization and for signs of trauma or surgery of 
+the arm, chest, or neck, including previous AV access surgery. 
+The presence of arm edema, collateral veins, or differential ex-
+tremity size should prompt an evaluation of the central veins.
+C. Imaging studies.  R outine preoperative mapping of the arm to 
+evaluate veins and arteries helps with selection of the most 
+appropriate vein and the best location to create an access. Use 
+of imaging studies has been shown to increase the rate of well-
+functioning fistula placements.
+1. Doppler ultrasonography. D oppler ultrasonography, which can 
+measure flow velocity as well as the inner diameter of the 
+brachial and radial arteries and peripheral veins, should 
+Daugirdas9781451144291-ch006.indd   102 11/10/14   1:56 am
+Chapter 6 / Arteriovenous Fistulas and Grafts: The Basics 103
+be performed in all patients to identify suitable arteries 
+and veins for access placement. The poor visualization of 
+central veins on Doppler ultrasonography is a limitation of 
+this method. Doppler ultrasonography is best performed in 
+the operating room after regional anesthesia of the arm by 
+nerve block, as the veins tend to dilate postanesthesia ad-
+ministration; under normal circumstances, these veins can 
+be constricted and may not be visualized properly.
+a. Minimal vein and artery size.  Controversy exists about
+the minimum size of the feeding artery and target vein 
+for a successful fistula. Studies suggest Studies sug-
+gest that the minimum vein lumen diameter should be  
+about 2.5 mm for successful surgical anastomosis 
+(Okada and Shenoy, 2014) and minimal arterial diameter  
+should be 2.0 mm. Smaller, “borderline” vessels down 
+to 1.5 mm ( for both artery and vein) have been used 
+to create successful fistulas, but this may require an 
+experienced surgeon with skills to operate on such 
+small vessels (Pirozzi, 2010). More important may be 
+the ability of the artery and vein to dilate after anasto-
+mosis, to allow an increase in flow.
+b. Vein dilation test.  During the Doppler study the proximal
+vein is occluded using a tourniquet and the increase in 
+size is recorded. An average increase in internal diam-
+eter of 50% has been associated with successful fistula 
+outcome (Malovrh, 2002).
+c. Arterial dilation test. During the Doppler study the pulse con-
+tour of the artery is examined. The pulse contour of the ar-
+tery is normally triphasic, due to high peripheral resistance. 
+The patient is asked to clench the fist for 2 minutes, and then 
+Allen Test (Test of Palmar Arch Patency)
+6.1
+TABLE
+1. Position the patient so that they are facing you with their arm extended with 
+the palm turned upward
+2. Compress both the radial and ulnar arteries at the wrist
+3. With the arteries compressed firmly, instruct the patient to create a fist 
+repetitively in order to cause the palm to blanch
+4.
+ When the patient’s hand is blanched, release the compression of the ulnar 
+artery and watch the palm to determine if it becomes pink. Then release all 
+compression
+5.
+ Repeat steps 2–4 for the radial artery
+Interpretation: When color returns to the blanched palm upon release of the 
+arterial compression it indicates arterial patency and reflects upon adequacy of 
+flow. Blanching that persists for ≥5 s after release of the ulnar artery is a positive 
+test for ulnar artery insufficiency. Likewise, blanching that persists for ≥5 s 
+following release of the radial artery is positive for radial artery insufficiency
+Modified (corrected) from Beathard GD. A practicioner’s resource guide to physical examination of 
+the vascular access. ESRD Network of Texas. http://www.esrdnet15.org/QI/C5D.pdf.
+Daugirdas9781451144291-ch006.indd   103 11/10/14   1:56 am
+Part II / Blood-Based Therapies
+104
+to open the hand; the resulting hyperemic response normally 
+converts the triphasic arterial pulse contour to a biphasic 
+pattern in patients capable of a healthy arterial dilation.
+d. Mapping. The cephalic and ulnar venous systems should
+also be evaluated for continuity and absence of stric-
+tures. Some surgeons perform venous mapping with a
+proximal tourniquet in place to distend and better iden-
+tify veins suitable for AV fistula construction.
+2. Venography. Venography should be reserved for evaluating
+the central veins, especially in patients with a history of
+transvenous placement of a pacemaker, physical findings of 
+upper extremity edema, collateral veins around the shoul-
+der or on the chest wall, and/or unequal extremity size. If 
+venography is performed, 30 mL or less of nonionic, low os-
+molality contrast, diluted 1:4, should be used to avoid neph-
+rotoxicity. Full-strength contrast is usually not required for 
+venography. Venography alone does not help evaluate the
+arterial tree.
+3. Arteriography. Arteriography is indicated when pulses in the 
+desired access location are markedly diminished or absent
+or there is a >20 mm Hg difference in mean arterial pres-
+sure between the two arms.
+VI. POSSIBLE LOCATIONS FOR UPPER EXTREMITY AV FISTULAS.  For an
+overview, see Okada and Shenoy (2014) (Table 6.2).
+A. Arm fistula locations.  An AV fistula can be categorized as con-
+ventional or transposed, depending on its connection to the 
+arterial and venous circulations. A conventional AV fistula is 
+created by connecting a superficial artery and vein and gener-
+ally does not require extensive mobilization of the vessels. A 
+transposed AV fistula utilizes deeper veins and requires ex -
+tensive mobilization of the vein into a subcutaneous tunnel 
+for easy needle access. Compared to conventional AV fistulas, 
+transposed AV fistulas are technically more challenging to cre-
+ate and require greater healing time. Generally, conventional 
+AV fistulas are created as a single-stage surgical procedure, 
+whereas creation of a transposed AV fistula can be either a 
+one-stage or two-stage procedure.
+At least nine potential sites for AV fistula can be used in 
+the upper extremity (Table 6.2). The anatomical snuffbox  
+fistula is the distal variant of the radiocephalic fistula created 
+between the tendons of extensor policis longus and brevis . The 
+classic wrist radiocephalic or Brescia–Cimino fistula (Fig. 6.1) 
+placed in the nondominant arm is the preferred access. Other 
+forearm AV fistulas, such as the ulnar artery–basilic vein  
+fistula, should be considered when a radiocephalic fistula is 
+not an option. Before considering an upper arm site, several 
+other transposed forearm sites should be evaluated; for exam-
+ple, the forearm cephalic vein to proximal radial artery or 
+brachial artery, and the transposed forearm basilic vein to 
+Daugirdas9781451144291-ch006.indd   104 11/10/14   1:56 am
+Chapter 6 / Arteriovenous Fistulas and Grafts: The Basics 105
+radial  ar tery or brachial artery. If creating a forearm fistula 
+is not possible, which happens not uncommonly in diabetic 
+or elderly patients with atherosclerosis, then an upper arm 
+ brachial  artery–cephalic vein fistula (Fig. 6.2), or a trans -
+posed basilic vein–brachial artery fistula (Fig. 6.3) are poten-
+tial options. Less commonly used options are the Gracz fistula 
+(which uses a perforating vein that arterializes both upper arm 
+cephalic and basilic veins) and the brachial bidirectional ce-
+phalic fistula (which arterializes both forearm and upper arm 
+Sites for AV Fistula Creation in the Upper Extremity
+6.2
+TABLE
+Conventional
+Snuffbox (distal-most site)
+Radiocephalic or Brescia–Cimino (radial artery to forearm cephalic vein at the 
+wrist)
+Ulnar artery to forearm basilic vein (uncommon)
+Brachial artery to upper arm cephalic vein (at the elbow)
+Transposed
+Forearm basilic vein to radial artery at the wrist
+Forearm basilic vein to the brachial artery (loop configuration)
+Forearm cephalic vein to the brachial artery (loop configuration)
+Transposed basilic vein in the upper arm to the brachial artery
+Perforating veins in the proximal forearm to proximal radial artery (Konner 
+modification of the Gracz fistula)
+FIGURE 6.1 Radiocephalic AV fistula. (Reprinted with permission from Atlas of Dialysis 
+Vascular Access—http://www.fistulafirst.org.)
+Daugirdas9781451144291-ch006.indd   105 11/10/14   1:56 am
+Part II / Blood-Based Therapies
+106
+FIGURE 6.3 Transposed basilic vein to brachial artery AV fistula. (Reprinted with permis-
+sion from Atlas of Dialysis Vascular Access—http://www.fistulafirst.org.)
+cephalic veins). When a perforating vein fistula is used, it has 
+been suggested that the original surgical procedure be modi-
+fied  (Konner, 1999). When all sites in the nondominant arm 
+have been exhausted, then the dominant arm can be used.
+FIGURE 6.2 Brachiocephalic AV fistula. (Reprinted with permission from Atlas of Dialysis 
+Vascular Access—http://www.fistulafirst.org.)
+Daugirdas9781451144291-ch006.indd   106 11/10/14   1:56 am
+Chapter 6 / Arteriovenous Fistulas and Grafts: The Basics 107
+1. Initial selection of elbow perforating vein fistula for 
+patients who are elderly or with comorbidities. In such 
+patients, a calcified radial artery with a small lumen and 
+thickened wall is a common finding, and fistulas fed by 
+such arteries are likely to fail. In one small study (Palmes, 
+2011), a forearm fistula was performed only if the diameter 
+of the radial and ulnar artery were >2.0 mm at the wrist 
+and no calcification or segmental stenosis was detected. 
+Also, with tourniquet in place at the wrist the cephalic vein 
+diameter had to be at least 2.5 mm. If not, and if a perforat-
+ing vein was present at the elbow, and the brachial artery 
+and cephalic vein were of suitable diameter, a perforating 
+vein AV fistula was created at the elbow, using the Konner 
+modification (discussed earlier) of the Gracz approach. In 
+the group of elderly patients with poor blood vessels get -
+ting the perforating vein elbow fistula, fistula patency rate 
+at 24 months was an impressive 78%.
+B. Fistulas in the leg. A V fistulas in the lower extremity are created 
+rarely, because of a higher complication rate and poorer out -
+come, but they remain an option once all potential sites in the 
+upper extremity have been exhausted. The possible sites in-
+clude fistulas connecting the superficial femoral artery to the 
+femoral vein or the saphenous vein to the popliteal artery.
+C. Steal due to fistula on the same side as an internal mammary artery– 
+coronary artery bypass graft. T his has now been widely reported, 
+and in such patients, a contralateral AV fistula should be in -
+serted to avoid this problem (Coskun, 2013).
+ VII. OPERA TIVE PROCEDURE FOR AN AV FISTULA . A V fistula surgery is usu-
+ally performed in the operating room under regional anesthesia. 
+The anastomosis can be either side of artery to side of vein or side 
+of artery to end of vein. In both instances, distal blood flow through 
+the artery is preserved. With the side-to- side method, higher pres-
+sures may sometimes be transmitted to the distal veins in the 
+hand, causing swelling and the so-called “red hand syndrome. ” 
+The side-of-artery to end-of-vein anastomosis prevents venous 
+hypertension in the hand because the distal vein is ligated off. A 
+modified “piggyback SLOT technique has been shown to substan-
+tially reduce torsion in the anastomosed vein and to reduce juxta-
+anastomotic stenosis (Bharat, 2012). The details of the operative 
+techniques are beyond the scope of this book. It is important to 
+emphasize that AV fistula placement is not something that can be 
+relegated to a junior or inexperienced vascular surgeon, but is best 
+done by a surgeon with both experience and interest in performing 
+these sometimes complex and demanding procedures.
+A. Measuring radial artery fistula blood flow at time of surgery. T he radial 
+artery normally has a flow rate of 20–30 mL/min, and this flow 
+increases to 200–300 mL/min immediately after creation of the 
+anastomosis (Konner, 1999). In one study of forearm fistulas, 
+the flow in the anastomosed vein was measured immediately 
+after surgery, and an immediate flow rate < 120 mL/min was 
+highly predictive of subsequent fistula failure (Saucy, 2010).
+Daugirdas9781451144291-ch006.indd   107 11/10/14   1:56 am
+Part II / Blood-Based Therapies
+108
+B. Predicting matured fistula blood flow using a computational algorithm.  
+A consortium of investigators have developed an algorithm to 
+predict ultimate fistula flow rate for various types of fistula, 
+based on baseline patient demographic variables, and preop-
+erative Doppler measurements of vessel diameters and flows 
+(Caroli, 2013). This algorithm is not yet widely used clinically.
+ VIII. PERIOPERATIVE CARE AND FISTULA MATURATION.  Some centers pre -
+pare the patient for AV fistula surgery by having the patient
+perform arm exercises for several weeks prior to surgery, with
+the idea that this might help the vein to dilate and achieve a
+luminal size of more than 2.5 mm. Following surgery, the arm
+should initially be kept elevated. Tight circumferential dressings 
+should be avoided. Hand exercises (e.g., squeezing a rubber ball
+or a soft handgrip device) may help increase fistula blood flow
+and pressure, and are believed by some to assist with the matu-
+ration of an AV fistula; a concept that has never been confirmed 
+in a randomized trial. The fistula should never be used for ve-
+nipuncture. Fistula blood flow should be checked daily (more
+frequently initially) by feeling for a thrill at the anastomotic site
+and by listening for an associated bruit. A physician, nurse, di-
+alysis technician, or even a well-informed patient should be able 
+to perform a physical examination of an AV fistula. The basics of 
+physical examination of an AV access are described later in this
+chapter.
+A. Rule of sixes.  All new AV fistulas should be examined within
+4–6 weeks of creation for signs of maturation. At the time of 
+intended use, the vein diameter should be at least 6 mm. A 
+mature AV fistula should follow the “rule of 6”—it should be 
+6 mm in diameter, less than 6 mm below the skin, have a blood 
+flow of at least 600 mL/min, and include a straight segment for 
+cannulation that is at least 6 cm in length. Generally, matura -
+tion should occur by around 6 weeks after surgery.
+B. Details of fistula maturation. An experienced and well-trained ex-
+aminer can clinically differentiate between a mature and an 
+immature AV fistula. The fistula must be allowed to mature, 
+as premature attempts to cannulate it can be associated with 
+infiltration, compression of the vessel, and permanent loss of 
+the fistula. Primary maturation failure of an AV fistula can re-
+sult from an atherosclerotic artery, inadequate anastomosis, 
+or an inability of the artery and/or vein to dilate due to vessel 
+damage, for example, due to preexisting vascular calcification 
+or sclerosis. One remediable cause is the presence of multiple 
+tributary branches in the vein draining the AV fistula. These 
+branches can siphon off the increased venous flow, lessening 
+the flow-induced increase in fistula pressure that induces mat-
+uration of the main venous channel. Often ligation of such side 
+branches can bring about or hasten the maturation process. 
+If a fistula cannot be cannulated or support dialysis therapy 
+≥6 weeks after placement, an imaging fistulogram should be 
+obtained to determine the source of the problem.
+Daugirdas9781451144291-ch006.indd   108 11/10/14   1:56 am
+Chapter 6 / Arteriovenous Fistulas and Grafts: The Basics 109
+IX. INITIAL TRIAL CANNULATION OF A NEW AV FISTULA. If physical assess-
+ment has shown that the fistula has adequately matured, the next 
+step is to perform a trial cannulation.
+A. Day of the week. If possible, the initial trial cannulation should
+be done on a nondialysis day. This eliminates potential com -
+plications associated with the administration of heparin. If a 
+trial cannulation is not possible, it is best to perform the ini-
+tial cannulation of the new access at the patient’s midweek 
+treatment. Performing the initial cannulation midweek helps 
+minimize such complications as fluid overload and elevated 
+chemistry test results associated with dialysis after a long 
+weekend interval.
+B. “Wet needle” technique.  To ensure that the needle is placed 
+properly, needle placement should be confirmed with a nor -
+mal saline flush before connecting the needles to the blood 
+pump and starting the pump. Blood return alone is not 
+enough to show good needle placement. One option to check 
+for proper needle placement is the use of “wet” needles. The 
+needle is purged of air and the saline in the attached syringe 
+is used to flush the needle. If an infiltration has occurred, the 
+normal saline is less harmful to the surrounding AV fistula tis-
+sue. The wet needle also prevents the risk for a blood spray 
+or spill if dry needles are used for cannulation and the caps 
+are opened to “bleed out” air from the needle. Opening of the 
+needle tubing cap creates a risk for blood exposure to the di-
+alysis team member, patient, and nearby patients.
+C. Needle with a “backeye.” A needle with a backeye should always 
+be used for the arterial needle to maximize the flow from the 
+access and reduce the need for flipping the needle.
+D. Needle size selection.  Needle size selection for the initial can-
+nulation is critical. Visual and tactile examinations allow the 
+cannulator to determine which needle gauge would be most 
+appropriate, based on the size of the vessel. One can place a 
+17G or a 16G needle with its protective cap in place (prevents 
+needle stick) over the cannulation site. One then compares the 
+vein size with the needle size with and without a tourniquet 
+being applied. If the needle is larger than the vein when the 
+tourniquet is applied, then that particular needle size is too 
+large and such a needle may infiltrate in the course of cannula-
+tion. One should use a needle size that is equal to or smaller 
+than the vein (without the tourniquet). The smallest needle 
+available, usually a 17G, typically is used for initial cannula-
+tion attempts. It is important to keep in mind that blood flow 
+delivered by a 17G needle is limited.
+Prepump arterial monitoring is recommended to en -
+sure that blood pump speed does not exceed a flow that the 
+needle can easily provide. Prepump arterial pressure should 
+not exceed −250 mm Hg. Based on performance of the fistula 
+using a 17G needle, the decision to increase the needle size for 
+subsequent cannulation can be made. A 17G needle ordinarily 
+will not deliver more than 250 mL/min blood flow, and a 16G 
+Daugirdas9781451144291-ch006.indd   109 11/10/14   1:56 am
+Part II / Blood-Based Therapies
+110
+needle will not deliver a blood flow rate greater than 350 mL/
+min. Progression from the 17G to larger needles depends on 
+adequate vessel size and access flow.
+E. Initial cannulation procedure
+1. Apply a tourniquet to the access arm.
+2. Disinfect the access site per unit protocol.
+3. Attach a 10-mL syringe filled with 8 mL of normal saline 
+solution to the needle, but do not prime the needle until
+immediately before the cannulation.
+4. Grasp the needle by its butterfly wings and prime the nee-
+dle with normal saline until all the air has been purged.
+Clamp the needle closed. Remove the protective cap and
+immediately proceed with the cannulation.
+5. Carefully cannulate the fistula using a 25° insertion angle.
+When blood flashback  is observed (the needle may need
+to be unclamped to see the blood flashback), flatten the an-
+gle of the needle, parallel to the skin, and advance it slowly 
+into the fistula lumen.
+6. When the needle is in the vessel, remove the tourniquet
+and tape the needle securely per unit protocol. If blood
+flashback is visible, aspirate back 1–5 mL with the 10-mL 
+syringe.
+7. Flush the needle with the normal saline solution and
+clamp. The syringe must aspirate and flush with ease. Mon-
+itor for signs or symptoms of infiltration. Patients usually
+experience immediate sharp pain upon infiltration of sa -
+line or blood into the tissues.
+8. Repeat steps 1–7 for the second needle unless blood return 
+via a venous catheter is planned (see what follows).
+F. One needle technique with return using a venous catheter.  In patients 
+who still have a venous catheter in place, one does not need 
+to necessarily begin dialysis with the new fistula using two 
+needles. The risk of infiltration is much higher with the blood 
+return (dialyzer outflow) needle. For the first 2 or 3 treatments, 
+the blood can be returned via the venous catheter. Next, dialy-
+sis can be done using two needles in the fistula, and only after 
+several treatments have been successful is the venous catheter 
+removed.
+ X. ARTERIOVENOUS GRAFTS. As described at the outset of this chapter, 
+AV grafts are less desirable than AV fistulas, primarily because 
+of their lower long-term patency rates and greater need for en-
+dovascular interventions to maintain patency. AV grafts do have 
+some advantages, including a large surface area for needle place-
+ment, easy cannulation, short maturation time, and easy surgical 
+handling characteristics.
+Most AV grafts placed in the United States are composed 
+of expanded PTFE. The choice of synthetic or biologic material 
+should be based on the surgeon’s preference and experience. Use 
+of cryopreserved vein grafts, especially those placed in the thigh, 
+is associated with a higher risk of infection. Short grafts have no 
+Daugirdas9781451144291-ch006.indd   110 11/10/14   1:56 am
+Chapter 6 / Arteriovenous Fistulas and Grafts: The Basics 111
+advantage over long grafts in terms of patency and longevity. 
+Tapered grafts, externally supported grafts, or elastic grafts do 
+not provide results better than standard PTFE grafts. Modifica-
+tion of the distal anastomosis of PTFE grafts with a venous cuff 
+may decrease venous stenosis and increase graft patency. Newer 
+heparin-bonded materials in grafts are being used, but they do 
+not appear to have any long-term advantages.
+A. Potential AV graft locations
+1. Common locations. Grafts may be placed in straight, looped, or 
+curved configurations (Fig. 6.4). The common initial sites 
+for AV graft placement are a straight graft from the radial 
+artery at the wrist to the basilic vein; a loop graft in the fore-
+arm from the brachial artery to the basilic vein (Fig. 6.5); 
+or an upper arm graft from brachial artery to axillary vein 
+(Fig. 6.6). Patient-specific features and projected time on 
+dialysis help determine location; a distal graft in the non-
+dominant arm is generally preferred initially. While this ap-
+proach preserves proximal arm sites for future placement 
+FIGURE 6.4 Various configuration and sites for AV graft placement. (Reprinted with 
+permission from Paulson WD, Ram SJ, Zibari GB.  Vascular access: anatomy, examination, 
+management. Semin Nephrol. 2002;22:183-194.)
+Daugirdas9781451144291-ch006.indd   111 11/10/14   1:56 am
+Part II / Blood-Based Therapies
+112
+of a fistula, distal grafts are associated with more frequent 
+episodes of thrombosis. A distal graft (e.g., straight forearm 
+graft from radial artery to an antecubital fossa vein) can 
+sometimes be used to mature a proximal downstream vein 
+for future AV fistula construction.
+2. Uncommon locations.  The axillary artery can be used as the
+source of a loop graft in the upper extremity. The graft can 
+extend from the arm to the internal jugular vein to bypass 
+FIGURE 6.6 Upper arm AV graft. (Reprinted with permission from Atlas of Dialysis 
+ Vascular Access—www.fistulafirst.org.)
+FIGURE 6.5 Forearm loop AV graft. (Reprinted with permission from Atlas of Dialysis 
+Vascular Access—http://www.fistulafirst.org.)
+Daugirdas9781451144291-ch006.indd   112 11/10/14   1:56 am
+Chapter 6 / Arteriovenous Fistulas and Grafts: The Basics 113
+ipsilateral subclavian vein stenosis. An AV graft can also be 
+placed in the thigh, but then there is a higher associated 
+complication rate. A chest wall axilloaxillary (necklace) graft 
+is another option when other sites have been exhausted. 
+Multiple other sites including an axillary artery–to–femoral 
+vein graft can be used, depending on the individual patient 
+and the experience and skills of the surgeon.
+B. Surgical placement. Prophylactic antibiotics are often adminis -
+tered just prior to the operation. The anastomosis should be 
+made between the end of the graft and the side of the vein 
+or artery to minimize interference with blood flow through 
+the native vessels. Some studies suggest that nonpenetrating 
+clips may be superior to conventional sutures by avoiding en -
+dothelial penetration. A clip should be placed at the arterial 
+and venous anastomoses for identification during subsequent 
+angiography.
+C. Postoperative care. This is similar to care after creation of an AV 
+fistula. The extremity is kept elevated for several days. Graft 
+function is checked regularly by assessing for venous pulsa-
+tion, thrill, and bruit. There is no point in doing arm exercises 
+to hasten maturation.
+D. Maturation. A PTFE graft should not be cannulated for at least 
+2  weeks after placement and is considered mature when 
+edema and erythema have resolved and the graft course is 
+easily palpable. Adhesion between the graft and the subcu-
+taneous tunnel to prevent hematoma formation requires at 
+least 2–3 weeks. Cannulation of a graft that cannot be easily 
+palpated or in an edematous site invites inaccurate needle in-
+sertion, leading to hematoma formation or frank laceration. 
+Patients with persistent arm edema that fails to respond to 
+arm elevation should have an imaging study to evaluate the 
+status of their central veins.
+1. Early-use grafts. Several early-use grafts have been introduced 
+for immediate postoperative access to avoid risks associated 
+with central venous catheters. The performance of a multi-
+layered, self-sealing polyurethane graft is comparable to that 
+of a conventional PTFE graft and allows for early access. Its 
+placement requires more skill than placement of a conven-
+tional PTFE graft because the risk of graft kinking and twist-
+ing within the tunnel is somewhat higher. Composite grafts 
+should not be cannulated for at least 24 hours after place-
+ment, and not until swelling around the surgical wound has 
+resolved and the graft can be easily palpated. A self-sealing 
+graft composed of heparin-bonded polycarbonate that is 
+immediately available for puncture has been developed.
+2. Autologous tissue grafts.  Preliminary experience with autolo -
+gous, tissue engineered vascular grafts has been encour -
+aging (Wystrychowski, 2013). However, it is not known to 
+what extent use of such grafts will prevent long-term com-
+plications and how resistant they will be to leakage under 
+repeated punctures for regular dialysis.
+Daugirdas9781451144291-ch006.indd   113 11/10/14   1:56 am
+Part II / Blood-Based Therapies
+114
+XI. PHYSICAL EXAMINATION OF AV FISTULAS AND GRAFTS. Physical exami-
+nation is a noninvasive and cost-effective test that is emerging
+as an important tool in the evaluation of an AV access. Multiple
+studies have demonstrated that physical examination can ac -
+curately detect and localize stenotic lesions in a great majority
+of patients with an AV access. Physical examination can be very
+helpful not only in the postoperative monitoring of a new graft or
+fistula but also in the evaluation of access dysfunction. The latter 
+topic is discussed in more detail in Chapter 8.
+A. Inspection. Examination should not be limited to the site of the 
+AV access but should also include the remaining part of arm, 
+shoulder, breast, neck, and face. Presence of swelling in any 
+of these areas should be recorded and raise the suspicion of a 
+downstream stenosis. The presence of collateral veins should 
+also indicate downstream stenosis. Any scars on the chest wall 
+should be carefully examined for evidence of previous catheter 
+insertion sites. The presence of face, neck, or breast swelling 
+usually is due to central venous stenosis.
+B. Palpation and auscultation
+1. Pulse. Normally, an AV access demonstrates a soft pulse
+that is easily compressed by the application of gentle pres-
+sure. In the presence of a downstream stenosis (outflow
+stenosis), the pulse becomes augmented (hyperpulsatile,
+water-hammer pulse). Often, a water-hammer pulse can
+be seen as strong pulsation on inspection. The clinical his-
+tory that goes with this scenario is frequently the presence
+of prolonged bleeding after removal of the access needles. 
+ In  contrast to the water-hammer pulse, a feeble pulse ( flat
+access, hypopulsation) indicates an upstream stenosis. The 
+clinical history that goes with a feeble pulse often includes
+inability to aspirate blood from the arterial needle (needle
+pulling negative pressure). The access is usually “plump” up-
+stream to a stenosis and “flat” downstream from a stenosis.
+2. Thrill. The thrill of an AV access is a “buzz” that can be felt
+by the examining fingers. The thrill can be continuous or
+discontinuous. Normally, there is a continuous nature to
+the thrill except at the arterial anastomosis where the thrill 
+normally is discontinuous. The quality of the thrill should
+be evaluated from the anastomosis all the way to the chest 
+wall (many a times cephalic arch stenosis gives a discon-
+tinuous thrill at the cephalic arch area in the anterior part
+of the shoulder). In the presence of a stenosis, the thrill be-
+comes discontinuous; frequently, a systolic thrill can be felt 
+immediately downstream from a stenosis.
+3. Auscultation. Auscultation can be performed to assess the
+quality of the bruit in the AV access. As with palpation for a 
+thrill, auscultation for a bruit allows for the detection and
+localization of a stenosis by presence of a continuous ver -
+sus discontinuous bruit.
+C. Pulse augmentation and arm elevation tests.  There are two addi-
+tional tests that can be used to quickly examine an AV access. 
+Daugirdas9781451144291-ch006.indd   114 11/10/14   1:56 am
+Chapter 6 / Arteriovenous Fistulas and Grafts: The Basics 115
+The pulse augmentation test evaluates the inflow  segment 
+while the arm elevation test assesses the outflow tract.
+1. Pulse augmentation. This is performed by a complete occlu-
+sion of the access several centimeters beyond the arterial
+anastomosis and evaluation of the strength of the pulse.
+The test is considered normal when the portion of fistula
+upstream from the occluding finger demonstrates an aug -
+mentation of pulse. With an AV fistula, the presence of
+side branches can be detected using the pulse augmenta-
+tion test. Upon occlusion of the outflow of an AV access by
+the examining finger, two things should normally occur.
+(1) The thrill should disappear. (2) The part of the access
+upstream to the occluding finger should become hyperpul-
+satile (augment). If the thrill persists after the occlusion of
+the access, the presence of an accessory outflow pathway
+should be suspected. In this case, the access pulse does
+not augment as the anticipated increase in pressure is dis-
+sipated by the presence of the accessory pathway. One can
+often pinpoint the location of the side branch by moving
+the occluding finger toward the anastomosis of the fistula.
+When the thrill disappears and the access augments, the
+examiner’s occluding finger will have just passed the site of 
+the side branch. Moving the finger away from the anasto-
+mosis should bring the thrill back. This maneuver confirms 
+the location of the side branch.
+2. Arm elevation test. This is performed by elevating the extrem-
+ity and examining the normal collapse of an AV fistula . 
+The test is considered abnormal when the fistula remains
+plump after arm elevation and fails to collapse. This indi-
+cates the presence of downstream stenosis.
+XII. GENERAL ISSUES RELATING TO CANNULATION OF EITHER AV FISTULAS
+OR GRAFTS
+A. Skin preparation. An aseptic technique must be used for all can-
+nulation procedures.
+B. Anesthesia. In pain-sensitive patients, a topical anesthetic 
+cream can be applied to the skin about 30 min utes prior to 
+puncture, but this is rarely required. Most patients, especially 
+those with new accesses, require subcutaneously injected li-
+docaine prior to needle cannulation. Injected anesthetic is 
+especially helpful when manipulation of the needle is antici-
+pated. Patients with established needle tracts often tolerate 
+direct puncture without anesthesia and some find the anes-
+thetic injection more painful than a direct stick.
+C. Use of tourniquets for AV fistulas.  A tourniquet or blood pressure 
+cuff should be used to enlarge and stabilize the vein for easier 
+cannulation of AV fistulas. A tourniquet should not be used 
+during the dialysis treatment; a fistula that works only when a 
+tourniquet is in place is still underdeveloped, usually because 
+of inflow stenosis, and such a fistula needs more time or re-
+evaluation by the vascular access team prior to use.
+Daugirdas9781451144291-ch006.indd   115 11/10/14   1:56 am
+Part II / Blood-Based Therapies
+116
+If a tourniquet is not required for cannulation and the 
+fistula does not soften with arm elevation, a downstream (out-
+flow) stenosis may be present and should be searched for using 
+imaging studies.
+D. Needle size. As noted above, during the initial use of a perma-
+nent vascular access, especially a fistula, some nephrologists 
+recommend the use of small (16G to 17G) needles and low 
+blood flow rates. In mature accesses, larger (15G) needles are 
+needed to support blood flow rates (>350 mL/min) required 
+for high-efficiency dialysis.
+E. Needle position, spacing, and orientation.  Two needles are placed 
+into the dilated vein(s) of the fistula or into the graft. The 
+needle leading to the dialyzer blood inlet is always placed in 
+the more upstream segment but at least 3 cm away from the 
+arterial anastomotic site. This upstream or “arterial” needle 
+may point either upstream or downstream. Pointing the up-
+stream needle in a downstream direction is popular in some 
+countries, the rationale being that the “flap” left behind when 
+the needle is withdrawn tends to close more naturally with the 
+flow of blood. However, there is no controlled evidence to sug-
+gest that this is the case. The downstream (outlet or “venous”) 
+needle should be inserted pointing downstream, approxi-
+mately 5 cm downstream to the upstream (arterial) needle (to 
+minimize recirculation). One study found that recirculation 
+does not occur, even with needles spaced as closely as 2.5 cm 
+from one another (Rothera, 2011). Some caregivers rotate 
+each needle 180 degrees along the needle axis after insertion 
+to prevent potential injury to the deep wall of the vessel by the 
+needle point. This issue has not been systematically studied 
+but generally is not recommended.
+1. Risk of inflow/outflow needle reversal.  Special care must be 
+taken when cannulating forearm loop grafts. In more 
+than 80% of such grafts, the arterial limb will be medial 
+(ulnar), but in the remainder the arterial limb may lie on 
+the radial side of the forearm. Reversal of needle place-
+ment may occur unless the dialysis clinic staff knows that 
+blood in this particular graft flows in the opposite-to-
+usual direction. Reverse needle placement substantially 
+increases the amount of recirculation (to > 20%) and can 
+result in inadequate delivery of dialysis. This happens 
+more commonly than one would expect, as patients may 
+have access surgery at another center and a diagram of 
+the inserted access might not be readily available. When 
+in doubt, a careful physical examination with transient 
+occlusion of the access and palpation on either side of the 
+occluding finger for pulsations will reveal the direction 
+of blood flow in most cases. For reference, a “road map” 
+diagram of the access from the surgeon who placed the 
+access is very helpful.
+F. Repeated punctures: Needle rotation. The manner in which needles 
+are inserted affects the long-term patency and survival of 
+Daugirdas9781451144291-ch006.indd   116 11/10/14   1:56 am
+Chapter 6 / Arteriovenous Fistulas and Grafts: The Basics 117
+accesses, particularly of AV fistulas. The “ladder” or rotational 
+approach uses the entire length of the access without local-
+izing needle sticks to any two areas. Grouping needle sticks 
+in one or two specific areas can weaken the wall of a fistula, 
+producing an aneurysm.
+G. Buttonhole cannulation tips.  In AV fistulas, one technique 
+of placing access needles is the so-called “buttonhole” 
+method. The AV fistula is always punctured through a lim-
+ited number of sites, the use of which may be rotated. The 
+needle must be placed precisely through the same needle 
+tract used previously. After the buttonhole has been devel-
+oped using sharp needles, special “dulled” needles are used 
+to minimize laceration of the buttonhole tract. Initial en-
+thusiasm for the buttonhole approach has been tempered 
+with suggestions that its use may lead to increased infec-
+tious complications and may do little to prolong AV fistula 
+longevity (MacRae, 2014; Muir, 2014). The degree of success 
+with the buttonhole approach may be highly technique de-
+pendent. There is no published experience with the button-
+hole method in AV grafts, and it should not be tried in AV 
+grafts without further study.
+Buttonhole cannulation requires strict adherence to 
+proper infection control measures as well as technique to pre-
+vent serious infection and technique-related complications 
+(Dinwiddie, 2013).
+1. Employ proper buttonhole cannulation procedure steps
+(skin prep, proper scab removal, re-prep of the skin, and
+proper use of blunt needles).
+2. Use the needle wings to help guide the needle gently into
+the skin and vessel or conduit—excessive pressure prevents 
+feedback to the cannulator’s fingers to feel resistance.
+3. Always cannulate the buttonhole under consistent condi-
+tions; if a tourniquet was used to establish the buttonhole,
+it should be used consistently, as otherwise the tissues in
+the buttonhole tract may not align.
+4. Consider the patient as a self-cannulation candidate. Ben -
+efits can include patient empowerment, less pain, and ease 
+of cannulation, as the patient has to master cannulation of
+only his or her own specific access.
+H. Preventing and dealing with infiltration.  Infiltrations with cannula -
+tion can occur before dialysis, during dialysis with the blood 
+pump running, or after dialysis in the course of needle re-
+moval. One should monitor closely for signs and symptoms of 
+infiltration. A quick response to a needle infiltration can help 
+minimize damage to the access.
+1. If the infiltration occurs after the administration of heparin, 
+care must be taken to properly clot the needle tract and not
+the fistula. In some cases, the decision to leave the needle in 
+place and cannulate another site may be appropriate. The
+immediate application of ice can help decrease pain and
+the size of the infiltration and may decrease bleeding time.
+Daugirdas9781451144291-ch006.indd   117 11/10/14   1:56 am
+Part II / Blood-Based Therapies
+118
+2. Use caution when taping needles. Avoid lifting up on the
+needle after it is in the vein. An improper needle flip or tap-
+ing procedure can cause an infiltration.
+3. If the fistula is infiltrated, it is best to rest the fistula for at
+least one treatment. If this is not possible, the next cannu-
+lation should be downstream of  the site of the infiltration.
+If the patient still has a central venous catheter in place,
+one can restart use of the fistula with one needle, return-
+ing blood via the venous catheter, and later advance to two 
+needles, a larger needle size, and greater blood flow rates as 
+the access allows.
+4. Proper needle removal prevents postdialysis infiltrations.
+Prior to removing the needle, apply the gauze dressing over
+the needle site, but do not yet apply pressure. Next, carefully
+remove the needle at approximately the same angle as it was 
+inserted. This prevents dragging the needle across the pa-
+tient’s skin. Using too steep of an angle during needle removal
+may cause the needle’s cutting edge to puncture the vein wall.
+5. Do not apply pressure to the puncture site until the needle
+has been completely removed.
+6. Notify the nephrologist as soon as a cannulation injury has 
+occurred. In some case, fistula rest is adequate. In others,
+an intervention may be required.
+I. Hemostasis postdialysis. Following needle removal, direct pres-
+sure over the site, usually with the tip of one or two fingers 
+pushed firmly but not so hard as to occlude flow, is the best 
+method for achieving hemostasis. One must prevent hema-
+toma formation at the access site while controlling bleeding 
+at the skin exit site. Pressure must be held for at least 10 min-
+utes before checking the needle site for bleeding. Adhesive 
+bandages should not be applied until complete hemostasis 
+has been achieved.
+Prolonged bleeding ( >20 min utes) may indicate in -
+creased intra-access pressure due to an unsuspected outflow 
+stenosis. Bleeding also is common in patients receiving thera-
+peutic doses of anticoagulants such as warfarin. Another cause 
+of bleeding is heparin escape from a venous catheter lock in 
+patients who are being transitioned from a venous catheter to 
+an AV fistula, where the venous catheter is being used to return 
+blood during initial fistula test use.
+References and Suggested Readings
+Agarwal AK. Central vein stenosis: current concepts. Adv Chronic Kidney Dis. 
+2009;16:360–370.
+Agarwal R, McDougal G. Buzz in the axilla: a new physical sign in hemodialysis fore-
+arm graft evaluation. Am J Kidney Dis. 2001;38:853–857.
+Asif A, et al. Early arteriovenous fistula failure: a logical proposal for when and how to 
+intervene. Clin J Am Soc Nephrol. 2006;1:332–339.
+Asif A, et al. Vascular mapping techniques: advantages and disadvantages. J Nephrol. 
+2007;20:299–303.
+Asif A, et al. Accuracy of physical examination in the detection of arteriovenous graft 
+stenosis. Semin Dial. 2008;21:85–88.
+Daugirdas9781451144291-ch006.indd   118 11/10/14   1:56 am
+Chapter 6 / Arteriovenous Fistulas and Grafts: The Basics 119
+Beathard GA. An algorithm for the physical examination of early fistula failure. Semin 
+Dial. 2005;18:331–335.
+Bharat A, Jaenicke M, and Shenoy S. A novel technique of vascular anastomosis to 
+prevent juxta-anastomotic stenosis following arteriovenous fistula creation. J Vasc 
+Surg. 2012;55:274–80.
+Campos PR, et al. Stenosis in hemodialysis arteriovenous fistula: evaluation and treat-
+ment. Hemodial Int. 2006;10:152–161.
+Campos PR, et al. Accuracy of physical examination and intra-access pressure in 
+the detection of stenosis in hemodialysis arteriovenous fistula. Semin Dial. 
+2008;21:269–273.
+Caroli A, et al; for the ARCH project Consortium. Validation of a patient-specific 
+ hemodynamic computational model for surgical planning of vascular access in 
+hemodialysis patients. Kidney Int. 2013;84:1237–1245.
+Chemla ES, et al. Complex bypasses and fistulas for difficult hemodialysis access: a 
+prospective, single-center experience. Semin Dial. 2006;19:246–250.
+Coskun I, et al. Hemodynamic effects of left upper extremity arteriovenous fistula on 
+ipsilateral internal mammary coronary artery bypass graft. Thorac Cardiovasc 
+Surg. 2013;61:663–667.
+Crowther MA, et al. Low-intensity warfarin is ineffective for prevention of PTFE graft 
+failure in patients on hemodialysis: a randomized controlled trial. Clin J Am Soc 
+Nephrol. 2002;13:2331–2337.
+Dember LM, et al; Dialysis Access Consortium (DAC) Study Group. Effect of clopi-
+drogrel on early failure of arteriovenous fistulas for hemodialysis: a randomized 
+controlled trial. JAMA. 2008;299:2164–2171.
+Dinwiddie LC, et al. What nephrologists need to know about vascular access cannula-
+tion. Semin Dial. 2013;26:315–322.
+Drawz PE, et al. A simple tool to predict end-stage renal disease within 1 year in elderly 
+adults with advanced chronic kidney disease. J Am Geriatr Soc. 2013;61:762–768.
+Feldman L, et al. Effect of arteriovenous hemodialysis shunt location on cardiac events 
+in patients having coronary artery bypass graft using an internal thoracic artery. 
+J Am Soc Nephrol. 2013;24:214A (abstract).
+Gradzki R, et al. Use of ACE inhibitors is associated with prolonged survival of arterio-
+venous grafts. Am J Kidney Dis. 2001;38:1240–1244.
+Hoggard J, et al. ASDIN guidelines for venous access in patients with chronic kidney 
+disease: a position statement from the American Society of Diagnostic and Inter-
+ventional Nephrology Clinical Practice Committee and the Association for Vascu-
+lar Access. Semin Dial. 2008;21:186–191.
+Huijbregts HJ, Blankestijn PJ. Dialysis access—guidelines for current practice. Eur 
+J Vasc Endovasc Surg. 2006;31:284–287.
+Jaberi A, et al. Arteriovenous fistulas for hemodialysis: application of high-fre-
+quency US to assess vein wall morphology for cannulation readiness. Radiology . 
+2011;216:616–624.
+Kaufman JS, et al. Randomized controlled trial of clopidogrel plus aspirin to prevent 
+hemodialysis access graft thrombosis. J Am Soc Nephrol. 2003;14:2313–2321.
+Konner K. A primer on the AV fistula—Achilles’ heel, but also Cinderella of haemodi-
+alysis. Nephrol Dial Transplant. 1999;14:2094–2098.
+Lin CC, et al. Effect of far infrared therapy on arteriovenous fistula maturation: an 
+open-label randomized controlled trial. Am J Kidney Dis. 2013;62:304–311.
+Lok CE, Davidson I. Optimal choice for dialysis access for chronic kidney disease pa-
+tients: developing a life plan for dialysis access. Semin Nephrol. 2012;32:530–537.
+Lok CE, et al. Cumulative patency of cotemporary fistulas versus grafts (2000–2010). 
+Clin J Am Soc Nephrol. 2013;8:810–818.
+MacRae JM, et al. Arteriovenous fistula survival and needling technique: long-term 
+results from a randomized buttonhole trial. Am J Kidney Dis. 2014;63:636–642.
+Malovrh M. Native arteriovenous fistula: preoperative evaluation. Am J Kidney Dis. 
+2002;39:1218–1225.
+Maya ID, et al. Vascular access stenosis: comparison of arteriovenous grafts and fistu-
+las. Am J Kidney Dis. 2004;44:859–865.
+Moist LM, et al. Optimal hemodialysis vascular access in the elderly patient. Semin 
+Dial. 2012;25:640–648.
+Moist LM, et al. Education in vascular access. Semin Dial. 2013;26:148–153.
+Muir CA, et al. Buttonhole cannulation and clinical outcomes in a home hemodialysis 
+cohort and systematic review. Clin J Am Soc Nephrol. 2014;9:110–119.
+Daugirdas9781451144291-ch006.indd   119 11/10/14   1:56 am
+Part II / Blood-Based Therapies
+120
+Murea M, et al. Risk of catheter-related bloodstream infection in elderly patients on 
+hemodialysis. Clin J Am Soc Nephrol. 2014;9:764–770.
+National Kidney Foundation. 2006 NKF-K/DOQI clinical practice guidelines for vascu-
+lar access: update 2006. Am J Kidney Dis. 2006;48(suppl 1):S177–S277.
+Ohira S, Kon T, Imura T. Evaluation of primary failure in native AV-fistulae (early fistula 
+failure). Hemodial Int. 2006;10:173–179.
+Okada S, Shenoy S. Arteriovenous access for hemodialysis: preoperative assessment 
+and planning. J Vasc Access. 2014;15(suppl 7):1–5.
+Ortega T, et al. The timely construction of arteriovenous fistulas: a key to reducing 
+morbidity and mortality and to improving cost management. Nephrol Dial Trans-
+plant. 2005;20:598–603.
+Palmes D, et al. Perforating vein fistula is superior to forearm fistula in elderly haemo-
+dialysis patients with diabetes and arterial hypertension. Nephrol Dial Transplant. 
+2011;26:3309–3314.
+Paul BZS, Feeny CM.  Combining the modified Allen’s test and pulse oximetry for eval-
+uating ulnar collateral circulation to the hand for radial artery catheterization of 
+the ED patient. Calif J Emerg Med. 2003;4:89-91.
+Pirozzi N, et al. Microsurgery and preventive haemostasis for autogenous radial–  
+cephalic direct wrist access in adult patients with radial artery internal diameter 
+below 1.6 mm. Nephrol Dial Transplant. 2010;25:520–525.
+Rothera C, et al. The influence of between-needle cannulation distance on the efficacy 
+of hemodialysis treatments. Hemodial Int. 2011;15:546–552.
+Saad TF, et al. Cardiovascular implantable device leads in CKD and ESRD patients: 
+review and recommendations for practice. Semin Dial. 2013;26;114–123.
+Saucy F, et al. Is intra-operative blood flow predictive for early failure of radiocephalic 
+arteriovenous fistula? Nephrol Dial Transplant. 2010;25:862–867.
+Shenoy S. Surgical anatomy of upper arm: what is needed for AVF planning. J Vasc 
+Access 2009;10: 223–232.
+Tangri N, et al. A predictive model for progression of chronic kidney disease to kidney 
+failure. JAMA. 2011;305:1553–1559.
+Tangri N, et al. Validation of the kidney failure risk equation in an International Con-
+sortium [abstract SA-OR055]. J Am Soc Nephrol. 2013;24:84A.
+Vachharajani TJ. Diagnosis of arteriovenous fistula dysfunction. Semin Dial. 
+2012;25;445–450.
+Vachharajani TJ, et al. Re-evaluating the fistula first initiative in octogenarians on he-
+modialysis. Clin J Am Soc Nephrol. 2011;6:1663–1667.
+Vaux E. Effect of buttonhole cannulation with a polycarbonate peg on in-center hemodi-
+alysis fistula outcomes: a randomized controlled trial. Am J Kidney Dis. 2013;62:81–88.
+Wystrychowski W , et al. First human use of an allogeneic tissue-engineered vascular 
+graft for hemodialysis access. J Vasc Surg. 2014, in press.
+Xue JL, et al. The association of initial hemodialysis access type with mortality out-
+comes in elderly Medicare ESRD patients. Am J Kidney Dis. 2003;42:1013–1019.
+Web References
+American Nephrology Nurses’ Association “Save the Vein” project. http://www  
+.annanurse.org/resources/save-the-vein-campaign.
+American Society of Diagnostic and Interventional Radiology. http://www.asdin.org/.
+Atlas of Dialysis Vascular Access. http://www.theisn.org/hemodialysis/education-by-
+topic.
+Fistula First initiative: http://www.fistulafirst.org.
+Physical examination of arteriovenous fistula. http://www.youtube.com/
+watch?v=m1-C61AOY3Q.
+Daugirdas9781451144291-ch006.indd   120 11/10/14   1:56 am

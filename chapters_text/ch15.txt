@@ -1,0 +1,1937 @@
+268
+15
+The most widely used continuous renal replacement therapies (CRRT) 
+for the treatment of critically ill patients in renal failure are continu-
+ous hemodialysis and hemodiafiltration. Two prolonged intermit -
+tent renal replacement therapies (PIRRT), sustained low-  efficiency 
+hemodialysis and sustained low-efficiency  hemodiafiltration, are 
+also quite popular. Continuous hemofiltration and slow continuous 
+ultrafiltration are used, but less commonly.
+ I. NOMENCLATURE. In the Handbook, we abbreviate continuous hemo-
+dialysis as C-HD, whether it is applied using an arteriovenous (AV) 
+or venovenous access. Similarly, continuous hemofiltration is ab-
+breviated as C-HF, and their combination, slow continuous hemo-
+diafiltration, is C-HDF. Historically, one would insert “ AV” or “VV” 
+after the letter “C” to specify that the therapy was given using either 
+an AV or a venovenous access, giving CAVHD or CVVHD (hemodi-
+alysis), CAVH or CVVH (hemofiltration), and CAVHDF or CVVHDF 
+(hemodiafiltration); but today, most treatments are given using a 
+venous catheter–based access, and so use of the “VV” has become 
+superfluous. Slow continuous ultrafiltration is abbreviated as 
+SCUF, and sustained low-efficiency hemodialysis and hemodiafil-
+tration are abbreviated as SLED and SLED-F, respectively. SLED and 
+SLED-F are collectively grouped as forms of prolonged intermittent 
+renal replacement therapy, or PIRRT. Conventional intermittent 
+treatment is called IHD (intermittent hemodialysis) or, more gener-
+ally, IRRT (intermittent renal replacement therapy), given that the 
+intermittent treatment being given is not always hemodialysis.
+A. What are the differences among C-HD, C-HF, and C-HDF?  E ach of these 
+procedures involves slow, continuous passage of blood, taken 
+from either an arterial or a venous source, through a filter. 
+Table 15.1 shows a comparison of these techniques.
+1. Continuous hemodialysis (C-HD). I n C-HD (Fig. 15.1), dialysis so-
+lution is passed through the dialysate compartment of the 
+filter continuously and at a slow rate. In C-HD, diffusion is 
+the primary method of solute removal. The amount of fluid 
+that is ultrafiltered across the membrane is low (usually 
+about 3–6 L per day) and is limited to excess fluid removal.
+Continuous Renal 
+Replacement Therapies
+Boon Wee Teo, Jennifer S. Messer, 
+Horng Ruey Chua, Priscilla How,  
+and Sevag Demirjian
+Daugirdas9781451144291-ch015.indd   268 09/10/14   1:16 am
+269Chapter 15 / Continuous Renal Replacement Therapies
+IHD SLED SCUF C-HF C-HD C-HDF
+Membrane permeability Variable Variable High High High High
+Anticoagulation Short Long Continuous Continuous Continuous Continuous
+Blood flow rate (mL/min) 250–400 100–200 100–200 200–300 100–300 200–300
+Dialysate flow rate (mL/min) 500–800 100 0 0 16–35 16–35
+Filtrate (L per day) 0–4 0–4 0–5 24–96 0–4 24–48
+Replacement fluid (L per day) 0 0 0 22–90 0 23–44
+Effluent saturation (%) 15–40 60–70 100 100 85–100 85–100
+Solute clearance mechanism Diffusion Diffusion Convection 
+(minimal)
+Convection Diffusion Diffusion + 
+convection
+Urea clearance (mL/min) 180–240 75–90 1.7 17–67 22 30–60
+Duration (hr) 3–5 8–12 Variable >24 >24 >24
+C-HD, slow continuous hemodialysis; C-HF, slow continuous hemofiltration; C-HFD, slow continuous hemodiafiltration; IHD, intermittent hemodialysis; SCUF, slow continuous ultrafiltration; SLED,  
+sustained low-efficiency dialysis. 
+Modified from Metha RL. Continuous renal replacement therapy in the critically ill patient. Kidney Int. 2005;67:781–795.
+Comparison of Techniques
+15.1
+TABLE
+Daugirdas9781451144291-ch015.indd   269 09/10/14   1:16 am
+Part II / Blood-Based Therapies
+270
+2. Continuous hemofiltration (C-HF). I n C-HF (Fig. 15.2), dialysis solu-
+tion is not used. Instead, a large volume (about 25–50  L per 
+day) of replacement fluid is infused into either the inflow or 
+the outflow blood line (predilution or postdilution mode, 
+ respectively). With C-HF, the volume of fluid that is ultrafil-
+tered across the membrane is the sum of replacement fluid and 
+excess fluid removed, and so is much higher than with C-HD.
+3. Continuous hemodiafiltration (C-HDF).  T his (Fig. 15.2) is simply 
+a combination of C-HD and C-HF. Dialysis solution is used, 
+and replacement fluid is also infused into either the inflow 
+or the outflow blood line. The daily volume of fluid that is 
+ultrafiltered across the membrane is equal to the replace-
+ment fluid infused plus the net volume removed. Usually, the 
+FIGURE 15.1 Typical circuit for slow continuous hemodialysis. Anticoagulation with 
+either heparin or regional citrate is shown. For slow continuous ultrafiltration, the circuit 
+is the same, except that dialysis solution inflow is not used.
+Patient
+Regional Citrate
+Anticoagulation
+Citrate
+Arterial Venous
+Heparin
+Anticoagulation
+Dialyzer
+Drainage Dialysis Solution
+C-HD
+Calcium
+Replacement
+Daugirdas9781451144291-ch015.indd   270 09/10/14   1:16 am
+271Chapter 15 / Continuous Renal Replacement Therapies
+FIGURE 15.2 Typical circuit for continuous hemofiltration and slow continuous 
+ hemodiafiltration. In slow continuous hemofiltration (C-HF), replacement fluid can 
+be infused in the predilution mode, or postdilution mode, or both simultaneously. In 
+slow continuous hemodiafiltration, hemodialysis is performed concurrently with C-HF. 
+ Anticoagulation with either heparin or regional citrate is shown.
+Patient
+Regional Citrate
+Anticoagulation
+Citrate
+Arterial Venous
+Heparin
+Anticoagulation
+Predilution Postdilution
+Dialyzer
+Drainage Dialysis Solution
+C-HDF
+C-HF
+Replacement Fluid
+Calcium
+Replacement
+replacement fluid volume with C-HDF is about half that used 
+with C-HF, but the total effluent volume (replacement fluid + 
+ dialysis solution + excess fluid volume removed) with C-HDF 
+is similar to that with C-HF, where effluent volume is the sum 
+of replacement fluid and excess fluid volume only.
+4. Slow continuous ultrafiltration (SCUF).  T he setup is similar to that 
+for C-HD and C-HF, but neither dialysis solution nor replace-
+ment fluid is used. Daily ultrafiltered fluid volume across 
+the membrane is low (usually about 3–6 L per day), similar 
+to C-HD.
+Daugirdas9781451144291-ch015.indd   271 09/10/14   1:16 am
+Part II / Blood-Based Therapies
+272
+B. Sustained low-efficiency dialysis and hemodiafiltration (SLED and 
+ SLED-F). S LED is a form of IHD using an extended (6- to 
+ 10-hour) session length and reduced blood and dialysate flow 
+rates. Typically, blood flow rates (BFRs) are about 200 mL/min 
+and dialysate flow rate is 100–300 mL/min. Regular hemodial-
+ysis equipment can be used as long as low blood and dialysate 
+flow rates are supported; a software update may be required 
+with certain dialysis machines to provide the lower rates. The 
+same machine used for IHD during the day often can be used 
+for SLED during the night, and hemodialysis nurses can easily 
+be trained to perform SLED, offering some economy of staff 
+instruction. SLED allows units where CRRT equipment or per-
+sonnel are unavailable or limited to offer a treatment modality 
+that should achieve similar benefits as CRRT.  SLED-F requires 
+additional infusion of replacement fluid unless  replacement 
+fluid can be made from dialysis solution online by the dialysis 
+machine (Marshall, 2004).
+ II. CLINICAL INDICATIONS FOR CRRT VERSUS INTERMITTENT RENAL RE-
+PLACEMENT THERAPY . T he potential advantages of the various 
+CRRT procedures as well as SLED are listed in Table 15.2. They 
+include a lower rate of fluid removal as well as enhanced con-
+trol of azotemia when compared with  standard IHD. Despite 
+the seemingly obvious advantages of slow continuous therapies, 
+there has been no evidence from several randomized trials that, 
+in the acute renal failure setting, use of CRRT offers a survival 
+advantage over IHD (Rabindranath, 2007). However, most trials 
+excluded the sickest patients from treatment with conventional 
+IHD. The 2012 KDIGO Guidelines for acute kidney injury (AKI) 
+suggest (level 2B evidence) that clinicians use CRRT rather than 
+standard IRRT for hemodynamically unstable patients, and also 
+suggest using CRRT to treat AKI patients with acute brain injury 
+or other causes of increased intracranial pressure or generalized 
+brain edema (KDIGO AKI, 2012). However, the guidelines rec-
+ognize that the use of prolonged IRRT therapies such as SLED 
+or SLED-F may be as useful to treat hemodynamically unstable 
+patients as CRRT, but point to the paucity of outcomes trials 
+1. Hemodynamically well tolerated; smaller change in plasma osmolality.
+2. Better control of azotemia and electrolyte and acid–base balance; correct 
+abnormalities as they evolve; steady-state chemistries.
+3. Highly effective in removing fluid (postsurgery, pulmonary edema, ARDS).
+4. Facilitates administration of parenteral nutrition and obligatory intravenous 
+medications (i.e., pressor, inotropic drugs) by creating unlimited “space” by 
+virtue of continuous ultrafiltration.
+5. Less effect on intracranial pressure.
+6. New user-friendly machines available.
+Potential Advantages of Slow Continuous Therapies
+15.2
+TABLE
+Daugirdas9781451144291-ch015.indd   272 09/10/14   1:16 am
+273Chapter 15 / Continuous Renal Replacement Therapies
+comparing CRRT with prolonged IRRT. Some early comparisons 
+(Van Berendoncks, 2010; Marshall 2011) suggest that outcome re-
+sults with prolonged IRRT are similar to those of CRRT, and that 
+considerable cost savings are achieved with prolonged IRRT.
+ III. TRAINING AND EQUIPMENT COSTS.  T he use of continuous proce-
+dures requires an effort on the part of nursing staff in the ICU to 
+become familiar with the procedures. In units with high staff turn-
+over rates and in units where continuous therapies are done in-
+frequently, use of prolonged intermittent therapies such as SLED 
+may be a more practical option. However, in high-volume units 
+where continuous therapies are a common part of the dialysis ar-
+mamentarium, use of such therapies can aid in the fluid, solute, 
+and nutritional management of the most challenging patients.
+ I V. DIFFERENCES AMONG C-HD, C-HF , AND C-HDF IN CLEARANCE OF SMALL- 
+AND LARGE-MOLECULAR-WEIGHT SOLUTES
+A. Solute clearance with C-HD.  I n C-HD, where the BFR is 150–200 
+mL/min or more, and dialysate flow rate typically is 25–30 
+mL/min, clearance of urea and other small molecules is deter-
+mined primarily by the dialysis solution flow rate. As a rule of 
+thumb, BFR in C-HD should be at least three times the  dialysate 
+flow rate. At this slow BFR and high blood-to-  dialysate flow 
+ratio, the outflow dialysate is almost 100% saturated with urea 
+and other small-molecular-weight (MW) solutes. Urea clear -
+ance can thus be simply estimated by the  effluent volume, 
+which includes the volume of dialysis  solution used plus any 
+excess fluid removed.
+The standard dialysis solution inflow rate is now about 
+20–25 mL/kg per hour. In a 70-kg individual, this translates 
+into a flow rate of 23–29 mL/min. If we assume a flow rate of 
+26 mL/min and 100% saturation, this will deliver a urea clear -
+ance of 26 mL/min or about 37 L per day, and if we add 3 L per 
+day of excess fluid removal, this gives a daily effluent volume 
+and urea clearance of 37 + 3 = 40 L. In terms of urea kinetics, 
+this 40 L can be thought of as the familiar (K × t) measure 
+of clearance. For a patient with a urea distribution volume 
+of 40 L, such a prescription would translate to a daily Kt/V of 
+40/40  = 1.0 or about 7.0 per week. This compares favorably 
+with an equivalent weekly Kt/V urea delivered by thrice-weekly 
+IHD of about 2.7 (see Chapter 3 to find out how equivalent 
+weekly Kt/V urea is calculated).
+B. Solute clearance with C-HF.  C-HF is a purely convection-based 
+blood cleansing technique. As blood flows through the he-
+mofilter, a transmembrane pressure gradient between the 
+blood compartment and the ultrafiltrate compartment 
+causes plasma water to be filtered across the highly per -
+meable membrane. As the water crosses the membrane, it 
+sweeps along with it (nonprotein-bound) small and large 
+molecules (pore size permitting) and thus leads to their re-
+moval from the blood. The removed ultrafiltrate is replaced 
+Daugirdas9781451144291-ch015.indd   273 09/10/14   1:16 am
+Part II / Blood-Based Therapies
+274
+by a balanced electrolyte solution infused into either the 
+inflow (predilution) or the outflow (postdilution) line of 
+the hemofilter. Typically, about 20–25 mL/kg per hour of 
+replacement fluid is infused. The filter outflow or “drainage 
+fluid” is nearly 100% saturated with urea when  postdilution 
+mode is used.
+1. Filtration fraction.  T his is the fraction of plasma flowing 
+through the hemofilter that is removed. Filtration fraction 
+can be calculated as the ultrafiltration rate divided by the 
+plasma flow rate. The latter is simply BFR × (1 – Hct ). For 
+example, if the BFR is 150 mL/min and the Hct is 33%, the 
+plasma flow rate will be 0.67 × 150 = 100 mL/min. If the 
+UF rate is 25 mL/min, then the filtration fraction is 25/97, 
+or about 25%. The rule of thumb is to keep the filtration 
+fraction at 25% or lower to avoid overconcentration of red 
+cells and plasma proteins in the hemofilter. Overconcen-
+tration results in fouling of the membrane pores, which can 
+impair UF efficiency and lower the sieving coefficient, and 
+overconcentration can also increase the likelihood of clot -
+ting. To avoid overconcentration and keep filtration frac-
+tion below 25%, when a high replacement fluid infusion 
+rate in postdilution mode is desired, the BFR needs to be 
+increased above the usual 150 mL/min.
+2. Predilution mode. A nother way to keep the filtration fraction 
+from increasing is to use predilution mode. With predilu-
+tion, there is slight lowering of the urea concentration of 
+ultrafiltrate (usually 80%–90% of the corresponding plasma 
+value), but this is outweighed by the ability to deliver an 
+increased replacement solution infusion rate, enhancing 
+overall middle-molecule clearances. We recommend using 
+predilution whenever it is desirable to remove more than 
+25 L per day. Predilution is also performed if the baseline 
+blood viscosity is relatively elevated (e.g., if the hematocrit 
+is >35%). A combination of pre- and postdilution has been 
+advocated by some practitioners.
+3. Calculating the dilutional effects of predilution mode.  A s an ex -
+ample, assume that the replacement fluid infusion rate is 
+25 mL/min and BFR is 150 mL/min. The amount of dilution 
+of waste products in the blood entering the filter will be 25/
+(150 + 25) = 14%. Assuming that 35 L per day of replace-
+ment fluid is used and that 5 L per day of excess fluid is 
+removed, daily effluent volume will typically be about 40 L 
+per day. In postdilution mode, (K × t) t will be 40 L. In predi-
+lution mode, (K × t) will be perhaps 15% less, 34 L, and so, 
+assuming V = 40 L, then daily Kt/V with C-HF will be about 
+40/40 = 1.0 (postdilution) or 34/40 = 0.85 (predilution).
+C. Urea clearance with C-HDF. W ith C-HDF, the sum of the dialysis 
+solution flow rate, replacement fluid infusion rate, and re -
+moval of excess fluid usually is set at a level similar to the outlet 
+flow rate in C-HD or postdilution C-HDF. The clearance calcu-
+lations are similar to those discussed above. The clearance of 
+Daugirdas9781451144291-ch015.indd   274 09/10/14   1:16 am
+275Chapter 15 / Continuous Renal Replacement Therapies
+small molecules with C-HDF is similar to that with C-HD and 
+C-HF when the daily effluent volumes are comparable.
+D. Small- versus middle-molecular -weight solute removal with C-HF ver -
+sus C-HD.  W ith C-HD, the outflow dialysate is not as highly 
+saturated with larger-MW substances that diffuse slowly in 
+solution and thus have a lower rate of diffusive transfer across 
+the dialyzer membrane. In contrast, with C-HF, the plasma ul-
+trafiltrate is almost completely saturated with both low- and 
+middle-MW solutes, because the convective removal rates of 
+small- and larger-MW solutes are similar. Hence, C-HF is more 
+efficient than C-HD in terms of larger-MW toxin removal, 
+including peptides, certain antibiotics, and vitamin B 12. The 
+theoretical advantage of C-HF is technically demanding to 
+realize, as it can be challenging to ultrafilter >25 L from pa-
+tients who cannot deliver the high BFRs required to prevent 
+overconcentration. Also, fluid balancing becomes critical 
+when the replacement fluid infusion rate is high. With high-
+volume C-HF, any slowing of the BFR will result in transient 
+hemoconcentration in the hemofilter, with attendant risk of 
+clotting. On the other hand, it is easy to perform C-HD using 
+dialysis solution flow rates of 50 L per day. For this reason, in 
+daily practice, C-HD tends to be the more popular therapy, and 
+if enhanced removal of middle molecules is desired, a replace-
+ment fluid component is added (C-HDF).
+1. Filter surface area and clearance of larger-MW substances: O ne in 
+vitro study of clearance of larger-MW substances by C-HF 
+versus C-HD with two different-sized filters (0.4 vs. 2.0 m 2) 
+came up with some counterintuitive results: with the larger 
+membrane, the clearance of large-MW substances was 
+identical with C-HD and C-HF, and with the smaller (0.4-m2 
+membrane), clearance of large-MW substances was actu-
+ally worse with C-HF than with C-HD (Messer, 2009). The 
+proposed explanation was increased protein fouling of the 
+smaller membrane in C-HF mode. These results suggest 
+that using a high replacement fluid flow rate with a small 
+hemofilter may not be an efficient way to increase removal 
+of larger, middle molecules.
+ V. V ASCULAR ACCESS
+A. Venovenous blood access.  V ascular access is obtained using a 
+dual-lumen cannula inserted into a large (internal jugular or 
+femoral) vein. The subclavian vein can be used but is not the 
+site of first choice. See Chapter 7. The 2012 KDIGO AKI guide-
+lines recommend using uncuffed venous catheters for CRRT 
+(5.4.1). The level of evidence for this is weak (2D). The ratio-
+nale is that insertion of an uncuffed catheter is easier, that the 
+need for a cuffed catheter might sometimes delay initiation of 
+therapy, and that the average duration of CRRT is only 12–13 
+days (KDIGO, 2012). One study (Morgan, 2012) compared use 
+of longer (20–24 cm) soft, silicone temporary catheters for 
+CRRT, targeting placement of the catheter tip near the right 
+Daugirdas9781451144291-ch015.indd   275 09/10/14   1:16 am
+Part II / Blood-Based Therapies
+276
+atrium, versus shorter (15–20 cm) catheters targeting place-
+ment of the catheter tip in the superior vena cava; the longer 
+catheters were associated with longer filter life and improved 
+dose of therapy. In another study looking at the success rate of 
+CRRT achieved by femoral venous access, filter longevity aver-
+aged 15 hours when the venous catheter was inserted on the 
+right side versus 10 hours when the left femoral vein was used 
+(Kim, 2011). The mechanism of the advantage of right-sided 
+femoral catheters was not clear.
+B. Arteriovenous blood access.  O ne can cannulate a large artery, 
+usually the femoral artery, and propel blood through the ex -
+tracorporeal circuit by using the patient’s own arterial pres -
+sure instead of a pump. Blood is returned via any large vein. 
+Use of AV blood access for CRRT is no longer widely practiced. 
+There is risk of damage to the femoral artery with possible dis-
+tal limb ischemia, plus AV access will often not deliver high 
+enough blood flows to be able to support the more intensive 
+CRRT therapies in common use today. However, CRRT using 
+AV access may be lifesaving in situations where a mass catas-
+trophe has occurred (e.g., earthquake with renal injury due to 
+rhabdomyolysis) and electrical power sources are unreliable, 
+because blood flow is then driven by a patient’s own blood 
+pressure and ultrafiltration is adjusted by using gravity (or 
+clamp) via the height of the effluent collection container. For a 
+detailed description of CRRT using an AV access, please refer 
+to the third edition of the Handbook.
+C. Catheter changes: Scheduled changes versus changing only when 
+clinically indicated.  C RRT catheters should be changed only 
+when clinically indicated; catheters should not be changed 
+according to some predetermined schedule in the hopes of 
+minimizing the rate of catheter sepsis. The practice of rou-
+tine, scheduled catheter changes, once popular, is not recom-
+mended by the Centers for Disease Control and Prevention 
+(CDC), and studies do not support this approach.
+ VI. CRRT FILTERS. T he terms “hemofilter” and “dialyzer” are used in-
+terchangeably in this chapter. Hemofilters have only one outlet in 
+the housing, making use of dialysis solution impossible. Dialyzers 
+have a second port. Dialyzers used for CRRT should have high wa-
+ter permeability, and so will be in the “high-flux” category. Some 
+of the early filters designed primarily for C-HF had excellent wa-
+ter permeability and convective solute clearance, but had poor 
+diffusive clearance when used for C-HD; there was poor optimi-
+zation of contact between dialysis solution and all parts of the 
+membrane in these filters. Currently used CRRT filters allow urea 
+in the blood compartment of the filter to equilibrate promptly 
+with dialysate, making them suitable for both C-HF and C-HD.
+A. Filter surface area and size.  T he size of the filter should take the 
+BFR into account. When large filters are used at low BFRs, the 
+risk of clotting may be increased, as such filters will have been 
+designed for much higher BFRs. Flow velocity through each 
+Daugirdas9781451144291-ch015.indd   276 09/10/14   1:16 am
+277Chapter 15 / Continuous Renal Replacement Therapies
+fiber will be slow. Furthermore, the permeation of the fiber bun-
+dle by dialysis solution may be suboptimal with large dialyzers 
+designed to be used at high dialysate flow rates. On the other 
+hand, larger dialyzers can be used at higher BFRs such as those 
+in some higher-efficiency SLED protocols, in order to maximize 
+middle-molecule solute clearances. The study by Messer et al. 
+(2009) described above also suggests that use of a larger-size 
+filter might be considered when removal of larger-MW solutes 
+is desired and a high replacement fluid rate is to be used.
+ VII. DIAL YSATES AND REPLACEMENT SOLUTIONS.  C RRT fluids come 
+premixed as commercially prepared sterile solutions. They are 
+typically packaged in 2.5-L or 5-L bags; in some cases fluids 
+are supplied in bags with two compartments that need to be 
+mixed immediately prior to use.
+A. Composition. T able 15.3 lists the composition of some com-
+monly available commercially prepared solutions for CRRT.
+1. Buffers. S olutions contain either lactate or bicarbonate.
+a. Lactate-based solutions.  P ure lactate-based replacement 
+fluid usually contains 40–46 mM of lactate. Lactate-
+based solutions effectively correct metabolic acidosis 
+in most patients. Lactate is metabolized on a 1:1 molar 
+basis to bicarbonate, but in practice, the dialysis solution 
+lactate concentration needs to be higher than dialysis 
+solution bicarbonate to effect similar degrees of correc -
+tion of acidosis.
+b. Bicarbonate-based solutions.  B icarbonate-containing bags 
+are sold as two-compartment systems, similar to those 
+used to prepare bicarbonate-containing dialysis solu -
+tion for peritoneal dialysis. Bicarbonate is the buffer 
+of choice, and total base concentrations are typically 
+ 25–35  mM. Some solutions contain a small amount 
+(3 mM) of  lactate, left over from lactic acid used to acid-
+ify the final solution. There is no evidence that this small 
+amount of lactate contributes to hyperlactatemia.
+When a high dialysis solution or replacement solu-
+tion flow rate (e.g., >30 mL/kg/hour) is prescribed, use of 
+lower bicarbonate solutions may help prevent metabolic 
+alkalosis. Lower bicarbonate concentration solutions or 
+bicarbonate-free solutions are also indicated when using 
+regional citrate anticoagulation, because citrate is me -
+tabolized to bicarbonate by the liver.
+c. When high-lactate solutions should be used with caution : Use 
+of solutions using lactate as the primary bicarbonate-  
+generating base has been shown to worsen hyperlacta -
+temia in patients who have severe circulatory instability 
+with tissue hypoperfusion, and in patients with severe 
+liver compromise. The 2012 KDIGO AKI guidelines sug-
+gest using bicarbonate-based solutions for all patients 
+with AKI at a low level of evidence (2C), but recommend 
+using such solutions more strongly for patients with liver 
+Daugirdas9781451144291-ch015.indd   277 09/10/14   1:16 am
+278
+Component (mM)
+Dialysis Machine 
+Generateda
+Peritoneal Dialysis 
+Fluidb
+Lactated Ringer 
+Solution
+B. Braun Duosol 
+(5-L bag)
+Baxter Accusolb 
+(2.5-L bag)
+Gambro Prismasolc 
+(5-L bag)
+Nxstage Pureflowd 
+(5-L bag)
+Sodium 140 132 130 136 or 140 140 140 140
+Potassium Variable — 4 0 or 2 0 or 2 or 4 0 or 2 or 4 0 or 2 or 4
+Chloride Variable 96 109 107–111 109.5–116.3 106–113 111–120
+Bicarbonate Variable — — 25 or 35 30 or 35 32 25 or 35
+Calcium Variable 1.75 (3.5 mEq/L) 1.35 (2.7 mEq/L) 0 or 1.5 (0 or 3.0 
+(mEq/L)
+1.4 or 1.75  
+(2.8 or 3.5 mEq/L)
+0 or 1.25 or 1.75  
+(0 or 2.5 or 3.5 mEq/L)
+0 or 1.25 or 1.5 (0 
+or 2.5 or 3.0 mEq/L)
+Magnesium 0.75 (1.5 mEq/L) 0.25 (0.5 mEq/L) — 0.5 or 0.75  
+(1.0 or 1.5 mEq/L)
+0.5 or 0.75  
+(1.0 or 1.5 mEq/L)
+0.5 or 0.75  
+(1.0 or 1.5 mEq/L)
+0.5 or 0.75 
+(1.0 or 1.5 mEq/L)
+Lactate 2 40 28 0 0 3 0
+Glucose (mg/dL) 100 1,360 — 0 or 100 0 or 100 0 or 100 100
+Glucose (mM) 5.5 75.5 — 0 or 5.5 0 or 5.5 0 or 5.5 5.5
+Preparation 
+method
+6-L bag via 
+membrane 
+filtration
+Premix Premix Two-compartment 
+bag
+Two-compartment 
+bag
+Two-compartment 
+bag
+Two-compartment 
+bag
+Sterility No Yes Yes Yes Yes Yes Yes
+Composition of Some Continuous Renal Replacement Therapy Solutions
+15.3
+TABLE
+Daugirdas9781451144291-ch015.indd   278 09/10/14   1:16 am
+279Chapter 15 / Continuous Renal Replacement Therapies
+failure and/or lactic acidosis (level of evidence 2B) and 
+for patients in circulatory shock (level of evidence 1B).
+d. Citrate-based solutions.  T hese fluids evolved from at -
+tempts to merge the buffering and anticoagulation 
+properties of citrate, and the need to simplify complex 
+regional citrate anticoagulation (RCA) protocols. The 
+bulk of citrate-based fluids have to be administered pre-
+filter to allow adequate filter anticoagulation. Forty to 
+60% of citrate infused in predilution mode is removed in 
+the effluent, and the remainder is mainly metabolized 
+by the liver into bicarbonate (1 mmol citrate yielding 
+3 mmol bicarbonate). Therefore, it is not appropriate 
+to use these solutions in C-HD where dialysate flow is 
+countercurrent to blood, or C-HF/HDF with predomi-
+nantly postfilter replacement. Preparations containing 
+citrate at concentrations of 11–12 mM may not provide 
+adequate buffering capacity (Naka, 2005). Fluids with 
+a higher citrate concentration (14 mM) provide better 
+acidosis correction with improved filter life (Egi, 2005, 
+2008). Citrate-based solutions at 18 mM are available but 
+the acid–base consequences have not been adequately 
+studied. It is best to infuse citrate-containing replace-
+ment fluid predilution, adjusting the flow to achieve an 
+optimum prefilter citrate to blood flow ratio, and then 
+additional solute removal can be achieved by using 
+ bicarbonate-based solutions given either as dialysate or 
+postdilution replacement fluid. Additional methods of 
+citrate anticoagulation as well as potential advantages 
+of this approach are discussed later in this chapter.
+2. Sodium. C ommercially available CRRT fluids usually con -
+tain physiologic sodium concentrations at or close to 
+140 mM. When treating patients with severe, and especially 
+longstanding, hyponatremia, where the goal is to slowly 
+increase the serum sodium at a rate no greater than 6-8 
+mmol/L per day, the replacement fluid or dialysis solution 
+needs to be diluted with water, to a concentrate just slightly 
+greater than the predialysis sodium value.  For details 
+please see Yessayan et al (2014). In some anticoagulation 
+methods requiring infusion of trisodium citrate into the 
+blood lines, custom-made, low-sodium (100 mM) dialysis/
+replacement solutions can be used to limit the  occurrence 
+of hypernatremia.
+3. Potassium. C RRT fluids with no potassium are suitable for 
+initial treatment of AKI patients with severe hyperkalemia. 
+Once serum potassium has decreased to a safe level, fluids 
+containing 4 mM potassium are used to minimize arrhyth-
+mia risk and depletion of body potassium. Commercially 
+made fluids come premixed with potassium concentra-
+tions of 0, 2, or 4 mM. The lower potassium content solu-
+tions also may be used as needed in patients who are highly 
+catabolic with persistent hyperkalemia.
+Daugirdas9781451144291-ch015.indd   279 09/10/14   1:16 am
+Part II / Blood-Based Therapies
+280
+4. Phosphate. H ypophosphatemia during extended CRRT is 
+common and can result in respiratory muscle weakness 
+and prolonged respiratory failure in critically ill patients 
+(Demirjian, 2011). Phosphate replacement for severe hy-
+pophosphatemia is routine, but frequent monitoring of 
+ serum phosphorus levels is necessary. Off-label addition 
+of phosphate to CRRT fluid to maintain a level of 1.2 mM 
+has been reported to maintain serum phosphorus with 
+good clinical efficacy (Troyanov, 2004). A replacement so-
+lution containing phosphate at 1.2 mM and bicarbonate 
+at 30 mM is available, but its use has been associated with 
+mild metabolic acidosis and hyperphosphatemia com -
+pared with conventional CRRT fluids (Chua, 2012). The 
+ideal fluid phosphate content should probably be lower, 
+and further research is desirable.
+AKI has been reported after phosphate enemas and 
+after IV phosphorus infusion. In one audit, infusion of an 
+IV solution of sodium/potassium phosphate containing 
+20 mM phosphate over an average of 5 hours was not asso-
+ciated with elevation of creatinine in patients with residual 
+kidney function, but was associated with some reduction in 
+ionized calcium concentration (Agarwal, 2014).
+5. Calcium and magnesium.  M ost dialysis/replacement solu -
+tions contain 1.5–1.75 mM of calcium and 0.5–0.6 mM of 
+magnesium, and their use usually allows maintenance 
+of desired systemic levels. During RCA, citrate binds to 
+and depletes serum calcium and magnesium. CRRT solu-
+tions used during RCA often contain no calcium to facili-
+tate reduction of ionized calcium in the filter by citrate 
+to allow adequate circuit anticoagulation. With RCA, 
+separate systemic infusions of calcium and sometimes 
+magnesium with strict monitoring protocols are thus 
+necessary.
+6. Glucose. M odern CRRT solutions are either glucose free, 
+or contain physiologic glucose concentrations, usually 
+5.5  mM (100 mg/dL). Use of glucose-free fluids in CRRT 
+is associated with hypoglycemia, and glucose-containing 
+CRRT fluids are preferred; regular monitoring and admin -
+istration of insulin is necessary to prevent hyperglycemia 
+and to achieve a target serum glucose of 6–8 mM, a level 
+that has been associated with the best outcomes. Another 
+argument against use of glucose-free CRRT solutions is that 
+substantial amounts of glucose can be removed from the 
+body with their use, and this may  adversely affect nutri-
+tional balance (Stevenson, 2013).
+B. Methods of preparing bicarbonate-based CRRT solutions when prepack-
+aged solutions are not available. C ustomized solutions can be pre -
+pared in the pharmacy, or by the dialysis machine in the form 
+of ultrapure solutions; the latter is appropriate only in coun-
+tries where regulatory approval for online hemodiafiltration 
+Daugirdas9781451144291-ch015.indd   280 09/10/14   1:16 am
+281Chapter 15 / Continuous Renal Replacement Therapies
+has been granted. One can prepare sterile dialysis/replace-
+ment fluid manually to achieve solutions containing 30–35 
+mM bicarbonate. Bicarbonate is in equilibrium with carbonic 
+acid, which breaks down to CO 2 and H 2O; therefore, bicar -
+bonate solutions are unstable. Bicarbonate also forms in -
+soluble salts when in solution with calcium and magnesium. 
+Therefore, bicarbonate-based dialysis/replacement solutions 
+should be prepared just before use.
+1. Single-bag method.  D ialysis or replacement solution con -
+taining bicarbonate and no lactate is made by adding (usu-
+ally this is done by the hospital pharmacy service) NaHCO3 
+and some additional NaCl to 0.45% NaCl obtained commer-
+cially. A small amount of CaCl 2⋅2H2O is added as well, and 
+magnesium is given parenterally as needed.
+Formulation: 1.0 L of 0.45% NaCl + 35 mL of 8.4% NaHCO 3 
+(35 mmol) + 10 mL of 23% NaCl (40 mmol) + 2.1 mL of 
+10% CaCl 2⋅2H2O (1.45 mmol or 2.9 mEq); total volume = 
+1.047 L.
+Final concentrations in mM: Na, 145; Cl, 114; HCO 3, 33; and 
+Ca, 1.35 (2.7 mEq/L).
+2. T wo-bag method.  B ags of 0.9% saline with added calcium 
+are alternated with bags of 0.45% saline with added 
+bicarbonate.
+Formulation: Solution A: 1.0 L of 0.9% saline + 4.1 mL of 10% 
+CaCl2⋅2H2O (2.8 mmol or 5.6 mEq). Solution B: 1.0 L of 0.45% 
+saline + 75 mL of 8.4% NaHCO3 (75 mmol); total volume = 
+2.079 L.
+Final concentrations in mM (when considered together): Na, 147; Cl, 
+114; HCO3, 36; and Ca, 1.35 (2.7 mEq/L).
+3. Dialysis machine method (C-HD only).  O ne can prepare 
+bicarbonate- containing dialysis solution for C-HD by ul-
+trafiltering dialysis solution prepared by a standard dialysis 
+machine across a dialyzer (to remove bacteria) and storing 
+the solution in a 15-L sterile drainage bag from a peritoneal 
+dialysis cycler. Such solutions should be used promptly af-
+ter preparation. This technique has since been modified by 
+storing solutions in more convenient 6-L sterile bags. The 
+fluid preparation does not show growth of bacteria for at 
+least 72 hours and for up to 1 month in tests. Routinely, 
+however, the bags are discarded if not used within 72 hours 
+of preparation by protocol. In 10 years of use, there have 
+been no reported adverse events, and Limulus amebocyte 
+lysate assays for endotoxin are reliably below the limit of 
+detection (Teo, 2006).
+C. Sterility .  S terile dialysis solution is used for C-HD and C-HDF 
+because the slow dialysate transit time plus the extended time 
+of use of the same circuit and dialyzer could otherwise encour-
+age bacterial growth in the dialysate circuit. All replacement 
+fluid infusions given directly into the blood lines must be 
+sterile.
+Daugirdas9781451144291-ch015.indd   281 09/10/14   1:16 am
+Part II / Blood-Based Therapies
+282
+D. Temperature of dialysis solution/replacement fluid.  CRRT can be set 
+up so that dialysis solution and replacement fluid are infused 
+at room temperature. This is a departure from conventional 
+dialysis, where dialysis solution is warmed. Use of room tem-
+perature fluid results in heat subtraction from the patient; 
+in fact, the hemodynamic benefits of CRRT appear to be due 
+largely to such thermal cooling effects. When applied over 
+long periods, CRRT-associated heat subtraction may mask the 
+presence of fever, thus reducing the reliability of body temper-
+ature as a marker for infection or inflammation. Whether this 
+heat subtraction has an effect on the body’s ability to resist in-
+fection has not been studied. One study done in a septic shock 
+model using sheep suggested that warming of blood in the 
+extracorporeal circuit increased survival rate (Rogiers, 2006). 
+Current CRRT delivery systems have heating systems. Heating 
+sometimes is associated with an appearance of bubbles in the 
+replacement or dialysis solutions, especially with bicarbonate 
+formulations; the clinical importance of this effect remains to 
+be determined.
+VIII. PRESCRIBING AND DELIVERING CRRT
+A. Dose versus outcome.  The suggested dose of CRRT in AKI is a
+delivered effluent volume of 20–25 mL/kg per hour (KDIGO 
+AKI, 2012). This was, however, presented as an ungraded 
+recommendation, and there is no evidence that lower levels 
+of therapy give worse results. A handful of randomized con-
+trolled trials that suggested a use of a markedly higher efflu-
+ent volume led to better outcomes, but these results were not 
+confirmed. One mechanistic analysis has suggested that use of 
+a higher effluent volume results in only a very small increase in 
+middle-molecule clearance (Hofmann, 2010) and that the best 
+way to increase middle-molecule removal is to increase blood 
+flow and membrane surface area. There is no evidence that 
+convective therapies (C-H or C-HDF) lead to better outcomes 
+than diffusion-based treatments (C-HD). The adequate dose of 
+CRRT remains an area where more research is needed.
+To deliver an effluent volume of 20–25 mL/kg per hour, 
+one normally would need to prescribe a lower inflow fluid 
+rate, as the effluent volume will also include 2–5 L per day 
+of excess fluid removed from the patient. However, technical 
+problems often arise, yielding to interruption of therapy or re-
+duction of efficiency due to partial clotting of the dialyzer, and 
+so it is wise to prescribe a slightly higher inflow volume than 
+the target. As noted above, when predilution mode is used, the 
+infusion rate of the replacement fluid should be increased by 
+about 15%–20%, depending on the ratio of predilution fluid 
+infusion rate to blood flow. The dilution effect will be more 
+pronounced for compounds removed from the plasma only, 
+because then it will be proportional to the ratio of replace-
+ment fluid infusion rate to plasma flow rate rather than the 
+ratio of replacement fluid infusion rate to BFR.
+Daugirdas9781451144291-ch015.indd   282 09/10/14   1:16 am
+283Chapter 15 / Continuous Renal Replacement Therapies
+B. Empiric dosing. T he intensity of treatment should be adjusted 
+on the basis of clinical circumstances. CRRT intensity may 
+need to be increased in highly catabolic patients, to facilitate 
+nutritional support, in tumor lysis syndrome, or for drug in-
+toxication where intermittent therapies are not tolerated. It 
+may be helpful to consider adequate CRRT dosing by evalu-
+ating the daily serum urea nitrogen level while on treatment. 
+Based on information from the RENAL study and ATN study, 
+the average serum urea nitrogen achieved should be less than 
+45 mg/dL (16 mmol/L). A method of dosing to target a given 
+level of blood urea nitrogen is given in Table 15.4. A simplified 
+nomogram to target a given blood urea nitrogen level is given 
+in Fig. 15.3.
+C. Dosing for SLED  and SLED-F.  Given the relative absence of 
+dose-finding studies, there are no specific guidelines for the 
+amount of SLED or SLED-F to give. The KDIGO AKI guidelines 
+recommend that a weekly Kt/V of at least 3.9 be given when 
+intermittent RRT (IRRT) is used, where the weekly Kt/V is de-
+fined simply as the sum of the treatments given each week. 
+Usually, SLED is done for 6–12 hours, four to seven times per 
+week, with a BFR of 200–300 mL/min and dialysis solution 
+flow rate of 300–400 mL/min (Kumar, 2000). Such a prescrip-
+tion far exceeds the 3.9 “weekly Kt/V” guideline recommended 
+by KDIGO.
+ IX. EQUIPMENT. M any advanced machines are available to deliver 
+various forms of CRRT. Some of them can also perform plasma-
+pheresis, which is beyond the scope of this chapter. One cannot 
+review them all, and the selection of devices described below 
+should not be considered to be an endorsement of these devices 
+over their competitors.
+A. Prismaflex® System from Gambro (Lakewood, CO).  T he Prismaflex 
+System consists of five integrated pumps (blood, dialysate, ef-
+fluent, substitution fluid, and preblood pump), and four pull-
+out weighing devices with removable handles ( for effluent, 
+preblood pump, dialysate, and substitution fluid), which allow 
+for fluid control with different variants of CRRT. The addition 
+of the preblood pump allows for infusion of fluid in predilu-
+tion mode or for continuous infusion of anticoagulant into 
+the circuit. Simultaneous pre- and postfilter dilution can be 
+performed by two integral pinch valves that control delivery of 
+replacement fluid to the circuit. Different sources for dialysis 
+and substitution fluids can be used. Control of ultrafiltration 
+and net patient fluid removal is achieved using an integrated 
+control panel with touch screen, which regulates the dialysate, 
+effluent, preblood pump, and substitution fluid pump speeds. 
+Other features include preconnected cartridge sets that in-
+clude the filter, a programmable anticoagulant syringe, and 
+optional blood warmer.
+B. Use of modified “2008K” or “2008T” dialysis machines from Frese -
+nius USA (Walnut Creek, CA).  C-HD can be done using standard 
+Daugirdas9781451144291-ch015.indd   283 09/10/14   1:16 am
+Part II / Blood-Based Therapies
+284
+Solute equilibration between effluent and serum will decline with time owing 
+to membrane clogging (Claure-Del Granado, 2011). Furthermore, urea kinetic 
+modeling does not consider middle- or large-molecular-weight solute clearance, 
+and the impact of the latter remains unclear.
+1. Six steps to estimating the prescription
+a. Estimate or measure the patient’s urea generation rate.
+b. Decide on the desired level of SUN.
+c. Calculate the total urea clearance necessary to keep the SUN at the 
+desired level for the urea generation rate obtained from Step 1.
+d. Measure residual renal urea clearance. If desired, subtract this from the total 
+urea clearance to obtain the extracorporeal urea clearance that will be required.
+e. Calculate the required drainage fluid volume. Set this equal to the required 
+extracorporeal urea clearance, assuming 100% saturation. Exception: With 
+predilution C-HF or with C-HD when using a dialysis solution inflow rate >2 
+L/hr, the urea saturation of the drainage fluid will be <100%. In such cases, 
+the required “drainage volume” should be increased appropriately (usually 
+by 15–20%), on the basis of a measurement of percent saturation.
+f. Calculate the required dialysis solution/replacement fluid inflow rate. 
+This is simply equal to the required drainage volume minus the expected 
+removal (L per day) of excess fluid.
+2. Sample problem: A 60-kg male patient has a SUN of 40 mg/dL (14 mmol/L) on 
+day 1 and 65 mg/dL (23 mmol/L) on day 2. A 24-hr urine collection from day 1 to 
+day 2 contains 5 g (178 mmol) of urea nitrogen. On day 2, weight has increased 
+to 64 kg. Estimated edema fluid is 8 L on day 1 and is 12 L on day 2. Calculate 
+the clearance necessary to maintain the SUN at 40 mg/dL (14 mmol/L).
+Solution:
+a. Determine urea nitrogen generation rate.
+ 1. Estimate initial and final total-body water.
+Initial total-body water: Initial weight is 60 kg with 8 kg estimated edema 
+fluid. Edema-free weight is then 52 kg. Estimate total-body water as 
+55% of the “edema-free” weight.
+Total-body water is therefore 8 L + (0.55 × 52) = 8 L + 28.6 L = 36.6 L.
+Final total-body water: Final weight is 64 kg, or 4 kg higher, all of which 
+is water, so final total-body water is 36.6 + 4 = 40.6 L.
+ 2. Estimate initial and final total-body urea nitrogen.
+ i. Initial and final SUN levels are 40 mg/dL and 65 mg/dL, respectively 
+(about 14 and 23 mmol/L).
+ ii. Total-body urea nitrogen at time 1 = 36.6 L × 0.40 g/L = 14.6 g.
+In SI units: Total-body urea at time 1 = 36.6 L × 14.3 mmol/L = 523 mmol.
+ iii. Total-body urea nitrogen at time 2 = 40.6 L × 0.65 g/L = 26.4 g.
+In SI units: Total-body nitrogen at time 2 = 40.6 × 23.2 mmol/L = 942 mmol.
+ 3. Calculate change in total-body urea nitrogen.
+ i. Change in total-body urea nitrogen content from time 1 to time 2 is 
+26.4 g – 14.6 g = 11.8 g urea nitrogen (or, in SI units, 942 mmol –  
+523 mmol = 420 mmol).
+ ii. This 11.75-g change in urea nitrogen now needs to be corrected to 
+a daily basis. If time 1 and time 2 are 24 hr apart, then the change in 
+body urea nitrogen content is ~11.75 g per day (420 mmol per day).
+Dosing of CRRT to Target a Specific Level of Blood Urea 
+Nitrogen15.4
+TABLE
+(continued)
+Daugirdas9781451144291-ch015.indd   284 09/10/14   1:16 am
+285Chapter 15 / Continuous Renal Replacement Therapies
+ 4. Account for urinary losses. Urinary urea nitrogen loss during the 24-hr 
+observation period was measured to be 5 g per day (178 mmol per day).
+ 5. Calculate urea nitrogen generation rate. This is equal to 11.75 + 5 = 
+16.75 g per day (or, in SI units, 420 + 178 = 598 mmol per day).
+b. Decide on a target SUN level. As discussed above, let us say it should be 40 
+mg/dL (14.3 mmol/L).
+c. Calculate desired total clearance. Assume target SUN = 40 mg/dL  
+= 0.40 g/L.
+Urea N removal = clearance (KD) × serum level = KD × 0.40 g/L.
+At steady state, urea generation = removal, 16.75 = KD × 0.40.
+KD = (16.75 g per day)/(0.40 g/L) = 42 L per day.
+In SI units: Assume target serum urea = 14.3 mmol/L.
+Urea N removal = clearance (KD) × serum level = KD × 14.3 mmol/L.
+At steady state, urea generation = removal, 598 = KD × 14.3.
+KD = (598 mmol per day)/(14.3 mmol/L) = 42 L per day.
+d. Adjust for residual renal function. This patient actually had a urea 
+clearance of about 10 L per day (about 7 mL/min), so we can subtract this 
+from the required total clearance. Therefore, the required extracorporeal 
+clearance is 32 L per day.
+e. Determine dialysis solution inflow rate. This should be 32 L per 
+day (assuming 100% saturation) minus the volume of excess fluid 
+removal. For example, if we need to remove 3 L of fluid per day to offset 
+hyperalimentation and fluid given with medications, subtract 3 L from 32 L 
+in the example to obtain a required dialysate inflow rate of 29 L per day. We 
+usually ignore residual renal function, because this may be ephemeral, and 
+so we would add back the 10 L per day and use a dialysis solution inflow 
+rate of 39 L per day.
+Dosing of CRRT to Target a Specific Level of Blood Urea 
+Nitrogen (continued)15.4
+TABLE
+dialysis equipment, but some standard dialysis machines need 
+to be altered to permit delivery of a dialysis solution flow rate 
+of 100 mL/min. Blood lines and dialyzers are replaced every 
+24 hours.
+C. Use of upgraded “2008 H/K” dialysis machines from Fresenius USA  
+ (Walnut Creek, CA). F urther advancements have been introduced 
+to allow C-HD to become an integrated treatment option with-
+out any machine alteration. The machine may be calibrated to 
+run at dialysate flows as low as 100–200 mL/min, but this op-
+tion must be selected in service mode, and additional calibra-
+tion is required. Ultrafiltration or variable sodium profiles are 
+not available, and there is no ultrafiltrate time or target goal 
+to set. The extracorporeal circuit, including dialyzer, should be 
+replaced every 48 hours per manufacturer’s recommendations. 
+These machines are also popular to deliver SLED, where more 
+conventional blood and dialysate flow rates are used.
+D. NxStage System One from NxStage Medical Inc. (Lawrence, MA).  The 
+NxStage System One is a modular system that consists of a 
+Daugirdas9781451144291-ch015.indd   285 09/10/14   1:16 am
+Part II / Blood-Based Therapies
+286
+FIGURE 15.3 Estimated total extracorporeal urea clearance required to attain various 
+steady-state serum levels of urea nitrogen. Clearance, on the bottom, is read from the in-
+tersection of the urea nitrogen generation level (g) and the steady-state goal serum urea 
+nitrogen. (From Garred LJ. Syllabus of the Second International Conference on CRRT, San 
+Diego, CA, Feb 9, 1997, p. 7.)
+150 
+140 
+130 
+120 
+110
+100 
+90 
+80 
+70 
+60 
+50 
+40 
+30 
+20 
+10 
+g 
+(mg / min) 
+30 
+25 
+20 
+15 
+10 
+5 
+g 
+( mmol / min) 
+1.07 
+0.89 
+0.71 
+0.54 
+0.36 
+0.18 
+nPNA
+V = 40L
+4.2 
+3.6 
+2.9 
+2.2 
+1.5 
+0.85 
+5 10 15 20 25 30 35 40 
+0.4 0.6 0.8 1.0 1.2 1.4 1.6 1.8 2.0 2.2 2.4 
+K (ml / min) 
+K (L / hr) 
+50 
+45 
+40 
+35 
+30 
+25 
+20 
+15 
+10 
+5 
+Steady state SUN as a function of g and K
+Steady state SUN 
+mmol / L mg / dL
+touch screen display, cycler with user interface, stand with IV 
+pole, and optional fluid warmer. It can be used both as a porta-
+ble hemodialysis machine and for CRRT therapies. The drop-
+in, single-use cartridge design, with or without a preattached 
+filter, allows for a range of therapies and minimizes cycler 
+maintenance and disinfection requirements. The cartridge 
+has volume chambers for volumetric balancing, thus elimi-
+nating the need for scales, and discharges effluent directly to 
+drain. One special feature is the absence of a blood–air inter -
+face in the cartridge; this is designed to optimize blood flow 
+and reduce clotting.
+E . Braun Diapact from B. Braun Medical Inc. (Bethlehem, PA).  Th e Dia -
+pact CRRT system is a simple and compact dialysis unit origi-
+nally designed for use in emergency situations where a purified 
+water supply was not available. It operates on a three-pump 
+system (blood, dialysis/infusion solution, ultrafiltration) and 
+an electronic single weighing cell. This machine also features 
+a simplified user interface, an integrated fluid plate warmer, 
+and choice of dialyzer capabilities. Flexible treatment options 
+other than CRRT include IHD and hemofiltration.
+ X. ANTICOAGULATION. I n most patients at low risk of bleeding, sys-
+temic heparin is routinely used as it is inexpensive and easy 
+to implement. A patient already on systemic therapeutic an -
+ticoagulation for another indication (e.g., intra-aortic balloon 
+pump) would not require additional anticoagulation. Patients 
+with severe thrombocytopenia or impaired coagulation should 
+Daugirdas9781451144291-ch015.indd   286 09/10/14   1:16 am
+287Chapter 15 / Continuous Renal Replacement Therapies
+have a trial of anticoagulation-free CRRT. In immediate post -
+operative patients or patients at high risk of bleeding, heparin-
+free CRRT or RCA can be used. In patients with nonimmune 
+heparin-induced thrombocytopenia (HIT type I), RCA may be 
+employed. Systemic anticoagulation therapy is often required in 
+patients with immune-mediated HIT type II, a disorder that is 
+associated with venous or arterial thrombosis in addition to the 
+thrombocytopenia. In such patients who also require CRRT, use 
+of systemic anticoagulation with lepirudin or argatroban has 
+been described.
+A. Heparin. A fter attachment of the primed hemofilter or dialyzer, 
+if baseline clotting times are not elevated, 2,000–5,000 units 
+of heparin are injected into the patient, ideally via the venous 
+(outflow) blood line. One should then wait for 2–3 minutes to 
+allow the heparin to mix with the patient’s blood. Next, a con-
+stant infusion of heparin (at a rate of 500–1,000 units/hour) 
+is begun via an intravenous infusion pump emptying into the 
+arterial (inflow) blood line, and blood flow through the extra -
+corporeal circuit is begun. Heparin therapy is monitored as 
+per Table 15.5.
+B. Heparin-free method. I n patients with liver disease, in postopera-
+tive patients, in patients with active or recent bleeding, or in 
+patients with HIT, CRRT can be performed without heparin. 
+The filter will clot periodically and will need to be changed at 
+more frequent intervals. If acute bleeding occurs while CRRT 
+with heparin is being performed, the procedure can be con-
+tinued even after heparin administration has been stopped. 
+When heparin is not given, several steps may be taken to re-
+duce the likelihood of clotting.
+1. With C-HD, the dialysis solution inflow rate is increased by 
+20–40%. The higher dialysate flow rate will compensate for 
+the anticipated loss of clearance as the unheparinized dia-
+lyzer slowly clots. When using the heparin-free method for 
+C-HD, we usually do not infuse saline into the arterial blood 
+line on a periodic basis, in contrast to what is commonly 
+1. Initial therapy: Heparin in priming and rinsing solution as described in text. 
+At start of procedure, give 2,000–5,000 IU heparin to the patient via the venous 
+line or other access. Wait 2–3 min for the heparin to mix with the circulation. 
+Then start 500–1,000 IU/hr constant heparin infusion into the arterial (inlet) 
+blood line.
+2. Monitoring: PTT measured at the arterial and venous blood lines every 6 hr.
+Maintain arterial PTT 40–45 s.
+Maintain venous PTT >65 s.
+If arterial PTT >45 s, decrease heparin by 100 IU/hr.
+If venous PTT <65 s, increase heparin by 100 IU/hr, but only if arterial PTT <45 s.
+If arterial PTT <40 s, increase heparin by 200 IU/hr.
+PTT, partial thromboplastin time.
+Heparin Protocol for Continuous Therapies
+15.5
+TABLE
+Daugirdas9781451144291-ch015.indd   287 09/10/14   1:16 am
+Part II / Blood-Based Therapies
+288
+practiced in the case of heparin-free IHD for fear of intro-
+ducing microbubbles into the filter, which may lead to clot 
+formation.
+2. In C-HF done without heparin, the predilution mode is 
+preferred because prefilter fluid replacement reduces the 
+hemoconcentration within the hemofilter when plasma 
+water is removed. Keeping the blood flows at 200 mL/min 
+or higher may also prevent early or excessive clotting.
+When heparin is not used in patients without coagu-
+lation disturbances, the dialyzers will usually clot within 
+8 hours. A sign of early clotting is a reduction to <0.8 in the 
+ratio of dialysate to serum urea nitrogen levels. When the 
+ratio is <0.6, clotting is imminent.
+C. Regional citrate anticoagulation.  Ci trate chelates calcium (and 
+magnesium) and impedes the coagulation cascade. Calcium 
+citrate complexes are removed in the effluent and those that 
+return to the circulation are metabolized by the liver and skel-
+etal muscles. RCA may reduce bleeding risk in comparison 
+with heparin for CRRT (Wu, 2012), with similar or better ef-
+ficacy on circuit patency depending on the citrate dose admin-
+istered (Monchi, 2004). Citrate anticoagulation, by reducing 
+local ionized calcium concentration, may also reduce neutro-
+phil and complement activation in the extracorporeal circuit 
+(Schilder, 2014). For patients who have no contraindications 
+to use of citrate, the KDIGO 2012 AKI guidelines recommend 
+use of RCA for CRRT.
+On average, 3 mmol of citrate per liter of blood circulated 
+is required to suppress the postfilter plasma ionized calcium 
+to 0.3–0.4 mmol/L, the level needed for effective circuit an-
+ticoagulation. Calcium and magnesium losses are replaced 
+by systemic infusions according to strict protocols. Toxicity 
+is determined by the total citrate load and is exacerbated in 
+patients with liver dysfunction and multiorgan failure; in such 
+patients, the amount of citrate infused can overwhelm the 
+patient’s ability to metabolize it, causing accumulation of cal-
+cium citrate complexes and inadequate regeneration of free 
+calcium. This in turn can lead to high anion gap metabolic 
+acidosis (citrate) and a high (>2.5) ratio of total calcium to 
+ionized calcium (Meier-Kriesche, 2001), findings that  require 
+cessation of RCA and correction of hypocalcemia.
+ACD-A solution (anticoagulant citrate dextrose form 
+A) containing 3% trisodium citrate (2.2 g/mL per 100 mL), 
+citric acid (0.73 g/mL per 100 mL), and dextrose (2.45 g/mL 
+per 100 mL) (Baxter-Fenwal Healthcare Corp., Deerfield, IL) 
+is preferred over trisodium citrate for routine RCA, as ACD-A 
+is commercially prepared and is less hypertonic, reducing 
+the potential for mixing errors and dangers of overinfusion. 
+Many RCA protocols have been described for CRRT. The major 
+complications of RCA are symptomatic reductions in serum 
+ionized calcium levels and metabolic alkalosis from citrate 
+metabolism.
+Daugirdas9781451144291-ch015.indd   288 09/10/14   1:16 am
+289Chapter 15 / Continuous Renal Replacement Therapies
+We prefer RCA methods that minimize the amount of ci-
+trate infused, and these typically use calcium-free dialysis or 
+replacement fluids, because the citrate infusion needs only to 
+counteract the calcium in the patient’s blood. However, meth-
+ods of RCA have been reported where calcium is maintained 
+in the replacement fluid or the dialysis solution (Mitchell, 
+2003). These have an advantage of avoiding the return of a low- 
+ionized calcium infusate close to the heart in the event that the 
+calcium replacement solution pump fails.
+1. Swartz protocol ( Fig. 15.4 ). A s an example, here is a proce-
+dure for RCA in C-HD according to Swartz (2004).
+a. Attach the ACD-A 1,000-mL bag to an infusion pump in-
+fusing into the arterial line closest to the patient. A nega-
+tive pressure valve is inserted into this line so that the 
+infusion will occur in the direction of the blood pump 
+and not directly into the patient should the blood pump 
+stop. The rate of infusion in milliliters per hour is initially 
+at 1.5 times the BFR in milliliters per minute. For exam-
+ple, when the BFR is set at 200 mL/min, the citrate rate 
+will then be 300 mL/hour.
+b. A calcium chloride infusion (20 mg/mL in normal saline) 
+is infused via a three-way stopcock valve placed at the 
+venous port of the dialysis catheter. Calcium gluconate 
+infusion may also be given via a peripheral vein catheter, 
+but this will result in higher fluid volumes. The initial  
+calcium infusion rate should be set at 10% of the ACD-A 
+infusion rate. For example, if the ACD-A rate is 300 mL/
+hour, then the calcium infusion rate is 30 mL/hour.
+FIGURE 15.4 Circuit diagram for citrate slow continuous hemodialysis. The MgSO4 level 
+has been modified to 1.1 mM (vs. 1.3 mM as originally depicted in the Swartz publica-
+tion). (From Swartz R, et al. Improving the delivery of continuous renal replacement 
+therapy using regional citrate anticoagulation. Clin Nephrol. 2004;61:134–143.)
+Arterial line Venous line 
+Filter
+Dialysis Solution (mM)
+135     Na 
+ 28     HCO3
+105     Cl 
+1.1  MgSO4
+5.5  Glucose (1g/L)
+Set initial ACD-A
+infusion rate as
+described in the text.
+Calcium chloride
+20 mg/mL in normal saline
+set initially at 10% of the
+ACD-A infusion rate 
+2000 mL/hr 
+Daugirdas9781451144291-ch015.indd   289 09/10/14   1:16 am
+Part II / Blood-Based Therapies
+290
+c. Ionized calcium is sampled every 2 hours × 4, then ev-
+ery 4 hours × 4 for the first 24 hours, then every 6–8 
+hours thereafter. The ionized calcium should be checked 
+within 1–2 hours whenever the site of the infusion or 
+tubing is changed. The ionized calcium samples should 
+be drawn from two sites and labeled carefully, one being 
+“postfilter” from the postfilter venous sample port and 
+the other from the patient via a systemic arterial or a ve-
+nous line. Basic chemistries and total calcium should be 
+checked every 6–8 hours. The titration of ACD-A citrate 
+and calcium chloride infusions are done according to 
+Table 15.6.
+d. The dialysis solution with this method is calcium free 
+and contains sodium 135 mM, magnesium (in the form 
+of magnesium sulfate) 1.1 mM (2.2 mEq/L), bicarbonate 
+28 mM, chloride 105 mM, sulfate 1.1 mM, and glucose 
+5.5  mM (1 g/L). The lower concentrations of sodium 
+and bicarbonate help to counteract the tonicity and bi-
+carbonate delivery from the infusion of ACD-A. Dialysis 
+solution flow rate is 2.0 L/hour. Note: The dialysis solu-
+tion magnesium concentration (1.1 mM) in the method 
+shown is higher than that of most other available 
+ solutions  (0.5–0.75 mM, Table 15.3).
+D. Regional citrate protocols for SLED.  A n umber of these have been 
+described, including that by Fiaccadori (2013), as well as an 
+automated system by Szamosfalvi (2010); the latter group is 
+also working on sensors to measure citrate and ionized cal -
+cium levels (Yang, 2011).
+E. Anticoagulation with lepirudin and argatroban.  S ee Table 15.7 for 
+dosing parameters. Lepirudin (recombinant hirudin) and 
+Postfilter Ionized Calcium (mM) Adjustment of ACD-A Rate
+<0.20 Reduce rate by 5 mL/hr.
+0.20–0.40 No adjustment.
+0.40–0.50 Increase rate by 5 mL/hr.
+>0.50 Increase rate by 10 mL/hr.
+Calcium chloride infusion is titrated to systemic ionized calcium level.
+Systemic Ionized
+Calcium (mmol/L) Adjustment of Calcium Infusion
+>1.45 Reduce rate by 10 mL/hr.
+1.21–1.45 Reduce rate by 5 mL/hr.
+1.01–1.20 No adjustment.
+0.90–1.00 Increase rate by 5 mL/hr.
+<0.90 10 mg/kg calcium chloride bolus; 
+increase rate by 10 mL/hr.
+ACD-A, anticoagulant citrate dextrose form A.
+ACD-A Citrate and Calcium Titration Guidelines (for Swartz 
+RCA Protocol)15.6
+TABLE
+Daugirdas9781451144291-ch015.indd   290 09/10/14   1:16 am
+291Chapter 15 / Continuous Renal Replacement Therapies
+argatroban are direct thrombin inhibitors. Lepirudin is elimi -
+nated mainly by the kidneys. The dose has to be adjusted ac-
+cording to residual renal clearance and dialysis clearance. It 
+can be administered as a continuous infusion or as repetitive 
+boluses. Typical doses are 0.005–0.025 mg/kg body weight per 
+hour. The anticoagulation effect is monitored by measuring 
+the activated partial thromboplastin time (aPTT), aiming to 
+keep it about 1.5–2.0 times normal, thereby ensuring antico-
+agulation without an excess of bleeding complications. After 
+more than 5 days of lepirudin use, antilepirudin antibodies 
+may develop. These antibodies enhance the anticoagulation 
+effects of lepirudin, and a reduction of the infusion dose may 
+be needed to minimize bleeding risk. It is recommended that 
+with prolonged use of lepirudin, daily aPTT measurements be 
+taken. Argatroban is eliminated predominantly by liver me-
+tabolism and biliary secretion, and for this reason may be a 
+preferred agent in renal failure patients. Argatroban infusion 
+is initiated at 0.5–1.0 mcg/kg/min, using lower doses in pa-
+tients with hepatic dysfunction. The anticoagulation effect 
+is also monitored by measuring aPTT. The administration 
+of fresh frozen plasma is required to reverse bleeding due to 
+overdosage of lepirudin or argatroban. Hemofiltration with 
+high-flux dialyzers can reduce the plasma concentration of 
+hirudin.
+F. Other anticoagulants.
+1. Low-molecular-weight heparins: Sagedal and Hartmann (2004) 
+reviewed the use of low-molecular-weight heparins (LM-
+WHs) in CRRT. Monitoring anticoagulation requires mea -
+suring anti–factor Xa activity, but use of this measurement 
+to guide LMWH heparin use in CRRT remains to be de-
+fined. LMWH is not readily reversible with protamine. In 
+C-HDF, dalteparin can be given as a bolus of about 20 U/
+kg followed by an infusion of 10 U/kg per hour for adequate 
+anticoagulation without an excess of bleeding. In a study 
+of C-HD, a dalteparin dose of 35 U/kg bolus followed by 
+13 U/kg per hour resulted in good filter patency rates, but 
+there were bleeding episodes. At a lower dalteparin dose of  
+Lepirudin Argatroban
+Infusion rate Initiate at 0.005–0.01 mg/
+kg/hr
+Initiate at 0.5–1.0 mcg/
+kg/min; start at lower 
+doses in patients with 
+hepatic dysfunction.
+Monitoring test aPTT aPTT
+Target 1.5–2.0 times normal 1.5–2.0 times normal
+aPTT, activated partial thromboplastin time.
+Dosing Parameters for Continuous Renal Replacement 
+Therapy with Lepirudin or Argatroban15.7
+TABLE
+Daugirdas9781451144291-ch015.indd   291 09/10/14   1:16 am
+Part II / Blood-Based Therapies
+292
+8 U/kg bolus and infusion of 5 U/kg per hour, circuit life was 
+poor, so perhaps the optimal dose is somewhere in between.
+Enoxaparin and nadroparin may be used, but the experi-
+ence is limited. Nadroparin was compared with RCA for 
+C-H; in patients who weighed > 100 kg, nardroparin was 
+given as a 3,800 IU bolus followed by continuous infusion 
+at a rate of 456 IU/hour. In patients ≤ 100 kg, the nar -
+droparin dose was a 2,850 IU bolus followed by a 380 IU/
+hour infusion. This was done without anti-Xa monitoring. 
+Patients in the nadroparin arm suffered more bleeding 
+complications than those treated with RCA (Oudemans-
+van Straaten, 2009).
+2. Nafamostat mesylate i s a synthetic serine protease inhibitor 
+and prostacyclin analog with minimal hypotensive activity. 
+Its use in CRRT has been associated with improved circuit 
+life and relatively low bleeding risk. The starting dose was a 
+continuous infusion of nafamostat solution (200 mg of na-
+famostat mixed with 20 mL of 5% dextrose solution) at a 
+rate of 10 mg/hour. A bedside ACT test was used to monitor 
+circuit coagulation, and the infusion rate was adjusted as 
+necessary (Baek, 2012).
+G. Microbubbles. M icrobubbles can be introduced into the extra -
+corporeal circuit during priming and any time a connection is 
+made or reset upstream to the filter. The microbubbles can get 
+into the hollow fibers, and this can lead to clotting of the filter. 
+Care should be taken to minimize this problem during prim-
+ing and infusions.
+H. Signs of filter clotting.  S igns of markedly reduced blood flow 
+include darkening of the blood in the extracorporeal circuit, 
+coolness of blood in the venous blood line, and separation of 
+erythrocytes and plasma in the extracorporeal circuit. Saline 
+infusion can help diagnose a near-clotted system: This can 
+make clots in transparent parts of the hemofilter visible.
+When using C-HD, one can check the filtrate urea ni-
+trogen (FUN):SUN ratio. If it is < 0.6, clotting is imminent. 
+An ultrasound method has been used to measure filter fiber 
+bundle volume (FBV) during use, but online FBV measure-
+ments have not been found to predict filter longevity. One 
+problem is that the majority of clotting seems to occur in 
+the venous air trap chamber rather than in the dialyzer itself 
+(Liangos, 2002).
+ XI. VIT AMINS AND MINERALS.  Total amino acids are removed in the 
+amount of 12 g per 24 hours at effluent flow rates of 1 L/hour 
+and when standard parenteral nutrition solutions are infused 
+at a rate of 60–100 mL/hour. Water-soluble vitamins and trace 
+elements are easily removed on CRRT. If prolonged therapy is 
+expected, supplementation is recommended; administration of 
+active vitamin D, vitamin E, vitamin C, zinc, selenium, copper, 
+manganese, chromium, and thiamine should be considered.
+Daugirdas9781451144291-ch015.indd   292 09/10/14   1:16 am
+293Chapter 15 / Continuous Renal Replacement Therapies
+ XII. PRINCIPLES OF DRUG REMOVAL BY CRRT. D rug clearance by CRRT is 
+dependent on (a) drug properties such as MW , extent of protein 
+binding, volume of distribution, and proportion of drug renally 
+eliminated, (b) patient characteristics such as residual renal func-
+tion, volume status, serum albumin concentration, and function 
+of other organs involved in drug metabolism/excretion (e.g., liver), 
+and (c) CRRT parameters (e.g., dialysate/ultrafiltration/  blood/ 
+effluent rate, hemofilter size). Both C-HD and C-HF remove small 
+solutes effectively, but C-HF is superior at removing middle- and 
+large-MW drugs because of convection. In general, C-HF is consid-
+ered to have higher drug clearance than C-HD at the same effluent 
+flow rate, that is, CVVH > CVVHDF > CVVHD (Churchwell, 2009).
+The different intensities of CRRT treatments and the level of 
+patient residual kidney function can result in marked variability 
+in drug removal. Literature available on drug dosing in patients 
+being treated by CRRT should be used only as a guide, realizing 
+that they may not be applicable to the particular CRRT prescrip-
+tions being used in a given patient. One way of determining 
+drug dosing in patients receiving CRRT is to estimate the total 
+creatinine clearance (CrCl) on the basis of a patient’s residual re-
+nal function and the expected creatinine clearance due to CRRT 
+(Matzke, 2011). The CRRT procedure can be thought of as an 
+extra kidney, the glomerular filtrate rate (GFR) of which will de-
+pend on the total effluent volume. Each 10 L per day of effluent 
+volume is equivalent to about 7 mL/min of GFR (7.0 mL/min × 
+1,440 minutes per day = 10.08 L per day). Thus, when prescribing 
+drugs to otherwise anuric patients receiving CRRT, one should 
+write the drug dose as for a patient with a GFR of 7 mL/min for 
+every 10 L of effluent volume.
+Table 15.8 lists the approximate dosages for antibiotics in 
+renal failure patients being treated with C-HD and C-HDF. When-
+ever possible, therapeutic drug monitoring (TDM) should be per-
+formed for antibiotics such as vancomycin, aminoglycosides, and 
+other drugs that have a narrow therapeutic index. Any change to 
+the CRRT prescription or clinical status (e.g., worsening or im-
+provement in renal function) may require additional monitoring 
+and dosage adjustment.
+The amount of pressor drugs removed during CRRT is usu-
+ally not a clinical issue, as pressor infusion rates are usually ti-
+trated to maintain a desired hemodynamic response. Table 15.9 
+gives doses of additional drugs commonly used in ICU patients 
+with information on dose adjustment during CRRT.
+ XIII. ISOLA TED ULTRAFILTRATION AND SLOW CONTINUOUS ULTRAFILTRATION  
+(SCUF). I solated ultrafiltration (IU) is achieved using standard di-
+alysis equipment by simply putting the dialysate in bypass, and can 
+be performed prior to dialysis, after dialysis, or independently of 
+dialysis. In patients with renal failure, IU is most often performed 
+just prior to hemodialysis. SCUF is achieved using the same cir -
+cuitry as for C-HD (Fig. 15.1) but omitting dialysis solution.
+Daugirdas9781451144291-ch015.indd   293 09/10/14   1:16 am
+Part II / Blood-Based Therapies
+294
+Drug LD CVVH CVVHD or CVVHDF
+Acyclovira, b, c (IV) None 5–10 mg/kg q24 hr HSV: 5–7.5 mg/kg 
+q24 hr
+HSV encephalitis/
+zoster: 7.5–10 mg/kg 
+q12 hr
+Amikacina, d 10 mg/kg 7.5 mg/kg q24–48 hr Same
+Ampicillin (IV) 2 g 1–2 g q8–12 hr 1–2 g q6–8 hr
+Meningitis/
+endocarditis: 2 g q6 hr
+Ampicillin-sulbactam 3 g 1.5–3 g q8–12 hr 1.5–3 g q6–8 hr
+Azithromycin  
+(IV/PO)
+None 250–500 mg q24 hr 250–500 mg q24 hr
+Aztreonam 2 g 1–2 g q12 hr 1 g q8 hr or 2 g q12 hr
+Cefazolin 2 g 1–2 g q12 hr 1 g q8 hr or 2 g q12 hr
+Cefepime 2 g 1–2 g q12 hr General: 1 g q8 hr
+Severe: 2 g q12 hr
+Cefotaxime None 1–2 g q8–12 hr 1–2 g q8 hr
+Ceftazidime 2 g 1–2 g q12 hr 1 g q8 hr or 2 g q12 hr
+Ceftriaxone 2 g 1–2 g q24 hr Same
+Meningitis, 
+Enterococcus faecalis 
+endocarditis: 2 g 
+q12 hr
+Ciprofloxacin (IV) None 200–400 mg  
+q12–24 hr
+400 mg q12–24hr
+Ciprofloxacin (PO) None 500 mg q12–24 hr
+Clindamycin (IV) None 600–900 mg q8 hr Same
+Clindamycin (PO) None 150–450 mg q6 hr Same
+Colistinb, c (IV) None 2.5 mg/kg q24–48 hr 2.5 mg/kg q12–24 hr
+Daptomycine None 4–6 mg/kg q48 hr 4–8 mg/kg q48 hr
+Fluconazolea (IV/PO) 400–800 mg 200–400 mg q24 hr 400–800 mg q24 hr
+Ganciclovir IVa 2.5 mg/kg 1.25 mg/kg q24 hr LD for all then
+2.5 mg/kg q12–24 hr 
+(induction)
+2.5 mg/kg q24 hr 
+(maintenance)
+Gentamicin 2–3 mg/kg
+•	 Mild 	UTI	or	
+synergy
+•	 1	mg/kg	q24–36	hr	
+then per level
+•	 Same
+•	 Mod–severe 	UTI •	 1–1.5 	mg/kg	 
+q24–36 hr then  
+per level
+•	 Same
+•	 GNR 	infection •	 1.5–2.5 	mg/kg	 
+q24–48 hr then  
+per level
+•	 Same
+Imipenem-cilastatin 1 g 250 mg q6 hr or 500 mg q8 hr
+500 mg q8 hr Severe: 500 mg q6 hr
+Levofloxacin (IV/PO) 500–750 mg 250 mg q24 hr LD then 250–750 mg 
+q24 hr
+Dosing of Antimicrobials in CRRT
+15.8
+TABLE
+(continued)
+Daugirdas9781451144291-ch015.indd   294 09/10/14   1:16 am
+295Chapter 15 / Continuous Renal Replacement Therapies
+Drug LD CVVH CVVHD or CVVHDF
+Linezolid (IV/PO) None 600 mg q12 hr Same
+Meropenem 1 g 500 mg q8 hr or 1 g 
+q12 hr
+500 mg q6–8 hr or 1 g 
+q8–12 hr
+Severe/CF/CNS: 2 g 
+q12 hr
+Metronidazole  
+(IV/PO)
+None 500 mg q6–12 hr 500 mg q6–8 hr
+Moxifloxacin (IV/PO) None 400 mg q24 hr Same
+Nafcillin None 2 g q4–6 hr 2 g q4 hr
+Mild infections: 1 g 
+q4 hr
+Penicillin G (IV) 4 MU 2 MU q4–6 hr LD then 2–4 MU 
+q4–6 hr
+Pipercillin-
+tazobactam
+None 2.25–3.375 g q6–8 hr 3.375 g q6 hr or 
+extended infusion: 
+3.375 g q8 hr (infused 
+over 4 hr)
+Rifampin (IV/PO) None 300–600 mg  
+q12–24 hr
+Same
+Same
+Ticarcillin-
+clavulanate
+3.1 g 2 g q6–8 hr 3.1 g q6 hr
+Tigecycline 100 mg 50 mg q12 hr Same
+Tobramycina, e 2–3 mg/kg
+•	 Mild 	UTI	or	
+synergy
+•	 1	mg/kg	q24–36	hr	
+then per level
+•	 Same
+•	 Mod–severe 	UTI •	 1–1.5 	mg/kg	 
+q24–36 hr then  
+per level
+•	 Same
+•	 GNR 	infection •	 1.5–2.5 	mg/kg	 
+q24–48 hr then  
+per level
+•	 Same
+TMP-SMXa, e (IV/PO) None 2.5–7.5 mg/kg (TMP)
+q12 hr
+2.5–5 mg/kg (TMP) 
+q12 hr
+PCP/
+Stenotrophomonas: 
+5–7.5 mg/kg (TMP) 
+q12 hr
+Vancomycinf (IV) 15–25 mg/kg 10–15 mg/kg  
+q24–48 hr
+LD then 10–15 mg/kg 
+q24 hr
+or 1 g  
+q48 hr
+or 1 g q24 hr
+Voriconazolee (PO) 400 mg q12 
+hr × 2
+200 mg q12 hr Same
+CAP , community-acquired pneumonia; CF, cystic fibrosis; CNS, central nervous system; CVVH, 
+continuous venovenous hemofiltration; CVVHD/CVVHDF, continuous venovenous hemodialysis, 
+continuous venovenous hemodiafiltration; HSV, herpes simplex virus; ICU, intensive care unit; IV, 
+intravenous; LD, loading dose; MD, maintenance dose; MU, million units; PCP , Pneumocystis carinii 
+pneumonia; PO, oral; TMP , trimethoprim; SMX, sulfamethoxazole.
+a Based on dialysate flow/ultrafiltration rates of 1–2 L/hr and minimal residual renal function.
+b Use IBW (kg); ideal body weight IBW (male) = 50 kg + (2.3 × height in inches >60 inches), IBW 
+(female) = 45 kg + (2.3 × height in inches >60 inches).
+Dosing of Antimicrobials in CRRT (continued)
+15.8
+TABLE
+Daugirdas9781451144291-ch015.indd   295 09/10/14   1:16 am
+Part II / Blood-Based Therapies
+296
+c Use IBW (kg) in obese.
+d Use adjusted BW (kg) in morbidly obese; adjusted body weight ABW (kg) = IBW + 0.4 (TBW – IBW).
+e Use adjusted BW (kg) in obese.
+f Use actual body weight (kg).
+Data from: Aoki FY , Allen UD, Stiver HG, et al, AMMI Canada Guidelines, “The Use of Antiviral 
+Drugs for Influenza: Guidance for Practitioners 2012/2013,” Can J Infect Dis Med Microbiol, 2012, 
+23(4):e79-92; 
+Facts and Comparisons: Available from http://online.factsandcomparisons.com. Accessed April 23, 2013;
+Heintz BH, Matzke GR, Dager WE. Antimicrobial dosing concepts and recommendations for criti-
+cally ill adult patients receiving continuous renal replacement therapy or intermittent hemodialysis. 
+Pharmacotherapy. 2009;29:562–77;
+Trotman RL, Williamson JC, Shoemaker DM, et al. Antibiotic dosing in critically ill adult patients 
+receiving continuous renal replacement therapy. Clin Infect Dis. 2005;41:1159–1166.
+Up to date: Available from http://www.uptodate.com/contents/search. Accessed April 23,2013. 
+Stanford Hospital & Clinics Antimicrobial Dosing Reference Guide 2013. Available at http://
+bugsanddrugs.stanford.edu/documents/2013SHCABXDosingGuide.pdf. Accessed April 10, 2014. 
+Lexi-Drug, Lexi-Comp [Internet database]. Hudson, OH: Lexi-Comp, Inc. Available at http://www 
+.crlonline.com. Accessed April 10, 2014.
+A. Isolated ultrafiltration.  I U is usually carried out when IHD is 
+being given. IU is useful to remove additional fluid while 
+avoiding disequilibrium syndrome for the initial one or two 
+dialysis treatments in acutely uremic patients. It is also used 
+in some outpatient dialysis units in patients with difficulty 
+in fluid removal. The principal advantage of IU is that fluid 
+removal is better tolerated than with conventional hemodi -
+alysis. Today, IU may no longer be a superior method of fluid 
+removal. Historically, poor tolerance to fluid removal dur -
+ing IHD was due partly to use of acetate-containing dialy-
+sis solution, to use of excessively warmed dialysis solution, 
+and to use of solutions containing an inappropriately low-
+sodium concentration (e.g., 5–10 mM below that of plasma). 
+If these factors are avoided (i.e., if a bicarbonate-containing, 
+high-sodium, slightly cooled dialysis solution is used), then 
+the superiority of IU in terms of hemodynamic stability is 
+no longer demonstrable. Waste product removal is minimal 
+during IU. For this reason, the subsequent hemodialysis 
+session length should not be shortened, and thus the total 
+treatment time for the separated IU–hemodialysis combina -
+tion must be prolonged.
+Despite the relatively good tolerance to fluid removal 
+with IU, hypotension can still occur if the ultrafiltration rate 
+is excessive. If overt edema is present, then hypotension is rare 
+at ultrafiltration rates of up to 1.5 L/hour, but one should not 
+go higher unless one is monitoring blood volume status us -
+ing a hematocrit sensor. A rebound hyperkalemia has been 
+reported after intensive IU, perhaps due to exit of intracellular 
+potassium into the extracellular fluid. Although the existence 
+of this complication is controversial, any possible hyperkale -
+mia with IU can best be avoided by routinely following IU with 
+a period of hemodialysis.
+Daugirdas9781451144291-ch015.indd   296 09/10/14   1:16 am
+297
+Drug Indication Normal Dose
+CRRT Dose Based on CrCl (mL/min)
+10–30 30–50
+Amiodarone Atrial fibrillation 5–7 mg/kg over 30–60 min, then 1.2–1.8 g per 
+day continuous infusion or in divided oral 
+doses until 10 g total.
+Same Same
+Digoxin Atrial fibrillation in 
+patients with heart 
+failure
+Loading dose (LD): 0.25 mg q2 hr, up to  
+1.5 mg within 24 hr. Maintenance dose (MD): 
+0.125–0.375 mg once daily.
+LD: reduce dose by 50%MD: 
+Administer 25–75% of dose 
+or q36 hr.
+MD: Administer 25–75% of 
+dose or q36 hr.
+Haloperidol Delirium in ICU Initial: 2–10 mg depending on degree of 
+agitation; if inadequate, may repeat bolus 
+dose (with sequential doubling of initial bolus 
+dose) q15–30 min until calm achieved; then 
+administer 25% of last bolus dose q6 hr.
+Same (monitor ECG and 
+QTc interval)
+Same (monitor ECG and QTc 
+interval)
+Lorazepam Status epilepticus
+Agitation in ICU
+4 mg per dose (given as slow IV, max rate: 
+2 mg/min); may repeat in 10–15 min; usual 
+max dose: 8 mg; 0.02–0.06 mg/kg q2–6 h or 
+0.01–0.1 mg/kg/hr; Reduce dose by 50% if 
+used with probenecid or valprioc acid.
+Same (risk of propylene 
+glycol toxicity; monitor 
+closely if using for 
+prolonged periods or at 
+high doses)
+Same (risk of propylene 
+glycol toxicity; monitor 
+closely if using for 
+prolonged periods or at high 
+doses)
+Recommended Adult Dosages of Some Common Drugs Used in the ICU
+15.9
+TABLE
+(continued)
+Daugirdas9781451144291-ch015.indd   297 09/10/14   1:16 am
+298
+Drug Indication Normal Dose
+CRRT Dose Based on CrCl (mL/min)
+10–30 30–50
+Phenytoin Status epilepticus LD: 10–20 mg/kg at max rate of 50 mg/min. 
+MD: 100 mg q6–8 hr.
+Same. Titrate dose 
+according to response, and 
+perform TDM to maintain 
+free phenytoin conc 1–2.5 
+mcg/mL.
+Same. Titrate dose 
+according to response, and 
+perform TDM to maintain 
+free phenytoin conc 1–2.5 
+mcg/mL.
+Phenobarbital Anticonvulsant/ 
+status epilepticus
+LD: 10–20 mg/kg (max rate: ≤ 60 mg/min in 
+patients ≥60 kg); may repeat dose in 20-min 
+intervals as needed (max total dose: 30 mg/
+kg).MD: 1–3 mg/kg per day in divided doses or 
+50–100 mg 2–3 times per day.
+Same Same
+Theophylline COPD (acute 
+symptoms)
+LD: 4.6 mg/kg (if theophylline naïve within last 
+24 hr); if theophylline had been administered 
+in past 24 hr, no loading dose recommended 
+before checking serum drug concentration.
+MD: Adults 16–60 yr: 0.4 mg/kg/hr (max 900 
+mg per day); adults >60 yr: 0.3 mg/kg/hr  
+(max 400 mg per day).
+Perform TDM to maintain 
+serum theophylline conc 
+5–15 mcg/mL.
+Perform TDM to maintain 
+serum theophylline conc 
+5–15 mcg/mL.
+All dosages above are for intravenous administration and assume CRRT clearance of 25 mL/kg/hr of effluent where each 10 L per day of ultrafiltrate volume is equivalent to 7 mL/min of GFR (i.e., for a 
+50- to 70-kg patient, estimated GFR is 20–30 mL/min). Dosing ranges are provided to accommodate for differences in UF and dialysis flow rates, and residual renal function of patient.
+From: Lexi-Comp, Inc. (Lexi-Drugs™). Lexi-Comp, Inc.; May 22, 2013.
+Recommended Adult Dosages of Some Common Drugs Used in the ICU (continued)
+15.9
+TABLE
+Daugirdas9781451144291-ch015.indd   298 09/10/14   1:16 am
+299Chapter 15 / Continuous Renal Replacement Therapies
+B. SCUF .  S CUF is used primarily in an ICU setting to remove ex -
+cess fluid from patients in whom residual renal function is sub-
+stantial, and in whom electrolyte and acid–base imbalances 
+are not an issue. SCUF is also used in inpatient treatment of 
+patients with refractory heart failure and mildly impaired re -
+nal function, as described below. A disadvantage of SCUF is 
+that acid–base disturbances and electrolyte imbalances need 
+to be corrected by nondialytic means.
+1. SCUF for congestive heart failure.  P atients with congestive 
+heart failure may develop concomitant renal failure, re -
+sulting in fluid overload. They may have anuria, oliguria, 
+or insufficient urine output (<1 L per day) despite optimal 
+medical treatment with maximal doses of intravenous di-
+uretics, inotropes, and natriuretic peptides. Ultrafiltration 
+is a treatment option in such situations. While inpatient 
+and outpatient intermittent IU for C-HF have been de-
+scribed, there are several advantages of SCUF that should 
+be considered. Slow removal of fluid results in less hemo-
+dynamic issues, such as symptomatic hypotension. Also, 
+many of these patients are volume-overloaded substan-
+tially, sometimes 10–15 kg over their “feel good” weight; 
+continuous therapy allows for larger volumes of fluid to be 
+removed while minimizing the hemodynamic problems. 
+Ultrafiltration techniques can be further enhanced by us-
+ing a Swan–Ganz catheter for central volume monitoring, 
+thereby guiding the end point of treatment, and by using 
+an online blood volume monitoring instrument to protect 
+against an excessive ultrafiltration rate. Small, portable 
+machines designed specifically for SCUF have become 
+available. However, a large randomized trial of stepped 
+pharmacologic treatment versus ultrafiltration for patients 
+hospitalized for acute decompensated heart failure and 
+worsened renal function found that the pharmacologic  
+approach resulted in better preservation of kidney function 
+at 96 hours after start of treatment (Bart, 2012).
+ XIV . INTERMITTENT HEMODIAFILTRATION. THIS IS DESCRIBED IN CHAPTER 17.
+ X V. CRRT POINTERS FOR CERTAIN GROUPS OF PATIENTS
+A. Brain edema.  I n critically ill patients with acute renal failure, 
+CRRT has been shown to cause fewer changes in terms of brain 
+edema when compared with IHD. KDIGO 2012 AKI guidelines 
+specifically recommend use of CRRT in place of conventional 
+IHD in patients with evidence of brain edema or increased in-
+tracranial pressure. CRRT minimizes rapid perturbations of 
+the cardiovascular system, particularly in terms of blood vol -
+ume and blood pressure, thereby reducing large variations in 
+cerebral perfusion pressure and intracranial pressure. Patients 
+with liver failure are one group at risk for developing cerebral 
+edema, owing to difficulty in maintaining cerebral autoregula-
+tion of blood flow. Davenport (1999) has used C-HF and C-HD 
+Daugirdas9781451144291-ch015.indd   299 09/10/14   1:16 am
+Part II / Blood-Based Therapies
+300
+to cope with the increased intracranial pressure and cerebral 
+edema. There are few data comparing CRRT versus SLED in 
+this regard. In one study, SLED and CRRT had the same effects 
+on intracranial pressure in patients being dialyzed after brain 
+hemorrhage (Wu, 2013).
+In patients at risk for cerebral edema, C-HF and C-HD 
+systems using the new generation of continuous machines 
+with tight volumetric control and biocompatible membranes 
+should be used. If possible, anticoagulation should be avoided, 
+as it may increase the risk of intracerebral hemorrhage either 
+at the site of injury or around an intracranial pressure monitor.
+Dialysis or replacement fluid should have a relatively 
+higher sodium ( >140 mM) and a lower bicarbonate (30 mM) 
+concentration. A higher sodium concentration will reduce the 
+blood–brain osmotic gradient and minimize water movement 
+into the brain. A rapid rise in plasma bicarbonate increases 
+CO
+2 movement into brain cells. Because bicarbonate ions are 
+charged, they enter cells less readily than CO 2, thus causing a 
+paradoxical decrease in brain pH. A sudden decrease in brain 
+pH results in the generation of idiogenic osmoles, which in-
+crease the osmotic gradient favoring water entry into the brain.
+In severe cases of uncontrolled intracranial pressure, 
+cooling of the dialysis or replacement solutions may be help-
+ful, in addition to other measures used to cool the patient to 
+32–33°C. At these temperatures, cranial oxygen demands are 
+reduced (Davenport, 2001).
+B. Sepsis and multiorgan failure.  Multiple organ dysfunction syn -
+drome occurs as a result of an outpouring of proinflammatory 
+(tumor necrosis factor β, thromboxane B
+2, platelet activating 
+factor) and anti-inflammatory mediators (interleukin-10). 
+This response is provoked by gram-negative bacteria endo-
+toxins, gram-positive bacteria, viruses, splanchnic ischemia, 
+and trauma. With C-HF, many of these septic mediators are 
+found in the filtrate of septic patients or are adsorbed to the 
+filter membrane, suggesting that C-HF has the ability to re-
+move septic mediators from the circulation. Use of high-vol-
+ume C-HF has been advocated for such patients. However, 
+although septic mediator concentrations are reduced by such 
+treatments, a clinical benefit has not been consistently seen, 
+so the benefits of higher-volume (2 L/hour) C-HF for such pa-
+tients remain controversial. Nevertheless, many centers will 
+treat septic patients with C-HDF instead of C-HD to increase 
+removal of potential sepsis-mediating molecules while retain-
+ing the efficiency associated with use of dialysis. Using a clear-
+ance dose of 35 mL/kg per hour and dividing equally between 
+dialysis and hemofiltration is a common strategy. See Joanni -
+dis (2009) for a review of this topic.
+C. Acute lung injury and acute respiratory distress syndrome (ARDS). Early 
+institution of CRRT for volume removal may be helpful in im-
+proving oxygenation and ventilator parameters (PaO
+2/FiO2 
+ratio and oxygenation index) in patients with ARDS with 
+Daugirdas9781451144291-ch015.indd   300 09/10/14   1:16 am
+301Chapter 15 / Continuous Renal Replacement Therapies
+concomitant acute renal failure. Respiratory improvement ap-
+pears to be due more to the volume removal effect rather than 
+to the removal of inflammatory mediators (Hoste, 2002).
+D. Prevention of radiocontrast-induced nephropathy . Although some 
+studies found a benefit of periprocedural CRRT in patients 
+with CKD undergoing IV contrast administration (Marenzi, 
+2003), the KDIGO 2012 AKI review group concluded that the 
+evidence for CRRT use in this situation was not strong and 
+does not recommend such intervention until more conclusive 
+research has been done.
+E. Intoxication with dialyzable or filter -permeable drugs or toxins.  Use 
+of various modes of CRRT can be advantageous in treating 
+various poisonings, especially when plasma levels are low (see 
+Chapter 20).
+F. Extracorporeal membrane oxygenation (ECMO).  S CUF or C-HD may 
+be performed on patients receiving ECMO without the need 
+for a separate CRRT system. The ECMO blood lines can be 
+adapted to connect in parallel to a dialyzer. This allows C-HD 
+or SCUF to be performed concurrently. Because these patients 
+have ARDS or volume overload that requires ECMO in the first 
+place, further volume removal may be helpful, especially in pa-
+tients with chronic renal insufficiency. When C-HD is desired 
+for the treatment of concomitant ARF in these patients, use 
+of sterile dialysis solutions is preferred, as there may be high 
+backfiltration due to high pressures in the ECMO circuit. Anti-
+coagulation using regional citrate has been used (Shum, 2014).
+ XVI. INF ANTS AND CHILDREN.  U se of CRRT in children is beyond the 
+scope of this Handbook. See the review by Sutherland (2012).
+References and Suggested Readings
+Augustine JJ, et al. A randomized controlled trial comparing intermittent with continu-
+ous dialysis in patients with ARF. Am J Kidney Dis. 2004;44:1000–1007.
+Baek NN, et al. The role of nafamostat mesylate in continuous renal replacement ther-
+apy among patients at high risk of bleeding. Ren Fail. 2012;34:279–285.
+Bart BA, et al.; the Heart Failure Clinical Research Network. Ultrafiltration in decompen-
+sated heart failure with cardiorenal syndrome. N Engl J Med. 2012;367:2296–2304.
+Bunchman TE, Maxvold NJ, Brophy PD. Pediatric convective hemofiltration: 
+normocarb replacement fluid and citrate anticoagulation. Am J Kidney Dis. 
+2003;42:1248–1252.
+Chua HR, et al. Biochemical effects of phosphate-containing replacement fluid for con-
+tinuous venovenous hemofiltration. Blood Purif. 2012;34:306–312.
+Churchwell MD, et al. Drug dosing during continuous renal replacement therapy. 
+Semin Dial. 2009;22:185–188.
+Claure-Del Granado R, et al. Effluent volume in continuous renal replacement therapy 
+overestimates the delivered dose of dialysis. Clin J Am Soc Nephrol. 2011;6:467–475.
+Cole L, et al. High-volume haemofiltration in human septic shock. Intensive Care Med. 
+2001;27:978–986.
+Dager WE, White RH. Argatroban for heparin-induced thrombocytopenia in hepato-
+renal failure and CVVHD. Ann Pharmacother. 2003;37:1232–1236.
+Davenport A. Is there a role for continuous renal replacement therapies in patients 
+with liver and renal failure? Kidney Int Suppl. 1999:72:S62–S66.
+Davenport A. Renal replacement therapy in the patient with acute brain injury. Am J 
+Kidney Dis. 2001;37:457–466.
+Egi M, et al. A comparison of two citrate anticoagulation regimens for continuous 
+veno-venous hemofiltration. Int J Artif Organs. 2005;28:1211–1218.
+Daugirdas9781451144291-ch015.indd   301 09/10/14   1:16 am
+Part II / Blood-Based Therapies
+302
+Egi M, et al. The acid-base effect of changing citrate solution for regional antico-
+agulation during continuous veno-venous hemofiltration. Int J Artif Organs. 
+2008;31:228–236.
+Eichler P , et al. Antihirudin antibodies in patients with heparin-induced thrombocy-
+topenia treated with lepirudin: incidence, effects on aPTT, and clinical relevance. 
+Blood. 2000;96:2373–2378.
+Fiaccadori E, et al. Efficacy and safety of a citrate-based protocol for sustained low-
+efficiency dialysis in AKI using standard dialysis equipment. Clin J Am Soc Nephrol. 
+2013;8:1670–1678.
+Fischer KG, van de Loo A, Bohler J. Recombinant hirudin (lepirudin) as anticoagulant 
+in intensive care patients treated with continuous hemodialysis. Kidney Int Suppl. 
+1999;72:S46–S50.
+Golper TA. Update on drug sieving coefficients and dosing adjustments during con-
+tinuous renal replacement therapies. Contrib Nephrol. 2001;132:349–353.
+Heintz BH, et al. Antimicrobial dosing concepts and recommendations for critically 
+ill adult patients receiving continuous renal replacement therapy or intermittent 
+hemodialysis. Pharmacotherapy. 2009;29:562–577.
+Hofmann CL, Fissell WH. Middle-molecule clearance at 20 and 35 ml/kg/h in continu-
+ous venovenous hemodiafiltration. Blood Purif. 2010;29:259–263.
+Hoste EA, et al. No early respiratory benefit with CVVHDF in patients with acute renal 
+failure and acute lung injury. Nephrol Dial Transplant. 2002;17:2153–2158.
+Jacobi J et al. Clinical practice guidelines for the sustained use of sedatives and analge-
+sics in the critically ill adult. Crit Care Med. 2002;30:119–141.
+James M, et al. Canadian Society of Nephrology Commentary on the 2012 KDIGO 
+Clinical Practice Guideline for Acute Kidney Injury. Am J Kidney Dis. 2013:61:  
+673–685.
+Jaski BE, et al. Peripherally inserted veno-venous ultrafiltration for rapid treatment of 
+volume overloaded patients. J Card Fail. 2003;9:227–231.
+Joannidis M. Continuous renal replacement therapy in sepsis and multisystem organ 
+failure. Semin Dial. 2009;22:160–164.
+Jörres A, et al.; the ad-hoc working group of ERBP . A European Renal Best Practice 
+(ERBP) position statement on the Kidney Disease Improving Global Outcomes 
+(KDIGO) Clinical Practice Guidelines on Acute Kidney Injury: part 2: renal replace-
+ment therapy. Nephrol Dial Transplant. 2013;28:2940–2945.
+KDIGO. KDIGO clinical practice guidelines for acute kidney injury. Kidney Int. 
+2012;2(suppl1):1–141.
+Kellum JA, Bellomo R, Ronco C, (eds). Continuous Renal Replacement Therapy. Oxford: 
+Oxford University Press; 2010.
+Kim IB, et al. Insertion side, body position and circuit life during continuous renal 
+replacement therapy with femoral vein access. Blood Purif. 2011;31:42–46.
+Kumar VA, et al. Extended daily dialysis: a new approach to renal replacement for 
+acute renal failure in the intensive care unit. Am J Kidney Dis. 2000;36:294–300.
+Lexi-Comp, Inc. (Lexi-Drugs™). Lexi-Comp, Inc. May 22, 2013.
+Liangos O, et al. Dialyzer fiber bundle volume and kinetics of solute removal in con-
+tinuous venovenous hemodialysis. Am J Kidney Dis. 2002;39:1047–1053.
+Lins RL, et al. for the SHARF investigators. Intermittent versus continuous renal 
+replacement therapy for acute kidney injury patients admitted to the inten -
+sive care unit: results of a randomized clinical trial. Nephrol Dial Transplant . 
+2009;26:512–518.
+Lowenstein DH. Treatment options for status epilepticus. Curr Opin Pharmacol . 
+2005;5:334–339.
+Kalviainen R. Status epilepticus treatment guidelines. Epilepsia. 2007;48:99–102.
+Marenzi G, et al. Interrelation of humoral factors, hemodynamics, and fluid and salt 
+metabolism in congestive heart failure: effects of extracorporeal ultrafiltration. Am 
+J Med. 1993;94:49–56.
+Marenzi G, et al. The prevention of radiocontrast-agent-induced nephropathy by 
+hemofiltration. N Engl J Med. 2003;349:1333–1340.
+Marshall MR, et al. Sustained low-efficiency daily diafiltration (SLEDD-f) for critically 
+ill patients requiring renal replacement therapy: towards an adequate therapy. 
+Nephrol Dial Transplant. 2004;19:877–884.
+Marshall MR, et al. Mortality rate comparison after switching from continuous 
+to prolonged intermittent renal replacement for acute kidney injury in three 
+intensive care units from different countries. Nephrol Dial Transplant. 2011;26:  
+2169–2175.
+Daugirdas9781451144291-ch015.indd   302 09/10/14   1:16 am
+303Chapter 15 / Continuous Renal Replacement Therapies
+Matzke GR et al. Drug dosing consideration in patients with acute and chronic kid-
+ney disease—a clinical update from kidney disease: improving global outcomes 
+(KDIGO). Kidney Int. 2011;80:1122–1137.
+McLean AG, et al. Effects of lactate-buffered and lactate-free dialysate in CAVHD 
+patients with and without liver dysfunction. Kidney Int. 2000;58:1765–1772.
+Mehta RL. Indications for dialysis in the ICU: renal replacement vs. renal support. 
+Blood Purif. 2001;19:227–232.
+Meier-Kriesche HU, et al. Unexpected severe hypocalcemia during continuous veno-
+venous hemodialysis with regional citrate anticoagulation. Am J Kidney Dis. 
+1999;33:e8.
+Meier-Kriesche HU, et al. Increased total to ionized calcium ratio during continuous 
+venovenous hemodialysis with regional citrate anticoagulation. Crit Care Med . 
+2001;29:748–752.
+Messer J, et al. Middle-molecule clearance in CRRT: in vitro convection, diffusion and 
+dialyzer area. ASAIO J. 2009;55:224–226.
+Mitchell A, et al. A new system for regional citrate anticoagulation in continuous veno-
+venous hemodialysis (CVVHD). Clin Nephrol. 2003;59:106–114.
+Monchi M, et al. Citrate vs. heparin for anticoagulation in continuous venove -
+nous hemofiltration: a prospective randomized study. Intensive Care Med. 
+2004;30:260–265.
+Morgan D, et al. A randomized trial of catheters of different lengths to achieve right 
+atrium versus superior vena cava placement for continuous renal replacement 
+therapy. Am J Kidney Dis. 2012;60:272–279.
+Morgera S, et al. Long-term outcomes in acute renal failure patients treated with con-
+tinuous renal replacement therapies. Am J Kidney Dis. 2002;40:275–279.
+Naka T, et al. Low-dose citrate continuous veno-venous hemofiltration (CVVH) and 
+acid-base balance. Int J Artif Organs. 2005;28:222–228.
+Oudemans-van Straaten HM, et al. Citrate anticoagulation for continuous venovenous 
+hemofiltration. Crit Care Med. 2009;37:545–552.
+Palevsky PM, et al. KDOQI US commentary on the 2012 KDIGO clinical practice guide-
+line for acute kidney injury. Am J Kidney Dis. 2013;61:649–672.
+RENAL Replacement Therapy Study Investigators, Bellomo R, et al. Intensity of 
+continuous renal-replacement therapy in critically ill patients. N Engl J Med. 
+2009;361:1627–1638.
+Rogiers P , et al. Blood warming during hemofiltration can improve hemodynamics and 
+outcome in ovine septic shock. Anesthesiology. 2006;104:1216–1222.
+Rokyta R Jr, et al. Effects of continuous venovenous haemofiltration-induced cooling 
+on global haemodynamics, splanchnic oxygen and energy balance in critically ill 
+patients. Nephrol Dial Transplant. 2004;19:623–630.
+Sagedal S, Hartmann A. Low molecular weight heparins as thromboprophylaxis in 
+patients undergoing hemodialysis/hemofiltration or continuous renal replace -
+ment therapies. Eur J Med Res. 2004;9:125–130.
+Salvatori G, et al. First clinical trial for a new CRRT machine: the Prismaflex. Int J Artif 
+Organs. 2004;27:404–409.
+Schilder L, et al. Citrate confers less filter-induced complement activation and neutro-
+phil degranulation than heparin when used for anticoagulation during CVVH in 
+critically ill patients. BMC Nephrol. 2014;15:19.
+Schindler R, et al. Removal of contrast media by different extracorporeal treatments. 
+Nephrol Dial Transplant. 2001;16:1471–1474.
+Shum HP , et al. The use of regional citrate anticoagulation continuous venovenous 
+haemofiltration in extracorporeal membrane oxygenation. ASAIO J. 2014.
+Splendiani G, et al. Continuous renal replacement therapy and charcoal plas-
+maperfusion in treatment of amanita mushroom poisoning. Artif Organs . 
+2000;24:305–308.
+Stevenson JM, et al. In vitro glucose kinetics during continuous renal replacement 
+therapy: implications for caloric balance in critically ill patients. Int J Artif Organs. 
+2013;36:861–868.
+Sutherland SM, Alexander SR. Continuous renal replacement therapy in children. Pedi-
+atr Nephrol. 2012;27:2007–2016.
+Swartz R, et al. Improving the delivery of continuous renal replacement therapy using 
+regional citrate anticoagulation. Clin Nephrol. 2004;61:134–143.
+Szamosfalvi B, Frinak S, Yee J. Automated regional citrate anticoagulation: technologi-
+cal barriers and possible solutions. Blood Purif. 2010;29:204–209.
+Daugirdas9781451144291-ch015.indd   303 09/10/14   1:16 am
+Part II / Blood-Based Therapies
+304
+Teo BW , et al. Machine generated bicarbonate dialysate for continuous therapy: a 
+10-year experience. Blood Purif. 2006;24:247–273.
+Troyanov S, et al. Phosphate addition to hemodiafiltration solutions during continu-
+ous renal replacement therapy. Intensive Care Med. 2004;30:1662–1665.
+Van Berendoncks AM, et al.; SHARF Study Group. Outcome of acute kidney injury 
+with different treatment options: long-term follow-up. Clin J Am Soc Nephrol. 
+2010;5:1755–62.
+van der Sande FM, et al. Thermal effects and blood pressure response during postdilu-
+tion hemodiafiltration and hemodialysis: the effect of amount of replacement fluid 
+and dialysate temperature. J Am Soc Nephrol. 2001;12:1916–1920.
+Wester JP , et al. Catheter replacement in continuous arteriovenous hemodiafiltration: 
+the balance between infectious and mechanical complications. Crit Care Med. 
+2002;30:1261–1266.
+Wu MY, et al. Regional citrate versus heparin anticoagulation for continuous renal 
+replacement therapy: a meta-analysis of randomized controlled trials. Am J Kidney 
+Dis. 2012;59:810–818.
+Wu VC, et al.; the NSARF Group. The hemodynamic effects during sustained low-  
+efficiency dialysis versus continuous veno-venous hemofiltration for uremic 
+patients with brain hemorrhage: a crossover study. J Neurosurg. 2013;119:1288–1295.
+Yagi N, et al. Cooling effect of continuous renal replacement therapy in critically ill 
+patients. Am J Kidney Dis. 1998;32:1023–1030.
+Yang Y, et al. Development of an online citrate/Ca2+  sensing system for dialysis. 
+ Analyst. 2011;136:317–320.
+Yessayan L, et al.  Treatment of severe hyponatremia in patients with kidney failure: 
+Role of continuous venovenous hemofiltration wit low sodium replacement fluid.  
+Am J Kidney Dis. 2014;64:305–310.
+Web References
+ADQI Initiative: http://www.adqi.org.
+HDCN CRRT Channel: http://www.hdcn.com/ch/cavh/.
+KDIGO Clinical Practice Guideline for Acute Kidney Injury: http://www.kdigo.org/
+clinical_practice_guidelines/AKI.php.
+Daugirdas9781451144291-ch015.indd   304 09/10/14   1:16 am

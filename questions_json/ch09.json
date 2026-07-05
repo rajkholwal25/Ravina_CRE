@@ -1,0 +1,665 @@
+{
+  "chapter": 9,
+  "questions": [
+    {
+      "topic": "Catheter complications overview",
+      "question": "Which set of problems represents the principal complications associated with venous dialysis catheters?",
+      "options": {
+        "A": "Infection, poor flow, thrombosis, and central venous stenosis",
+        "B": "Steal syndrome, aneurysm, high output failure, and edema",
+        "C": "Hyperkalemia, hypotension, cramping, and clotting",
+        "D": "Air embolism, hemolysis, pyrogen reaction, and dialysance loss"
+      },
+      "correct": "A",
+      "explanation": "The chapter opens by naming the four main venous catheter problems: infection, poor flow (dysfunction), thrombosis, and central venous stenosis, so A is correct. Option B (steal syndrome, aneurysm, high-output failure, edema) lists complications of AV fistulas and grafts, not catheters. C names intradialytic events such as hyperkalemia, hypotension, and cramping, and D lists mechanical dialysis mishaps like air embolism and hemolysis. Recognizing this framework matters because each of the four catheter problems has its own distinct workup and management pathway in this chapter."
+    },
+    {
+      "topic": "Infection epidemiology",
+      "question": "Compared with arteriovenous fistulas, the rate of infection with venous catheters is:",
+      "options": {
+        "A": "About the same",
+        "B": "Substantially higher",
+        "C": "Slightly lower",
+        "D": "Negligible"
+      },
+      "correct": "B",
+      "explanation": "Infections occur with venous catheters at a rate substantially higher than with AV fistulas, so B is correct; the other options understate the risk. This is clinically important because infection is the leading cause of catheter loss and a major driver of morbidity and mortality in dialysis patients. It is precisely this excess infection risk that makes fistulas the preferred long-term access and drives efforts to limit catheter dwell time. The elevated rate reflects the permanent breach of the skin barrier that an indwelling catheter creates."
+    },
+    {
+      "topic": "Infection source",
+      "question": "Which is the most common route by which venous catheter infections arise?",
+      "options": {
+        "A": "Hematogenous seeding from a distant urinary tract infection",
+        "B": "Airborne contamination in the dialysis unit",
+        "C": "Contamination of catheter connectors or lumen contamination during dialysis or from infused solutions",
+        "D": "Direct puncture of the vein during cannulation"
+      },
+      "correct": "C",
+      "explanation": "Infection most often results from contamination of the catheter connectors, or lumen contamination during dialysis or from infused solutions, making C correct. Two other real but less common routes are migration of the patient's own skin flora through the puncture site onto the outer catheter surface, and colonization from more remote sites during bacteremia. A distant UTI (A), airborne unit contamination (B), and the cannulation puncture itself (D) are not cited as the usual mechanism. Because the connectors and lumen are the main portal, meticulous hub and connector hygiene is central to prevention."
+    },
+    {
+      "topic": "Exit-site infection",
+      "question": "An uncomplicated catheter exit-site infection shows erythema, discharge, crusting, and tenderness at the skin exit site along with:",
+      "options": {
+        "A": "Marked tunnel swelling and purulent tract drainage",
+        "B": "Positive blood cultures in all cases",
+        "C": "Systemic hypotension",
+        "D": "No tunnel tenderness or purulence"
+      },
+      "correct": "D",
+      "explanation": "Exit-site infection is diagnosed by erythema, discharge, crusting, and tenderness at the skin exit site but with no tunnel tenderness or purulence, so D is the defining feature. Marked tunnel swelling and purulent tract drainage (A) instead define tunnel infection, a more serious process. Positive blood cultures (B) are not universal and, if present, mandate removal; systemic hypotension (C) indicates severe sepsis, not a localized exit-site infection. Distinguishing exit-site from tunnel infection matters because the former can often be treated locally while the latter requires catheter removal."
+    },
+    {
+      "topic": "Exit-site treatment",
+      "question": "Initial treatment of an uncomplicated catheter exit-site infection typically consists of:",
+      "options": {
+        "A": "Topical antibiotic cream and oral antibiotics",
+        "B": "Immediate catheter removal",
+        "C": "Intravenous vancomycin plus gentamicin",
+        "D": "Antibiotic lock therapy alone"
+      },
+      "correct": "A",
+      "explanation": "Uncomplicated exit-site infection can be treated adequately with topical antibiotic cream plus oral antibiotics, so A is correct, and such infections are prevented by meticulous exit-site care. Immediate removal (B) is reserved for systemic signs, expressible pus, persistence or recurrence, or positive blood cultures. IV vancomycin plus gentamicin (C) is empiric therapy for bloodstream infection, not a simple exit-site infection, and antibiotic lock alone (D) is a salvage adjunct for CRBSI. Escalation is guided by whether systemic or tunnel involvement appears during the initial course of therapy."
+    },
+    {
+      "topic": "Staphylococcus carriage",
+      "question": "A patient with recurrent exit-site infections and nasal Staphylococcus carriage should receive intranasal mupirocin cream at what regimen?",
+      "options": {
+        "A": "Full tube once daily to one nostril for 10 days",
+        "B": "Half tube twice a day to each nostril for 5 days",
+        "C": "A single application to each nostril",
+        "D": "Half tube once weekly for 4 weeks"
+      },
+      "correct": "B",
+      "explanation": "Nasal Staphylococcus carriers should receive intranasal mupirocin cream, half a tube twice daily to each nostril for 5 days, so B states the exact regimen from the chapter; the other frequencies and durations are fabricated distractors. Investigating for and decolonizing nasal carriage is recommended to prevent future exit-site infections, since the nose is a reservoir that seeds the exit site with the patient's own skin flora. This targeted, short course is a simple, evidence-based prophylactic measure in a patient with recurrent exit-site infection."
+    },
+    {
+      "topic": "Exit-site removal criteria",
+      "question": "In a patient with a catheter exit-site infection, which finding mandates catheter removal?",
+      "options": {
+        "A": "Mild erythema responding to topical cream",
+        "B": "Absence of tunnel tenderness",
+        "C": "Temperature above 38 degrees C or leukocytosis",
+        "D": "A single crust at the exit site"
+      },
+      "correct": "C",
+      "explanation": "The catheter must be removed if systemic signs develop, defined as leukocytosis or temperature above 38 degrees C, so C is correct. Mild erythema responding to topical cream (A), absence of tunnel tenderness (B), and a single crust (D) all describe uncomplicated local infection that can be managed without removal. The full list of removal triggers also includes pus expressible from the catheter track, persistence or recurrence after an initial antibiotic course, and any positive blood culture. These thresholds keep a localized exit-site infection from progressing to bacteremia."
+    },
+    {
+      "topic": "Tunnel infection definition",
+      "question": "Tunnel infection is defined as infection along the subcutaneous tunnel that extends:",
+      "options": {
+        "A": "Distal to the exit site onto the skin surface",
+        "B": "Only within the catheter lumen",
+        "C": "Into the pleural space",
+        "D": "Proximal to the cuff toward the insertion site and venotomy"
+      },
+      "correct": "D",
+      "explanation": "Tunnel infection is infection along the subcutaneous tunnel extending proximal to the cuff toward the insertion site and venotomy, so D is correct. It is characterized by marked tenderness, swelling, and erythema along the catheter tract with purulent drainage from the exit site, and it can progress to systemic bacteremia. Spread distal onto the skin (A) or confinement to the lumen (B) or the pleural space (C) do not describe it. Because the infection lies deep to the cuff, topical therapy cannot reach it, which is why tunnel infection is treated far more aggressively than exit-site infection."
+    },
+    {
+      "topic": "Tunnel infection management",
+      "question": "When a tunnel infection presents with drainage or signs of systemic infection, the appropriate action is to:",
+      "options": {
+        "A": "Remove the catheter immediately and prescribe antibiotic therapy",
+        "B": "Continue the catheter and give topical antibiotics only",
+        "C": "Observe for 48 hours before deciding",
+        "D": "Exchange the catheter over a guidewire"
+      },
+      "correct": "A",
+      "explanation": "When a tunnel infection shows drainage or signs of systemic infection, the catheter should be removed immediately and antibiotic therapy prescribed, so A is correct. Continuing the catheter with topical antibiotics (B) fails because the infection is deep to the cuff and beyond topical reach; watchful waiting for 48 hours (C) risks progression to bacteremia. Guidewire exchange (D) is inappropriate through an infected tunnel. Immediate removal plus systemic antibiotics is required because a purulent tunnel readily seeds the bloodstream and can result in systemic bacteremia."
+    },
+    {
+      "topic": "CRBSI presentation",
+      "question": "Patients who develop septic symptoms shortly after the initiation of dialysis most likely reflect:",
+      "options": {
+        "A": "A dialyzer membrane reaction",
+        "B": "Systemic release of bacteria and/or endotoxin from the catheter",
+        "C": "Intradialytic hypotension",
+        "D": "A pyrogen reaction from the water system"
+      },
+      "correct": "B",
+      "explanation": "Septic symptoms that appear after initiation of dialysis suggest systemic release of bacteria and/or endotoxin from the catheter, so B is correct, as the onset of dialysis blood flow disturbs the colonized catheter and its biofilm. A dialyzer membrane reaction (A), intradialytic hypotension (C), and a water-system pyrogen reaction (D) are not the mechanism described for a catheter that harbors infection. Recognizing that post-connection rigors point to the catheter helps direct blood cultures and empiric antibiotics rather than blaming the dialysis prescription or water quality."
+    },
+    {
+      "topic": "CRBSI organisms",
+      "question": "In catheter-related bloodstream infection, the causative organisms in the majority of cases are:",
+      "options": {
+        "A": "Gram-negative bacilli",
+        "B": "Fungi, primarily Candida",
+        "C": "Gram-positive organisms",
+        "D": "Anaerobes"
+      },
+      "correct": "C",
+      "explanation": "Gram-positive organisms, primarily Staphylococcus species, cause the majority of CRBSI cases, so C is correct. Gram-negative infections (A) occur in a sizeable minority (isolated in up to 40% of cases) but are not the majority, and fungi such as Candida (B) and anaerobes (D) are far less common. This predominance is why empiric therapy centers on vancomycin for gram-positive cover while still adding gram-negative coverage based on the local antibiogram. Knowing the usual organisms guides both empiric drug choice and later de-escalation once cultures return."
+    },
+    {
+      "topic": "Metastatic infection",
+      "question": "Which of the following is a recognized site of metastatic infection complicating CRBSI?",
+      "options": {
+        "A": "Cholecystitis",
+        "B": "Appendicitis",
+        "C": "Pancreatitis",
+        "D": "Endocarditis"
+      },
+      "correct": "D",
+      "explanation": "Metastatic infections complicating CRBSI include endocarditis, osteomyelitis, epidural abscess, and septic arthritis, so endocarditis (D) is the recognized site. Cholecystitis (A), appendicitis (B), and pancreatitis (C) are intra-abdominal processes not linked to catheter-related seeding in the chapter. These metastatic complications matter because their presence converts an uncomplicated bacteremia into one needing prolonged therapy of 4 to 8 weeks and often mandatory catheter removal, and they should be actively sought whenever fever or bacteremia persists despite treatment."
+    },
+    {
+      "topic": "Catheter salvage rationale",
+      "question": "Why do CRBSI management guidelines for dialysis patients differ from those for short-term central venous catheters?",
+      "options": {
+        "A": "The venous catheter is a lifeline that sometimes can be replaced only with great difficulty, prompting salvage maneuvers",
+        "B": "Dialysis catheters never become infected with resistant organisms",
+        "C": "Dialysis patients cannot receive systemic antibiotics",
+        "D": "Short-term catheters are always tunneled"
+      },
+      "correct": "A",
+      "explanation": "Dialysis CRBSI guidelines differ from short-term central-line guidelines because the hemodialysis catheter is a lifeline that sometimes can be replaced only with great difficulty, so A is correct, prompting salvage maneuvers such as antibiotic locks and guidewire exchange. It is not that dialysis catheters resist resistant organisms (B), that dialysis patients cannot receive systemic antibiotics (C), or that short-term catheters are always tunneled (D). This access-preservation logic explains why salvage is attempted at all, though only in limited, defined circumstances."
+    },
+    {
+      "topic": "Catheter salvage limits",
+      "question": "If a patient's condition worsens after a relatively short trial of catheter salvage, the appropriate step is to:",
+      "options": {
+        "A": "Extend the salvage attempt for another week",
+        "B": "Remove the catheter to minimize the risk of spreading infection to body organs",
+        "C": "Increase the antibiotic lock concentration",
+        "D": "Switch to oral antibiotics"
+      },
+      "correct": "B",
+      "explanation": "If a patient's condition worsens after a relatively short trial of catheter salvage, the catheter must be removed to minimize the risk of spreading infection to body organs, so B is correct. Extending the salvage attempt (A) or merely raising the lock concentration (C) delays source control and risks metastatic infection; switching to oral antibiotics (D) is not the issue. Salvage techniques are reserved for limited, defined circumstances, and clinical deterioration is the signal to abandon them, preserving the principle that source control outweighs access preservation when the patient is failing."
+    },
+    {
+      "topic": "Blood culture diagnosis",
+      "question": "A diagnosis of CRBSI is confirmed when the same organism grows in:",
+      "options": {
+        "A": "A single hub culture only",
+        "B": "A urine culture and a sputum culture",
+        "C": "Both blood cultures, or the blood culture and a catheter tip culture",
+        "D": "Any one positive culture regardless of site"
+      },
+      "correct": "C",
+      "explanation": "CRBSI is confirmed when the same organism grows in both blood cultures, or in the blood culture and a catheter tip culture, so C is correct. A single hub culture (A), unrelated urine or sputum cultures (B), or any one positive culture regardless of site (D) cannot confirm the diagnosis because contamination and alternate sources must be excluded. Cultures may be drawn from the catheter hub, a peripheral vein, or the dialysis bloodline, and concordance of the same organism from two sources is what establishes the catheter as the source of infection."
+    },
+    {
+      "topic": "Catheter tip culture",
+      "question": "When a catheter is removed because of suspected infection, the IDSA recommends culturing which portion of it?",
+      "options": {
+        "A": "The proximal hub connector",
+        "B": "The entire external segment",
+        "C": "The subcutaneous cuff",
+        "D": "The distal 5 cm of the tip"
+      },
+      "correct": "D",
+      "explanation": "When a catheter is removed because of suspected infection, the IDSA recommends culturing the distal 5 cm of its tip, so D is correct; the proximal hub connector (A), the entire external segment (B), and the subcutaneous cuff (C) are not the specified segment. A positive tip culture growing the same organism as a blood culture helps confirm CRBSI. This is done only when the catheter has been removed for suspicion of infection, complementing the paired blood cultures used when the catheter otherwise remains in place."
+    },
+    {
+      "topic": "Antiseptic for cultures",
+      "question": "When sampling from the skin or catheter hub for culture, the recommended antiseptic is:",
+      "options": {
+        "A": "Alcoholic chlorhexidine, allowed to dry before sampling",
+        "B": "Povidone-iodine only",
+        "C": "Hydrogen peroxide",
+        "D": "Sterile saline"
+      },
+      "correct": "A",
+      "explanation": "When sampling skin or a catheter hub for culture, the IDSA recommends cleaning with alcoholic chlorhexidine rather than povidone-iodine (B), and allowing the antiseptic to dry before sampling, so A is correct. Hydrogen peroxide (C) and sterile saline (D) are not the antiseptics recommended here. Letting the chlorhexidine dry avoids contaminating the cultured material with liquid antiseptic, which could suppress growth and cause false-negative results. Correct skin antisepsis technique is essential so a positive culture reliably reflects true bacteremia rather than surface contamination."
+    },
+    {
+      "topic": "Bloodline cultures",
+      "question": "Obtaining blood cultures from the dialysis bloodline is regarded as:",
+      "options": {
+        "A": "Never acceptable under any circumstances",
+        "B": "An acceptable substitute for peripheral blood cultures in many hemodialysis patients",
+        "C": "Superior to catheter hub cultures in all patients",
+        "D": "Useful only for fungal cultures"
+      },
+      "correct": "B",
+      "explanation": "The IDSA recognizes that obtaining blood from the dialysis bloodline is an acceptable substitute for peripheral blood cultures in many hemodialysis patients, so B is correct, because peripheral venipuncture is often difficult and vessels needed for a future fistula should be spared. It is not never acceptable (A), not universally superior to hub cultures (C), and not limited to fungal cultures (D). The ERBP agrees, noting bloodline blood likely represents peripheral rather than localized catheter blood, so a positive result may reflect bacteremia from a source other than the catheter."
+    },
+    {
+      "topic": "Immediate removal indications",
+      "question": "Which finding is an indication for immediate dialysis catheter removal?",
+      "options": {
+        "A": "Isolated low-grade fever that resolves in one session",
+        "B": "A negative catheter tip culture",
+        "C": "Septic thrombosis, endocarditis, osteomyelitis, or severe sepsis with hypotension",
+        "D": "Coagulase-negative staphylococcus with rapid response"
+      },
+      "correct": "C",
+      "explanation": "Immediate catheter removal is required for evidence of septic thrombosis, endocarditis, or osteomyelitis, or severe sepsis with hypotension, so C is correct. Isolated low-grade fever resolving in one session (A), a negative catheter tip culture (B), and coagulase-negative staphylococcus with rapid response (D) do not mandate removal and may allow salvage. The same immediate-removal recommendation generally holds for tunnel infection with fever. After removal, dialysis is continued through a temporary catheter placed at a different location while the severe or metastatic infection is treated."
+    },
+    {
+      "topic": "Dialysis after removal",
+      "question": "After a catheter is removed for infection, dialysis should be continued using:",
+      "options": {
+        "A": "The same catheter after sterilization",
+        "B": "Peritoneal dialysis exclusively",
+        "C": "A guidewire-exchanged catheter at the same site",
+        "D": "A temporary catheter inserted at a different location"
+      },
+      "correct": "D",
+      "explanation": "After a catheter is removed for infection, dialysis should be continued with a temporary (nontunneled) catheter inserted at a different location, so D is correct. Reusing the same catheter after sterilization (A) is not possible, peritoneal dialysis (B) is not the described bridge, and guidewire exchange at the same site (C) is inappropriate when the site is infected or the patient is severely septic. Placing the temporary line at a fresh anatomical site avoids reintroducing infection at the contaminated venotomy while maintaining life-sustaining dialysis until a new long-term catheter can be placed."
+    },
+    {
+      "topic": "Mandatory removal organisms",
+      "question": "For CRBSI due to which organisms is removal of the infected hemodialysis catheter always recommended rather than salvage?",
+      "options": {
+        "A": "S. aureus, Pseudomonas sp., or Candida sp.",
+        "B": "Coagulase-negative staphylococci only",
+        "C": "Any gram-negative bacillus",
+        "D": "Enterococcus faecalis only"
+      },
+      "correct": "A",
+      "explanation": "For CRBSI due to S. aureus, Pseudomonas species, or Candida species, the infected catheter should always be removed rather than salvaged, so A is correct, with a temporary catheter placed at another site. Coagulase-negative staphylococci alone (B), other gram-negative bacilli (C), or enterococci (D) are less virulent and may allow catheter retention with systemic therapy. These three organisms carry high rates of persistent infection, metastatic spread, and salvage failure, so guidewire exchange and lock salvage are not recommended unless there are extenuating circumstances such as no alternative insertion site."
+    },
+    {
+      "topic": "Non-Pseudomonas gram-negatives",
+      "question": "For CRBSI due to gram-negative bacilli other than Pseudomonas, or coagulase-negative staphylococci, a patient may:",
+      "options": {
+        "A": "Have the catheter removed immediately in all cases",
+        "B": "Initiate empirical IV antibiotics without immediate catheter removal",
+        "C": "Be treated with an antibiotic lock alone with no systemic therapy",
+        "D": "Delay all antibiotics until sensitivities return"
+      },
+      "correct": "B",
+      "explanation": "For CRBSI due to gram-negative bacilli other than Pseudomonas, or coagulase-negative staphylococci, a patient can initiate empirical IV antibiotics without immediate catheter removal, so B is correct. Immediate removal in all cases (A) is reserved for S. aureus, Pseudomonas, and Candida; a lock alone with no systemic therapy (C) is not appropriate for established CRBSI, and delaying all antibiotics until sensitivities return (D) is unsafe. If symptoms persist or metastatic infection develops the catheter is removed; if symptoms resolve within 2 to 3 days the catheter may be exchanged over a guidewire."
+    },
+    {
+      "topic": "Stopping antibiotics",
+      "question": "In a patient with suspected CRBSI started on empiric antibiotics, therapy can be discontinued when:",
+      "options": {
+        "A": "The fever resolves regardless of culture results",
+        "B": "One of two blood culture sets is negative",
+        "C": "Both sets of blood cultures are negative and no other source of infection is identified",
+        "D": "The catheter tip culture is still pending"
+      },
+      "correct": "C",
+      "explanation": "Empiric antibiotics for suspected CRBSI can be discontinued if both sets of blood cultures are negative and no other source of infection is identified, so C is correct. Fever resolution regardless of cultures (A) and a single negative set (B) are insufficient, and a still-pending catheter tip culture (D) does not permit stopping. Requiring two negative sets plus the absence of an alternate source prevents premature cessation while avoiding unnecessary prolonged therapy in patients whose presenting symptoms turn out not to reflect a catheter-related infection."
+    },
+    {
+      "topic": "Empirical antibiotic regimen",
+      "question": "Empirical antibiotic therapy for CRBSI should include vancomycin plus coverage for gram-negative bacilli chosen according to:",
+      "options": {
+        "A": "The patient's blood type",
+        "B": "The catheter manufacturer's recommendation",
+        "C": "The patient's residual kidney function alone",
+        "D": "The local antibiogram"
+      },
+      "correct": "D",
+      "explanation": "Empirical CRBSI therapy is vancomycin plus gram-negative coverage chosen according to the local antibiogram, so D is correct, with options such as a third-generation cephalosporin, carbapenem, or beta-lactam/beta-lactamase combination. It is not guided by blood type (A), catheter manufacturer (B), or residual kidney function alone (C), although renal function does affect dosing. Basing the gram-negative choice on local resistance patterns maximizes the chance the empiric regimen covers the likely pathogens before culture and susceptibility data return."
+    },
+    {
+      "topic": "MSSA de-escalation",
+      "question": "A patient started on empirical vancomycin who is found to have CRBSI due to methicillin-susceptible S. aureus should be switched to:",
+      "options": {
+        "A": "Cefazolin",
+        "B": "Linezolid",
+        "C": "Daptomycin",
+        "D": "Ceftazidime"
+      },
+      "correct": "A",
+      "explanation": "A patient on empirical vancomycin found to have methicillin-susceptible S. aureus CRBSI should be switched to cefazolin, so A is correct, dosed at 20 mg/kg actual body weight rounded to the nearest 500-mg increment after dialysis. Linezolid (B) and daptomycin (C) are reserved for vancomycin-resistant enterococci, and ceftazidime (D) provides gram-negative coverage. De-escalating from vancomycin to cefazolin for MSSA gives more effective, narrower therapy and avoids unnecessary vancomycin exposure once susceptibility results are known."
+    },
+    {
+      "topic": "Prolonged antibiotic course",
+      "question": "A 4- to 6-week antibiotic course is indicated for CRBSI with persistent bacteremia after catheter removal, or in patients with:",
+      "options": {
+        "A": "An uncomplicated coagulase-negative staphylococcal infection",
+        "B": "Endocarditis or suppurative thrombophlebitis",
+        "C": "A negative catheter tip culture",
+        "D": "Exit-site infection without fever"
+      },
+      "correct": "B",
+      "explanation": "A 4- to 6-week antibiotic course is indicated for persistent bacteremia or fungemia (lasting more than 72 hours) after catheter removal, or for endocarditis or suppurative thrombophlebitis, so B is correct. An uncomplicated coagulase-negative staphylococcal infection (A), a negative tip culture (C), or an exit-site infection without fever (D) require only short courses. Osteomyelitis extends the course further to 6 to 8 weeks. Matching antibiotic duration to the presence and type of metastatic infection prevents both undertreatment and later relapse."
+    },
+    {
+      "topic": "Osteomyelitis duration",
+      "question": "The recommended duration of antibiotic therapy for osteomyelitis in adults with CRBSI is:",
+      "options": {
+        "A": "1 to 2 weeks",
+        "B": "2 to 3 weeks",
+        "C": "6 to 8 weeks",
+        "D": "6 months"
+      },
+      "correct": "C",
+      "explanation": "Osteomyelitis in adults with CRBSI should be treated with 6 to 8 weeks of therapy, so C is correct, longer than the 4- to 6-week course used for endocarditis, suppurative thrombophlebitis, or persistent bacteremia after catheter removal. Short courses of 1 to 3 weeks (A, B) apply to uncomplicated bacteremia, and 6 months (D) refers to anticoagulation for intra-atrial thrombus, not antibiotic therapy. Bone infection requires the longest antibiotic course because penetration into bone is limited and relapse is common when the duration is inadequate."
+    },
+    {
+      "topic": "VRE treatment",
+      "question": "A dialysis patient with CRBSI due to vancomycin-resistant enterococci can be treated with:",
+      "options": {
+        "A": "Cefazolin or ceftazidime",
+        "B": "Higher-dose vancomycin",
+        "C": "Amphotericin B",
+        "D": "Daptomycin or oral linezolid"
+      },
+      "correct": "D",
+      "explanation": "CRBSI due to vancomycin-resistant enterococci can be treated with daptomycin (6 mg/kg after each dialysis session) or oral linezolid (600 mg every 12 hours), so D is correct. Cefazolin or ceftazidime (A) do not reliably cover enterococci, higher-dose vancomycin (B) is futile against a resistant organism, and amphotericin B (C) is an antifungal. These two agents are the specified options because they retain activity against VRE and can be dosed practically around the hemodialysis schedule."
+    },
+    {
+      "topic": "MRSA empiric coverage",
+      "question": "If methicillin-resistant Staphylococcus is known to be common in the local hemodialysis population, initial empiric therapy should include:",
+      "options": {
+        "A": "Vancomycin rather than a first-generation cephalosporin",
+        "B": "A first-generation cephalosporin",
+        "C": "An aminoglycoside alone",
+        "D": "Oral linezolid alone"
+      },
+      "correct": "A",
+      "explanation": "When methicillin-resistant Staphylococcus is known to be common in the local hemodialysis population, initial therapy should include vancomycin rather than a first-generation cephalosporin, so A is correct. A first-generation cephalosporin (B) would fail to cover MRSA, an aminoglycoside alone (C) lacks gram-positive activity, and oral linezolid alone (D) omits gram-negative coverage. Empiric vancomycin ensures MRSA is covered from the outset; if cultures later reveal a methicillin-sensitive organism, therapy is changed to cefazolin or a similar antibiotic."
+    },
+    {
+      "topic": "Antibiotic lock indication",
+      "question": "Antibiotic lock therapy is indicated for CRBSI involving long-term catheters when:",
+      "options": {
+        "A": "There is a concurrent tunnel infection",
+        "B": "There are no signs of exit-site or tunnel infection and catheter salvage is the goal",
+        "C": "The infecting organism is S. aureus",
+        "D": "The infecting organism is Candida"
+      },
+      "correct": "B",
+      "explanation": "Antibiotic lock therapy is indicated for CRBSI involving long-term catheters when there are no signs of exit-site or tunnel infection and catheter salvage is the goal, so B is correct. A concurrent tunnel infection (A) requires removal, not lock salvage, and S. aureus (C) or Candida (D) mandate removal rather than lock retention. The lock instills concentrated antibiotic into the lumen to sterilize the biofilm, but only makes sense when infection is confined to the lumen and preserving the access is worthwhile; it should never be used alone."
+    },
+    {
+      "topic": "Lock plus systemic therapy",
+      "question": "For established CRBSI, an antibiotic lock combined with systemic antimicrobial therapy is generally administered for:",
+      "options": {
+        "A": "24 hours",
+        "B": "3 days",
+        "C": "7 to 14 days",
+        "D": "4 to 6 weeks"
+      },
+      "correct": "C",
+      "explanation": "For established CRBSI, the antibiotic lock should not be used alone but combined with systemic antimicrobial therapy, with both regimens administered for 7 to 14 days, so C is correct. Twenty-four hours (A) and 3 days (B) are too short, and 4 to 6 weeks (D) applies to metastatic infection such as endocarditis. Pairing the lock with systemic antibiotics addresses both the luminal biofilm and any circulating bacteremia, and the defined 7- to 14-day duration reflects the adjunctive, time-limited nature of the lock in a salvage strategy."
+    },
+    {
+      "topic": "Lock dwell time",
+      "question": "Dwell times for antibiotic lock solutions should generally not exceed:",
+      "options": {
+        "A": "12 hours",
+        "B": "24 hours",
+        "C": "72 hours",
+        "D": "48 hours before reinstallation"
+      },
+      "correct": "D",
+      "explanation": "Dwell times for antibiotic lock solutions should generally not exceed 48 hours before reinstallation, so D is correct; for hemodialysis patients the lock can conveniently be renewed after every dialysis session, and ambulatory femoral catheters preferably every 24 hours. Twelve or 24 hours as an absolute maximum (A, B) understate the interval, and 72 hours (C) exceeds it. Regular reinstallation matters because lock solution leaks from the lumen over time, so an aged dwell loses antimicrobial concentration and effectiveness against the biofilm."
+    },
+    {
+      "topic": "Vancomycin lock concentration",
+      "question": "For a vancomycin antibiotic lock, the concentration should be at least how much higher than the MIC of the organism involved?",
+      "options": {
+        "A": "1000 times",
+        "B": "10 times",
+        "C": "100 times",
+        "D": "Equal to the MIC"
+      },
+      "correct": "A",
+      "explanation": "For a vancomycin antibiotic lock, the concentration should be at least 1000 times higher than the MIC of the organism involved, so A is correct; 10 times, 100 times, or a concentration equal to the MIC (B, C, D) are far too low. This large excess is required because a substantial amount of lock solution leaks out of the catheter over the dwell period, so the starting concentration must be very high to keep an effective antimicrobial level in contact with the luminal biofilm. Under-dosing the lock would allow the biofilm to survive and the infection to persist."
+    },
+    {
+      "topic": "Lock anticoagulant content",
+      "question": "In addition to antibiotic, the lock solution usually also contains an anticoagulant, specifically:",
+      "options": {
+        "A": "Low-molecular-weight heparin only",
+        "B": "2,500 or 5,000 IU/mL heparin, or 4% sodium citrate",
+        "C": "Warfarin",
+        "D": "Argatroban"
+      },
+      "correct": "B",
+      "explanation": "Lock solutions usually also contain an anticoagulant, either 2,500 or 5,000 IU/mL heparin or a mixture with 4% sodium citrate, so B is correct. Low-molecular-weight heparin (A), warfarin (C), and argatroban (D) are not the agents used in catheter lock solutions. The anticoagulant keeps the lumen patent while the concentrated antibiotic, kept well above the MIC, acts on the biofilm. Note that vancomycin at 20 mg/mL showed signs of incompatibility with 4% sodium citrate, so combinations must account for physical compatibility of the drugs."
+    },
+    {
+      "topic": "Gram-negative frequency",
+      "question": "In CRBSI, gram-negative organisms may be isolated in up to what proportion of cases?",
+      "options": {
+        "A": "5%",
+        "B": "20%",
+        "C": "40%",
+        "D": "90%"
+      },
+      "correct": "C",
+      "explanation": "Although gram-positive organisms, primarily Staphylococcus, predominate in CRBSI, gram-negative organisms may be isolated in up to 40% of cases, so C is correct; 5% and 20% (A, B) understate this, and 90% (D) would wrongly make them the majority. This sizeable minority is why empiric therapy always pairs vancomycin with gram-negative coverage rather than relying on gram-positive cover alone. Maintaining a unit database of CRBSI organisms and their susceptibilities helps refine empiric choices for future cases."
+    },
+    {
+      "topic": "Aminoglycoside toxicity",
+      "question": "Aminoglycosides used for empiric gram-negative coverage may cause ototoxicity in up to what percentage of hemodialysis patients?",
+      "options": {
+        "A": "2%",
+        "B": "10%",
+        "C": "50%",
+        "D": "20%"
+      },
+      "correct": "D",
+      "explanation": "Empiric gram-negative coverage can be provided with an aminoglycoside or a third-generation cephalosporin, but aminoglycosides may cause ototoxicity in up to 20% of hemodialysis patients, so D is correct; 2%, 10%, and 50% (A, B, C) misstate the figure. This substantial toxicity risk is an important reason to consider a cephalosporin alternative and to monitor patients carefully. Dialysis patients are especially vulnerable because reduced drug clearance prolongs aminoglycoside exposure, compounding cumulative cochlear and vestibular damage."
+    },
+    {
+      "topic": "Uncomplicated course duration",
+      "question": "In uncomplicated cases of catheter-related bacteremia, an adequate systemic antibiotic course is:",
+      "options": {
+        "A": "2 to 3 weeks",
+        "B": "3 to 5 days",
+        "C": "6 to 8 weeks",
+        "D": "6 months"
+      },
+      "correct": "A",
+      "explanation": "A 2- to 3-week course of systemic antibiotics is adequate for uncomplicated catheter-related bacteremia, so A is correct. Three to five days (B) is too short to clear a bloodstream infection, while 6 to 8 weeks (C) and 6 months (D) are reserved for metastatic complications such as osteomyelitis or endocarditis. A longer 4- to 8-week course is used only when metastatic infection is present. Tailoring duration to whether the bacteremia is uncomplicated or complicated avoids both relapse from undertreatment and unnecessary prolonged antibiotic exposure."
+    },
+    {
+      "topic": "Treat-through failure rate",
+      "question": "Attempts to maintain the same catheter by treating through the infection have a reported success rate of:",
+      "options": {
+        "A": "About 50%",
+        "B": "Less than 30%",
+        "C": "70% to 80%",
+        "D": "Over 95%"
+      },
+      "correct": "B",
+      "explanation": "Attempts to maintain the same catheter by treating through the infection have a success rate of less than 30% and carry a risk of metastatic infections, so B is correct. About 50% (A), 70% to 80% (C), and over 95% (D) overstate the outcome; in fact 70% to 80% is the salvage rate reported for guidewire exchange, not for treat-through. This poor result is why simply leaving an infected catheter in place while giving antibiotics is discouraged, and why removal or guidewire exchange of the biofilm-laden catheter is preferred once appropriate."
+    },
+    {
+      "topic": "Guidewire salvage success",
+      "question": "Guidewire exchange in patients whose symptoms resolve within 2 to 3 days of IV antibiotics reports a catheter salvage and cure rate of about:",
+      "options": {
+        "A": "20% to 30%",
+        "B": "40% to 50%",
+        "C": "70% to 80%",
+        "D": "95% to 100%"
+      },
+      "correct": "C",
+      "explanation": "Guidewire exchange in patients whose symptoms resolve within 2 to 3 days of IV antibiotics achieves a reported 70% to 80% catheter salvage and cure, so C is correct; lower ranges (A, B) understate it and near-total success (D) overstates it. Removing the infected catheter, and with it the biofilm harboring the bacteria, then replacing it through the same venotomy preserves the venous access site while curing the infection. This is done only after symptoms have resolved over 2 to 3 days of initial antibiotics and there is no evidence of metastatic infection."
+    },
+    {
+      "topic": "Antibiotic lock overall success",
+      "question": "When used as an adjunct to systemic antibiotics, the antibiotic lock successfully sterilizes the catheter biofilm in approximately what fraction of cases?",
+      "options": {
+        "A": "One-tenth",
+        "B": "One-quarter",
+        "C": "One-third",
+        "D": "Two-thirds"
+      },
+      "correct": "D",
+      "explanation": "Used as an adjunct to systemic antibiotics, the antibiotic lock sterilizes the catheter biofilm in about two-thirds of cases, so D is correct, permitting cure while salvaging the catheter. In the remaining one-third (C) the patient has persistent fever or positive surveillance cultures and needs prompt catheter replacement. One-tenth (A) and one-quarter (B) understate the overall success. The lock is used only for the duration of systemic antibiotics, after which a standard heparin or citrate lock is resumed on the salvaged catheter."
+    },
+    {
+      "topic": "Lock success by organism",
+      "question": "The antibiotic lock protocol is least successful and is not recommended for catheter-related bacteremia due to:",
+      "options": {
+        "A": "S. aureus",
+        "B": "Staphylococcus epidermidis",
+        "C": "Gram-negative organisms",
+        "D": "Coagulase-negative staphylococci"
+      },
+      "correct": "A",
+      "explanation": "The antibiotic lock protocol is least successful, only about 40%, and is not recommended for catheter-related bacteremia due to S. aureus, so A is correct. It works best in Staphylococcus epidermidis (75%) and gram-negative infections (87%), so those options (B, C, D) are wrong choices for the least successful organism. The poor performance against S. aureus mirrors that organism's tendency toward metastatic infection and salvage failure, which is why S. aureus CRBSI generally calls for catheter removal rather than lock-based salvage."
+    },
+    {
+      "topic": "Spinal epidural abscess",
+      "question": "In one series, what proportion of spinal epidural abscess cases were associated with attempted salvage of an infected cuffed venous catheter?",
+      "options": {
+        "A": "10%",
+        "B": "50%",
+        "C": "25%",
+        "D": "90%"
+      },
+      "correct": "B",
+      "explanation": "In one series, 50% of spinal epidural abscess cases were associated with attempted salvage of an infected cuffed venous catheter, so B is correct; 10%, 25%, and 90% (A, C, D) misstate the figure. Spinal epidural abscess is a rare but serious neurologic complication presenting with fever, backache, local spinal tenderness, leg pain and weakness, and sphincter dysfunction, paresis, or paralysis. CT-myelography is more sensitive than MRI for diagnosis, and early decompressive surgery is usually advised. This underscores the danger of prolonged salvage attempts."
+    },
+    {
+      "topic": "Endocarditis suspicion",
+      "question": "Endocarditis should be suspected when fever and bacteremia persist despite appropriate antibiotics and catheter removal, most commonly with:",
+      "options": {
+        "A": "Candida infection",
+        "B": "Coagulase-negative staphylococcal infection",
+        "C": "S. aureus bacteremia",
+        "D": "Gram-negative bacillus infection"
+      },
+      "correct": "C",
+      "explanation": "Endocarditis should be suspected when fever and bacteremia persist despite appropriate antibiotics and catheter removal, most commonly in the setting of S. aureus bacteremia, so C is correct. Candida (A), coagulase-negative staphylococci (B), and gram-negative bacilli (D) are not the most common context described. Signs include new symptomatic heart failure and a new heart murmur, and a transthoracic or transesophageal echocardiogram confirms valvular vegetations and insufficiency. Persistent S. aureus bacteremia after source control is the classic red flag for this metastatic complication."
+    },
+    {
+      "topic": "Catheter dysfunction definition",
+      "question": "Catheter dysfunction is defined as a failure to deliver a blood flow rate of at least:",
+      "options": {
+        "A": "200 mL/min at a prepump pressure less negative than -150 mm Hg",
+        "B": "400 mL/min at a prepump pressure more negative than -300 mm Hg",
+        "C": "500 mL/min regardless of prepump pressure",
+        "D": "300 mL/min at a prepump pressure less negative than -250 mm Hg"
+      },
+      "correct": "D",
+      "explanation": "Catheter dysfunction is defined as failure to deliver a blood flow rate of at least 300 mL/min at a prepump pressure less negative than -250 mm Hg, so D is correct. The other options (A, B, C) misstate either the flow threshold or the pressure criterion. Associated problems are inability to aspirate blood freely from the lumens and frequent pressure alarms not relieved by patient repositioning or catheter flushing. This objective definition triggers evaluation for a kink, malposition, fibrin sleeve, or thrombosis depending on the timing of onset."
+    },
+    {
+      "topic": "Early dysfunction causes",
+      "question": "Which of the following is a cause of early poor flow in a recently placed catheter?",
+      "options": {
+        "A": "A kink, tunnel edema, malposition into the azygous vein, or improper tip placement",
+        "B": "A fibrin sleeve that has matured over months",
+        "C": "Central venous stenosis from prior catheters",
+        "D": "A chronic mural thrombus"
+      },
+      "correct": "A",
+      "explanation": "Early poor flow in a recently placed catheter can result from a kink, compression within the tunnel from edema, malposition into the azygous or hemiazygous veins, or improper tip placement, so A is correct. A matured fibrin sleeve (B), central venous stenosis from prior catheters (C), and a chronic mural thrombus (D) are causes of late dysfunction. A chest x-ray helps identify a kink or malposition; tunnel edema usually subsides within 24 hours, whereas a kink or malpositioned tip requires catheter replacement using a different tunnel or a different length."
+    },
+    {
+      "topic": "Late dysfunction cause",
+      "question": "Late catheter dysfunction is usually due to:",
+      "options": {
+        "A": "A kink at the insertion site",
+        "B": "Formation of a fibrin sleeve or a mural thrombus",
+        "C": "Tunnel edema",
+        "D": "Azygous vein malposition"
+      },
+      "correct": "B",
+      "explanation": "Late catheter dysfunction is usually due to formation of a fibrin sleeve or a mural thrombus, so B is correct. A kink (A), tunnel edema (C), and azygous malposition (D) are early, mechanical causes. Almost all catheters placed in a central vein develop a fibrin sleeve within a week or two of insertion; it stays clinically silent until it obstructs the distal ports, producing a ball-valve effect where saline infuses but aspiration is difficult. Fibrin sleeves may also serve as a nidus for infection, and chronic warfarin has not been shown to prevent them."
+    },
+    {
+      "topic": "Fibrin sheath treatment",
+      "question": "The usual balloon angioplasty treatment of a fibrin sheath uses a balloon of what diameter to disrupt the sheath?",
+      "options": {
+        "A": "3 mm",
+        "B": "5 mm",
+        "C": "8 mm",
+        "D": "12 mm"
+      },
+      "correct": "C",
+      "explanation": "An 8-mm diameter balloon is usually sufficient to disrupt a fibrin (fibroepithelial) sheath, so C is correct; 3, 5, and 12 mm (A, B, D) are not the cited size. The sheath is identified at catheter exchange using radiocontrast injected through the venous port of the old catheter, then an angioplasty balloon is passed on a guidewire through the tunnel into the sheath lumen and inflated to disrupt it. Disruption is confirmed by repeat radiocontrast injection after the new catheter is inserted, and this restores adequate blood flow in the great majority of patients."
+    },
+    {
+      "topic": "Left internal jugular dysfunction",
+      "question": "Compared with right-sided catheters, left internal jugular catheters have:",
+      "options": {
+        "A": "A lower incidence of dysfunction",
+        "B": "No difference in dysfunction rates",
+        "C": "A higher incidence only of infection",
+        "D": "A higher incidence of dysfunction, probably related to the twisty course to the right atrium"
+      },
+      "correct": "D",
+      "explanation": "Left internal jugular catheters have a higher incidence of dysfunction than right-sided catheters, probably related to the twisty course required to reach the opening to the right atrium, so D is correct. A lower incidence (A), no difference (B), or a higher rate only of infection (C) all contradict the cited data. This laterality effect is one reason the right internal jugular is generally the preferred insertion site, and it should be considered when a left-sided catheter repeatedly underperforms despite an apparently satisfactory position on imaging."
+    },
+    {
+      "topic": "Intraluminal thrombosis treatment",
+      "question": "Catheter intraluminal thrombosis is commonly treated by instillation of:",
+      "options": {
+        "A": "tPA for 1 hour or longer",
+        "B": "A heparin bolus",
+        "C": "Streptokinase infusion for 24 hours",
+        "D": "Systemic warfarin"
+      },
+      "correct": "A",
+      "explanation": "Catheter intraluminal thrombosis is commonly treated by instillation of tPA (alteplase) for 1 hour or longer, so A is correct. A heparin bolus (B) does not lyse an established clot, streptokinase infusion (C) is not the described agent, and systemic warfarin (D) does not improve catheter patency unless a high, bleeding-prone INR is reached. Mechanical brushing of thrombus has been suggested but is unpopular. tPA can be given as a short dwell or an overnight instillation, and locking or periodic instillation of thrombolytics has reportedly reduced catheter occlusions."
+    },
+    {
+      "topic": "Intra-atrial thrombosis",
+      "question": "Intra-atrial (intracardiac) thrombi associated with indwelling catheters require:",
+      "options": {
+        "A": "No specific therapy",
+        "B": "Prolonged systemic anticoagulation for 6 months or longer with follow-up for resolution",
+        "C": "A single dose of tPA",
+        "D": "Immediate thoracotomy in all cases"
+      },
+      "correct": "B",
+      "explanation": "Intra-atrial (intracardiac) thrombi associated with large indwelling catheters require prolonged systemic anticoagulation for 6 months or longer, with follow-up for resolution, so B is correct. No specific therapy (A) is unsafe because these thrombi can rarely cause embolic complications, a single tPA dose (C) is inadequate, and immediate thoracotomy in all cases (D) is overtreatment reserved for select right atrial thrombi. Central vein or intracardiac thrombosis occurs with large catheters, and prolonged anticoagulation with imaging follow-up is the mainstay of therapy."
+    },
+    {
+      "topic": "Central stenosis pathophysiology",
+      "question": "Central venous stenosis arises from endothelial injury at catheter-endothelial contact sites through:",
+      "options": {
+        "A": "Direct mechanical occlusion of the lumen",
+        "B": "Bacterial biofilm deposition",
+        "C": "The release of a variety of growth factors",
+        "D": "Calcium-phosphate precipitation"
+      },
+      "correct": "C",
+      "explanation": "Central venous stenosis arises from endothelial injury at sites of catheter-endothelial contact through the release of a variety of growth factors, so C is correct. Direct mechanical occlusion (A), bacterial biofilm deposition (B), and calcium-phosphate precipitation (D) are not the described mechanism. The incidence rises with stiff nonsilicone catheters, the subclavian approach (higher angular stresses), prior catheter-related infections, and multiple or prolonged catheter insertions including PICC lines. This injury-driven neointimal response explains why the stenosis tends to recur even after angioplasty or stenting."
+    },
+    {
+      "topic": "Central stenosis presentation",
+      "question": "Stenosis or occlusion of the subclavian vein, brachiocephalic vein, or superior vena cava usually presents with:",
+      "options": {
+        "A": "Distal limb ischemia and pallor",
+        "B": "Isolated fever without other signs",
+        "C": "Sudden catheter fracture",
+        "D": "Venous hypertension such as swelling of the breast, shoulder, neck, and face, or access dysfunction"
+      },
+      "correct": "D",
+      "explanation": "Central vein stenosis of the subclavian, brachiocephalic vein, or superior vena cava usually presents with venous hypertension, such as swelling of the breast, shoulder, neck, and face, or with vascular access dysfunction, so D is correct. Distal limb ischemia and pallor (A), isolated fever (B), and sudden catheter fracture (C) are unrelated. Access dysfunction manifests as high venous pressure on dialysis, inadequate dialysis, and prolonged bleeding. A stenosis may stay clinically silent until unmasked by creation of an AV fistula, which then reveals swelling or precipitates access thrombosis."
+    },
+    {
+      "topic": "Central stenosis treatment",
+      "question": "Which treatment for symptomatic central vein stenosis produces the most rapid improvement but sacrifices the access?",
+      "options": {
+        "A": "Ligation of the vascular access",
+        "B": "Balloon angioplasty",
+        "C": "Stent placement",
+        "D": "Antibiotic lock therapy"
+      },
+      "correct": "A",
+      "explanation": "Ligation of the vascular access produces the most rapid improvement of central stenosis symptoms but sacrifices the access, so A is correct. Balloon angioplasty (B) is used but the lesion tends to recur; stent placement combined with angioplasty (C) is indicated for elastic lesions or restenosis within 3 months and rarely solves the problem long term because stenosis recurs around the stent; antibiotic lock therapy (D) is irrelevant to stenosis. Initial anticoagulation and limb elevation may ameliorate symptoms if thrombosis is present, but more definitive intervention is usually required."
+    },
+    {
+      "topic": "Catheter adhesion",
+      "question": "Catheter adhesion to venous or atrial endothelium should be suspected when:",
+      "options": {
+        "A": "Blood flow spontaneously improves",
+        "B": "An attempt to remove the catheter induces severe pain or requires significant traction",
+        "C": "The exit site becomes erythematous",
+        "D": "Venous pressures fall to zero"
+      },
+      "correct": "B",
+      "explanation": "Catheter adhesion to venous or atrial endothelium should be suspected when an attempt to remove the catheter induces severe pain or requires significant traction, so B is correct. Spontaneous flow improvement (A), exit-site erythema (C), and venous pressures falling to zero (D) do not indicate adhesion. Under fluoroscopy the heart or mediastinum may be pulled to one side. Removal of an adhered catheter is challenging and can require invasive techniques such as laser dissection or open surgical removal, although some novel closed maneuvers have been reported to succeed."
+    },
+    {
+      "topic": "Port clamp fracture",
+      "question": "A fractured port or clamp on a tunneled dialysis catheter can lead to:",
+      "options": {
+        "A": "Central venous stenosis",
+        "B": "A fibrin sheath",
+        "C": "Suction of air or inability to double lock the port after dialysis, increasing bleeding risk",
+        "D": "Improved blood flow rates"
+      },
+      "correct": "C",
+      "explanation": "A fractured port or clamp on a tunneled catheter can cause suction of air or inability to double lock the port after dialysis, increasing bleeding risk, so C is correct. It does not cause central venous stenosis (A) or a fibrin sheath (B), and certainly not improved flow (D). Often one or both ports or clamps can be replaced using catheter-specific replacement kits without changing the entire catheter. If there has been port fracture with air suction, infection risk is higher, so prophylactic antibiotics should be given after drawing blood cultures at the time of repair."
+    }
+  ]
+}

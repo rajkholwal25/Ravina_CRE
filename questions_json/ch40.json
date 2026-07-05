@@ -1,0 +1,665 @@
+{
+  "chapter": 40,
+  "questions": [
+    {
+      "topic": "Intracranial bleeding",
+      "question": "The increasing rate of spontaneous subdural hemorrhage in dialysis patients is thought to be associated with which factor?",
+      "options": {
+        "A": "Increased use of anticoagulation in patients with atrial fibrillation",
+        "B": "Greater use of high-flux dialyzers",
+        "C": "Higher dialysate sodium concentrations",
+        "D": "Reduced use of erythropoietin"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is increased anticoagulation for atrial fibrillation. Spontaneous subdural hemorrhage is common in dialysis patients and its rate has been rising, possibly linked to greater use of anticoagulation in atrial fibrillation patients aiming to reduce stroke risk. High-flux dialyzers, dialysate sodium, and reduced EPO use are not implicated in this bleeding trend. Clinically this matters because intracranial and subarachnoid bleeds can even occur during dialysis, so heparin-free dialysis is advised when bleeding is suspected."
+    },
+    {
+      "topic": "Intracranial aneurysms",
+      "question": "Which dialysis patient group is at particular risk of intracranial or subarachnoid bleeds due to intracranial aneurysms?",
+      "options": {
+        "A": "Patients with diabetic nephropathy",
+        "B": "Patients with polycystic kidneys",
+        "C": "Patients with lupus nephritis",
+        "D": "Patients with amyloidosis"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is polycystic kidney patients, who may harbor intracranial aneurysms and are at particular risk of intracranial or subarachnoid bleeds, sometimes even during the dialysis procedure itself. Diabetic nephropathy, lupus nephritis, and amyloidosis are not singled out for aneurysm-related bleeding in this chapter. Recognizing this association is important because a new-onset headache in a polycystic patient warrants investigation for intracranial bleeding by CT or MRI, with heparin-free dialysis used."
+    },
+    {
+      "topic": "New-onset headache",
+      "question": "When a dialysis patient presents with new-onset headache raising concern for intracranial bleeding, which dialysis-related measure is recommended?",
+      "options": {
+        "A": "Increasing the ultrafiltration rate",
+        "B": "Adding routine anticonvulsants",
+        "C": "Using heparin-free dialysis",
+        "D": "Switching to peritoneal dialysis immediately"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is heparin-free dialysis. When new-onset headache raises concern for possible intracranial bleeding, heparin should be avoided so as not to worsen hemorrhage; the bleed may need investigation by CT or MRI given contrast limitations in this population. Increasing ultrafiltration and routine anticonvulsants are not indicated, and immediate switch to peritoneal dialysis is not the recommended step. Headache occurs in both disequilibrium and early cerebral hemorrhage, but the recovery pattern differs, so new headache must be taken seriously."
+    },
+    {
+      "topic": "Silent cerebral infarcts",
+      "question": "In hemodialysis patients, silent cerebral infarcts are mainly of which type?",
+      "options": {
+        "A": "Cortical and territorial",
+        "B": "Hemorrhagic and cortical",
+        "C": "Brainstem and cerebellar",
+        "D": "Subcortical and lacunar"
+      },
+      "correct": "D",
+      "explanation": "The correct answer is subcortical and lacunar. Silent cerebral infarcts in hemodialysis patients are mainly subcortical and lacunar and cause no neurologic deficit, but they are considered a risk factor for later symptomatic infarct or hemorrhagic stroke. They are not cortical, territorial, hemorrhagic, or confined to brainstem and cerebellum. Nakatani's study of 50 hemodialysis patients characterized these lesions, and one proposed mechanism is microbubbles generated during dialysis reaching the cerebral circulation and causing ischemic damage."
+    },
+    {
+      "topic": "Silent cerebral infarcts risk factors",
+      "question": "Which of the following was identified as an associated risk factor in hemodialysis patients who developed silent cerebral infarcts?",
+      "options": {
+        "A": "Smoking",
+        "B": "Higher HDL cholesterol",
+        "C": "Lower uric acid levels",
+        "D": "Lower left ventricular mass index"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is smoking. In Nakatani's study, hemodialysis patients who developed silent cerebral infarcts had associated risk factors of smoking, LOWER HDL cholesterol, HIGHER uric acid, and higher hepatocyte growth factor, so the other options are reversed. These patients also had higher interventricular septal and posterior wall thickness and higher left ventricular mass index, and lacked the healthy nocturnal fall in blood pressure. This clustering links silent infarction to vascular and cardiac remodeling rather than simple hypertension."
+    },
+    {
+      "topic": "Cerebral atrophy",
+      "question": "The degree of cerebral (cortical) atrophy in hemodialysis patients is associated with which factor?",
+      "options": {
+        "A": "Serum albumin level",
+        "B": "Duration of dialysis",
+        "C": "Vascular access type",
+        "D": "Dialysate potassium concentration"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is duration of dialysis. Cerebral (cortical) atrophy identified on CT and MRI correlates with how long a patient has been on dialysis, not with albumin, access type, or dialysate potassium. Cerebral blood flow is lower between sessions and higher during hemodialysis, and these hemodynamic and oxygenation swings are less pronounced in peritoneal dialysis, suggesting an iatrogenic cerebral effect of hemodialysis. This supports the idea that repeated dialysis exposure itself contributes to structural brain injury over time."
+    },
+    {
+      "topic": "Leukoaraiosis MRI",
+      "question": "Leukoaraiosis, caused by loss of axons and myelin, typically appears on MRI as what?",
+      "options": {
+        "A": "Low signal on T1-weighted images",
+        "B": "Contrast enhancement on T1",
+        "C": "High signal intensity on T2-weighted images",
+        "D": "Diffusion restriction only"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is high signal intensity on T2-weighted images. Leukoaraiosis reflects nonspecific white matter change from loss of axons and myelin, usually due to ischemic injury, and appears as T2 high signal, not low T1 signal, T1 enhancement, or isolated diffusion restriction. It is a risk factor for dementia, mobility problems, and stroke and in non-CKD populations is linked to reduced cognition and more depression. Recognizing this MRI pattern helps identify subclinical vascular brain injury common in dialysis patients."
+    },
+    {
+      "topic": "Leukoaraiosis onset",
+      "question": "Leukoaraiosis becomes a nearly universal finding in hemodialysis patients after what duration of treatment?",
+      "options": {
+        "A": "1 year",
+        "B": "5 years",
+        "C": "10 years",
+        "D": "3 months"
+      },
+      "correct": "D",
+      "explanation": "The correct answer is 3 months. Leukoaraiosis is described as a nearly universal finding in hemodialysis patients after only 3 months of treatment, not after 1, 5, or 10 years. The severity of cognitive reduction is proportional to the amount and distribution of white matter injury, which in turn is proportional to the degree of cardiovascular instability during hemodialysis sessions (Eldehini, 2014). This rapid appearance highlights how quickly hemodialysis-associated hemodynamic stress can produce measurable brain injury."
+    },
+    {
+      "topic": "Uremic encephalopathy",
+      "question": "Which are the subtle initial manifestations of uremic encephalopathy?",
+      "options": {
+        "A": "Flattened affect, irritability, and poor rapport with others",
+        "B": "Focal seizures and hemiparesis",
+        "C": "Asterixis and myoclonus",
+        "D": "Coma and stupor"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is flattened affect, irritability, and poor rapport with others. These are the subtle early manifestations of uremic encephalopathy, sometimes with patchy cognitive or psychomotor changes and abnormal event-related brain potentials. Focal seizures with hemiparesis, asterixis with myoclonus, and coma with stupor are LATER or more advanced features as uremia progresses through disorientation, delirium, and motor disturbances. Recognizing the early subtle stage matters because signs should regress within about a week of starting regular dialysis."
+    },
+    {
+      "topic": "Uremic encephalopathy course",
+      "question": "The major signs of uremic encephalopathy should reliably regress within what timeframe after initiation of regular dialysis?",
+      "options": {
+        "A": "A few hours",
+        "B": "About a week or so",
+        "C": "Three months",
+        "D": "Six months"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is about a week or so. The major signs of uremic encephalopathy, including tremulousness, myoclonus, and asterixis, reliably regress within roughly a week of initiating regular dialysis, not within hours, months, or half a year. Importantly, failure to improve within this window should prompt a search for an alternative or additional diagnosis rather than assuming ongoing uremia. This timeframe is a useful clinical checkpoint distinguishing pure uremic encephalopathy from other structural, metabolic, or infectious causes."
+    },
+    {
+      "topic": "Acute aluminum intoxication",
+      "question": "Acute aluminum neurotoxicity is characterized by which cluster of features?",
+      "options": {
+        "A": "Isolated peripheral neuropathy",
+        "B": "Slowly progressive dementia only",
+        "C": "Agitation, confusion, seizures, myoclonic jerks, and coma",
+        "D": "Carpal tunnel syndrome and finger contractures"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is agitation, confusion, seizures, myoclonic jerks, and coma. Acute aluminum intoxication produces this acute neurotoxicity syndrome, distinct from isolated peripheral neuropathy, slowly progressive dementia, or carpal tunnel and finger contractures (which relate to beta-2 microglobulin amyloid). Although now uncommon due to stringent water treatment, it can still occur with highly contaminated dialysate or during deferoxamine therapy. The plasma aluminum level is usually above 500 mcg/L, with characteristic multifocal slow or delta wave EEG bursts and spikes."
+    },
+    {
+      "topic": "Aluminum level",
+      "question": "In acute aluminum intoxication, the plasma aluminum level is usually more than which value?",
+      "options": {
+        "A": "1,000 mcg/L",
+        "B": "100 mcg/L",
+        "C": "250 mcg/L",
+        "D": "500 mcg/L (19 mcmol/L)"
+      },
+      "correct": "D",
+      "explanation": "The correct answer is more than 500 mcg/L (19 mcmol/L). In acute aluminum intoxication the plasma aluminum level is usually above this threshold, not 100, 250, or 1,000 mcg/L. Typical EEG changes are multifocal bursts of slow or delta wave activity often accompanied by spikes. This syndrome, once common when aluminum-containing phosphate binders and lax water standards prevailed, now appears mainly with highly contaminated dialysate or during deferoxamine therapy. Knowing the numeric threshold helps confirm the diagnosis in an obtunded, seizing patient."
+    },
+    {
+      "topic": "Endotoxemia",
+      "question": "Hemodialysis patients experience chronic endotoxemia with acute exacerbations attributed to what?",
+      "options": {
+        "A": "Recurrent mesenteric ischemia accompanying each hemodialysis session",
+        "B": "Aluminum overload",
+        "C": "Beta-2 microglobulin deposition",
+        "D": "Direct dialyzer membrane contamination"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is recurrent mesenteric ischemia accompanying each hemodialysis session. Hemodialysis patients live in a chronic endotoxemic state punctuated by acute exacerbations when gut hypoperfusion during dialysis increases bowel permeability, allowing bacterial and endotoxin translocation into the circulation. Aluminum overload, beta-2 microglobulin, and direct membrane contamination are not the described source. This repeated endotoxemic insult drives a systemic proinflammatory state and may aggravate hemodialysis effects on cerebral perfusion, contributing to ischemic subcortical white matter injury."
+    },
+    {
+      "topic": "Disequilibrium syndrome",
+      "question": "Dialysis disequilibrium syndrome is believed to be primarily caused by which mechanism?",
+      "options": {
+        "A": "Direct aluminum neurotoxicity",
+        "B": "Brain swelling due to a lag in osmolar shifts between blood and brain",
+        "C": "Cerebral vasospasm from hypertension",
+        "D": "Air embolism to the brain"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is brain swelling due to a lag in osmolar shifts between blood and brain. Rapid correction of advanced uremia causes water to shift into the brain because blood urea falls faster than brain urea, producing cerebral edema; changes in brain pH may also contribute. It is not caused by aluminum neurotoxicity, hypertensive vasospasm, or air embolism. This mechanism explains why slow, gentle initial dialysis and attention to dialysate tonicity prevent the syndrome, which ranges from headache and nausea to seizures."
+    },
+    {
+      "topic": "Disequilibrium mild form",
+      "question": "In its mildest form, dialysis disequilibrium syndrome is limited to which symptoms?",
+      "options": {
+        "A": "Coma and major seizures",
+        "B": "Hemiparesis and aphasia",
+        "C": "Restlessness, headache, nausea, and vomiting",
+        "D": "Asterixis and delirium"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is restlessness, headache, nausea, and vomiting. In its mildest form dialysis disequilibrium is limited to these symptoms, whereas more severe manifestations include confusion and major seizures. Coma with major seizures, hemiparesis with aphasia, and asterixis with delirium do not describe the mild end of the spectrum. The syndrome appears in the last part of dialysis or shortly afterward, occurs in a major form in previously undialyzed patients, and minor features may complicate chronic therapy, so early symptoms should prompt caution."
+    },
+    {
+      "topic": "Disequilibrium prevention",
+      "question": "To reduce disequilibrium in previously undialyzed patients with advanced uremia, initial dialyses should be conducted how?",
+      "options": {
+        "A": "As long as possible with high-efficiency dialyzers",
+        "B": "With routine prophylactic anticonvulsants",
+        "C": "With maximal ultrafiltration",
+        "D": "Relatively short, to reduce serum urea slowly over several days"
+      },
+      "correct": "D",
+      "explanation": "The correct answer is relatively short initial dialyses to reduce serum urea slowly over several days. Disequilibrium is more likely when advanced-uremia patients are dialyzed for excessive lengths during first sessions, especially with high-efficiency dialyzers, so long treatments, maximal ultrafiltration, and routine prophylactic anticonvulsants are all wrong. Keeping sessions short lets elevated urea fall gradually and limits the osmolar lag that swells the brain. The chapter specifically states routine anticonvulsants in this setting should be avoided."
+    },
+    {
+      "topic": "Coning",
+      "question": "Which inherited abnormality predisposes to dialysis-induced brainstem herniation (coning) via partial hindbrain herniation through the foramen magnum?",
+      "options": {
+        "A": "Chiari malformation",
+        "B": "Polycystic kidney disease",
+        "C": "Alport syndrome",
+        "D": "Marfan syndrome"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is Chiari malformation, in which partial hindbrain herniation through the foramen magnum (sometimes seen in spina bifida) predisposes to dialysis-induced brainstem herniation, or coning. Polycystic kidney disease, Alport, and Marfan syndrome are not the predisposing anomaly here. Coning presents with severe dialysis-induced headache and reduced consciousness and can be fatal; it also occurs after neurosurgery or with CSF shunt malfunction. Management centers on limiting ultrafiltration rate and matching dialysate tonicity carefully to plasma."
+    },
+    {
+      "topic": "Nonconvulsive status epilepticus",
+      "question": "The EEG in nonconvulsive status epilepticus typically shows which finding?",
+      "options": {
+        "A": "Normal alpha rhythm",
+        "B": "Generalized spike-and-wave complexes at 3 Hz or repetitive spikes at more than 4/sec",
+        "C": "Frontal delta slowing only",
+        "D": "Isoelectric silence"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is generalized spike-and-wave complexes at 3 Hz or repetitive spikes at more than 4/sec. Nonconvulsive status epilepticus produces these discharges, which distinguish it from normal alpha rhythm, isolated frontal delta slowing, or isoelectric silence. It can mimic collapse from a catastrophic intracerebral event (with normal imaging) or cardiovascular insufficiency. Precipitants include alcohol and drug withdrawal, infection, hypoxia, stroke, cyclosporine, malignancy, and antibiotic neurotoxicity (penicillins, cephalosporins, imipenem/cilastatin, quinolones), and treatment targets the cause plus standard anticonvulsants."
+    },
+    {
+      "topic": "Seizure etiology",
+      "question": "Which type of seizure is commonly caused by intracranial hemorrhage, as opposed to most other causes?",
+      "options": {
+        "A": "Generalized seizures",
+        "B": "Absence seizures",
+        "C": "Focal seizures",
+        "D": "Myoclonic seizures only"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is focal seizures. Intracranial hemorrhage commonly leads to focal seizures, whereas most other causes of seizures in dialysis patients produce generalized seizures. Absence and purely myoclonic seizures are not the described pattern. Generalized seizures are an integral feature of advanced uremic encephalopathy and severe disequilibrium, and seizures also characterize aluminum encephalopathy and severe hypertension. This focal-versus-generalized distinction is a useful clue pointing toward a structural bleed rather than a metabolic cause."
+    },
+    {
+      "topic": "Pediatric seizures",
+      "question": "How does the incidence of seizures in children with renal failure compare with adults?",
+      "options": {
+        "A": "Lower in children",
+        "B": "The same as in adults",
+        "C": "Absent in children",
+        "D": "Higher in children"
+      },
+      "correct": "D",
+      "explanation": "The correct answer is higher in children. In children with renal failure the incidence of seizures is higher than in adults, so it is not lower, equal, or absent. Seizures overall are common in dialysis patients and can reflect uremic encephalopathy, disequilibrium, aluminum toxicity, severe hypertension, or metabolic derangements. Predialysis hypocalcemia can trigger seizures during or soon after dialysis because rapid acidosis correction lowers ionized calcium. Awareness of the higher pediatric risk supports careful attention to seizure prevention in children on dialysis."
+    },
+    {
+      "topic": "Star fruit",
+      "question": "Ingestion of which food can present with numbness, weakness, obtundation, and seizures in dialysis patients?",
+      "options": {
+        "A": "Star fruit",
+        "B": "Grapefruit",
+        "C": "Banana",
+        "D": "Rhubarb"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is star fruit. Star fruit ingestion in dialysis patients can cause numbness, weakness, obtundation, and seizures, and fatal outcomes have been reported (Chang, 2000). Grapefruit, banana, and rhubarb are not cited as this neurotoxic poisoning. This is one of several poisonings that can present with seizures in the dialysis population, alongside epileptogenic drugs. Clinically, unexplained neurologic decline or seizures in a dialysis patient should prompt a dietary and toxin history, since star fruit is a well-recognized culprit."
+    },
+    {
+      "topic": "EEG in dialysis",
+      "question": "What are the most common abnormal EEG findings in patients with renal failure?",
+      "options": {
+        "A": "3 Hz spike-and-wave discharges",
+        "B": "Reduced voltage, loss of alpha activity, and frontal delta wave slowing",
+        "C": "Normal tracing in most patients",
+        "D": "Triphasic waves only"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is reduced voltage, loss of alpha activity, and frontal delta wave slowing. Patients with renal failure rarely have a normal EEG; the common abnormalities are reduced voltage, loss of alpha, and periodic, symmetric, usually frontal delta slowing. It is not 3 Hz spike-and-wave, a normal tracing, or triphasic waves alone. The EEG is of limited value because it cannot distinguish among the various seizure causes, so it should not replace a search for aluminum, metabolic causes, dialysis complications, or structural lesions."
+    },
+    {
+      "topic": "Seizure management",
+      "question": "The emergency treatment of convulsions during dialysis should begin with which action?",
+      "options": {
+        "A": "Immediate phenytoin loading",
+        "B": "Increasing ultrafiltration",
+        "C": "Stopping dialysis and ensuring airway patency",
+        "D": "Administering IV aluminum chelator"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is stopping dialysis and ensuring airway patency. Emergency treatment of convulsions during dialysis begins with these steps, then immediate blood sampling for glucose, calcium, and electrolytes, with IV glucose if hypoglycemia is suspected and benzodiazepines if seizures persist. Immediate phenytoin loading, increased ultrafiltration, or IV aluminum chelation are not the first actions. Stopping dialysis addresses procedure-related precipitants and protects the patient, after which phenytoin (10-15 mg/kg) or IV valproate may be added under monitoring."
+    },
+    {
+      "topic": "Phenytoin loading",
+      "question": "The recommended IV phenytoin loading dosage and maximum infusion rate for refractory seizures are which of the following?",
+      "options": {
+        "A": "1-2 mg/kg at 10 mg/min",
+        "B": "20-30 mg/kg at 100 mg/min",
+        "C": "5 mg/kg at 25 mg/min",
+        "D": "10-15 mg/kg at no greater than 50 mg/min"
+      },
+      "correct": "D",
+      "explanation": "The correct answer is 10-15 mg/kg at no greater than 50 mg/min. This is the recommended IV phenytoin loading regimen for refractory seizures, given by slow infusion under constant ECG monitoring to guard against phenytoin-induced bradycardia, AV conduction block, or other arrhythmias. The other dose and rate combinations are incorrect. Phenytoin is effective but must be used cautiously with cardiac monitoring, and IV valproate is an alternative additional agent. Refractory seizure management should occur in a higher-dependency area with full cardiovascular monitoring."
+    },
+    {
+      "topic": "Phenytoin interpretation",
+      "question": "In a uremic patient, a low total serum phenytoin level should be interpreted how?",
+      "options": {
+        "A": "Not necessarily as subtherapeutic, because free drug fraction is increased",
+        "B": "As evidence of drug non-adherence",
+        "C": "As a laboratory error",
+        "D": "Always as clearly subtherapeutic requiring a dose increase"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is that a low total level is not necessarily subtherapeutic because the free drug fraction is increased. In renal failure phenytoin protein binding is decreased and distribution volume increased, so free active drug is higher than the total level suggests; a low total should not automatically prompt a dose increase. Physical signs like nystagmus can guide against escalation, and because metabolism is saturable, small increments can cause disproportionately large level rises and even seizures from excess. Measuring free phenytoin is preferred in non-responders."
+    },
+    {
+      "topic": "Anticonvulsant dosing",
+      "question": "Which anticonvulsant should be avoided or used with extreme caution in ESKD patients, requiring substantial dose reduction and post-HD supplement?",
+      "options": {
+        "A": "Carbamazepine",
+        "B": "Primidone",
+        "C": "Clonazepam",
+        "D": "Valproic acid"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is primidone, which is about 40% renally excreted, moderately dialyzable, and should be used with extreme caution in ESKD, anticipating substantially reduced dosage and a possible post-hemodialysis supplement (Table 40.5 advises avoiding it). Carbamazepine, valproic acid, and clonazepam can be given at roughly full doses; carbamazepine is not well removed by dialysis and clonazepam is minimally renally excreted. Its extensive metabolism to phenobarbital and PEMA and renal handling make primidone dosing particularly hazardous in dialysis patients."
+    },
+    {
+      "topic": "Multi-infarct dementia",
+      "question": "At autopsy, brains of dialysis patients with multi-infarct dementia commonly contain multiple lacunar infarcts in which locations?",
+      "options": {
+        "A": "Only the frontal cortex",
+        "B": "The optic chiasm and pituitary",
+        "C": "Basal ganglia, thalamus, internal capsule, pons, and cerebellum",
+        "D": "The spinal cord exclusively"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is basal ganglia, thalamus, internal capsule, pons, and cerebellum. At autopsy, dialysis patients with multi-infarct dementia show multiple lacunar infarcts in these deep structures, not only the frontal cortex, the optic chiasm and pituitary, or the spinal cord. Widespread atheromatous plaques predispose to this stepwise decline in intellectual and neurologic function, with signs varying by infarct site. Recognizing this pattern helps distinguish vascular dementia from other chronic dementias, and chronic subdural hematoma from anticoagulation should also be considered."
+    },
+    {
+      "topic": "Cognitive pattern",
+      "question": "Studies fully assessing cognitive loss in hemodialysis patients have found which pattern?",
+      "options": {
+        "A": "No detectable cognitive change",
+        "B": "Loss of memory and vocabulary with preserved executive function",
+        "C": "Global uniform decline in all domains",
+        "D": "Relative preservation of memory and vocabulary but significant loss of subcortical decision-making and executive functions"
+      },
+      "correct": "D",
+      "explanation": "The correct answer is relative preservation of memory and vocabulary with significant loss of subcortical decision-making and executive functions. Studies fully assessing cognition in hemodialysis patients show this subcortical pattern, not global uniform decline, absent change, or the opposite cortical loss. This fits the location of injury: subcortical white matter damage in the vascular watershed area where episodic intradialytic hypoperfusion has its maximal effect. Understanding this pattern explains why routine testing may miss the executive dysfunction that impairs these patients' daily functioning."
+    },
+    {
+      "topic": "Depression mechanism",
+      "question": "Subcortical subclinical ischemic white matter changes are proposed to contribute to depression through what mechanism?",
+      "options": {
+        "A": "Interruption of intracerebral circuits and loss of thymic balance",
+        "B": "Serotonin dialyzed out of the blood",
+        "C": "Chronic hypercalcemia",
+        "D": "Direct aluminum toxicity to the amygdala"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is interruption of intracerebral circuits and loss of thymic balance. Subcortical subclinical ischemic white matter changes are proposed to disrupt intracerebral circuits, causing loss of thymic balance and clinical depression, rather than serotonin being dialyzed out, hypercalcemia, or aluminum toxicity to the amygdala. This links structural watershed injury to mood, and the temporal clustering of increased social dependency around dialysis initiation and the first 6 months raises the possibility of a biologic basis for depression in hemodialysis patients."
+    },
+    {
+      "topic": "Sleep complaints prevalence",
+      "question": "What proportion of dialysis patients report one or more sleep complaints in surveys?",
+      "options": {
+        "A": "10%-20%",
+        "B": "40%-50%",
+        "C": "70%-80%",
+        "D": "90%-100%"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is 40%-50%. Surveys report that 40%-50% of dialysis patients have one or more sleep complaints, and more than 50% studied in a sleep laboratory have an objectively documented disorder on polysomnography, so 10%-20%, 70%-80%, and 90%-100% are incorrect. Patients often report insomnia independent of anxiety or depression, plus excessive daytime sleepiness. This high burden matters because chronic daytime sleepiness impairs cognition, daily living, work, and safety while driving or operating equipment."
+    },
+    {
+      "topic": "Sleep apnea prevalence",
+      "question": "Studies have found sleep apnea in what percentage of dialysis patients with sleep-related complaints?",
+      "options": {
+        "A": "10%-25%",
+        "B": "30%-40%",
+        "C": "50%-75%",
+        "D": "85%-95%"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is 50%-75%. Studies have found sleep apnea in 50%-75% of dialysis patients who have sleep-related complaints, making 10%-25%, 30%-40%, and 85%-95% incorrect. Apnea in this group may be obstructive, central, or mixed, with dialysis patients notably prone to central and mixed forms in addition to obstructive apnea. This high prevalence, combined with the morbidity and mortality of sleep apnea, supports a low threshold for sleep evaluation and polysomnography in symptomatic dialysis patients."
+    },
+    {
+      "topic": "Obstructive sleep apnea",
+      "question": "Obstructive sleep apnea results from which underlying event during sleep?",
+      "options": {
+        "A": "Malfunction of the brain respiratory centers with no effort",
+        "B": "Diaphragmatic paralysis",
+        "C": "Reduced cardiac output",
+        "D": "Collapse of the upper airway with continuing respiratory effort"
+      },
+      "correct": "D",
+      "explanation": "The correct answer is collapse of the upper airway during sleep with continuing respiratory effort. Obstructive sleep apnea arises from upper airway collapse (largely due to upper airway edema and nasopharyngeal congestion or distortion) while respiratory effort persists, distinguishing it from central apnea where effort is absent. It is not caused by diaphragmatic paralysis or reduced cardiac output. Loud snoring, gasping, and snorting are typical, and its morbidity is mainly cardiovascular and cerebrovascular plus accidents from sleepiness, making recognition important."
+    },
+    {
+      "topic": "Central sleep apnea",
+      "question": "In central sleep apnea, which finding is characteristic?",
+      "options": {
+        "A": "Neither respiratory effort nor airflow is present, suggesting respiratory center malfunction",
+        "B": "Increased airflow with snoring",
+        "C": "Continuing respiratory effort with obstructed airflow",
+        "D": "Upper airway collapse only"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is that neither respiratory effort nor airflow is present, suggesting respiratory center malfunction. In central sleep apnea the brain's respiratory drive fails, so both effort and airflow cease, unlike obstructive apnea where effort continues against an obstructed airway. Increased airflow with snoring and isolated upper airway collapse describe obstructive, not central, apnea. Dialysis patients commonly have central apnea as well as obstructive and mixed forms, and low-flow supplemental oxygen or CPAP can treat central apnea, with CPAP effective across all types."
+    },
+    {
+      "topic": "Restless legs syndrome",
+      "question": "Restless legs syndrome (RLS) is characterized by which feature?",
+      "options": {
+        "A": "An objective test showing nerve conduction slowing",
+        "B": "An irritating sensation deep in the lower leg relieved only by moving the legs, typically at rest before bedtime",
+        "C": "Numbness confined to the fingers",
+        "D": "Painful cramps only during exercise"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is an irritating deep sensation in the lower leg relieved only by moving the legs, typically at rest before bedtime. RLS is a subjective complaint with no objective test, felt particularly in the calf, and relieved by moving the legs and feet; it can significantly delay sleep onset. It is not defined by nerve conduction slowing, finger numbness, or exercise cramps. As one of the most common complaints in ESKD patients, RLS adds to mood disturbance and perpetuates a cycle of poor sleep."
+    },
+    {
+      "topic": "PLMS characteristics",
+      "question": "Periodic leg movements in sleep (PLMS) generally consist of movements lasting how long and repeating at what interval?",
+      "options": {
+        "A": "Lasting 1 second, repeating every 5 seconds",
+        "B": "Lasting 10 seconds, repeating every minute",
+        "C": "Lasting 2-4 seconds, repeating every 20-40 seconds",
+        "D": "Lasting 30 seconds, repeating hourly"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is movements lasting 2-4 seconds repeating every 20-40 seconds. Periodic leg movements in sleep consist of foot dorsiflexion or lower-limb movement of this duration and interval, occurring mainly in the first third of sleep during non-REM sleep, so the other timing options are wrong. Each movement can cause a brief arousal, producing unrefreshing sleep and daytime fatigue. PLMS is very common in ESKD patients, who have far more movements per hour than the general population, and a high PLMS index is associated with elevated mortality."
+    },
+    {
+      "topic": "PLMS and RLS association",
+      "question": "PLMS occurs in approximately what percentage of patients who complain of RLS?",
+      "options": {
+        "A": "20%",
+        "B": "50%",
+        "C": "100%",
+        "D": "80%"
+      },
+      "correct": "D",
+      "explanation": "The correct answer is 80%. PLMS occurs in approximately 80% of patients who complain of RLS and is found in a very high percentage of ESKD patients, so 20%, 50%, and 100% are incorrect. Dialysis patients with PLMS have far more movements per hour than the general population; in one series of 45 patients, 71% had significant PLMS, some with over 1,500 movements a night. Both sleep apnea and a high PLMS index (more than 35 movements per hour) are associated with elevated mortality, underscoring clinical importance."
+    },
+    {
+      "topic": "Sleep apnea medication",
+      "question": "Why are benzodiazepines and other CNS depressants contraindicated in obstructive sleep apnea?",
+      "options": {
+        "A": "They may result in longer apneas, greater O2 desaturation, and more severe sleep fragmentation",
+        "B": "They cause seizures",
+        "C": "They are dialyzed out too rapidly",
+        "D": "They cause restless legs"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is that they may cause longer apneas, greater O2 desaturation, and more severe sleep fragmentation. Benzodiazepines and other CNS depressants are contraindicated in obstructive sleep apnea because they worsen these parameters and increase daytime fatigue, not because they cause seizures, are dialyzed too fast, or cause restless legs. Medication generally is not effective for obstructive sleep apnea; effective options are CPAP, nocturnal dialysis to reduce airway edema, supplemental oxygen for central apnea, and surgery, not sedatives."
+    },
+    {
+      "topic": "CPAP",
+      "question": "CPAP has been shown to be effective for sleep apnea in the dialysis population under which circumstances?",
+      "options": {
+        "A": "Only for obstructive apnea",
+        "B": "Whether the cause is obstructive, central, or mixed",
+        "C": "Only for central apnea",
+        "D": "Only when combined with supplemental oxygen"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is whether the cause is obstructive, central, or mixed. CPAP administers positive pressure via the mouth or nares to splint the upper airway open and has been shown effective for sleep apnea in the dialysis population across all three types, not only obstructive or only central, and it does not require added oxygen. Noncompliance, however, is a recognized problem in patients using CPAP for obstructive apnea. Its broad efficacy makes CPAP a key therapy when nocturnal dialysis or other measures are insufficient."
+    },
+    {
+      "topic": "Sleep apnea surgery",
+      "question": "Surgical approaches for obstructive sleep apnea, usually reducing or removing the uvula and soft palate tissues, have an overall reported success rate of about what?",
+      "options": {
+        "A": "30%",
+        "B": "75%",
+        "C": "50%",
+        "D": "90%"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is about 50%. Surgical approaches for obstructive sleep apnea, which usually reduce or remove the uvula and soft palate tissues, have an overall reported success rate of roughly 50%, not 30%, 75%, or 90%. Because success is modest, surgery is one option among CPAP, nocturnal dialysis, and supplemental oxygen rather than a guaranteed cure. Notably, complete resolution of sleep apnea (and RLS/PLMS) has been reported after kidney transplantation, which addresses the underlying uremic contributors more definitively than palate surgery."
+    },
+    {
+      "topic": "RLS/PLMS medication",
+      "question": "Which drug class is considered by many the treatment of choice for RLS/PLMS?",
+      "options": {
+        "A": "Benzodiazepines",
+        "B": "Opioids",
+        "C": "Beta-blockers",
+        "D": "Dopamine precursors or agonists such as l-dopa"
+      },
+      "correct": "D",
+      "explanation": "The correct answer is dopamine precursors or agonists such as l-dopa, which reduce the number and severity of both RLS and PLMS and are considered the treatment of choice by many. Benzodiazepines like clonazepam have long been used but it is debated whether they truly reduce movements or merely suppress arousal; opioids and beta-blockers are not the first-line choice described. Longer-acting agonists such as ropinirole are available but should be used cautiously in ESKD. Iron deficiency should also be avoided as a conservative measure."
+    },
+    {
+      "topic": "Sleep disorder resolution",
+      "question": "Complete resolution of both sleep apnea and RLS/PLMS has been reported following which intervention?",
+      "options": {
+        "A": "Kidney transplantation",
+        "B": "Switching to peritoneal dialysis",
+        "C": "Aluminum chelation therapy",
+        "D": "Carpal tunnel release"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is kidney transplantation, after which complete resolution of both sleep apnea and RLS/PLMS has been reported. Switching to peritoneal dialysis, aluminum chelation, and carpal tunnel release do not produce this dual resolution. This underscores that these sleep disorders are strongly tied to the uremic state and its hemodynamic and volume consequences, which transplantation reverses more fully than dialysis-based measures. It reinforces transplantation as the intervention most reliably restoring normal sleep physiology in ESKD patients."
+    },
+    {
+      "topic": "Uremic neuropathy",
+      "question": "Uremic neuropathy is best characterized as which type of polyneuropathy?",
+      "options": {
+        "A": "A proximal, asymmetric, pure motor neuropathy of the arms",
+        "B": "A distal, symmetric, mixed motor and sensory polyneuropathy involving the legs more than the arms",
+        "C": "A cranial mononeuropathy",
+        "D": "A demyelinating neuropathy of the trunk"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is a distal, symmetric, mixed motor and sensory polyneuropathy involving the legs more than the arms. Uremic neuropathy causes paresthesia in the feet, painful dysesthesia, ataxia, weakness, and impaired position and vibration sense, with slowed motor conduction and reduced sensory action potentials. It is not proximal, asymmetric, pure motor, cranial, or a truncal demyelinating process. Due to retained uremic toxins inadequately cleared by dialysis, it can progress rapidly when diabetes coexists and is most reliably reversed by transplantation."
+    },
+    {
+      "topic": "Subclinical neuropathy",
+      "question": "With effective dialysis, clinical uremic neuropathy is unusual, but subclinical manifestations can be detected in what proportion of patients?",
+      "options": {
+        "A": "Less than 10%",
+        "B": "About 25%",
+        "C": "Over 50%",
+        "D": "Nearly 100%"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is over 50%. Even with effective dialysis, clinical uremic neuropathy is unusual, yet subclinical manifestations can be detected in over 50% of patients, making less than 10%, about 25%, and nearly 100% incorrect. Serial electrophysiologic monitoring has been used to assess dialysis adequacy but is not routine. If clinical signs appear, dialysis adequacy should be reassessed with urea kinetic modeling, and a switch to high-flux membranes or hemodiafiltration considered. This high subclinical rate shows how prevalent nerve involvement remains."
+    },
+    {
+      "topic": "Neuropathy management",
+      "question": "If clinical peripheral neuropathy appears despite dialysis, which strategy may be of benefit?",
+      "options": {
+        "A": "Reducing dialysis frequency",
+        "B": "Lowering dialysate calcium",
+        "C": "Routine anticonvulsant prophylaxis",
+        "D": "Switching to a high-flux membrane or hemodiafiltration to increase middle molecule removal"
+      },
+      "correct": "D",
+      "explanation": "The correct answer is switching to a high-flux membrane or hemodiafiltration to increase middle molecule removal. When clinical peripheral neuropathy appears despite dialysis, adequacy should first be evaluated by urea kinetic modeling, then middle-molecule clearance boosted; reducing dialysis frequency, lowering dialysate calcium, and anticonvulsant prophylaxis are not the described strategies. More frequent hemodialysis, especially six-times-weekly nocturnal hemodialysis, may also help, though solid data are lacking. Neuropathy is most reliably reversed by successful renal transplantation."
+    },
+    {
+      "topic": "Carpal tunnel syndrome",
+      "question": "Carpal tunnel syndrome, the most common mononeuropathy in dialysis patients, is due to compression of which nerve?",
+      "options": {
+        "A": "Median nerve",
+        "B": "Ulnar nerve",
+        "C": "Radial nerve",
+        "D": "Peroneal nerve"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is the median nerve. Carpal tunnel syndrome, the most common mononeuropathy in dialysis patients, results from compression of the median nerve at the wrist as it passes through a narrowed carpal tunnel, not the ulnar, radial, or peroneal nerve (ulnar and peroneal palsies instead follow prolonged recumbency). Symptoms include numbness, tingling, and burning over the thumb, index, middle, and radial ring finger, often worse at night or during dialysis. Deposits of beta-2 microglobulin amyloid contribute to the compression."
+    },
+    {
+      "topic": "Carpal tunnel prevalence",
+      "question": "The prevalence of carpal tunnel syndrome is as high as what percentage in patients on hemodialysis for 10 years or longer?",
+      "options": {
+        "A": "30%",
+        "B": "73%",
+        "C": "50%",
+        "D": "95%"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is 73%. Carpal tunnel syndrome prevalence rises with years on dialysis and reaches as high as 73% in patients treated with hemodialysis for 10 years or longer, so 30%, 50%, and 95% are incorrect. The pathogenesis is multifactorial, including beta-2 microglobulin amyloid deposition, possible fistula-induced arterial steal causing median nerve ischemia, and interdialytic fluid accumulation with edema. This strong time-dependence reflects progressive dialysis-related amyloidosis and explains why long-term patients are especially affected."
+    },
+    {
+      "topic": "Carpal tunnel pathogenesis",
+      "question": "Which substance deposits may compress the median nerve in dialysis-associated carpal tunnel syndrome?",
+      "options": {
+        "A": "Aluminum deposits",
+        "B": "Calcium phosphate crystals",
+        "C": "Beta-2 microglobulin amyloid",
+        "D": "Uric acid crystals"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is beta-2 microglobulin amyloid. Deposits of beta-2 microglobulin amyloid may compress the median nerve in dialysis-associated carpal tunnel syndrome, though amyloid is not found in all biopsy specimens, so pathogenesis is multifactorial. Aluminum, calcium phosphate, and uric acid crystals are not the described deposit. Additional contributors include fistula-induced arterial steal causing median nerve ischemia and interdialytic extracellular fluid expansion producing edema. This same beta-2 microglobulin amyloid underlies finger flexion contractures and destructive spondyloarthropathy."
+    },
+    {
+      "topic": "Carpal tunnel treatment",
+      "question": "Injection of the carpal tunnel with microcrystalline corticosteroid esters provides permanent relief in approximately what proportion of patients?",
+      "options": {
+        "A": "About 10%",
+        "B": "About 90%",
+        "C": "About 60%",
+        "D": "About 30%"
+      },
+      "correct": "D",
+      "explanation": "The correct answer is about 30%. Injection of the carpal tunnel with microcrystalline corticosteroid esters provides permanent relief in roughly 30% of patients, not 10%, 60%, or 90%. It is tried when splinting the wrist in a neutral position, especially at night and during dialysis, fails or is poorly tolerated. If injection gives inadequate improvement or there is significant motor or sensory loss, surgical decompression yields improvement in more than 90%, although symptoms often recur within 2 years. This staged approach guides management."
+    },
+    {
+      "topic": "Carpal tunnel surgery",
+      "question": "Surgical decompression of the carpal tunnel yields improvement in more than what percentage of patients, though symptoms often recur within 2 years?",
+      "options": {
+        "A": "90%",
+        "B": "70%",
+        "C": "50%",
+        "D": "100%"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is more than 90%. Surgical decompression of the carpal tunnel yields improvement in over 90% of patients, though symptoms often recur within 2 years, so 50%, 70%, and 100% are incorrect. Surgery is reserved for cases where splinting and corticosteroid injection (about 30% permanent relief) fail or where there is significant objective motor or sensory loss. The high but non-permanent success reflects the ongoing beta-2 microglobulin amyloid deposition that continues in long-term dialysis patients and drives recurrence."
+    },
+    {
+      "topic": "Finger flexion contractures",
+      "question": "Finger flexion contractures in long-term dialysis patients result from deposition of which substance along the flexor tendons?",
+      "options": {
+        "A": "Aluminum",
+        "B": "Beta-2 microglobulin amyloid",
+        "C": "Calcium oxalate",
+        "D": "Iron"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is beta-2 microglobulin amyloid. In long-term dialysis patients this amyloid deposits along the flexor tendons of the hands, making the digital flexor tendons adhere to one another and creating a subcutaneous palmar soft tissue mass with irreducible finger flexion contractures. Aluminum, calcium oxalate, and iron are not responsible. Surgical debridement of the amyloid from the tendon sheaths can improve finger extension, but the deposits frequently recur within several years, reflecting the same dialysis-related amyloidosis behind carpal tunnel syndrome."
+    },
+    {
+      "topic": "Atlanto-cervical spondylopathy",
+      "question": "Progressive neck instability and cord compression in long-term dialysis patients is due to destructive amyloidosis derived from which substance, diagnosed by which modality?",
+      "options": {
+        "A": "Aluminum; diagnosed by CT",
+        "B": "Calcium pyrophosphate; diagnosed by X-ray",
+        "C": "Beta-2 microglobulin; diagnosed by MRI",
+        "D": "Iron; diagnosed by ultrasound"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is beta-2 microglobulin, diagnosed by MRI. Progressive neck instability and cord compression in long-term dialysis patients results from destructive beta-2 microglobulin-derived amyloidosis, diagnosed by MRI, not aluminum, calcium pyrophosphate, or iron. Radiographs show narrowed disk spaces and vertebral end-plate erosion without osteophytes, with cystic amyloid deposits in the odontoid and vertebral bodies and peri-odontoid pseudotumors. The lower cervical spine is most affected, and early decompression is vital to avoid major disability; it must be distinguished from vertebral osteomyelitis by MRI."
+    },
+    {
+      "topic": "Spondylopathy myelopathy",
+      "question": "Significant myelopathy from destructive spondyloarthropathy has been reported especially in patients on hemodialysis for how long?",
+      "options": {
+        "A": "1 year or longer",
+        "B": "5 years or longer",
+        "C": "6 months or longer",
+        "D": "20 years or longer"
+      },
+      "correct": "D",
+      "explanation": "The correct answer is 20 years or longer. Significant myelopathy from destructive spondyloarthropathy has been reported especially in patients receiving hemodialysis for 20 years or longer, not 1, 5, or fewer years. Although most patients with radiographic abnormalities have no neck pain and neurologic compromise is infrequent, the risk of serious cord involvement rises with very long dialysis vintage due to accumulating beta-2 microglobulin amyloid. This long latency reinforces vigilance for neck symptoms and early MRI in the longest-treated dialysis patients."
+    },
+    {
+      "topic": "Chronic pain analgesics",
+      "question": "What forms the bedrock of chronic pain management in maintenance dialysis patients?",
+      "options": {
+        "A": "Regular simple analgesics such as paracetamol (acetaminophen)",
+        "B": "Slow-release opiates",
+        "C": "High-dose NSAIDs",
+        "D": "Gabapentin monotherapy"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is regular simple analgesics such as paracetamol (acetaminophen), which form the bedrock of chronic pain management in maintenance dialysis patients. Slow-release opiates should be avoided, high-dose NSAIDs risk sudden loss of residual renal function, and gabapentin monotherapy is a co-analgesic, not the foundation. Chronic pain is hard to manage because standard analgesic escalation may not apply and hemodialysis intermittently removes drugs. When NSAIDs are used, lower doses and lower-potency agents like ibuprofen are preferred."
+    },
+    {
+      "topic": "Chronic pain opiates",
+      "question": "What is a key concern with even weaker opiate agents such as codeine in dialysis patients?",
+      "options": {
+        "A": "They have no analgesic effect",
+        "B": "They can cause severe obtundation and respiratory arrest due to accumulation",
+        "C": "They are completely removed by dialysis so are ineffective",
+        "D": "They cause seizures reliably"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is that even weaker opiates such as codeine can cause severe obtundation and respiratory arrest due to accumulation. Opiates characteristically accumulate in dialysis patients and may also be markedly dialyzed out, precipitating acute pain around sessions, so they are not ineffective or reliably seizure-causing. Management favors extending dosing intervals rather than simply limiting doses, avoiding slow-release preparations, limiting top-up access, and using low-dose transdermal fentanyl (hepatically cleared). Adequate time to reach steady state should precede any escalation."
+    },
+    {
+      "topic": "Sleep apnea comorbidity",
+      "question": "The morbidity associated with obstructive sleep apnea is most often related to which processes?",
+      "options": {
+        "A": "Renal and hepatic failure",
+        "B": "Gastrointestinal bleeding",
+        "C": "Cardiovascular (often with sympathetic overdrive) and cerebrovascular processes, plus accidents from sleepiness",
+        "D": "Endocrine dysfunction"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is cardiovascular (often with sympathetic overdrive) and cerebrovascular processes, plus accidents from sleepiness. Obstructive sleep apnea is associated with increased morbidity and mortality mediated mainly through these pathways, not renal and hepatic failure, GI bleeding, or endocrine dysfunction. Repeated apneas drive sympathetic overactivity and cardiovascular and cerebrovascular injury, while daytime sleepiness causes accidents. This explains why sleep apnea, found in 50%-75% of symptomatic dialysis patients, warrants active evaluation and treatment such as CPAP or nocturnal dialysis."
+    }
+  ]
+}

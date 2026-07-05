@@ -1,0 +1,665 @@
+{
+  "chapter": 39,
+  "questions": [
+    {
+      "topic": "Fertility in ESKD",
+      "question": "What percentage of women under age 55 treated with dialysis menstruate?",
+      "options": {
+        "A": "20%",
+        "B": "40%",
+        "C": "60%",
+        "D": "75%"
+      },
+      "correct": "B",
+      "explanation": "Forty percent (B) of women under 55 on dialysis menstruate, but periods are often anovulatory or have a shortened luteal phase, so menstruation does not equal fertility. Infertility is the rule, with pregnancy occurring in only 0.3% to 1% per year in women aged 14 to 44. Twenty percent understates this figure while 60% and 75% overstate it. The hypothalamic-pituitary-ovarian axis is deranged in ESKD, lowering fertility and libido and causing abnormal uterine bleeding; erythropoietin and more intensive dialysis may be improving these hormonal abnormalities."
+    },
+    {
+      "topic": "Nocturnal dialysis and fertility",
+      "question": "In the University of Toronto nocturnal dialysis program where women received an average of 36 hours of dialysis per week, conception occurred in what percentage of women of childbearing age?",
+      "options": {
+        "A": "5%",
+        "B": "10%",
+        "C": "15%",
+        "D": "25%"
+      },
+      "correct": "C",
+      "explanation": "In the University of Toronto nocturnal program women received on average 36 hours of dialysis weekly, and conception occurred in 15% (C) of women of childbearing age, far above the 0.3% to 1% per year seen on standard regimens. This supports a role for increased dialysis intensity, higher target Kt/V, and erythropoietin in restoring fertility. The lower options (5%, 10%) understate the striking effect of very intensive dialysis, and 25% overstates the reported figure. The practical lesson is that more dialysis raises pregnancy likelihood, so contraceptive counseling matters even in amenorrheic women."
+    },
+    {
+      "topic": "Risk factors for pregnancy",
+      "question": "Which group of dialysis patients is at increased risk of pregnancy?",
+      "options": {
+        "A": "Women with longstanding amenorrhea only",
+        "B": "Women who became pregnant with renal insufficiency before dialysis and women with regular menses",
+        "C": "Women over age 55",
+        "D": "Women with no prior pregnancies"
+      },
+      "correct": "B",
+      "explanation": "The increased-risk groups (B) are women who conceived with renal insufficiency before starting dialysis and women with regular menses. It is generally difficult to identify high-risk women, and those who become pregnant once on dialysis frequently conceive again. Longstanding amenorrhea alone (A) does not confer safety, since pregnancies have occurred after years of amenorrhea. Age over 55 (C) and having no prior pregnancies (D) are not identified risk markers in the chapter. Because prediction is unreliable, birth control is advised for any woman on dialysis who does not wish to conceive."
+    },
+    {
+      "topic": "Barrier contraception",
+      "question": "The incidence of pregnancy with barrier methods (diaphragms and condoms) in normal women is as high as what per year?",
+      "options": {
+        "A": "5% to 9%",
+        "B": "12% to 15%",
+        "C": "25% to 29%",
+        "D": "40% to 45%"
+      },
+      "correct": "C",
+      "explanation": "Diaphragms and condoms can be used as in women with normal renal function, but their failure rate is high: pregnancy incidence reaches 25% to 29% per year (C) in normal women, though it is expected to be much lower in dialysis patients given baseline infertility. The lower ranges (5% to 9%, 12% to 15%) understate barrier failure and 40% to 45% overstates it. Because barrier methods are cumbersome and relatively unreliable, many women opt for more effective options such as oral contraceptives or copper and levonorgestrel IUDs, chosen according to comorbidities."
+    },
+    {
+      "topic": "Oral contraceptives",
+      "question": "Oral contraceptives are contraindicated in dialysis patients with which history?",
+      "options": {
+        "A": "Diabetes and nephropathy",
+        "B": "Thrombophlebitis or severe hypertension",
+        "C": "Anovulatory bleeding",
+        "D": "Amenorrhea"
+      },
+      "correct": "B",
+      "explanation": "Oral contraceptives can be used in dialysis patients but are contraindicated with a history of thrombophlebitis or severe hypertension (B) because of thrombotic and pressure risks. Low-dose estrogen pills are acceptable in lupus patients who have no thrombosis history or uncontrolled hypertension. Diabetes with nephropathy (A) is actually a setting where copper or levonorgestrel IUDs are suitable, not a listed pill contraindication. Anovulatory bleeding (C) and amenorrhea (D) are not listed contraindications. Estrogen also theoretically protects bone in hypoestrogenemic dialysis patients."
+    },
+    {
+      "topic": "IUD concerns in PD",
+      "question": "What theoretical concern exists regarding IUD use in women on peritoneal dialysis?",
+      "options": {
+        "A": "Increased risk of peritonitis",
+        "B": "Access thrombosis",
+        "C": "Endometrial cancer",
+        "D": "Hypercalcemia"
+      },
+      "correct": "A",
+      "explanation": "The theoretical concern with IUDs in PD patients is an increased risk of peritonitis (A), though this has not been well studied. Copper and levonorgestrel IUDs are otherwise good options for women with diabetes, nephropathy, lupus, or multiple cardiovascular risk factors on both HD and PD. Access thrombosis (B) is a concern raised about estrogen rather than IUDs, endometrial cancer (C) relates to unopposed estrogen, and hypercalcemia (D) is unrelated. Because of the peritonitis worry, PD patients should receive prophylaxis before IUD insertion."
+    },
+    {
+      "topic": "Unopposed estrogen",
+      "question": "Estrogen-progesterone cycling in women with prolonged anovulatory bleeding may reduce the risk of which cancer?",
+      "options": {
+        "A": "Ovarian cancer",
+        "B": "Cervical cancer",
+        "C": "Endometrial cancer",
+        "D": "Breast cancer"
+      },
+      "correct": "C",
+      "explanation": "Prolonged anovulatory bleeding exposes the endometrium to unopposed estrogen, and estrogen-progesterone cycling may reduce the resulting risk of endometrial cancer (C), which is why progestin-containing regimens are favored. Ovarian (A), cervical (B), and breast (D) cancers are not the malignancy linked to unopposed estrogen in this context. Abnormal uterine bleeding is important partly because it can be an early sign of endometrial cancer, and hemodialysis women may have higher rates of endometrial hyperplasia and carcinoma, warranting a high index of suspicion."
+    },
+    {
+      "topic": "Pregnancy frequency by country",
+      "question": "The frequency of pregnancy in dialysis patients ranges from a high of 1.4% per year in which country?",
+      "options": {
+        "A": "Japan",
+        "B": "Belgium",
+        "C": "United States",
+        "D": "Saudi Arabia"
+      },
+      "correct": "D",
+      "explanation": "The reported frequency of pregnancy in dialysis patients ranges from a high of 1.4% per year in Saudi Arabia (D) down to 0.44% in Japan and a low of 0.3% in Belgium; the U.S. figure is about 0.5% per year. Thus Japan (A) and Belgium (B) mark the low end and the United States (C) sits in the middle, so none of them is the maximum. These figures reassure that conception is uncommon but not negligible, reinforcing that pregnancy must be anticipated and prevented when it is not desired."
+    },
+    {
+      "topic": "HD vs PD conception",
+      "question": "Compared with PD patients, conception occurs how much more frequently in hemodialysis patients?",
+      "options": {
+        "A": "Equally often",
+        "B": "Two to three times more frequently",
+        "C": "Five times more frequently",
+        "D": "Ten times more frequently"
+      },
+      "correct": "B",
+      "explanation": "Conception occurs two to three times more frequently (B) in hemodialysis than in peritoneal dialysis patients, for reasons that remain unclear. This concerns frequency of conception and is distinct from pregnancy outcome, which does not differ between modalities. Equal rates (A) contradict the data, and 5-fold (C) or 10-fold (D) overstate the difference. Clinically this means HD women may need particular attention to contraception, although dialysis modality is not changed on the basis of pregnancy risk."
+    },
+    {
+      "topic": "Infant survival",
+      "question": "Excluding elective abortions, the likelihood of a pregnancy in a dialysis patient resulting in a surviving infant is about what?",
+      "options": {
+        "A": "25%",
+        "B": "50%",
+        "C": "75%",
+        "D": "90%"
+      },
+      "correct": "B",
+      "explanation": "Excluding elective abortions, only about 50% (B) of pregnancies in dialysis patients yield a surviving infant, underscoring how dangerous these pregnancies are. Success improves once the second trimester is reached, approaching 60% to 70%, and improves further with intensive dialysis. Twenty-five percent (A) understates and 75% (C) or 90% (D) overstate the overall figure. By contrast, women who start dialysis only after conception fare better, at 75% to 80% survival. These numbers frame counseling and the push toward more intensive dialysis."
+    },
+    {
+      "topic": "Dialysis started after conception",
+      "question": "For women who start dialysis after conception, the likelihood of having a surviving infant is what?",
+      "options": {
+        "A": "50% to 55%",
+        "B": "60% to 65%",
+        "C": "75% to 80%",
+        "D": "90% to 95%"
+      },
+      "correct": "C",
+      "explanation": "Women who begin dialysis after they conceive have a 75% to 80% (C) likelihood of a surviving infant, markedly better than the roughly 50% seen in women already established on dialysis at conception, reflecting greater residual renal function and a healthier baseline. Lower ranges (50% to 55%, 60% to 65%) understate this favorable outcome and 90% to 95% overstates it. The contrast highlights that established ESKD, not pregnancy itself, drives much of the poor prognosis, and that maximizing dialysis dose helps close the gap."
+    },
+    {
+      "topic": "Unsuccessful pregnancy outcomes",
+      "question": "Of unsuccessful pregnancies in dialysis patients, what percentage result from spontaneous abortion?",
+      "options": {
+        "A": "13%",
+        "B": "16%",
+        "C": "68%",
+        "D": "3%"
+      },
+      "correct": "C",
+      "explanation": "Among unsuccessful pregnancies, 68% (C) end in spontaneous abortion, 13% in stillbirth, 16% in neonatal death, and 3% in therapeutic abortion for life-threatening maternal problems. Thus 13% (A), 16% (B), and 3% (D) are the smaller categories, not the leading cause. Roughly 40% of spontaneous abortions occur in the second trimester, which is later than in the general population and reinforces the need for close monitoring throughout gestation rather than only in early pregnancy."
+    },
+    {
+      "topic": "Pregnancy diagnosis",
+      "question": "Which test should be used to diagnose pregnancy in a dialysis patient before radiographic studies for abdominal complaints?",
+      "options": {
+        "A": "Urine pregnancy test",
+        "B": "Serum beta-HCG (blood-based pregnancy test)",
+        "C": "Serum alpha-fetoprotein",
+        "D": "Pelvic ultrasound alone"
+      },
+      "correct": "B",
+      "explanation": "A blood-based serum beta-HCG (B) must be obtained before radiographic studies for abdominal complaints, because a timely diagnosis requires a high index of suspicion: amenorrhea is common and nausea is often blamed on uremia or GI causes. Urine pregnancy tests (A) are not reliable even in non-anuric patients. Alpha-fetoprotein (C) screens for Down's syndrome, not pregnancy, and ultrasound alone (D) is used for dating rather than initial detection. Even blood tests can give false positives from slow HCG excretion and false negatives in renal failure."
+    },
+    {
+      "topic": "Beta-HCG levels",
+      "question": "During pregnancy in dialysis patients, beta-HCG levels are typically what relative to gestational age, so gestational age is best assessed by which modality?",
+      "options": {
+        "A": "Lower than expected; assessed by serum HCG trend",
+        "B": "More elevated than expected; assessed by ultrasound",
+        "C": "Normal; assessed by urine HCG",
+        "D": "More elevated than expected; assessed by alpha-fetoprotein"
+      },
+      "correct": "B",
+      "explanation": "In pregnant dialysis patients beta-HCG is more elevated than expected for gestational age, so dating is best done by ultrasound (B). Failing to appreciate this has caused mistaken diagnoses of hydatidiform mole and false conclusions that a pregnancy was nonviable when no fetal heartbeat was found at an apparently advanced HCG level. Options describing lower-than-expected (A) or normal (C) levels are wrong, and using alpha-fetoprotein for dating (D) is incorrect. Slow renal clearance of HCG explains the disproportionately high values."
+    },
+    {
+      "topic": "Alpha-fetoprotein screening",
+      "question": "Serum alpha-fetoprotein done to screen for Down's syndrome may be falsely elevated in pregnant dialysis patients; abnormal results should be confirmed with what?",
+      "options": {
+        "A": "Repeat serum testing in 2 weeks",
+        "B": "Amniocentesis with karyotyping",
+        "C": "Urine pregnancy test",
+        "D": "Serial beta-HCG measurement"
+      },
+      "correct": "B",
+      "explanation": "Serum alpha-fetoprotein, used to screen for Down's syndrome, may be falsely elevated in pregnant dialysis patients, so abnormal results should be confirmed by amniocentesis with karyotyping (B) rather than acted on directly. Simply repeating serum testing (A) or measuring serial beta-HCG (D) will not resolve a false-positive AFP, and a urine pregnancy test (C) is both unreliable and irrelevant to aneuploidy screening. Karyotyping provides a definitive answer and avoids unnecessary anxiety or intervention based on an artifactually raised marker."
+    },
+    {
+      "topic": "Hypertension prevalence",
+      "question": "What percentage of pregnant dialysis patients have some degree of hypertension (BP >140/90 mm Hg)?",
+      "options": {
+        "A": "40%",
+        "B": "60%",
+        "C": "80%",
+        "D": "95%"
+      },
+      "correct": "C",
+      "explanation": "Eighty percent (C) of pregnant dialysis patients have some degree of hypertension (BP >140/90 mm Hg), making severe hypertension the major maternal risk of these pregnancies. Forty percent (A) is instead the fraction with severe hypertension, while 60% and 95% are not the cited figures. Because 75% of severe hypertension occurs before the third trimester, patients are taught to check BP on non-dialysis days and report increases promptly, with monitoring continuing 6 weeks postpartum. The first step in control is ensuring euvolemia."
+    },
+    {
+      "topic": "Severe hypertension",
+      "question": "What percentage of pregnant dialysis patients have severe hypertension (diastolic >110 or systolic >180 mm Hg)?",
+      "options": {
+        "A": "20%",
+        "B": "40%",
+        "C": "60%",
+        "D": "80%"
+      },
+      "correct": "B",
+      "explanation": "Forty percent (B) of pregnant dialysis patients have severe hypertension, defined as diastolic >110 or systolic >180 mm Hg, whereas 80% have some degree of hypertension. Thus 20% understates and 60% or 80% overstate the severe category. Importantly, 75% of severe hypertension appears before the third trimester, so early vigilance is essential. Management begins with achieving euvolemia; if BP stays above 140/90 despite euvolemia, first-line agents such as methyldopa, labetalol, and calcium channel blockers are added."
+    },
+    {
+      "topic": "ICU admissions",
+      "question": "ICU admissions for control of accelerated hypertension are required in what percentage of pregnant dialysis patients?",
+      "options": {
+        "A": "2% to 5%",
+        "B": "10% to 15%",
+        "C": "20% to 25%",
+        "D": "30% to 40%"
+      },
+      "correct": "A",
+      "explanation": "ICU admission for accelerated hypertension is needed in only 2% to 5% (A) of pregnant dialysis patients, so although hypertension is very common and often severe, crises severe enough to require intensive care are relatively uncommon. The higher ranges (10% to 15%, 20% to 25%, 30% to 40%) overstate this. Even severe hypertension usually does not mandate terminating the pregnancy. Blood pressure control starts with euvolemia and, if needed, first-line oral agents, escalating to IV hydralazine or labetalol for a true hypertensive crisis."
+    },
+    {
+      "topic": "First-line antihypertensives",
+      "question": "Which of the following are considered safe first-line antihypertensive drugs in pregnancy?",
+      "options": {
+        "A": "ACE inhibitors and ARBs",
+        "B": "Alpha-methyldopa, labetalol, and calcium channel blockers",
+        "C": "Atenolol and spironolactone",
+        "D": "Hydralazine as a single oral agent"
+      },
+      "correct": "B",
+      "explanation": "The safe first-line agents in pregnancy are alpha-methyldopa, labetalol, and calcium channel blockers (B). ACE inhibitors and ARBs (A) are contraindicated because of fetal toxicity, and atenolol (C) specifically should be avoided even though other beta-blockers and clonidine are probably safe. Hydralazine as a single oral agent (D) does not work and must be added to another first-line drug. Therapy is started when BP stays above 140/90 mm Hg in a euvolemic patient, since volume control is always the first step."
+    },
+    {
+      "topic": "ACE inhibitors in pregnancy",
+      "question": "In animal studies, ACE inhibitors and ARBs used during pregnancy have been associated with a fetal loss rate of what?",
+      "options": {
+        "A": "20% to 30%",
+        "B": "40% to 50%",
+        "C": "80% to 93%",
+        "D": "100%"
+      },
+      "correct": "C",
+      "explanation": "In animal studies, ACE inhibitors and ARBs are associated with an 80% to 93% (C) fetal loss rate, and in humans with skull ossification defects, dysplastic kidneys, neonatal anuria, and death from hypoplastic lungs; a report of increased anomalies after first-trimester exposure has driven practice away from any use. The lower ranges (20% to 30%, 40% to 50%) understate this and 100% overstates it. These drugs are contraindicated in pregnancy, whereas methyldopa, labetalol, and calcium channel blockers remain safe first-line choices."
+    },
+    {
+      "topic": "Aspirin for preeclampsia",
+      "question": "For preeclampsia prevention, pregnant dialysis patients (a high-risk group) can be given what dose of aspirin daily?",
+      "options": {
+        "A": "40 mg",
+        "B": "75 mg",
+        "C": "162 mg",
+        "D": "325 mg"
+      },
+      "correct": "B",
+      "explanation": "High-risk women benefit from low-dose aspirin for preeclampsia prevention, and although dialysis patients were not specifically studied, they are an extremely high-risk group and can be given 75 mg daily (B). Forty mg (A) is below the studied dose, while 162 mg (C) and 325 mg (D) are higher antiplatelet doses not recommended here. Dialysis women are prone to superimposed preeclampsia, which is hard to diagnose without HELLP features, so prophylaxis is reasonable alongside monitoring for hemolysis, low platelets, and elevated liver enzymes."
+    },
+    {
+      "topic": "HELLP syndrome",
+      "question": "The HELLP syndrome, which aids diagnosis of superimposed preeclampsia, includes which triad?",
+      "options": {
+        "A": "Hypertension, Edema, Low Platelets",
+        "B": "Hemolysis, Elevated Liver Enzymes, Low Platelets",
+        "C": "Hyperkalemia, Elevated Lactate, Leukopenia",
+        "D": "Hemolysis, Elevated Lipase, Low Potassium"
+      },
+      "correct": "B",
+      "explanation": "HELLP stands for Hemolysis, Elevated Liver Enzymes, Low Platelets (B). These findings, namely thrombocytopenia, elevated liver enzymes, and microangiopathic hemolytic anemia, help diagnose superimposed preeclampsia, which is otherwise difficult to identify in chronic dialysis patients who already have hypertension. The distractor triads involving edema, hyperkalemia and lactate, or elevated lipase and low potassium are not the syndrome. Recognizing HELLP matters because chronic dialysis women are at increased risk for superimposed preeclampsia and its serious complications."
+    },
+    {
+      "topic": "Hypertensive crisis drug",
+      "question": "The drug of first choice for hypertensive crisis in pregnant women is intravenous hydralazine given in what dosing?",
+      "options": {
+        "A": "5 to 10 mg every 20 to 30 minutes",
+        "B": "20 mg bolus every 2 hours",
+        "C": "1 mg/min continuous only",
+        "D": "50 mg every hour"
+      },
+      "correct": "A",
+      "explanation": "IV hydralazine is the first choice for hypertensive crisis in pregnancy, dosed 5 to 10 mg every 20 to 30 minutes (A); labetalol is a good alternative, given as a 20-mg bolus every 30 minutes to a maximum of 220 mg or as an infusion. The other regimens (20 mg every 2 hours, 1 mg/min only, 50 mg per hour) do not match the recommended hydralazine schedule. Rapid but controlled lowering is the goal, and because crises can complicate preeclampsia, magnesium for seizure prophylaxis may also be needed, with caution in renal failure."
+    },
+    {
+      "topic": "Magnesium and CCBs",
+      "question": "Because magnesium potentiates the hypotensive effects of calcium channel blockers, what should be done if magnesium is required for seizure prophylaxis?",
+      "options": {
+        "A": "Double the CCB dose",
+        "B": "Stop any calcium channel blocker",
+        "C": "Add hydralazine",
+        "D": "Give calcium gluconate simultaneously"
+      },
+      "correct": "B",
+      "explanation": "Because magnesium potentiates the hypotensive effect of calcium channel blockers, any calcium channel blocker should be stopped when magnesium is required (B). Doubling the CCB dose (A) or continuing both would risk profound hypotension. Adding hydralazine (C) or giving calcium gluconate (D) does not address the interaction. Magnesium is the superior anticonvulsant for preeclampsia seizure prophylaxis, but in dialysis patients it must be used cautiously: a loading dose is safe, yet additional doses await dialysis or a demonstrated fall in serum magnesium."
+    },
+    {
+      "topic": "Magnesium dosing in dialysis",
+      "question": "In dialysis patients requiring magnesium in preeclampsia, additional magnesium (after a loading dose) should not be given until when?",
+      "options": {
+        "A": "Immediately after the loading dose",
+        "B": "Every 4 hours regardless of level",
+        "C": "After dialysis or after a demonstrated drop in serum magnesium",
+        "D": "Only if seizures recur"
+      },
+      "correct": "C",
+      "explanation": "In dialysis patients a magnesium loading dose can be given safely, but additional magnesium must be withheld until after dialysis or until a drop in the serum magnesium level is demonstrated (C), because impaired clearance risks dangerous accumulation. Redosing immediately (A) or every 4 hours regardless of level (B) could cause toxicity, and waiting only for recurrent seizures (D) is unsafe. Magnesium also potentiates calcium channel blockers, which should be stopped if magnesium is required, and levels must be monitored frequently."
+    },
+    {
+      "topic": "Dialysis modality outcome",
+      "question": "In direct comparisons, how do pregnancy outcomes compare between HD and PD patients?",
+      "options": {
+        "A": "HD is far superior in all measures",
+        "B": "PD is far superior in all measures",
+        "C": "No difference in infant survival or mean gestational age",
+        "D": "PD has better infant survival but worse gestational age"
+      },
+      "correct": "C",
+      "explanation": "Direct comparisons show no difference in pregnancy outcome between HD and PD, measured by infant survival or mean gestational age (C). Therefore claims that HD (A) or PD (B) is far superior, or that PD trades survival for gestational age (D), are wrong. However, it is easier to increase delivered dialysis with HD, and the higher recent success rates were achieved in HD patients. Modality should not be changed because of pregnancy, though starting HD may be simpler than PD in a pregnant woman."
+    },
+    {
+      "topic": "Intensive dialysis hours",
+      "question": "A marked improvement in outcomes with decreased severe prematurity was seen in women dialyzed more than how many hours per week?",
+      "options": {
+        "A": "10 hours",
+        "B": "15 hours",
+        "C": "20 hours",
+        "D": "30 hours"
+      },
+      "correct": "C",
+      "explanation": "A marked improvement in outcomes, with decreased severe prematurity, was seen in women dialyzed more than 20 hours per week (C). Ten or 15 hours fall short of this threshold, and although more dialysis (such as 48-hour nocturnal regimens) is even better, 20 hours is the point where benefit became marked. Infant survival was 75% above 20 hours versus 33% and 44% below it, and mean gestational age was 34 versus 30 weeks. There may be an optimal weekly dose somewhere between 20 and 48 hours."
+    },
+    {
+      "topic": "Infant survival with intensive dialysis",
+      "question": "Infant survival was 75% for pregnancies dialyzed more than 20 hours a week compared with what percentages in less intensively dialyzed groups?",
+      "options": {
+        "A": "33% and 44%",
+        "B": "50% and 60%",
+        "C": "20% and 25%",
+        "D": "60% and 70%"
+      },
+      "correct": "A",
+      "explanation": "Infant survival was 75% in women dialyzed more than 20 hours weekly compared with 33% and 44% (A) in less intensively dialyzed groups, a striking dose-response effect. The other pairs (50% and 60%, 20% and 25%, 60% and 70%) do not match the reported figures. Mean gestational age likewise rose to 34 weeks from 30 weeks. This large gap is the central evidence for prescribing intensive dialysis in pregnancy, with even better results, most infants surviving near term, at 48 nocturnal hours weekly."
+    },
+    {
+      "topic": "Nocturnal hemodialysis hours",
+      "question": "Even better pregnancy outcomes, with most infants surviving and born close to term, were seen in women undergoing nocturnal hemodialysis at how many hours weekly?",
+      "options": {
+        "A": "20 hours",
+        "B": "36 hours",
+        "C": "48 hours",
+        "D": "60 hours"
+      },
+      "correct": "C",
+      "explanation": "The best outcomes, most infants surviving and born close to term, occurred with nocturnal hemodialysis of 48 hours weekly (C). Twenty hours (A) is the threshold for marked improvement but not the best, 36 hours (B) was the Toronto program average associated with 15% conception, and 60 hours (D) is not the cited figure. A suggested dose-response relationship implies some weekly amount between 20 and 48 hours yields satisfactory results, while daily dialysis also reduces intradialytic hypotension and permits a high-protein diet."
+    },
+    {
+      "topic": "Daily dialysis benefits",
+      "question": "Daily dialysis during pregnancy provides which benefits?",
+      "options": {
+        "A": "Decreased fluid removal per treatment and allowing a high-protein diet",
+        "B": "Increased ultrafiltration per treatment and lower protein intake",
+        "C": "Reduced need for erythropoietin",
+        "D": "Elimination of the need for phosphate binders in all patients"
+      },
+      "correct": "A",
+      "explanation": "Daily dialysis decreases fluid removal at each treatment, reducing intradialytic hypotension, and allows a high-protein diet to meet pregnancy's nutritional needs (A). It does not increase ultrafiltration per session or require lower protein intake (B). It does not reduce erythropoietin needs (C); in fact EPO requirements rise in pregnancy. And it does not eliminate phosphate binders for everyone (D), though some women become hypophosphatemic and may even need phosphorus added to the bath. Frequent dialysis also keeps interdialytic fluid gains small."
+    },
+    {
+      "topic": "Dialysate calcium",
+      "question": "Which calcium concentration has replaced 3.5 mEq/L (1.75 mM) as the standard dialysate calcium in long-term dialysis patients?",
+      "options": {
+        "A": "1.0 mEq/L",
+        "B": "2.25 or 2.5 mEq/L",
+        "C": "4.0 mEq/L",
+        "D": "5.0 mEq/L"
+      },
+      "correct": "B",
+      "explanation": "Because of the recognized risk of soft tissue calcification, a 2.25 mEq/L (1.125 mM) or 2.5 mEq/L (1.25 mM) calcium bath (B) has replaced the older 3.5 mEq/L (1.75 mM) standard. Concentrations of 1.0, 4.0, or 5.0 mEq/L are not standard. With a 2.5 mEq/L bath the patient is usually in positive calcium balance, averaging about 200 mg per treatment, helping supply the 25 to 30 g of calcium the fetal skeleton needs. Predialysis calcium is checked weekly, and oral supplementation is still advisable."
+    },
+    {
+      "topic": "Fetal calcium needs",
+      "question": "How much calcium does the fetus need for calcification of the fetal skeleton?",
+      "options": {
+        "A": "5 to 10 g",
+        "B": "50 to 60 g",
+        "C": "100 g",
+        "D": "25 to 30 g"
+      },
+      "correct": "D",
+      "explanation": "The fetal skeleton requires 25 to 30 g (D) of calcium for calcification. With a 2.5 mEq/L calcium bath the mother is usually in positive balance (about 200 mg per treatment), so roughly 25 weeks of dialysis should supply this, but because premature birth is common and calcium flux is variable, oral supplementation is advised. The other figures (5 to 10 g, 50 to 60 g, 100 g) are incorrect. If phosphate binders are needed, calcium-containing binders providing 1 to 2 g of elemental calcium are the only group known to be safe in pregnancy."
+    },
+    {
+      "topic": "Phosphate binders in pregnancy",
+      "question": "Which phosphate binders are the only group known to be safe in pregnancy?",
+      "options": {
+        "A": "Sevelamer",
+        "B": "Lanthanum carbonate",
+        "C": "Calcium-containing binders",
+        "D": "Aluminum hydroxide"
+      },
+      "correct": "C",
+      "explanation": "Calcium-containing binders are the only phosphate binders known to be safe in pregnancy (C). There is no experience with sevelamer (A) in pregnancy, lanthanum carbonate (B) is neurotoxic in fetal mice, and aluminum hydroxide (D) is not endorsed here. If binders are required, 1 to 2 g of elemental calcium is usually sufficient, which also helps supply fetal calcium needs. Some women instead become hypophosphatemic and no longer need binders, occasionally requiring phosphorus added to the dialysate; serum calcium and phosphorus are monitored weekly."
+    },
+    {
+      "topic": "Hypercalcemia in pregnancy",
+      "question": "Hypercalcemia during pregnancy in a dialysis patient may cause what fetal or neonatal effect?",
+      "options": {
+        "A": "Suppression of the fetal parathyroid glands causing neonatal tetany",
+        "B": "Fetal hyperparathyroidism",
+        "C": "Neural tube defects",
+        "D": "Neonatal polycythemia"
+      },
+      "correct": "A",
+      "explanation": "Maternal hypercalcemia can suppress the fetal parathyroid glands and cause neonatal tetany (A), which is why serum calcium is monitored weekly and dialysate calcium is kept only as high as the fetus requires. Fetal hyperparathyroidism (B) is the opposite of what occurs, neural tube defects (C) relate to folate deficiency, and neonatal polycythemia (D) is not described. Placental calcitriol production can further raise maternal calcium, so balance must be watched carefully across pregnancy to protect both the fetal skeleton and neonatal calcium homeostasis."
+    },
+    {
+      "topic": "Dialysate bicarbonate",
+      "question": "What bicarbonate concentration dialysis bath is usually effective in avoiding alkalosis during daily dialysis in pregnancy?",
+      "options": {
+        "A": "18 mM",
+        "B": "25 mM",
+        "C": "35 mM",
+        "D": "40 mM"
+      },
+      "correct": "B",
+      "explanation": "A 25 mM bicarbonate bath (B) usually avoids alkalosis during daily dialysis, which otherwise carries a theoretical risk of metabolic alkalosis compounded by the respiratory alkalosis of pregnancy (normal pregnancy serum bicarbonate is 18 to 20 mmol/L). An 18 mM bath is not the recommended figure, and 35 or 40 mM would worsen alkalosis. When a 25 mM bath is unavailable, bicarbonate can be removed by increasing ultrafiltration and replacing losses with saline. Compensatory hypercapnia has been observed even with severe metabolic alkalosis."
+    },
+    {
+      "topic": "Recommended weight gain",
+      "question": "The recommended total weight gain for women who become pregnant at their ideal body weight is what?",
+      "options": {
+        "A": "5 to 8 kg",
+        "B": "18 to 22 kg",
+        "C": "2 to 5 kg",
+        "D": "11.5 to 16 kg"
+      },
+      "correct": "D",
+      "explanation": "For women who conceive at ideal body weight, total recommended gain is 11.5 to 16 kg (D), of which only 1.6 kg occurs in the first trimester and 0.3 to 0.5 kg per week in the second and third trimesters. The other ranges (5 to 8, 18 to 22, 2 to 5 kg) are incorrect. The key challenge for the unit is distinguishing desired pregnancy weight from excess fluid; with daily dialysis interdialytic fluid gains stay small, but most day-to-day change is still fluid, so weekly examination for overload is essential."
+    },
+    {
+      "topic": "Heparin in pregnancy",
+      "question": "Regarding heparinization during dialysis in pregnancy, which statement is correct?",
+      "options": {
+        "A": "Heparin crosses the placenta and must be avoided",
+        "B": "Heparin must always be replaced with warfarin",
+        "C": "Heparin does not cross the placenta, and the dose need not be lowered unless there is vaginal bleeding",
+        "D": "The dose should always be doubled"
+      },
+      "correct": "C",
+      "explanation": "Heparin does not cross the placenta, so unless there is vaginal bleeding the dose need not be lowered (C). Clotting of the extracorporeal circuit or access is in fact frequent during pregnancy, favoring adequate anticoagulation. The claims that heparin crosses the placenta (A), must be replaced by warfarin (B), or should always be doubled (D) are wrong, and warfarin is teratogenic and is not substituted here. Thus standard heparinization is generally continued, with dose reduction reserved for active bleeding situations."
+    },
+    {
+      "topic": "Hemoglobin target in pregnancy",
+      "question": "What hemoglobin target does the chapter suggest for pregnant dialysis patients until more data are available?",
+      "options": {
+        "A": "7 to 8 g/dL",
+        "B": "8 to 9 g/dL",
+        "C": "10 to 11 g/dL",
+        "D": "12 to 13 g/dL"
+      },
+      "correct": "C",
+      "explanation": "The suggested hemoglobin target in pregnancy is 10 to 11 g/dL (C), based on the WHO definition of anemia in pregnancy as a hemoglobin of 11 g/dL or less; this is higher than current nonpregnant dialysis targets. Ranges of 7 to 8, 8 to 9, or 12 to 13 g/dL are not recommended. Pregnancy worsens anemia because plasma volume rises while red cell mass is limited by erythropoietin dose, and anemia is linked to prematurity and low birth weight. The EPO dose is increased by 25% until this target is reached."
+    },
+    {
+      "topic": "Erythropoietin dosing",
+      "question": "The chapter recommends increasing the erythropoietin dose by what amount during pregnancy until the target hemoglobin is reached?",
+      "options": {
+        "A": "10%",
+        "B": "25%",
+        "C": "50%",
+        "D": "100%"
+      },
+      "correct": "B",
+      "explanation": "Erythropoietin is continued in pregnancy and increased by 25% (B) until the target hemoglobin is reached, because the hematocrit has usually already dropped by the time pregnancy is recognized. Ten percent understates the needed rise, while 50% or 100% exceed the recommendation. ESAs are FDA category C; congenital anomalies have not been reported in exposed infants, and recombinant EPO does not cross the placenta (darbepoetin's placental transfer is unknown). Before EPO, transfusion was usually needed in pregnancies beyond the first trimester."
+    },
+    {
+      "topic": "IV iron dosing in pregnancy",
+      "question": "Because of high rate of iron transfer to the fetus after 30 weeks, individual IV iron doses in pregnancy are limited to what?",
+      "options": {
+        "A": "125 mg",
+        "B": "250 mg",
+        "C": "31.25 mg",
+        "D": "62.5 mg"
+      },
+      "correct": "D",
+      "explanation": "Individual IV iron doses are limited to 62.5 mg (D) because of the high rate of transfer to the fetus, especially after 30 weeks' gestation. Normal pregnancy requires 700 to 1150 mg of iron and daily hemodialysis adds further losses, so iron needs rise, but each dose is capped for fetal safety. The larger doses (125, 250 mg) exceed this cap and 31.25 mg is not the stated limit. Ferric gluconate and iron sucrose are FDA category B, making iron repletion relatively reassuring compared with the unknown fetal effects of high-dose ESAs."
+    },
+    {
+      "topic": "Folate supplementation",
+      "question": "Because folate losses increase with intensive dialysis, folate supplementation should be adjusted how?",
+      "options": {
+        "A": "Halved",
+        "B": "Kept the same",
+        "C": "Doubled",
+        "D": "Quadrupled"
+      },
+      "correct": "D",
+      "explanation": "Folate supplementation should be quadrupled (D) in pregnant dialysis patients because folate requirements rise in normal pregnancy and folate losses increase with intensive dialysis. Halving (A) or keeping it the same (B) would risk deficiency, and doubling (C) is insufficient given the combined demands. Folate deficiency is associated with neural tube defects, so adequate supplementation is important. This complements other nutritional adjustments of pregnancy dialysis, including a high-protein diet enabled by daily treatments and increased iron and erythropoietin."
+    },
+    {
+      "topic": "Prematurity",
+      "question": "What percentage of infants born to dialysis patients are premature?",
+      "options": {
+        "A": "40%",
+        "B": "60%",
+        "C": "80%",
+        "D": "95%"
+      },
+      "correct": "C",
+      "explanation": "Eighty percent (C) of infants born to dialysis patients are premature, with premature labor the most common cause, followed by maternal hypertension and fetal distress. Forty or 60% understate this and 95% overstates it. Prevention efforts include serial cervical length measurement, sometimes cerclage, and consideration of progesterone given the very high risk. Intensive dialysis, more than 20 hours weekly and especially 48-hour nocturnal regimens, reduces severe prematurity and raises mean gestational age, the main rationale for maximizing dialysis dose in pregnancy."
+    },
+    {
+      "topic": "Premature labor tocolytics",
+      "question": "Premature labor in dialysis patients has been successfully treated with which agents?",
+      "options": {
+        "A": "Terbutaline, magnesium, nifedipine, and indomethacin",
+        "B": "ACE inhibitors and beta-blockers",
+        "C": "Warfarin and aspirin",
+        "D": "Furosemide and mannitol"
+      },
+      "correct": "A",
+      "explanation": "Premature labor in dialysis patients has been successfully treated with terbutaline, magnesium, nifedipine, and indomethacin (A). ACE inhibitors and beta-blockers (B) are antihypertensives (and ACE inhibitors are contraindicated), warfarin and aspirin (C) are not tocolytics, and furosemide and mannitol (D) are diuretics. Each tocolytic carries caveats: magnesium must be used cautiously in renal failure, magnesium plus nifedipine can cause profound hypotension, and indomethacin risks oligohydramnios and fetal right heart dilatation and can be used only briefly."
+    },
+    {
+      "topic": "Magnesium and nifedipine",
+      "question": "The combination of magnesium and nifedipine should be avoided because it can cause what?",
+      "options": {
+        "A": "Profound hypotension",
+        "B": "Severe hypertension",
+        "C": "Fetal bradycardia",
+        "D": "Maternal seizures"
+      },
+      "correct": "A",
+      "explanation": "Combining magnesium with nifedipine should be avoided because it can cause profound hypotension (A). It does not cause severe hypertension (B); rather the additive vasodilation and calcium-channel effects drop blood pressure. Fetal bradycardia (C) and maternal seizures (D) are not the described risk. This mirrors the broader rule that magnesium potentiates calcium channel blockers, so a CCB should be stopped when magnesium is required. Magnesium itself demands frequent level monitoring in renal failure, with redosing only after dialysis or a demonstrated fall in level."
+    },
+    {
+      "topic": "Indomethacin monitoring",
+      "question": "When indomethacin is used as a tocolytic, patients must be monitored for oligohydramnios and the fetus monitored for what?",
+      "options": {
+        "A": "Right heart dilatation",
+        "B": "Left ventricular hypertrophy",
+        "C": "Renal agenesis",
+        "D": "Neural tube defects"
+      },
+      "correct": "A",
+      "explanation": "When indomethacin is used as a tocolytic, the mother is monitored for oligohydramnios and the fetus for right heart dilatation (A). Left ventricular hypertrophy (B), renal agenesis (C), and neural tube defects (D) are not the monitored complications. Indomethacin can be used only for a short time, and because premature labor frequently recurs, repeated use is problematic; in women with residual kidney function it may further reduce GFR and increase dialysis needs. These limits make it only a short-term option among available tocolytics."
+    },
+    {
+      "topic": "Antenatal monitoring",
+      "question": "Because of increased stillbirth risk, antenatal monitoring should be started as soon as there is a chance of survival outside the mother, which is approximately when?",
+      "options": {
+        "A": "20 weeks",
+        "B": "24 weeks",
+        "C": "26 weeks",
+        "D": "30 weeks"
+      },
+      "correct": "C",
+      "explanation": "Because of the increased stillbirth risk in dialysis patients, antenatal monitoring should begin as soon as there is a chance of survival outside the mother, about 26 weeks (C). Starting at 20 or 24 weeks precedes viability, and waiting until 30 weeks (D) would miss the early window of survivability. Infants are frequently small for gestational age, possibly from uremic toxins or maternal hypertension, and reduced growth restriction under nocturnal dialysis suggests a toxin role. Even normal-appearing infants need high-risk nursery care and solute-diuresis monitoring."
+    },
+    {
+      "topic": "Dyspareunia treatment",
+      "question": "Dyspareunia in female dialysis patients results from estrogen deficiency causing what?",
+      "options": {
+        "A": "Vaginal dryness",
+        "B": "Uterine fibroids",
+        "C": "Endometrial hyperplasia",
+        "D": "Ovarian cysts"
+      },
+      "correct": "A",
+      "explanation": "Dyspareunia in dialysis patients arises from estrogen deficiency causing vaginal dryness (A). Uterine fibroids (B), endometrial hyperplasia (C), and ovarian cysts (D) are separate gynecologic problems, not the mechanism here. Postmenopausal women can be treated with local estrogen: conjugated estrogen cream, a sustained-release intravaginal ring, or a low-dose estradiol tablet (10 mcg intravaginally daily for 7 days, then two to three times weekly). Because estrogen is metabolized slowly in dialysis patients low doses suffice, and progestogen is not recommended with local estrogen therapy."
+    },
+    {
+      "topic": "Sexual activity prevalence",
+      "question": "What percentage of female dialysis patients under age 55 are sexually active?",
+      "options": {
+        "A": "25%",
+        "B": "50%",
+        "C": "75%",
+        "D": "90%"
+      },
+      "correct": "B",
+      "explanation": "Fifty percent (B) of female dialysis patients under 55 are sexually active, and a majority of women on dialysis experience some sexual dysfunction, with decreased libido and impaired orgasm. Twenty-five percent understates and 75% or 90% overstate the active fraction. Proposed causes include hyperprolactinemia, gonadal dysfunction, depression, hyperparathyroidism, and altered body image. Erythropoietin appears to improve sexual function, though most data are in men, and when no correctable physical cause is found, referral for sex therapy is appropriate as in non-renal patients."
+    },
+    {
+      "topic": "Bromocriptine",
+      "question": "Why has the dopamine agonist bromocriptine not come into widespread use for hyperprolactinemia in dialysis patients?",
+      "options": {
+        "A": "Hemodialysis patients may be particularly susceptible to its hypotensive effects",
+        "B": "It is ineffective",
+        "C": "It causes fetal anomalies",
+        "D": "It is not removed by dialysis"
+      },
+      "correct": "A",
+      "explanation": "Bromocriptine, a dopamine agonist used for hyperprolactinemia, has not become widely used because hemodialysis patients may be particularly susceptible to its hypotensive effects (A). It is not that it is ineffective (B); limited uncontrolled studies suggested improved sexual function in both sexes. The chapter does not cite fetal anomalies (C) or poor dialytic removal (D) as the barrier. Hyperprolactinemia was reported in 75% to 90% of female dialysis patients decades ago, though informal observation suggests it has become less frequent with modern care."
+    },
+    {
+      "topic": "Amenorrhea and GFR",
+      "question": "Many women develop amenorrhea when the glomerular filtration rate falls below what level?",
+      "options": {
+        "A": "30 mL/min",
+        "B": "20 mL/min",
+        "C": "15 mL/min",
+        "D": "10 mL/min"
+      },
+      "correct": "D",
+      "explanation": "Many women develop amenorrhea when the GFR falls to less than 10 mL/min (D). Higher thresholds (30, 20, or 15 mL/min) do not match the chapter. Encouragingly, menstruation returns in as many as 60% of women once dialysis is started, and regular menses have become more common in premenopausal ESKD women than in the early dialysis era. However, over half of menstruating ESKD women report hypermenorrhea and about 60% have irregular cycles, and abnormal uterine bleeding warrants attention as a possible early sign of endometrial cancer."
+    },
+    {
+      "topic": "Return of menstruation",
+      "question": "Menstruation returns in as many as what percentage of women once dialysis is started?",
+      "options": {
+        "A": "20%",
+        "B": "40%",
+        "C": "60%",
+        "D": "85%"
+      },
+      "correct": "C",
+      "explanation": "Menstruation returns in as many as 60% (C) of women once dialysis is started, after many became amenorrheic when GFR fell below 10 mL/min. Twenty or 40% understate and 85% overstates this figure. Regular menses are now more common in premenopausal ESKD women than in the early days of dialysis, but over half who menstruate report hypermenorrhea and roughly 60% have irregular cycles. Because abnormal uterine bleeding can herald endometrial cancer, it is evaluated with a high index of suspicion, especially given possible higher hyperplasia rates in HD women."
+    },
+    {
+      "topic": "First-line AUB therapy",
+      "question": "What is probably the safest therapy and first-line treatment for abnormal uterine bleeding in hemodialysis patients?",
+      "options": {
+        "A": "Oral contraceptives",
+        "B": "Depo-Provera",
+        "C": "Levonorgestrel intrauterine system (Mirena)",
+        "D": "GnRH agonists"
+      },
+      "correct": "C",
+      "explanation": "The levonorgestrel intrauterine system, Mirena (C), is probably the safest and first-line treatment for abnormal uterine bleeding in hemodialysis patients, delivering progesterone locally so that scanty menstruation should develop within 3 months and usually obviating systemic hormones. Oral contraceptives (A) are second-line and avoided if BP control or thrombotic risk is a concern; Depo-Provera (B) is reserved for chronic hypermenorrhea unresponsive to conservative therapy; GnRH agonists (D) are expensive last-resort options. PD patients need prophylaxis before IUD insertion because peritonitis has been reported."
+    },
+    {
+      "topic": "Early menopause",
+      "question": "Women with ESKD treated with dialysis experience menopause on average how many years earlier than women without renal failure?",
+      "options": {
+        "A": "5 years",
+        "B": "2 years",
+        "C": "8 years",
+        "D": "10 years"
+      },
+      "correct": "A",
+      "explanation": "Women with ESKD on dialysis reach menopause on average 5 years earlier (A) than women without renal failure. Two, 8, or 10 years are not the cited figure. About 10% of postmenopausal dialysis women take HRT, usually started before dialysis, and most others would decline it if advised. Given Women's Health Initiative evidence of increased breast cancer, thromboembolism, and cardiovascular disease, HRT risks may outweigh benefits in ESKD; raloxifene 60 mg daily is a safer alternative to prevent bone loss in estrogen-deficient dialysis patients."
+    },
+    {
+      "topic": "Cardiovascular risk in ESKD",
+      "question": "Women with ESKD have how much increased incidence of cardiovascular disease compared with women without ESKD?",
+      "options": {
+        "A": "2-fold",
+        "B": "5-fold",
+        "C": "10-fold",
+        "D": "More than 20-fold"
+      },
+      "correct": "D",
+      "explanation": "Women with ESKD have more than a 20-fold (D) increased incidence of cardiovascular disease compared with women without ESKD, so 2-, 5-, or 10-fold understate the excess risk. This enormous cardiovascular burden, together with Women's Health Initiative evidence of increased cardiovascular events and breast cancer, makes hormone replacement therapy's risks likely to outweigh its benefits in most dialysis patients. Bone disease is also more common and severe and hip fracture risk is elevated, so raloxifene 60 mg daily is offered as a safer alternative to HRT for bone protection."
+    },
+    {
+      "topic": "CA125 in dialysis",
+      "question": "Why is the use of CA125 to screen for or follow ovarian cancer of limited value in dialysis patients?",
+      "options": {
+        "A": "It is not efficiently removed by dialysis and is also produced by mesothelial cells",
+        "B": "It is destroyed during hemodialysis",
+        "C": "It is only elevated in HD but never PD patients",
+        "D": "It does not correlate with any cancer"
+      },
+      "correct": "A",
+      "explanation": "CA125 is of limited value in dialysis patients because it is not efficiently removed by dialysis and is also produced by mesothelial cells, giving falsely elevated levels especially in PD patients (A). It is not destroyed during hemodialysis (B), and it is elevated in PD as well as HD (C), so the claim that it is high only in HD is wrong; and it does correlate with ovarian cancer generally (D). Because ovarian cancer symptoms can mimic uremia or underdialysis, a high index of suspicion, rather than reliance on CA125, is needed for early detection."
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Handbook of Dialysis — Quiz Practice</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <span class="logo">🩺</span>
+    <div>
+      <h1>Handbook of Dialysis — Quiz</h1>
+      <p class="sub">Daugirdas, 5th ed · <b><span id="totalQ">…</span> questions</b> · 40 chapters</p>
+    </div>
+  </div>
+  <div class="topactions">
+    <span id="userEmail" class="useremail"></span>
+    <a id="adminLink" class="ghost hidden" href="/admin">🛡️ Admin</a>
+    <button id="historyBtn" class="ghost">📊 My Results</button>
+    <button id="logoutBtn" class="ghost">Log out</button>
+  </div>
+</header>
+
+<!-- ============ SETUP SCREEN ============ -->
+<main id="setup" class="screen">
+  <section class="panel">
+    <h2>Start a practice session</h2>
+    <p class="lead">Pick one chapter, several chapters, or all of them — then choose how many questions. Every answer shows the correct choice and a full explanation, and your score is saved to your account.</p>
+    <div class="controls">
+      <label class="field">Number of questions
+        <select id="limit">
+          <option value="10">10 questions</option>
+          <option value="20" selected>20 questions</option>
+          <option value="30">30 questions</option>
+          <option value="50">50 questions</option>
+          <option value="0">All selected</option>
+        </select>
+      </label>
+      <div class="chapter-actions">
+        <button id="selAll" class="ghost sm">Select all</button>
+        <button id="selNone" class="ghost sm">Clear</button>
+      </div>
+    </div>
+    <div class="listhead">
+      <span>Choose chapters</span>
+      <span><span id="selCount">0</span> selected</span>
+    </div>
+    <div id="chapterList" class="chapters"></div>
+    <button id="startBtn" class="primary big">Start Quiz →</button>
+  </section>
+</main>
+
+<!-- ============ QUIZ SCREEN ============ -->
+<main id="quiz" class="screen hidden">
+  <div class="quiz-head">
+    <div class="timers">
+      <span class="timer total">⏱ Total <b id="totalTimer">0:00</b></span>
+      <span class="timer perq">⏳ This question <b id="qTimer">0:00</b></span>
+    </div>
+    <div class="progress"><div id="bar" class="bar"></div></div>
+    <div class="meta">
+      <span id="counter">Question 1</span>
+      <span id="score" class="score"></span>
+    </div>
+  </div>
+  <section class="panel qcard">
+    <div class="qtags"><span id="qchap"></span><span id="qtopic" class="qtopic"></span></div>
+    <h2 id="qtext" class="qtext"></h2>
+    <div id="options" class="options"></div>
+    <div id="feedback" class="feedback hidden">
+      <div id="fbhead" class="fbhead"></div>
+      <div class="expl-wrap">
+        <div class="expl-label">Explanation</div>
+        <p id="fbexpl" class="expl"></p>
+      </div>
+    </div>
+    <div class="qnav">
+      <button id="quitBtn" class="ghost sm">Quit</button>
+      <button id="nextBtn" class="primary hidden">Next →</button>
+    </div>
+  </section>
+</main>
+
+<!-- ============ RESULT SCREEN ============ -->
+<main id="result" class="screen hidden">
+  <section class="panel center">
+    <h2>Session complete</h2>
+    <div id="resultRing" class="result-ring"><span id="resultPct" class="rp"></span></div>
+    <div id="resultScore" class="bigscore"></div>
+    <p id="resultMsg" class="lead"></p>
+    <div id="resultMeta" class="resultmeta"></div>
+    <div class="qnav center gap">
+      <button id="againBtn" class="primary">Practice again</button>
+      <button id="dlResultBtn" class="ghost">⬇ Download PDF</button>
+      <button id="toHistoryBtn" class="ghost">📊 My Results</button>
+    </div>
+    <div id="reviewWrong"></div>
+  </section>
+</main>
+
+<!-- ============ HISTORY SCREEN ============ -->
+<main id="history" class="screen hidden">
+  <section class="panel">
+    <div class="hist-head">
+      <h2>My Results</h2>
+      <button id="backBtn" class="ghost sm">← Back to quiz</button>
+    </div>
+    <div id="weakBox" class="weakbox"></div>
+    <h3 class="histsub">Past quizzes <span class="subnote">(click any to review)</span></h3>
+    <div id="historyList" class="historylist"></div>
+  </section>
+</main>
+
+<!-- ============ RESULT DETAIL SCREEN ============ -->
+<main id="detail" class="screen hidden">
+  <section class="panel">
+    <div class="hist-head">
+      <h2 id="detailTitle">Quiz review</h2>
+      <button id="detailBackBtn" class="ghost sm">← Back to results</button>
+    </div>
+    <div id="detailMeta" class="resultmeta"></div>
+    <div class="qnav"><button id="detailPdfBtn" class="ghost sm">⬇ Download PDF</button></div>
+    <div id="detailBody"></div>
+  </section>
+</main>
+
+<footer class="site-footer">Its For You My Baby <span class="heart">❤️</span></footer>
+
+<script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>

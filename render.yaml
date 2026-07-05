@@ -1,0 +1,31 @@
+# Render blueprint. In Render: New + → Blueprint → pick this repo.
+# Set the secret env vars (marked sync:false) in the Render dashboard.
+services:
+  - type: web
+    name: dialysis-quiz
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app --workers 2 --threads 2 --timeout 60
+    healthCheckPath: /healthz
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.6
+      - key: POOL_MAX
+        value: "4"
+      - key: RESEND_FROM
+        value: Dialysis Quiz <onboarding@resend.dev>
+      - key: SECRET_KEY
+        generateValue: true
+      - key: PGHOST
+        sync: false
+      - key: PGPORT
+        sync: false
+      - key: PGUSER
+        sync: false
+      - key: PGPASSWORD
+        sync: false
+      - key: PGDATABASE
+        sync: false
+      - key: RESEND_API_KEY
+        sync: false

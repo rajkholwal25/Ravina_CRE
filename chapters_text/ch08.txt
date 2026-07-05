@@ -1,0 +1,946 @@
+Once the AV access has been in use, the most important factors that 
+limit its survival are stenosis, thrombosis, and infection. In general, 
+complications occur more commonly in grafts than in AV fistulas.
+ I. STENOSIS. Vascular access stenosis is a harbinger of thrombo-
+sis, reduces access blood flow, and can lead to underdialysis. 
+The most common cause of stenosis in AV grafts is neo intimal 
+ hyperplasia, which usually occurs at or just distal to the graft–
+vein anastomosis. In AV fistulas, the location and cause of ste-
+nosis is more varied, with the juxta-anastomotic region being a 
+frequent site. Common sites of stenosis in AV fistulas and grafts 
+are shown in Figures 8.1 and 8.2. Because access patency is much 
+worse after thrombectomy than after elective angioplasty, cur -
+rent KDOQI guidelines recommend prospective monitoring and 
+surveillance of AV fistulas and grafts for hemodynamically signif-
+icant stenosis. Not all guidelines recommend routine monitoring, 
+however, and there is controversy regarding the overall clinical 
+benefit of maintaining an access surveillance program (Kumbar, 
+2012; Paulson, 2012). Randomized controlled trials have not con-
+sistently shown that surveillance improves outcomes in grafts; in 
+fistulas, surveillance has been shown to reduce the rate of throm-
+bosis, but may not prolong overall fistula life.
+There are several strategies to detect stenosis prior to defini-
+tive visualization of the access tract by Doppler ultrasound and, 
+in the case of central vein stenosis, by venography. These early 
+detection strategies depend on indirectly observing access pres-
+sure, flow, or recirculation during dialysis. The optimum early 
+detection strategy differs somewhat for fistulas versus grafts, and 
+for forearm versus upper arm locations. The basic principles are 
+these: (a) Recirculation of dialyzed blood across the access device 
+immediately back through the dialysis circuit does not appear un-
+til access flow decreases to a level near to or less than flow in the 
+extracorporeal circuit. Thus, barring inadvertent needle reversal 
+or improper needle placement, access recirculation will not be 
+present until access flow falls to the range of 350–500 mL/min. At 
+this range of flow, AV grafts are already at high risk for thrombosis, 
+Arteriovenous Vascular 
+Access Monitoring and 
+Complications
+Alexander Yevzlin, Anil K. Agarwal, 
+Loay Salman, and Arif Asif
+8
+137
+Daugirdas9781451144291-ch008.indd   137 09/10/14   1:07 am
+Part II / Blood-Based Therapies
+138
+FIGURE 8.1 Common sites of stenosis in AV fistula. Locations are shown in  fistulae 
+ created at wrist (A) and fistulae created at elbow (B). (From Turmel-Rodrigues 
+L, et al. Treatment of stenosis and thrombosis in haemodialysis fistulas and grafts by 
+ interventional radiology. Nephrol Dial Transplant 2000;15:2032–2036, with permission.)
+1%
+Wrist
+6%
+7%
+18%
+19%
+49%
+A
+Elbow
+6%
+55%
+22%
+17%
+B
+FIGURE 8.2 Common sites of stenosis in AV graft. (Reproduced from Roy-Chaudhury P , et al. 
+Vascular access in hemodialysis: issues, management, and emerging concepts. Cardiol 
+Clin. 2005;23:249–273, with permission from Elsevier.)
+6%
+2%
+8%
+11%
+4% 2%
+47%
+19%
+Arterial anastomosis Midgraft
+Venous anastomosis
+Peripheral basilic
+Axillary
+Central basilic
+<1 cm to venous
+anastomosis
+Subclavian
+Daugirdas9781451144291-ch008.indd   138 09/10/14   1:07 am
+Chapter 8 / Arteriovenous Vascular Access Monitoring and Complications 139
+so if true recirculation is detected in an AV graft, it is an urgent 
+indication to image the graft and correct the stenosis. On the 
+other hand, in AV fistulas, continued patency is likely even when 
+recirculation is present ( flow in the 350–500-mL/min range). The 
+benefits of screening AV fistulas for access recirculation are rela-
+tively small in terms of preventing thrombosis, but screening for 
+recirculation is useful to prevent underdialysis. Access stenosis 
+that occurs between the usual sites of needle insertion will not 
+cause recirculation, but may markedly reduce access flow to 
+thrombosis-prone levels. Stenosis in this location should be sus-
+pected when access flows are measured to be below the blood 
+pump flow rate, but recirculation is not detectable. (b) Both grafts 
+and fistulas commonly develop inflow stenosis, so strategies that 
+detect 
+ inflow stenosis will be useful for both types of AV access. 
+(c) Outflow stenosis occurs much more frequently in grafts than 
+in forearm fistulas where the degree of neointimal hyperplasia 
+is less and where accessory outflow veins often compensate for 
+ obstruction of a principal outflow channel. However, in upper arm 
+fistulas, outflow stenosis is not uncommon. Hence, strategies that 
+detect outflow stenosis will be more useful in monitoring function 
+of AV grafts and of upper arm fistulas.
+A. Physical examination of an AV access was discussed in some detail 
+in Chapter 6. Table 8.1 shows the changes in physical findings 
+with some common access complications. Physical examina-
+tion can be quite useful in detecting isolated inflow or outflow 
+access stenoses, but is less effective in detecting combined 
+inflow and outflow lesions. The accuracy of physical examina-
+tion is substantially higher if the persons doing the examina -
+tion have received special training (Coentrão, 2012). The ESRD 
+Network of Texas has sponsored some training documents and 
+examples, which are available on the Web (Beathard, 2012).
+B. Access surveillance using information obtained routinely during ev-
+ery dialysis session.  Many dialysis machines have the option of 
+measuring in vivo ionic dialysance. In all dialysis machines, 
+the outflow venous pressure is monitored. Trending the re-
+sults of these measurements over time can help detect access 
+stenosis.
+1. Trending ionic dialysance. The ionic dialysance measured via
+conductivity includes any access recirculation component
+if present; as the degree of access recirculation increases,
+the in vivo ionic dialysance will decrease, assuming that
+other features of the dialysis prescription (dialyzer K
+0A, 
+blood and dialysate flow rates, heparinization) are kept
+constant. 
+ Dialysis machines that measure ionic dialysance
+typically integrate the clearances measured during each
+treatment (K) to calculate a treatment Kt value (clearance ×
+time) for that session. In one case series of six patients with 
+AV fistulas, a sustained fall in Kt of 20% was associated with
+access recirculation (Fontseré, 2011). Another approach is
+to follow the ratio of ionic dialysance to blood flow. In one
+report, a ratio of ≤0.5 had a high sensitivity and specificity
+for access recirculation (Mohan, 2010).
+Daugirdas9781451144291-ch008.indd   139 09/10/14   1:07 am
+Part II / Blood-Based Therapies
+140
+Parameter Normal Inflow Stenosis Outflow Stenosis
+Coexisting Inflow and 
+Outflow Stenosis Central Stenosis Clotted Access
+Pulse Soft, easily 
+compressible
+Feeble pulse 
+(hypopulsation)
+Hyperpulsation (water-
+hammer pulse, angry pulse)
+Soft, easily 
+compressible pulse
+Variable Absent pulse
+Thrill Continuous Discontinuous (in 
+severe inflow stenosis 
+the thrill can be 
+absent)
+Higher pitched, louder, then 
+discontinuous (in severe 
+outflow stenosis the thrill 
+can be absent)
+Discontinuous (usually 
+absent)
+Variable Absent thrill
+Augmentation Test Normal Poor augmentation Good augmentation Poor augmentation Good augmentation
+Arm Elevation Test
+(fistula only)
+Normal 
+collapse
+Normal or accentuated 
+collapse
+No collapse No collapse No collapse
+Clinical Features No prolonged 
+bleeding or 
+difficulty in 
+cannulation
+Difficulty in 
+cannulation and an 
+increase in negative 
+arterial pressure
+Prolonged bleeding and 
+high venous pressure
+Edema of the arm 
+and shoulder; breast, 
+supraclavicular, neck 
+and face swelling
+Sometimes clots 
+aspiration from 
+the access
+Access Flow Normal Decreased Decreased Decreased Variable Absent
+Physical Findings with Various Forms of Access Dysfunction
+8.1
+TABLE
+Daugirdas9781451144291-ch008.indd   140 09/10/14   1:07 am
+Chapter 8 / Arteriovenous Vascular Access Monitoring and Complications 141
+2. Trending venous outflow pressures.  Venous pressures are mea-
+sured continuously during routine hemodialysis. Venous
+pressures are a function of needle size, hematocrit (by its
+effect on blood viscosity), and blood flow rate. All other
+things being equal, a progressive rise in venous pressure
+over time (weeks to months) is often due to access outflow 
+stenosis (Zasuwa, 2010). Some large dialysis organization
+data systems are able to track such pressures and trend
+them over time, and one company in the United States
+(Vasc-Alert, Lafayette, IN) sells software that allows easy
+access to trended pressure data. One can also trend pre-
+pump arterial pressure, which will increase (in a negative
+direction) with worsening access inflow stenosis.
+The sensitivity of pressure measurements during dial-
+ysis to detect access stenosis can be increased by focusing 
+on measurements taken at the beginning of dialysis with 
+the blood flow rate set at a low value (200–225 mL/min), 
+because at high blood flow rates, much of the resistance 
+to flow is from the needle and not the vascular access. A 
+baseline pressure value should be established when the 
+access is first used. The threshold pressure that triggers 
+further evaluation depends on the size of the needle, blood 
+viscosity, and other factors; for 15G needles, a starting ve-
+nous pressure threshold to use might be >115–120 mm Hg; 
+for 16G needles, the threshold might be >150 mm Hg. Such 
+threshold pressures must be exceeded on three or more 
+treatments in succession to be significant.
+C. Periodic measurements of access blood flow rate. To what extent a low 
+access flow rate reflects stenosis and an increased risk of throm-
+bosis depends on the type of access. Flow through a forearm AV 
+fistula commonly averages 500–800 mL/min, and in grafts, flow 
+is somewhat higher, about 1,000 mL/min. Flow in upper arm fis-
+tulas or grafts may be considerably higher. AV fistulas may main-
+tain patency at flows as low as 200 mL/min, whereas AV grafts 
+begin to clot at access flows between 600 and 800 mL/min—
+flows that often provide adequate dialysis but 
+ offer few clinical 
+premonitory signs that the access is at risk for thrombosis. The 
+current KDOQI (2006) recommendations are to have the patient 
+referred for access visualization if 
+ access flow is <600 mL/min or 
+if the access flow is <1,000 mL/min and has decreased by >25% 
+over the preceding 4 months. While regular surveillance of vas-
+cular access for stenosis has been shown to decrease thrombosis 
+rates when compared with historical controls, recent prospec-
+tive studies have not shown conclusively that detection of steno-
+sis and correction with 
+ angioplasty improves graft survival.
+1. Direct measurement of access flow by saline dilution. This method for 
+measuring access blood flow during hemodialysis treatments 
+was pioneered by Krivitski (1995). The required equipment
+is made by Transonic Systems, Inc. (Ithaca, NY) and consists
+of a control box, two matched flow/dilution sensors,  a lap-
+top computer, a data analysis software package, and a rolling
+stand that can be easily moved between patients (Fig 8.3).The 
+Daugirdas9781451144291-ch008.indd   141 09/10/14   1:07 am
+Part II / Blood-Based Therapies
+142
+setup shown in Fig. 8.3 is for measurement of access recircula-
+tion; hence the needles are not reversed.  To measure access 
+blood flow, one must deliberately cause access recirculation in 
+the extracorporeal blood circuit by reversing the arterial and 
+venous lines so that the dialyzer is fed from the downstream 
+access needle (Fig 8.4). The degree of recirculation in such a 
+system will depend on the ratio of the access blood flow rate 
+to the rate of blood flow through the dialyzer. If the percent-
+age recirculation and blood flow rate through the dialyzer are 
+known, the access blood flow rate can then be calculated.
+To measure the amount (percentage) of recirculation  
+under needle-reversed conditions, a bolus of saline is injected 
+into the blood leaving the dialyzer (Fig. 8.4). The amount of 
+dilution in the outlet bloodline is measured by a downstream 
+ultrasound sensor. The speed of sound through blood de-
+pends on the concentration of proteins in the plasma; ac-
+cordingly, the dilution effect of the saline bolus in the outlet 
+bloodline can be quantified using this first sensor. Some of 
+this saline-diluted blood will then traverse the vascular ac-
+cess segment between the two needles and reappear at the 
+dialyzer inlet. The proportion of the saline-diluted blood that 
+reappears at the dialyzer inlet depends on the ratio of access 
+blood flow to the blood flow through the dialyzer. A second 
+ultrasound sensor on the bloodline leading to the dialyzer is 
+then used to detect the proportion of saline-diluted blood 
+that reappears at the dialyzer inlet (Fig. 8.4). In practice, an 
+additional measurement of recirculation is made with the 
+blood lines not reversed, as the presence of any recirculation 
+under nonreversed conditions will affect the calculations.
+FIGURE 8.3 Setup to measure access recirculation by saline dilution and ultrasound 
+detection. To measure access blood flow, the access needles need to be reversed (not 
+shown). See text for description of the setup and method. (Reproduced with permission 
+from Transonic Systems, Inc., Ithaca, NY.)
+Clamp
+Saline
+bag
+Pump
+Ultrasound dilution
+sensorsAccess
+device
+Dialyzer
+ComputerComputer
+Transonic
+Hemodialysis
+monitor
+HD01
+A
+V
+Daugirdas9781451144291-ch008.indd   142 09/10/14   1:07 am
+Chapter 8 / Arteriovenous Vascular Access Monitoring and Complications 143
+2. Alternative measures of access flow using temperature, sodium,  
+or  hemoglobin changes.  The Fresenius Blood Temperature 
+ Module has the ability to acutely change the temperature 
+of the blood leaving the dialyzer, and the ionic conductivity 
+module has the ability to acutely change the sodium concen-
+tration of blood leaving the dialyzer. This is done by abruptly 
+altering the dialysis solution temperature or conductivity, 
+respectively. This permits measurement of access blood flow 
+rate in a similar method to saline dilution. The lines are re-
+versed, the dialyzer blood outlet temperature or conductiv-
+ity is altered, and the amount of this perturbation that gets 
+transmitted to the dialyzer inlet via forced recirculation is 
+calculated. The intervention is repeated without reversing 
+the bloodlines as a control. Hemoglobin dilution using an 
+online hemoglobin monitor has been used to measure ac-
+cess blood flow in an analogous fashion (Jiang, 2011; Roca-
+Tey, 2012). Evidence suggests that these alternative methods 
+are fairly accurate in measuring access blood flow, with the 
+temperature method perhaps performing at a higher level 
+(Badr, 2014). The advantage of using temperature or ionic di-
+alysance is that the need for a separate ultrasound dilution 
+sensor and laptop computer is no longer required.
+D. Doppler ultrasonography to measure access flow. Doppler ultrasono-
+graphy, though usually used to detect stenotic lesions directly, 
+can also be used to measure the rate of flow through a vascular 
+FIGURE 8.4 Measurement of access flow by saline dilution showing blood line reversal 
+and position of blood line sensors. See text for details of the method. (Reproduced with 
+permission from Transonic Systems, Inc., Ithaca, NY.)
+Arterial line
+Venous line
+Saline
+infusion
+Flow
+dilution
+sensors
+Mixing
+areaQa Qa
+Daugirdas9781451144291-ch008.indd   143 09/10/14   1:07 am
+Part II / Blood-Based Therapies
+144
+access. A variety of machines and several different flow velocity 
+algorithms have been used. There is systematic underestima -
+tion or overestimation of flow by some machines. Flow mea-
+surement by Doppler depends on an accurate measurement of 
+both velocity and vessel diameter. This may be difficult when 
+flow is turbulent in an access and when the vessel diameter is 
+not uniform. Because of these confounders, flow is better mea-
+sured at the brachial artery, where the vessel is a smooth cylin-
+der of blood and flow is nonturbulent. Almost all of the flow in 
+the brachial artery (apart from about 60–80 mL/min nutrient 
+flow) passes through the vascular access, and brachial artery 
+flow correlates very well with access flow rate.
+E. Intra-access pressure (PIA) and access flow. Flow, pressure, and re-
+sistance are mathematically related. In an AV graft, the P IA is 
+usually <50% of MAP (mean arterial pressure). Most of this 
+pressure drop occurs at the arterial anastomosis, unless there 
+is intragraft stenosis. When outflow stenosis develops (e.g., due 
+to neointimal hyperplasia at or downstream from the graft–
+vein anastomosis), P
+IA rises and flow decreases. When PIA rises 
+above 50% of the MAP (PIA/MAP >0.50), graft flow commonly 
+has decreased into the thrombosis-prone range of 600–800 
+mL/min, and the presence of stenosis is likely. Details of how 
+to compute this ratio based on an equivalent P
+IA  (EQPIA =  PIA 
+adjusted for the relative heights of the access measuring point 
+and pressure transducer) are given in Table 8.2.
+ In AV fistulas, 
+blood entering the venous system returns via multiple collat -
+eral veins. As a consequence, P IA in an AV fistula, which is on 
+average lower than in an AV graft, may not increase with outlet 
+stenosis and is therefore less valuable as a surveillance tool. 
+If a stenosis develops in the body of an AV graft between 
+the areas used for arterial and venous limb cannulation, P
+IA at 
+the venous needle remains normal or can even decrease, despite 
+increasing stenosis. Stenosis at the arterial anastomosis of both 
+Example:
+1. Measure MAP: Assume that BP is 190/100. MAP is diastolic plus one-third of 
+pulse pressure, or 130 mm Hg.
+2.
+ Measure static intra-access pressure:
+a.
+With the blood pump off and the blood line upstream to the venous drip 
+chamber clamped, the venous drip chamber pressure is 60 mm Hg.
+b.
+Compute offset using equation: offset (mm Hg) = −1.6 + 0.74 × H (cm), 
+where H is the height between the access and middle of the drip chamber. 
+Assume H is 35 cm. Then offset = −1.6 + 25.9 = 24.3 mm Hg.
+c.
+Add offset to compute EQPIA:EQPIA = 60 + 24.3 = 84.3 mm Hg.
+d. Compute the EQPIA/MAP ratio. In this case, 84/130 = 0.65, which is >0.5. 
+This access is at risk for stenosis.
+EQPIA, equivalent intra-access pressure; MAP , mean arterial pressure; BP , blood pressure.
+Source: Besarab A, et al. Simplified measurement of intra-access pressure. J Am Soc Nephrol. 
+1998;9:284–289
+Measuring the EQPIA/MAP Ratio
+8.2
+TABLE
+Daugirdas9781451144291-ch008.indd   144 09/10/14   1:07 am
+Chapter 8 / Arteriovenous Vascular Access Monitoring and Complications 145
+grafts and fistulas causes PIA to decrease, and a widely patent arte-
+rial anastomosis causes high basal PIA in the absence of stenosis.
+F. Access recirculation. Both urea-based and non–urea-based (e.g., 
+ultrasound dilution) techniques have been used to detect 
+ recirculation. The urea-based methods have been described in 
+Chapter 3. The ultrasound dilution technique described earlier 
+can be used to measure recirculation. In this case, the blood 
+lines are not reversed. If dialyzer outlet blood is recirculating 
+through the access and diluting the dialyzer inlet, the bolus 
+of saline injected into the outlet blood line will be detected by 
+the sensor located on the inlet blood line soon after injection. 
+Measurement of access recirculation by thermal dilution us -
+ing a blood temperature module yields results similar to those 
+obtained by the ultrasound dilution technique. Recirculation 
+exceeding 10% using the recommended two-needle urea-based 
+method, 5% using the ultrasound dilution method, or 15% using 
+the thermal dilution method should prompt investigation.
+II. IMAGING THE VASCULAR ACCESS
+A. Doppler ultrasonography.  This noninvasive technique allows
+direct imaging of the flow pattern in AV grafts and fistulas. 
+It has been useful for detecting stenoses and for mapping 
+aneurysms. Doppler flow measurements are prohibitively 
+expensive for routine assessment. Their chief role is in the 
+evaluation of flow and anatomy in accesses that have been 
+screened by other techniques.
+B. Access angiography.  Most centers refer patients with a high 
+probability of stenosis as determined by low-cost methods 
+directly for angiography and balloon angioplasty, bypassing 
+Doppler altogether. One should use the lowest possible dose of 
+nonosmotic contrast agent, diluted, if possible. Angiography 
+can be used for limited evaluation of the arterial tree as well.
+C. Magnetic resonance angiography  (MRA). The 2007 European Best 
+Practice guidelines recommend use of MRA to image the vas-
+cular access when there is the need to see both the venous and 
+the arterial parts of the upper extremity circulation (Tordoir, 
+2007). The European guidelines cite a number of studies where 
+MRA has been used successfully for access visualization. The 
+incidence of nephrogenic systemic fibrosis with gadolinium is 
+reduced with the newer contrast agents (Coca and Perazella, 
+2011), but the cumulative risk of multiple MRA procedures in 
+dialysis patients has not been well quantified.
+III. PERCUTANEOUS INTERVENTION AFTER ACCESS STENOSIS HA S BEEN
+ IDENTIFIED. Once a stenosis >50% is detected, percutaneous trans-
+luminal catheter angioplasty or surgical revision of the lesion
+should be performed if one or more of the following are present:
+(a) abnormal physical examination, (b) previous history of throm-
+bosis, (c) decreasing access flow, and (d) elevated or increasing
+measured static intra-access pressures (normalized to MAP). The
+expertise at each institution should determine which procedure
+Daugirdas9781451144291-ch008.indd   145 09/10/14   1:07 am
+Part II / Blood-Based Therapies
+146
+is to be performed. If repeated angioplasties have been required 
+within a short period for the same lesion, surgical revision should 
+be considered.
+In most institutions, vascular access–related procedures are 
+performed by surgeons and interventionalists. Numerous centers 
+in the United States now offer the nephrologist formal training in 
+the techniques of percutaneous angioplasty and thrombectomy. 
+Because nephrologists have a different clinical perspective of pa-
+tients and their access-related problems, their direct involvement 
+in interventional procedures may help minimize delays, decrease 
+hospitalizations and costs, and increase overall patient satisfaction.
+A. T reatment of early AV fistula dysfunction.   A significant number (10%–
+35%) of AV fistulas do not adequately develop and fail to sustain 
+dialysis therapy. Vascular stenosis or the presence of a signifi-
+cant accessory vein (an accessory vein is described as a side 
+branch coming off the main venous channel that comprised 
+the fistula) alone or in combination are the main culprits. Of 
+the two problems (stenosis and accessory veins), stenosis is 
+present in over 70% of the cases of fistula nonmaturation. In 
+most  cases, the stenosis will be found close to the anastomosis 
+(a juxta-anastomotic lesion). Percutaneous  balloon angioplasty 
+can successfully treat this lesion and salvage a great majority of 
+otherwise failed fistulae. In cases of nonmaturation due to the 
+presence of accessory veins, an obliteration procedure using 
+one of the three techniques  (percutaneous ligation, venous cut-
+down, or coil insertion) can be used to salvage the failing fistula.
+B. Flow measurements immediately after access revision.  Sometimes 
+radiographic correction of an apparent stenosis does not re-
+sult in improvement in the access blood flow rate. At other 
+times, access blood flow initially increases, but then falls back 
+to pretreatment levels within a day or two of the procedure. 
+Measurement of access flow immediately after a revision or 
+angioplasty is helpful in terms of determining the likelihood 
+that the access will remain open for a clinically useful period.
+C. Endovascular stents and vascular stenosis.  Endovascular stents 
+have emerged as an important strategy to treat vascular 
+ access stenosis. Interventionalists use stents primarily to 
+treat stenoses associated with AV grafts located at or just dis-
+tal to the graft–vein anastomosis. Stents are also used in the 
+management of pseudoaneurysms (see later). A stent graft is 
+a metal stent with PTFE covering its internal surface, external 
+surface, or both. Recently, a large multicenter, randomized, 
+controlled trial (Haskal, 2010) found better patency rates for 
+stent graft versus simple angioplasty for treatment of stenosis 
+at the graft–vein anastomosis. Primary patency at 6 months 
+for lesions treated with a stent graft (51%) was superior to that 
+for stenoses treated by angioplasty alone (23%; P  < 0.001).
+It is not uncommon for the dialysis access to be affected 
+by several coexisting stenoses. The benefits of fixing one pri-
+mary target lesion might be less important in the presence 
+of such coexisting stenoses that might require placement of 
+Daugirdas9781451144291-ch008.indd   146 09/10/14   1:07 am
+Chapter 8 / Arteriovenous Vascular Access Monitoring and Complications 147
+additional stent grafts. The cost increment when using an 
+endovascular stent must be balanced against the cost of an 
+angioplasty alone or the alternative of primary surgical repair.
+I V. THROMBOSIS. Thrombosis is the most common complication of
+arteriovenous access and accounts for 80%–85% of access loss.
+The primary patency rate of AV grafts is around 40%–50% at 1
+year and 25% at 2 years. Causes of thrombosis include stasis of
+flow, vascular endothelial injury, and altered blood coagulability,
+but other contributing factors include arterial stenosis, fistula
+compression, hematoma formation from cannulation injury, hy -
+povolemia, hypotension, and hypercoagulable states. On physical 
+examination, there is absence of thrill or bruit (Table 8.1). Both
+endovascular techniques (mechanical and/or pharmacologic)
+and surgical techniques are effective in declotting the access. In
+case of recurrent thrombosis, it is important to investigate for
+causes of thrombosis other than stenosis.
+A. Predisposing factors.  An increasingly recognized number of
+ dialysis patients have subtle accentuations of hemostasis, 
+ including high fibrinogen levels, reduced levels of protein S or 
+C, factor V Leiden mutation, lupus anticoagulant, or elevated 
+hematocrit levels due to erythropoietin therapy. Whether or 
+not these conditions are associated with increased access 
+thrombosis is controversial. Use of warfarin is problematic, 
+because in patients with protein S or C deficiency, or even in 
+the absence of these, warfarin may precipitate calciphylaxis 
+with skin necrosis. Warfarin use is difficult to monitor in 
+ patients with lupus anticoagulant, as the prothrombin time is 
+an unreliable measure of anticoagulation.
+B. Prevention. Anticoagulants and antiplatelet drugs may help 
+prevent AV access thrombosis, but most studies published 
+thus far do not support their routine use. Separate random-
+ized clinical trials of both low-dose warfarin (with a target 
+international normalized ratio 1.4–1.9) and clopidogrel plus 
+aspirin versus placebo in patients with PTFE grafts failed to 
+demonstrate a reduction in thrombotic events or prolonga -
+tion of graft survival. Both studies showed clinically and sta-
+tistically significant bleeding complications in the treated 
+patients. However, another randomized trial found a decrease 
+in the relative risk of thrombosis in patients with new PTFE 
+grafts treated with dipyridamole. A meta-analysis studying the 
+usefulness of antiplatelet therapy to prevent vascular access 
+failure that analyzed 21 eligible trials concluded that anti -
+platelet agents were useful to protect fistulas from thrombosis 
+or loss of patency, but had little or no effect on the patency of 
+AV grafts (Palmer, 2013).
+C. Treatment
+1. In AV fistulas.  Thrombosis of the fistula occurs  either soon
+after its construction or as a late event.  Patients should be
+taught to monitor their fistula daily, when possible. Early
+thrombosis results from technical factors and almost always 
+Daugirdas9781451144291-ch008.indd   147 09/10/14   1:07 am
+Part II / Blood-Based Therapies
+148
+requires surgical or percutaneous intervention, although 
+there may be inadvertent compression while sleeping. Poor 
+flow precedes late thrombosis in most cases, but hypoten-
+sion or hypercoagulability may also precipitate thrombo -
+sis in the absence of downward flow trends. Treatment of 
+thrombosis can be difficult but should be performed using 
+either percutaneous methods or surgical thrombectomy, 
+depending on the expertise of each institution. Techniques 
+aiming to remove the bulk of the thrombus have been re-
+ported to have a higher success rate (Palmer, 2006).
+2. In AV grafts.  Thrombosis can be managed by surgical
+thrombectomy or by mechanical or pharmacomechani -
+cal thrombolysis, again depending on the expertise of
+the medical center. Treatment should be performed ur -
+gently to avoid the need for temporary access. The en-
+tire access circuit should be thoroughly evaluated during
+the procedure by imaging. Residual stenosis exceeding
+85% should be retreated by balloon angioplasty or surgi-
+cal revision. The role of antiplatelet drugs or warfarin in
+patients with recurrent thrombosis is unknown. Patients
+who clot with intra-access flows > 1,000 mL/min should
+be educated to avoid external access compression, evalu-
+ated for 
+ hypercoagulability, and/or examined for presence 
+of  delayed hypotension after dialysis. Routine monitoring
+and surveillance of the graft should resume shortly after
+successful treatment. For patients with failed thrombec -
+tomy and thrombolysis, surgical efforts should be focused
+on creating a secondary fistula from the venous drainage of 
+the graft. Such fistulas are possible because of the 
+ venous
+enlargement and thickening caused by the previous graft,
+and have the advantage of being usable much sooner after 
+creation of the fistula. KDOQI guidelines recommend that
+every patient should be evaluated for a secondary fistula
+after each episode of graft failure.
+ V. ISCHEMIA IN A LIMB BEARING AN AV ACCESS.  Dialysis access–  
+associated hand ischemia, commonly known as “steal syndrome, ” 
+complicates 1%–20% of accesses and can lead to pain, loss of 
+function, and, rarely, the loss of limb. One mechanism of hand 
+ischemia is thought to be “arterial steal” from retrograde flow in 
+the distal artery toward the access but the presence of arterial 
+stenosis or distal arteriopathy involving small vessels often are 
+contributory. Risk factors include upper arm access, peripheral 
+arterial disease, and diabetes.
+A. Detection. Patients with an established fistula should be as-
+sessed monthly by interval history and physical examination. 
+Clinically, there is pain, coldness, and paresthesias of distal 
+extremity, especially during dialysis, which can progress to 
+cyanosis, pulselessness, ischemic ulcers, and dry gangrene over 
+days to weeks to months. The onset can be immediately after 
+access creation or insidiously over days to weeks. Examination 
+Daugirdas9781451144291-ch008.indd   148 09/10/14   1:07 am
+Chapter 8 / Arteriovenous Vascular Access Monitoring and Complications 149
+requires comparison with the temperature, pulse, and function 
+of the opposite hand.
+Digital pressures, transcutaneous oxygen measurements, 
+and arteriography (with access open and closed) are helpful 
+in evaluation, but are not necessarily specific. The diagnosis 
+is based on the clinical symptoms and signs as well as on the 
+demonstration of poor circulation in the extremity. Differential 
+diagnosis involves carpal tunnel syndrome, peripheral vascular 
+disease, neuropathy, nerve trauma, or ischemic monomelic neu-
+ropathy due to the loss of blood supply to nerves. 
+B. Management. Mild ischemia manifested by coldness or pares-
+thesias but without sensory or motor loss can be managed 
+expectantly. Pain of the hand on exercise due to a “steal”  effect 
+(or in extreme instances, pain at rest) or the appearance of 
+nonhealing ulcers usually requires surgical intervention.  Loss 
+of motor function of hand is a surgical emergency and surgical 
+evaluation for banding or ligation of the access should be done 
+immediately.
+1. DRIL procedure.  With the usual radiocephalic side-to-side 
+fistula, the radial artery anastomosis regularly steals blood 
+flow from the ulnar artery system. Converting the side-
+of-artery to an end-of-artery anastomosis can sometimes 
+be used to treat ischemia due to steal. Severe cases of 
+steal syndrome require ligation of the AV fistula, but dis-
+tal  revascularization interval ligation (DRIL) can be used 
+to treat ischemia while preserving fistula patency. The 
+DRIL technique requires ligation of the artery immediately 
+distal to the origin of the AV fistula and construction of a 
+reversed saphenous vein bypass from the artery proximal 
+to the origin of the fistula to the artery distal to the site 
+of ligation. One report suggests that success of the DRIL 
+procedure is higher if the origin of the bypass graft is well 
+upstream to the site of the fistula anastomosis to avoid a 
+region of low pressure in the artery upstream to the fistula 
+anastomotic site (Kopriva, 2014).
+2. Banding. Steal due to high access flow can be treated by 
+banding, and this can be done using a minimally invasive 
+procedure (Miller, 2010).
+3. Other procedures. Treatment of hand edema after placement 
+of an AV fistula consists of converting the anastomosis from 
+a side-of-vein to an end-of-vein opening or by selectively 
+tying off affected veins. A small increase in circumference 
+(2–3 cm) of the arm bearing the access is common after 
+placement of an AV access, but larger increases indicate 
+venous hypertension usually due to stenosis of the central 
+veins.
+ VI. PSEUDOANEURYSM. Trauma to AV access from repeated cannula -
+tion in the same area can cause damage to all layers of native vein 
+or graft material. Large aneurysms can prevent adequate needle 
+placement and limit potential puncture sites. These dilatations 
+Daugirdas9781451144291-ch008.indd   149 09/10/14   1:07 am
+Part II / Blood-Based Therapies
+150
+can further expand, especially if there is a downstream stenosis 
+causing increased intra-access pressure. Aneurysms and pseudo-
+aneurysm are prone to get infected or can contribute to throm-
+bosis. A major concern is rupture that can lead to exsanguination 
+and fatal hemorrhage. The signs of impending rupture include 
+thin and shiny overlying skin, prolonged leaking or ulceration 
+over the surface, and rapid enlargement of aneurysm. Early inter-
+vention is essential to prevent such complications.
+A. AV fistula. Pseudoaneurysm is much more common than a true 
+aneurysm. It results from failure to properly rotate access punc-
+ture sites, from inadequate hemostasis and from extravasation 
+of blood following dialysis needle removal. Most pseudoaneu-
+rysms and true aneurysms are treated by observation only and 
+by avoiding puncture of the fistula in the area of the aneurysm 
+site, though sometimes surgical correction is required.
+B. AV graft. In AV grafts, there is no true expansion of the vessel 
+lumen; the wall of the “aneurysm, ” really a pseudoaneurysm, 
+is formed by a layer of external soft tissue. These should be 
+treated by resection and insertion of an interposition graft 
+if they are rapidly expanding, >12 mm in diameter, and/or 
+threatening the viability  of the overlying skin. The AV graft 
+should be surgically revised if pseudoaneurysm formation 
+limits the number of puncture sites available or is causing per-
+sistent symptoms such as pain and throbbing.
+C. Use of stents. Stents have been used for the percutaneous treat-
+ment of pseudoaneurysms (Fotiadis, 2014). Although these 
+devices result in immediate exclusion of pseudoaneurysm, re-
+currence of the pseudoaneurysm and stent-graft damage as a 
+result of repeated cannulation remain major problems. Broken 
+stent struts can sometimes protrude through the skin, pos-
+ing a threat of injury to staff who place the patient on dialysis. 
+Exclusion of a pseudoaneurysm using a stent graft represents 
+an “off-label” use of the device. The risk of stent-graft infection 
+is another consideration. Safety of cannulation through stent 
+grafts used to treat pseudoaneurysm has not been conclusively 
+established in a prospective manner. Similarly, the role of surgi-
+cal intervention in the treatment of pseudoaneurysms has not 
+been directly compared with  results using stent grafts. Stent 
+grafts do provide rescue therapy in the event of angioplasty-
+induced vascular rupture. Complete rupture is one situation in 
+which a stent graft is clearly indicated as this stabilizes the ac-
+cess and avoids the need for an emergency surgical procedure.
+ VII. INFECTIONS. Infection of the access is usually manifested as ery-
+thema, pain, or purulent exudate from needle sites. Often, the first 
+sign is fever with no other obvious source and positive blood cul-
+tures. The access should not be used if actively infected. Cultures
+(of blood and of any wound if present) should be taken and an-
+tibiotic therapy initiated. The possibility of endocarditis or other
+sources of infection should be investigated, depending on the
+pathogen found, and especially if cultures fail to turn negative after 
+Daugirdas9781451144291-ch008.indd   150 09/10/14   1:07 am
+Chapter 8 / Arteriovenous Vascular Access Monitoring and Complications 151
+antibiotic treatment. Ultrasound evaluation of the tissues around 
+the access is sometimes useful in revealing localized fluid accumu-
+lation. An infected access usually requires surgical intervention for 
+debridement or excision.
+A. AV fistula. Infections are rare and usually caused by staphylo-
+cocci; they should be treated in the same manner as subacute 
+endocarditis with 6 weeks of antibiotics. Diagnosis is based 
+on local signs of inflammation. Prompt therapy with anti -
+staphylococcal antimicrobials, after local and blood cultures 
+have been obtained, is often curative. Septic embolus during 
+therapy warrants removal of the fistula.
+B. AV graft. Graft infection occurs eventually in 5%–20% of grafts 
+placed, and thigh grafts have an even higher rate of infection. 
+Prophylactic antimicrobials should be used when patients 
+with vascular grafts undergo procedures capable of inducing 
+bacteremia, such as dental extraction or genitourinary ma -
+nipulation. Most graft infections are staphylococcal. Gram-
+negative organisms such as Escherichia coli  may be cultured, 
+especially from thigh grafts (Harish and Allon, 2011). Initial 
+antibiotic treatment should include drugs active against 
+gram-negative and gram-positive organisms as well as against 
+Enterococcus. Local infection of a graft can be treated with an-
+tibiotics (based on culture results) and by incision/resection 
+of the infected portion. Extensive infection requires complete 
+excision/removal.
+Septicemia may occur without local signs. In such cases, 
+a technetium-labeled leukocyte scan may help reveal a graft 
+infection, but care must be taken to remove any blood-soaked 
+dressings prior to scanning, as they may lead to a falsely posi-
+tive result. Hemorrhage may occur due to rupture of an in-
+fected graft. A graft that becomes 
+ infected within 30 days of 
+placement probably should be removed.
+1. Silent infection in a thrombosed AV graft.  Old thrombosed grafts
+may become infected with few local signs, suggesting that
+perhaps such grafts should be electively removed soon
+ after they are abandoned. This can be a cause of elevated
+serum C-reactive protein levels and ESA resistance. How-
+ever, because surgical removal often requires extensive tis-
+sue dissection, this problem needs further study before a
+blanket recommendation can be made.
+ VIII. CONGESTIVE HEART FAILURE.  Congestive heart failure is unusual
+with a forearm access but may occur in patients with upper arm
+or femoral fistulas, particularly if there is coexistent heart dis-
+ease. Although long-term cardiac function is thought to be gener-
+ally unaffected by the presence of an AV access, closure of access 
+has been associated with reduction of left ventricular mass and
+improvement in left ventricular eccentric and concentric hyper -
+trophy (Movilli, 2010). Increased pulmonary arterial flow (which
+can be associated with a high-flow access) can aggravate pulmo-
+nary hypertension.
+Daugirdas9781451144291-ch008.indd   151 09/10/14   1:07 am
+Part II / Blood-Based Therapies
+152
+Some AV accesses can continue to increase their blood flow. 
+There is a higher risk of high output heart failure when the flow ex-
+ceeds 20% of the cardiac output. Upper arm access and  access flow 
+>2,000 mL/min increase such risk (Stern and  Klemmer, 2011). In 
+these cases, banding of access to reduce  access flow (Miller, 2010) 
+should be considered. Despite theoretical benefits, surgical nar -
+rowing or banding should be considered primarily when cardiac 
+studies have shown marked changes in cardiac output following 
+transient occlusion of the access. In patients with unexplained high 
+cardiac output states, one should first consider and correct any 
+anemia that may be present. Use of vasodilators such as minoxi-
+dil or hydralazine without concomitant beta-blockade is another 
+common, correctable cause of high cardiac output. 
+ Finally, volume 
+overload is common in dialysis patients and must be  considered 
+in individuals presenting with signs and symptoms of heart failure.
+IX. COMPLICATION OF PERCUTANEOUS INTERVENTIONS. The most frequent
+procedure-related complication seen in association with angio -
+plasty is vessel rupture as evidenced by contrast extravasation and/
+or bleeding. This complication is relatively infrequent (2%), and can 
+range from clinically insignificant to severe. 
+ Subclinical extravasa-
+tion of contrast at the site of angioplasty is not usually a cause for
+much concern. In mild cases of vessel rupture, there may be hema-
+toma, but the patient is asymptomatic. Larger hematomas may af-
+fect access flow, and very large hematomas can result from total or 
+near total rupture of the access vein. In such instances, insertion of
+an endovascular stent can be very helpful to stem the bleeding.
+Another complication that is associated with percutaneous 
+angioplasty is pulmonary embolism, especially during thrombec-
+tomy. Clinically significant pulmonary embolism is infrequent. 
+Distal embolization of thrombus into an artery can occur during 
+thrombectomy, and in such cases, the thrombus should be imme-
+diately removed using an embolectomy catheter.
+ X. CLINICAL OUTCOME GOALS AND MONITORING
+A. Establishment of a vascular access team and continuous quality improve-
+ment (CQI). Establishment of a vascular access team that includes 
+nephrologists, surgeons, interventionists, a vascular access co-
+ordinator, and dialysis personnel is essential to 
+ ensure good vas-
+cular access outcomes. Ideally, the vascular access team should 
+meet regularly to review data and provide a measurement of 
+performance based on established KDOQI guidelines. Data col-
+lected should include number and type of vascular accesses, in-
+fection and thrombosis rates, number and type of interventions 
+performed, and time to access failure. Centers should monitor 
+outcome results after thrombosis and set minimum goals for 
+both immediate and long-term patency. Trends should be ana-
+lyzed and feedback provided to all members of the team. This 
+approach fosters preemptive 
+ action and salvage rather than re-
+placement of AV accesses, and helps ensure a minimal need for 
+venous catheter access, and delivery of an adequate dialysis dose.
+Daugirdas9781451144291-ch008.indd   152 09/10/14   1:07 am
+Chapter 8 / Arteriovenous Vascular Access Monitoring and Complications 153
+References and Suggested Readings
+Agarwal AK, Asif A. Interventional Nephrology. Washington, DC: American Society of 
+Nephrology, NephSAP; 2009.
+Asif A, et al., eds. Textbook of Interventional Nephrology. New York, NY: McGraw Hill; 2012.
+Ayus AC, Sheikh-Hamad D. Silent infections in clotted hemodialysis access grafts. J Am 
+Soc Nephrol. 1998;9:1314–1317.
+Badr B, et al. Transonic, thermodilution, or ionic dialysance to manage vascular access: 
+which method is best? Hemodial Int. 2014;18:127–135.
+Beathard GD. A practicioner’s resource guide to physical examination of the vascular 
+access. ESRD Network of Texas; 2012. http://www.esrdnet15.org/QI/C5D.pdf.
+Besarab A, et al. Simplified measurement of intra-access pressure. ASAIO 
+J. 1996;42:M682–M687.
+Besarab A, et al. The utility of intra-access monitoring in detecting and correcting 
+venous outlet stenoses prior to thrombosis. Kidney Int. 1995;47:1364–1373.
+Besarab A, Sherman R. The relationship of recirculation to access blood flow. Am J 
+Kidney Dis. 1997;29:223–229.
+Campos RP , et al. Stenosis in hemodialysis arteriovenous fistula: evaluation and treat-
+ment. Hemodial Int. 2006;10:152–161.
+Chemla ES, et al. Complex bypasses and fistulas for difficult hemodialysis access: a 
+prospective, single-center experience. Semin Dial. 2006;19:246–250.
+Chin AI, et al. Intra-access blood flow in patients with newly created upper-
+arm  arteriovenous native fistulas for hemodialysis access. Am J Kidney Dis. 
+2004;44:850–858.
+Coca SG, Perazella MA. Use of iodinated and gadolinium-containing contrast 
+media. In: Daugirdas JT, ed. Handbook of Chronic Kidney Disease Management . 
+ Philadelphia, PA: Kluwer; 2011:363–375.
+Coentrão L, Faria B, Pestana M. Physical examination of dysfunctional arteriovenous 
+fistulae by non-interventionalists: a skill worth teaching. Nephrol Dial Transplant. 
+2012;27:1993–1996.
+Crowther MA, et al. Low-intensity warfarin is ineffective for prevention of PTFE 
+graft failure in patients on hemodialysis: a randomized controlled trial. Am J Soc 
+Nephrol. 2002;13(9):2331–2337.
+Depner TA, Krivitsky NM, MacGibbon D. Hemodialysis access recirculation measured 
+by ultrasound dilution. ASAIO J. 1995;41:M749–M753.
+Fontseré N, et al. Practical utility of on-line clearance and blood temperature moni-
+tors as noninvasive techniques to measure hemodialysis blood access flow. Blood 
+Purif. 2011;31:1–8.
+Fotiadis N, et al. Endovascular repair of symptomatic hemodialysis access graft pseu-
+doaneurysms. J Vasc Access. 2014;15:5–11.
+Gradzki R, et al. Use of ACE inhibitors is associated with prolonged survival of arterio-
+venous grafts. Am J Kidney Dis. 2001;38:1240–1244.
+Harish A, Allon M. Arteriovenous graft infection: a comparison of thigh and upper 
+extremity grafts. Clin J Am Soc Nephrol. 2011;6:1739–1743.
+Haskal ZJ, et al. Stent graft versus balloon angioplasty for failing dialysis access grafts. 
+N Engl J Med. 2010;362:494–503.
+Huijbregts HJ, Blankestijn PJ. Dialysis access—guidelines for current practice. Eur J 
+Vasc Endovasc Surg. 2006;31:284–287.
+Jiang SH, et al. Validation of the measurement of haemodialysis access flow using a 
+haemoglobin dilution test. Blood Purif. 2011;32:48–52.
+Kaufman JS, et al. Randomized controlled trial of clopidogrel plus aspirin to prevent 
+hemodialysis access graft thrombosis. J Am Soc Nephrol. 2003;14:2313–2321.
+Kopriva D, McCarville DJ, Jacob SM. Distal revascularization and interval liga-
+tion (DRIL) procedure requires a long bypass for optimal inflow. Can J Surg. 
+2014;57:112–115.
+Krivitski NM. Theory and validation of access flow measurement by dilution technique 
+during hemodialysis. Kidney Int. 1995;48:244–250.
+Kumbar L, Karim J, Besarab A. Surveillance and monitoring of dialysis access. Int J 
+Nephrol. 2012;2012:649735.
+Lok CE, et al. Reducing vascular access morbidity: a comparative trial of two vascular 
+access monitoring strategies. Nephrol Dial Transplant. 2003;18:1174–1180.
+Maya ID, et al. Vascular access stenosis: comparison of arteriovenous grafts and fistu-
+las. Am J Kidney Dis. 2004;44:859–865.
+Daugirdas9781451144291-ch008.indd   153 09/10/14   1:07 am
+Part II / Blood-Based Therapies
+154
+Miller GA, et al. The MILLER banding procedure is an effective method for treating 
+dialysis-associated steal syndrome. Kidney Int. 2010;77:359–366.
+Mohan S, et al. Effective ionic dialysance/blood flow rate ratio: an indicator of access 
+recirculation in arteriovenous fistulae. ASAIO J. 2010;56:427–433.
+Movilli E, et al. Long-term effects of arteriovenous fistula closure on echocardiographic 
+functional and structural findings in hemodialysis patients: a prospective study. 
+Am J Kidney Dis. 2010;55:682–689.
+National Kidney Foundation. K/DOQI clinical practice guidelines for vascular access: 
+update 2006. Am J Kidney Dis. 2006;48(suppl 1):S188–S306.
+Oakes DD, et al. Surgical salvage of failed radiocephalic arteriovenous fistulas: tech-
+niques and results in 29 patients. Kidney Int. 1998;53:480–487.
+Ohira S, Kon T, Imura T. Evaluation of primary failure in native AV-fistulae (early fistula 
+failure). Hemodial Int. 2006;10:173–179.
+Ortega T, et al. The timely construction of arteriovenous fistulas: a key to reducing 
+morbidity and mortality and to improving cost management. Nephrol Dial Trans-
+plant. 2005;20:598–603.
+Palmer RM, et al. Is surgical thrombectomy to salvage failed autogenous arteriovenous 
+fistulae worthwhile? Am Surg. 2006;72:1231–1233.
+Palmer SC, et al. Antiplatelet therapy to prevent hemodialysis vascular access failure: 
+systematic review and meta-analysis. Am J Kidney Dis. 2013;61:112–122.
+Paulson WD, Moist L, Lok CE. Vascular access surveillance: an ongoing controversy. 
+Kidney Int. 2012;81:132–142.
+Rayner HC, et al. Vascular access results from the Dialysis Outcomes and Practice 
+Patterns Study (DOPPS): performance against Kidney Disease Outcomes Qual-
+ity Initiative (K/DOQI) Clinical Practice guidelines. Am J Kidney Dis. 2004;44  
+(5 suppl 3):22–26.
+Roca-Tey R, et al. Five years of vascular access stenosis surveillance by blood flow 
+rate measurements during hemodialysis using the Delta-H method. J Vasc Access. 
+2012;13:321–328.
+Saran R, et al. Association between vascular access failures and the use of specific 
+drugs: the Dialysis Outcomes and Practice Patterns Study (DOPPS). Am J Kidney 
+Dis. 2002;40:1255–1263.
+Sessa C, et al. Treatment of hand ischemia following angioaccess surgery using the 
+distal revascularization interval-ligation technique with preservation of vascular 
+access: description of an 18-case series. Ann Vasc Surg. 2004;18:685–694.
+Stern AB, Klemmer PJ. High-output heart failure secondary to arteriovenous fistula. 
+Hemodial Int. 2011;15:104–107.
+Tessitore N, et al. Clinical access assessment. J Vasc Access. 2014;15(suppl 7):20–27.
+Tordoir J, et al. EBPG on vascular access. Nephrol Dial Transplant. 2007;22(suppl 2):  
+ii88–ii117.
+White JJ, et al. Paulson relation between static venous pressure (VP), hemodialysis graft 
+blood flow (Q), and stenosis: analysis by fluid mechanics model [Abstract]. J Am 
+Soc Nephrol. 2005;16:F-PO531.
+Zasuwa G, et al. Automated intravascular access pressure surveillance reduces throm-
+bosis rates. Semin Dial. 2010;23:527–535.
+Web References
+An excellent teaching guide, introduction to vascular access, with pictures of anatomy, 
+etc. http://www.fistulafirst.org/atlas/index.html.
+Information on interventional nephrology, annual meetings, credentialing, publica -
+tions, and statement papers. http://www.asdin.org.
+Daugirdas9781451144291-ch008.indd   154 09/10/14   1:07 am

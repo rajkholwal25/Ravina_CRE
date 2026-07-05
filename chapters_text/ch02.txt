@@ -1,0 +1,571 @@
+22
+2
+Once a patient has reached stage 4 chronic kidney disease (CKD), with 
+size-adjusted estimated glomerular filtration rate (eGFR/1.73 m 2) of 
+<30 mL/min, he or she should be under a nephrologist’s care. Ide-
+ally, the patient should also be a part of a multidisciplinary predialy-
+sis program that includes patient and family education, early choice 
+of appropriate renal replacement modality, and, if dialysis is being 
+considered, elective creation of dialysis access. The advantage of a 
+programmatic approach to care is a planned outpatient initiation of 
+dialysis in a patient who is both mentally and physically prepared. It 
+is likely that this approach results in fewer hospital days in the first 
+month after beginning dialysis and substantial cost savings.
+I. CHOICE OF MODALITY
+A. Patient education. Of key importance is patient education about 
+the various treatment options available in the event that 
+renal replacement therapy will become necessary. Would the 
+patient best benefit from some form of dialysis, from preemp-
+tive transplantation, or from continued conservative manage-
+ment? In some cases, due to extreme patient debility or other 
+reasons, dialysis may not be an appropriate option, and con-
+servative management may be the best choice. These discus-
+sions are best initiated once a patient is still in stage 4 CKD, 
+and well before stage 5 has been reached.
+B. Options for renal replacement therapy (Table 2.1)
+1. Preemptive transplantation.  Transplantation offers survival
+superior to the standard forms of dialysis being offered
+today. Transplantation may not be indicated, however,
+for a patient who has severe problems with compliance in
+terms of medications. Preemptive transplantation has a
+higher success rate in general than when transplantation
+is initiated after hemodialysis (Kallab, 2010), and for this
+reason, discussions about the feasibility of transplantation
+and transplantation workup should begin well in advance
+of any need for dialysis, usually when eGFR/1.73 m
+2 is still
+well above 10 mL/min (Kupin, 2011).
+Management of 
+CKD Stages 4 and 5: 
+Preparation for 
+Transplantation, Dialysis, 
+or Conservative Care
+Ajay Singh and Jameela Kari
+Daugirdas9781451144291-ch002.indd   22 09/10/14   1:01 am
+23Chapter 2 / Management of CKD Stages 4 and 5
+Modality Description Advantages Disadvantages
+Preemptive 
+transplantation
+Live or cadaver 
+donor transplant 
+before ever 
+needing dialysis
+Improved patient 
+survival relative to 
+conventional dialysis; 
+lower long-term costs.
+Logistics of 
+finding a suitable 
+donor; need for 
+compliance with 
+immunosuppressive 
+drugs.
+Home 
+hemodialysis
+3–6 times per 
+week, either 
+during the day 
+or at night. 
+Usually assisted 
+by a relative 
+or caregiver; 
+uncommonly, 
+by a paid 
+health-care 
+professional
+When given more than 
+3 times per week, or 
+when given as 8–10-hour 
+treatments, 3–3.5 nights 
+per week, evidence 
+suggests better quality-
+of-life and better control 
+of phosphate and blood 
+pressure; may also 
+reduce left ventricular 
+hypertrophy
+Home is changed 
+into a hospital; 
+partner burnout; 
+with some 
+home therapies, 
+modification 
+to home water 
+systems is required; 
+waste disposal; 
+expense
+Home PD Automated 
+cycler, with most 
+exchanges done 
+during the night
+Independence, relative 
+simplicity
+Need for delivery 
+of large volumes of 
+PD fluid; exposure 
+to high amounts of 
+glucose
+In-center 
+nocturnal 
+hemodialysis
+Three 7–9-
+hour nocturnal 
+treatments 
+per week (or 
+uncommonly, 
+every other 
+night) given in-
+center (either 
+staff assisted or 
+self-care)
+Marked increase in 
+weekly dialysis time 
+with better control 
+of phosphate, blood 
+pressure, and anemia. 
+Home does not need 
+to be converted into 
+a clinic. Dialysis time 
+spent sleeping
+Leaving home 
+unattended on 
+dialysis nights; 
+travel to unit; 
+relatively inflexible 
+schedule
+In-center 
+conventional 
+hemodialysis
+Either staff 
+assisted (the 
+norm) or 
+self-care
+Short amount of time 
+spent on dialysis. Staff 
+does all the work
+Travel to unit; 
+relatively inflexible 
+schedule. May be 
+inadequate amount 
+of dialysis
+Postponing 
+dialysis
+Very-low-
+protein diet plus 
+ketoanalogues, 
+careful fluid 
+management
+May work to postpone 
+dialysis for about 1 year 
+in elderly patients with 
+few comorbidities (no 
+heart failure, diabetes)
+Expense of 
+ketoanalogues
+Treatment Options in Patients Who Need Renal  
+Replacement Therapy2.1
+TABLE
+Daugirdas9781451144291-ch002.indd   23 09/10/14   1:01 am
+Part I / Chronic Kidney Disease Management
+24
+2. Dialysis: Home versus in-center therapy.  Among the end-stage
+renal disease (ESRD) therapies, the choices made will de-
+pend on what is available in the local community. One of
+the main decisions to be made is whether the patient will
+be coming in to a clinic for regular dialysis (hemodialysis
+in this case), or whether he or she would prefer the inde-
+pendence of dialyzing at home, using either a home he-
+modialysis system or peritoneal dialysis (PD). Obviously
+transportation issues are very important here, as is the
+status of a patient’s home, the amount of support avail-
+able through interested family members who might assist
+as caregivers, and technical issues such as available water
+quality and electricity.
+In observational studies, mortality rates are lower in 
+home hemodialysis patients than in in-center hemodi -
+alysis patients, sometimes dramatically so, even after ad -
+justments for common comorbidities and at similar total 
+weekly dialysis times. Some of this home dialysis advantage 
+may be due to unaccounted for patient selection bias, as 
+patients undertaking the responsibility to dialyze at home 
+usually have a strong positive attitude, good compliance, 
+and strong caregiver and/or family support structure, fac-
+tors which are associated in their own right with increased 
+survival. Mortality rates for in-center hemodialysis are sim-
+ilar to those for home PD, so the selection of home versus 
+in-center modality should be based primarily on patient 
+preferences versus any anticipated survival benefit.
+3. “Short daily” hemodialysis. Normally, whether done at home or 
+in-center, hemodialysis therapy is offered 3 times per week,
+usually 3–5 hours per session. When the same amount of
+dialysis time is broken up into five or six sessions per week,
+some observational studies have shown better control of
+blood pressure, better nutrition (weight gain, increased
+appetite and albumin), and better control of anemia. In
+the only moderate-sized randomized trial that has been
+Modality Description Advantages Disadvantages
+Palliative care Conservative 
+management 
+without dialysis
+Good for those patients 
+for whom dialysis is not 
+expected to prolong life 
+to a significant extent or 
+in whom overwhelming 
+comorbidities are 
+present
+Potentially reduced 
+life expectancy
+Modified from Tattersall JE, Daugirdas JT. Preparing for dialysis. In: Daugirdas JT, ed. Handbook 
+of Chronic Kidney Disease Management. Philadelphia, PA: Wolters Kluwer Health, Lippincott 
+ Williams & Wilkins, 2011:511–523.
+2.1
+TABLE Treatment Options in Patients Who Need Renal  
+Replacement Therapy (continued)
+Daugirdas9781451144291-ch002.indd   24 09/10/14   1:01 am
+25Chapter 2 / Management of CKD Stages 4 and 5
+done, the FHN trial, where patients were randomized to 
+get 6 treatments per week but in fact averaged only 5, those 
+assigned to more frequent dialysis for 1 year were found to 
+have reduction in left ventricular hypertrophy, improved 
+physical functioning (those were the two primary outcomes 
+of the FHN trial), a reduced severity of hypertension, and 
+marginally improved control of serum phosphorus. There 
+was no improvement in serum albumin, nutritional mea -
+surements, or control of anemia (FHN Trial Group, 2010). 
+The details of various “short daily” hemodialysis regimens 
+are discussed in Chapter 16. Usually frequent hemodialysis 
+is done at home and is only rarely offered in-center or in self-
+care units. “Short daily” hemodialysis is gaining in popular-
+ity, especially with the availability of easy-to-use machines 
+dedicated to delivering such therapy in the home setting.
+4. Long nocturnal hemodialysis. With “short daily” hemodialysis,
+the number of hours spent per week on dialysis is usually
+similar to, or only slightly greater than, the weekly time
+spent on conventional 3 per week in-center dialysis. With
+nocturnal dialysis, substantially longer weekly dialysis
+times are the norm, because each session typically lasts
+for 7–9 hours. When nocturnal dialysis is given in-center,
+the usual frequency is 3 times per week, and the weekly di-
+alysis time will be 24 hours per week compared to the usual 
+12 hours per week with conventional schedules. When ap -
+plied at home, nocturnal dialysis can be given 3 times per
+week, every other night, or even 5 to 6 times per week, re-
+sulting in markedly more hours per week of treatment than 
+conventional therapy. Long nocturnal dialysis is discussed
+in more detail in Chapter 16.
+5. Peritoneal dialysis. Due to its simplicity, PD offers patients a
+home-based therapy with very little requirement for special 
+water systems and simple equipment setup time. The per -
+centage of patients choosing PD over hemodialysis is about 
+12% in the United States and 20%–30% in Canada. There
+are two types of PD for a patient to consider: continuous
+ambulatory peritoneal dialysis (CAPD), where a patient
+performs manual exchanges 4 or 5 times per day, and auto-
+mated peritoneal dialysis (APD), where a patient hooks up
+to a machine at night and exchanges are carried out auto-
+matically while the patient sleeps. The relative benefits of
+each type of PD are discussed more fully in the PD chapters 
+of this handbook.
+Patients for whom PD is often favored include:
+1. Infants or very young children
+2. Patients with severe cardiovascular disease
+3. Patients with difficult vascular access (e.g., diabetic
+patients)
+4. Patients who desire greater freedom to travel
+5. Patients who wish to perform home dialysis but do not
+have a suitable partner to assist them
+Daugirdas9781451144291-ch002.indd   25 09/10/14   1:01 am
+Part I / Chronic Kidney Disease Management
+26
+Contraindications include an unsuitable peritoneum 
+due to the presence of adhesions, fibrosis, or malignancy. 
+Also, a substantial number of patients experience an in-
+crease in their peritoneal membrane transport rate over 
+time, resulting in inadequate ultrafiltration. Diabetic 
+ patients tend to have a higher mortality when placed on PD 
+versus hemodialysis, although in recent years this trend ap-
+pears to have attenuated. A major cause of abandonment 
+of PD is the occurrence of frequent episodes of peritonitis. 
+Patient burnout is also a factor.
+PD is less expensive than hemodialysis, particularly in 
+developing countries. Also, it allows patients independence 
+and freedom to travel and does not constrain patients to 
+a fixed in-center hemodialysis schedule, although a more 
+flexible schedule is also possible with home hemodialysis. 
+PD may not be the best option for patients who do not have 
+a “do-it-yourself ” mentality or who do not have the stability 
+or social and family support at home to carry out a PD pro-
+gram. Some patients simply prefer a hemodialysis sched -
+ule of three or more well-defined periods per week during 
+which they can get their dialysis “over with, ” leaving them 
+free of any other dialysis responsibility. Some patients also 
+enjoy the socialization that occurs in many hemodialysis 
+units, and enjoy the regular personal interaction with staff 
+and other patients.
+There have been a number of improvements in PD 
+over the past several years, including better disconnect 
+systems, resulting in decreased peritonitis rates. Also, with 
+use of APD, there can be improved clearances. New PD so-
+lutions have become available, including glucose-based 
+solutions with decreased amounts of glucose degradation 
+products, as well as solutions using amino acids or icodex -
+trin as the osmotic agent.
+6. Postponing dialysis. In some patients, particularly the elderly, 
+who do not have marked problems with fluid overload, the 
+need for dialysis can be postponed by prescribing a very-
+low-protein diet supplemented with ketoacids (Brunori,
+2007). In carefully selected elderly patients assigned to this 
+strategy, the need for dialysis was postponed on average by 
+1 year.
+7. The option not to dialyze: Palliative care.  There are no absolute
+contraindications to dialysis therapy. In some states, le -
+gal precedent exists guaranteeing dialysis to anyone who
+desires it despite the severity of other medical problems.
+When a patient is unable to voice his or her own thoughts
+and when the family has divided opinions about the desir -
+ability of initiation of life support by dialysis, the hospital
+ethics committee may be of assistance.
+The U.S. Renal Physicians Association has issued a 
+clinical practice guideline for stopping or never beginning 
+dialysis in certain patients (Renal Physicians Association, 
+Daugirdas9781451144291-ch002.indd   26 09/10/14   1:01 am
+27Chapter 2 / Management of CKD Stages 4 and 5
+2010), which consists of 10 recommendations for adult pa-
+tients and 9 for pediatric patients. The guidelines emphasize 
+shared decision making, informed consent or refusal, esti-
+mating prognosis, and a time-limited trial of dialysis where 
+indicated. The adult recommendations are summarized in 
+Table 2.2. Patients with advanced disease in an organ sys-
+tem other than the kidneys, or those with malignancy, have 
+sometimes been excluded from chronic dialysis. For exam-
+ple, those with advanced liver disease might have ascites, 
+encephalopathy, bleeding diathesis, and hypotension. These 
+concomitant problems may make access difficult, and the 
+dialysis treatments may create too much hypotension or fail 
+to correct the accompanying fluid overload. In some such 
+patients, dialysis may be futile. Futility is an ethical principle 
+on which one can make a reasonable decision not to initiate 
+dialysis. On the other hand, some such patients may achieve 
+good quality-of-life and “remission” of failure of other af-
+fected organ systems with the fluid removal, electrolyte bal-
+ance, and improved nutrition provided by multidisciplinary 
+ESRD management.
+C. Elderly patients and dialysis. In the United States and elsewhere, 
+the fastest growing age group presenting for dialysis is the 
+“oldest old” (patients older than 80 years). Access placement 
+in this group is not particularly difficult, and cuffed venous 
+Shared Decision Making in the Appropriate Initiation of and Withdrawal  
+from Dialysis
+1. Develop a physician–patient relationship for shared decision making
+2. Fully inform acute kidney injury (AKI), stages 4 and 5 CKD, and ESKD patients 
+about their diagnosis, prognosis, and all treatment options
+3. Give all patients with AKI, stage 5 CKD, or ESKD an estimate of prognosis 
+specific to their overall condition
+4. Institute advance care planning
+5. If appropriate, forgo (withhold initiating or withdraw ongoing) dialysis for 
+patients with AKI, CKD, or ESKD in certain, well-defined situations
+6. Consider forgoing dialysis for AKI, CKD, or ESKD patients who have a very poor 
+prognosis or for whom dialysis cannot be provided safely
+7. Consider a time-limited trial of dialysis for patients requiring dialysis, but who 
+have an uncertain prognosis, or for whom a consensus cannot be reached 
+about providing dialysis
+8. Establish a systematic due process approach for conflict resolution if there is 
+disagreement about what decision should be made with regard to dialysis
+9. To improve patient-centered outcomes, offer palliative care services and 
+interventions to all AKI, CKD, and ESKD patients who suffer from burdens of 
+their disease
+10.
+ Use a systematic approach to communicate about diagnosis, prognosis, 
+treatment options, and goals of care
+Renal Physicians Association Clinical Practice Guidelines 
+(for Adult Patients)2.2
+TABLE
+Daugirdas9781451144291-ch002.indd   27 09/10/14   1:01 am
+Part I / Chronic Kidney Disease Management
+28
+catheters have been used with success in difficult cases. Time 
+constraints are not a problem, and these individuals often ar -
+rive eager for their treatments. Transportation often is available 
+from assisted-living providers, retirement community staff, or 
+municipal programs. A high rate of compliance with all aspects 
+of treatment often offsets a higher prevalence of comorbid (car-
+diac, vascular, malignancies) conditions in achieving a good 
+outcome. As a result, many elderly patients placed on dialysis 
+continue to enjoy a good quality-of-life and benefit from docu-
+mented improvement in a variety of health outcome measures.
+D. Adolescents on dialysis. T here may be significant problems af -
+fecting adolescents on hemodialysis or PD. Issues include de-
+pression and frustration with medical orders, interpersonal 
+conflicts with family members, poor attendance at school due 
+to frequent hospital admissions, and peer pressure because of 
+inability to participate in school sports. This may manifest as 
+a flat affect (limited social interactions and evasion of com-
+munication) and nonadherence to medications, diet, and 
+missed clinic visits. Psychological support and social worker 
+input are key.
+ II. DIAL YSIS ACCESS PLACEMENT ISSUES . F or hemodialysis, the pre-
+ferred access is an arteriovenous (AV) fistula. It is important that 
+for all patients for whom renal replacement therapy is antici -
+pated, the veins in both arms should be preserved to the greatest 
+extent possible. All venipunctures should be drawn from the back 
+of the hand where possible. The use of PICC (percutaneous in-
+travenous central catheter) lines should be avoided to the great -
+est extent possible, as these often result in future access outflow 
+problems. Because some patients have veins that are fragile, cre-
+ating an access early is important; i.e., 6–9 months before antici-
+pated initiation of dialysis. A lead time of at least 6 months prior 
+to anticipated dialysis may allow correction of suboptimal flow or 
+placement of a second fistula in the event that the initial fistula 
+does not function properly. Vascular access issues are discussed 
+in detail in several chapters of this handbook.
+For PD, a peritoneal catheter should be in place at least 
+2 weeks prior to the anticipated start of dialysis. In the past, an 
+AV fistula was recommended as a fallback option for patients 
+who choose PD. This is no longer recommended but is practiced 
+in some centers. In situations where urgent start of dialysis is 
+needed, a recent trend is to place a peritoneal catheter, which 
+then allows initial control of uremia by PD, and buys time for sub-
+sequent placement of an AV fistula.
+ III. WHEN TO INITIATE DIALYSIS
+A. Uremic syndrome. T he uremic syndrome consists of symptoms 
+and signs that result from toxic effects of elevated levels of ni-
+trogenous and other wastes in the blood.
+1. Symptoms. U remic patients commonly become nauseated 
+and often vomit soon after awakening. They may lose their 
+Daugirdas9781451144291-ch002.indd   28 09/10/14   1:01 am
+29Chapter 2 / Management of CKD Stages 4 and 5
+appetite such that the mere thought of eating makes them 
+feel ill. They often feel fatigued, weak, and/or cold. Their 
+mental status is altered; at first, only subtle changes in per-
+sonality may appear, but eventually, the patients become 
+confused and, ultimately, comatose.
+2. Signs. Signs of uremia in the modern age are less com-
+mon, because patients now come to medical attention at
+a relatively early stage of uremia. Nevertheless, sometimes
+uremic patients presenting with a pericardial friction rub
+or evidence of pericardial effusion with or without tam-
+ponade may reflect uremic pericarditis, a condition that
+urgently requires dialysis treatment. Foot- or wrist-drop
+may be evidence of uremic motor neuropathy, a condition
+that also responds to dialysis. Tremor, asterixis, multifocal
+myoclonus, or seizures are signs of uremic encephalopa-
+thy. Prolongation of the bleeding time occurs and can be a
+problem in the patient requiring surgery.
+3. Signs and symptoms: Uremia versus anemia. Several of the symp-
+toms and signs previously ascribed exclusively to uremia
+may be partially due to the associated anemia. When the
+anemia of anemic CKD patients is improved with erythro -
+poietin, they often experience a marked decrease in fatigue 
+and a concomitant increase in sense of well-being and ex -
+ercise tolerance. The bleeding time may also improve, and
+there may be improvement in angina pectoris. There are
+improvements in cognitive function as well.
+4. Relationship between uremic syndrome and eGFR.  The uremic
+syndrome commonly develops when the eGFR/1.73 m 2
+falls below 8–10 mL/min. However, based on the results of
+a randomized controlled trial, the so-called “IDEAL” study
+(Cooper, 2010), a planned earlier start of dialysis (either
+hemodialysis or PD) was associated with increased costs
+but was not associated with improved quality-of-life or
+survival. In the “IDEAL” trial, the average eGFR/1.73 m
+2
+estimated by the MDRD equation in the “early start” group
+was 9.0 mL/min versus 7.2 mL/min in the “late start” group. 
+There were frequent crossovers in the “late start” group, as
+the intention was to wait for a lower eGFR to begin dialysis.
+The results of this trial underscore that, when eGFR/1.73 m
+2
+is around 7 mL/min, symptoms attributable to uremia or
+fluid overload are not uncommon and such patients are
+typically deemed to need dialysis by their care providers.
+B. Indications for dialysis in the chronic setting. Usually dialysis is ini-
+tiated in adult patients when the eGFR/1.73 m 2 decreases to 
+about 8 mL/min. However, evaluation of the need for dialysis 
+should begin at a higher eGFR/1.73 m
+2 level, probably around 
+10–12 mL/min, and sometimes higher. Patients with heart 
+failure and borderline eGFRs may have trouble with refractory 
+fluid retention and may require earlier initiation of dialysis. 
+Conditions that may argue for relatively early initiation of di -
+alysis are listed in Table 2.3.
+Daugirdas9781451144291-ch002.indd   29 09/10/14   1:01 am
+Part I / Chronic Kidney Disease Management
+30
+It should be noted that pericarditis or pleuritis without 
+other cause is an indication for urgent dialysis, particularly 
+pericarditis, where the risk of rapidly developing pericardial 
+effusion and cardiac tamponade is present. Neurologic dys-
+function, especially signs of encephalopathy (manifested by 
+asterixis) or uremic neuropathy, is also cause for prompt dialy-
+sis, as is prolongation of the bleeding time, which could lead to 
+gastrointestinal or other bleeding. Most of these urgent indica-
+tions are found in patients who appear with acute on chronic 
+renal failure. Additional issues pertaining to acute dialysis are 
+discussed in Chapters 10 and 24.
+References and Suggested Readings
+Brunori G, et al. Efficacy and safety of a very-low-protein diet when postponing dialysis 
+in the elderly: a prospective randomized multicenter controlled study. Am J Kidney 
+Dis. 2007;49:569–580.
+Cooper BA, et al. IDEAL Study: a randomized, controlled trial of early versus late initia-
+tion of dialysis. N Engl J Med. 2010;363:609–619.
+Devine PA, Aisling EC. Renal replacement therapy should be tailored to the patient. 
+Practitioner. 2014;258:19–22.
+FHN Trial Group. In-center hemodialysis six times per week versus three times per 
+week. N Engl J Med. 2010;363:2287–2300.
+Hussain J, Flemming K, Johnson M. “It’s a lot easier to say yes than no”—decision mak-
+ing in end stage kidney disease. BMJ Support Palliat Care. 2014;4(suppl 1):A3.
+Iyasere O, Brown EA. Determinants of quality of life in advanced kidney disease: time 
+to screen? Postgrad Med J. 2014;90:340–347.
+Kallab S, et al. Indications for and barriers to preemptive kidney transplantation: a 
+review. Transplant Proc. 2010;42:782–784.
+Kupin WR. Pre-emptive kidney transplantation. In: Daugirdas JT, ed. Handbook of 
+Chronic Kidney Disease Management. Philadelphia, PA: Wolters Kluwer Health, 
+Lippincott Williams & Wilkins; 2011:511–523.
+Lo WK, et al. Preparing patients for peritoneal dialysis. Perit Dial Int.  2008; 
+28(suppl 3):S69–S71.
+Intractable extracellular volume overload and/or hypertension
+Hyperkalemia refractory to dietary restriction and pharmacologic treatment
+Metabolic acidosis refractory to bicarbonate treatment
+Hyperphosphatemia refractory to dietary counseling and to treatment with 
+phosphorus binders
+Anemia refractory to erythropoietin and iron treatment
+Otherwise unexplained decline in functioning or well-being
+Recent weight loss or deterioration of nutritional status, especially if accompanied 
+by nausea, vomiting, or other evidence of gastroduodenitis
+Urgent Indications
+Neurologic dysfunction (e.g., neuropathy, encephalopathy, psychiatric 
+disturbance)
+Pleuritis or pericarditis without other explanation
+Bleeding diathesis manifested by prolonged bleeding time
+aModified from the National Kidney Foundation’s 2006 Kidney Disease Outcomes Quality Initiative 
+(KDOQI) hemodialysis adequacy guidelines.
+Complications That May Prompt Initiation of Kidney 
+ Replacement Therapya
+2.3
+TABLE
+Daugirdas9781451144291-ch002.indd   30 09/10/14   1:01 am
+31Chapter 2 / Management of CKD Stages 4 and 5
+Low J, et al. The experiences of close persons caring for people with chronic kidney 
+disease stage 5 on conservative kidney management: contested discourses of age-
+ing. Health (London). 2014.
+Luckett T, et al. Advance care planning for adults with CKD: a systematic integrative 
+review. Am J Kidney Dis. 2014;63(5):761–770.
+Mehrotra R, et al. Patient education and access of ESRD patients to renal replacement 
+therapies beyond in-center hemodialysis. Kidney Int. 2005;68:378–390.
+Renal Physicians Association. Shared Decision Making in the Appropriate Imita-
+tion of and Withdrawal from Dialysis. 2nd ed. Rockville, MD: Renal Physicians 
+ Association; 2010.
+Shih YC, et al. Impact of initial dialysis modality and modality switches on Medicare 
+expenditures of end-stage renal disease patients. Kidney Int. 2005;68:319–329.
+Song MK, et al. Randomized controlled trial of SPIRIT: an effective approach to prepar-
+ing African-American dialysis patients and families for end of life. Res Nurs Health. 
+2009;32:260–273.
+Traynor JP , et al. Early initiation of dialysis fails to prolong survival in patients with 
+end-stage renal failure. J Am Soc Nephrol. 2002;13:2125–2132.
+Daugirdas9781451144291-ch002.indd   31 09/10/14   1:01 am
+Daugirdas9781451144291-ch002.indd   32 09/10/14   1:01 am
+PART II
+BLOOD-BASED 
+THERAPIES
+Daugirdas9781451144291-ch003.indd   33 11/10/14   3:02 pm

@@ -1,0 +1,665 @@
+{
+"chapter": 15,
+"questions": [
+{
+"topic": "CRRT nomenclature",
+"question": "In modern practice, why has the 'VV' designation (as in CVVHD) become largely superfluous when abbreviating continuous therapies?",
+"options": {
+"A": "Most treatments are now given using a venous catheter-based access",
+"B": "Arteriovenous access now delivers higher blood flows",
+"C": "Diffusion has replaced convection as the dominant mechanism",
+"D": "The therapies are no longer used in intensive care units"
+},
+"correct": "A",
+"explanation": "Historically 'AV' or 'VV' was inserted after the 'C' to mark arteriovenous or venovenous access (CVVHD vs CAVHD). Today almost all continuous treatments are delivered through a venous catheter-based access, so specifying 'VV' is redundant and hemodialysis is simply written C-HD. B is wrong because AV access tends to deliver lower, not higher, blood flows and is rarely used now; C is wrong because diffusion vs convection defines HD vs HF, not the access letters; D is wrong because these therapies remain standard ICU care. The abbreviation change reflects access practice, not technique."
+},
+{
+"topic": "SCUF definition",
+"question": "Which continuous therapy uses a circuit similar to hemodialysis but employs neither dialysis solution nor replacement fluid?",
+"options": {
+"A": "Continuous hemofiltration (C-HF)",
+"B": "Slow continuous ultrafiltration (SCUF)",
+"C": "Continuous hemodiafiltration (C-HDF)",
+"D": "Sustained low-efficiency dialysis (SLED)"
+},
+"correct": "B",
+"explanation": "In slow continuous ultrafiltration (SCUF) the setup resembles C-HD and C-HF, but neither dialysis solution nor replacement fluid is used, so the only fluid crossing the membrane is the small daily ultrafiltrate (about 3-6 L/day, similar to C-HD). A is wrong because C-HF infuses a large 25-50 L/day of replacement fluid; C is wrong because C-HDF uses both dialysate and replacement fluid; D is wrong because SLED is dialysis-based and uses dialysate flow. SCUF is chosen mainly for pure fluid removal when solute and acid-base control are not the goal."
+},
+{
+"topic": "C-HD mechanism",
+"question": "In continuous hemodialysis (C-HD), what is the primary method by which solute is removed?",
+"options": {
+"A": "Convection",
+"B": "Adsorption",
+"C": "Diffusion",
+"D": "Osmosis"
+},
+"correct": "C",
+"explanation": "In C-HD, dialysis solution is passed slowly and continuously through the dialysate compartment, and diffusion down a concentration gradient is the primary method of solute removal; only about 3-6 L/day is ultrafiltered, limited to excess fluid. A is wrong because convection is the mechanism of C-HF; B is wrong because adsorption is only a minor membrane effect; D is wrong because osmosis is not how solutes are cleared here. Because outflow dialysate is nearly 100% saturated at these slow flows, urea clearance can be estimated simply from the effluent volume."
+},
+{
+"topic": "C-HF mechanism",
+"question": "Continuous hemofiltration (C-HF) removes solutes primarily by which mechanism?",
+"options": {
+"A": "Diffusion across a concentration gradient",
+"B": "Countercurrent dialysate flow",
+"C": "Membrane adsorption of small solutes",
+"D": "Convection as plasma water is filtered across the membrane"
+},
+"correct": "D",
+"explanation": "C-HF is a purely convection-based technique: a transmembrane pressure gradient drives plasma water across the highly permeable membrane, sweeping along non-protein-bound small and large molecules (pore size permitting). A and B describe C-HD (diffusion, countercurrent dialysate); C, adsorption, is not the primary mechanism. Replacement fluid of about 20-25 mL/kg/hour is infused, and the drainage fluid is nearly 100% saturated with urea in postdilution mode. Because convective removal of small and large solutes is similar, C-HF clears middle molecules better than C-HD."
+},
+{
+"topic": "C-HDF definition",
+"question": "Continuous hemodiafiltration (C-HDF) is best described as which of the following?",
+"options": {
+"A": "A combination of C-HD and C-HF using both dialysis solution and replacement fluid",
+"B": "Hemofiltration performed without any replacement fluid",
+"C": "Ultrafiltration limited to excess fluid only",
+"D": "Dialysis performed using an arterial access only"
+},
+"correct": "A",
+"explanation": "C-HDF is simply a combination of C-HD and C-HF: dialysis solution flows through the dialysate compartment AND replacement fluid is infused into the inflow or outflow blood line, so both diffusion and convection contribute. B is wrong because omitting replacement fluid would make it plain C-HD; C is wrong because ultrafiltration limited to excess fluid describes SCUF; D is wrong because access type does not define the modality. Usually the replacement-fluid volume in C-HDF is about half that of C-HF, yet total effluent volume is similar."
+},
+{
+"topic": "C-HF replacement fluid",
+"question": "In continuous hemofiltration, the large volume of replacement fluid (about 25-50 L/day) is infused into which location?",
+"options": {
+"A": "The dialysate compartment of the filter",
+"B": "Either the inflow (predilution) or outflow (postdilution) blood line",
+"C": "The peritoneal cavity",
+"D": "Directly into the effluent drainage line"
+},
+"correct": "B",
+"explanation": "In C-HF the large 25-50 L/day of replacement fluid is infused into either the inflow (predilution) or the outflow (postdilution) blood line, and the volume ultrafiltered equals replacement fluid plus excess fluid removed. A is wrong because that fluid is dialysis solution, not the replacement infusate; C is wrong because CRRT is a blood-based, not peritoneal, therapy; D is wrong because fluid is added to blood lines, not the effluent drainage. Predilution lowers filtration fraction and viscosity but slightly dilutes solute; postdilution gives near-100% urea saturation."
+},
+{
+"topic": "SLED characteristics",
+"question": "Sustained low-efficiency dialysis (SLED) is best characterized by which combination of features?",
+"options": {
+"A": "Short 3-hour sessions with very high blood and dialysate flows",
+"B": "Continuous 24-hour treatment using only convection",
+"C": "Extended 6- to 10-hour sessions with reduced blood and dialysate flow rates",
+"D": "Ultrafiltration alone without any dialysate"
+},
+"correct": "C",
+"explanation": "SLED is a form of IHD using an extended 6- to 10-hour session with reduced blood flow (about 200 mL/min) and dialysate flow (100-300 mL/min), letting a regular HD machine run overnight and trained HD nurses deliver it. A is wrong because short high-flow 3-hour sessions describe conventional IHD; B is wrong because 24-hour convection-only is C-HF; D is wrong because ultrafiltration alone is SCUF. SLED lets units lacking CRRT equipment or staff still offer a therapy expected to achieve benefits similar to CRRT."
+},
+{
+"topic": "PIRRT grouping",
+"question": "SLED and SLED-F are collectively grouped under which category of therapy?",
+"options": {
+"A": "Continuous renal replacement therapy (CRRT)",
+"B": "Isolated ultrafiltration (IU)",
+"C": "Peritoneal dialysis",
+"D": "Prolonged intermittent renal replacement therapy (PIRRT)"
+},
+"correct": "D",
+"explanation": "SLED and SLED-F are collectively grouped as prolonged intermittent renal replacement therapy (PIRRT), sitting between conventional IHD and true continuous CRRT. A is wrong because CRRT is continuous (>24 h); B is wrong because isolated ultrafiltration is a separate fluid-removal technique; C is wrong because peritoneal dialysis is not extracorporeal. KDIGO notes PIRRT such as SLED may be as useful as CRRT for hemodynamically unstable patients, with considerable cost savings, though outcome trials comparing them are sparse."
+},
+{
+"topic": "SLED-F requirement",
+"question": "What additional requirement distinguishes SLED-F from SLED?",
+"options": {
+"A": "Infusion of replacement fluid (unless made online from dialysis solution)",
+"B": "Use of arteriovenous access",
+"C": "Continuous citrate anticoagulation",
+"D": "A session length exceeding 24 hours"
+},
+"correct": "A",
+"explanation": "SLED-F differs from SLED by requiring an additional infusion of replacement fluid, unless the dialysis machine can generate replacement fluid online from dialysis solution (Marshall, 2004). B is wrong because both SLED and SLED-F use venovenous access, not AV; C is wrong because citrate anticoagulation is not what distinguishes SLED-F; D is wrong because SLED sessions are 6-10 hours, not continuous beyond 24 hours. Adding the convective replacement fluid enhances middle-molecule clearance over diffusion-only SLED."
+},
+{
+"topic": "Effluent saturation",
+"question": "In SCUF and C-HF, what is the approximate effluent (drainage fluid) saturation with small solutes?",
+"options": {
+"A": "15-40%",
+"B": "About 100%",
+"C": "60-70%",
+"D": "Less than 10%"
+},
+"correct": "B",
+"explanation": "Per Table 15.1, SCUF and C-HF produce effluent that is about 100% saturated with small solutes, and C-HD/C-HDF are 85-100%. A (15-40%) describes conventional IHD, where high dialysate flows leave outflow far from equilibrated; C (60-70%) describes SLED; D (<10%) is not a listed value. The high effluent saturation of slow therapies is why urea clearance can be estimated directly from effluent volume, and why convective C-HF removes middle molecules as efficiently as small ones."
+},
+{
+"topic": "CRRT vs IHD outcomes",
+"question": "What does the evidence from randomized trials show regarding CRRT versus IHD survival in acute renal failure?",
+"options": {
+"A": "CRRT clearly improves survival over IHD",
+"B": "IHD improves survival over CRRT in all patients",
+"C": "No trial evidence shows a CRRT survival advantage over IHD",
+"D": "Survival is identical only in hemodynamically stable patients"
+},
+"correct": "C",
+"explanation": "Despite the seemingly obvious advantages of slow therapies, no evidence from several randomized trials shows that CRRT offers a survival advantage over IHD in acute renal failure (Rabindranath, 2007). A and B overstate a benefit for either modality that trials do not support; D is wrong because the trials did not show survival identical only in stable patients. An important caveat is that most trials excluded the sickest patients from conventional IHD, which is why KDIGO still suggests CRRT for hemodynamically unstable patients."
+},
+{
+"topic": "KDIGO indications",
+"question": "For which patient group do the 2012 KDIGO AKI guidelines suggest using CRRT rather than standard intermittent therapy?",
+"options": {
+"A": "All patients regardless of hemodynamic status",
+"B": "Only patients with chronic kidney disease",
+"C": "Patients with mild, stable azotemia",
+"D": "Hemodynamically unstable patients and those with acute brain injury"
+},
+"correct": "D",
+"explanation": "The 2012 KDIGO AKI guidelines suggest (level 2B) using CRRT rather than standard IRRT for hemodynamically unstable patients, and also for AKI patients with acute brain injury, raised intracranial pressure, or generalized brain edema. A is wrong because the suggestion is targeted, not for all patients; B is wrong because these are AKI, not chronic CKD, recommendations; C is wrong because mild, stable azotemia does not favor CRRT. The guidelines add that prolonged IRRT such as SLED may serve unstable patients as well as CRRT."
+},
+{
+"topic": "Advantages of CRRT",
+"question": "Which is a stated potential advantage of slow continuous therapies over standard IHD?",
+"options": {
+"A": "Hemodynamic tolerability with smaller change in plasma osmolality",
+"B": "Larger swings in plasma osmolality",
+"C": "Greater increase in intracranial pressure",
+"D": "Inability to accommodate parenteral nutrition"
+},
+"correct": "A",
+"explanation": "A stated advantage of slow continuous therapies is that they are hemodynamically well tolerated with a smaller change in plasma osmolality, and they have less effect on intracranial pressure. B, C, and D invert real advantages: slow therapies produce smaller osmolality swings, less ICP rise, and actually facilitate parenteral nutrition and obligatory IV medications by creating unlimited 'space' through continuous ultrafiltration. They are also highly effective at removing fluid in postsurgical, pulmonary edema, and ARDS settings."
+},
+{
+"topic": "C-HD BFR rule",
+"question": "As a rule of thumb in C-HD, the blood flow rate should be at least what multiple of the dialysate flow rate?",
+"options": {
+"A": "Equal to the dialysate flow rate",
+"B": "At least three times",
+"C": "At least two times",
+"D": "At least ten times"
+},
+"correct": "B",
+"explanation": "As a rule of thumb in C-HD, blood flow rate should be at least three times the dialysate flow rate. At this slow BFR and high blood-to-dialysate ratio the outflow dialysate becomes almost 100% saturated with urea and other small solutes, so urea clearance can be estimated simply from effluent volume. Equal (A) or merely double (C) flow would leave dialysate under-saturated and waste clearance; ten times (D) is unnecessary. Typical values are a BFR of 150-200 mL/min with a dialysate flow of about 25-30 mL/min."
+},
+{
+"topic": "Standard dialysate rate",
+"question": "The standard dialysis solution inflow rate for CRRT is now approximately which value?",
+"options": {
+"A": "5-10 mL/kg per hour",
+"B": "50-60 mL/kg per hour",
+"C": "20-25 mL/kg per hour",
+"D": "100-150 mL/kg per hour"
+},
+"correct": "C",
+"explanation": "The standard dialysis solution inflow rate is now about 20-25 mL/kg per hour; for a 70-kg patient this is roughly 23-29 mL/min. A (5-10) is far too low to deliver adequate clearance, while B (50-60) and D (100-150) grossly exceed practical CRRT flows. Assuming about 26 mL/min at ~100% saturation delivers roughly 37 L/day of urea clearance; adding 3 L of excess fluid removal gives a 40 L daily effluent, translating to a daily Kt/V near 1.0 (about 7 per week), well above thrice-weekly IHD."
+},
+{
+"topic": "Filtration fraction",
+"question": "Filtration fraction in C-HF is calculated as which ratio?",
+"options": {
+"A": "Blood flow rate divided by dialysate flow rate",
+"B": "Dialysate flow rate divided by ultrafiltration rate",
+"C": "Plasma flow rate divided by blood flow rate",
+"D": "Ultrafiltration rate divided by plasma flow rate"
+},
+"correct": "D",
+"explanation": "Filtration fraction is the ultrafiltration rate divided by the plasma flow rate, where plasma flow rate equals BFR times (1 - hematocrit). For example, a BFR of 150 mL/min at Hct 33% gives a plasma flow near 100 mL/min, so a 25 mL/min UF rate yields about 25%. A, B, and C misstate the ratio; the key is that only plasma water, not whole blood, is available for filtration, so the hematocrit correction matters for avoiding overconcentration in the hemofilter."
+},
+{
+"topic": "Filtration fraction limit",
+"question": "To avoid overconcentration of red cells and proteins in the hemofilter, the filtration fraction should generally be kept at or below what value?",
+"options": {
+"A": "25%",
+"B": "10%",
+"C": "50%",
+"D": "75%"
+},
+"correct": "A",
+"explanation": "The rule of thumb is to keep filtration fraction at 25% or lower. Higher fractions overconcentrate red cells and plasma proteins in the hemofilter, causing membrane fouling that impairs UF efficiency, lowers the sieving coefficient, and raises clotting risk. B (10%) is unnecessarily conservative, and C (50%) or D (75%) would cause overconcentration. When a high postdilution replacement rate is desired, the BFR must be raised above the usual 150 mL/min, or predilution used, to keep the fraction below 25%."
+},
+{
+"topic": "Predilution effect",
+"question": "What is a consequence of using predilution mode in C-HF on the urea concentration of the ultrafiltrate?",
+"options": {
+"A": "It raises urea saturation above 100%",
+"B": "It slightly lowers urea concentration to about 80-90% of plasma value",
+"C": "It has no effect on urea saturation",
+"D": "It eliminates urea from the ultrafiltrate entirely"
+},
+"correct": "B",
+"explanation": "With predilution, replacement fluid entering before the filter slightly lowers the ultrafiltrate urea concentration to about 80-90% of the corresponding plasma value. A is wrong because saturation cannot exceed 100%; C is wrong because dilution does change saturation; D is wrong because urea is reduced, not eliminated. This modest loss of efficiency is outweighed by the ability to deliver a higher replacement-solution rate, which enhances overall middle-molecule clearance and lowers filtration fraction and clotting risk."
+},
+{
+"topic": "Predilution indications",
+"question": "Predilution mode is specifically recommended when the hematocrit is above which value, owing to elevated blood viscosity?",
+"options": {
+"A": ">20%",
+"B": ">28%",
+"C": ">35%",
+"D": ">50%"
+},
+"correct": "C",
+"explanation": "Predilution is specifically performed when baseline blood viscosity is elevated, e.g., a hematocrit above 35%, and whenever more than 25 L/day must be removed. A (>20%) and B (>28%) are below the stated threshold, and D (>50%) is far higher than the chapter specifies. By diluting blood before the filter, predilution keeps the filtration fraction from rising and reduces hemoconcentration and clotting, at the cost of slightly lower ultrafiltrate solute concentration."
+},
+{
+"topic": "Brain edema fluid",
+"question": "For patients at risk of cerebral edema, what sodium and bicarbonate concentrations are recommended for the dialysis/replacement fluid?",
+"options": {
+"A": "Lower sodium (<135 mM) and higher bicarbonate (40 mM)",
+"B": "Normal sodium and normal bicarbonate",
+"C": "Very low sodium and very high bicarbonate",
+"D": "Higher sodium (>140 mM) and lower bicarbonate (30 mM)"
+},
+"correct": "D",
+"explanation": "For patients at risk of cerebral edema, dialysis/replacement fluid should have a relatively higher sodium (>140 mM) and a lower bicarbonate (30 mM) concentration. Higher sodium reduces the blood-brain osmotic gradient, limiting water movement into the brain; a rapid rise in plasma bicarbonate would raise CO2 entry into brain cells while charged bicarbonate lags, paradoxically lowering brain pH and generating idiogenic osmoles that draw water in. A, B, and C would worsen, not reduce, cerebral water shifts."
+},
+{
+"topic": "Venous access site",
+"question": "Which vein is described as usable but NOT the site of first choice for CRRT dual-lumen catheter placement?",
+"options": {
+"A": "Subclavian vein",
+"B": "Internal jugular vein",
+"C": "Femoral vein",
+"D": "Basilic vein"
+},
+"correct": "A",
+"explanation": "Vascular access uses a dual-lumen cannula in a large vein, usually the internal jugular or femoral; the subclavian vein can be used but is not the site of first choice (partly due to stenosis and access-flow concerns). B and C are actually the preferred large-vein sites, and D (basilic) is not a standard CRRT catheter site. KDIGO further recommends uncuffed catheters for CRRT, reasoning that they are easier to insert and average CRRT duration is only about 12-13 days."
+},
+{
+"topic": "KDIGO catheter type",
+"question": "The 2012 KDIGO AKI guidelines recommend which type of venous catheter for CRRT?",
+"options": {
+"A": "Cuffed tunneled catheters",
+"B": "Uncuffed venous catheters",
+"C": "Arteriovenous grafts",
+"D": "Peripherally inserted central catheters only"
+},
+"correct": "B",
+"explanation": "The 2012 KDIGO AKI guidelines recommend uncuffed venous catheters for CRRT (weak evidence, 2D), reasoning that they are easier to insert, that needing a cuffed catheter might delay therapy, and that average CRRT duration is only 12-13 days. A is wrong because cuffed/tunneled lines are not recommended for this short-term use; C is wrong because AV grafts are not the CRRT access of choice; D is wrong because PICCs are not specified. Longer (20-24 cm) catheters targeting the right atrium improved filter life and dose."
+},
+{
+"topic": "Femoral catheter side",
+"question": "In a study of femoral venous access, filter longevity was longer with catheters inserted on which side?",
+"options": {
+"A": "The left side (average 15 hours)",
+"B": "There was no difference between sides",
+"C": "The right side (average 15 hours versus 10 on the left)",
+"D": "The left side lasted twice as long as the right"
+},
+"correct": "C",
+"explanation": "In a femoral-access study, filter longevity averaged 15 hours when the venous catheter was placed on the right side versus only 10 hours on the left (Kim, 2011); the mechanism of the right-sided advantage was not clear. A and D are wrong because the left side performed worse, not better; B is wrong because a real side difference was observed. This finding, along with data favoring longer catheters reaching the right atrium, guides access placement to maximize circuit survival."
+},
+{
+"topic": "AV access limitation",
+"question": "Why is arteriovenous (AV) blood access no longer widely used for modern CRRT?",
+"options": {
+"A": "It requires an electrical pump to function",
+"B": "It cannot be used during power outages",
+"C": "It provides excessive blood flow that damages the filter",
+"D": "Risk of femoral artery damage and inability to deliver high enough blood flows"
+},
+"correct": "D",
+"explanation": "AV access is no longer widely used because cannulating the femoral artery risks arterial damage with possible distal limb ischemia, and AV flow often cannot deliver the high blood flows needed for modern intensive CRRT. A and B invert reality: AV access needs no electric pump and can actually be lifesaving during power outages (a mass casualty with rhabdomyolysis), since arterial pressure drives blood and gravity/clamp height controls ultrafiltration. C is wrong because inadequate, not excessive, flow is the problem."
+},
+{
+"topic": "Catheter changes",
+"question": "What is the recommended approach to changing CRRT catheters to minimize sepsis?",
+"options": {
+"A": "Change only when clinically indicated, not on a predetermined schedule",
+"B": "Change on a fixed schedule every 3 days",
+"C": "Change weekly regardless of appearance",
+"D": "Never change once placed"
+},
+"correct": "A",
+"explanation": "CRRT catheters should be changed only when clinically indicated, not on a predetermined schedule intended to reduce catheter sepsis. Routine scheduled changes, once popular, are not recommended by the CDC and are not supported by studies. B (every 3 days) and C (weekly) represent exactly the discredited scheduled approach, and D (never) ignores genuine clinical indications such as infection or malfunction. Unnecessary exchanges add procedural risk without lowering infection rates."
+},
+{
+"topic": "Hemofilter vs dialyzer",
+"question": "What structural feature distinguishes a hemofilter from a dialyzer?",
+"options": {
+"A": "A hemofilter has two ports; a dialyzer has one",
+"B": "A hemofilter has only one outlet, making use of dialysis solution impossible",
+"C": "A dialyzer cannot be used for high-flux therapy",
+"D": "A hemofilter contains no hollow fibers"
+},
+"correct": "B",
+"explanation": "A hemofilter has only one outlet in its housing, which makes use of dialysis solution impossible, so it can support only convective (C-HF) therapy; a dialyzer has a second port allowing countercurrent dialysate flow. A reverses the port counts; C is wrong because dialyzers used for CRRT are specifically high-flux; D is wrong because both devices contain hollow fibers. Modern CRRT dialyzers equilibrate urea promptly with dialysate, making them suitable for both C-HF and C-HD."
+},
+{
+"topic": "CRRT filter category",
+"question": "Dialyzers used for CRRT should have high water permeability and therefore fall into which category?",
+"options": {
+"A": "Low-flux",
+"B": "Cellulosic conventional",
+"C": "High-flux",
+"D": "Plate-type"
+},
+"correct": "C",
+"explanation": "Dialyzers used for CRRT must have high water permeability and therefore fall into the high-flux category. A (low-flux) and B (cellulosic conventional) lack the permeability needed for adequate convective clearance and fluid handling; D (plate-type) is not the relevant classification. Early filters designed for C-HF had excellent water permeability but poor diffusive clearance in C-HD; current CRRT filters let blood-compartment urea equilibrate promptly with dialysate, suiting both C-HF and C-HD."
+},
+{
+"topic": "Lactate buffer",
+"question": "Pure lactate-based replacement fluid usually contains lactate in what concentration range?",
+"options": {
+"A": "3-5 mM",
+"B": "10-15 mM",
+"C": "70-80 mM",
+"D": "40-46 mM"
+},
+"correct": "D",
+"explanation": "Pure lactate-based replacement fluid usually contains 40-46 mM of lactate, which is metabolized on a 1:1 molar basis to bicarbonate and effectively corrects metabolic acidosis in most patients. A (3-5 mM) reflects only the trace lactate left in some bicarbonate solutions; B (10-15) and C (70-80) are not the stated range. Because conversion is 1:1, the lactate concentration must be set somewhat higher than a bicarbonate solution's to achieve a comparable correction of acidosis."
+},
+{
+"topic": "Lactate caution",
+"question": "In which patients should high-lactate CRRT solutions be used with caution?",
+"options": {
+"A": "Patients with severe circulatory instability or severe liver compromise",
+"B": "Patients with mild hypertension",
+"C": "Young patients with normal liver function",
+"D": "Patients with chronic stable anemia"
+},
+"correct": "A",
+"explanation": "High-lactate solutions should be used with caution in patients with severe circulatory instability and tissue hypoperfusion, and in those with severe liver compromise, because impaired lactate metabolism can worsen hyperlactatemia. B, C, and D describe patients (mild hypertension, young with normal liver, stable anemia) who metabolize lactate normally. KDIGO suggests bicarbonate-based solutions for all AKI (2C), more strongly for liver failure or lactic acidosis (2B), and for circulatory shock (1B)."
+},
+{
+"topic": "Bicarbonate solutions",
+"question": "Total base concentration in bicarbonate-based CRRT solutions is typically in which range?",
+"options": {
+"A": "5-15 mM",
+"B": "25-35 mM",
+"C": "40-50 mM",
+"D": "55-65 mM"
+},
+"correct": "B",
+"explanation": "Bicarbonate is the buffer of choice for CRRT solutions, with total base concentrations typically 25-35 mM; some also carry a small 3 mM residue of lactate left from acidifying the final solution, which does not meaningfully raise lactate. A (5-15) is too low to correct acidosis and B... D (40-46) actually matches the lactate range, not bicarbonate. When high dialysate/replacement flows (>30 mL/kg/hour) are used, lower-bicarbonate solutions help prevent metabolic alkalosis."
+},
+{
+"topic": "Low bicarbonate indication",
+"question": "Why are lower-bicarbonate or bicarbonate-free solutions indicated when using regional citrate anticoagulation?",
+"options": {
+"A": "Citrate lowers plasma sodium",
+"B": "Citrate directly consumes bicarbonate",
+"C": "Citrate is metabolized to bicarbonate by the liver",
+"D": "Citrate prevents bicarbonate absorption"
+},
+"correct": "C",
+"explanation": "Lower-bicarbonate or bicarbonate-free solutions are indicated with regional citrate anticoagulation because citrate is metabolized to bicarbonate by the liver, so a normal bicarbonate load on top would cause metabolic alkalosis. A is wrong because citrate does not lower sodium; B and D are wrong because citrate does not consume bicarbonate or block its absorption. Each mmol of citrate yields about 3 mmol of bicarbonate, which is why the dialysate/replacement buffer must be reduced during RCA."
+},
+{
+"topic": "Citrate solutions",
+"question": "Citrate-based replacement fluids should be administered in which mode to allow adequate filter anticoagulation?",
+"options": {
+"A": "Postfilter (postdilution)",
+"B": "Into the dialysate compartment countercurrent to blood",
+"C": "Directly into the systemic circulation",
+"D": "Prefilter (predilution)"
+},
+"correct": "D",
+"explanation": "Most citrate-based fluid must be given prefilter (predilution) so that citrate can chelate calcium within the filter and provide adequate anticoagulation. Postfilter (A) or countercurrent dialysate (B) placement, or direct systemic infusion (C), would not anticoagulate the circuit. In predilution, 40-60% of citrate is removed in the effluent and the remainder is metabolized by the liver (1 mmol citrate yielding 3 mmol bicarbonate); 14 mM citrate solutions improve acidosis correction and filter life over 11-12 mM."
+},
+{
+"topic": "Sodium concentration",
+"question": "Commercially available CRRT fluids usually contain sodium at approximately what concentration?",
+"options": {
+"A": "At or close to 140 mM",
+"B": "100 mM",
+"C": "120 mM",
+"D": "160 mM"
+},
+"correct": "A",
+"explanation": "Commercially available CRRT fluids usually contain physiologic sodium at or close to 140 mM, matching plasma to avoid osmotic disturbance. B (100 mM) is used only as a custom low-sodium solution when trisodium citrate is infused, to limit hypernatremia; C (120) and D (160) are not standard. When correcting longstanding hyponatremia, fluid may be deliberately diluted with water so serum sodium rises no faster than 6-8 mmol/L per day, just above the predialysis value."
+},
+{
+"topic": "Potassium-free fluid",
+"question": "Potassium-free CRRT fluids are most suitable for which situation?",
+"options": {
+"A": "Long-term maintenance in stable patients",
+"B": "Initial treatment of AKI patients with severe hyperkalemia",
+"C": "Patients with hypokalemia",
+"D": "Patients requiring citrate anticoagulation"
+},
+"correct": "B",
+"explanation": "Potassium-free CRRT fluids are suitable for the initial treatment of AKI patients with severe hyperkalemia, allowing rapid potassium removal. Once serum potassium falls to a safe level, fluids with 4 mM potassium are used to minimize arrhythmia risk and prevent depletion of body potassium. A is wrong because stable maintenance patients need some potassium; C is wrong because hypokalemic patients should not receive potassium-free fluid; D is wrong because citrate anticoagulation does not dictate potassium content. Commercial fluids come at 0, 2, or 4 mM."
+},
+{
+"topic": "Hypophosphatemia CRRT",
+"question": "What clinical consequence is associated with the common occurrence of hypophosphatemia during extended CRRT?",
+"options": {
+"A": "Cardiac arrhythmia from hyperkalemia",
+"B": "Metabolic alkalosis",
+"C": "Respiratory muscle weakness and prolonged respiratory failure",
+"D": "Hemolysis in the filter"
+},
+"correct": "C",
+"explanation": "Hypophosphatemia is common during extended CRRT and can cause respiratory muscle weakness and prolonged respiratory failure in critically ill patients (Demirjian, 2011). A is wrong because arrhythmia here stems from potassium, not phosphate loss; B is wrong because hypophosphatemia does not cause alkalosis; D is wrong because filter hemolysis is unrelated. Off-label phosphate addition to keep levels near 1.2 mM has been used, but frequent serum phosphorus monitoring is essential during prolonged therapy."
+},
+{
+"topic": "CRRT glucose",
+"question": "Modern glucose-containing CRRT solutions typically contain glucose at what physiologic concentration?",
+"options": {
+"A": "22 mM (400 mg/dL)",
+"B": "11 mM (200 mg/dL)",
+"C": "75 mM (1360 mg/dL)",
+"D": "5.5 mM (100 mg/dL)"
+},
+"correct": "D",
+"explanation": "Modern CRRT solutions are either glucose-free or contain a physiologic glucose of about 5.5 mM (100 mg/dL); glucose-containing fluids are preferred. A (22 mM), B (11 mM), and C (75 mM, the peritoneal-dialysis level) are all supraphysiologic. Glucose-free fluids risk hypoglycemia and can strip substantial glucose from the body, harming nutritional balance; even with glucose-containing fluid, insulin and monitoring are needed to keep serum glucose near the 6-8 mM target linked to best outcomes."
+},
+{
+"topic": "Bicarbonate instability",
+"question": "Why should bicarbonate-based dialysis/replacement solutions be prepared just before use?",
+"options": {
+"A": "Bicarbonate breaks down (to CO2 and water) and forms insoluble salts with calcium/magnesium",
+"B": "Bicarbonate promotes rapid bacterial growth within minutes",
+"C": "Bicarbonate binds strongly to plastic bags",
+"D": "Bicarbonate concentration rises uncontrollably over time"
+},
+"correct": "A",
+"explanation": "Bicarbonate-based solutions must be prepared just before use because bicarbonate is in equilibrium with carbonic acid, which breaks down to CO2 and water, and because bicarbonate forms insoluble salts when in solution with calcium and magnesium. B is wrong because instability, not rapid bacterial growth, is the reason; C is wrong because bicarbonate does not bind plastic; D is wrong because its concentration falls, not rises. This chemistry is why bicarbonate bags are two-compartment systems mixed immediately before use."
+},
+{
+"topic": "Cooling effect",
+"question": "The hemodynamic benefits of CRRT using room-temperature fluids appear to be due largely to what effect?",
+"options": {
+"A": "Increased plasma osmolality",
+"B": "Thermal cooling/heat subtraction from the patient",
+"C": "Enhanced middle-molecule clearance",
+"D": "Rapid sodium loading"
+},
+"correct": "B",
+"explanation": "CRRT can infuse dialysis and replacement fluids at room temperature, causing heat subtraction from the patient, and the hemodynamic benefits of CRRT appear to be due largely to this thermal cooling effect. A, C, and D are not the mechanism of improved hemodynamics. A downside is that prolonged heat subtraction can mask fever, reducing body temperature as a marker of infection; a sheep septic-shock model even suggested that warming extracorporeal blood improved survival, and current systems include heaters."
+},
+{
+"topic": "CRRT dose target",
+"question": "What delivered effluent volume is suggested by the 2012 KDIGO guidelines as the dose of CRRT in AKI?",
+"options": {
+"A": "10-15 mL/kg per hour",
+"B": "35-45 mL/kg per hour",
+"C": "20-25 mL/kg per hour",
+"D": "50-60 mL/kg per hour"
+},
+"correct": "C",
+"explanation": "The 2012 KDIGO guidelines suggest a delivered CRRT effluent volume of 20-25 mL/kg per hour in AKI, though this is an ungraded recommendation with no evidence that lower doses are worse. A (10-15) is below the suggested target, while B (35-45) and D (50-60) reflect higher-dose regimens that randomized trials did not confirm to improve outcomes. To actually deliver this, one prescribes a slightly higher inflow rate to offset 2-5 L/day of excess fluid removal and interruptions from clotting."
+},
+{
+"topic": "Empiric urea target",
+"question": "Based on the RENAL and ATN studies, the average serum urea nitrogen achieved during CRRT should be less than what value?",
+"options": {
+"A": "25 mg/dL",
+"B": "35 mg/dL",
+"C": "60 mg/dL",
+"D": "45 mg/dL (16 mmol/L)"
+},
+"correct": "D",
+"explanation": "Based on the RENAL and ATN studies, the average serum urea nitrogen achieved on CRRT should be less than 45 mg/dL (16 mmol/L). A (25) and B (35) are stricter than the cited target, and C (60) is too permissive. Evaluating the daily serum urea nitrogen while on treatment is a practical way to gauge adequacy, and Table 15.4 and Fig. 15.3 provide a method and nomogram for dosing CRRT to reach a chosen blood urea nitrogen level given the patient's urea generation rate."
+},
+{
+"topic": "SLED weekly Kt/V",
+"question": "The KDIGO AKI guidelines recommend a minimum weekly Kt/V of what value when intermittent RRT is used?",
+"options": {
+"A": "3.9",
+"B": "1.2",
+"C": "2.7",
+"D": "7.0"
+},
+"correct": "A",
+"explanation": "The KDIGO AKI guidelines recommend a minimum weekly Kt/V of at least 3.9 when intermittent RRT is used, defined simply as the sum of the treatments given each week. B (1.2) is a single-session chronic HD target, C (2.7) is the equivalent weekly Kt/V of thrice-weekly IHD, and D (7.0) is what daily CRRT can approach. A typical SLED prescription (6-12 hours, four to seven times weekly, BFR 200-300, dialysate 300-400 mL/min) far exceeds the 3.9 guideline."
+},
+{
+"topic": "Prismaflex system",
+"question": "The Prismaflex System consists of how many integrated pumps?",
+"options": {
+"A": "Three",
+"B": "Five",
+"C": "Four",
+"D": "Seven"
+},
+"correct": "B",
+"explanation": "The Prismaflex System consists of five integrated pumps: blood, dialysate, effluent, substitution (replacement) fluid, and a preblood pump. A (three) understates it; C (four) matches the number of pull-out weighing devices, not pumps; D (seven) is too many. The preblood pump enables predilution infusion or continuous anticoagulant delivery, and two pinch valves allow simultaneous pre- and postfilter dilution, giving flexible fluid control across CRRT variants through a touch-screen panel."
+},
+{
+"topic": "Sepsis strategy",
+"question": "A common CRRT strategy for septic patients uses a clearance dose of about 35 mL/kg per hour divided how?",
+"options": {
+"A": "Entirely as diffusion (dialysis)",
+"B": "Entirely as convection (hemofiltration)",
+"C": "Equally between dialysis and hemofiltration",
+"D": "Two-thirds ultrafiltration, one-third dialysis"
+},
+"correct": "C",
+"explanation": "For septic multiorgan-failure patients, a common strategy is C-HDF at a clearance dose of about 35 mL/kg per hour divided equally between dialysis and hemofiltration, adding convection to remove potential sepsis mediators while retaining the efficiency of diffusion. A and B (entirely diffusion or entirely convection) miss the deliberate blend; D (two-thirds ultrafiltration) is not the described split. High-volume C-HF lowers mediator levels, but a consistent clinical benefit has not been proven, so the approach remains debated."
+},
+{
+"topic": "Heparin loading",
+"question": "In the heparin protocol for continuous therapies, what is the initial heparin bolus given to the patient after attaching the primed filter?",
+"options": {
+"A": "500-1,000 units",
+"B": "100-200 units",
+"C": "10,000 units",
+"D": "2,000-5,000 units"
+},
+"correct": "D",
+"explanation": "After attaching the primed filter, if baseline clotting times are not elevated, 2,000-5,000 units of heparin are injected into the patient, ideally via the venous (outflow) line, followed after a 2-3 minute mixing pause by a constant 500-1,000 units/hour infusion into the arterial line. A describes the maintenance infusion rate, not the bolus; B is far too small and C (10,000 units) too large. This regimen suits patients at low bleeding risk, in whom systemic heparin is inexpensive and easy to use."
+},
+{
+"topic": "Heparin PTT targets",
+"question": "In the heparin protocol, what are the target arterial and venous PTT values, respectively?",
+"options": {
+"A": "Arterial 40-45 s; venous >65 s",
+"B": "Arterial >65 s; venous 40-45 s",
+"C": "Both maintained at 80-100 s",
+"D": "Arterial 20-30 s; venous 30-40 s"
+},
+"correct": "A",
+"explanation": "In the heparin protocol (Table 15.5), arterial PTT is maintained at 40-45 s and venous PTT above 65 s, with PTT checked at both lines every 6 hours. B inverts the two targets; C sets both far too high; D is subtherapeutic. Adjustments are small: if arterial PTT exceeds 45 s decrease heparin by 100 IU/hr, if venous PTT is under 65 s increase by 100 IU/hr (only when arterial PTT is under 45 s), and if arterial PTT is under 40 s increase by 200 IU/hr."
+},
+{
+"topic": "Heparin-free C-HD",
+"question": "When performing heparin-free C-HD, how is dialysis solution inflow adjusted to compensate for anticipated clearance loss from clotting?",
+"options": {
+"A": "Decreased by 20-40%",
+"B": "Increased by 20-40%",
+"C": "Held exactly constant",
+"D": "Doubled"
+},
+"correct": "B",
+"explanation": "In heparin-free C-HD, the dialysis solution inflow rate is increased by 20-40% to compensate for the anticipated loss of clearance as the unheparinized dialyzer slowly clots. A (decreased) would worsen underdosing; C (unchanged) ignores the clotting-related efficiency loss; D (doubled) overshoots the stated range. Unlike heparin-free IHD, periodic saline flushes into the arterial line are usually avoided here for fear of introducing microbubbles that promote clot formation."
+},
+{
+"topic": "Clotting FUN:SUN ratio",
+"question": "During C-HD, a filtrate-to-serum urea nitrogen (FUN:SUN) ratio below what value indicates imminent clotting?",
+"options": {
+"A": "Below 0.9",
+"B": "Below 0.6",
+"C": "Below 0.3",
+"D": "Below 0.1"
+},
+"correct": "B",
+"explanation": "During C-HD, the filtrate (or dialysate) to serum urea nitrogen ratio tracks membrane function: a reduction to less than 0.8 is an early sign of clotting, and a ratio below 0.6 indicates that clotting is imminent. A (0.9) still reflects good clearance, and C (0.3) or D (0.1) would signify a largely clotted filter well past the actionable warning point. Monitoring this ratio, along with darkening blood and blood-plasma separation, lets staff replace the circuit before complete clotting halts therapy."
+},
+{
+"topic": "Citrate mechanism",
+"question": "How does citrate produce its regional anticoagulant effect in CRRT?",
+"options": {
+"A": "It directly inhibits thrombin",
+"B": "It activates antithrombin III",
+"C": "It chelates calcium (and magnesium), impeding the coagulation cascade",
+"D": "It coats platelets to prevent aggregation"
+},
+"correct": "C",
+"explanation": "Citrate produces regional anticoagulation by chelating calcium (and magnesium), which impedes the calcium-dependent coagulation cascade within the circuit. A, B, and D describe other agents' mechanisms (direct thrombin inhibition, antithrombin activation, platelet coating), not citrate. Calcium-citrate complexes are then removed in the effluent or metabolized by the liver and skeletal muscle, and by lowering local ionized calcium citrate may also reduce neutrophil and complement activation in the circuit."
+},
+{
+"topic": "Citrate iCa target",
+"question": "On average, about 3 mmol of citrate per liter of blood is needed to suppress postfilter ionized calcium to which level for effective circuit anticoagulation?",
+"options": {
+"A": "1.0-1.2 mmol/L",
+"B": "0.6-0.8 mmol/L",
+"C": "1.4-1.6 mmol/L",
+"D": "0.3-0.4 mmol/L"
+},
+"correct": "D",
+"explanation": "On average, about 3 mmol of citrate per liter of blood circulated is required to suppress the postfilter plasma ionized calcium to 0.3-0.4 mmol/L, the level needed for effective circuit anticoagulation. A (1.0-1.2) and C (1.4-1.6) are near-normal systemic ionized calcium levels that would not anticoagulate the filter, and B (0.6-0.8) is not low enough. Calcium and magnesium lost as citrate complexes are then replaced by systemic infusions under strict monitoring protocols."
+},
+{
+"topic": "Citrate toxicity",
+"question": "Which findings suggest citrate accumulation/toxicity requiring cessation of regional citrate anticoagulation?",
+"options": {
+"A": "High anion gap metabolic acidosis and a total-to-ionized calcium ratio >2.5",
+"B": "Metabolic alkalosis and hypercalcemia",
+"C": "Low anion gap and hyperkalemia",
+"D": "Respiratory alkalosis with hypomagnesemia"
+},
+"correct": "A",
+"explanation": "Citrate accumulation, exacerbated by liver dysfunction and multiorgan failure when citrate load overwhelms hepatic metabolism, causes a high anion gap metabolic acidosis together with a rising ratio of total to ionized calcium above 2.5; these findings require stopping RCA and correcting hypocalcemia. B, C, and D describe the opposite or unrelated pictures. The problem is accumulation of calcium-citrate complexes with inadequate regeneration of free ionized calcium, which is why the total:ionized calcium ratio climbs."
+},
+{
+"topic": "Swartz protocol",
+"question": "In the Swartz RCA protocol for C-HD, the initial ACD-A infusion rate (mL/hr) is set at what multiple of the blood flow rate (mL/min)?",
+"options": {
+"A": "0.5 times",
+"B": "1.5 times",
+"C": "1.0 times",
+"D": "3.0 times"
+},
+"correct": "B",
+"explanation": "In the Swartz RCA protocol for C-HD, the ACD-A infusion rate in mL/hour is initially set at 1.5 times the blood flow rate in mL/min; for example, a BFR of 200 mL/min gives 300 mL/hour of ACD-A. A (0.5), C (1.0), and D (3.0) do not match the published starting ratio. The calcium chloride infusion is then started at 10% of the ACD-A rate (30 mL/hour in this example), with calcium-free dialysate and frequent ionized-calcium sampling from both postfilter and systemic sites to titrate."
+},
+{
+"topic": "Argatroban clearance",
+"question": "Why may argatroban be the preferred direct thrombin inhibitor in renal failure patients requiring CRRT?",
+"options": {
+"A": "It is cleared mainly by the kidneys",
+"B": "It requires no monitoring",
+"C": "It is removed efficiently by high-flux dialyzers",
+"D": "It is eliminated predominantly by liver metabolism and biliary secretion"
+},
+"correct": "D",
+"explanation": "Argatroban is eliminated predominantly by liver metabolism and biliary secretion, so it needs little renal-based adjustment and may be preferred in renal failure patients. A is wrong because that describes lepirudin, which is cleared mainly by the kidneys and must be dose-adjusted for residual and dialysis clearance; B is wrong because both direct thrombin inhibitors require aPTT monitoring (target 1.5-2.0 times normal); C is wrong because efficient dialyzer removal is not why argatroban is chosen. FFP reverses overdose."
+},
+{
+"topic": "Drug clearance ranking",
+"question": "For a given effluent flow rate, which CRRT modality generally provides the highest drug clearance?",
+"options": {
+"A": "CVVH > CVVHDF > CVVHD",
+"B": "CVVHD > CVVHDF > CVVH",
+"C": "CVVHDF > CVVH > CVVHD",
+"D": "All modalities have identical drug clearance"
+},
+"correct": "A",
+"explanation": "Because C-HF removes middle- and large-molecular-weight drugs better than C-HD through convection, at the same effluent flow rate drug clearance ranks CVVH > CVVHDF > CVVHD (Churchwell, 2009). B reverses the order, C misplaces CVVHDF above CVVH, and D wrongly claims equivalence. Both C-HD and C-HF clear small solutes well, but for larger antibiotics and peptides the convective component of hemofiltration gives the edge, which matters when dosing narrow-therapeutic-index drugs during CRRT."
+},
+{
+"topic": "Effluent GFR equivalence",
+"question": "For drug dosing, each 10 L per day of CRRT effluent volume is considered equivalent to approximately what GFR?",
+"options": {
+"A": "About 3 mL/min",
+"B": "About 7 mL/min",
+"C": "About 15 mL/min",
+"D": "About 25 mL/min"
+},
+"correct": "B",
+"explanation": "For drug dosing, the CRRT circuit is treated as an extra kidney whose GFR depends on effluent volume: each 10 L per day of effluent equals about 7 mL/min of GFR (7.0 mL/min x 1,440 min = 10.08 L/day). A (3), C (15), and D (25) do not match this conversion. Thus an otherwise anuric patient on CRRT should be prescribed drugs as if the GFR were 7 mL/min for every 10 L of daily effluent, with therapeutic drug monitoring for agents such as vancomycin and aminoglycosides."
+},
+{
+"topic": "ECMO and CRRT",
+"question": "How can SCUF or C-HD be performed in a patient on extracorporeal membrane oxygenation (ECMO)?",
+"options": {
+"A": "Only by using a completely separate CRRT machine",
+"B": "By stopping ECMO temporarily",
+"C": "By adapting the ECMO blood lines to connect a dialyzer in parallel",
+"D": "It cannot be performed during ECMO"
+},
+"correct": "C",
+"explanation": "SCUF or C-HD can be performed during ECMO without a separate CRRT machine by adapting the ECMO blood lines to connect a dialyzer in parallel, allowing concurrent fluid and solute removal. A and D are wrong because no separate system is required and it is feasible; B is wrong because ECMO need not be stopped. Because ECMO circuit pressures are high and can cause backfiltration, sterile dialysis solution is preferred when C-HD is added, and regional citrate anticoagulation has been used in this setting."
+}
+]
+}

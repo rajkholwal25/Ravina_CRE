@@ -1,0 +1,309 @@
+521
+Metabolic, Acid-Base, 
+and Electrolye Aspects 
+of Peritoneal Dialysis
+Rajnish Mehrotra
+While peritoneal dialysis (PD) provides effective control of many of 
+the diverse consequences of uremia, the therapy itself has unique 
+effects on several metabolic parameters that are important for the 
+health of patients with end-stage renal disease.
+ I. HYPERGLYCEMIA: With PD, ultrafiltration is induced by  exerting 
+either crystalloidal osmotic or oncotic pressure across the 
+ peritoneal barrier. This is achieved with PD solutions that 
+ contain supraphysiologic concentrations of glucose; some 
+ prescriptions also include once-daily treatment with either 
+ icodextrin or amino-acid–based dialysis solution. Each one of 
+these 
+ substances is absorbed systemically during the course of 
+the PD dwell  leading to systemic metabolic effects. Treatment 
+with glucose- or icodextrin-based PD solutions results in an 
+obligatory daily absorption of 50–150 g of carbohydrates. This 
+obligatory carbohydrate absorption is higher with greater use of 
+more hypertonic solutions, and in individuals with a faster peri -
+toneal solute transfer rate. Absorbed icodextrin is metabolized, 
+not to glucose but to a variety of oligosaccharides and to the 
+disaccharide maltose (Moberley, 2002)
+In some individuals with diabetes mellitus, this obligatory 
+absorption results in poorer glycemic control and requires sig -
+nificant adjustments in therapy. These may include an increase 
+in total daily insulin dose, or initiation of insulin or other glucose-
+lowering therapy for individuals who did not previously need 
+such treatment. Hence, it is imperative to increase the intensity 
+of home glucose monitoring in diabetic patients for the first few 
+weeks after initiating PD, or whenever the prescribed tonicity of 
+glucose-based dialysate is increased. Worse glycemic control is 
+associated with worse outcomes in PD patients, but it is unclear 
+whether this is association or cause and effect (Duong, 2011). 
+There are limited data to determine how much PD increases the 
+incidence of new-onset diabetes, but one Chinese study suggests 
+that about 8% of nondiabetic patients become diabetic (Szeto, 
+2007). Therefore, blood glucose levels should also be measured 
+every 1–3 months in nondiabetic PD patients.
+29
+Daugirdas9781451144291-ch029.indd   521 09/10/14   1:36 am
+Part III / Peritoneal Dialysis
+522
+Just as glucose-based dialysis solutions may worsen glyce-
+mic control, glucose-sparing regimens may improve it. These 
+glucose-sparing regimens generally comprise substitution of one 
+glucose-based exchange with icodextrin; the greater ultrafiltra-
+tion with icodextrin during the long dwell may allow for the use 
+of lower concentrations of glucose for the other dwells  (Paniagua 
+2008). Substituting a second glucose-based exchange with amino-
+acid dialysate allows for further reduction in systemic glucose 
+absorption. In IMPENDIA, a recently completed randomized 
+trial, the HbA1c of individuals treated with a regimen in which 
+two bags of glucose-based exchange were substituted with one 
+bag each of icodextrin and amino-acid dialysate was 0.6% lower 
+compared with individuals treated entirely with glucose-based 
+dialysate (Li, 2013). Glucose-sparing regimens should be consid-
+ered in individuals with diabetes treated with PD when there is 
+difficulty in achieving glycemic control.
+ II. WEIGHt GAIn: T he effects of increased body weight in PD are com-
+plex. In hemodialysis patients, increased body weight is associ-
+ated with improved survival, but the evidence is conflicting in PD 
+patients, and there is a concern that obesity may predispose to 
+catheter problems and exit site infection (Johnson, 2012). Patients 
+often gain weight after initiation of dialysis irrespective of modal-
+ity; this generally reflects gain in fat rather than in lean body mass. 
+This weight gain is, at least in part, a result of increased dietary 
+energy and protein intake following the amelioration of uremic 
+anorexia with initiation of dialysis. In patients treated with PD, 
+some of the weight gain is attributed to the obligatory systemic 
+carbohydrate absorption. However, large head-to-head compari-
+sons do not support the notion that patients treated with PD are 
+more likely to gain significant weight when compared with indi -
+viduals treated with hemodialysis (Lievense, 2012). Replacing 
+glucose with icodextrin for the long day dwell in automated PD 
+(APD) or for the night dwell in continuous ambulatory PD (CAPD) 
+results in smaller gains in body weight, but this could reflect differ-
+ences in total body water rather than body fat. Limited evidence 
+suggests that the sites for deposition of excess body fat differ by 
+dialysis modality with greater gain in visceral fat in PD patients; 
+the clinical relevance of this is unclear (Choi, 2011). Despite this 
+uncertainty, it is prudent to limit exposure to more hypertonic 
+glucose dialysis solutions in order to avoid excessive weight gain.
+ III. PERItonEAL P RotEIn Loss:  D uring PD, proteins in the blood—  
+primarily albumin —move into the dialysate down their concen-
+tration gradient across the peritoneal barrier and are lost as the 
+dialysate is drained. The daily peritoneal protein loss with PD 
+averages 6–8 g and is substantially increased during episodes of 
+peritonitis. As a result of this obligatory daily loss, serum albumin 
+may decrease in patients starting treatment with PD and is often 
+lower than in individuals undergoing hemodialysis.
+Daugirdas9781451144291-ch029.indd   522 09/10/14   1:36 am
+523Chapter 29 / Metabolic, Acid-Base, and Electrolye Aspects of Peritoneal Dialysis 
+This daily peritoneal protein loss is generally not modifi -
+able, and its clinical relevance remains unclear. The evidence 
+associating the higher daily peritoneal protein loss with all-cause 
+ mortality, cardiovascular events, or protein-energy wasting is, 
+at best, inconsistent (Balafa, 2011). Moreover, the lower serum 
+albumin in patients treated with PD does not seem to put these 
+patients at any higher risk than patients undergoing hemodi -
+alysis. All these considerations suggest that PD can be safely 
+continued in patients that are otherwise well but have modest 
+decrements in serum albumin levels with the therapy.
+ I V. LIPId AbnoRMALItIEs: D yslipidemia is highly prevalent in patients 
+undergoing maintenance dialysis and reflects the net effects of 
+the uremic state, underlying causes of kidney disease (e.g., dia-
+betic nephropathy, other proteinuric renal diseases), and the 
+potential disparate effects of the dialysis modality. The obliga-
+tory carbohydrate absorption and peritoneal protein loss with 
+PD can adversely influence the lipid profile of PD patients. The 
+lipid abnormalities described in PD patients include increases 
+in total and low-density cholesterol, triglycerides, lipoprotein(a), 
+and apolipoprotein B (Prichard, 2006).
+The contribution of lipid abnormalities to the high 
+ cardiovascular risk in patients treated with PD is presently 
+unknown. The Study of Heart and Renal Protection (SHARP) 
+is the only clinical trial examining the impact of lipid lower -
+ing on cardiovascular events and mortality that has included 
+patients undergoing PD; of the 9270 enrolled subjects, 496 were 
+undergoing PD at the time of enrollment. While treatment with 
+ simvastatin/ezetimibe was associated with fewer cardiovascular 
+events in this clinical trial, there was no significant effect on either 
+all-cause or cardiovascular mortality (Baigent, 2011).  Specifically, 
+there was no significant difference in outcomes in the subgroup 
+treated with PD. This trial suggests that the clinical benefit from 
+lipid lowering may not be as large in patients with kidney disease, 
+including those undergoing PD, as in the general population. It is 
+important, however, to note that severe hypertriglyceridemia is 
+also associated with a higher risk for pancreatitis in PD patients 
+and so may warrant treatment to reduce this risk.
+Limited data indicate that drug therapies are as effective in 
+improving dyslipidemia in patients treated with PD as in the gen-
+eral population. Some studies have also examined whether modi-
+fications in the PD prescription can improve lipid abnormalities. 
+Substituting one glucose-based exchange with icodextrin has 
+been shown to have a modest effect on serum total cholesterol. In 
+the IMPENDIA trial, a glucose-sparing regimen that included one 
+exchange each with icodextrin and amino acids–based PD solu-
+tion resulted in a significant decrease in both serum triglycerides 
+and apolipoprotein B (Li, 2013). These modifications to the PD 
+regimen may be considered in selected individuals for the treat -
+ment of these lipid abnormalities.
+Daugirdas9781451144291-ch029.indd   523 09/10/14   1:36 am
+Part III / Peritoneal Dialysis
+524
+ V. HYPokALEMIA/HYPERkALEMIA: T en to 30 percent of patients trea -
+ted with PD are reported to have low serum potassium levels. 
+There are several potential reasons for this high prevalence of 
+hypokalemia. These include greater potassium removal with 
+dialysis since PD solutions have no added potassium, inadequate 
+dietary intake, transcellular shift induced by insulin released in 
+response to the obligatory glucose absorption, renal losses in 
+patients treated with diuretics, and gastrointestinal losses with 
+use of laxatives (Zanger, 2010).
+Observational studies have demonstrated that  hypokalemia 
+is associated with a higher risk for gram-negative peritonitis 
+and an increase in risk for all-cause, cardiovascular, and infec-
+tion-related mortality in patients undergoing PD (Torlen, 2012). 
+Whether correction of hypokalemia ameliorates any of these 
+risks is not known. Oral administration of potassium supple-
+ments is probably the easiest and safest way to correct hypo-
+kalemia. While intraperitoneal administration of injectable 
+potassium chloride can correct hypokalemia, it exposes patients 
+to a higher risk of peritonitis from touch-contamination. Even 
+though it is appealing to consider mineralocorticoid receptor 
+antagonists such as spironolactone, there is no significant effect 
+on serum potassium levels in patients undergoing PD treated 
+with these agents.  Significant hyperkalemia is uncommon in PD 
+and is  typically related to nonadherence to the PD prescription.
+ VI. MEtAboLIC ACIdosIs: P rogressive loss of excretory function in 
+chronic kidney disease is associated with reduced renal acid 
+excretion. Hence, metabolic acidosis is frequently present in 
+patients at the time of starting dialysis. Conventional glucose- 
+and icodextrin-based PD solutions contain lactate as the buf-
+fer. During treatment with such solutions, bicarbonate enters 
+the peritoneal cavity and is removed with each exchange, while 
+lactate is absorbed systemically. The absorbed lactate is metab-
+olized to bicarbonate, and this corrects the uremic metabolic 
+acidosis. Bicarbonate-based PD solutions are available commer -
+cially in some parts of the world; in patients treated with these 
+solutions, the systemic absorption of bicarbonate is responsible 
+for the correction of metabolic acidosis.
+Regardless of the buffer used, PD provides a more  complete 
+correction of metabolic acidosis than thrice-weekly in-  center 
+hemodialysis. Yet the correction remains incomplete in a signifi-
+cant minority of PD patients. There is evidence that uncorrected 
+metabolic acidosis contributes to protein-energy wasting and 
+osteopenia. Recent observational studies have also demonstrated a 
+higher risk for all-cause or cardiovascular mortality in PD patients 
+with persistently low serum bicarbonate levels (Vasishta, 2013). 
+These data argue for treatment of persistent metabolic acidosis in 
+patients undergoing PD.
+A number of clinical trials have tested the clinical benefits 
+with treatment of metabolic acidosis in PD patients  (Mehrotra, 
+2009; Stein, 1997). These studies indicate that such  treatment is 
+Daugirdas9781451144291-ch029.indd   524 09/10/14   1:36 am
+525Chapter 29 / Metabolic, Acid-Base, and Electrolye Aspects of Peritoneal Dialysis 
+associated with higher net positive nitrogen balance,  significant 
+weight gain, an increase in mid-arm circumference, and a 
+ reduction in hospitalizations. Whether treatment of metabolic 
+acidosis has any effect on the risk of death of patients undergo-
+ing maintenance dialysis is unknown. In patients undergoing PD, 
+oral administration of sodium bicarbonate is the most effective 
+way to correct metabolic acidosis and should be used to achieve 
+a serum bicarbonate level of at least 22 mmol/L.
+ VII. HYPo/HYPERnAtREMIA: H yponatremia is quite common in PD 
+patients, and one center recently reported a prevalence of 15% 
+(Dimitriadis, 2014). Translocational hyponatremia (due to move-
+ment of sodium-poor fluid from cells to extracellular fluid) can 
+occur due to hyperglycemia, with the serum sodium falling about 
+1.3 mmol/L for each 6 mmol/L rise in blood glucose. Icodextrin 
+causes a 2–3 mmol/L fall in serum sodium by the same mecha-
+nism. Dilutional hyponatremia in dialysis patients is generally 
+thought to reflect excessive water intake, but recent studies in PD 
+suggest it is more often a marker of decreased intracellular mass 
+and is associated with weight loss, potassium depletion, and 
+malnutrition. (Cherney, 2001; Dimitriadis, 2014). It should there-
+fore be an indication for nutritional assessment of the patient. 
+Rarely, hyponatremia can be factitious when serum sodium 
+is measured by flame photometry in the presence of severe 
+hypertriglyceridemia.
+In contrast, treatment with PD has the potential to induce 
+hypernatremia. In patients treated with PD, fluid is removed 
+either through aquaporins or through interendothelial spaces 
+in the peritoneal capillaries (See Chapter 21). The relative con-
+tribution of aquaporins to fluid removal is greatest early in the 
+course of a PD dwell, and this is not associated with any concomi-
+tant removal of sodium or other solutes. APD prescriptions with 
+short dwell times, particularly with hypertonic dialysate, have the 
+potential therefore to remove more water relative to sodium, and 
+this can result in hypernatremia. While the prevalence of hyper -
+natremia with contemporary PD solutions and regimens is not 
+known, >10% of patients treated with hourly exchanges using 
+hypertonic PD solutions developed hypernatremia. Hypernatre -
+mia can induce thirst and stimulate greater fluid intake, and it is 
+prudent to avoid frequent exchanges with hypertonic dialysate 
+when prescribing PD.
+ VIII. AbnoRMALItIEs In MInERAL MEtAboLIsM: F or a discussion of the 
+full range of abnormalities in mineral metabolism, see Chapter 
+36. Discussion here is limited to issues specific to PD. Studies 
+done almost two decades ago indicated that patients treated 
+with PD were significantly more likely to have adynamic bone 
+disease than individuals undergoing maintenance hemodialy -
+sis. Small and relatively low-quality studies indicated that this 
+risk could be ameliorated with the use of low-calcium dialysate 
+(2.5 meq/L [1.25 mM]). The overwhelming majority of patients 
+Daugirdas9781451144291-ch029.indd   525 09/10/14   1:36 am
+Part III / Peritoneal Dialysis
+526
+are now treated with low-calcium PD solutions, and there is 
+increasing use of phosphate binders that do not contain elemen-
+tal calcium, so the situation has changed. There are no contem-
+porary studies that have examined bone histology in patients 
+undergoing PD, and hence the current prevalence of adynamic 
+bone disease is unclear.
+References and suggested Readings
+Baigent C, et al. The effects of lowering LDL cholesterol with simvastatin plus  ezetimibe 
+in patients with chronic kidney disease (Study of Heart and Renal protection): a 
+randomized placebo-controlled trial. Lancet. 2011;377:2181–2192.
+Balafa O, et al. Peritoneal albumin and protein losses do not predict outcomes in 
+ peritoneal dialysis patients. Clin J Am Soc Nephrol. 2011;6:561–566.
+Cherney DZ, et al. A physiological analysis of hyponatremia: implications for patients 
+on peritoneal dialysis. Perit Dial Int. 2001;21:7–13.
+Choi SJ et al. Changes in body fat mass after starting peritoneal dialysis. Perit Dial Int. 
+2011;31:67–73.
+Dimitriadis C, et al. Hyponatremia in peritoneal dialysis: epidemiology in a single 
+center and correlation with clinical and biochemical parameters. Perit Dial Int. 
+2014;34:260–270.
+Duong U, et al. Glycemic control and survival in peritoneal dialysis patients with 
+ diabetes mellitus. Clin J Am Soc Nephrol. 2011;6:1041–1048.
+Fried L, et al. Recommendations for the treatment of lipid disorders in patients on 
+peritoneal dialysis. ISPD guidelines/recommendations. Perit Dial Int. 1999;19:7–16.
+Johnson DW . What is the optimal fat mass in peritoneal dialysis patients? Perit Dial 
+Int. 2007;27(suppl 2):S250–S254.
+Li PK, et al Randomized controlled trial of glucose sparing peritoneal dialysis in 
+ diabetic patients. J Am Soc Nephrol. 2013;24:1889–1900.
+Lievense H, et al. Relationship of body size and initial dialysis modality on subsequent 
+transplantation, mortality and weight gain of ESRD patients. Nephrol Dial Trans-
+plant. 2012;27:3631–3638.
+Mehrotra R, et al. Effect of high-normal compared with low-normal arterial pH on 
+protein balances in automated peritoneal dialysis patients. Am J Clin Nutr. 
+2009;90:1532–1540.
+Mehrotra R, et al. Adverse effects of systemic glucose absorption with peritoneal 
+ dialysis: How good is the evidence? Curr Opin Nephrol Hypertens. 2013;22:663–668.
+Moberley JB, et al. Pharmacokinetics of icodextrin in peritoneal dialysis patients. 
+ Kidney Int Suppl. 2002;81:S23–S33.
+National Kidney Foundation. K/DOQI Clinical Practice Guidelines for managing 
+dyslipidemias in chronic kidney disease. http:www.kidney.org/professionals/
+KDOQI?guidelines_lipids/toc.htm (Last accessed, August 25, 2014).
+Paniagua R, et al. Icodextrin improves fluid and metabolic management in high and 
+high-average transport patients. Perit Dial Int. 2009;29:422–432.
+Prichard SS. Management of hyperlipidemia in patients on peritoneal dialysis: current 
+approaches. Kidney Int Suppl. 2006;103:S115–S117.
+Stein A, et al. Role of an improvement in acid base status and nutrition in CAPD 
+patients. Kidney Int. 1997;52:1089–1095.
+Szeto CC, et al. Oral sodium bicarbonate for the treatment of metabolic acidosis in 
+peritoneal dialysis patients: a randomized placebo-control trial. J Am Soc Nephrol. 
+2003;14:2119–2126.
+Szeto CC, et al. New onset hyperglycemia in nondiabetic chinese patients started on 
+peritoneal dialysis. Am J Kidney Dis. 2007;49:524–532.
+Torlen K, et al. Serum potassium and cause-specific mortality in a large peritoneal 
+dialysis cohort. Clin J Am Soc Nephrol. 2012;7:1272–1284.
+Vashishta T, et al. Dialysis modality and correction of metabolic acidosis: relationship 
+with all-cause and cause-specific mortality. Clin J Am Soc Nephrol. 2013;8:254–264.
+Zanger R. Hyponatremia and hypokealemia in pateints on peritoneal dialysis. Semin 
+Dial. 2010;23:575–580.
+Daugirdas9781451144291-ch029.indd   526 09/10/14   1:36 am

@@ -1,0 +1,665 @@
+{
+ "chapter": 25,
+ "questions": [
+  {
+   "topic": "PD modality types",
+   "question": "Which peritoneal dialysis modality has historically been the most popular chronic option because of its simplicity, low cost, and freedom from machinery?",
+   "options": {
+    "A": "Continuous ambulatory peritoneal dialysis (CAPD)",
+    "B": "Nocturnal intermittent peritoneal dialysis (NIPD)",
+    "C": "Tidal peritoneal dialysis (TPD)",
+    "D": "Continuous cycling peritoneal dialysis (CCPD)"
+   },
+   "correct": "A",
+   "explanation": "CAPD is correct: its simplicity, ease of doing it at home, relatively low cost, and freedom from dialysis machinery historically made it the most popular chronic PD modality, and it provides continuous therapy with a steady physiologic state. NIPD (day-dry APD) and CCPD are cycler-based automated forms that add machinery and cost, and TPD is a specialized APD variant using an initial fill with periodic partial drainage; none share CAPD's machine-free simplicity. CAPD's main tradeoff is needing about four manual exchanges daily."
+  },
+  {
+   "topic": "CAPD disadvantages",
+   "question": "What is described as the principal disadvantage of CAPD for many patients?",
+   "options": {
+    "A": "The requirement for an electric cycler at night",
+    "B": "The requirement for multiple procedural sessions, usually four per day",
+    "C": "The inability to control blood pressure",
+    "D": "The high cost relative to APD"
+   },
+   "correct": "B",
+   "explanation": "B is correct: the principal disadvantage of CAPD is the requirement for multiple procedural sessions, usually four per day, each taking 30 to 40 minutes and usually requiring the patient to return home for sterility and supplies, which constrains daily activities. A cycler (A) belongs to APD, not CAPD. CAPD actually allows good fluid control and blood-pressure normalization in most patients, so C is wrong, and CAPD is generally cheaper than APD, making D wrong. Other minor limits are dwell-volume caps from raised intraperitoneal pressure."
+  },
+  {
+   "topic": "APD advantages",
+   "question": "What is the main advantage of APD compared with CAPD?",
+   "options": {
+    "A": "Lower cost of therapy",
+    "B": "Greater simplicity of equipment",
+    "C": "Lesser number of on-off procedures required each day, typically two versus four",
+    "D": "Better preservation of residual renal function"
+   },
+   "correct": "C",
+   "explanation": "C is correct: the main advantage of APD over CAPD is the smaller number of on-off procedures each day, typically two versus four, with none during the daytime, reducing interruptions, fatigue, and burnout and suiting active patients or those needing assistance. Lower cost (A) and simpler equipment (B) are wrong because APD requires a cycler and is more expensive and slightly more complex. Better preservation of residual function (D) is not a consistent finding, so it is not a stated advantage of APD."
+  },
+  {
+   "topic": "APD disadvantages",
+   "question": "Which of the following is listed as a main disadvantage of APD relative to CAPD?",
+   "options": {
+    "A": "Interruption of daytime activities",
+    "B": "Higher peritonitis rates in all programs",
+    "C": "Loss of continuous physiologic steady state in every case",
+    "D": "The need for a cycler, greater cost, and slightly greater complexity"
+   },
+   "correct": "D",
+   "explanation": "D is correct: the main disadvantages of APD relative to CAPD are the need for a cycler, the greater cost, and the slightly greater complexity. APD actually frees the daytime and reduces interruptions, so A is wrong. Peritonitis is not clearly higher on APD; an old randomized trial showed less peritonitis on APD, but there is now no consensus (B wrong). APD with a day dwell (CCPD) remains a continuous modality, so it does not universally lose the physiologic steady state (C wrong)."
+  },
+  {
+   "topic": "CCPD terminology",
+   "question": "APD performed with a day dwell is often referred to by which alternative name?",
+   "options": {
+    "A": "Continuous cycling peritoneal dialysis (CCPD)",
+    "B": "Nocturnal intermittent peritoneal dialysis (NIPD)",
+    "C": "Tidal peritoneal dialysis (TPD)",
+    "D": "Intermittent peritoneal dialysis (IPD)"
+   },
+   "correct": "A",
+   "explanation": "A is correct: APD performed with a day dwell is often called continuous cycling peritoneal dialysis (CCPD), keeping fluid present continuously. Day-dry APD, by contrast, is called nocturnal intermittent peritoneal dialysis (NIPD), so B names the dry variant. TPD (tidal PD) is a distinct APD form using an initial fill with periodic partial drainage, and IPD is not the term applied to day-dwell APD. The key point is that a retained day dwell makes the therapy continuous rather than intermittent."
+  },
+  {
+   "topic": "Tidal PD purpose",
+   "question": "What is the main use of tidal peritoneal dialysis (TPD) nowadays?",
+   "options": {
+    "A": "To dramatically enhance small-solute clearance in all patients",
+    "B": "To minimize drain pain during nighttime cycling",
+    "C": "To reduce the cost of APD therapy",
+    "D": "To preserve residual renal function"
+   },
+   "correct": "B",
+   "explanation": "B is correct: although TPD was originally designed to enhance small-solute clearance by avoiding the time lost to inflow and drainage, its main use nowadays is to minimize drain pain during nighttime cycling. The clearance advantage over standard APD (A) is not seen unless very large quantities of solution are used. TPD does not reduce cost; high-volume TPD actually increases cost and complexity and is not widely used (C wrong), and it has no role in preserving residual renal function (D)."
+  },
+  {
+   "topic": "Modality selection factors",
+   "question": "According to current thinking, which factors should be given more emphasis when choosing between CAPD and APD?",
+   "options": {
+    "A": "Peritoneal transport status above all else",
+    "B": "Serum albumin and nutritional indices",
+    "C": "Lifestyle factors such as employment and social support",
+    "D": "Body surface area alone"
+   },
+   "correct": "C",
+   "explanation": "C is correct: current thinking gives more emphasis to lifestyle factors such as employment, place of residence, family and social support, and comfort with cycler technology when choosing between CAPD and APD. Peritoneal transport status (A) was previously thought critical but is now felt to have been overstated. Serum albumin and nutrition (B) and body surface area (D) are not the primary selection drivers. Salt/water removal and peritonitis risk exist but lack evidence strong enough to guide initial modality choice."
+  },
+  {
+   "topic": "Sodium sieving",
+   "question": "Why has concern arisen about sodium removal being potentially worse with APD than with CAPD?",
+   "options": {
+    "A": "APD uses lower-tonicity solutions in all cases",
+    "B": "APD always uses icodextrin for the day dwell",
+    "C": "APD prevents any ultrafiltration during the day",
+    "D": "Sodium sieving is more apparent with the short-cycled dwell times of APD"
+   },
+   "correct": "D",
+   "explanation": "D is correct: sodium sieving is more apparent with the short-cycled dwell times of APD, and combined with the risk of net fluid resorption during long day dwells, this raised concern about adequacy of sodium removal on APD. One nonrandomized study (Rodriguez-Carmona, 2004) found less salt removal and more systolic hypertension with APD, but it is not generalizable. APD does not inherently use lower-tonicity solutions (A), always use icodextrin (B), or prevent all daytime ultrafiltration (C)."
+  },
+  {
+   "topic": "Weekly Kt/V target",
+   "question": "Current guidelines aim for a minimum total weekly Kt/V urea target of at least what value?",
+   "options": {
+    "A": "1.7",
+    "B": "1.2",
+    "C": "2.0",
+    "D": "2.4"
+   },
+   "correct": "A",
+   "explanation": "A is correct: current guidelines aim for a total weekly Kt/V urea of at least 1.7. This was lowered from the previously higher targets of 2.0 or greater (C) for noncontinuous PD, based on trial evidence, especially ADEMEX. 1.2 (B) sits at the low end of what noncontinuous prescriptions may deliver but is below target, and 2.4 (D) exceeds the required minimum. Guidelines no longer set different targets for continuous versus noncontinuous PD or by transport status, and renal plus peritoneal Kt/V may be summed."
+  },
+  {
+   "topic": "ADEMEX study",
+   "question": "The randomized ADEMEX study was influential in lowering PD clearance targets primarily because it found what?",
+   "options": {
+    "A": "Higher clearance markedly improved survival",
+    "B": "No difference in outcomes between higher and lower doses of PD",
+    "C": "Lower clearance caused excess peritonitis",
+    "D": "APD was superior to CAPD for volume control"
+   },
+   "correct": "B",
+   "explanation": "B is correct: the randomized ADEMEX study (Paniagua, 2002) found no difference in outcomes between patients assigned to higher versus lower doses of PD, which supported lowering the clearance target. It did not show higher clearance improved survival (A) or that lower clearance caused excess peritonitis (C). It studied PD dose, not a CAPD-versus-APD volume-control comparison (D). A similar Hong Kong trial (Lo, 2003) likewise found no benefit of higher doses, reinforcing the current 1.7 target."
+  },
+  {
+   "topic": "ADEMEX Kt/V values",
+   "question": "In the ADEMEX trial, the average weekly Kt/V in the higher-dose group versus the lower-dose group was approximately which pair of values?",
+   "options": {
+    "A": "1.6 versus 1.2",
+    "B": "2.5 versus 2.0",
+    "C": "2.1 versus 1.6",
+    "D": "1.7 versus 1.4"
+   },
+   "correct": "C",
+   "explanation": "C is correct: in ADEMEX the average weekly Kt/V was 2.1 in patients assigned to more dialysis versus 1.6 in the lower-dose group, and despite this gap there was no outcome difference. The other pairings (1.6 vs 1.2, 2.5 vs 2.0, 1.7 vs 1.4) do not match the trial's reported values. These numbers matter because they show that pushing Kt/V well above target added no benefit, justifying a guideline minimum of 1.7 rather than the older goal of 2.0 or greater."
+  },
+  {
+   "topic": "Hong Kong trial",
+   "question": "The randomized trial from Hong Kong (Lo, 2003) examining PD dose reached which conclusion?",
+   "options": {
+    "A": "It confirmed a clear benefit of higher PD doses",
+    "B": "It showed higher doses reduced peritonitis",
+    "C": "It found APD superior to CAPD",
+    "D": "It failed to find a benefit of higher doses of PD"
+   },
+   "correct": "D",
+   "explanation": "D is correct: the randomized Hong Kong trial (Lo, 2003), like ADEMEX, failed to find a benefit of higher doses of PD, so it did not confirm a benefit (A) or show reduced peritonitis (B). It examined PD dose, not a CAPD-versus-APD comparison (C). Together these two randomized trials underpin the lowering of the weekly Kt/V urea target to 1.7 and the abandonment of separate, higher targets for noncontinuous forms of PD."
+  },
+  {
+   "topic": "Creatinine clearance target",
+   "question": "European guidelines suggest an additional weekly creatinine clearance target of approximately what value per 1.73 m2?",
+   "options": {
+    "A": "45 L per week",
+    "B": "30 L per week",
+    "C": "60 L per week",
+    "D": "70 L per week"
+   },
+   "correct": "A",
+   "explanation": "A is correct: European, but not US, guidelines suggest an additional weekly CrCl target of 45/1.73 m2 L per week, reflecting clearance of molecules slightly larger than urea. The older CrCl target was around 60/1.73 m2 L per week (C), which most current guidelines no longer require because it added no value over Kt/V. 30 (B) and 70 (D) fall within the wide observed clearance range but are not the European recommendation. Weekly Kt/V urea of 1.7 remains the primary target."
+  },
+  {
+   "topic": "Creatinine vs urea rationale",
+   "question": "Why was a separate creatinine clearance target originally proposed in addition to the Kt/V urea target?",
+   "options": {
+    "A": "Creatinine is easier to measure than urea",
+    "B": "To model a uremic toxin of slightly higher molecular weight not so rapidly removed by diffusion",
+    "C": "Because creatinine has a lower molecular weight than urea",
+    "D": "Because urea cannot be measured in dialysate"
+   },
+   "correct": "B",
+   "explanation": "B is correct: a separate creatinine target was proposed to model a uremic toxin of slightly higher molecular weight than urea (113 vs. 60 Da) that is not removed as rapidly by diffusion. This makes A and C wrong, since creatinine is larger, not lower in weight, and ease of measurement was not the reason; urea is readily measured in dialysate, so D is wrong. Most guidelines have since dropped a minimum CrCl for lack of added value over Kt/V, though European guidelines keep a 45 L/week target."
+  },
+  {
+   "topic": "Residual renal function target",
+   "question": "What do KDOQI, Canadian, and European guidelines recommend regarding residual renal clearance in meeting the Kt/V target?",
+   "options": {
+    "A": "The target must be met by peritoneal clearance alone",
+    "B": "Renal clearance should be subtracted from the target",
+    "C": "Peritoneal and renal Kt/V can be added together to achieve the target",
+    "D": "Only renal clearance counts toward the target"
+   },
+   "correct": "C",
+   "explanation": "C is correct: KDOQI, Canadian, and European guidelines all recommend that peritoneal and renal Kt/V can be added together to achieve the weekly target of 1.7. Thus the target need not be met by peritoneal clearance alone (A), and renal clearance is counted toward, not subtracted from, the target (B). It is not the sole basis (D); both components sum. Some argue residual clearance should be treated as a precious bonus, but the guidelines permit summation, letting many patients meet target with modest peritoneal prescriptions."
+  },
+  {
+   "topic": "Residual function and survival",
+   "question": "What has repeatedly been shown about the relationship between residual renal clearance and patient outcome?",
+   "options": {
+    "A": "It has no effect on survival",
+    "B": "Greater residual renal clearance worsens survival",
+    "C": "Only peritoneal clearance affects survival",
+    "D": "Greater residual renal clearance is associated with superior patient survival"
+   },
+   "correct": "D",
+   "explanation": "D is correct: greater residual renal clearance has repeatedly been associated with superior patient survival, whereas a similar survival benefit for peritoneal clearance has been difficult to demonstrate within typical prescription ranges (the CANUSA observation, Churchill 1995). This makes A, B, and C wrong. The finding underlies advice to protect residual function with ACE inhibitors or ARBs and by avoiding nephrotoxins and volume depletion, and it supports counting renal clearance toward the Kt/V target."
+  },
+  {
+   "topic": "Peritoneal Kt calculation",
+   "question": "How is the peritoneal Kt for urea calculated?",
+   "options": {
+    "A": "24-hr dialysate urea nitrogen content divided by serum urea nitrogen",
+    "B": "24-hr urine urea nitrogen content divided by serum urea nitrogen",
+    "C": "Serum urea nitrogen divided by 24-hr dialysate urea nitrogen",
+    "D": "24-hr dialysate volume divided by serum creatinine"
+   },
+   "correct": "A",
+   "explanation": "A is correct: peritoneal Kt for urea equals the 24-hour dialysate urea nitrogen content divided by the serum urea nitrogen. Option B is the renal Kt formula (24-hour urine urea nitrogen divided by serum urea nitrogen). Option C inverts the ratio, and D wrongly mixes dialysate volume with serum creatinine. Total Kt is peritoneal plus renal Kt; dividing by V (total body water from Watson) and multiplying by 7 gives the weekly Kt/V urea used to judge adequacy."
+  },
+  {
+   "topic": "Watson formula",
+   "question": "The Watson formula referenced for peritoneal dialysis adequacy is used to estimate which quantity?",
+   "options": {
+    "A": "Body surface area (BSA)",
+    "B": "Total body water / urea distribution volume (V)",
+    "C": "Residual glomerular filtration rate",
+    "D": "Normalized protein nitrogen appearance"
+   },
+   "correct": "B",
+   "explanation": "B is correct: the Watson formula, based on age, sex, height, and weight, estimates V, the urea distribution volume equal to total body water, which normalizes Kt to give Kt/V. BSA (A) is instead estimated by the DuBois or Gehan-George formula and is used for CrCl normalization to 1.73 m2. Watson does not estimate residual GFR (C) or nPNA (D). Using ideal or standard body weight in Watson gives an adjusted V, making targets easier to reach in obese and harder in wasted patients."
+  },
+  {
+   "topic": "Blood sampling timing APD",
+   "question": "In APD, when is it ideally best to obtain the plasma urea sample for clearance measurement?",
+   "options": {
+    "A": "First thing in the morning before cycling ends",
+    "B": "Immediately after the last nocturnal cycle",
+    "C": "In the middle of the noncycling daytime period, typically 1 to 5 p.m.",
+    "D": "At midnight during peak cycling"
+   },
+   "correct": "C",
+   "explanation": "C is correct: in APD blood urea is not constant through the day, so the plasma sample is ideally taken in the middle of the noncycling daytime period, typically between 1:00 and 5:00 p.m., approximating the average daily level. Morning or post-cycle samples (A, B) and a midnight peak-cycling sample (D) would misrepresent the average. In CAPD, by contrast, timing is not critical because blood urea stays relatively constant. Accurate averaging matters because Kt divides dialysate urea by this serum value."
+  },
+  {
+   "topic": "Creatinine assay artifact",
+   "question": "Why must some laboratories apply a correction when measuring creatinine in dialysate effluent?",
+   "options": {
+    "A": "Low protein levels lower measured creatinine",
+    "B": "Icodextrin destroys creatinine in the sample",
+    "C": "Dialysate dilutes creatinine below detectable levels",
+    "D": "High glucose levels artifactually elevate the creatinine measurement in some assays"
+   },
+   "correct": "D",
+   "explanation": "D is correct: high glucose in dialysate can artifactually elevate the measured creatinine in some biochemical assays, so each laboratory should derive its own correction factor, for example by spiking unused dextrose-containing bags with a known amount of creatinine. Low protein (A), icodextrin destroying creatinine (B), and dilution below detection (C) are not the described mechanism. Uncorrected, this artifact would overestimate peritoneal CrCl and falsely suggest better clearance than is truly delivered."
+  },
+  {
+   "topic": "Measurement frequency",
+   "question": "KDOQI recommends that Kt/V urea in stable PD patients be measured within 1 month of initiation and then at what interval subsequently?",
+   "options": {
+    "A": "Every 4 months",
+    "B": "Every month",
+    "C": "Every 2 months",
+    "D": "Every 12 months"
+   },
+   "correct": "A",
+   "explanation": "A is correct: KDOQI recommends measuring Kt/V urea within 1 month of initiating PD and every 4 months thereafter, plus after any significant prescription or clinical change. Monthly (B) is more often than advised. Every 2 months (C) applies specifically to urinary clearance when an incremental approach is used, not routine Kt/V. Yearly (D) is too infrequent. In stable patients meeting targets, a pragmatic compromise of every 6 months is acceptable."
+  },
+  {
+   "topic": "Residual function proportion",
+   "question": "At the initiation of peritoneal dialysis, residual kidney function can account for as much as what proportion of total clearance?",
+   "options": {
+    "A": "About 10%",
+    "B": "About 50%",
+    "C": "About 25%",
+    "D": "About 90%"
+   },
+   "correct": "B",
+   "explanation": "B is correct: residual kidney function can easily account for as much as 50% of total clearance at the initiation of PD, and it is the major source of the wide variation in delivered clearance. This is why 10% (A) and 25% (C) understate its early contribution and 90% (D) overstates it. Because residual function fades over time, it must be monitored every 2 to 3 months, or a maximal prescription used, to prevent the patient slipping below target unnoticed."
+  },
+  {
+   "topic": "Transport status and outcomes",
+   "question": "Regarding peritoneal transport status and survival on CAPD, which transporter group tends to do best?",
+   "options": {
+    "A": "High transporters, because they achieve the highest clearances",
+    "B": "High-average transporters exclusively",
+    "C": "Low transporters, despite tending to have lower clearances",
+    "D": "Transport status has no effect on survival"
+   },
+   "correct": "C",
+   "explanation": "C is correct: low transporters do best in patient and technique survival on CAPD despite tending to have lower clearances, likely because of the importance of ultrafiltration and its interaction with cardiovascular morbidity. High transporters achieve higher clearances but not better survival, so A and B are wrong, and transport status clearly does affect survival, making D wrong. Low transporters gain clearance from high-volume, long dwells, whereas high transporters suit short dwells."
+  },
+  {
+   "topic": "PET-guided transport",
+   "question": "How is peritoneal transport status measured, and what dwell strategy suits low transporters best?",
+   "options": {
+    "A": "By PET; low transporters do best with short-duration dwells",
+    "B": "By serum albumin; low transporters need rapid cycling",
+    "C": "By Kt/V alone; low transporters need many small exchanges",
+    "D": "By PET; low transporters do best with high-volume, long-duration dwells"
+   },
+   "correct": "D",
+   "explanation": "D is correct: transport status is measured by the peritoneal equilibration test (PET), and low transporters achieve greater clearances with high-volume, long-duration dwells because their slower membranes need time to equilibrate. High transporters instead do well with short-duration dwells. Serum albumin (B) and Kt/V alone (C) do not measure transport, and A pairs PET correctly but wrongly assigns short dwells to low transporters. Urea differences are less pronounced than creatinine because urea diffuses rapidly even in low transporters."
+  },
+  {
+   "topic": "Initial CAPD prescription",
+   "question": "What is described as the typical initial CAPD prescription?",
+   "options": {
+    "A": "4 x 2 L daily",
+    "B": "3 x 2 L daily",
+    "C": "5 x 2.5 L daily",
+    "D": "4 x 3 L daily"
+   },
+   "correct": "A",
+   "explanation": "A is correct: the typical initial CAPD prescription remains 4 x 2 L daily. Some centers use 4 x 2.5 L (not 5 x 2.5 L, so C is wrong) in larger patients or those with low residual function, and 3 x 2 L (B) in small patients or those with substantial residual function, as done routinely in Hong Kong where body weights are lower. 4 x 3 L (D) is not a standard starting regimen. The prescription is then adjusted upward if clearance targets are not met."
+  },
+  {
+   "topic": "Increasing dwell volume",
+   "question": "Switching a larger patient from 4 x 2 L to 4 x 2.5 L CAPD represents a 25% increase in instilled volume and typically raises peritoneal Kt/V by approximately how much?",
+   "options": {
+    "A": "5% to 8%",
+    "B": "18% to 20%",
+    "C": "30% to 35%",
+    "D": "50% to 60%"
+   },
+   "correct": "B",
+   "explanation": "B is correct: switching a larger patient from 4 x 2 L to 4 x 2.5 L is a 25% increase in instilled volume and typically raises peritoneal Kt/V by about 18% to 20%, because the larger dwell causes only a small fall in urea and creatinine equilibration. Smaller increments (A) understate and larger ones (C, D) overstate the effect. In smaller patients or with 3-L dwells, equilibration falls off more and the percentage gain is reduced, so volume increases are less effective there."
+  },
+  {
+   "topic": "Anuric large patients",
+   "question": "To achieve clearance targets in larger anuric patients over 75 kg, what minimum dwell volume is typically required?",
+   "options": {
+    "A": "1.5 L",
+    "B": "2.0 L",
+    "C": "At least 2.5 L",
+    "D": "At least 4.0 L"
+   },
+   "correct": "C",
+   "explanation": "C is correct: to reach clearance targets in larger (>75 kg) anuric patients, dwell volumes of at least 2.5 L are typically required (Virga, 2014). 1.5 L (A) and 2.0 L (B) are generally insufficient once residual function is lost in big patients, and 4.0 L (D) exceeds usual practice. Some programs start such patients on larger volumes from the outset, before they get accustomed to smaller dwells, which also minimizes back pain and distention from the higher intraperitoneal pressure."
+  },
+  {
+   "topic": "Dwell volume disadvantages",
+   "question": "Which of the following is a stated disadvantage of increasing CAPD dwell volumes?",
+   "options": {
+    "A": "It requires 25% more procedures per day",
+    "B": "It dramatically increases peritonitis risk",
+    "C": "It reduces total daily solution delivered",
+    "D": "Patients may complain of back pain, abdominal distention, and shortness of breath"
+   },
+   "correct": "D",
+   "explanation": "D is correct: the main disadvantage of increasing dwell volumes is that some patients complain of back pain, abdominal distention, and even shortness of breath from raised intraperitoneal pressure. It does not add procedures (A describes raising exchange frequency, which is 25% more costly) and does not dramatically increase peritonitis (B); studies show only a small rise in hernias and leaks. Larger volumes increase, not reduce, total daily solution delivered (C wrong), which is why clearance rises."
+  },
+  {
+   "topic": "Increasing tonicity",
+   "question": "Increasing the tonicity of CAPD dialysis solutions augments both clearance and ultrafiltration, but raises concern about which complications?",
+   "options": {
+    "A": "Hyperglycemia, hyperlipidemia, obesity, and long-term membrane damage",
+    "B": "Hypoglycemia and weight loss",
+    "C": "Hyperkalemia and metabolic alkalosis",
+    "D": "Hypotension and dehydration only"
+   },
+   "correct": "A",
+   "explanation": "A is correct: increasing dialysis solution tonicity augments both clearance and ultrafiltration but raises concern about hyperglycemia, hyperlipidemia, obesity, and long-term peritoneal membrane damage from excess glucose exposure. It does not cause hypoglycemia or weight loss (B), hyperkalemia and alkalosis (C), or merely hypotension and dehydration (D). These glucose-related harms are why tonicity escalation is a last-line clearance strategy and why glucose-sparing agents like icodextrin and amino acids are preferred."
+  },
+  {
+   "topic": "Initial APD prescription",
+   "question": "A typical starting APD prescription uses what daily fluid volume and cycler time?",
+   "options": {
+    "A": "5 to 6 L daily over 4 hours",
+    "B": "10 or 12 L daily (some use 15 L) with 8 to 10 hours on the cycler",
+    "C": "20 L daily over 12 hours",
+    "D": "8 L daily over 3 hours"
+   },
+   "correct": "B",
+   "explanation": "B is correct: a typical starting APD prescription uses 10 or 12 L of fluid daily (some use 15 L in larger patients) with 8 to 10 hours on the cycler, and daytime cycler dwell volumes usually 2 L or 2.5 L in larger patients. Options A, C, and D give volumes and times outside these typical ranges. Whether the patient starts day-dry or with a day dwell depends on residual function, body size, and transport status, with dwell duration shortened in higher transporters to avoid fluid resorption."
+  },
+  {
+   "topic": "APD clearance strategies",
+   "question": "In a day dry APD patient, what is described as the best (most useful) way to increase clearance?",
+   "options": {
+    "A": "Increase dialysis solution tonicity",
+    "B": "Increase time on the cycler only",
+    "C": "Add a day dwell",
+    "D": "Decrease the fill volume"
+   },
+   "correct": "C",
+   "explanation": "C is correct: in a day-dry APD patient the best, most useful way to increase clearance is to add a day dwell, which raises both Kt/V and CrCl, with the larger effect on CrCl because creatinine equilibration depends on longer dwell times. Increasing tonicity (A) is limited by glucose harms and ranks last among APD strategies. Increasing cycler time (B) helps but less than a day dwell, and decreasing fill volume (D) would lower clearance. Adding a day dwell is highlighted as very cost-effective."
+  },
+  {
+   "topic": "Day dwell effect",
+   "question": "Adding a day dwell to a day dry APD patient will typically increase daily peritoneal Kt/V and CrCl by approximately how much?",
+   "options": {
+    "A": "5% to 10%",
+    "B": "75% to 100%",
+    "C": "100% to 150%",
+    "D": "25% to 50%"
+   },
+   "correct": "D",
+   "explanation": "D is correct: adding a day dwell to a day-dry APD patient typically increases daily peritoneal Kt/V and CrCl by 25% to 50%, making it very cost-effective (Blake, 1996). Smaller (A) or much larger (B, C) figures do not match the chapter. Further gains come from adding a second or third day dwell, though these are less often needed under today's more modest Kt/V targets. The CrCl gain exceeds the Kt/V gain because creatinine relies more on longer dwell times for equilibration."
+  },
+  {
+   "topic": "Cycle frequency limit",
+   "question": "When increasing cycle frequency in APD, further increment in clearance becomes minimal once the number of cycles exceeds approximately what per 9-hour treatment?",
+   "options": {
+    "A": "6 to 9 cycles",
+    "B": "2 to 3 cycles",
+    "C": "12 to 15 cycles",
+    "D": "20 cycles"
+   },
+   "correct": "A",
+   "explanation": "A is correct: once cycles exceed about 6 to 9 per 9-hour treatment, a large proportion of the session is spent draining and filling, so further clearance increment becomes minimal. Lower counts like 2 to 3 (B) have not yet reached that ceiling, and 12 to 15 or 20 (C, D) are well past the point of diminishing returns. More frequent cycling helps more in high transporters and more for urea than creatinine; keeping a little dialysate present (tidal PD) can support clearance during rapid cycling."
+  },
+  {
+   "topic": "Incremental approach",
+   "question": "What best describes the incremental approach to prescribing peritoneal dialysis?",
+   "options": {
+    "A": "Starting with maximal peritoneal clearance ignoring residual function",
+    "B": "Using PD to make up only the difference between residual renal clearance and target clearance",
+    "C": "Prescribing hemodialysis first, then PD",
+    "D": "Always using icodextrin from the outset"
+   },
+   "correct": "B",
+   "explanation": "B is correct: the incremental approach uses PD to make up only the difference between residual renal clearance and the target, so patients may initially need just two or three CAPD exchanges, a low-volume day-dry APD regimen, or even a day per week off dialysis. It does not start with maximal peritoneal clearance ignoring residual function (A, which describes the maximal approach), involve hemodialysis first (C), or mandate icodextrin (D). Its tradeoff is needing regular monitoring of residual function as it declines."
+  },
+  {
+   "topic": "Maximal approach",
+   "question": "The maximal prescription approach treats residual renal function in what way?",
+   "options": {
+    "A": "As a permanent contribution that never fades",
+    "B": "As irrelevant to prescription",
+    "C": "As a temporary bonus that inevitably deteriorates with time",
+    "D": "As the sole basis for meeting targets"
+   },
+   "correct": "C",
+   "explanation": "C is correct: the maximal approach gives a prescription sufficient to meet targets by peritoneal dialysis alone from the outset, treating residual renal function as a temporary bonus that inevitably deteriorates with time. It therefore does not regard residual function as permanent (A), irrelevant (B), or the sole basis for meeting targets (D). Its advantage is protection against unnoticed decline in residual function; its cost is greater expense, more procedures, and higher glucose exposure than the incremental approach."
+  },
+  {
+   "topic": "Incremental advantages",
+   "question": "Which is an advantage of the incremental approach to PD prescription?",
+   "options": {
+    "A": "It requires no monitoring of residual function",
+    "B": "It guarantees clearance never falls below target",
+    "C": "It eliminates the need for a PET",
+    "D": "It is initially less costly and less onerous and may decrease glucose exposure and peritonitis risk"
+   },
+   "correct": "D",
+   "explanation": "D is correct: the incremental approach is initially less costly and less onerous for the patient and may decrease total glucose exposure and peritonitis risk because fewer procedures are performed. It does still require regular monitoring of residual function (so A is wrong) and does not guarantee clearance stays above target (B) nor eliminate the PET (C). Its main disadvantage is precisely that residual function must be tracked so that total clearance does not silently fall below target levels."
+  },
+  {
+   "topic": "Modeled approach",
+   "question": "The modeled (software-based) approach to PD prescription involves collecting which data?",
+   "options": {
+    "A": "Anthropometric data, PET-measured transport, residual renal function, and often 24-hr effluent",
+    "B": "Only serum albumin and blood pressure",
+    "C": "Only the patient's peritonitis history",
+    "D": "Only the desired weekly Kt/V"
+   },
+   "correct": "A",
+   "explanation": "A is correct: the modeled, software-based approach collects anthropometric data, measures peritoneal transport with a PET, quantifies residual renal function, and typically collects 24-hour dialysate effluent to predict, with reasonable accuracy, the clearances for various prescriptions. It uses far more than serum albumin and blood pressure (B), peritonitis history (C), or the desired Kt/V alone (D). Actual clearances must still be measured because modeled and delivered values sometimes diverge; it is most useful in complex cases and APD."
+  },
+  {
+   "topic": "Loss of residual function pitfall",
+   "question": "A common PD prescription pitfall is that residual renal function is not monitored closely enough. How is this best avoided?",
+   "options": {
+    "A": "Switching all patients to hemodialysis",
+    "B": "Measuring residual clearance every 2 to 3 months or adopting a maximal prescription approach",
+    "C": "Ignoring residual function entirely",
+    "D": "Measuring residual clearance once a year"
+   },
+   "correct": "B",
+   "explanation": "B is correct: the pitfall of undetected loss of residual renal function is best avoided by measuring residual clearance every 2 to 3 months, or by adopting a maximal prescription that provides adequate peritoneal clearance independent of residual function. Switching everyone to hemodialysis (A) or ignoring residual function (C) is inappropriate, and yearly measurement (D) is too infrequent to catch a rapid decline before the patient is left underdialyzed for a prolonged period."
+  },
+  {
+   "topic": "Noncompliance detection",
+   "question": "A patient appears uremic with high blood urea and potassium despite measured clearances exceeding targets. What should be strongly suspected?",
+   "options": {
+    "A": "Excessive dialysis dose",
+    "B": "Loss of peritoneal membrane function",
+    "C": "Noncompliance with the prescription on non-collection days",
+    "D": "Icodextrin overdose"
+   },
+   "correct": "C",
+   "explanation": "C is correct: when a patient appears uremic with high blood urea and potassium despite measured clearances exceeding targets, noncompliance on non-collection days is strongly suspected, because on collection days the patient is fully compliant and appears adequate. Excess dose (A) would not cause uremia, and membrane failure (B) or icodextrin overdose (D) do not fit. There is no single test; serial 24-hour creatinine excretion that rises above baseline suggests noncompliance, as accumulated creatinine is dialyzed out on collection days."
+  },
+  {
+   "topic": "High creatinine good clearance",
+   "question": "A patient has Kt/V urea above 1.7 but serum creatinine of 12 to 16 mg/dL. If CrCl is at or above 45 to 50 L/wk/1.73 m2 and lean body mass is high, the elevated creatinine most likely reflects what?",
+   "options": {
+    "A": "Inadequate clearance requiring a switch to hemodialysis",
+    "B": "Severe malnutrition",
+    "C": "Icodextrin interference with the assay",
+    "D": "High creatinine generation from high lean body mass, with a good prognosis"
+   },
+   "correct": "D",
+   "explanation": "D is correct: with Kt/V above 1.7, CrCl at or above 45 to 50 L/wk/1.73 m2, and high lean body mass, a markedly elevated serum creatinine reflects high creatinine generation and carries a good prognosis. Treating it as inadequate clearance and switching to hemodialysis (A) would be a mistake. It is not necessarily malnutrition (B); such patients may even be thin. Icodextrin does not cause this (C). Other causes of high creatinine to exclude are noncompliance and Kt/V-CrCl discordance."
+  },
+  {
+   "topic": "Day dry APD anuric",
+   "question": "What is the specific concern about achieving Kt/V above 1.7 with day dry APD in anuric patients?",
+   "options": {
+    "A": "Middle-molecule clearance depends on dialysis time and will be low despite adequate Kt/V",
+    "B": "Urea clearance is too high",
+    "C": "Creatinine clearance will always be excessive",
+    "D": "Sodium removal is always excessive"
+   },
+   "correct": "A",
+   "explanation": "A is correct: even when day-dry APD achieves Kt/V above 1.7 in anuric patients (typically smaller, high or high-average transporters), the concern is that middle-molecule clearance depends on dialysis time and will be low without residual function or a day dwell. Urea clearance is adequate, not too high (B), and CrCl is not guaranteed excessive (C) nor is sodium removal (D). There is no proven middle-molecule target, but continuous modalities like CAPD or APD with day dwells may clear them better."
+  },
+  {
+   "topic": "Switch CAPD to APD",
+   "question": "Why can an inappropriate switch from CAPD to APD worsen dialysis adequacy, particularly in low transporters?",
+   "options": {
+    "A": "APD always uses less total fluid",
+    "B": "Low transporters are unlikely to achieve higher clearances on APD unless two day dwells are prescribed",
+    "C": "APD abolishes residual renal function",
+    "D": "APD cannot be used in low transporters at all"
+   },
+   "correct": "B",
+   "explanation": "B is correct: an inappropriate CAPD-to-APD switch can worsen adequacy because low transporters are unlikely to achieve higher clearances on APD than CAPD unless two day dwells are prescribed, since APD's short cycles limit their equilibration. APD does not necessarily use less fluid (A), abolish residual function (C), or be contraindicated in low transporters (D). Also, a patient with the same Kt/V urea after switching will have a lower CrCl, so APD is not a panacea for inadequate CAPD."
+  },
+  {
+   "topic": "Fluid removal neglect",
+   "question": "Inadequate attention to fluid removal is particularly problematic in which patients?",
+   "options": {
+    "A": "Low transporters using short dwells",
+    "B": "Anuric patients on maximal prescriptions",
+    "C": "High and high-average transporters, especially with long dwells causing net fluid resorption",
+    "D": "Patients with high residual renal function"
+   },
+   "correct": "C",
+   "explanation": "C is correct: inadequate attention to ultrafiltration is particularly a problem in high and high-average transporters, especially when long dwells that cause net fluid resorption are used, because their fast membranes dissipate the glucose gradient. Low transporters using short dwells (A), anuric patients on maximal prescriptions (B), and patients with high residual function (D) are less prone. Good clearances can still leave insufficient fluid removal and hypertension, remedied by icodextrin long dwells and short APD day dwells."
+  },
+  {
+   "topic": "Icodextrin for UF",
+   "question": "Which two strategies are highlighted for improving fluid removal in high and high-average transporters?",
+   "options": {
+    "A": "Increasing dwell volumes and adding a third day dwell",
+    "B": "Lowering solution tonicity and reducing cycle frequency",
+    "C": "Switching to hemodialysis and stopping diuretics",
+    "D": "Using icodextrin for the long dwell and prescribing short day dwells in APD"
+   },
+   "correct": "D",
+   "explanation": "D is correct: the two highlighted strategies for improving fluid removal in high and high-average transporters are using icodextrin for the long dwell in both CAPD and APD, and prescribing short day dwells in APD, both of which counter net fluid resorption. Increasing dwell volume or adding a third day dwell (A) targets clearance, not the resorption problem; lowering tonicity or reducing cycling (B) would worsen fluid removal; and switching to hemodialysis or stopping diuretics (C) is not advised here."
+  },
+  {
+   "topic": "Glucose exposure harm",
+   "question": "There is strong evidence that cumulative glucose exposure in PD solutions leads to what?",
+   "options": {
+    "A": "Deterioration in membrane function with a decline in ultrafiltration",
+    "B": "Improvement in membrane function over time",
+    "C": "Enhanced residual renal function",
+    "D": "Reduced peritonitis rates"
+   },
+   "correct": "A",
+   "explanation": "A is correct: there is strong evidence that cumulative glucose exposure leads to deterioration in peritoneal membrane function with a decline in ultrafiltration, and systemic glucose absorption may aggravate or induce hyperglycemia, hyperinsulinemia, obesity, and hyperlipidemia. It does not improve membrane function (B), enhance residual function (C), or reduce peritonitis (D). This harm motivates glucose-sparing strategies, balanced against the need to avoid hypervolemia."
+  },
+  {
+   "topic": "General glucose-sparing",
+   "question": "Which of the following is a general strategy to lessen the need for hypertonic glucose?",
+   "options": {
+    "A": "Increasing dietary salt and water intake",
+    "B": "Prescription of high-dose loop diuretics to maintain higher urine volumes",
+    "C": "Stopping ACE inhibitors and ARBs",
+    "D": "Lowering the target weight regardless of body composition"
+   },
+   "correct": "B",
+   "explanation": "B is correct: general glucose-sparing strategies reduce the need for hypertonic glucose and include high-dose loop diuretics to maintain higher urine volumes, along with salt and water restriction, preserving residual function (ACE inhibitors or ARBs, avoiding nephrotoxins, contrast, and volume depletion), and revising target weight upward when weight gain is due to fat mass. Increasing salt and water intake (A), stopping ACE inhibitors and ARBs (C), and lowering target weight regardless of body composition (D) run opposite to these goals."
+  },
+  {
+   "topic": "Non-glucose solutions",
+   "question": "Non-glucose dialysis solution glucose-sparing strategies involve substituting solutions containing which agents?",
+   "options": {
+    "A": "Higher-dextrose glucose",
+    "B": "Bicarbonate only",
+    "C": "Icodextrin or amino acids",
+    "D": "Sodium chloride only"
+   },
+   "correct": "C",
+   "explanation": "C is correct: non-glucose dialysis solution strategies substitute solutions containing icodextrin or amino acids for those containing glucose (Paniagua, 2009; Li, 2013). Higher-dextrose glucose (A) is the opposite of glucose-sparing, and bicarbonate only (B) or sodium chloride only (D) are not the substitutes described. These agents cut glucose exposure while still supporting ultrafiltration or nutrition, but a balance must be kept between minimizing glucose exposure and avoiding hypervolemia."
+  },
+  {
+   "topic": "Nutrition and survival",
+   "question": "What has nutritional status in peritoneal dialysis patients been repeatedly shown to do?",
+   "options": {
+    "A": "Have no bearing on outcomes",
+    "B": "Only affect peritonitis risk",
+    "C": "Depend solely on dialysate glucose",
+    "D": "Predict patient survival and other outcomes"
+   },
+   "correct": "D",
+   "explanation": "D is correct: nutritional status in PD patients has repeatedly been shown to predict patient survival and other outcomes, so nutrition indicators should be routinely monitored to identify high-risk patients for intervention. It is not irrelevant to outcomes (A), limited to peritonitis risk (B), or dependent solely on dialysate glucose (C). Monitored indices include nPNA, caloric intake, serum albumin, subjective global assessment, and creatinine excretion, each linked to prognosis."
+  },
+  {
+   "topic": "nPNA rationale",
+   "question": "Normalized protein nitrogen appearance (nPNA) estimates protein intake based on which principle?",
+   "options": {
+    "A": "That in steady state, nitrogen excretion is proportional to protein intake",
+    "B": "That protein intake equals dialysate glucose absorption",
+    "C": "That serum albumin equals protein intake",
+    "D": "That creatinine excretion equals nitrogen intake"
+   },
+   "correct": "A",
+   "explanation": "A is correct: nPNA rests on the principle that in steady state nitrogen excretion is proportional to protein intake, and it is measured from the same 24-hour dialysate and urine collections used for Kt/V. It does not equate protein intake with dialysate glucose absorption (B), serum albumin (C), or creatinine excretion (D). Estimates use a formula such as Bergstrom's; normalizing to standard rather than actual body weight avoids falsely high values in wasted and falsely low values in obese patients."
+  },
+  {
+   "topic": "nPNA formula",
+   "question": "Which formula is cited as a reliable one for estimating protein nitrogen appearance in PD patients?",
+   "options": {
+    "A": "The Watson formula",
+    "B": "The Bergstrom formula",
+    "C": "The DuBois formula",
+    "D": "The Keshaviah formula"
+   },
+   "correct": "B",
+   "explanation": "B is correct: the Bergstrom (1998) formula is cited as a reliable one for estimating protein nitrogen appearance from urea nitrogen appearance in PD patients. The Watson formula (A) estimates V, DuBois (C) estimates BSA, and Keshaviah (D) relates to lean body mass estimation by creatinine kinetics. Bergstrom's PNA is then normalized to standard body weight to give nPNA; using actual weight can mislead, giving high values in malnourished and low values in obese patients."
+  },
+  {
+   "topic": "nPNA target",
+   "question": "What is the recommended target nPNA for peritoneal dialysis patients?",
+   "options": {
+    "A": "0.6 g/kg per day",
+    "B": "0.8 g/kg per day",
+    "C": "1.2 g/kg per day",
+    "D": "2.0 g/kg per day"
+   },
+   "correct": "C",
+   "explanation": "C is correct: the recommended target nPNA for PD patients is 1.2 g/kg per day, though this may be unnecessarily high for many who achieve nitrogen balance at lower intakes. 0.6 or 0.8 g/kg/day (A, B) are below target, and a falling nPNA or a level less than 0.8 g/kg per day is a cause for concern, especially with other signs of poor nutrition. 2.0 g/kg/day (D) is far above the recommendation. Normalizing to ideal rather than actual weight avoids misclassifying wasted or obese patients."
+  },
+  {
+   "topic": "Caloric intake target",
+   "question": "What is the suggested caloric intake target for peritoneal dialysis patients?",
+   "options": {
+    "A": "25 kcal/kg per day",
+    "B": "30 kcal/kg per day",
+    "C": "45 kcal/kg per day",
+    "D": "35 kcal/kg per day"
+   },
+   "correct": "D",
+   "explanation": "D is correct: the suggested caloric intake target is 35 kcal/kg per day, of which typically 10% to 30% comes from glucose absorbed from the dialysis solution, the exact amount depending on tonicity, dwell time, volume, and PET characteristics. 25, 30, and 45 kcal/kg/day (A, B, C) do not match the recommendation. Because glucose absorption contributes calories, energy assessment requires dietary evaluation plus quantifying glucose absorbed, found by subtracting effluent glucose from source solution glucose."
+  },
+  {
+   "topic": "Amino acid solution absorption",
+   "question": "When an amino acid-containing dialysis solution is given as a 2-L daytime dwell left in place for 6 hours, approximately what proportion of the amino acid content is absorbed?",
+   "options": {
+    "A": "About 85%",
+    "B": "About 25%",
+    "C": "About 50%",
+    "D": "About 100%"
+   },
+   "correct": "A",
+   "explanation": "A is correct: when an amino acid-containing solution is given as a 2-L daytime dwell left in place for 6 hours, about 85% of its amino acid content is absorbed, and food should be eaten at the time to maximize utilization. 25%, 50%, and 100% (B, C, D) are incorrect. Amino acid dwells, available in many countries but not the United States, are typically given once daily as a last-bag option; they improve nitrogen balance but have not been shown to improve major clinical outcomes."
+  },
+  {
+   "topic": "CANUSA study",
+   "question": "The CANUSA study (Churchill, 1995) is cited in the context of which observation about peritoneal dialysis?",
+   "options": {
+    "A": "That icodextrin improves fluid management",
+    "B": "That it has been difficult to show a survival effect for peritoneal clearance within typical prescription ranges",
+    "C": "That APD reduces peritonitis compared with CAPD",
+    "D": "That amino acid solutions improve survival"
+   },
+   "correct": "B",
+   "explanation": "B is correct: the CANUSA study (Churchill, 1995) is cited noting that it has been difficult to show a survival effect for peritoneal clearance within the range of prescriptions in typical clinical use, in contrast to residual renal clearance, which repeatedly correlates with better survival. It is not the source for icodextrin fluid management (A), APD peritonitis reduction (C), or amino acid survival benefit (D). This observation supports counting residual clearance toward the Kt/V target and protecting it."
+  },
+  {
+   "topic": "Icodextrin nocturnal dwell",
+   "question": "When icodextrin is available for the long dwell in CAPD, how is its use typically restricted in some centers?",
+   "options": {
+    "A": "Used only in low transporters",
+    "B": "Used for every exchange in all patients",
+    "C": "Used only in high transporters or patients with nocturnal fluid resorption problems",
+    "D": "Used only in patients with high residual function"
+   },
+   "correct": "C",
+   "explanation": "C is correct: because icodextrin is more expensive, some centers use it routinely for the CAPD nocturnal long dwell while others reserve it for high transporters or patients in whom fluid resorption at night becomes a clinical problem. It is not restricted to low transporters (A), used for every exchange in all patients (B), or limited to those with high residual function (D). Icodextrin resists the net fluid resorption that long dwells cause in fast transporters, improving ultrafiltration and volume control."
+  }
+ ]
+}

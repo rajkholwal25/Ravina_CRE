@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Admin — Dialysis Quiz</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <span class="logo">🛡️</span>
+    <div>
+      <h1>Admin Dashboard</h1>
+      <p class="sub">Users, scores &amp; activity</p>
+    </div>
+  </div>
+  <div class="topactions">
+    <a class="ghost" href="/">← Quiz app</a>
+    <button id="logoutBtn" class="ghost">Log out</button>
+  </div>
+</header>
+
+<main class="screen">
+  <section class="panel">
+    <div class="hist-head"><h2 id="adminTitle">All users</h2>
+      <button id="refreshBtn" class="ghost sm">↻ Refresh</button></div>
+    <div id="statRow" class="statgrid"></div>
+    <div id="adminBody"></div>
+  </section>
+</main>
+
+<footer class="site-footer">Its For You My Baby <span class="heart">❤️</span></footer>
+
+<script>
+const $ = (s) => document.querySelector(s);
+const fmtDate = (s) => s ? new Date(s).toLocaleString() : "—";
+
+async function loadUsers() {
+  const data = await fetch("/api/admin/users").then((r) => r.json());
+  if (data.error) { $("#adminBody").innerHTML = `<p class="subnote">${data.error}</p>`; return; }
+  const users = data.users || [];
+  const totalUsers = users.length;
+  const totalQuizzes = users.reduce((a, u) => a + Number(u.quizzes), 0);
+  $("#statRow").innerHTML = `
+    <div class="stat"><div class="v">${totalUsers}</div><div class="l">Users</div></div>
+    <div class="stat"><div class="v">${totalQuizzes}</div><div class="l">Quizzes taken</div></div>`;
+  $("#adminTitle").textContent = "All users";
+  $("#adminBody").innerHTML = `<div class="tablewrap"><table class="atable">
+    <thead><tr><th>User</th><th>Quizzes</th><th>Overall</th><th>Last quiz</th><th></th></tr></thead>
+    <tbody>${users.map(u => {
+      const pct = u.total_answered > 0 ? Math.round(100 * u.total_correct / u.total_answered) : 0;
+      return `<tr>
+        <td><b>${u.email}</b>${u.is_admin ? ' <span class="badge">admin</span>' : ''}
+            <div class="hmeta">${u.name || ''} · joined ${fmtDate(u.created_at)}</div></td>
+        <td>${u.quizzes}</td>
+        <td>${u.total_answered ? `${u.total_correct}/${u.total_answered} (${pct}%)` : '—'}</td>
+        <td>${fmtDate(u.last_quiz)}</td>
+        <td>${Number(u.quizzes) ? `<button class="ghost sm" onclick="viewUser(${u.id}, '${u.email.replace(/'/g, "")}')">View</button>` : ''}</td>
+      </tr>`;
+    }).join("")}</tbody></table></div>`;
+}
+
+async function viewUser(uid, email) {
+  const data = await fetch(`/api/admin/users/${uid}/results`).then((r) => r.json());
+  $("#adminTitle").innerHTML = `Quizzes by ${email} <button class="ghost sm" onclick="loadUsers()">← All users</button>`;
+  $("#statRow").innerHTML = "";
+  const rows = data.results || [];
+  $("#adminBody").innerHTML = rows.length ? rows.map(r => {
+    const pct = r.total ? Math.round(100 * r.score / r.total) : 0;
+    const m = Math.floor(r.duration_seconds / 60), s = r.duration_seconds % 60;
+    const chap = r.chapters === "all" ? "All chapters" : "Ch " + r.chapters;
+    return `<div class="histrow">
+        <div class="hinfo">
+          <div class="hscore">${r.score}/${r.total} <span class="hpct">(${pct}%)</span></div>
+          <div class="hmeta">${chap} · ⏱ ${m}m ${s}s · ${fmtDate(r.created_at)}</div>
+        </div>
+        <div class="rowbtns">
+          <button class="ghost sm" onclick="viewQuiz(${r.id})">View</button>
+          <a class="ghost sm" href="/api/results/${r.id}/pdf">⬇ PDF</a>
+        </div>
+      </div>
+      <div id="quiz-${r.id}" class="quizdetail hidden"></div>`;
+  }).join("") : `<p class="subnote">No quizzes.</p>`;
+}
+
+async function viewQuiz(rid) {
+  const box = $("#quiz-" + rid);
+  if (!box.classList.contains("hidden")) { box.classList.add("hidden"); box.innerHTML = ""; return; }
+  const data = await fetch(`/api/results/${rid}`).then((r) => r.json());
+  box.innerHTML = data.items.map(it => `
+    <div class="rev ${it.is_correct ? 'good' : ''}">
+      <div class="rq">Q${it.n}. (Ch ${it.chapter_num}) ${it.question} <span class="qtime">⏱ ${it.time_spent}s</span></div>
+      <div class="${it.is_correct ? 'ra' : 'rawrong'}">${it.is_correct ? '✓' : '✗'} Your answer: ${it.chosen || '—'}. ${it.chosen_text || '(no answer)'}</div>
+      ${it.is_correct ? '' : `<div class="ra">✓ Correct: ${it.correct}. ${it.correct_text}</div>`}
+      <div class="re">${it.explanation}</div>
+    </div>`).join("");
+  box.classList.remove("hidden");
+}
+
+window.viewUser = viewUser; window.viewQuiz = viewQuiz; window.loadUsers = loadUsers;
+$("#refreshBtn").onclick = loadUsers;
+$("#logoutBtn").onclick = async () => { await fetch("/api/logout", { method: "POST" }); location.href = "/login"; };
+loadUsers();
+</script>
+</body>
+</html>

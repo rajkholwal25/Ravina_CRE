@@ -1,0 +1,665 @@
+{
+  "chapter": 35,
+  "questions": [
+    {
+      "topic": "Immune dysfunction in uremia",
+      "question": "The increased frequency of bacterial infections in dialysis patients compared with nonuremic individuals is thought to be related more to which factor?",
+      "options": {
+        "A": "Frequent violation of normal skin and mucosal barriers",
+        "B": "Profound T-cell lymphopenia",
+        "C": "Complement deficiency alone",
+        "D": "Vitamin B12 deficiency"
+      },
+      "correct": "A",
+      "explanation": "The chapter attributes the higher bacterial infection rate in dialysis patients mainly to frequent violation of normal skin and mucosal barriers (repeated needle punctures, catheters) rather than to immune dysfunction, so A is correct. Although uremia does impair lymphocyte and granulocyte function, the text says this is a lesser contributor, making B and C wrong; profound T-cell lymphopenia and isolated complement deficiency are not cited. Vitamin B12 deficiency (D) is not mentioned—only vitamin D deficiency and malnutrition are occasional contributors. Protecting the access site is thus the key preventive measure."
+    },
+    {
+      "topic": "Catheter infection risk",
+      "question": "Use of a hemodialysis catheter, compared with a native or graft fistula, is associated with approximately what change in hospitalization and death from septic complications?",
+      "options": {
+        "A": "No difference",
+        "B": "A threefold increase",
+        "C": "A twofold decrease",
+        "D": "A tenfold increase"
+      },
+      "correct": "B",
+      "explanation": "Hemodialysis catheter use is associated with a threefold increase in hospitalization and death from septic complications compared with a native or graft fistula, so B is correct. The catheter provides a direct route for bacteremia, whereas fistulas and grafts are safer. 'No difference' (A) and a twofold decrease (C) contradict the data, and tenfold (D) overstates it—the specific figure is threefold. Clinically this underlies the push to favor fistulas over catheters, since HD-access infections often cause bacteremia with risk of endocarditis, osteomyelitis, and epidural abscess."
+    },
+    {
+      "topic": "Baseline hypothermia",
+      "question": "In approximately what percentage of hemodialysis patients is the predialysis body temperature subnormal?",
+      "options": {
+        "A": "About 10%",
+        "B": "About 25%",
+        "C": "About 90%",
+        "D": "About 50%"
+      },
+      "correct": "D",
+      "explanation": "In about 50% of hemodialysis patients the predialysis body temperature is subnormal for reasons that remain unknown, so D is correct; 10%, 25%, and 90% are not supported. This baseline hypothermia matters because, together with frequently coexisting malnutrition, it means severe infections may present with an attenuated or absent fever response. Uremia itself does not blunt the response to pyrogens, and IL-1 production by stimulated uremic monocytes is normal. Thus a normal or low temperature does not exclude serious infection in these patients."
+    },
+    {
+      "topic": "Pyrogen reaction vs bacteremia",
+      "question": "Which pattern of fever most suggests a pyrogen reaction rather than access-related bacteremia?",
+      "options": {
+        "A": "Afebrile before dialysis, febrile during dialysis, resolving spontaneously after dialysis",
+        "B": "Febrile before dialysis with fever persisting during and after dialysis",
+        "C": "Fever only between dialysis sessions",
+        "D": "Continuous high fever unrelated to dialysis timing"
+      },
+      "correct": "A",
+      "explanation": "A pyrogen reaction is suggested when the patient is afebrile before dialysis, becomes febrile during dialysis, and defervesces spontaneously after dialysis stops, so A is correct. Access-related bacteremia (B) typically causes fever that is present before dialysis and persists during and after it—so B describes bacteremia, not pyrogens. Options C and D match neither pattern. One exception: chills shortly after catheter manipulation suggest catheter-associated bacteremia. Because the distinction is imperfect, blood cultures should always be drawn and antibiotics usually given until infection is excluded."
+    },
+    {
+      "topic": "Machine contamination organisms",
+      "question": "Bacteremia resulting from contamination of hemodialysis machines or solutions is generally caused by which organisms?",
+      "options": {
+        "A": "Gram-positive cocci",
+        "B": "Anaerobes only",
+        "C": "Gram-negative and occasionally fungal organisms",
+        "D": "Mycobacteria"
+      },
+      "correct": "C",
+      "explanation": "Bacteremia from contaminated hemodialysis machines or solutions is generally caused by gram-negative organisms and occasionally fungi, so C is correct. These outbreaks stem from inadequate disinfection of water treatment or distribution systems, reprocessed dialyzers, or contaminated waste drain ports. Gram-positive cocci (A), anaerobes (B), and mycobacteria (D) are not the typical culprits of waterborne machine contamination. Clinically, recognizing a gram-negative or fungal pattern should prompt investigation of the water and machine disinfection systems as the source."
+    },
+    {
+      "topic": "Procedural prophylaxis",
+      "question": "The recommended antimicrobial prophylaxis before an invasive procedure with substantial bacteremia risk in a hemodialysis patient is:",
+      "options": {
+        "A": "Ciprofloxacin 500 mg the night before",
+        "B": "Cephalexin 250 mg twice daily for a week",
+        "C": "Metronidazole 500 mg after the procedure",
+        "D": "Amoxicillin 2.0 g given 1 hour before the procedure"
+      },
+      "correct": "D",
+      "explanation": "The recommended regimen before an invasive procedure with substantial bacteremia risk is amoxicillin 2.0 g given 1 hour before the procedure (or ampicillin 2.0 g IM/IV 30 minutes before), so D is correct. Prophylaxis targets procedures such as dental extractions, esophageal dilation or varix sclerotherapy, and cystoscopy or prostate resection because of the abnormal vascular access. A single pre-procedure dose is used, not a night-before ciprofloxacin (A), a week of cephalexin (B), or post-procedure metronidazole (C). Routine endoscopy with or without biopsy does not require prophylaxis."
+    },
+    {
+      "topic": "Penicillin-allergic prophylaxis",
+      "question": "For a penicillin-allergic hemodialysis patient undergoing a dental or esophageal procedure, an acceptable prophylactic substitute is:",
+      "options": {
+        "A": "Clindamycin 600 mg by mouth or IV",
+        "B": "Amoxicillin 2.0 g",
+        "C": "Gentamicin 2 mg/kg",
+        "D": "Cefazolin 1 g"
+      },
+      "correct": "A",
+      "explanation": "For a penicillin-allergic patient undergoing a dental or esophageal procedure, clindamycin 600 mg PO or IV is the recommended substitute, so A is correct. Amoxicillin (B) and cefazolin (D) are inappropriate given the penicillin allergy and possible cephalosporin cross-reactivity, and gentamicin (C) is not a recommended prophylactic agent here. For other GI and genitourinary procedures in penicillin-allergic patients, vancomycin 1.0 g IV is used instead. The choice depends on the procedure type, so distinguishing dental/esophageal from other GI/GU procedures is key."
+    },
+    {
+      "topic": "Staph aureus carriage",
+      "question": "The skin and nasal carriage rate of Staphylococcus aureus in hemodialysis patients is approximately:",
+      "options": {
+        "A": "5%",
+        "B": "50%",
+        "C": "20%",
+        "D": "90%"
+      },
+      "correct": "B",
+      "explanation": "The skin and nasal carriage rate of Staphylococcus aureus in hemodialysis patients is about 50%, so B is correct; 5%, 20%, and 90% are not supported. This high carriage rate is clinically important because S. aureus is a leading cause of access-related bacteremia. Intranasal mupirocin can eradicate the carrier state and reduce staphylococcal infection, and topical exit-site antimicrobials are especially beneficial in nasal carriers. However, routine decolonization (including for MRSA) is not endorsed owing to insufficient evidence and concern about resistance."
+    },
+    {
+      "topic": "Mupirocin prophylaxis",
+      "question": "A major concern regarding chronic intranasal mupirocin use to eradicate the S. aureus carrier state is:",
+      "options": {
+        "A": "Nephrotoxicity",
+        "B": "Severe skin necrosis",
+        "C": "Development of mupirocin resistance",
+        "D": "Ototoxicity"
+      },
+      "correct": "C",
+      "explanation": "The major concern with chronic intranasal mupirocin use is the development of mupirocin resistance, so C is correct. Mupirocin is a topical agent that eradicates the S. aureus carrier state and, in uncontrolled studies, decreased staphylococcal infection; decision analysis even suggested weekly unscreened use is cost-effective. But resistance with chronic use is the key drawback, which is why routine S. aureus (including MRSA) decolonization is not supported. Nephrotoxicity (A), skin necrosis (B), and ototoxicity (D) are not described as mupirocin risks."
+    },
+    {
+      "topic": "Catheter dressing",
+      "question": "For hemodialysis catheter exit-site care, which dressing type is recommended?",
+      "options": {
+        "A": "Transparent film dressings, because they allow visualization",
+        "B": "Occlusive hydrocolloid dressings, to keep the site moist",
+        "C": "No dressing at all",
+        "D": "Dry gauze dressings, because transparent film dressings pose a greater threat of exit-site colonization"
+      },
+      "correct": "D",
+      "explanation": "Dry gauze dressings are recommended for catheter exit sites because transparent film dressings pose a greater threat of exit-site colonization, so D is correct and A is wrong. Occlusive hydrocolloid dressings (B) and no dressing at all (C) are not recommended. This recommendation derives from a prospective randomized comparison (Conly, 1989). Additional exit-site measures include prophylactic topical antimicrobial ointments, catheter locking solutions, fastidious catheter care, and a surgical mask worn by patient and nurse whenever the catheter is accessed to reduce droplet contamination."
+    },
+    {
+      "topic": "UTI clinical features",
+      "question": "Which finding is described as unusually common in oliguric dialysis patients with cystitis, occurring in up to one-third of cases?",
+      "options": {
+        "A": "Gross hematuria",
+        "B": "Fever above 39°C",
+        "C": "Flank pain",
+        "D": "Hypotension"
+      },
+      "correct": "A",
+      "explanation": "Gross hematuria is unusually common in oliguric dialysis patients with cystitis, occurring in up to one-third of cases, so A is correct. High fever (B), flank pain (C), and hypotension (D) are not the feature highlighted as unusually frequent in cystitis. In oliguric patients cystitis symptoms otherwise resemble those in nonuremic individuals, and even a few milliliters of voided urine suffice for culture. Anuric patients instead may present with suprapubic discomfort or foul-smelling urethral discharge and can progress to pyocystis."
+    },
+    {
+      "topic": "UTI diagnosis",
+      "question": "Regarding the diagnosis of UTI in dialysis patients, which statement is correct?",
+      "options": {
+        "A": "The presence of pyuria reliably confirms infection",
+        "B": "Absence of visible bacteria rules out UTI",
+        "C": "A urine culture is essential to make the diagnosis",
+        "D": "Urethral catheterization should be performed routinely"
+      },
+      "correct": "C",
+      "explanation": "A urine culture is essential to make the diagnosis of UTI, so C is correct. Pyuria (A) is not useful to rule infection in or out, and absence of visible bacteria (B) does not exclude UTI, so both are wrong. Routine urethral catheterization (D) should be avoided because it may cause infection and is reserved for the symptomatic anuric patient. A colony count greater than 10^3 in a properly collected specimen is considered suggestive of infection, though good studies in dialysis patients are lacking. Even a few milliliters of voided urine is usually adequate for culture."
+    },
+    {
+      "topic": "UTI treatment duration",
+      "question": "In dialysis patients with adult polycystic kidney disease, cystitis warrants how many days of antimicrobial therapy?",
+      "options": {
+        "A": "3 days",
+        "B": "5 days",
+        "C": "7 days",
+        "D": "10 days"
+      },
+      "correct": "D",
+      "explanation": "Ten days of antimicrobial therapy is warranted for cystitis in patients with adult polycystic kidney disease because of their increased susceptibility to pyogenic complications of UTIs, so D is correct. For other dialysis patients with cystitis, therapy is generally continued for a total of 5–7 days, making 3, 5, and 7 days (A, B, C) too short for PKD. A urine culture should be repeated on the third or fourth day to document no growth, and a follow-up culture obtained 7–10 days after completing therapy. PKD patients are prone to infected cysts and abscesses."
+    },
+    {
+      "topic": "UTI drug selection",
+      "question": "In female dialysis patients, why is trimethoprim-sulfamethoxazole generally chosen over ampicillin for recurrent UTIs?",
+      "options": {
+        "A": "It is cheaper",
+        "B": "It is less likely to be associated with emergence of resistant organisms in the fecal flora",
+        "C": "It attains no urine levels",
+        "D": "It is safer in pregnancy"
+      },
+      "correct": "B",
+      "explanation": "In female dialysis patients TMP-SMX is preferred over ampicillin for recurrent UTIs because it is less likely to promote emergence of resistant organisms in the fecal flora—the source of most urinary pathogens in women—so B is correct. The rationale is ecological, not cost (A), and it is not that ampicillin attains no urine levels (C is false; both can). Safety in pregnancy (D) is not the cited reason. Note that male patients from susceptible (Asian and Mediterranean) populations should be tested for G6PD deficiency before receiving TMP-SMX."
+    },
+    {
+      "topic": "Cyst penetration",
+      "question": "Which antimicrobials are described as achieving good bactericidal levels in both proximal- and distal-nephron-derived renal cysts?",
+      "options": {
+        "A": "Lipid-soluble trimethoprim, ciprofloxacin, metronidazole, clindamycin, erythromycin, and doxycycline",
+        "B": "Aminoglycosides and third-generation cephalosporins",
+        "C": "Penicillins and cefazolin",
+        "D": "Nitrofurantoin and methenamine"
+      },
+      "correct": "A",
+      "explanation": "Lipid-soluble agents—trimethoprim, ciprofloxacin, metronidazole, clindamycin, erythromycin, and doxycycline—achieve good bactericidal levels in both proximal- and distal-nephron-derived cysts, so A is correct; ciprofloxacin has even sterilized infected cysts. Non-lipid-soluble drugs—aminoglycosides, third-generation cephalosporins, and penicillins (B and C)—generally fail because they penetrate distal-nephron cysts poorly. Nitrofurantoin and methenamine (D) are contraindicated in anuric patients. This penetration issue is why upper-tract infection in cystic kidneys needs a lipid-soluble drug for at least 3 weeks."
+    },
+    {
+      "topic": "Upper tract infection duration",
+      "question": "In patients with cystic kidneys, antimicrobial therapy of upper tract infection should be continued for at least:",
+      "options": {
+        "A": "3 days",
+        "B": "1 week",
+        "C": "3 months",
+        "D": "3 weeks"
+      },
+      "correct": "D",
+      "explanation": "In patients with cystic kidneys, antimicrobial therapy of upper tract infection should be continued for at least 3 weeks, so D is correct; 3 days, 1 week, and 3 months (A, B, C) are not the recommended duration. The prolonged course is needed because many antimicrobials penetrate renal cysts poorly, and penetration depends on whether cysts derive from the proximal tubule or distal nephron, so lipid-soluble drugs are preferred. Pyonephrosis and renal or perirenal abscesses cannot be cured by antimicrobials alone and require surgical drainage."
+    },
+    {
+      "topic": "Pyocystis",
+      "question": "Pyocystis should always be suspected in which situation?",
+      "options": {
+        "A": "A febrile hemodialysis patient with a fistula",
+        "B": "An anuric dialysis patient with fever of unknown origin",
+        "C": "A polyuric patient with dysuria",
+        "D": "A patient with a functioning transplant"
+      },
+      "correct": "B",
+      "explanation": "Pyocystis—pus in the defunctionalized bladder—should always be suspected in an anuric dialysis patient with fever of unknown origin, so B is correct. It is a particular risk in patients with a neurogenic bladder (e.g., diabetics). A febrile patient with a functioning fistula (A) or a functioning transplant (D) points elsewhere, and pyocystis occurs in anuric, not polyuric, patients (C is wrong). Bladder catheterization reveals pus that usually grows mixed flora. It is an important, often unsuspected source of infection in the anuric patient."
+    },
+    {
+      "topic": "Pyocystis treatment",
+      "question": "Initial treatment of pyocystis consists primarily of:",
+      "options": {
+        "A": "Immediate cystectomy",
+        "B": "Oral antibiotics alone for 5 days",
+        "C": "Adequate drainage via an indwelling urethral catheter followed by intermittent catheterization and bladder irrigations",
+        "D": "Nephrectomy"
+      },
+      "correct": "C",
+      "explanation": "Initial treatment of pyocystis is adequate drainage via an indwelling urethral catheter, followed by intermittent catheterization and bladder irrigations with antimicrobial solutions until the infection clears, so C is correct. Immediate cystectomy (A) or nephrectomy (D) are reserved for rare refractory cases, and oral antibiotics alone for 5 days (B) are inadequate. Parenteral antimicrobials, chosen by culture and sensitivity, are added if systemic manifestations are present. Cystourethroscopy should be performed to exclude bladder outlet obstruction, a diverticulum, or neurogenic bladder."
+    },
+    {
+      "topic": "Pneumonia mimics",
+      "question": "Bilateral pulmonary infiltrates in a dialysis patient that improve after increased ultrafiltration most likely represent:",
+      "options": {
+        "A": "Tuberculosis",
+        "B": "Pulmonary calcification",
+        "C": "Gram-negative pneumonia",
+        "D": "Fluid overload mistaken for pneumonia"
+      },
+      "correct": "D",
+      "explanation": "Bilateral pulmonary infiltrates that improve after increased ultrafiltration most likely represent fluid overload mistaken for pneumonia, so D is correct. Fluid overload should be suspected especially with bilateral infiltrates, which frequently clear with more ultrafiltration. Tuberculosis (A) and gram-negative pneumonia (C) are true infections that would not resolve with ultrafiltration, and pulmonary calcification (B) is now uncommon. Note that pleural effusions in dialysis patients are commonly exudative from uremia-associated inflammation even without infection—another mimic to keep in mind."
+    },
+    {
+      "topic": "Intestinal infarction",
+      "question": "Bowel infarction should always be suspected in a dialysis patient presenting with:",
+      "options": {
+        "A": "Unexplained, refractory septic shock",
+        "B": "Mild predialysis hypotension only",
+        "C": "Chronic constipation",
+        "D": "Isolated eosinophilia"
+      },
+      "correct": "A",
+      "explanation": "Bowel infarction should always be suspected in a dialysis patient with unexplained, refractory septic shock, so A is correct. Intestinal infarction can complicate hypotension occurring during or between dialysis sessions. Mild predialysis hypotension alone (B), chronic constipation (C), and isolated eosinophilia (D) are not the described red-flag presentation. Clinically, dialysis patients also commonly have diverticulosis/diverticulitis and strangulated hernias, but refractory septic shock without an obvious source should raise concern specifically for bowel infarction."
+    },
+    {
+      "topic": "Tuberculosis mortality",
+      "question": "Mortality in dialysis patients with tuberculosis has been reported to be as high as:",
+      "options": {
+        "A": "10%",
+        "B": "40%",
+        "C": "25%",
+        "D": "75%"
+      },
+      "correct": "B",
+      "explanation": "Mortality in dialysis patients with tuberculosis has been reported to be as high as 40%, so B is correct; 10%, 25%, and 75% are not the cited figure. TB incidence is up to tenfold higher than in the general population and is frequently extrapulmonary, with disseminated disease possible even with a normal chest x-ray. Diagnosis is difficult because tuberculin skin hypersensitivity is often absent or diminished due to cutaneous anergy; interferon-gamma release assays are more useful in ESKD. High suspicion may justify presumptive antitubercular therapy."
+    },
+    {
+      "topic": "Hepatitis B vaccine response",
+      "question": "Approximately what proportion of vaccinated hemodialysis patients develop a protective antibody response to hepatitis B vaccine?",
+      "options": {
+        "A": "10%–20%",
+        "B": "80%–90%",
+        "C": "Nearly 100%",
+        "D": "50%–60%"
+      },
+      "correct": "D",
+      "explanation": "Only 50%–60% of vaccinated hemodialysis patients develop a protective antibody response to hepatitis B vaccine, so D is correct; the higher figures (80–90%, nearly 100%) overstate efficacy and 10–20% understates it. This poor response is why dialysis patients receive double (40 mcg) doses on a four-injection schedule and an additional dose if the titer falls below 10 mIU/mL. Some non-response also reflects gluteal rather than deltoid administration or failure to complete the series. All susceptible HD patients should still be vaccinated."
+    },
+    {
+      "topic": "Hepatitis B treatment",
+      "question": "Which agent is recommended as first-line therapy for chronic hepatitis B in dialysis patients?",
+      "options": {
+        "A": "Interferon",
+        "B": "Entecavir",
+        "C": "Adefovir",
+        "D": "Lamivudine"
+      },
+      "correct": "B",
+      "explanation": "Entecavir is the recommended first-line therapy for chronic hepatitis B in dialysis patients, so B is correct. Interferon (A) is a poorer choice because of its side effects in dialysis patients, so nucleotide/nucleoside analogs are preferred; adefovir (C) and lamivudine (D) are alternatives but not first-line. Treatment is indicated in HBsAg-positive patients with viral replication and abnormal transaminases, with an HBV DNA threshold of about 4–5 log10 copies/mL. The dialysis dose of entecavir is 0.05 mg PO daily, and all antivirals must be renally adjusted."
+    },
+    {
+      "topic": "Hepatitis B screening",
+      "question": "How often should HBsAg be tested in HBV-susceptible hemodialysis patients?",
+      "options": {
+        "A": "Only on admission",
+        "B": "Weekly",
+        "C": "Annually",
+        "D": "Monthly"
+      },
+      "correct": "D",
+      "explanation": "HBsAg should be tested monthly in all HBV-susceptible hemodialysis patients, including vaccine nonresponders, so D is correct; testing only on admission (A), weekly (B), or annually (C) does not match. On admission patients are screened for HBsAg, anti-HBs, and anti-HBc; anti-HBs titer is then measured annually. HBV DNA testing is done if HBsAg is positive and may be indicated in anti-HBc-positive but HBsAg/anti-HBs-negative patients, who can occasionally be infectious. Monthly surveillance enables early detection of new infection in the unit."
+    },
+    {
+      "topic": "Infection control precautions",
+      "question": "According to infection control practices, dialyzer reuse is prohibited for which patients?",
+      "options": {
+        "A": "Anti-HCV positive patients",
+        "B": "HIV-infected patients",
+        "C": "HBV-positive patients",
+        "D": "All dialysis patients"
+      },
+      "correct": "C",
+      "explanation": "Dialyzer reuse is prohibited for HBV-positive patients, so C is correct. Reuse is acceptable for anti-HCV-positive patients (A) and probably for HIV-infected patients (B), and it is not banned for all dialysis patients (D). This reflects the high transmissibility of hepatitis B in dialysis units; HBsAg-positive patients are also isolated, which is not necessary for HIV- or HCV-infected patients. Other HBV measures include cleansing with 1% sodium hypochlorite and giving hepatitis B immune globulin after exposure to a known-infected source."
+    },
+    {
+      "topic": "Disinfection solution",
+      "question": "Cleansing of dialysis machines and blood/body-fluid contaminated areas is recommended with which solution?",
+      "options": {
+        "A": "70% isopropyl alcohol",
+        "B": "1% sodium hypochlorite (bleach)",
+        "C": "Chlorhexidine 2%",
+        "D": "Hydrogen peroxide 3%"
+      },
+      "correct": "B",
+      "explanation": "Cleansing of dialysis machines and blood/body-fluid contaminated areas is recommended with 1% sodium hypochlorite (bleach) solution, so B is correct. Isopropyl alcohol (A), chlorhexidine (C), and hydrogen peroxide (D) are not the specified agents in the infection-control table. This is one component of a broader program that includes HBsAg/HBsAb surveillance, isolation of HBsAg-positive patients, prohibition of dialyzer reuse for HBV-positive patients, and universal precautions such as gloves, fluid-impermeable garments, and protective eyewear."
+    },
+    {
+      "topic": "Hepatitis C prevalence",
+      "question": "Recent data indicate that what percentage of dialysis patients in the United States have anti-HCV?",
+      "options": {
+        "A": "1%–2%",
+        "B": "25%–30%",
+        "C": "8%–10%",
+        "D": "50%–63%"
+      },
+      "correct": "C",
+      "explanation": "Recent data indicate 8%–10% of U.S. dialysis patients have anti-HCV, so C is correct; worldwide prevalence varies widely from 1% to 63%, but the U.S. figure is 8–10%, making A, B, and D wrong. Risk factors include number of transfusions, duration of dialysis, HD (versus lower-risk PD) modality, prior transplantation, and IV drug use. Sharing of machines, membrane type, and reprocessing are not established risk factors, so the CDC does not mandate dedicated machines or isolation—though these may help in high-prevalence units."
+    },
+    {
+      "topic": "Hepatitis C screening",
+      "question": "The CDC recommends that anti-HCV-negative hemodialysis patients be tested for anti-HCV antibodies at what interval after admission testing?",
+      "options": {
+        "A": "Monthly",
+        "B": "Semiannually",
+        "C": "Annually",
+        "D": "Only when symptomatic"
+      },
+      "correct": "B",
+      "explanation": "The CDC recommends testing all hemodialysis patients for anti-HCV on admission, then testing anti-HCV-negative patients semiannually thereafter, so B is correct; monthly (A), annually (C), or only-if-symptomatic (D) do not match. Semiannual surveillance detects new seroconversions in a population where infection rates have not fallen appreciably since testing began in the early 1990s. Postexposure immune globulin or interferon prophylaxis for exposed health care workers is not recommended, and staff anti-HCV prevalence (0%–6%) resembles the general population."
+    },
+    {
+      "topic": "Ribavirin in dialysis",
+      "question": "Why must ribavirin be used with extreme caution and at reduced dose in dialysis patients?",
+      "options": {
+        "A": "It is hepatotoxic",
+        "B": "It causes seizures",
+        "C": "It is removed rapidly by dialysis",
+        "D": "It is renally excreted and causes dose-related hemolysis"
+      },
+      "correct": "D",
+      "explanation": "Ribavirin is normally renally excreted and causes dose-related hemolysis, so it must be used with extreme caution and at reduced dose in dialysis patients—making D correct. It is not primarily hepatotoxic (A), does not cause seizures (B), and the problem is accumulation rather than rapid dialytic removal (C). Adding ribavirin to interferon may raise HCV cure rates but is tolerated poorly in ESKD. Interferon-based regimens achieve roughly 30%–45% cure in this population, with substantial side effects such as bone marrow suppression."
+    },
+    {
+      "topic": "HIV dialysis modality",
+      "question": "The CDC recommendation regarding the choice between hemodialysis and peritoneal dialysis for an HIV-positive patient is that:",
+      "options": {
+        "A": "Only peritoneal dialysis should be used",
+        "B": "The choice should not be affected by the finding of HIV positivity",
+        "C": "A dedicated machine must always be set aside",
+        "D": "Dialyzer reuse is forbidden"
+      },
+      "correct": "B",
+      "explanation": "The CDC recommends that the choice between hemodialysis and peritoneal dialysis should not be affected by HIV positivity, so B is correct. It is not mandated that only PD be used (A), that a dedicated machine be set aside (C), or that dialyzer reuse be forbidden (D)—the CDC requires none of these for HIV. Only usual body-fluid (universal) precautions are needed if HD is chosen, though home dialysis may lessen any risk to others, and PD effluent should be treated as infectious. Some units nonetheless manage HIV patients like HBsAg-positive ones."
+    },
+    {
+      "topic": "Hepatitis B vaccine dosing",
+      "question": "To improve response, the hepatitis B vaccine dose in dialysis patients should be:",
+      "options": {
+        "A": "Half the normal amount",
+        "B": "The same as the general population",
+        "C": "Twice the normal amount",
+        "D": "Ten times the normal amount"
+      },
+      "correct": "C",
+      "explanation": "To improve the poor response, the hepatitis B vaccine dose in dialysis patients should be twice the normal amount, so C is correct; half (A), the same as the general population (B), or ten times (D) are wrong. The regimen is a series of four IM injections of 40 mcg HBsAg into the deltoid muscles at 0, 1, 2, and 6 months. Even so, success rates are only about 50%–60%. Gluteal injection is avoided, and each injection may be split between the left and right deltoid to complete the primary immunization series."
+    },
+    {
+      "topic": "Hepatitis B vaccine site",
+      "question": "Why is gluteal injection of hepatitis B vaccine not recommended?",
+      "options": {
+        "A": "It is more painful",
+        "B": "It causes sciatic nerve injury",
+        "C": "It requires a longer needle",
+        "D": "It has been associated with failure to develop antibody or with loss of antibody 6 months to 1 year after immunization"
+      },
+      "correct": "D",
+      "explanation": "Gluteal injection of hepatitis B vaccine is not recommended because it has been associated with failure to develop antibody or with loss of antibody 6 months to 1 year following immunization, so D is correct—this occurs in nonuremic as well as uremic patients. It is not primarily about pain (A), sciatic nerve injury (B), or needle length (C). The deltoid is the preferred site, given as four 40-mcg doses at 0, 1, 2, and 6 months. Some apparent vaccine failures are actually due to gluteal administration or an incomplete series."
+    },
+    {
+      "topic": "Vaccine antibody threshold",
+      "question": "An additional (booster) dose of hepatitis B vaccine is recommended especially if the antibody titer falls below what level?",
+      "options": {
+        "A": "10 mIU/mL",
+        "B": "100 mIU/mL",
+        "C": "1 mIU/mL",
+        "D": "50 mIU/mL"
+      },
+      "correct": "A",
+      "explanation": "An additional (booster) dose of hepatitis B vaccine is recommended especially if the antibody titer falls below 10 mIU/mL, so A is correct; 100, 1, and 50 mIU/mL are not the cited threshold. Because dialysis patients respond poorly (only a 50%–60% protective response) and may lose antibody over time, anti-HBs titers are monitored and revaccination is guided by a fall below this 10 mIU/mL level. The primary series uses double (40 mcg) deltoid doses at 0, 1, 2, and 6 months."
+    },
+    {
+      "topic": "Ceftriaxone dosing",
+      "question": "Which cephalosporin requires no dosing adjustment in dialysis patients because it is highly protein bound and hepatically metabolized?",
+      "options": {
+        "A": "Cefazolin",
+        "B": "Ceftazidime",
+        "C": "Ceftriaxone",
+        "D": "Cefepime"
+      },
+      "correct": "C",
+      "explanation": "Ceftriaxone is the only cephalosporin that is both highly protein bound and hepatically metabolized, so no dosing adjustment is required in dialysis patients—C is correct. Cefazolin (A), ceftazidime (B), and cefepime (D) are all renally excreted (cephalosporins are 30%–96% renally cleared) and require dose reduction. Cefazolin and ceftazidime have prolonged half-lives in ESKD and can be dosed thrice weekly after each session. Recognizing ceftriaxone's hepatic and protein-bound handling explains why it alone is dosed the same as in nonuremic patients."
+    },
+    {
+      "topic": "Ceftaroline spectrum",
+      "question": "Which cephalosporin is described as the fifth-generation agent with some activity against MRSA?",
+      "options": {
+        "A": "Ceftaroline",
+        "B": "Cefepime",
+        "C": "Cefotaxime",
+        "D": "Cefoxitin"
+      },
+      "correct": "A",
+      "explanation": "Ceftaroline is the newest fifth-generation cephalosporin and the only one with some activity against MRSA, so A is correct; cefepime (B), cefotaxime (C), and cefoxitin (D) lack MRSA activity. It is approved for skin and soft-tissue infections and community-acquired pneumonia. Like other cephalosporins it is renally cleared and requires significant dose reduction in ESKD (dialysis dose about 200 mg q12h versus 600 mg q12h normally). Its MRSA coverage distinguishes it within a class otherwise ineffective against methicillin-resistant staphylococci."
+    },
+    {
+      "topic": "Ertapenem coverage",
+      "question": "Unlike the other carbapenems, ertapenem notably lacks coverage against which organisms?",
+      "options": {
+        "A": "Gram-positives",
+        "B": "Anaerobes",
+        "C": "Pseudomonas and Acinetobacter",
+        "D": "Enterobacteriaceae"
+      },
+      "correct": "C",
+      "explanation": "Ertapenem covers gram-positives, gram-negatives, and anaerobes but, unlike the other carbapenems, lacks coverage against Pseudomonas and Acinetobacter, so C is correct. It does cover gram-positives (A), anaerobes (B), and Enterobacteriaceae (D), so those are not the gap. Ertapenem has the advantage of once-daily dosing, and its dose should be reduced by 50% in renal dysfunction (500 mg q24h in dialysis). This coverage gap matters when empiric Pseudomonas coverage is needed—meropenem, doripenem, or imipenem/cilastatin would be chosen instead."
+    },
+    {
+      "topic": "Aztreonam indication",
+      "question": "Aztreonam, the sole monobactam, is typically reserved for patients with which characteristic?",
+      "options": {
+        "A": "MRSA bacteremia",
+        "B": "A history of rash to both penicillins and cephalosporins, or immediate-type penicillin allergy",
+        "C": "Fungal infections",
+        "D": "Anaerobic abscesses"
+      },
+      "correct": "B",
+      "explanation": "Aztreonam, the sole monobactam, is typically reserved—owing to cost—for patients with a history of rash to both penicillins and cephalosporins, or with immediate-type (anaphylaxis) penicillin allergy, so B is correct. It has gram-negative coverage only (including Pseudomonas), so it is not used for MRSA bacteremia (A), fungal infections (C), or anaerobic abscesses (D). In dialysis, a 500 mg–2 g loading dose is followed by 25% of the initial dose at the usual interval, or 500 mg q12h. Its lack of beta-lactam cross-reactivity makes it valuable in penicillin-allergic patients."
+    },
+    {
+      "topic": "Moxifloxacin dosing",
+      "question": "Which fluoroquinolone is the only antibiotic in its class that does not require dosage adjustment with intermittent hemodialysis or CRRT?",
+      "options": {
+        "A": "Ciprofloxacin",
+        "B": "Levofloxacin",
+        "C": "Moxifloxacin",
+        "D": "Ofloxacin"
+      },
+      "correct": "C",
+      "explanation": "Moxifloxacin is the only fluoroquinolone that does not require dosage adjustment with intermittent hemodialysis or CRRT, so C is correct. Ciprofloxacin (A), levofloxacin (B), and ofloxacin (D) all need renal dose adjustment. Moxifloxacin also has better gram-positive coverage, particularly against Streptococcus pneumoniae, than the older fluoroquinolones. Levofloxacin is removed by continuous modalities but not intermittent HD, and ciprofloxacin may need higher CRRT doses—so among the class, moxifloxacin is uniquely convenient in renal failure."
+    },
+    {
+      "topic": "Gatifloxacin",
+      "question": "Oral and IV formulations of gatifloxacin were discontinued in 2006 owing to the risk of:",
+      "options": {
+        "A": "Profound hypoglycemia",
+        "B": "QT prolongation",
+        "C": "Tendon rupture",
+        "D": "Hepatic failure"
+      },
+      "correct": "A",
+      "explanation": "Oral and IV formulations of gatifloxacin were discontinued in 2006 owing to the risk of profound hypoglycemia, so A is correct; QT prolongation (B), tendon rupture (C), and hepatic failure (D) are not the cited reason for its withdrawal. This is a notable class-safety point for the fluoroquinolones. It contrasts with moxifloxacin, which remains available and needs no dose adjustment in HD or CRRT, and with ciprofloxacin's extended-release oral form, which is dosed once daily and approved only for UTI."
+    },
+    {
+      "topic": "Colistin activity",
+      "question": "Colistin retains an important clinical role despite its toxicity because it has activity against:",
+      "options": {
+        "A": "MRSA and enterococci",
+        "B": "Multidrug-resistant gram-negative organisms such as Pseudomonas and Acinetobacter",
+        "C": "Mycobacteria",
+        "D": "Fungi"
+      },
+      "correct": "B",
+      "explanation": "Colistin retains a role because it is one of the few drugs still active against multidrug-resistant gram-negative organisms such as Pseudomonas and Acinetobacter, so B is correct. It has no meaningful activity against MRSA or enterococci (A), mycobacteria (C), or fungi (D). It was largely supplanted by aminoglycosides 30 years ago because of dose-dependent nephrotoxicity—acute kidney injury incidence can be as high as 60%—and neurotoxicity. Being a large, highly tissue-bound molecule, its dialytic removal is small; doses are based on ideal body weight and expressed as colistin base."
+    },
+    {
+      "topic": "Aminoglycoside toxicity",
+      "question": "In dialysis patients, the major risk of aminoglycoside therapy is:",
+      "options": {
+        "A": "Hepatotoxicity",
+        "B": "Bone marrow suppression",
+        "C": "Otovestibulotoxicity",
+        "D": "Cardiotoxicity"
+      },
+      "correct": "C",
+      "explanation": "The major risk of aminoglycoside therapy in dialysis patients is otovestibulotoxicity, so C is correct; hepatotoxicity (A), bone marrow suppression (B), and cardiotoxicity (D) are not the primary concern. The therapeutic index is low, loss of residual renal function may also occur, and high-dose extended-interval dosing is not recommended in ESKD. Renal excretion is normally over 90% and dialysis removes about 50%, so a postdialysis supplement is needed. Serum levels should be monitored, especially with prolonged (>7–10 day) therapy when ototoxicity is common."
+    },
+    {
+      "topic": "Aminoglycoside MIC target",
+      "question": "When the aminoglycoside MIC of a known organism is available, the strategy is to achieve a peak serum drug level of at least how many times the MIC?",
+      "options": {
+        "A": "Equal to the MIC",
+        "B": "Two times the MIC",
+        "C": "Ten times the MIC",
+        "D": "Four times the MIC"
+      },
+      "correct": "D",
+      "explanation": "When the aminoglycoside MIC of the organism is known, the strategy is to achieve a peak serum level at least four times greater than the MIC, so D is correct; equal to (A), two times (B), or ten times (C) the MIC are not the stated target. One cannot exceed maximum safe peak levels, but if the MIC is low the dose and levels can be reduced without losing efficacy. Peaks are drawn about 30 minutes after the infusion ends. This ratio guides individualized dosing in dialysis patients, where altered pharmacokinetics complicate trough interpretation."
+    },
+    {
+      "topic": "Telithromycin FDA warnings",
+      "question": "Safety concerns that led the FDA to remove some approved indications for telithromycin included:",
+      "options": {
+        "A": "Nephrotoxicity and QT prolongation",
+        "B": "Hepatotoxicity and fatal cases of myasthenia gravis",
+        "C": "Aplastic anemia and pancreatitis",
+        "D": "Tendon rupture and hypoglycemia"
+      },
+      "correct": "B",
+      "explanation": "The FDA removed some telithromycin indications because of safety issues with hepatotoxicity and fatal cases of myasthenia gravis, so B is correct; nephrotoxicity/QT (A), aplastic anemia/pancreatitis (C), and tendon rupture/hypoglycemia (D) are not the cited concerns. Telithromycin, the only marketed ketolide, is now approved only for mild-to-moderate community-acquired pneumonia after losing its acute sinusitis and chronic-bronchitis-exacerbation indications. The HD dose is 600 mg once daily, reduced to 400 mg if hepatic impairment also coexists."
+    },
+    {
+      "topic": "Vancomycin trough levels",
+      "question": "The development of antibiotic resistance has led to a recommendation for higher vancomycin trough levels of:",
+      "options": {
+        "A": "1–5 mg/L",
+        "B": "5–10 mg/L",
+        "C": "15–20 mg/L",
+        "D": "30–40 mg/L"
+      },
+      "correct": "C",
+      "explanation": "Development of antibiotic resistance has driven a recommendation for higher vancomycin trough levels of 15–20 mg/L, so C is correct; the older trough target was 5–10 mg/L (B), and 1–5 (A) or 30–40 mg/L (D) are wrong (30–40 was the old peak target). Because high-flux membranes now remove vancomycin substantially, postdialysis supplements are needed. Life-threatening infections warrant a 25–30 mg/kg (max 2 g) loading dose followed by supplements guided by trough levels. Serum levels are monitored to ensure bactericidal levels and avoid ototoxicity."
+    },
+    {
+      "topic": "Telavancin warning",
+      "question": "Use of telavancin should be limited because of increased mortality, compared with vancomycin, in patients with renal insufficiency treated for:",
+      "options": {
+        "A": "Pneumonia",
+        "B": "Skin infections",
+        "C": "Endocarditis",
+        "D": "Osteomyelitis"
+      },
+      "correct": "A",
+      "explanation": "Telavancin use should be limited because of increased mortality, compared with vancomycin, in patients with renal insufficiency treated for pneumonia, so A is correct; skin infections (B), endocarditis (C), and osteomyelitis (D) are not the setting of the mortality signal. Telavancin is an IV glycopeptide active against MRSA, with concentration-dependent killing and nearly 90% protein binding. It also carries black box warnings for new-onset nephrotoxicity and potential teratogenicity, so it should be reserved for when alternative treatments are unsuitable."
+    },
+    {
+      "topic": "Tetracycline avoidance",
+      "question": "Tetracyclines are generally avoided in renal insufficiency because of their antianabolic effect, which can cause:",
+      "options": {
+        "A": "An increase in plasma urea nitrogen and worsening acidosis",
+        "B": "Hypercalcemia",
+        "C": "Hyperkalemia",
+        "D": "Hypoglycemia"
+      },
+      "correct": "A",
+      "explanation": "The antianabolic effect of tetracyclines can increase the plasma urea nitrogen level and worsen acidosis, so A is correct; they do not cause hypercalcemia (B), hyperkalemia (C), or hypoglycemia (D). For this reason tetracyclines are generally avoided in renal insufficiency. When a tetracycline is necessary, doxycycline is preferred because its renal excretion (about 40%) is lower than tetracycline's (60%); doxycycline is poorly removed by dialysis and needs no supplement or adjustment. Minocycline can be used at usual doses but should not exceed 200 mg/day."
+    },
+    {
+      "topic": "Influenza antivirals",
+      "question": "Which class of drugs is no longer recommended in the United States for influenza owing to high resistance rates?",
+      "options": {
+        "A": "Neuraminidase inhibitors (zanamivir, oseltamivir)",
+        "B": "The adamantanes (amantadine, rimantadine)",
+        "C": "Protease inhibitors",
+        "D": "Echinocandins"
+      },
+      "correct": "B",
+      "explanation": "The adamantanes, amantadine and rimantadine, are no longer recommended in the United States for influenza owing to high resistance rates, so B is correct. The neuraminidase inhibitors zanamivir and oseltamivir (A) remain the recommended agents for influenza A and B prophylaxis and treatment. Protease inhibitors (C) and echinocandins (D) are not influenza drugs. Amantadine must be used with great caution in HD patients because its excretion is almost exclusively renal and its large volume of distribution makes dialytic removal very slow."
+    },
+    {
+      "topic": "Acyclovir toxicity",
+      "question": "Failure to appropriately reduce the acyclovir dose in dialysis patients can lead to which serious toxicity, particularly in CAPD patients?",
+      "options": {
+        "A": "Severe central nervous system toxicity",
+        "B": "Hemolytic anemia",
+        "C": "Cardiac arrhythmia",
+        "D": "Hepatic failure"
+      },
+      "correct": "A",
+      "explanation": "Failure to appropriately reduce the acyclovir dose can lead to severe central nervous system toxicity, particularly in CAPD patients, so A is correct; hemolytic anemia (B), cardiac arrhythmia (C), and hepatic failure (D) are not the cited toxicity. Acyclovir, famciclovir, and valacyclovir all treat HSV and VZV and require dose reduction in renal dysfunction. In patients with residual renal function, IV acyclovir can crystallize in the renal tubules and cause acute kidney injury, a risk reduced by infusing over 1–2 hours. Valacyclovir is its prodrug with about 55% more bioavailability."
+    },
+    {
+      "topic": "Valganciclovir in HD",
+      "question": "The manufacturer recommends that valganciclovir be avoided in patients receiving hemodialysis and that clinicians instead consider:",
+      "options": {
+        "A": "Foscarnet",
+        "B": "Cidofovir",
+        "C": "Ganciclovir",
+        "D": "Acyclovir"
+      },
+      "correct": "C",
+      "explanation": "The manufacturer recommends avoiding valganciclovir in hemodialysis patients and considering ganciclovir instead, so C is correct. Valganciclovir is a prodrug of ganciclovir with higher oral bioavailability, but because ganciclovir's own oral bioavailability is poor, the IV ganciclovir formulation is more commonly used in HD. Foscarnet (A) and cidofovir (B) are alternative anti-CMV agents used in other settings (e.g., foscarnet for ganciclovir-resistant CMV), and acyclovir (D) treats HSV/VZV. Patients on any of these CMV antivirals should be watched for bone marrow toxicity."
+    },
+    {
+      "topic": "Zidovudine dosing",
+      "question": "In renal failure, zidovudine (AZT) requires what dosage change to avoid toxicity such as severe granulocytopenia?",
+      "options": {
+        "A": "A 50% reduction",
+        "B": "A doubling of dose",
+        "C": "No change",
+        "D": "Complete avoidance"
+      },
+      "correct": "A",
+      "explanation": "In renal failure, altered elimination and accumulation of the inactive GZDV metabolite necessitate generally a 50% dose reduction of zidovudine (AZT), so A is correct; doubling (B), no change (C), or complete avoidance (D) are wrong. Severe granulocytopenia has been observed in ESKD patients given 100 mg t.i.d. There is no significant removal of the drug or its metabolite by hemodialysis or peritoneal dialysis. Zidovudine was the first NRTI approved for HIV/AIDS and is predominantly hepatically metabolized, with only about 20% excreted unchanged renally."
+    },
+    {
+      "topic": "Abacavir dosing",
+      "question": "Which NRTI is described as the only one that does not require dosage adjustment in renal failure?",
+      "options": {
+        "A": "Lamivudine",
+        "B": "Tenofovir",
+        "C": "Didanosine",
+        "D": "Abacavir"
+      },
+      "correct": "D",
+      "explanation": "Abacavir is the only NRTI that does not require dosage adjustment in renal failure, so D is correct. Lamivudine (A), tenofovir (B), and didanosine (C)—along with emtricitabine and stavudine—all require adjustment. Tenofovir is additionally noted to cause nephrotoxicity, important in patients with residual renal function. This makes abacavir pharmacokinetically convenient, though NRTI selection also depends on resistance and tolerability. Zidovudine, another NRTI, needs a roughly 50% reduction in renal failure to avoid granulocytopenia."
+    },
+    {
+      "topic": "Azole antifungal dosing",
+      "question": "Which is the only azole antifungal that requires dosage adjustment in renal dysfunction?",
+      "options": {
+        "A": "Itraconazole",
+        "B": "Fluconazole",
+        "C": "Posaconazole",
+        "D": "Voriconazole (oral)"
+      },
+      "correct": "B",
+      "explanation": "Fluconazole is the only azole antifungal that requires dosage adjustment in renal dysfunction, so B is correct; itraconazole (A), posaconazole (C), and oral voriconazole (D) are not routinely renally adjusted. Options are to halve the dose or extend the interval to every 48 hours—the latter may be preferable because fluconazole is dose-dependent (a higher dose gives a higher serum concentration above the organism's MIC). Fluconazole has excellent bioavailability and yeast activity but no mold activity, and its levels are not usually monitored."
+    },
+    {
+      "topic": "Voriconazole IV concern",
+      "question": "Intravenous voriconazole cannot be given when a patient's creatinine clearance is <50 mL/min because of accumulation of:",
+      "options": {
+        "A": "The vehicle cyclodextrin",
+        "B": "An active toxic metabolite",
+        "C": "Ergosterol",
+        "D": "Cilastatin"
+      },
+      "correct": "A",
+      "explanation": "Intravenous voriconazole cannot be given if CrCl is <50 mL/min because of accumulation of the vehicle cyclodextrin, so A is correct; it is not due to a toxic metabolite (B), ergosterol (C), or cilastatin (D). Oral voriconazole, by contrast, is not dose-adjusted for renal dysfunction. Voriconazole is the gold standard for invasive aspergillosis, though its bioavailability varies with high-fat meals and genetic factors. Drug-level monitoring is increasingly used, with recommended troughs between greater than 1 mg/L and less than 5.5 mg/L."
+    },
+    {
+      "topic": "Postdialysis supplement basis",
+      "question": "The posthemodialysis supplements listed in the chapter are specifically geared for which type of treatment?",
+      "options": {
+        "A": "A conventional 4-hour hemodialysis treatment",
+        "B": "Nocturnal 8-hour hemodialysis",
+        "C": "Short daily 2-hour hemodialysis",
+        "D": "Continuous renal replacement therapy"
+      },
+      "correct": "A",
+      "explanation": "The recommended posthemodialysis supplements are geared specifically for a conventional, 4-hour hemodialysis treatment, so A is correct; they are not calibrated for nocturnal 8-hour (B), short daily 2-hour (C), or continuous renal replacement therapy (D) schedules. With very short treatments, the amount of drug removed may not be substantial enough to require a supplement, but dosing should still be timed so a dose is given after dialysis. Supplements are given in addition to the maintenance doses, and peritoneal dialysis patients can generally be treated with usual HD patient doses."
+    },
+    {
+      "topic": "Helicobacter pylori",
+      "question": "Regarding Helicobacter pylori infection in ESKD patients, which statement is correct?",
+      "options": {
+        "A": "Its prevalence is much higher than in patients with normal renal function",
+        "B": "It cannot be treated in dialysis patients",
+        "C": "Its prevalence appears the same as in patients with normal renal function, and therapy is similar",
+        "D": "It never causes upper GI complications"
+      },
+      "correct": "C",
+      "explanation": "Although ESKD patients frequently have upper GI complications, the prevalence of Helicobacter pylori appears the same as in patients with normal renal function, and therapy is similar—so C is correct. It is not much higher than normal (A), it can be treated in dialysis patients (B is false), and it does not never cause GI complications (D). The clinical point is that H. pylori should be diagnosed and treated in dialysis patients just as in nonuremic patients, without assuming that ESKD raises its prevalence."
+    }
+  ]
+}

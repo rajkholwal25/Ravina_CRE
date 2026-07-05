@@ -1,0 +1,665 @@
+{
+ "chapter": 2,
+ "questions": [
+  {
+   "topic": "Nephrology referral timing",
+   "question": "At what stage of chronic kidney disease should a patient generally be under a nephrologist's care, corresponding to a size-adjusted eGFR/1.73 m2 below 30 mL/min?",
+   "options": {
+    "A": "Stage 4",
+    "B": "Stage 3",
+    "C": "Stage 2",
+    "D": "Stage 5"
+   },
+   "correct": "A",
+   "explanation": "Stage 4 CKD is defined by a size-adjusted eGFR/1.73 m2 below 30 mL/min, and once a patient reaches this point they should be under a nephrologist's care, ideally within a multidisciplinary predialysis program offering education, early modality choice, and elective access creation. Stage 3 and stage 2 have higher eGFRs and are too early to mandate specialist dialysis planning, while waiting until stage 5 forfeits the lead time needed to prepare a patient mentally and physically. Early referral is what enables a planned, unhurried start."
+  },
+  {
+   "topic": "Predialysis program benefits",
+   "question": "A key advantage of enrolling a stage 4 CKD patient in a multidisciplinary predialysis program is primarily that it results in:",
+   "options": {
+    "A": "Complete avoidance of dialysis in most patients",
+    "B": "A planned outpatient initiation of dialysis with fewer hospital days in the first month",
+    "C": "Elimination of the need for transplantation workup",
+    "D": "Guaranteed survival superior to transplantation"
+   },
+   "correct": "B",
+   "explanation": "The programmatic, multidisciplinary approach delivers a planned outpatient initiation of dialysis in a patient who is both mentally and physically prepared, which likely produces fewer hospital days in the first month after starting dialysis and substantial cost savings. It does not guarantee avoiding dialysis in most patients (A) or eliminate transplant workup (C), and it cannot promise survival superior to transplantation (D), since transplantation itself outperforms dialysis. The measurable payoff is a smoother, cheaper, better-prepared start."
+  },
+  {
+   "topic": "Timing of modality education",
+   "question": "When is the best time to initiate discussions with a patient about the various renal replacement therapy treatment options?",
+   "options": {
+    "A": "After dialysis has already been started",
+    "B": "Only once stage 5 CKD is reached",
+    "C": "While the patient is still in stage 4 CKD, well before stage 5",
+    "D": "At the first sign of a pericardial friction rub"
+   },
+   "correct": "C",
+   "explanation": "Education about renal replacement options is best begun while the patient is still in stage 4 CKD and well before stage 5 has been reached, leaving time to weigh dialysis, preemptive transplantation, or conservative care and to create access electively. Starting after dialysis has begun (A) or only at stage 5 (B) leaves no lead time and forces rushed, often inpatient, decisions. A pericardial friction rub (D) signals urgent uremic pericarditis needing immediate dialysis, not the calm setting for unhurried modality discussion."
+  },
+  {
+   "topic": "Conservative management indication",
+   "question": "For which patient is conservative (nondialytic) management most likely to be the best choice?",
+   "options": {
+    "A": "A young patient with isolated kidney failure",
+    "B": "A patient with a strong home support structure",
+    "C": "A patient eager to travel frequently",
+    "D": "A patient with extreme debility for whom dialysis may not be appropriate"
+   },
+   "correct": "D",
+   "explanation": "Conservative, nondialytic management is most appropriate for a patient with extreme debility (or other reasons) for whom dialysis may not be an appropriate option, as the chapter states dialysis is simply not suitable for some such patients. A young patient with isolated kidney failure (A), someone with a strong home support structure (B), or a patient eager to travel frequently (C) would generally benefit from dialysis or transplantation. Conservative care is chosen when the burden of dialysis outweighs any realistic benefit."
+  },
+  {
+   "topic": "Preemptive transplantation survival",
+   "question": "Compared with standard forms of dialysis offered today, preemptive kidney transplantation offers:",
+   "options": {
+    "A": "Superior patient survival",
+    "B": "Equivalent survival with higher cost",
+    "C": "Inferior survival but lower cost",
+    "D": "Superior survival only in diabetic patients"
+   },
+   "correct": "A",
+   "explanation": "Transplantation offers survival superior to the standard forms of dialysis offered today, and preemptive transplantation done before ever needing dialysis additionally provides improved patient survival and lower long-term costs. It is therefore not merely equivalent with higher cost (B), inferior but cheaper (C), or superior only in diabetics (D); the survival advantage is general. Its main disadvantages are the logistics of finding a suitable donor and the need for lifelong immunosuppressive compliance."
+  },
+  {
+   "topic": "Transplant contraindication",
+   "question": "Transplantation may NOT be indicated for a patient who has:",
+   "options": {
+    "A": "A living related donor available",
+    "B": "Severe problems with compliance regarding medications",
+    "C": "Diabetes mellitus",
+    "D": "An eGFR above 10 mL/min"
+   },
+   "correct": "B",
+   "explanation": "Transplantation may not be indicated for a patient who has severe problems with compliance regarding medications, because a graft depends on lifelong adherence to immunosuppressive drugs. A living related donor (A) and an eGFR still above 10 mL/min (D) actually favor a preemptive transplant, and diabetes mellitus (C) is not itself a barrier. The chapter frames compliance, not the underlying diagnosis, as the decisive factor, since noncompliance risks graft rejection and loss."
+  },
+  {
+   "topic": "Preemptive transplant timing",
+   "question": "Discussions about transplantation feasibility and workup should ideally begin when the eGFR/1.73 m2 is still well above:",
+   "options": {
+    "A": "5 mL/min",
+    "B": "15 mL/min",
+    "C": "10 mL/min",
+    "D": "30 mL/min"
+   },
+   "correct": "C",
+   "explanation": "Because preemptive transplantation has a higher general success rate than transplantation started after hemodialysis, discussions and workup should begin well in advance of any need for dialysis, usually when the eGFR/1.73 m2 is still well above 10 mL/min. Waiting until 5 mL/min (A) is too late for a preemptive graft, while 15 or 30 mL/min (B, D) are not the specific threshold the chapter cites. The aim is to complete evaluation before dialysis becomes necessary."
+  },
+  {
+   "topic": "Preemptive vs post-dialysis transplant",
+   "question": "How does the general success rate of preemptive transplantation compare to transplantation initiated after a period of hemodialysis?",
+   "options": {
+    "A": "Lower success rate",
+    "B": "Equivalent success rate",
+    "C": "Higher only in pediatric patients",
+    "D": "Higher success rate"
+   },
+   "correct": "D",
+   "explanation": "Preemptive transplantation has a higher success rate in general than transplantation initiated after a period of hemodialysis (Kallab, 2010), which is exactly why the chapter urges early transplant discussions while eGFR is still well above 10 mL/min. It is therefore neither lower (A) nor merely equivalent (B), and the advantage is not limited to pediatric patients (C). Avoiding time on dialysis before grafting improves outcomes."
+  },
+  {
+   "topic": "Home hemodialysis benefits",
+   "question": "When home hemodialysis is given more than 3 times per week or as 8-10-hour treatments 3-3.5 nights per week, the evidence suggests all of the following benefits EXCEPT:",
+   "options": {
+    "A": "Elimination of the need for a caregiver partner",
+    "B": "Better quality of life",
+    "C": "Better control of phosphate and blood pressure",
+    "D": "Possible reduction in left ventricular hypertrophy"
+   },
+   "correct": "A",
+   "explanation": "More intensive home hemodialysis, given more than 3 times per week or as 8-10-hour treatments 3-3.5 nights per week, improves quality of life, phosphate and blood pressure control, and may reduce left ventricular hypertrophy, so B, C, and D are genuine benefits. It does not eliminate the need for a caregiver partner: home hemodialysis is usually assisted by a relative or caregiver, and partner burnout plus conversion of the home into a hospital remain listed disadvantages. Thus A is the false statement."
+  },
+  {
+   "topic": "In-center nocturnal HD",
+   "question": "In-center nocturnal hemodialysis typically consists of:",
+   "options": {
+    "A": "Three 3-5-hour daytime treatments per week",
+    "B": "Three 7-9-hour nocturnal treatments per week given in-center",
+    "C": "Continuous manual exchanges performed during sleep",
+    "D": "Six short daily treatments at home"
+   },
+   "correct": "B",
+   "explanation": "In-center nocturnal hemodialysis consists of three 7-9-hour nocturnal treatments per week (uncommonly every other night), given in-center either staff-assisted or self-care. It markedly increases weekly dialysis time, roughly 24 versus the usual 12 hours, improving control of phosphate, blood pressure, and anemia without converting the home into a clinic. Three short daytime sessions (A) describe conventional HD, manual exchanges during sleep (C) describe PD, and six short home treatments (D) describe short daily HD."
+  },
+  {
+   "topic": "In-center conventional HD",
+   "question": "A recognized potential disadvantage of in-center conventional hemodialysis is:",
+   "options": {
+    "A": "The home is converted into a clinic",
+    "B": "Partner burnout",
+    "C": "It may deliver an inadequate amount of dialysis",
+    "D": "Exposure to high amounts of glucose"
+   },
+   "correct": "C",
+   "explanation": "In-center conventional hemodialysis has patients spend only a short amount of time on dialysis with staff doing all the work, but its disadvantages include travel to the unit, a relatively inflexible schedule, and possibly an inadequate amount of dialysis. Home conversion into a clinic (A) and partner burnout (B) are drawbacks of home hemodialysis, and exposure to high amounts of glucose (D) is a disadvantage of PD. The potentially inadequate dialysis dose is the recognized limitation of thrice-weekly in-center treatment."
+  },
+  {
+   "topic": "Home vs in-center mortality",
+   "question": "In observational studies, mortality rates in home hemodialysis patients compared with in-center hemodialysis patients are:",
+   "options": {
+    "A": "Higher, even at similar weekly dialysis times",
+    "B": "Identical after any adjustment",
+    "C": "Lower only in patients under 40 years",
+    "D": "Lower, sometimes dramatically so, even after adjusting for comorbidities"
+   },
+   "correct": "D",
+   "explanation": "Observational studies show mortality is lower, sometimes dramatically so, in home hemodialysis patients than in in-center patients, even after adjustment for common comorbidities and at similar total weekly dialysis times. This makes higher mortality (A) and identical mortality after adjustment (B) wrong, and the benefit is not restricted to those under 40 (C). The chapter cautions that unaccounted selection bias likely contributes, since home patients tend to be more motivated and better supported."
+  },
+  {
+   "topic": "Home dialysis selection bias",
+   "question": "Part of the survival advantage seen in home dialysis patients may reflect selection bias because home dialysis patients often have:",
+   "options": {
+    "A": "Strong positive attitude, good compliance, and strong support structures",
+    "B": "More severe cardiovascular disease",
+    "C": "Higher rates of noncompliance",
+    "D": "Longer travel distances to the unit"
+   },
+   "correct": "A",
+   "explanation": "Part of the home dialysis survival advantage may reflect selection bias, because patients who undertake home dialysis usually have a strong positive attitude, good compliance, and a strong caregiver and family support structure, all factors independently associated with increased survival. They do not typically have more severe cardiovascular disease (B), higher rates of noncompliance (C), or longer travel distances (D); if anything the opposite. These favorable traits, not the modality alone, may drive the better outcomes."
+  },
+  {
+   "topic": "In-center HD vs home PD mortality",
+   "question": "Mortality rates for in-center hemodialysis are most similar to those for:",
+   "options": {
+    "A": "Home hemodialysis",
+    "B": "Home PD",
+    "C": "Preemptive transplantation",
+    "D": "Conservative management"
+   },
+   "correct": "B",
+   "explanation": "Mortality rates for in-center hemodialysis are similar to those for home PD, so the choice between these two modalities should rest primarily on patient preference rather than any anticipated survival benefit. Home hemodialysis (A) actually shows lower mortality, preemptive transplantation (C) is superior to all dialysis forms, and conservative management (D) carries potentially reduced life expectancy. The equivalence specifically noted in the chapter is in-center hemodialysis versus home PD."
+  },
+  {
+   "topic": "Short daily hemodialysis",
+   "question": "\"Short daily\" hemodialysis differs from conventional therapy by delivering approximately the same weekly dialysis time in:",
+   "options": {
+    "A": "One prolonged weekly session",
+    "B": "Two sessions per week",
+    "C": "Five or six sessions per week",
+    "D": "Three 7-9-hour nocturnal sessions"
+   },
+   "correct": "C",
+   "explanation": "In short daily hemodialysis the usual weekly dialysis time is broken up into five or six sessions per week rather than the conventional three, with observational studies showing better blood pressure control, better nutrition (weight gain, increased appetite and albumin), and better anemia control. A single prolonged session (A) or two sessions (B) would not maintain the weekly dose, and three 7-9-hour nocturnal sessions (D) describe nocturnal HD. The defining feature is more frequent, shorter treatments."
+  },
+  {
+   "topic": "FHN trial outcomes",
+   "question": "In the FHN trial, patients randomized to more frequent hemodialysis for 1 year showed which two primary outcome improvements?",
+   "options": {
+    "A": "Improved albumin and improved anemia control",
+    "B": "Reduced peritonitis and improved travel freedom",
+    "C": "Increased survival and reduced cost",
+    "D": "Reduction in left ventricular hypertrophy and improved physical functioning"
+   },
+   "correct": "D",
+   "explanation": "The two primary outcomes of the FHN trial that improved with more frequent dialysis (patients randomized to 6 but averaging 5 treatments per week for 1 year) were a reduction in left ventricular hypertrophy and improved physical functioning. It also produced a reduced severity of hypertension and marginally improved serum phosphorus. It did not improve albumin or anemia (A), and it was not built around survival or cost (C) or peritonitis and travel freedom (B), which relate to other modalities."
+  },
+  {
+   "topic": "FHN trial non-benefits",
+   "question": "In the FHN trial, more frequent hemodialysis produced NO improvement in:",
+   "options": {
+    "A": "Serum albumin, nutritional measures, or anemia control",
+    "B": "Left ventricular hypertrophy",
+    "C": "Physical functioning",
+    "D": "Severity of hypertension"
+   },
+   "correct": "A",
+   "explanation": "The FHN trial showed no improvement in serum albumin, nutritional measurements, or control of anemia with more frequent dialysis. Its documented benefits were in the opposite domains, namely left ventricular hypertrophy (B), physical functioning (C), and severity of hypertension (D), plus marginally better phosphorus, so those options describe where frequent HD did help. Recognizing that nutrition and anemia were unchanged is the point of the question."
+  },
+  {
+   "topic": "Short daily HD setting",
+   "question": "Frequent \"short daily\" hemodialysis is usually performed:",
+   "options": {
+    "A": "Exclusively in-center under staff supervision",
+    "B": "At home, and only rarely offered in-center",
+    "C": "Only in self-care units",
+    "D": "Only in hospitalized patients"
+   },
+   "correct": "B",
+   "explanation": "Frequent short daily hemodialysis is usually done at home and is only rarely offered in-center or in self-care units, and it is gaining popularity thanks to easy-to-use machines dedicated to delivering such therapy in the home setting. It is therefore not performed exclusively in-center (A), only in self-care units (C), or only in hospitalized patients (D). The home setting is what makes daily frequency practical."
+  },
+  {
+   "topic": "Nocturnal HD session length",
+   "question": "Each session of long nocturnal hemodialysis typically lasts approximately:",
+   "options": {
+    "A": "3-5 hours",
+    "B": "5-6 hours",
+    "C": "7-9 hours",
+    "D": "10-12 hours"
+   },
+   "correct": "C",
+   "explanation": "With long nocturnal hemodialysis each session typically lasts 7-9 hours, producing substantially longer weekly dialysis times than conventional therapy. Sessions of 3-5 hours (A) correspond to conventional hemodialysis, while 5-6 hours (B) or 10-12 hours (D) are not the figures the chapter gives. The extended overnight duration is what allows the superior control of phosphate, blood pressure, and anemia seen with nocturnal treatment."
+  },
+  {
+   "topic": "In-center nocturnal weekly time",
+   "question": "When nocturnal dialysis is given in-center 3 times per week, the total weekly dialysis time is about:",
+   "options": {
+    "A": "12 hours per week",
+    "B": "18 hours per week",
+    "C": "36 hours per week",
+    "D": "24 hours per week"
+   },
+   "correct": "D",
+   "explanation": "When nocturnal dialysis is given in-center 3 times per week, the weekly dialysis time is about 24 hours, compared with the usual 12 hours per week on conventional schedules, roughly doubling exposure. Twelve hours (A) is the conventional total, and 18 or 36 hours (B, C) are not cited. This large increase in weekly time underlies the improved solute and volume control achieved with nocturnal therapy."
+  },
+  {
+   "topic": "PD utilization rates",
+   "question": "Approximately what percentage of patients choose peritoneal dialysis over hemodialysis in the United States?",
+   "options": {
+    "A": "About 12%",
+    "B": "About 20%",
+    "C": "About 30%",
+    "D": "About 50%"
+   },
+   "correct": "A",
+   "explanation": "About 12% of patients choose PD over hemodialysis in the United States, compared with 20% to 30% in Canada. So 20% or 30% (B, C) describe Canadian rather than U.S. uptake, and 50% (D) exceeds any figure the chapter gives. Despite PD's simplicity and home-based advantages with little need for special water systems, U.S. adoption remains relatively low."
+  },
+  {
+   "topic": "CAPD versus APD",
+   "question": "In continuous ambulatory peritoneal dialysis (CAPD), the patient typically:",
+   "options": {
+    "A": "Hooks up to a machine at night for automated exchanges",
+    "B": "Performs manual exchanges 4 or 5 times per day",
+    "C": "Undergoes exchanges only 3 times per week",
+    "D": "Requires an in-center nocturnal setup"
+   },
+   "correct": "B",
+   "explanation": "In continuous ambulatory peritoneal dialysis (CAPD) the patient performs manual exchanges 4 or 5 times per day. Hooking up to a machine at night for automated exchanges during sleep (A) describes automated PD (APD), not CAPD, while exchanges only 3 times per week (C) or an in-center nocturnal setup (D) describe neither PD form. The distinguishing feature of CAPD is frequent daytime manual exchanges performed by the patient."
+  },
+  {
+   "topic": "PD favored patients",
+   "question": "Peritoneal dialysis is often favored for all of the following patients EXCEPT:",
+   "options": {
+    "A": "Infants or very young children",
+    "B": "Patients with severe cardiovascular disease",
+    "C": "Patients with an unsuitable peritoneum due to adhesions",
+    "D": "Patients with difficult vascular access such as diabetics"
+   },
+   "correct": "C",
+   "explanation": "PD is often favored for infants and very young children, patients with severe cardiovascular disease, those with difficult vascular access such as diabetics, and those wanting greater freedom to travel, so A, B, and D are recognized indications. An unsuitable peritoneum due to adhesions is a contraindication, not an indication, making C the exception. The point is to separate favorable candidates from patients in whom the peritoneal membrane itself precludes PD."
+  },
+  {
+   "topic": "PD contraindications",
+   "question": "A contraindication to peritoneal dialysis is an unsuitable peritoneum due to:",
+   "options": {
+    "A": "Desire to travel",
+    "B": "Diabetes mellitus",
+    "C": "Young patient age",
+    "D": "Adhesions, fibrosis, or malignancy"
+   },
+   "correct": "D",
+   "explanation": "A contraindication to PD is an unsuitable peritoneum due to the presence of adhesions, fibrosis, or malignancy, which impair dialysate distribution and clearance. A desire to travel (A), diabetes mellitus (B), and young patient age (C) are actually situations in which PD is often favored, not contraindications. The integrity of the peritoneal membrane is what determines whether PD can work at all."
+  },
+  {
+   "topic": "PD membrane transport",
+   "question": "Over time, a substantial number of PD patients experience an increase in peritoneal membrane transport rate, which results in:",
+   "options": {
+    "A": "Inadequate ultrafiltration",
+    "B": "Improved clearance of small solutes",
+    "C": "Reduced peritonitis rates",
+    "D": "Decreased glucose absorption"
+   },
+   "correct": "A",
+   "explanation": "Over time a substantial number of PD patients experience an increase in peritoneal membrane transport rate, which results in inadequate ultrafiltration and can limit long-term PD. Faster transport does not beneficially improve small-solute clearance here (B), reduce peritonitis (C), or decrease glucose absorption (D); rapid transport actually dissipates the osmotic gradient and worsens fluid removal. This membrane change is a recognized cause of PD failure."
+  },
+  {
+   "topic": "PD in diabetics",
+   "question": "Regarding diabetic patients on peritoneal dialysis versus hemodialysis, diabetics on PD have historically tended to have:",
+   "options": {
+    "A": "Lower mortality that continues to widen",
+    "B": "Higher mortality, though this trend appears to have attenuated recently",
+    "C": "Identical mortality in all eras",
+    "D": "Higher rates of preemptive transplantation"
+   },
+   "correct": "B",
+   "explanation": "Diabetic patients have historically tended to have higher mortality on PD versus hemodialysis, although in recent years this trend appears to have attenuated. This makes a widening lower-mortality gap (A) and identical mortality in all eras (C) incorrect, and the chapter does not tie PD to higher preemptive transplant rates (D). Even so, diabetics with difficult vascular access are among the patients for whom PD is often favored, so the decision is individualized."
+  },
+  {
+   "topic": "PD abandonment cause",
+   "question": "A major cause of abandonment of peritoneal dialysis is:",
+   "options": {
+    "A": "Excessive ultrafiltration",
+    "B": "Increased survival benefit",
+    "C": "Frequent episodes of peritonitis",
+    "D": "Improved clearances with APD"
+   },
+   "correct": "C",
+   "explanation": "A major cause of abandonment of PD is the occurrence of frequent episodes of peritonitis, with patient burnout also contributing. Excessive ultrafiltration (A) is not the problem, since loss of ultrafiltration is the concern; an increased survival benefit (B) would be a reason to continue rather than stop; and improved clearances with APD (D) are an advantage. Recurrent peritonitis is the classic reason patients are switched off PD."
+  },
+  {
+   "topic": "PD cost",
+   "question": "Compared with hemodialysis, peritoneal dialysis is:",
+   "options": {
+    "A": "More expensive, particularly in developing countries",
+    "B": "More expensive only in developed countries",
+    "C": "Equal in cost worldwide",
+    "D": "Less expensive, particularly in developing countries"
+   },
+   "correct": "D",
+   "explanation": "PD is less expensive than hemodialysis, particularly in developing countries, and it also grants patients independence and freedom to travel without being constrained to a fixed in-center schedule. Options stating it is more expensive (A, B) or equal in cost worldwide (C) contradict the chapter. Lower cost is a key reason PD is emphasized in resource-limited settings."
+  },
+  {
+   "topic": "Osmotic agents in PD",
+   "question": "Newer peritoneal dialysis solutions may use which agents as osmotic agents instead of or in addition to glucose?",
+   "options": {
+    "A": "Amino acids or icodextrin",
+    "B": "Erythropoietin and iron",
+    "C": "Sodium bicarbonate and potassium",
+    "D": "Ketoacids"
+   },
+   "correct": "A",
+   "explanation": "New PD solutions include glucose-based fluids with decreased amounts of glucose degradation products, as well as solutions using amino acids or icodextrin as the osmotic agent. Erythropoietin and iron (B) treat anemia, sodium bicarbonate and potassium (C) are not PD osmotic agents, and ketoacids (D) belong to the very-low-protein diet used to postpone dialysis. Icodextrin and amino acids provide alternatives to glucose-driven osmosis."
+  },
+  {
+   "topic": "PD suitability requirements",
+   "question": "Peritoneal dialysis may NOT be the best option for patients who:",
+   "options": {
+    "A": "Have a \"do-it-yourself\" mentality",
+    "B": "Lack the stability or social and family support at home to carry out a PD program",
+    "C": "Want freedom to travel",
+    "D": "Have difficult vascular access"
+   },
+   "correct": "B",
+   "explanation": "PD may not be the best option for patients who lack the stability or the social and family support at home to carry out a PD program, or who lack a do-it-yourself mentality. Having such a mentality (A), wanting freedom to travel (C), or having difficult vascular access (D) actually favor PD. Successful home-based PD depends on the patient's ability and support structure to self-manage the therapy day to day."
+  },
+  {
+   "topic": "Postponing dialysis strategy",
+   "question": "The strategy of postponing dialysis in selected patients relies primarily on:",
+   "options": {
+    "A": "A high-protein diet with aggressive fluid loading",
+    "B": "Intensive erythropoietin therapy",
+    "C": "A very-low-protein diet plus ketoanalogues with careful fluid management",
+    "D": "Preemptive fistula creation"
+   },
+   "correct": "C",
+   "explanation": "The strategy of postponing dialysis relies on a very-low-protein diet supplemented with ketoanalogues plus careful fluid management (Brunori, 2007). A high-protein diet with aggressive fluid loading (A) would worsen uremia and overload, intensive erythropoietin (B) treats anemia rather than the need for dialysis, and preemptive fistula creation (D) prepares for rather than postpones dialysis. The main drawback of this approach is the expense of the ketoanalogues."
+  },
+  {
+   "topic": "Postponing dialysis in elderly",
+   "question": "In carefully selected elderly patients without marked fluid overload, a very-low-protein diet supplemented with ketoacids postponed the need for dialysis on average by about:",
+   "options": {
+    "A": "1 month",
+    "B": "6 months",
+    "C": "3 years",
+    "D": "1 year"
+   },
+   "correct": "D",
+   "explanation": "In carefully selected elderly patients without marked fluid overload, a very-low-protein diet supplemented with ketoacids postponed the need for dialysis on average by about 1 year. Shorter estimates of 1 month or 6 months (A, B) understate the benefit, and 3 years (C) overstates it. This roughly one-year delay is the specific figure the chapter reports for this carefully chosen elderly population with few comorbidities."
+  },
+  {
+   "topic": "Palliative care option",
+   "question": "Conservative management without dialysis (palliative care) is considered good for patients:",
+   "options": {
+    "A": "For whom dialysis is not expected to significantly prolong life or who have overwhelming comorbidities",
+    "B": "Who are young with isolated renal failure",
+    "C": "Who have a readily available living donor",
+    "D": "With only mild fluid overload and no comorbidities"
+   },
+   "correct": "A",
+   "explanation": "Palliative conservative management without dialysis is appropriate for patients for whom dialysis is not expected to prolong life to a significant extent, or in whom overwhelming comorbidities are present, accepting potentially reduced life expectancy. A young patient with isolated renal failure (B), one with a readily available living donor (C), or someone with only mild fluid overload and no comorbidities (D) would generally benefit from dialysis or transplant. Palliative care targets those unlikely to gain from dialysis."
+  },
+  {
+   "topic": "Absolute contraindications to dialysis",
+   "question": "Regarding absolute contraindications to dialysis therapy, which statement is correct?",
+   "options": {
+    "A": "Advanced liver disease is an absolute contraindication",
+    "B": "There are no absolute contraindications to dialysis therapy",
+    "C": "Malignancy is an absolute contraindication",
+    "D": "Age over 80 is an absolute contraindication"
+   },
+   "correct": "B",
+   "explanation": "There are no absolute contraindications to dialysis therapy; in some states legal precedent even guarantees dialysis to anyone who desires it despite the severity of other medical problems. Advanced liver disease (A), malignancy (C), and age over 80 (D) may make dialysis difficult or sometimes futile, but none is an absolute bar. Decisions to forgo dialysis rest on the principle of futility and shared decision making rather than on fixed contraindications."
+  },
+  {
+   "topic": "Ethics committee role",
+   "question": "When a patient cannot voice their own wishes and the family has divided opinions about initiating life support by dialysis, assistance may best be provided by:",
+   "options": {
+    "A": "The dialysis unit nursing staff alone",
+    "B": "The patient's employer",
+    "C": "The hospital ethics committee",
+    "D": "The equipment manufacturer"
+   },
+   "correct": "C",
+   "explanation": "When a patient is unable to voice their own thoughts and the family holds divided opinions about initiating life support by dialysis, the hospital ethics committee may be of assistance. The dialysis unit nursing staff alone (A), the patient's employer (B), or the equipment manufacturer (D) are not the appropriate bodies for resolving such value-laden conflicts. The ethics committee provides a structured, due-process forum for these difficult decisions."
+  },
+  {
+   "topic": "RPA guideline recommendations",
+   "question": "The U.S. Renal Physicians Association clinical practice guideline for stopping or never beginning dialysis consists of how many recommendations for adult patients?",
+   "options": {
+    "A": "5 recommendations",
+    "B": "9 recommendations",
+    "C": "15 recommendations",
+    "D": "10 recommendations"
+   },
+   "correct": "D",
+   "explanation": "The U.S. Renal Physicians Association clinical practice guideline for stopping or never beginning dialysis contains 10 recommendations for adult patients and 9 for pediatric patients. So 9 (B) is the pediatric number, and 5 or 15 (A, C) are not cited. The guideline emphasizes shared decision making, informed consent or refusal, estimating prognosis, and a time-limited trial of dialysis where indicated."
+  },
+  {
+   "topic": "Concept of futility",
+   "question": "The ethical principle on which one can make a reasonable decision NOT to initiate dialysis when treatment would provide no benefit is:",
+   "options": {
+    "A": "Futility",
+    "B": "Autonomy",
+    "C": "Beneficence",
+    "D": "Justice"
+   },
+   "correct": "A",
+   "explanation": "Futility is the ethical principle on which one can make a reasonable decision not to initiate dialysis when it would provide no benefit, for example in some patients with advanced liver disease in whom dialysis may be futile. Autonomy (B), beneficence (C), and justice (D) are other ethical principles but are not the specific basis the chapter names for withholding futile dialysis. Futility justifies non-initiation even though there are no absolute contraindications to dialysis."
+  },
+  {
+   "topic": "Advanced liver disease and dialysis",
+   "question": "Patients with advanced liver disease considered for dialysis may present with complicating features such as:",
+   "options": {
+    "A": "Hypertension and polycythemia",
+    "B": "Ascites, encephalopathy, bleeding diathesis, and hypotension",
+    "C": "Improved vascular access",
+    "D": "Resistance to fluid overload"
+   },
+   "correct": "B",
+   "explanation": "Patients with advanced liver disease considered for dialysis may have ascites, encephalopathy, bleeding diathesis, and hypotension, which make vascular access difficult and can cause dialysis to produce too much hypotension or fail to correct fluid overload. They do not present with hypertension and polycythemia (A), improved vascular access (C), or resistance to fluid overload (D). These concomitant problems can render dialysis futile, though some patients still improve with multidisciplinary ESRD care."
+  },
+  {
+   "topic": "Time-limited trial of dialysis",
+   "question": "According to the shared decision-making recommendations, a time-limited trial of dialysis is appropriate for patients who:",
+   "options": {
+    "A": "Have clearly reversible acute injury only",
+    "B": "Have refused all treatment",
+    "C": "Have an uncertain prognosis or for whom consensus about dialysis cannot be reached",
+    "D": "Have a very poor prognosis with certainty"
+   },
+   "correct": "C",
+   "explanation": "A time-limited trial of dialysis should be considered for patients who require dialysis but have an uncertain prognosis, or for whom a consensus about providing dialysis cannot be reached. Clearly reversible acute injury (A) does not need a trial to justify treatment, a patient who has refused all treatment (B) is exercising informed refusal, and a certain very poor prognosis (D) argues for forgoing rather than trialing dialysis. Uncertainty is precisely what a time-limited trial is designed to resolve."
+  },
+  {
+   "topic": "Elderly dialysis demographics",
+   "question": "In the United States and elsewhere, the fastest growing age group presenting for dialysis is:",
+   "options": {
+    "A": "Adolescents",
+    "B": "Patients aged 40-50 years",
+    "C": "Patients aged 60-65 years",
+    "D": "The \"oldest old\" (patients older than 80 years)"
+   },
+   "correct": "D",
+   "explanation": "The fastest growing age group presenting for dialysis in the United States and elsewhere is the oldest old, patients older than 80 years. Adolescents (A) and middle-aged groups aged 40-50 or 60-65 (B, C) are not the fastest growing. In this population access placement is not particularly difficult and many continue to enjoy a good quality of life, so advanced age alone does not preclude dialysis."
+  },
+  {
+   "topic": "Elderly access placement",
+   "question": "In the \"oldest old\" dialysis patients, when standard access is difficult, success has been achieved using:",
+   "options": {
+    "A": "Cuffed venous catheters",
+    "B": "PICC lines",
+    "C": "Peripheral IV cannulas only",
+    "D": "No vascular access at all"
+   },
+   "correct": "A",
+   "explanation": "In the oldest old, access placement is not particularly difficult, and cuffed venous catheters have been used with success in difficult cases. PICC lines (B) are specifically to be avoided because they often cause future access outflow problems, peripheral IV cannulas only (C) cannot support hemodialysis, and going without any vascular access (D) is not an option for those needing dialysis. Cuffed venous catheters provide a workable fallback in these elderly patients."
+  },
+  {
+   "topic": "Elderly dialysis outcomes",
+   "question": "In elderly dialysis patients, a high rate of compliance with all aspects of treatment often:",
+   "options": {
+    "A": "Increases hospital days markedly",
+    "B": "Offsets a higher prevalence of comorbid conditions in achieving a good outcome",
+    "C": "Eliminates the need for transportation",
+    "D": "Precludes a good quality of life"
+   },
+   "correct": "B",
+   "explanation": "In elderly dialysis patients a high rate of compliance with all aspects of treatment often offsets a higher prevalence of comorbid cardiac, vascular, and malignant conditions, helping achieve a good outcome. It does not markedly increase hospital days (A), eliminate the need for transportation (C), or preclude a good quality of life (D); in fact many oldest-old patients enjoy good quality of life and documented health improvements. Compliance is the offsetting factor the chapter highlights."
+  },
+  {
+   "topic": "Adolescents on dialysis",
+   "question": "Psychosocial problems commonly affecting adolescents on dialysis include all of the following EXCEPT:",
+   "options": {
+    "A": "Depression and frustration with medical orders",
+    "B": "Poor school attendance and peer pressure over inability to play sports",
+    "C": "Consistently superior treatment compliance compared with adults",
+    "D": "Flat affect and nonadherence to medications and diet"
+   },
+   "correct": "C",
+   "explanation": "Adolescents on dialysis commonly face depression and frustration with medical orders, interpersonal family conflict, poor school attendance from frequent admissions, peer pressure over inability to play sports, flat affect, and nonadherence to medications and diet, so A, B, and D are typical. Consistently superior treatment compliance compared with adults (C) is the opposite of the usual picture, making it the exception. Psychological support and social worker input are key to management."
+  },
+  {
+   "topic": "Preferred hemodialysis access",
+   "question": "The preferred vascular access for hemodialysis is:",
+   "options": {
+    "A": "A tunneled cuffed catheter",
+    "B": "An arteriovenous graft",
+    "C": "A PICC line",
+    "D": "An arteriovenous fistula"
+   },
+   "correct": "D",
+   "explanation": "For hemodialysis the preferred access is an arteriovenous (AV) fistula, and the veins in both arms should be preserved to the greatest extent possible in patients anticipating renal replacement therapy. A tunneled cuffed catheter (A) is a fallback, an arteriovenous graft (B) is second-line to a native fistula, and a PICC line (C) is specifically discouraged because it causes future outflow problems. The native fistula offers the best long-term patency and lowest complication rate."
+  },
+  {
+   "topic": "Vein preservation",
+   "question": "To preserve veins in patients anticipating renal replacement therapy, venipunctures should be drawn where possible from:",
+   "options": {
+    "A": "The back of the hand",
+    "B": "The antecubital fossa",
+    "C": "The forearm cephalic vein",
+    "D": "A central line"
+   },
+   "correct": "A",
+   "explanation": "To preserve veins in patients anticipating renal replacement therapy, all venipunctures should be drawn from the back of the hand where possible. The antecubital fossa (B) and the forearm cephalic vein (C) are precisely the sites needed for a future fistula and must be protected, and routine central lines (D) are avoided. Guarding forearm and upper-arm veins keeps the best options open for future AV fistula creation."
+  },
+  {
+   "topic": "PICC line avoidance",
+   "question": "PICC (percutaneous intravenous central catheter) lines should be avoided in CKD patients because they often result in:",
+   "options": {
+    "A": "Improved fistula maturation",
+    "B": "Future access outflow problems",
+    "C": "Lower peritonitis rates",
+    "D": "Reduced bleeding time"
+   },
+   "correct": "B",
+   "explanation": "PICC lines should be avoided to the greatest extent possible because they often result in future access outflow problems that compromise later fistula function. They do not improve fistula maturation (A), lower peritonitis rates (C), or reduce bleeding time (D). Because central venous stenosis from a PICC can jeopardize an entire arm's access, the chapter's vein-preservation strategy specifically warns against them."
+  },
+  {
+   "topic": "AV fistula lead time",
+   "question": "To allow for maturation and correction of problems, an AV fistula should ideally be created how far before anticipated dialysis initiation?",
+   "options": {
+    "A": "2 weeks before",
+    "B": "1-2 months before",
+    "C": "6-9 months before",
+    "D": "2 years before"
+   },
+   "correct": "C",
+   "explanation": "Because some patients have fragile veins, an AV fistula should be created early, about 6-9 months before anticipated dialysis, so that a lead time of at least 6 months allows correction of suboptimal flow or placement of a second fistula if the first does not function. Two weeks (A) is the timeline for a PD catheter, not a fistula, 1-2 months (B) is too short for maturation, and 2 years (D) is unnecessarily early. Adequate lead time ensures a usable access at the start of dialysis."
+  },
+  {
+   "topic": "PD catheter timing",
+   "question": "For peritoneal dialysis, a peritoneal catheter should be in place at least how long before the anticipated start of dialysis?",
+   "options": {
+    "A": "1 year",
+    "B": "2 months",
+    "C": "6 months",
+    "D": "2 weeks"
+   },
+   "correct": "D",
+   "explanation": "For peritoneal dialysis, a peritoneal catheter should be in place at least 2 weeks before the anticipated start of dialysis to allow healing before use. Longer intervals of months or a year (A, B, C) are not required, unlike the 6-9-month lead time needed for an AV fistula. The shorter PD catheter lead time reflects that the catheter needs only wound healing, not vascular maturation."
+  },
+  {
+   "topic": "Urgent-start dialysis trend",
+   "question": "In a situation where an urgent start of dialysis is needed, a recent trend is to:",
+   "options": {
+    "A": "Place a peritoneal catheter to control uremia, buying time for later AV fistula placement",
+    "B": "Immediately create an AV fistula and wait for maturation",
+    "C": "Begin conservative management indefinitely",
+    "D": "Rely solely on PICC lines"
+   },
+   "correct": "A",
+   "explanation": "When an urgent start of dialysis is needed, a recent trend is to place a peritoneal catheter, allowing initial control of uremia by PD and buying time for subsequent placement of an AV fistula. Immediately creating a fistula and waiting for maturation (B) provides no immediate dialysis, indefinite conservative management (C) does not treat urgent uremia, and relying solely on PICC lines (D) is discouraged. The PD catheter delivers immediate therapy while preserving vascular access options."
+  },
+  {
+   "topic": "AV fistula fallback for PD",
+   "question": "The past recommendation to create an AV fistula as a fallback option for patients who choose PD is now:",
+   "options": {
+    "A": "Strongly recommended for all PD patients",
+    "B": "No longer recommended, though still practiced in some centers",
+    "C": "Legally mandated",
+    "D": "Required only in diabetics"
+   },
+   "correct": "B",
+   "explanation": "In the past an AV fistula was recommended as a fallback option for patients who choose PD, but this is no longer recommended, although it is still practiced in some centers. It is therefore not strongly recommended for all PD patients (A), legally mandated (C), or required only in diabetics (D). Current practice has moved away from routinely creating a backup fistula for PD patients."
+  },
+  {
+   "topic": "Uremic syndrome definition",
+   "question": "The uremic syndrome consists of symptoms and signs resulting from:",
+   "options": {
+    "A": "Iron overload",
+    "B": "Excessive erythropoietin production",
+    "C": "Toxic effects of elevated nitrogenous and other wastes in the blood",
+    "D": "Hypercalcemia from binders"
+   },
+   "correct": "C",
+   "explanation": "The uremic syndrome consists of symptoms and signs that result from the toxic effects of elevated levels of nitrogenous and other wastes in the blood. It is not caused by iron overload (A), excessive erythropoietin production (B), or hypercalcemia from binders (D). Recognizing that retained nitrogenous waste products drive the syndrome explains why dialysis, which removes these toxins, reverses many of its manifestations."
+  },
+  {
+   "topic": "Uremic symptoms",
+   "question": "A uremic patient most characteristically reports which early symptom pattern?",
+   "options": {
+    "A": "Feeling most nauseated late at night",
+    "B": "Feeling warm and energetic",
+    "C": "Increased appetite and weight gain",
+    "D": "Nausea and vomiting soon after awakening, with loss of appetite"
+   },
+   "correct": "D",
+   "explanation": "Uremic patients most characteristically become nauseated and often vomit soon after awakening and may lose their appetite, sometimes finding the mere thought of eating makes them feel ill; they also feel fatigued, weak, and cold. This contrasts with feeling most nauseated late at night (A), feeling warm and energetic (B), or having increased appetite and weight gain (C), none of which are features of uremia. Morning nausea with anorexia is a classic early clue."
+  },
+  {
+   "topic": "Uremic pericarditis",
+   "question": "A uremic patient presenting with a pericardial friction rub or pericardial effusion may have uremic pericarditis, a condition that:",
+   "options": {
+    "A": "Urgently requires dialysis treatment",
+    "B": "Can be managed with observation alone",
+    "C": "Is a contraindication to dialysis",
+    "D": "Responds only to erythropoietin"
+   },
+   "correct": "A",
+   "explanation": "A pericardial friction rub or pericardial effusion, with or without tamponade, may reflect uremic pericarditis, a condition that urgently requires dialysis treatment given the risk of a rapidly developing effusion and cardiac tamponade. It cannot be safely managed with observation alone (B), is an indication for rather than a contraindication to dialysis (C), and does not respond to erythropoietin (D). Uremic pericarditis is one of the urgent indications for prompt dialysis."
+  },
+  {
+   "topic": "Uremic motor neuropathy",
+   "question": "A uremic patient with new foot-drop or wrist-drop most likely has:",
+   "options": {
+    "A": "Uremic pericarditis",
+    "B": "Uremic motor neuropathy that responds to dialysis",
+    "C": "Uremic encephalopathy",
+    "D": "Anemia of CKD"
+   },
+   "correct": "B",
+   "explanation": "New foot-drop or wrist-drop in a uremic patient may be evidence of uremic motor neuropathy, a condition that also responds to dialysis. It is not uremic pericarditis (A), which causes a friction rub or effusion, nor uremic encephalopathy (C), which produces tremor, asterixis, myoclonus, or seizures, nor simply the anemia of CKD (D). This motor deficit is a recognized urgent neurologic indication that prompts dialysis."
+  },
+  {
+   "topic": "Uremic encephalopathy signs",
+   "question": "Which set of findings is characteristic of uremic encephalopathy?",
+   "options": {
+    "A": "Pericardial friction rub and effusion",
+    "B": "Foot-drop and wrist-drop",
+    "C": "Tremor, asterixis, multifocal myoclonus, or seizures",
+    "D": "Prolonged bleeding time alone"
+   },
+   "correct": "C",
+   "explanation": "Tremor, asterixis, multifocal myoclonus, or seizures are the signs of uremic encephalopathy. A pericardial friction rub and effusion (A) point instead to uremic pericarditis, foot-drop and wrist-drop (B) indicate uremic motor neuropathy, and a prolonged bleeding time alone (D) reflects the uremic bleeding diathesis. These encephalopathic findings constitute neurologic dysfunction that is a cause for prompt dialysis."
+  }
+ ]
+}

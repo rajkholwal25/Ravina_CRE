@@ -1,0 +1,1219 @@
+713
+Cardiovascular Disease
+Daniel E. Weiner and Mark J. Sarnak
+38
+In end stage kidney disease (ESKD) patients, mortality due to 
+ cardiovascular disease (CVD) is 10 to 30 times higher than in the 
+general population. For example, a 30-year-old dialysis patient has 
+a similar CVD mortality risk to that of an 80-year-old in the general 
+population. This increased risk likely reflects the very high prevalence 
+of CVD, increased prevalence and severity of diabetes, hypertension 
+and left ventricular hypertrophy, and nontraditional risk factors such 
+as chronic volume overload, hyperphosphatemia, anemia, oxidant 
+stress, and other aspects of the uremic milieu (Table 38.1). In this 
+chapter, we focus on epidemiology and management of traditional 
+and nontraditional CVD risk factors, and on ischemic heart disease, 
+heart failure, pericardial effusion, valvular disease, and arrhythmia.
+ I. TRADITIONAL RISK FACTORS
+A. Blood pressure.  Data on blood pressure targets and optimal 
+strategies and agents for blood pressure management in dial -
+ysis remain insufficient (Inrig, 2010). These are discussed in 
+ further detail in Chapter 33.
+B. Diabetes. Dialysis patients with diabetes are at higher risk 
+for acute coronary syndromes and have worse outcomes 
+ following coronary interventions than those without diabe-
+tes.  Additionally, there is increased prevalence of heart failure. 
+Poor blood glucose control (as assessed by glycosylated hemo-
+globin levels) is associated with increased mortality in dialysis 
+patients, although precise targets remain uncertain. Cohort 
+data suggest that a hemoglobin A1C threshold of 8% may be 
+a reasonable target in healthier dialysis patients for cardiovas-
+cular risk reduction (Ricks, 2012), while less stringent targets 
+may be appropriate in those with more extensive comorbidity. 
+See Chapter 32.
+C. Smoking. Smoking is associated with progression in early stage 
+CKD patients, and may well adversely impact residual kidney 
+function in dialysis patients. Smoking strongly associates 
+with all-cause mortality in dialysis patients and likely associ-
+ates with CVD. Critically, in USRDS data, former smokers had 
+a similar risk as lifelong nonsmokers, suggesting a benefit of 
+smoking cessation and a role for directed intervention.
+Daugirdas9781451144291-ch038.indd   713 09/10/14   1:46 am
+Part IV / Clinical Problem Areas
+714
+D. Dyslipidemia
+1. Lipid profile patterns.  Dyslipidemia is very common in all 
+stages of kidney disease, including both hemodialysis and 
+peritoneal dialysis patients. Dyslipidemia, particularly 
+high low-density lipoprotein (LDL) cholesterol and high 
+triglyceride levels, is particularly common in peritoneal 
+dialysis, where the glucose-enriched milieu predisposes to 
+a more atherogenic lipid profile. In dialysis, similar to many 
+advanced chronic disease states, the relationship of total or 
+LDL cholesterol to mortality is “U”-shaped; patients with 
+high cholesterol levels, likely due to increased atherogenic 
+risk, and also patients with low levels, likely due to associ-
+ated malnutrition, both are at heightened risk (Kilpatrick, 
+2007). Total cholesterol and, in particular, high-density 
+lipoprotein (HDL) cholesterol levels may be reduced, and 
+atherogenic lipoprotein remnants and lipoprotein (a) are 
+often increased.
+Nearly one-third of dialysis patients have hypertri -
+glyceridemia, defined by levels above 200 mg/dL (2.26 
+mmol/L), with levels occasionally 600 mg/dL (6.8 mmol/L) 
+or higher. The predominant underlying cause is a defi-
+ciency of lipoprotein lipase, resulting in reduced lipolysis of 
+triglyceride (TG)-rich very low-density lipoproteins (VLDL) 
+and yielding high quantities of atherogenic remnant lipo -
+proteins. Enrichment of LDL particles with triglycerides 
+also suggests partial deficiency of hepatic lipase. These 
+basic defects may be enhanced by β-adrenergic blockers, 
+high-carbohydrate diets, absorption of glucose from peri-
+toneal dialysate, the use of heparin, and decreased hepatic 
+blood flow from cardiac disease.
+2. Measurement. If not previously assessed, it is likely worth-
+while to evaluate a lipid profile at least once in all dialysis 
+Traditional Risk Factors Nontraditional Risk Factors
+Older age
+Male gender
+Hypertension
+Diabetes
+Smoking
+Dyslipidemia
+Left ventricular hypertrophy
+Physical inactivity
+Menopause
+Family history of cardiovascular 
+disease
+Extracellular fluid volume overload
+Abnormal calcium/phosphate metabolism
+Vitamin D deficiency
+Anemia
+Oxidant Stress
+Inflammation
+Homocysteine
+Malnutrition
+Albuminuria
+Thrombogenic factors
+Sleep disturbances
+Altered nitric oxide/endothelin balance
+Marinobufagenin
+Uremic toxins
+38.1
+TA b LE
+Traditional and Nontraditional Cardiovascular Risk Factors
+Daugirdas9781451144291-ch038.indd   714 09/10/14   1:46 am
+715Chapter 38 / Cardiovascular Disease
+patients. This can establish a diagnosis of severe hypercho-
+lesterolemia or hypertriglyceridemia (i.e., 1,000 mg/dL [11.3 
+mmol/L] or higher) that may prompt focused treatment or 
+evaluation for secondary causes of dyslipidemia (Miller, 
+2011). Lipid panels are optimally obtained in the fasting 
+state, particularly for evaluation of serum triglyceride lev-
+els, although, as many dialysis patients receive treatments 
+in the afternoon or evening and data on therapy efficacy 
+are limited, a random screening may be most practical.
+The current KDIGO lipid guideline, similar to the re-
+cent American Heart Association guideline, notes limited 
+data to support dose escalation of lipid-lowering therapies 
+and therefore favors a “fire-and-forget” strategy (KDIGO 
+Lipid Work group, 2013). Accordingly, in patients already 
+treated with a high potency statin, there is no indication to 
+routinely measure cholesterol. Similarly, in dialysis  patients 
+not currently treated with a statin, given the data discussed 
+below on statin efficacy for CVD prevention, there is no 
+ indication to routinely measure cholesterol.
+3. T reatment
+a. Principles. Treatment strategies for dyslipidemia include 
+medications and lifestyle modifications. As in the general 
+population, first-line therapy for most patients is dietary 
+and lifestyle modification, including exercise whenever 
+feasible. While the utility of lifestyle modifications for 
+changing the lipid profile remains uncertain, there is 
+little drawback to this strategy, particularly given other 
+potential benefits, minimal risk, and a lack of benefit on 
+hard outcomes associated with pharmacologic therapy.
+Dietary prescriptions are best accomplished with 
+guidance from a nutritionist with experience in man -
+agement of kidney disease patients. Recommenda-
+tions listed in Chapter 31 should generally be followed. 
+These include consumption of a diet containing about 
+ 25%–35% of total calories as fat; of this, about 20% should 
+be monounsatured, 10% polyunsaturated, and <7% sat -
+urated fat. In patients with hypertriglyceridemia, mild 
+restriction of total carbohydrate intake and limitation 
+of the use of refined carbohydrate may be indicated. 
+Additionally, alcohol ingestion should be discouraged. 
+Despite the risk of malnutrition in many dialysis patients, 
+there may be a minority where overall calorie restric -
+tion is indicated to achieve ideal body weight, especially 
+among those receiving peritoneal dialysis. In PD patients, 
+sodium restriction may reduce the use of higher dialy-
+sate glucose concentrations; this would yield less glucose 
+absorption and decrease the stimulus for hypertriglyceri-
+demia (see Chapter 29). If possible, physical training and 
+regular exercise are recommended as they may result in 
+an improved cardiovascular risk profile and an improved 
+sense of well-being.
+Daugirdas9781451144291-ch038.indd   715 09/10/14   1:46 am
+Part IV / Clinical Problem Areas
+716
+b. Statin therapy. Although dialysis patients are in the high-
+est risk group for CVD events, several large clinical trials 
+have failed to show a significant benefit with statin ther-
+apy, despite substantial LDL-C lowering with therapy in 
+these trials. Accordingly, in contrast to the prior KDOQI 
+guideline, the 2013 KDIGO Clinical Practice Guideline 
+for Lipid Management in Chronic Kidney Disease sug-
+gests that statins or a statin/ezetimibe combination not 
+be initiated in adults with dialysis-dependent CKD.
+In incident dialysis patients already being treated 
+with statin therapy, these medications likely should be 
+continued. This conclusion is based on results from the 
+Study of Heart and Renal Protection (SHARP), which 
+enrolled not only dialysis patients but also more than 
+6,000 individuals with stage 3b and 4 CKD, more than 
+2,000 of whom progressed to require dialysis or kid-
+ney transplant. In general, simvastatin/ezetimibe was 
+continued during kidney replacement therapy, and, in 
+analyses of SHARP participants who at baseline did not 
+require dialysis, statin/ezetimibe therapy was associ-
+ated with significant cardiovascular event reduction. As 
+many of these individuals continued on therapy follow-
+ing dialysis initiation, it seems reasonable to continue 
+statin therapy in individuals treated with statins at the 
+time of dialysis initiation. Although there are no studies 
+evaluating dialysis patients with an acute myocardial 
+ infarction (MI) who were not previously treated with a 
+statin, it also seems reasonable to initiate statin therapy 
+in those with a relatively good longer-term prognosis.
+One area of insufficient knowledge is peritoneal 
+ dialysis (PD). SHARP included 496 PD patients, but, aside 
+from SHARP , PD patients have not been included in clini-
+cal trials. In SHARP , there was a trend to a benefit with 
+lipid-lowering therapy versus placebo in this subgroup. 
+Similarly, in a post hoc analysis of the US Renal Data Sys-
+tem observation Dialysis Morbidity and Mortality Wave 2 
+cohort that used propensity score matching, lipid- lowering 
+therapy in PD patients was associated with a significantly 
+reduced risk of all-cause and cardiovascular death.
+In sum, based on available data, statins should be 
+continued in those individuals already using these agents, 
+with attention paid to dose and drug-drug interactions 
+(Table 38.2). Additionally, in dialysis patients not previ -
+ously prescribed a statin, in the opinion of the authors, 
+statin treatment of those dialysis patients with longer life 
+expectancies (i.e., individuals listed for transplantation) 
+or those experiencing recent acute coronary syndromes 
+may be appropriate. Given the paucity of data in perito-
+neal dialysis but physiology that suggests higher athero-
+sclerosis risk, a “fire-and-forget” approach may also be 
+beneficial in PD patients (Goldfarb-Rumyantzev, 2007).
+Daugirdas9781451144291-ch038.indd   716 09/10/14   1:46 am
+717Chapter 38 / Cardiovascular Disease
+Agent Dose Adjustment 
+in Dialysis
+Notes
+Statinsa
+Atorvastatin None
+Fluvastatin ↓ to 50% Decrease dosage by half at GFR <30
+Lovastatin ↓ to 50% Decrease dosage by half at GFR <30
+Pravastatin No Starting dose of 10 mg/d 
+recommended for GFR <60
+Rosuvastatin ↓ Decrease to a maximum of 10 mg/d 
+at GFR <30; recommended starting 
+dose is 5 mg/d
+Simvastatin See note If GFR <10, start at 5 mg/d and 
+use doses above 10 mg daily 
+with caution; may interact with 
+amlodipine and other calcium 
+channel blockers
+Bile Acid Sequestrants
+Cholestyramine No Not absorbed
+Cholestipol No Not absorbed
+Colesevelam No Not absorbed
+Fibratesb
+bezafibrate See note Concurrent use of fibrates and 
+statins contraindicated in advanced 
+CKD.
+Ciprofibrate See note
+Clofibrate See note
+Fenofibrate See note
+Gemfibrozil See note
+Miscellaneous
+Ezetimibe No None
+Nicotinic Acid ↓ to 50% May worsen glycemic control and 
+cause orthostasis, hyperuricemia, 
+and flushing; may have phosphorus 
+binding effects
+a Statins may interact with other medications used in dialysis patients, including calcineurin inhibi-
+tors, several antibiotics, and, potentially, calcium channel blockers.
+b Based on package inserts, all fibrates are contraindicated in dialysis patients. Small short-term 
+studies have safely utilized fibrates in dialysis patients, with one study using gemfibrozil 600 mg 
+twice daily and another using fenofibrate 100 mg daily without any serious adverse effects. The 
+FIELD trial of 9795 patients with type 2 diabetes evaluated fenofibrate 200 mg daily versus placebo 
+and noted no adverse safety signals in the 519 patient subset with stage 3 CKD.
+38.2
+TA b LE
+Lipid-lowering Medication Dose Adjustments for Reduced GFR
+Daugirdas9781451144291-ch038.indd   717 09/10/14   1:46 am
+Part IV / Clinical Problem Areas
+718
+While statin use is generally safe in the dialysis 
+population, a number of medications increase blood lev-
+els of statins via co-metabolism by hepatic cytochrome 
+P450 enzymes; these include calcineurin inhibitors, 
+macrolide antibiotics, azole antifungal agents, calcium 
+channel blockers, fibrates, and nicotinic acid, and are 
+best documented with simvastatin. Potential drug–drug 
+interactions should be assessed in each patient. Statins 
+may cause myopathy, and the risk of myopathy may be 
+increased in CKD. This is particularly apparent with con-
+current use of fibrates, and this combination should be 
+avoided in CKD.
+c. Hypertriglyceridemia management.  Statins have some effect 
+in lowering serum triglyceride level, although they are 
+less effective than fibrates and/or nicotinic acid for 
+this  purpose. In contrast, bile acid resins may actually 
+increase triglyceride levels. There are no data support -
+ing a benefit of fibrates or nicotinic acid on outcome 
+improvement in dialysis patients, particularly in those 
+with only modest elevations in serum triglyceride level 
+(<500 mg/dL [<5.7 mmol/L]), and these agents should 
+not be first-line therapy in this setting. Based on this 
+paucity of data, the 2013 KDIGO guidelines state that: 
+“Fibric acid derivatives are not recommended to prevent 
+pancreatitis or reduce cardiovascular risk in adults with 
+CKD and hypertriglyceridemia. ” There are no data to 
+guide treatment decisions in dialysis patients with very 
+high TG levels ( >500 mg/dL [>5.7 mmol/L]); accord-
+ingly, treatment decisions need to balance potential 
+risks associated with severe hypertriglyceridemia with 
+the risks and benefits associated with therapy. Of note, 
+adequate data do not exist to guide fibrate dosing in 
+dialysis patients as the safety of this class has not been 
+assessed sufficiently in dialysis patients. Small studies 
+and reports suggest that fibrates may be safe, although 
+some dose reduction may be prudent if these agents are 
+used in dialysis (Table 38.2) and concurrent use with 
+a statin is contraindicated. Available fibrates include 
+gemfibrozil, bezafibrate, ciprofibrate, clofibrate, and 
+fenofibrate.
+d. Other lipid-lowering agents.  Alternatives to statins and 
+fibrates include bile acid sequestrants (including the 
+phosphate binder, sevelamer), nicotinic acid, and ezeti-
+mibe. Bile acid sequestrants can interfere with absorp-
+tion of other medications; bile acid sequestrants should 
+not be used when triglycerides (TG) are >400 mg/dL  
+(>4.5 mmol/L), and their use is relatively contrain-
+dicated when TG are >200 mg/dL (>2.3 mmol/L) 
+since they may increase triglycerides in some patients. 
+Doses do not need to be reduced in dialysis patients 
+(Table 38.2). Sevelamer acts by the same mechanism to 
+Daugirdas9781451144291-ch038.indd   718 09/10/14   1:46 am
+719Chapter 38 / Cardiovascular Disease
+lower both total and LDL cholesterol, and may be a good 
+choice when phosphorus binding is also desired. While 
+not as effective for LDL lowering, nicotinic acid has the 
+greatest favorable effects on HDL cholesterol levels of 
+available drug therapies, and also lowers serum triglyc-
+eride levels. However, there are no data to support a 
+benefit of nicotinic acid on CVD or mortality outcomes. 
+Dosage should be reduced by about 50% in ESKD, given 
+its substantial renal excretion. The potential of nicotin -
+amide as a phosphorus binder has been advocated, but 
+data are inadequate to support this indication. Adverse 
+effects can include hyperglycemia and hepatotoxicity in 
+individuals with underlying liver disease or when high 
+doses are used. Flushing may be attenuated with concur-
+rent aspirin use or by giving longer-acting preparations. 
+Nicotinic acid is more often used as a first-line therapy 
+when severe hypertriglyceridemia ( >500 mg/dL, or 
+5.8 mmol/L) needs to be treated to protect against pan-
+creatitis, or when a statin is contraindicated. Ezetimibe 
+is a drug that inhibits cholesterol absorption. There are 
+few data available on its use in kidney failure, although 
+its use in conjunction with simvastatin in SHARP sug-
+gests safety.
+E. Left ventricular hypertrophy
+1. Epidemiology. Left ventricular hypertrophy (LVH) is highly 
+prevalent, frequently developing prior to the need for kid-
+ney replacement therapy, and likely reflecting pressure and 
+volume overload (KDOQI CVD, 2005). Over 30% of par -
+ticipants in the Frequent Hemodialysis Network studies, a 
+group that overall was healthier than the general dialysis 
+population, had LVH at study entry (defined using cardiac 
+magnetic resonance imaging), with other studies show-
+ing prevalence rates of (50%–75%) patients. LVH in dialy-
+sis patients is an independent risk factor for subsequent 
+adverse cardiovascular events and death.
+Most LVH is initially concentric, representing a uni-
+form increase in wall thickness secondary to pressure over-
+load from hypertension, stiffened blood vessels, or aortic 
+stenosis. Anemia and volume overload resulting from 
+chronic inability to effectively remove ingested sodium 
+and fluid may each result in eccentric hypertrophy. The 
+endpoint is often a dilated cardiomyopathy with eventual 
+reduction in systolic function. These end-stage patients 
+typically have low blood pressure and may be responsible 
+for the “J”-shaped (or “U”-shaped) relationship observed 
+between blood pressure and mortality in dialysis patients.
+LVH most often is diagnosed with echocardiography, 
+an inexpensive, noninvasive widely available test. Cardiac 
+function should be assessed in the euvolemic state, as both 
+significant volume depletion and overload may reduce 
+left ventricular inotropy. Accordingly, in dialysis patients, 
+Daugirdas9781451144291-ch038.indd   719 09/10/14   1:46 am
+Part IV / Clinical Problem Areas
+720
+two-dimensional echocardiography is likely to be most 
+ informative if performed on a day during the interdialytic 
+interval. While three-dimensional echocardiography may 
+be useful to assess left ventricle (LV) structure as it avoids 
+the use of geometric assumptions of LV shape that are re-
+quired to estimate LV mass and volume, the increasing 
+availability of cardiac magnetic resonance imaging likely 
+provides the most accurate assessment of LV structure. 
+Screening echocardiography is currently recommended 
+for incident dialysis patients; however, there is no evidence 
+that this improves clinical outcomes.
+2. Prevention and management.  Some data suggest that with 
+modification of risk factors, including anemia and sys-
+tolic blood pressure, strict management of volume, 
+management of mineral and bone disorder, and use of 
+ACE inhibitor or angiotensin receptor blocker therapy, 
+regression of LVH may occur in dialysis patients. Data are 
+inconsistent on whether high flow arteriovenous fistulas 
+may lead to maladaptive cardiac remodeling. That regres -
+sion of LVH results in reduced CV events and decreased 
+mortality risk appears likely, as multiple post hoc analy-
+ses have shown a lower risk of adverse events in partici-
+pants in whom LVH regressed over the course of clinical 
+trials. Accordingly, in dialysis populations, LVH has been 
+used both as a factor in determining study eligibility and 
+as a surrogate outcome to infer subsequent CV and mor -
+tality risk reduction.
+With regard to RAAS inhibition, the largest outcomes 
+study to date evaluating the effect of renin–angiotensin–
+aldosterone system blockade in dialysis patients with LVH 
+was the Fosinopril in Dialysis Study which randomized 397 
+hemodialysis patients to fosinopril versus placebo, and 
+showed no benefit on cardiovascular events over a 2-year 
+period (Zannad, 2006). Other trials examining left ven-
+tricular mass reduction have, however, suggested a benefit. 
+Randomized trials in CKD targeting normalization of he-
+moglobin levels with recombinant human erythropoietin 
+had no effect on left ventricular mass. In hemodialysis 
+patients enrolled in the Frequent Hemodialysis Network 
+study, those who received more frequent hemodialysis had 
+a significant improvement in LV mass; whether this benefit 
+was mediated through improved control of blood pressure, 
+volume, phosphorus, or other factors is uncertain.
+ II. NONTRADITIONAL RISK F ACTORS. These are listed in Table 38.1. In-
+depth discussion of some of these is beyond the scope of the 
+Handbook, but we briefly summarize the most pertinent issues. 
+Volume control is discussed in chapters 12, 26, and 33.
+A. Mineral and bone disorder. Mineral and bone disorders, discussed 
+in Chapter 36, may affect the cardiovascular system in multiple 
+ways (Lau & Ix, 2013). First, both elevated PTH and reduced 
+Daugirdas9781451144291-ch038.indd   720 09/10/14   1:46 am
+721Chapter 38 / Cardiovascular Disease
+1,25-vitamin D levels may directly affect the myocardium, pro-
+moting hypertrophy. Second, hyperphosphatemia, positive 
+calcium balance in the setting of impaired bone buffering, and 
+other factors in the uremic milieu including loss of calcification 
+inhibitors can combine to promote vascular calcification. Third, 
+other hormones, including FGF23, may promote LVH and may 
+also act independently or through other calcification promoters 
+to promote vascular calcification. Vascular calcification occurs 
+at both the arterial media and the intima, with medial calcifi-
+cation generally more pronounced among dialysis patients. 
+Medial calcification is associated with stiffer blood vessels, 
+as evidenced by increased pulse wave velocity. This increases 
+cardiac afterload and promotes LVH. Furthermore, during the 
+cardiac cycle, the systolic pressure wave normally reflects back 
+onto the heart during early diastole, promoting coronary fill -
+ing. With stiffened arteries and increased pulse wave velocity, 
+this reflected wave returns to the heart prematurely—during 
+late systole. This results in loss of the coronary filling effect 
+and increased afterload as the heart has to pump against the 
+reflected pressure wave from the previous contraction.
+Vascular calcification may be diagnosed in several ways. 
+Plain radiographs are specific but insensitive, while electron 
+beam and spiral computed tomography are sensitive and spe-
+cific but expensive and associated with significant radiation 
+exposure on repeated use. Ultrasound, most commonly of the 
+carotid arteries, is relatively inexpensive and noninvasive, but 
+requires a trained operator and may lack precision to closely 
+track changes over time. Use of such tests needs to be justi -
+fied by their impact on clinical decision making. At the present 
+time, there is no reliable method of reversing cardiac calcifica-
+tion, although some studies have suggested that use of non-
+calcium-containing binders results in more favorable calcium 
+balance. Dialysis prescriptions resulting in negative phospho -
+rus balance also may slow progression of calcification. A rea-
+sonable strategy may be to limit the use of calcium-containing 
+phosphorus binders in patients in whom extensive vascular 
+calcification has been documented. This is discussed in more 
+detail in Chapter 36.
+B. Anemia. Anemia is common in CKD patients, especially at 
+ dialysis initiation, and its severity correlates with the extent 
+of LVH. While in observational studies, patients with higher 
+hemoglobin levels have fewer cardiovascular disease events, 
+treatment with recombinant erythropoietin to raise hemo -
+globin levels to the normal range may be associated with 
+increased cardiovascular risk. Anemia management is dis -
+cussed in detail in Chapter 34.
+C. Sleep. Sleep abnormalities, discussed in Chapter 40, are highly 
+prevalent in dialysis patients and are associated with coronary 
+artery disease. Nocturnal hypoxemia associated with sleep 
+apnea is associated with increased CVD events and may rep-
+resent a potentially modifiable risk factor.
+Daugirdas9781451144291-ch038.indd   721 09/10/14   1:46 am
+Part IV / Clinical Problem Areas
+722
+D. Oxidant stress and inflammation.  Numerous factors in the dialy-
+sis patient increase oxidant stress and inflammation burden. 
+These include dialysis using catheters, underlying illness and 
+infection, malnutrition, and perhaps the dialysis procedure 
+itself. Many protective mechanisms against inflammation are 
+impaired, including reduced serum levels of free thiols such 
+as glutathione. Retained, failed arteriovenous (AV) grafts, or 
+kidney allografts also may be a source of continued inflam-
+matory stimulus. At this time, specific treatment strategies to 
+reduce inflammation or oxidant stress are neither widely used 
+nor adequately supported by randomized trials, and results of 
+studies investigating the potential benefit of antioxidant ther-
+apies in the dialysis population have been disappointing.
+ III. ISCHEMIC HEART DISEASE
+A. Overview. Acute myocardial infarction (MI) and acute coro-
+nary syndromes are exceedingly common in the ESKD pop-
+ulation and associated with poor outcomes. One study in 
+Taiwan demonstrated 30% 1-year mortality following acute 
+coronary syndrome in dialysis patients, while US data show 
+a 50% higher in-hospital mortality rate for dialysis patients 
+admitted with acute MI (Herzog, 2007) and 1-year mortality of 
+approximately 60%.
+Both atherosclerosis and arteriosclerosis contribute to 
+pathogenesis; arteriosclerosis, often synonymous with vascu-
+lar stiffness and manifesting as a loss of arterial elasticity, may 
+result in LVH with subsequent increased myocardial oxygen 
+demand and altered coronary perfusion followed ultimately by 
+subendocardial ischemia. Small vessel coronary artery disease 
+also plays a role: in one study, up to 50% of nondiabetic dialysis 
+patients with symptoms of myocardial ischemia did not have 
+significant large caliber coronary artery disease, implicating 
+isolated small vessel disease as a cause of ischemia.
+B. Diagnosis. Routine screening is not currently recommended for 
+dialysis patients, and even screening of asymptomatic trans -
+plant candidates is controversial. There are no pre-operative 
+screening guidelines specific to dialysis patients, and it is 
+reasonable to use general population guidelines, recogniz -
+ing that the extent of comorbid conditions prevalent in the 
+dialysis population is likely to place them into the highest 
+cardiovascular risk group. Because many dialysis patients 
+are unable to achieve adequate exercise levels for valid stress 
+tests, pharmacologic stress tests should be used in this popu-
+lation. Furthermore, because of the high incidence of baseline 
+electrocardiogram abnormalities, either nuclear or echocar -
+diographic imaging should be utilized in stress testing. There 
+is no absolute contraindication to cardiac catheterization in 
+patients treated with dialysis, although preservation of exist -
+ing kidney function is an important consideration, especially 
+in those treated with PD, and the associated risk of contrast 
+nephropathy should be kept in mind.
+Daugirdas9781451144291-ch038.indd   722 09/10/14   1:46 am
+723Chapter 38 / Cardiovascular Disease
+Diagnosis of acute MI can be challenging , as cardiac bio-
+marker levels, including troponins, may be elevated chroni -
+cally (DeFilippi, 2003). Chronic troponin elevation itself is a 
+marker of worse prognosis, likely representing ongoing injury 
+and subclinical ischemia. The American Heart Association sug-
+gests that, if chronic, minor elevations in cardiac biomarkers in 
+kidney failure should not be classified as injury; however, rising 
+and/or falling cardiac biomarker levels in the appropriate clini-
+cal setting likely are consistent with acute MI (Thygesen, 2012).
+C. Prevention. There are few clinical trials evaluating primary and 
+secondary prevention strategies in dialysis patients. If hem -
+orrhagic risk and blood pressure permit, aspirin, β-blockers, 
+ACE inhibitors or angiotensin receptor blockers, and nitrate 
+preparations may all be appropriate for secondary prevention.
+D. T reatment
+1. Management of angina pectoris and stable coronary artery disease.  
+The pharmacologic approach to angina in dialysis patients 
+is likely similar to that in the general population. The 
+progressive introduction of sublingual nitrates, oral long-  
+acting nitrates, β-blockers, and calcium channel blockers is 
+appropriate. Usual dosages of sublingual and oral nitrates 
+can be given to dialysis patients.
+While there is strong evidence for the benefits of 
+ aspirin for secondary prevention of atherosclerotic CVD 
+events in individuals with intact kidney function and coro-
+nary artery disease, with or without ischemic cardiomy-
+opathy, there are conflicting reports of worse heart failure 
+outcomes associated with aspirin use in patients with kid-
+ney disease. This may relate to attenuation of the beneficial 
+effects of ACE inhibitors due to aspirin-mediated inhibi-
+tion of kinin-mediated prostaglandin synthesis. Limited 
+observational data in dialysis patients have not shown a 
+ beneficial effect on cardiovascular outcomes associated 
+with low-dose aspirin, but these reports are limited by 
+study design. Clinical trials examining aspirin use and use 
+of other antiplatelet agents for access patency show no 
+ evidence of harm associated with aspirin or clopidogrel 
+use, but benefit remains uncertain. At this time, given the 
+significant benefits of aspirin use in nondialysis patients 
+with coronary artery disease, there is insufficient evidence 
+to recommend against the use of aspirin in dialysis patients 
+with coronary artery disease.
+2. Chest pain during the hemodialysis session.  For patients who 
+develop chest pain primarily during the hemodialysis ses -
+sion, a number of potential therapeutic options are avail -
+able. Nasal oxygen may be beneficial in this setting. If the 
+anginal episode is associated with hypotension, initial 
+treatment should include raising the blood pressure by 
+elevating the feet and by cautiously administering saline. 
+Sublingual nitroglycerin can be given if the blood pressure 
+has increased to a clinically acceptable value. Possibly, 
+Daugirdas9781451144291-ch038.indd   723 09/10/14   1:46 am
+Part IV / Clinical Problem Areas
+724
+the blood flow rate should be reduced and ultrafiltration 
+should be stopped until the anginal episode subsides. 
+Cooling the dialysate may also help maintain cardiac per -
+fusion, particularly in individuals prone to intradialytic 
+hypotension (Selby, 2006). Predialysis administration of 
+2% nitroglycerin ointment may be of benefit when applied 
+1 hour prior to a hemodialysis session, assuming that the 
+blood pressure will tolerate this intervention. Predialysis 
+administration of β -blockers and oral nitrates may be of 
+benefit, but must be done cautiously because the risk of 
+hypotension during the dialysis session may be increased. 
+Of note, several β -blockers require dose reduction in 
+dialysis patients, including atenolol, which has extensive 
+kidney clearance. Among commonly used β-blockers, 
+atenolol and metoprolol are extensively cleared with 
+hemodialysis, while carvedilol and labetolol do not have 
+substantial dialysis-related clearance. Calcium channel 
+blockers could be of use in situations where β -blockade 
+is contraindicated or inadequate; however, given the 
+negative cardiac inotropy associated with this class and 
+the high prevalence of systolic dysfunction in dialysis 
+patients, calcium channel blockers, particularly the non -
+dihydropyridines (diltiazem and verapamil), should be 
+used with caution.
+3. Revascularization. The optimal treatment of coronary artery 
+disease in dialysis patients remains uncertain. Medical 
+management, percutaneous intervention (PCI) including 
+angioplasty with use of either drug eluting or bare metal 
+stents, and coronary artery bypass graft (CABG) surgery, all 
+have roles in individualized care (Charytan, 2014).
+Given the high periprocedural risks associated with 
+CABG, if anatomy permits and symptoms persist despite 
+medical management, PCI is likely the better approach for 
+patients who are not transplant candidates or at higher 
+perioperative risk if undergoing CABG. As in the general 
+population, CABG incorporates greater short-term risk 
+in exchange for longer-term benefits, and balancing this 
+trade-off is essential to individualizing therapy. For PCI, 
+data are insufficient to support drug eluting stents over 
+bare metal stents, and a key determination for stent type 
+may be whether an individual dialysis patient can safely 
+use clopidogrel for 1 year or more; if longer-term clopido-
+grel use is an option, many interventionalists will select a 
+drug eluting stent based on general population and early 
+stage CKD data. As with most procedures, those done on 
+an emergent basis are associated with worse outcomes. 
+Thrombolytics and glycoprotein IIb/IIIa antagonists are 
+likely beneficial, particularly when interventional cardiol -
+ogy is unavailable, but may be associated with a higher risk 
+of bleeding complications.
+Daugirdas9781451144291-ch038.indd   724 09/10/14   1:46 am
+725Chapter 38 / Cardiovascular Disease
+ I V. CARDIOMYOPATHY AND HEART FAILURE
+A. Pathophysiology. Heart failure is highly prevalent and related to 
+many common factors in the dialysis population. Although 
+there is no universally accepted definition, heart failure is 
+generally characterized by volume overload, pulmonary 
+edema, and dyspnea. Heart failure may occur as a result of 
+left ventricular dysfunction (systolic dysfunction) or diastolic 
+dysfunction in which the LV has a normal ejection fraction 
+but impaired filling. Diastolic dysfunction is often associ-
+ated with LVH and systemic hypertension, both of which 
+are extremely common in dialysis patients. Systolic dysfunc -
+tion is frequently a result of ischemic disease and dilated 
+cardiomyopathy. For obvious reasons, dialysis patients are 
+particularly vulnerable to fluid overload, and pulmonary 
+edema in the setting of marked fluid overload may not rep-
+resent cardiac dysfunction. However, frequent pulmonary 
+edema with minimal intradialytic weight gain may be an 
+important clue of cardiac dysfunction. An additional clue 
+may be  dialysis-related hypotension, as dysfunctional hearts 
+likely have reduced capacity for adaptation to intravascular 
+volume loss. Furthermore, ultrafiltration may never allow 
+accumulation of excess fluid, rendering hypotension the sole 
+manifestation of heart failure.
+Although the diagnosis of heart failure is clinical, echo-
+cardiography is invaluable for diagnosing systolic and diastolic 
+dysfunction. Echocardiography may also suggest the cause 
+of disease, identifying wall motion abnormalities that may 
+indicate ischemia and infarcts, LVH that may predispose to 
+diastolic dysfunction, and valvular disease with its effects on 
+cardiac morphology. KDOQI guidelines recommend obtaining 
+echocardiograms at dialysis initiation after dry weight is estab-
+lished and every 3 years thereafter; these recommendations 
+are opinion-based (KDOQI CVD, 2005).
+B. T reatment.  Chronic therapy for heart failure in dialysis patients 
+has not been adequately studied; therefore, most recommen-
+dations are either extrapolated from the general population or 
+based on smaller trials. Restriction of sodium intake, including 
+avoidance of routine sodium modeling, is important, since, 
+with most thrice-weekly hemodialysis schedules, the ability to 
+remove excess fluid is limited. More frequent dialysis thera -
+pies, including daily hemodialysis and PD, may help optimize 
+volume status. Maintaining a balance between fluid overload 
+on the one hand and symptomatic hypotension on the other 
+may be extremely difficult in some dialysis patients. In the 
+future, newer technologies, including intradialytic blood vol-
+ume monitoring and bioimpedance analysis, may have more 
+clearly delineated roles for optimizing volume management. 
+In general, we favor maintenance of near euvolemia over phar-
+macologic therapy in the treatment of heart failure in dialysis 
+patients.
+Daugirdas9781451144291-ch038.indd   725 09/10/14   1:46 am
+Part IV / Clinical Problem Areas
+726
+1. Traditional drug therapy
+a. ACE inhibitors  are beneficial in nonuremic patients with 
+chronic heart failure and may be beneficial in dialysis 
+patients, with one prior meta-analysis showing a reduc-
+tion in LV mass. There are limited data showing a sur -
+vival benefit with these agents. One small Italian study 
+did show a mortality benefit with dual ACE inhibitor and 
+ARB therapy versus ACE inhibitor therapy alone in hemo-
+dialysis patients with a left ventricular ejection fraction 
+below 40%, a strategy that is not routinely recommended 
+(Cice, 2010). On the other hand, one relatively large ran-
+domized trial of olmesartan versus placebo failed to 
+show any improvement in terms of cardiovascular event 
+rate or death (Iseki, 2013). Major limitations associated 
+with use of these agents include hypotension and hyper-
+kalemia. If there is a contraindication to ACE inhibitor 
+use, it seems reasonable to extrapolate from data in the 
+general population and substitute angiotensin receptor 
+blockers (ARBs). Most ACE inhibitors are cleared during 
+dialysis while ARBs are not dialyzable.
+b. a-Blockers, another mainstay of heart failure therapy in 
+the general population, also are of uncertain benefit in 
+the dialysis population. In an Italian study, carvedilol, 
+well studied for heart failure in the general population, 
+reduced mortality in dialysis patients with left ventric -
+ular dysfunction (Cice, 2003). Carvedilol dosing is the 
+same as in the general population. One small trial com-
+pared thrice weekly posthemodialysis administration of 
+lisinopril with atenolol (Agarwal, 2014), with both groups 
+having a similar reduction in LV mass, the primary out -
+come; of note, the group treated with atenolol had fewer 
+deaths and heart failure hospitalizations, secondary 
+outcomes for which the study was not powered. It is dif-
+ficult to draw treatment conclusions from this study as 
+the dosing intervals for lisinopril were very atypical for 
+clinical practice. Several β-blockers, including atenolol, 
+have markedly reduced elimination rates in kidney fail -
+ure and should either not be used or be used at either 
+a lower dose or increased dosing interval (Chapter 33). 
+In general, non–kidney-metabolized β-blockers, such as 
+metoprolol and carvedilol, can be safely titrated to heart 
+rate and blood pressure. Dialysis clearance also varies for 
+specific β-blockers, with atenolol and metoprolol both 
+extensively cleared with high-flux hemodialysis while 
+carvedilol and labetolol have minimal hemodialytic 
+clearance.
+c. Aldosterone blocking agents , including spironolactone and 
+epleronone, are beneficial in the general population with 
+heart failure and, given the known effects of aldosterone 
+on arterial stiffness and cardiac remodeling, could be 
+beneficial in the dialysis population. With only one small 
+Daugirdas9781451144291-ch038.indd   726 09/10/14   1:46 am
+727Chapter 38 / Cardiovascular Disease
+trial suggesting a benefit on clinical outcomes with low-
+dose spironolactone (Matsumoto, 2014), use of these 
+agents has not been adequately studied in the dialysis 
+population for safety or efficacy. Despite the lack of sub-
+stantial kidney function, of theoretical concern would be 
+a possible increased risk of hyperkalemia, particularly if 
+aldosterone antagonists were used in conjunction with 
+ACE inhibitors or ARBs.
+d. Cardiac glycosides , namely digoxin, are frequently used 
+in heart failure in the general population, where it has 
+been shown that they improve morbidity but not mor -
+tality. Digoxin, when used in dialysis patients, should 
+be utilized judiciously with careful attention to dosage 
+and drug levels. Maintenance dosing should begin at low 
+doses (0.0625 mg or 0.125 mg) every other day. A loading 
+dose generally should not be used. Care should be taken 
+in complex drug regimens as many other medications 
+affect digoxin levels.
+2. Role of arteriovenous (AV) fistulas and grafts.  Although forearm 
+fistulas occasionally lead to a high output state, this prob-
+lem is more often encountered with upper arm high flow 
+fistulas, and close attention to the size of the AV fistula is an 
+essential part of longitudinal dialysis patient care. Brady -
+cardia during fistula or graft occlusion (by finger pressure) 
+suggests that the AV shunt is importantly and pathologi-
+cally contributing to an increased cardiac output (Bran-
+ham's sign). The test is specific, but absence of bradycardia 
+on fistula or graft occlusion by no means exonerates the AV 
+communication as a cause of the heart failure. Although 
+limited data exist implicating fistulas in clinically appar -
+ent heart failure, flow reduction procedures can be used 
+to address potential concerns with high flow fistulas while 
+maintaining fistula patency.
+3. Carnitine. Predominantly anecdotal evidence has suggested 
+cardiovascular benefits with l-carnitine therapy at recom-
+mended intravenous doses of 20 mg/kg of total body weight 
+following the dialysis procedure. Suggested indications for 
+carnitine therapy have included anemia with extremely 
+high erythropoietin requirements, intradialytic hypoten -
+sion, and muscle weakness. l -carnitine has also been rec-
+ommended for treatment of symptomatic cardiomyopathy 
+with a documented impaired ejection fraction that has not 
+responded adequately to standard medical therapy. Despite 
+multiple suggested uses for l-carnitine, there are no strong 
+data to support its utilization in dialysis at this time.
+ V. PERICARDIAL DISEASE.  Pericardial disease most commonly mani-
+fests as acute uremic or dialysis-associated pericarditis although 
+chronic constrictive pericarditis may also be seen. Most esti-
+mates of the clinical incidence of pericardial disease in prevalent 
+dialysis patients are <20%.
+Daugirdas9781451144291-ch038.indd   727 09/10/14   1:46 am
+Part IV / Clinical Problem Areas
+728
+A. Uremic pericarditis. Uremic pericarditis describes patients who 
+develop clinical manifestations of pericarditis prior to or 
+within 8 weeks of initiation of kidney replacement therapy. 
+In the current era, uremic pericarditis is rare, but remains an 
+indication for and responds extremely well to initiation of kid-
+ney replacement therapy.
+B. Dialysis-associated pericarditis. Dialysis-associated pericarditis is a 
+syndrome that occurs after a patient is stabilized on dialysis and 
+is more common than uremic pericarditis. The etiology of dialy-
+sis pericarditis remains unknown, but may be at least in part 
+dependent on inadequate dialysis and volume overload. How-
+ever, other causative factors are likely present, given that inten-
+sification of dialysis frequently does not result in resolution.
+1. Clinical manifestations and diagnosis. The most common symp-
+tom of pericarditis is chest pain, generally pleuritic in 
+nature exacerbated by reclining and reduced with leaning 
+forward. Pericarditis may be accompanied by nonspecific 
+symptoms, including fever, chills, malaise, dyspnea, and 
+cough, with respiratory symptoms potentially reflecting 
+a pericardial effusion. Physical examination may reveal a 
+pericardial friction rub. When hemodynamically signifi -
+cant, pericardial disease accompanied by an effusion may 
+be characterized by hypotension, particularly during hemo-
+dialysis. Jugular venous distension, elevated pulsus para-
+doxus, and distant heart sounds may also be present. Chest 
+radiograph may reveal an enlarged cardiac silhouette that 
+may be difficult to distinguish from LVH.  Dialysis-related 
+pericarditis often does not manifest with the classical 
+electrocardiogram finding of diffuse ST segment elevation 
+because there may only be minimal inflammation of the 
+epicardium. Echocardiography is useful in identifying peri-
+cardial effusions, but effusions may be absent in patients 
+who have adhesive, noneffusive pericarditis.
+2. T reatment
+a. Monitoring. Small ( <100 mL), asymptomatic pericardial 
+effusions are fairly common in dialysis patients and 
+require no acute intervention. Larger effusions present 
+a risk for tamponade and need to be monitored closely 
+using serial echocardiograms. Hemodynamic and even 
+echocardiographic signs of impending tamponade are 
+not always reliable.
+b. Intensification of hemodialysis  is the mainstay of therapy, 
+but is only effective approximately 50% of the time. This 
+may be accomplished by increasing dialysis frequency to 
+5–7 days per week with careful attention to electrolytes, 
+including phosphorus and magnesium, avoidance of 
+over-alkalinization, and volume status. Heparin during 
+dialysis has traditionally been avoided out of concern for 
+hemorrhagic tamponade.
+c. Adjuvant medical therapies , including oral and parenteral 
+glucocorticoids and nonsteroidal anti-inflammatory 
+Daugirdas9781451144291-ch038.indd   728 09/10/14   1:46 am
+729Chapter 38 / Cardiovascular Disease
+medications, have generally not been effective and are 
+not indicated.
+d. Surgical drainage. Failure to recognize the need for timely 
+surgical drainage of large pericardial effusions may have 
+dire consequences for the patient as the onset of tam-
+ponade may be rapid and without premonitory signs. 
+Hence, regular echocardiographic monitoring of the size 
+of an effusion is vital. Surgical drainage by subxiphoid 
+pericardiostomy should be strongly considered when -
+ever the effusion size is estimated by echocardiography 
+to exceed 250 mL (posterior echo-free space larger than 
+1 cm) even when hemodynamic compromise is absent. 
+Surgical drainage is mandatory when overt tampon-
+ade appears. Subxiphoid pericardiostomy is the surgi-
+cal drainage procedure of choice (i.e., insertion under 
+local anesthesia of a large-bore tube into the pericardial 
+space). The tube is left in place to closed drainage for 
+several days until drainage ceases. Instillation of locally 
+acting steroids has not been proven necessary and 
+increases the risk of infection. Pericardiocentesis using 
+a blindly inserted needle is dangerous and never indi-
+cated except as an emergency therapy for patients with 
+life-threatening tamponade. Pericardiocentesis is the 
+most common method used for pericardial fluid removal 
+and can be performed under fluoroscopic, echocardio -
+graphic, or CT guidance. Of note, hemorrhagic effusions 
+are poorly evacuable through the needle. Anterior peri-
+cardiectomy has been favored by some, but general anes-
+thesia and thoracotomy are unnecessary risks given the 
+uniformly successful response to drainage by subxiphoid 
+pericardiostomy.
+C. Constrictive pericarditis.  Constrictive pericarditis can appear as 
+an unusual complication of dialysis-associated pericarditis or 
+as the first manifestation of pericardial disease. Constrictive 
+pericarditis may also masquerade as congestive cardiac fail-
+ure; the best means of differentiation is by right heart catheter-
+ization. Even then, the diagnosis may be in doubt and can be 
+proven only by a favorable response to total pericardiectomy.
+D. Purulent pericarditis.  Occasionally, patients are found to have 
+purulent pericarditis as a complication of septicemia, often as 
+a result of access site infection. These patients often require 
+anterior pericardiectomy in addition to antimicrobial therapy.
+ VI. V ALVULAR DISEASE
+A. Endocarditis. Infective endocarditis is a relatively common com-
+plication of hemodialysis. Venous hemodialysis catheters are 
+prone to infection and endocarditis is a frequent complication 
+of catheter-related bacteremia; the presence of cardiovascular 
+implantable electronic devices may also be associated with an 
+increased risk of endocarditis. An additional recently appre-
+ciated factor predisposing to endocarditis is cannulation 
+Daugirdas9781451144291-ch038.indd   729 09/10/14   1:46 am
+Part IV / Clinical Problem Areas
+730
+of AV fistulas using a buttonhole technique. Endocarditis is 
+relatively common in dialysis patients even without the above 
+risk factors. The majority of cases are due to gram-positive 
+organisms ( S. aureus , S. epidermidis,  and Enterococcus ). The 
+presence of underlying valvular disease including calcification 
+may increase the risk. Prevention is focused on avoiding use 
+of venous catheters as much as possible, prolonged antimi-
+crobial therapy for staphylococcal bacteremia when it occurs, 
+and reinforcement of proper vascular access technique, 
+including exit site and cannulation site care. In many patients, 
+acute bacterial endocarditis will complicate an already recog-
+nized episode of Staphylococcus aureus or other gram-positive 
+bacteremia, and these bacteremias should be treated as pre-
+sumed endocarditis.
+Bacteremia therapy consists of an antistaphylococcal 
+agent (nafcillin or its equivalent for methicillin-sensitive S. 
+aureus, or vancomycin for methicillin-resistant S. aureus) with 
+or without an additional agent for synergistic therapy (e.g., 
+gentamicin, rifampin) for at least 4–6 weeks. First generation 
+cephalosporins that can be dosed at hemodialysis are some -
+times used to avoid the need for additional vascular access, 
+recognizing the ongoing infection risks associated with vas -
+cular catheters as well as the need to preserve veins for AV fis-
+tulas and grafts. Such prolonged antimicrobial therapy should 
+help avoid the complication of valvular sequestration of infec-
+tion in most patients with bacteremia diagnosed at an early 
+stage.
+1. Symptoms and signs. Dialysis patients with endocarditis usu-
+ally, but not always, have fever. Murmurs, leukocytosis, and 
+septic emboli may also be present; however, the clinical 
+evaluation of murmurs may prove difficult because cardiac 
+murmurs are common in the ordinary dialysis population 
+owing to anemia, valvular calcification, and the presence 
+of AV fistulas. Because a substantial percentage of dialysis 
+patients are normally hypothermic, the body temperature 
+with infection may be elevated to only slightly above the 
+normal range or not at all.
+2. Diagnosis is chiefly dependent on positive blood cultures 
+and clinical suspicion. Transthoracic and, if echocardio -
+graphy windows are limited, transesophageal echocardio -
+graphy may be critical to making the diagnosis.
+3. T reatment  of endocarditis in hemodialysis patients will 
+ usually be directed at gram-positive organisms and regi-
+mens should be tailored to bacterial sensitivities. In gen-
+eral, empiric therapy in individuals with fever and a dialysis 
+catheter will be initiated with vancomycin, because of both 
+the high incidence of methicillin-resistant S. aureus  and 
+the ease of administration. Some practitioners will add 
+empiric gram-negative coverage with an aminoglycoside or 
+third generation cephalosporin. In the presence of methi -
+cillin-sensitive S. aureus , antistaphylococcal penicillins 
+Daugirdas9781451144291-ch038.indd   730 09/10/14   1:46 am
+731Chapter 38 / Cardiovascular Disease
+like nafcillin or first generation cephalosporins like cefazo-
+lin are preferable. In cases of severe S. aureus  infection, 
+other agents may be added for synergy, including amino-
+glycosides and rifampin. Care must be taken with amino-
+glycoside use due to the incidence of ototoxicity. Newer 
+antistaphylococcal agents such as daptomycin have been 
+developed, but use should be judicious and aided by input 
+from an infectious disease specialist to avoid development 
+of widespread resistance. In all cases, there should be a 
+high degree of suspicion for line and access infections, and 
+a low threshold for removal of central venous catheters.
+4. V alve replacement.  ESKD is not a contraindication to valve 
+surgery. Indications for surgery are the same as in the gen-
+eral population: progressive valvular destruction, progres-
+sive heart failure, recurrent embolization, and failure to 
+respond to appropriate antibiotic therapy. Based on USRDS 
+data, in-hospital mortality following aortic or mitral valve 
+replacement for bacterial endocarditis is approximately 
+14%, and 6-month survival is approximately 60% and 
+does not differ between tissue and prosthetic valves (Lei-
+ther, 2013). Whether a role exists for transcatheter aortic 
+valve replacement in the setting of endocarditis remains 
+unknown, and the literature is currently limited to case 
+reports in the general population.
+ VII. V ALVULAR CALCIFICATION AND STENOSIS
+A. Mitral annular calcification.  Mitral annular calcification may 
+occur in as many as 50% of patients on dialysis and is also 
+common in the elderly general population. It is recognized on 
+echocardiography as a uniform echodense rigid band located 
+near the base of the posterior mitral leaflet, and may progres-
+sively involve the posterior leaflet. Complications include 
+conduction abnormalities, embolic phenomena, mitral valve 
+disease, and increased risk of endocarditis. There are no 
+proven preventive or treatment strategies.
+B. Aortic calcification and stenosis.  Aortic valve calcification occurs 
+in 25%–55% of dialysis patients. Risk factors are similar to 
+those for other forms of vascular calcification. Calcification 
+may result in progressive immobilization of the aortic leaflets, 
+eventually restricting flow. Functional aortic stenosis exists 
+when the valve leaflets thicken to the extent that a pressure 
+gradient develops across the aortic valve.
+1. Symptoms and signs.  Angina, congestive heart failure, and 
+syncope are the cardinal symptoms of critical aortic 
+ stenosis. Frequent episodes of intradialytic hypotension 
+may be a clue as the heart has difficulty in adapting to 
+conditions of reduced filling. The classical systolic mur -
+mur that radiates to the carotid arteries may be present; 
+this typically begins after S1 and ceases prior to S2; addi-
+tionally, S2 may be fixed or paradoxically split. However, 
+it is often difficult to differentiate the murmur of aortic 
+Daugirdas9781451144291-ch038.indd   731 09/10/14   1:46 am
+Part IV / Clinical Problem Areas
+732
+stenosis from that heard in aortic sclerosis or from benign 
+flow murmurs.
+2. Diagnosis is by echocardiography and cardiac catheteriza -
+tion, and mirrors diagnostic methods in the nondialysis 
+population.
+3. V alve replacement  is the therapy of choice. Timing depends 
+on perceived risks versus anticipated benefits. Studies 
+from the USRDS have not demonstrated any difference 
+in survival based on the use of tissue versus nontissue 
+bioprosthetic valves. The mortality rate for valve replace-
+ment (with or without concurrent coronary artery bypass 
+surgery) is relatively high for dialysis patients; however, in 
+most cases, the prognosis is worse if clinically indicated 
+surgery is not performed or if emergent surgery rather than 
+elective surgery is performed. To date, several small case 
+series have reported successful transcatheter aortic valve 
+implantation procedures in dialysis patients, although dial-
+ysis patients have been excluded from clinical trials assess-
+ing this less invasive procedure.
+ VIII. VENTRICULAR ARRHYTHMIAS, CARDIAC ARREST, AND SUDDEN  
+CARDIAC DEATH
+A. Risk factors. Many comorbid conditions that are highly preva -
+lent in dialysis patients are also associated with arrhythmias. 
+These include LVH, chamber enlargement, valve abnormali -
+ties, and ischemic heart disease. Additionally, serum levels of 
+cations that can affect cardiac conduction, including potas -
+sium, calcium, hydrogen, and magnesium, are often abnormal 
+and undergo rapid fluctuation during hemodialysis.
+B. Cardiac arrest and acute arrhythmias.  Sudden cardiac death is 
+common among dialysis patients, with rates of 49 per 1,000 
+patient years in the hemodialysis population and 36 per 1,000 
+patient years among PD patients. According to the 2013 
+USRDS, cardiac arrest and arrhythmia account for ~25% of all 
+deaths in dialysis patients. Thirty-day survival after cardiac 
+arrest is only 32% and 1-year survival 15%. Potential strate-
+gies to reduce the risk of fatal cardiac risk include careful 
+attention to fluid and electrolyte shifts. The risk of arrhyth-
+mias and cardiac arrest are increased in patients being dia-
+lyzed using a dialysate potassium level of less than 3 mEq/L (3 
+mM), and are most notable at lower potassium dialysate con-
+centrations; it is the opinion of many nephrologists that low 
+potassium dialysate (<2 meq/L [<2 mM]) should be avoided 
+if possible. One recent study also suggested an increased risk 
+of sudden death associated with use of a low dialysis solution 
+calcium concentration, particularly in individuals with higher 
+serum calcium levels. Finally, multiple studies demonstrate a 
+higher risk of sudden death following the long interdialytic 
+interval among patients treated with thrice-weekly hemodial-
+ysis, further suggesting that electrolyte or volume abnormali-
+ties may be complicit.
+Daugirdas9781451144291-ch038.indd   732 09/10/14   1:46 am
+733Chapter 38 / Cardiovascular Disease
+For acute arrhythmias that occur during dialysis, the 
+dialysis session should be terminated and blood returned cau-
+tiously. Urgent cardioversion per advanced cardiac life support 
+(ACLS) guidelines is indicated for all patients with an unstable 
+rhythm, and all dialysis facilities should have automated exter-
+nal defibrillators available and staff trained in their use. Amio-
+darone, currently the first-line pharmacologic intervention 
+for ventricular tachycardia in the general population, is dosed 
+identically in dialysis patients. Airway management and car -
+diac monitoring is essential. Administration of procainamide 
+and other class Ia antiarrhythmics should be undertaken with 
+caution as they may cause QT prolongation and torsades de 
+pointes in dialysis patients.
+Adequate data on the benefits of implantable cardioverter 
+defibrillators (ICD) are lacking in dialysis patients. While, intu-
+itively, given the high risk of ventricular arrhythmia, ICD use 
+appears sensible, ICDs are associated with an increased risk of 
+infection and central vein stenosis (Hickson, 2014).
+C. Chronic arrhythmias
+1. Atrial fibrillation  remains the most common arrhythmia in 
+both the general and dialysis population, and often occurs 
+in patients with structural heart disease and, in particular, 
+left atrial enlargement. Prevalence estimates for paroxys -
+mal and permanent atrial fibrillation are as high as 30% in 
+individuals with advanced CKD, including dialysis patients.
+a. Drug therapy . The benefits of rhythm versus rate control 
+remain uncertain at this time. Several medications have 
+traditionally been used for rate control in atrial fibrilla -
+tion, including digoxin, β-blockers, nondihydropyridine 
+calcium channel blockers and amiodarone. β-Blockers 
+or nondihydropyridine calcium channel blockers such 
+as diltiazem are good choices for rate control in patients 
+with intact systolic function, but may be contraindi-
+cated in subjects with reduced cardiac function due to 
+their negative inotropic effects. In these subjects, there 
+clearly is a trade-off, as chronic control of tachycardia 
+may offset any drug-related decrease in cardiac inotropy. 
+Although a less effective agent for rate control, digoxin 
+is frequently used in patients with reduced systolic func-
+tion. Paradoxically, digoxin use is also associated with 
+a high risk of arrhythmias. When digoxin is used in 
+dialysis patients, extreme care must be taken to mini -
+mize electrolyte shifts and, in particular, hypokalemia. 
+These patients should generally be on a 3 mEq/L potas-
+sium bath. Less alkaline dialysate may also be necessary 
+to prevent potassium shifts. Amiodarone may be the 
+drug of choice when rate control is not adequate with 
+β-blockers or calcium channel blockers. Importantly, 
+owing to drug interactions among warfarin, amioda -
+rone, and digoxin, combinations of these drugs should 
+be used with caution.
+Daugirdas9781451144291-ch038.indd   733 09/10/14   1:46 am
+Part IV / Clinical Problem Areas
+734
+b. Anticoagulation. The risks and benefits of warfarin therapy 
+should be considered on an individual basis in all dialysis 
+patients with chronic and paroxysmal atrial fibrillation. 
+There are no consistent data regarding anticoagulation 
+for atrial fibrillation in the dialysis population. Recently, 
+warfarin use has been linked to calciphylaxis in dialysis 
+patients (warfarin skin necrosis and calciphylaxis have 
+similar pathologic appearance). Warfarin is also associ -
+ated with an increased risk of vascular calcification. The 
+2014 AHA/ACC/HRS Guideline for the Management of 
+Patients with Atrial Fibrillation states that it's reasonable 
+to prescribe warfarin to hemodialysis patients with non-
+valvular atrial fibrillation with a CHA2DS2-VASc score of 
+2 or greater; implicit in the strength of the recommenda-
+tion is that additional studies are needed to support this 
+statement (January, 2014). These same guidelines are 
+silent regarding warfarin use in PD patients.
+2. V entricular arrhythmias and ectopy  are common in the dialysis 
+population. There are no data indicating that cardiac man-
+agement of patients prone to arrhythmia should be any 
+different than in the general population. When indicated, 
+dialysis patients may benefit from implantable defibrilla -
+tors, although the cost–benefit of these devices remains 
+uncertain given their unproven benefit in this popula-
+tion and potential risks as described above. Amiodarone 
+ therapy is generally well tolerated in dialysis patients, and 
+dosing is identical to that in the general population.
+ IX. STROKE. Cerebrovascular disease is also very common in individu-
+als with CKD, with high incidence of both ischemic and hemor -
+rhagic events. Even in the absence of clinically evident strokes, 
+silent lesions and substantial brain white matter disease may 
+be present. The presence of cardiovascular disease is associated 
+with cerebrovascular manifestations in individuals with CKD, 
+including worse cognitive function. As discussed above, given the 
+frequency with which atrial fibrillation occurs in individuals with 
+kidney failure, the use of warfarin and other anticoagulants for 
+stroke prophylaxis in the dialysis population urgently requires 
+an adequately powered clinical trial to inform optimal treatment 
+decisions.
+References and Suggested Readings
+Agarwal R, et al. Hypertension in hemodialysis patients treated with atenolol or lisino-
+pril: a randomized controlled trial. Nephrol Dial Transplant. 2014;29:672–681.
+Charytan DM. How is the heart best protected in chronic dialysis patients?: between 
+scylla and charybdis: what is the appropriate role for percutaneous coronary 
+revascularization and coronary artery bypass grafting in patients on dialysis? 
+Semin Dial. 2014;27:325–328.
+Cice G, et al. Carvedilol increases two-year survival in dialysis patients with dilated 
+cardiomyopathy: a prospective, placebo-controlled trial. J Am Coll Cardiol. 
+2003;41:1438–1444.
+Daugirdas9781451144291-ch038.indd   734 09/10/14   1:46 am
+735Chapter 38 / Cardiovascular Disease
+Cice G, et al. Effects of telmisartan added to angiotensin-converting enzyme inhibitors 
+on mortality and morbidity in hemodialysis patients with chronic heart failure a 
+double-blind, placebo-controlled trial. J Am Coll Cardiol. 2010;56:1701–1708.
+deFilippi C, et al. Cardiac troponin T and C-reactive protein for predicting prognosis, 
+coronary atherosclerosis, and cardiomyopathy in patients undergoing long-term 
+hemodialysis. JAMA. 2003;290:353–359.
+Goldfarb-Rumyantzev AS, et al. The association of lipid-modifying medications 
+with mortality in patients on long-term peritoneal dialysis. Am J Kidney Dis . 
+2007;50:791–802.
+Herzog CA, et al. Clinical characteristics of dialysis patients with acute myocardial 
+infarction in the United States: a collaborative project of the United States Renal 
+Data System and the National Registry of Myocardial Infarction. Circulation. 
+2007;116:1465–1472.
+Hickson LJ, et al. Clinical presentation and outcomes of cardiovascular implant -
+able electronic device infections in hemodialysis patients. Am J Kidney Dis. 
+2014;64:104–110.
+Inrig JK. Antihypertensive agents in hemodialysis patients: a current perspective. 
+Semin Dial. 2010;23:290–297.
+Iseki K, et al.; Olmesartan Clinical Trial in Okinawan Patients Under OKIDS (OCTO-
+PUS) Group. Effects of angiotensin receptor blockade (ARB) on mortality and 
+ cardiovascular outcomes in patients with long-term haemodialysis: a randomized 
+controlled trial. Nephrol Dial Transplant. 2013;28:1579–1589.
+January CT, et al. 2014 AHA/ACC/HRS Guideline for the Management of Patients 
+With Atrial Fibrillation: Executive Summary: A Report of the American College 
+of  Cardiology/American Heart Association Task Force on Practice Guidelines and 
+the Heart Rhythm Society. Circulation. 2014, in press.
+Kidney Disease: Improving Global Outcomes (KDIGO) Lipid Work Group. KDIGO 
+Clinical Practice Guideline for Lipid Management in Chronic Kidney Disease. 
+Kidney Int. 2013;(suppl 3):259–305.
+K/DOQI. K/DOQI clinical practice guidelines for cardiovascular disease in dialysis 
+patients. Am J Kidney Dis. 2005;45(suppl 3):S1–S153.
+Kilpatrick RD, et al. Association between serum lipids and survival in hemodialysis 
+patients and impact of race. J Am Soc Nephrol. 2007;18:293–303.
+Lau WL, Ix JH. Clinical detection, risk factors, and cardiovascular consequences of 
+medial arterial calcification: a pattern of vascular injury associated with aberrant 
+mineral metabolism. Semin Nephrol. 2013;33:93–105.
+Leither MD, et al. Long-term survival of dialysis patients with bacterial endocardi -
+tis undergoing valvular replacement surgery in the United States. Circulation . 
+2013;128:344–351.
+Matsumoto Y, et al. Spironolactone reduces cardiovascular and cerebrovascular 
+ morbidity and mortality in hemodialysis patients. J Am Coll Cardiol. 2014;63:  
+528–36.
+Miller M, et al. American Heart Association Clinical lipidology, thrombosis, and 
+ prevention committee of the council on nutrition, physical activity, and metab -
+olism; council on arteriosclerosis, thrombosis and vascular biology; council on 
+cardiovascular nursing; council on the kidney in cardiovascular disease. Triglyc-
+erides and cardiovascular disease: a scientific statement from the American Heart 
+Association. Circulation. 2011;123:2292–333.
+Ricks J, et al. Glycemic control and cardiovascular mortality in hemodialysis patients 
+with diabetes: a 6-year cohort study. Diabetes. 2012;61:708–715.
+Selby NM, et al. Dialysis-induced regional left ventricular dysfunction is ameliorated 
+by cooling the dialysate. Clin J Am Soc Nephrol. 2006;1:1216–225.
+Thygesen K, et al. Joint ESC/ACCF/AHA/WHF task force for Universal definition of 
+myocardial infarction. Third universal definition of myocardial infarction. J Am 
+Coll Cardiol. 2012;60:1581–1598.
+Zannad F, et al. Prevention of cardiovascular events in end-stage renal disease: results 
+of a randomized trial of fosinopril and implications for future studies. Kidney Int. 
+2006;70:1318–1324.
+Daugirdas9781451144291-ch038.indd   735 09/10/14   1:46 am

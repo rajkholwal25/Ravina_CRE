@@ -1,0 +1,1199 @@
+754
+Chronic kidney disease (CKD) patients are subject to a wide vari-
+ety of pathophysiologic processes that challenge the structural and 
+functional integrity of both central and peripheral nervous systems. 
+ Neurologic dysfunction can be episodic or chronic and can reflect a 
+wide range of humoral, metabolic, inflammatory, and vascular in-
+sults. These may be attendant to the underlying conditions that have 
+led to end stage kidney disease (ESKD), advanced uremia itself, or to 
+the dialysis procedure (on a variety of levels). The integrated product 
+of these factors contributes to neurocognitive performance, depres-
+sion, health-related quality of life, and the ability of the patient to 
+tolerate the dialysis procedure whilst leading  a full and independent 
+life in the hours spent not actually receiving dialysis. This chapter is 
+limited to discussion of the brain and peripheral nervous system, and  
+encompasses sleep disorders and combination pathologies such as 
+restless legs syndrome.
+ I. CENTRAL NERVOUS SYSTEM.  W hen considering dysfunction of the 
+central nervous system (CNS) in the dialyzed uremic patient, it’s 
+important to consider the range of structural abnormalities that 
+can occur, as well as the impact of the uremic milieu. Many of 
+these considerations are often present together and may result in 
+compound effects.
+A. Intracranial bleeding and ischemic stroke.  Spontaneous subdural 
+hemorrhage is common. The rate has been increasing over 
+recent years, possibly associated with increased use of antico-
+agulation in patients with atrial fibrillation in an attempt to 
+reduce the risk of stroke. Intracranial or subarachnoid bleeds 
+are not uncommon (even during the dialysis procedure itself). 
+They are a particular problem in  patients with polycystic kid-
+neys who may have intracranial aneurysms. Headache occurs 
+in both disequilibrium and early cerebral hemorrhage, but the 
+pattern of recovery is different and new onset headache may 
+need to be investigated for possible intracranial bleeding by CT 
+or MRI (embracing the limitations of contrast use in this popu-
+lation). Heparin-free dialysis should be used. Both ischemic 
+and  hemorrhagic strokes are common and catastrophic events, 
+but usually present little diagnostic challenge. Both short- and 
+Nervous System  
+and Sleep Disorders
+Christopher W. McIntyre40
+Daugirdas9781451144291-ch040.indd   754 09/10/14   1:47 am
+755Chapter 40 / Nervous System and Sleep Disorders 
+long-term management are controversial with there being very 
+little data relating to the application of intracerebral throm -
+bolysis or  primary/secondary preventative measures in hemo-
+dialysis patients. The efficacy and safety profile of all of these 
+interventions may very well be very different in dialysis  pa -
+tients compared with the general population, where they were 
+developed.
+B. Subclinical brain structural abnormalities.  There are several 
+ pathologies detectable by brain MRI in the brain  of dialysis 
+patients. These may be entirely asymptomatic or linked to 
+more subtle defects in neurocognitive function, often only ap-
+parent on specific testing. They are often progressive. Many of 
+these changes do not appear to be associated with classical 
+cardiovascular risk factors, and instead seem to be predomi-
+nantly driven by other factors such as microvascular disease, 
+inflammation, and challenged perfusion (both in general and 
+episodically during hemodialysis). These abnormalities range 
+from silent cerebral infarct to changes both in the white mat -
+ter (leukoaraiosis) and grey matter (cortical atrophy).
+1. Silent cerebral infarcts.  Nakatani and coworkers examined 
+the hypothesis that hemodialysis patients develop silent 
+cerebral infarcts (SCI). These silent infarcts are mainly sub-
+cortical and lacunar without causing any neurologic deficit, 
+but are thought to be a risk factor for developing symptom-
+atic infarct or hemorrhagic strokes. Nakatani and cowork -
+ers (2003) examined a group of 50 hemodialysis patients 
+and found that in those who developed SCI, associated risk 
+factors were smoking, lower HDL cholesterol, higher uric 
+acid levels, and higher levels of hepatocyte growth factor. 
+ Echocardiographically, the group who developed SCI had 
+higher interventricular septal thickness at the end of diastole, 
+higher posterior wall thickness at the end of diastole, and 
+higher left ventricular mass index. On  24-hour blood pres-
+sure monitoring, the group with silent infarcts was not more 
+hypertensive in general, but did not evidence the healthy 
+pattern of a nocturnal fall in blood pressure. One possible 
+mechanism in the causation of SCI might be microbubbles 
+generated during the hemodialysis procedure and unde -
+tected by the air alarms may find their ways into the cerebral 
+circulation and cause ischemic damage (Forsberg, 2010).
+2. Cerebral atrophy. Cerebral (cortical) atrophy has been iden -
+tified in hemodialysis patients through both CT and MRI-
+based studies. The degree of cerebral atrophy is associated 
+with duration of dialysis. Cerebral blood flow is lower in 
+between dialysis sessions and higher during hemodialy-
+sis. These hemodynamic changes and changes in cerebral 
+oxygenation are less pronounced in peritoneal dialysis pa -
+tients, suggesting that there may be iatrogenic cerebral ef-
+fects of hemodialysis (Prohovnik, 2007).
+3. Leukoaraiosis. Leukoaraiosis describes nonspecific changes 
+in the brain white matter caused by loss of axons and 
+Daugirdas9781451144291-ch040.indd   755 09/10/14   1:47 am
+Part IV / Clinical Problem Areas
+756
+myelin. This is usually associated with ischemic injury. 
+The MRI appearance is that of high signal intensity on T2-
+weighted images. Leukoaraiosis is a risk factor for devel-
+oping dementia, mobility problems, and strokes, and has 
+been described in the literature primarily as an age-related 
+phenomenon. In the non-CKD population, leukoaraiosis is 
+associated with reduction in cognitive function and with 
+increased prevalence and severity of depression.
+Several studies have identified this pattern of struc -
+tural brain injury as being common in hemodialysis pa-
+tients; in fact, a universal finding after only 3 months of 
+hemodialysis. The severity of reduction in cognitive func-
+tion was proportional to the distribution and amount of 
+white matter injury, and in turn this was proportional to 
+the degree of cardiovascular instability during hemodialy -
+sis sessions (Eldehini, 2014).
+C. Humoral abnormalities influencing brain function
+1. Uremic encephalopathy . Encephalopathy is a cardinal fea -
+ture of untreated uremia. Initial manifestations are subtle: 
+flattened affect, irritability, and poor rapport with others. 
+Formal evaluation at this stage may reveal patchy cogni -
+tive or psychomotor behavior. Event-related brain poten-
+tials (stimulus-evoked averaged electroencephalogram 
+[EEG] waveforms) may be abnormal. As uremia advances, 
+lassitude gives way to disorientation, confusion, delirium, 
+stupor, and, preterminally, coma. There are accompany -
+ing motor disturbances: tremulousness, myoclonus, and 
+asterixis ( flapping tremor). These major signs of uremic 
+encephalopathy will reliably regress within a week or so of 
+initiation of regular dialysis; failure to do so should lead to 
+an alternative or additional diagnosis.
+2. Metabolic and electrolytic causes.  Hypercalcemia from any 
+cause (often relating to CKD mineral bone disorder or its 
+treatments) can present as an acute confusional state or 
+coma. Severe low or high serum sodium levels can also re-
+sult in a predominantly neurologic presentation. The pres-
+ence of cerebral atrophy often makes the dialysis patient 
+remarkably resistant to the development of severe cerebral 
+edema as a result of abnormal tonicity. Hypoglycemia may 
+present in diabetic patients due to inappropriate hypogly -
+cemic therapy, or to further reductions in residual renal 
+function with reduced insulin metabolism. In nondiabetic 
+patients hypoglycemia may occur as a result of reflex hy-
+perinsulinemia after exposure to hemodialysis solutions 
+containing higher glucose concentrations, or as a hypogly -
+cemic response to glucose-free dialysate.
+Acute aluminum intoxication can present with an 
+acute neurotoxicity syndrome characterized by agita-
+tion, confusion, seizures, myoclonic jerks, and coma. This 
+is quite uncommon now compared with the bygone era 
+when there were less stringent water treatment  standards 
+Daugirdas9781451144291-ch040.indd   756 09/10/14   1:47 am
+757Chapter 40 / Nervous System and Sleep Disorders 
+and heavy reliance on aluminum-  containing salts for 
+oral binding of phosphate. Still, even today, the acute 
+syndrome can be seen when dialysis solution becomes 
+highly contaminated with aluminum for some reason, or 
+in the course of deferoxamine therapy. In this setting, the 
+plasma aluminum level is usually more than 500 mcg/L  
+(19 mcmol/L), and typical EEG changes (multifocal bursts of 
+slow or delta wave activity, often accompanied by spikes) are 
+present. More information about aluminum toxicity is given 
+in Chapter 36 on mineral bone disorders.
+3. Infection and inflammation.  Both systemic and local infection 
+and inflammation can affect the brain in dialysis patients. 
+Sepsis in this patient group not uncommonly presents 
+without a typical pyrexial response (especially in the el-
+derly), and the initial manifestation can be central obtun -
+dation. Dialysis patients are immunosuppressed both as 
+a consequence of the uremic state and of immunomodu-
+latory therapy given as part of treatment of their underly-
+ing disease. They also  are at higher risk of a wide range of 
+encephalitic or meningitic processes, especially those with 
+more “slow burning” presentations such as tuberculous 
+meningitis.
+Endotoxemia is another important factor that could 
+be implicated in the pathogenesis of hemodialysis-induced 
+brain injury. Endotoxemia is well described in CKD5D pa-
+tients, and it induces a systemic proinflammatory state 
+(McIntyre, 2011). These patients suffer gut hypoperfusion 
+and increased bowel permeability, resulting in bacterial 
+and endotoxin translocation to the circulation. The level of 
+resultant circulatory stress is associated with the severity of 
+endotoxemia. Hemodialysis patients are in a chronic state 
+of endotoxemia, with acute exacerbations from recurrent 
+mesenteric ischemia accompanying each hemodialysis ses-
+sion. The repeated endotoxemic insult may also aggravate 
+the effects of hemodialysis on cerebral perfusion with sec-
+ondary ischemic white matter subcortical brain injury.
+D. Acute episodic dysfunction
+1. Disequilibrium syndrome . Rapid correction of advanced ure-
+mia is sometimes complicated by a characteristic syn-
+drome of neurologic dysfunction appearing in the last part 
+of dialysis or shortly afterward. Hemodialysis is usually in-
+volved, but disequilibrium can also occur with peritoneal 
+dialysis. In its mildest form, the syndrome is limited to 
+restlessness, headache, nausea, and vomiting; more severe 
+manifestations include confusion and major seizures. The 
+syndrome is believed to be caused by brain swelling due to 
+a lag in osmolar shifts between blood and brain during dial-
+ysis, but changes in brain pH may also play a role. Disequi-
+librium occurs in a major form in previously undialyzed 
+patients, but minor features may complicate chronic ther -
+apy. Disequilibrium is more likely to occur when patients 
+Daugirdas9781451144291-ch040.indd   757 09/10/14   1:47 am
+Part IV / Clinical Problem Areas
+758
+with advanced states of uremia are dialyzed for excessive 
+lengths of time during their first treatment sessions, espe-
+cially in the era of using higher-efficiency dialyzers in this 
+setting. The initial dialyses should be relatively short, so as 
+to reduce elevated serum urea levels slowly over the course 
+of several days. The routine use of anticonvulsants in this 
+setting should be avoided.
+2. Other factors effecting tonicity. Rapid shifting of other osmoti-
+cally active substances (glucose and sodium) may also 
+contribute to presentation with acute obtundation, and 
+further consideration may need to be given to glucose level 
+correction and careful individualization of dialysate con -
+ductivity to minimize these additional insults.
+3. Dialysis-induced reduction in cerebral perfusion/oxygenation. Failure  
+to maintain blood pressure during dialysis may also pre -
+cipitate an acute reduction in consciousness levels. Diag-
+nosis and management of intradialytic hypotension is dealt 
+with in more detail in other sections of this handbook, but 
+immediate recognition and corrective measures are essen-
+tial to restore normal functioning and reduce the risk of a 
+watershed area cerebral infarct. Such episodes may also 
+be important in driving chronic subclinical white matter 
+injury.
+4. Coning. Uncal and cerebellar tonsillar herniation can occur 
+without other coexisting pathologic lesions. This can pres-
+ent with a severe dialysis-induced headache and a reduced 
+level of consciousness, and result in death. More commonly, 
+this presentation occurs in the setting of either inherited 
+abnormalities predisposing to coning (such as the so-called 
+Chiari malformation, where there is partial hindbrain hernia-
+tion through the foramen magnum, sometimes seen in spina 
+bifida) or after neurosurgery. Cerebrospinal fluid diversion 
+and, in particular, shunt malfunction can also increase the 
+risk of dialysis-induced brainstem herniation. Limitation of 
+ultrafiltration rate and careful matching of dialysate tonicity 
+to plasma are the essentials of management in this setting.
+5. Nonconvulsive status epilepticus . Status epilepticus  may 
+present with confusion or more severe reductions in the 
+level of consciousness. When occurring without obvious 
+convulsive activity (Iftikhar, 2007), it may mimic collapse 
+from either a catastrophic intracerebral event (although 
+with normal brain imaging) or acute cardiovascular 
+insufficiency.
+Typically, the EEG in nonconvulsive status epilepticus 
+shows generalized spike-and-wave complexes at 3 Hz or re-
+petitive generalized or focal spikes, sharp-waves, and spike-
+and-wave complexes at > 4/sec. Events that can precipitate 
+nonconvulsive status include alcohol, drug withdrawal, in-
+fection, hypoxia, cerebrovascular accident, menstruation, 
+cyclosporine A therapy, malignancy, and antibiotic neu -
+rotoxicity. Antibiotics which have been reported to cause 
+Daugirdas9781451144291-ch040.indd   758 09/10/14   1:47 am
+759Chapter 40 / Nervous System and Sleep Disorders 
+seizures in patients with decreased renal function, include 
+penicillins, cephalosporins, imipenem/cilastatin, and qui-
+nolones. Management is focused on dealing with precipitat-
+ing causes and use of standard anticonvulsant drugs for the 
+management of acute epilepsy.
+E. Differential diagnosis of acute obtundation syndrome, dialysis disequi-
+librium, and chronic dementia. T he differential diagnosis for each 
+of these conditions is large. A partial list to consider when 
+confronted with a patient with acute obtundation is given 
+in  Table  40.1. Mimics of dialysis disequilibrium are given in 
+ Table  40.2, and those for chronic dementia in Table 40.3. Pro-
+posed management strategies for acute obtundation are shown 
+in Figure 40.1 and for chronic obtundation in Figure 40.2.
+F. Diagnosis and management of epileptic seizures
+1. Etiology. Seizures are not uncommon in dialysis patients. 
+Generalized seizures are an integral feature of advanced 
+uremic encephalopathy. Seizures can also be a manifesta -
+tion of severe disequilibrium syndrome, as discussed above. 
+Table 40.4 lists the most common associated conditions. 
+Intracranial hemorrhage commonly leads to focal seizures, 
+while most of the other causes lead to generalized seizures.
+Seizures characterize both aluminum-induced enceph-
+alopathy and severe hypertension. In children with renal 
+failure, the incidence of seizures is higher than in adults. Pre-
+dialysis hypocalcemia can result in seizures during or soon 
+after dialysis because of the fall in serum ionized calcium 
+level associated with rapid correction of acidosis. As in any 
+Uremic encephalopathy
+Drug intoxication (by drugs renally excreted)
+Antibiotics
+Antiviral agents
+Opiates
+Anticonvulsants
+Central nervous system infection
+Meningitis
+Encephalitis
+Endocarditis
+Hypertensive encephalopathy
+Hemorrhage
+Subarachnoid
+Subdural
+Intracranial
+Acute aluminum toxicity (coingestion of citrate, highly contaminated dialysate)
+Wernicke’s encephalopathy (in patients with vomiting, poor food intake)
+Partial Differential Diagnoses of Acute Obtundation in 
+ Maintenance Dialysis patients40.1
+TABLE
+Daugirdas9781451144291-ch040.indd   759 09/10/14   1:47 am
+Part IV / Clinical Problem Areas
+760
+Intracranial bleeding
+Subdural
+Subarachnoid
+Intracranial
+Metabolic disorders
+Hyperosmolar states
+Hypercalcemia
+Hypoglycemia
+Hyponatremia
+Cerebral infarction
+Hypotension
+Excessive ultrafiltration
+Cardiac arrhythmia
+Myocardial infarction
+Anaphylaxis
+Aluminum intoxication (subacute)
+Conditions That May Mimic Dialysis Disequilibrium 
+Syndrome40.2
+TABLE
+Idiopathic presenile dementia
+Vascular dementia
+Depression
+Chronic subdural hematoma
+Drug intoxication
+Metabolic disorders
+Hypercalcemia (autonomous hyperparathyroidism or iatrogenic)
+Hypoglycemic brain damage
+Demyelination syndrome secondary to hyponatremia
+Uremia (underdialysis)
+Hydrocephalus (possibly secondary to subarachnoid hemorrhage)
+Anemia
+Thiamine deficiency (chronic Wernicke–Korsakoff syndrome)
+Chronic infection
+Aluminum encephalopathy (dialysis dementia)
+Partial Differential Diagnoses of Chronic Dementia in 
+ Dialysis Patients40.3
+TABLE
+patient with hypocalcemia, associated (and often causal) 
+hypomagnesemia should be excluded. Hypoglycemia can 
+occur if glucose-free dialysis solution is used.
+Seizures tend to be more common in patients taking a 
+variety of “epileptogenic” drugs. Penicillins and cephalospo-
+rins are common offenders, especially if high doses are given 
+or when  provision for dose reduction in the setting of CKD 
+has not been made. A selection of other epileptogenic drugs 
+is given in Table 40.4. A variety of poisonings in dialysis pa-
+tients can also present with seizures, including star fruit in-
+gestion (numbness, weakness, obtundation, seizures). Some 
+anticonvulsant drugs may have enhanced removal by high-
+Daugirdas9781451144291-ch040.indd   760 09/10/14   1:47 am
+761Chapter 40 / Nervous System and Sleep Disorders 
+FIGURE 40.1 Evaluation and Management of Acute Obtundation.
+Acute hypotension
+– Electrocardiogram
+– Serial troponin
+Exclude
+Arrhythmia
+Acute myocardial infarction
+Massive pulmonary embolism
+Acute obtundation
+Sudden reduction in level of consciousness
+during hemodialysis session
+Assess hemodynamic status
+Hemodynamically stable
+NoYes
+Consider 1° or 2°
+epileptic seizure
+Neuroimaging
+– Epileptic
+ seizure
+ (See other
+ diagnostic
+ pathway)
+? Convulsive
+activity
+Urea ↑↑
+Urgent blood assessment of
+urea and electrolyte
+AbnormalNormal
+Metabolic
+– Disequlib.
+– ↓ Glucose
+– ↓ Total Calcium
+– ↓ iCalcium (2° to
+ acidosis correction)
+– Acute hypo or
+ hypernatremia
+Consider
+drugs
+– Recreational
+ drugs
+– Opiates
+– Antibiotics
+– Anticonvulsants
+– Dialysis
+ procedure
+ related
+– Uremia
+ 2° access
+ malfunction
+– Dialysis
+ circuit
+ malfunction
+Stroke
+± Intracerebral
+ hemorrhage
+Extradural
+Coning
+Hydrocephalus
+Abnormal Normal
+Daugirdas9781451144291-ch040.indd   761 09/10/14   1:47 am
+Part IV / Clinical Problem Areas
+762
+FIGURE 40.2 Evaluation and management of chronic obtundation. DSM 5, Diagnostic and Statistical Manual of Mental Disorders, 5th edition.
+Chronic obtundation
+↓ Cognitive function
+– Objective confirmation
+Neuroimaging
+Abnormal Normal
+No YesDepression
+screening
+Formal
+DSM 5
+assessment
+Blood count Urea &
+Electrolytes
+MetabolicAnemia
+↓ Calcium
+↓ Glucose
+Thiamine deficiency
+Reconsider Aluminum neurotoxicity
+Drugs
+– Check levels 
+or withdraw 
+where appropriate
+– Pregabalin
+– Gabapentin
+– Psych. medication
+– Antivirals
+– Antibiotics
+– Opioids
+Hydrocephalus
+Demyelination
+– Multiple sclerosis, etc.
+– Hyponatremia
+Chronic
+subdural
+Cortical/subcortical
+abnormalities
+– Multi-infarct/vascular dementia
+– Leukoaraiosis
+Daugirdas9781451144291-ch040.indd   762 09/10/14   1:47 am
+763Chapter 40 / Nervous System and Sleep Disorders 
+Etiology
+Disequilibrium syndrome
+Hypertensive encephalopathy
+Intracranial hemorrhage
+Drug-induced reduction in fit threshold
+Alcohol withdrawal
+Metabolic
+Hypoglycemia
+Hypocalcemia
+Hyperosmolality due to peritoneal dialysis
+Hypernatremia (accidental due to hemodialysis machine malfunction) 
+or hyponatremia
+Severe hypotension
+Anoxia
+Arrhythmia
+Uremic encephalopathy (unlikely in dialysis patients)
+Toxins (star fruit ingestion)
+Anaphylaxis
+Aluminum encephalopathy
+Air embolism
+Prevention
+Identification of susceptible subgroups
+Predialysis serum urea nitrogen level >130 mg/dL (46 mmol/L)
+Severe hypertension
+Previous seizure disorder
+Alcoholism
+Predialysis hypocalcemia (<6 mg/dL, 1.5 mmol/L) with acidosis
+Limiting initial dialysis session blood flow rate, length and ultrafiltration rate
+Maintenance of dialysis solution sodium concentration at or above plasma level
+Use of 3.5 mEq/L (1.75 mM) or 4.0 mEq/L (2.0 mM) calcium bath in hypocalcemic 
+patients; administration of IV calcium during dialysis if necessary
+Scrupulous attention to blood pressure control during EPO therapy
+Limiting exposure to ethanol and to “epileptogenic” drugs
+Penicillins
+Fluoroquinolones
+Cyclosporine
+Meperidine (Demerol)
+Theophylline
+Metoclopramide
+Lithium
+Therapy
+Stopping dialysis
+Maintenance of airway patency
+Drawing blood for glucose, calcium, and other electrolytes
+If hypoglycemia is suspected, administration of IV glucose
+Administration of IV diazepam or lorazepam, and also phenytoin if required
+Treatment of metabolic disturbance if present
+Seizures in Dialysis Patients
+40.4
+TABLE
+Daugirdas9781451144291-ch040.indd   763 09/10/14   1:47 am
+Part IV / Clinical Problem Areas
+764
+efficiency hemodialysis (e.g., carbamazepine) and this may 
+result in precipitation of seizures due to reduction of drug 
+plasma levels below the therapeutic threshold.
+2. Diagnosis. Electroencephalography is of somewhat limited
+value in the evaluation of seizures in dialysis patients. Pa-
+tients with renal failure rarely have a normal EEG, the most 
+common abnormal findings being reduced voltage, loss of
+alpha activity, and the appearance of periodic, symmetric,
+and usually frontal, delta wave slowing. In any case, the
+EEG is unlikely to distinguish between the various causes
+of seizures listed in Table 40.4, and a search for aluminum
+poisoning, an underlying metabolic cause, a complication
+of the dialysis procedure, or a structural intracranial lesion 
+is important not to neglect.
+3. Prevention. Susceptible patients can often be identified (see
+Table 40.4). The prevention of dialysis disequilibrium has
+already been discussed. Patients with low serum ionized
+calcium levels can be given intravenous calcium at the
+start of dialysis, and a dialysis solution with a higher cal-
+cium concentration can be used. Blood pressure needs to
+be carefully regulated.
+4. Management. One suggested algorithm is shown in Fig-
+ure  40.3. The emergency treatment of convulsions should
+ begin by stopping dialysis and ensuring patency of the  airway. 
+Blood should be sampled immediately and serum  glucose,
+ calcium, and other electrolyte values determined. IV  glucose 
+should be administered if hypoglycemia is  suspected. If
+seizures persist, benzodiazepines are  appropriate drugs
+for initial use. Further management of refractory  seizure
+activity needs to be performed with appropriate full
+monitoring of the cardiovascular status of the patient in
+a 
+ higher- dependency clinical area. Additional agents can
+be utilized. Phenytoin is effective, but must be used with
+caution and appropriate monitoring of cardiac rhythm.  
+A loading dosage of phenytoin, 10–15 mg/kg, can be given by 
+slow IV infusion at a rate no greater than 50 mg/min, during
+constant electrocardiographic monitoring to guard against 
+phenytoin-induced bradycardia, atrioventricular conduc-
+tion block, or other arrhythmias. Other agents that may be
+appropriate include IV valproate.
+5. Drug prophylaxis.  The prophylaxis of recurrent convulsions
+is usually effective with administration of phenytoin, car -
+bamazepine, or sodium valproate. Fits relating to dialysis
+encephalopathy respond best to benzodiazepines, particu-
+larly clonazepam.
+a. Phenytoin. Phenytoin absorption is slow and erratic. Its
+hepatic metabolism is concentration dependent and
+saturable, and distribution and elimination vary. Phe-
+nytoin protein binding is decreased and the distribution 
+volume increased in renal failure. With any given total
+serum phenytoin level, the concentration of active, free
+Daugirdas9781451144291-ch040.indd   764 09/10/14   1:47 am
+765Chapter 40 / Nervous System and Sleep Disorders 
+FIGURE 40.3 Evaluation and management of seizures.
+Seizures Witnessed convulsive activity during dialysis
+Hypotensive
+Hypertensive
+(Typically > 200/100)
+Hypertensive
+Encephalopathy
+Hemodynamically stable
+Neuroimaging
+NormalA bnormal
+Blood Biochemistry
+NormalAbnormal
+Drugs and Toxicology
+Acute intracerebral
+event
+Acute metabolic
+derangement
+Disequilibrium
+Hypoglycemia
+Hypocalcemia
+Aluminum
+encephalopathy
+Anaphylactic
+response
+– Drugs
+– Dialysis
+Drugs of Abuse
+– Analgesics
+– Antibiotics
+– Antiviral
+– Overdose of  
+ Antiarrythmics
+ Anticonvulsants
+– Antiemetics
+Cardiovascular
+Cause
+ECG
+Enzymes
+Computed
+tomography
+Pulmonary
+angiogram
+Pulmonary
+embolism
+1° Cardiac
+– Arrythmias
+– Acute MI
+– Acute 
+   coronary
+   syndrome
+EEGHemodynamic
+assessment ±
+Daugirdas9781451144291-ch040.indd   765 09/10/14   1:47 am
+Part IV / Clinical Problem Areas
+766
+drug is higher in uremic patients than in patients with 
+normal renal function. Most clinical laboratories mea-
+sure the total serum drug concentration, and a low to-
+tal phenytoin level in a patient with renal failure should 
+not be misinterpreted as subtherapeutic. Physical find -
+ings such as nystagmus may be helpful in deciding not 
+to increase the dose. Seizures are also a manifestation of 
+phenytoin excess, and small dosage increases may result 
+in disproportionately large increases in the serum drug 
+level. Dose increments should be small, sufficient time 
+should be allowed for the patient to reach steady-state 
+drug levels, and measurement of free serum phenytoin 
+concentration should be done frequently in uremic pa -
+tients who are not responding to therapy.
+b. Other agents.  O ther newer anticonvulsants may also be 
+suitable (with less risk of sedation, wider therapeutic 
+windows, or as part of multiple drug regimes). Dialysis 
+clearance of many of these drugs has not been subjected 
+to rigorous patient-based evaluation. This is especially 
+true when managing acute kidney injury and adding 
+in alternative dialysis/CRRT (continuous renal replace-
+ment therapy) schedules. Reference to up-to-date dose 
+modification guidelines and sources is strongly recom-
+mended. Table 40.5 is provided as initial guidance to 
+some of the therapeutic challenges posed utilizing this 
+group of drugs in dialysis patients.
+Carbamazepine, ethosuximide, and valproic acid 
+can be given in 75%–100% of the usual dosage to dialysis 
+patients. Protein binding of valproic acid may be reduced 
+in uremia. Carbamazepine is not well removed by dialysis. 
+Valproic acid is dialyzable when high-flux dialyzers are 
+used. Ethosuximide is substantially dialyzable, and a post-
+hemodialysis supplement may be required. Primidone is 
+40% renally excreted and is moderately dialyzable. Primi-
+done should be used with extreme caution in dialysis pa-
+tients; the need for a substantially reduced dosage should 
+be anticipated, and a posthemodialysis supplement may 
+be required. Phenobarbital can be given in 75%–100% of 
+the usual dosage. Phenobarbital is dialyzable, and a dose 
+should be scheduled after the dialysis treatment. Viga-
+batrin, a γ -aminobutyric acid-transaminase inhibitor, is 
+eliminated by the kidney; major dosage reduction is nec-
+essary in dialysis patients (see Table 40.5).
+G. Chronic neurologic states
+1. Neurocognitive decline and dementia. Reduced cortical function 
+and dementia is common in dialysis patients, with charac-
+teristic patterns of memory loss and impaired cognition. 
+This is in part due to a predominantly elderly population 
+with a high burden of comorbid conditions, and all of the 
+recognized risk factors for the development of dementia. 
+Widespread atheromatous plaques are found commonly 
+Daugirdas9781451144291-ch040.indd   766 09/10/14   1:47 am
+767Chapter 40 / Nervous System and Sleep Disorders 
+Drug Renal Excre-
+tion (%)
+Nonuremic Dosage 
+Range (mg/d)
+Usual Dosage for 
+ESKD Patients (% of 
+nonuremic dose)
+Plasma Half-life (hr)
+Nonuremic 
+Patients
+ESKD Patients Removed by 
+Hemodialysis
+Notes
+Carbamazepine 3 600–1,600 100 10–20 Same a No NU-TPL = 4–12 mg/L
+Clonazepam <1 0.5–20.0 100 17–28 Same a No
+Diazepam <1 5–10 (IV)b ?50 20–70 Same a No Active metabolites may 
+accumulate in renal failure
+Ethosuximide >30 750–2,000 100 50–60 Same a Yes NU-TPL = 40–100 mg/L
+Phenobarbital 10–40 60–200 75 100 120–160 Yes
+Phenytoin <5 300–600 100 10–30 Same a ± NU-TPL = 10–20 mg/L
+ESKD-TPL = 4–10 mg/L due to 
+decreased protein binding
+Primidone 40 c 500–2,000 Caution 5–15 Same a Yes Avoid in ESKD patients
+Valproic acid <4 750–2,000 75–100 6–16 Same a ± NU-TPL = 50–120 mg/L
+Vigabatrin 50 2,000–4,000 25 7 14 Unknown New drug; little experience 
+in dialysis patients
+ESKD, end-stage kidney disease; ESKD-TPL, therapeutic plasma concentration in dialysis patients; NU-TPL, therapeutic plasma concentration in nonuremic subjects.
+aInferred (estimated) from pharmacokinetic considerations.
+bInitial dose..
+cExtensive metabolism to phenylethylmalonamide (PEMA) and phenobarbital. Primidone and PEMA are excreted unchanged, and 10%–40% of phenobarbital is excreted by the kidneys..
+Pharmacokinetics of Anticonvulsants in Dialysis Patients
+40.5
+TABLE
+Daugirdas9781451144291-ch040.indd   767 09/10/14   1:47 am
+Part IV / Clinical Problem Areas
+768
+in dialysis patients, predisposing them to multi-infarct de-
+mentia. At autopsy, the brains of these patients are seen to 
+contain multiple lacunar infarcts in the basal ganglia, thal-
+amus, internal capsule, pons, and cerebellum. Clinically, 
+these patients present with a progressive stepwise decline 
+in intellectual and neurologic functioning, and may have a 
+variety of neurologic signs according to the site of the in-
+farcts. The diagnosis of chronic subdural hematoma as a 
+complication of anticoagulant treatment should always be 
+borne in mind as the disease may present with pseudode-
+mentia, drowsiness, and confusion. The diagnosis is made 
+by appropriate neuroimaging. Both aluminum and iron can 
+be found deposited in the brain in an accelerated fashion, 
+and this can be associated with progressive reduction in 
+cortical function. Metabolic disorders, including drug in-
+toxication, are excluded by simple laboratory tests and a 
+careful drug ingestion history. Lastly, thiamine deficiency 
+has been described in a group of patients from Taiwan 
+(Hung, 2001).
+2. Subclinical cognitive dysfunction and depression.  Subclinical 
+uremic encephalopathy may be present in chronic dialysis 
+patients if inadequate dialysis is delivered. Severe depres -
+sion (and sometimes anxiety) can impair cognitive func-
+tion, but these may be detected only if detailed and regular 
+neuropsychological assessment is undertaken.
+A more common pattern, however, is as the result 
+of widespread subcortical white matter brain injury. 
+Leukoaraiosis has been described as a risk factor for de-
+veloping dementia, mobility problems, and strokes and 
+represents accelerated vascular aging. It is common in di-
+alysis patients and, as with other forms of brain injury, is 
+associated with inflammation, hypertension, and vascular 
+disease. This form of subcortical injury occurs precisely in 
+the vascular watershed area of the brain, where episodic 
+intradialytic reduced perfusion would be expected to have 
+its maximal effect. The few studies that have fully assessed 
+cognitive loss in hemodialysis patients have identified 
+relative preservation of memory and vocabulary (cortical 
+pattern), but have shown significant loss of primarily sub-
+cortical functions relating to decision making and execu-
+tive functioning.
+Of even more potential impact is the recent realization 
+that subcortical subclinical ischemic white matter changes 
+are associated with the interruption of intracerebral cir -
+cuits, the loss of “thym ic balance, ” and the development of 
+clinical depression. These circumstantial data, in combina-
+tion with the temporal colocalization of significant increase 
+in social dependency, clustered around initiation and the 
+first 6 months of dialysis, raise the fascinating possibility 
+of a new biologic basis for depression and increasing social 
+dependency in hemodialysis patients.
+Daugirdas9781451144291-ch040.indd   768 09/10/14   1:47 am
+769Chapter 40 / Nervous System and Sleep Disorders 
+ II. SLEEP-RELATED DISORDERS. Su rveys of dialysis patients report that 
+40%–50% have one or more sleep complaints, and more than 
+50% studied in a sleep disorders laboratory have a sleep disorder 
+objectively documented by polysomnography. Dialysis patients 
+complain frequently of “insomnia” independent of anxiety or de-
+pression. They may have difficulty falling asleep or staying asleep. 
+Patients often complain of awakening frequently during the night 
+without apparent cause. Excessive daytime sleepiness (EDS) is a 
+frequent complaint. It is common to enter a dialysis unit during 
+the daytime and find many patients fast asleep while undergoing 
+dialysis. Chronic daytime sleepiness may affect cognitive func-
+tioning, interfere with activities of daily living, and decrease qual-
+ity of life. Daytime sleepiness may also interfere with the patient’s 
+ability to work and place him or her in danger while driving or 
+operating heavy equipment.
+A. Sleep apnea.  S tudies have found sleep apnea in 50%–75% of 
+dialysis patients with sleep-related complaints. Sleep apnea 
+can be classified as obstructive, central, or mixed. Obstruc-
+tive sleep apnea is a very common medical disorder resulting 
+from a collapse of the upper airway during sleep in the pres-
+ence of continuing respiratory effort. It is often associated 
+with loud snoring, gasping, and snorting sounds during sleep. 
+It is reported to occur in 4% of normal men and 2% of women 
+30–60 years of age. As many as 81% of elderly nursing home 
+patients are reported to have sleep apnea. Obstructive sleep 
+apnea has been reported to be associated with increased mor-
+bidity and mortality. This morbidity is most often related to 
+cardiovascular (often associated with sympathetic overdrive) 
+and cerebrovascular pathophysiologic processes, as well as 
+accidents due to sleepiness. This obstruction appears to be 
+largely due to upper airway edema and congestion/distortion 
+of the nasopharynx. While dialysis patients may have obstruc-
+tive sleep apnea, they also commonly have central sleep ap -
+nea. In central apnea, neither respiratory effort nor airflow is 
+present, suggesting a malfunction in the respiratory centers 
+of the brain. Mixed apneas, which refer to central sleep apnea 
+with an obstructive component, are not uncommon in the di-
+alysis population.
+B. Restless legs syndrome and periodic leg movements in sleep .
+1. Restless legs. O ne of the most common complaints among 
+ESKD patients is restless legs syndrome (RLS). RLS is a 
+subjective complaint for which there is no objective test. 
+Patients often describe an irritating sensation deep in the 
+muscles of the lower leg, particularly in the calf muscle. 
+ Patients can relieve this sensation only by moving their legs 
+and feet. The irritating sensation typically appears when 
+patients are at rest, often in the hours prior to the patient’s 
+usual bedtime. RLS may significantly delay sleep onset.
+2. PLMS. P eriodic leg movements in sleep (PLMS) is a common 
+sleep disorder occurring with increased incidence with age 
+and is common in the elderly of the general population. It 
+Daugirdas9781451144291-ch040.indd   769 09/10/14   1:47 am
+Part IV / Clinical Problem Areas
+770
+generally consists of a dorsiflexion of the foot or movement 
+of the lower limb lasting 2–4 seconds and repeating every 
+20–40 seconds numerous times. It occurs primarily in the 
+first third of the sleep period during non–rapid eye move-
+ment sleep. Each movement may result in a brief arousal 
+from sleep and can be the source of complaints about unre-
+freshing sleep and daytime fatigue. PLMS occurs in approxi-
+mately 80% of patients who complain of RLS. PLMS is found 
+in a very high percentage of ESKD patients. Dialysis patients 
+with PLMS have a much higher number of movements per 
+hour of sleep than patients in the general population with 
+PLMS. In one case series of 45 dialysis patients, 71% had 
+significant PLMS, with several patients having more than 
+1,500 leg movements in a single night. Many of the PLMS 
+incidents were associated with repetitive arousals, resulting 
+in very poor-quality sleep, daytime complaints of fatigue, 
+and increased mortality. Both presence of sleep apnea and 
+a high PLMS index (e.g., more than 35 leg movements per 
+hour of sleep) are associated with elevated mortality rates. 
+It is not known whether this is causal or merely associative, 
+and whether treatment will improve survival in such pa-
+tients also has not been determined.
+3. Diagnosis
+a. History. A s leep history can easily be obtained using a 
+questionnaire or brief interview. Patients or bed part -
+ners should be questioned regarding quantity and qual-
+ity of nocturnal sleep, number of awakenings from sleep, 
+whether sleep is restorative, snoring, gasping, breathing 
+pauses during sleep, lower limb movements (kicking) 
+while awake or asleep, daytime fatigue, or inappropriate 
+napping. Ingestion of medications and social habits (e.g., 
+excess caffeine) associated with excess irritability should 
+be reviewed.
+b. Polysomnography. S leep disorders such as sleep apnea and 
+PLMS in sleep are easily identifiable via standard diagnos-
+tic polysomnography (sleep studies). These studies are usu-
+ally performed in specially equipped laboratories found in 
+many hospitals. Polysomnography generally encompasses 
+simultaneous electroencephalography, electrooculogra -
+phy, electromyography, and electrocardiography, as well 
+as monitoring of breathing sounds, respiratory effort and 
+airflow, arterial oxygen saturation, and leg movements 
+during the patient’s usual sleep period.
+4. T reatment of sleep apnea
+a. Medication h as not been shown to be effective in the treat -
+ment of obstructive sleep apnea. Benzodiazepines are 
+contraindicated for obstructive sleep apnea, as are other 
+CNS depressants, because they may result in longer ap-
+neas, greater O2 desaturation, and more severe sleep frag-
+mentation with consequently greater daytime fatigue.
+Daugirdas9781451144291-ch040.indd   770 09/10/14   1:47 am
+771Chapter 40 / Nervous System and Sleep Disorders 
+b. Nocturnal dialysis . B oth nocturnal hemodialysis and 
+nocturnal cycler-assisted PD (Tang, 2006) have been re-
+ported to bring about improvement in sleep apnea. The 
+responsible mechanisms have not been established, but 
+probably the provision of nocturnal ultrafiltration and 
+improved volume control improves upper airway edema 
+(directly measured by MRI), and this impacts on the ob-
+structive element of sleep apnea (Elias, 2013).
+c. Continuous positive airway pressure (CPAP). C PAP consists of 
+the administration of positive air pressure via the mouth 
+or nares. The positive air pressure splints the upper airway 
+open, effectively preventing obstruction. This has been 
+shown to be an effective treatment for sleep apneas in the 
+dialysis population, whether the cause is obstructive, cen-
+tral, or mixed. Noncompliance is a problem, however, in pa-
+tients who use CPAP treatment for obstructive sleep apnea.
+d. Supplementary O2. A dministration of low-flow supplemen -
+tal O2 has been reported to be a successful treatment for 
+central sleep apnea in some recent studies. However, if 
+obstructive sleep apnea is also present, low-flow O 2 may 
+result in a lengthening of apnea duration.
+e. Surgery .  V arious surgical approaches have been used for 
+the treatment of obstructive sleep apnea. These usually 
+involve the surgical reduction or removal of the uvula 
+and tissues of the soft palate. Surgeries for obstructive 
+sleep apnea have been reported to have an overall suc-
+cess rate of 50%.
+5. T reatment of RLS/PLMS
+a. Conservative measures. I ron repletion is helpful in the gen-
+eral population, but is very rarely a problem in dialysis 
+patients owing to continual monitoring of iron status. 
+Nonetheless, iron deficiency should be avoided. General 
+advice about caffeine, alcohol, and nicotine avoidance 
+is sometimes helpful. Regular stretching, exercise, mas-
+sage, and either hot or cold baths may ameliorate symp-
+toms. Chronic insomnia from restless legs adds to the 
+burden of mood disturbance, which may perpetuate a 
+cycle of poor sleep.
+b. Medication. D opamine precursors or agonists such as l-
+dopa have been shown to reduce the number and sever -
+ity of both disorders and are considered the treatment of 
+choice by many. Benzodiazepines, such as clonazepam, 
+have been used for many years. Controversy exists as to 
+whether benzodiazepines actually reduce the number of 
+movements or simply suppress arousal. Longer-acting 
+dopamine agonists such as ropinirole are now available 
+but should be used cautiously in ESKD patients.
+c. T ransplantation.  C omplete resolution of both sleep ap-
+nea and RLS/PLMS has been reported following kidney 
+transplantation.
+Daugirdas9781451144291-ch040.indd   771 09/10/14   1:47 am
+Part IV / Clinical Problem Areas
+772
+ III. PERIPHERAL NEUROPATHY
+A. Uremic neuropathy . U remic neuropathy is a distal, symmetric, 
+mixed motor and sensory polyneuropathy. It typically involves 
+the legs more than the arms. Clinical manifestations include 
+paresthesia in the feet, painful dysesthesia, ataxia, and weak -
+ness. The sense of position and the vibratory threshold often 
+are impaired. Physiologic studies show slowing of motor nerve 
+conduction and sensory action potentials. The condition is 
+due to one or more toxins retained in uremia and inadequately 
+removed by dialysis. In patients with coexisting diabetes, the 
+development of disabling neuropathy can be rapid, and unrav-
+eling the contribution of each cause may be difficult.
+With effective dialysis, clinical uremic neuropathy is un-
+usual, but subclinical manifestations can be detected in over 
+50% of patients. Serial electrophysiologic monitoring has been 
+used to assess the adequacy of dialysis schedules, but is not 
+routinely employed. If clinical signs of peripheral neuropathy 
+appear, then the adequacy of the dialysis treatment should be 
+carefully evaluated using urea kinetic modeling. A switch to a 
+high-flux membrane or hemodiafiltration to increase the re -
+moval of middle molecules may be of benefit. More frequent 
+hemodialysis, and especially six times per week nocturnal 
+hemodialysis, may improve neuropathy, but solid data on 
+neuropathy are not yet available. Neuropathy is most reliably 
+reversed by successful renal transplantation.
+1. Differential diagnosis.  U remic neuropathy has to be distin-
+guished from disturbed peripheral nerve function owing 
+to an underlying systemic disease (e.g., amyloidosis or 
+diabetes mellitus). Table 40.6 gives an abbreviated list of 
+disorders to be considered in the differential diagnosis. 
+Pyridoxine supplementation has been reported to improve 
+peripheral polyneuropathy in a group of elderly Japanese 
+dialysis patients; however, this was not a controlled study, 
+and baseline pyridoxal 5´-phosphate levels were not de-
+creased (Moriwaki, 2000).
+B. Mononeuropathies (carpal tunnel syndrome). O ccasionally, prolonged 
+recumbency during the hemodialysis procedure leads to ulnar 
+and peroneal nerve palsies; however, the most common neu-
+ropathy is carpal tunnel syndrome, which is due to compression 
+Diabetes mellitus
+Ethanol abuse
+Amyloidosis
+Malnutrition
+Polyarteritis
+Lupus erythematosus
+Multiple myeloma
+Thiamine deficiency
+Principal Differential Diagnoses of Uremic Polyneuropathy
+40.6
+TABLE
+Daugirdas9781451144291-ch040.indd   772 09/10/14   1:47 am
+773Chapter 40 / Nervous System and Sleep Disorders 
+of the median nerve at the wrist where it passes through a nar-
+rowed carpal tunnel. Prevalence also increases with years on di-
+alysis and is as high as 73% in patients who have been receiving 
+hemodialysis for 10 years or longer. The pathogenesis appears 
+to be multifactorial. Deposits of β2-microglobulin amyloid may 
+compress the median nerve as it passes through the carpal tun-
+nel; however, amyloid is not present in all biopsy specimens. 
+Some patients report exacerbation of symptoms during he-
+modialysis, perhaps due to a fistula-induced arterial steal phe-
+nomenon causing median nerve ischemia. Also, the increase in 
+extracellular fluid volume between dialysis treatments may lead 
+to edema and median nerve compression.
+1. Symptoms. M ost often, patients complain of numbness, 
+tingling, burning, or a sensation of “pins and needles” in 
+the fingers of the affected hand. The hand may feel stiff 
+or swollen. Although symptoms are usually present in the 
+distribution of the median nerve (over the thumb, index 
+and middle fingers, and radial aspect of the ring finger), pa-
+tients sometimes complain of sensory disturbance over the 
+entire hand. Aching pain may be referred to the forearm. 
+Symptoms are often worse at night or during hemodialysis, 
+and are exacerbated by activities involving repeated flexion 
+and extension at the wrist. They occur more frequently on 
+the side of the longest functioning vascular access. How-
+ever, some patients have developed symptoms in an arm 
+that never had been used for a graft or fistula.
+2. Examination. I n early cases, there may be no objective loss 
+of sensation or muscle strength. Symptoms can often be 
+provoked by tapping over the palmar aspect of the carpal 
+tunnel (Tinel sign) or by having the patient hold his or her 
+wrists in a flexed position for 1 minute (Phalen sign). In 
+more advanced cases, perception of light touch, pinprick, 
+temperature, or two-point discrimination may be dimin -
+ished in the distribution of the median nerve. The abductor 
+pollicis brevis muscle may be weak and, in longstanding 
+cases, there may be atrophy of the thenar eminence.
+3. Diagnosis. T he differential diagnoses of carpal tunnel syn-
+drome include spondylosis of the lower cervical spine, 
+thoracic outlet syndrome, sensorimotor polyneuropathy 
+or mononeuropathy, and radial arterial steal syndrome in 
+patients with an arteriovenous access. Except in early cases, 
+the diagnosis can usually be established definitively by elec-
+tromyography (EMG) and nerve conduction velocity studies.
+4. T reatment.  S plinting the affected wrist in a neutral resting 
+position, especially at night and during dialysis treatments, 
+may relieve symptoms temporarily. If splinting is unsuc-
+cessful or poorly tolerated, injection of the carpal tunnel 
+with microcrystalline corticosteroid esters will provide 
+about 30% of patients with permanent relief. If symptoms 
+improve inadequately after injection, or if there is signifi-
+cant objective loss of motor or sensory function, surgical 
+Daugirdas9781451144291-ch040.indd   773 09/10/14   1:47 am
+Part IV / Clinical Problem Areas
+774
+decompression of the carpal tunnel yields improvement in 
+more than 90%, but symptoms often recur within 2 years.
+ I V. FINGER FLExION CONTRACTURES. β2-Microglobulin amyloid can de-
+posit along the flexor tendons of the hands, also. These deposits 
+may make the digital flexor tendons of the hand adhere to one an-
+other, creating a subcutaneous soft tissue mass in the palm and 
+irreducible flexion contractures of the fingers. Surgical debride-
+ment of amyloid deposits from the flexor tendon sheaths may al-
+low greater finger extension, but these deposits frequently recur 
+within several years.
+ V. ATLANTO-CERVICAL SPONDYLOPATHY. P rogressive neck instabil-
+ity and cord compression due to destructive β 2-microglobulin–
+derived amyloidosis has been described in long-term dialysis 
+patients. The condition can be diagnosed by MRI. Early decom-
+pression is vital to avoid major disability. Radiographic features 
+include narrowing of the intervertebral disk spaces and erosion of 
+the vertebral end plates without appreciable formation of osteo -
+phyte. The lower cervical spine is most often affected, but similar 
+changes may also occur in the dorsal and lumbar spine. Cystic 
+deposits of β 2-microglobulin amyloid can be seen within the 
+odontoid process and the vertebral bodies of the upper cervical 
+spine. Also, peri-odontoid soft tissue masses of β 2-microglobulin 
+amyloid, termed “pseudotumors, ” may be present. The initial 
+symptom of destructive spondyloarthropathy is pain, typically 
+in the neck when the cervical spine is involved. However, most 
+patients with radiographic abnormalities have no neck pain. Al -
+though neurologic compromise occurs infrequently, significant 
+myelopathy has been reported, especially in patients who have 
+received hemodialysis for 20 years or longer. Severe destructive 
+spondyloarthropathy must be differentiated from vertebral os-
+teomyelitis by MRI.
+ VI. MANAGEMENT OF CHRONIC P AIN. C hronic pain is very challenging 
+to manage in patients receiving maintenance dialysis. Standard 
+hierarchical escalation of analgesic type and choice may not be 
+appropriate. Effective and consistent analgesia without unac-
+ceptable side effects is difficult to achieve from the point of view 
+of both drug type choice, and dose and frequency. Intermittent 
+drug removal by hemodialysis provides an additional dimen-
+sion to consider. Considerable trial and error is often required 
+to achieve this balance, and availability of a specialist pain relief 
+team with relevant experience with dialysis patients is highly 
+desirable. Access to additional measures such as selective nerve 
+blocks, regional anesthesia, and intra-articular injection may 
+provide optimal pain relief with minimized use of potentially 
+toxic medication with a narrow therapeutic window.
+Regular simple analgesics (such as paracetemol [called ac-
+etaminophen in the United States]) are the bedrock of chronic 
+pain management. NSAID use may be appropriate in anephric 
+Daugirdas9781451144291-ch040.indd   774 09/10/14   1:47 am
+775Chapter 40 / Nervous System and Sleep Disorders 
+patients, but the risk of sudden loss of residual renal function 
+needs to be carefully considered in patients with some degree of 
+retained renal function. If NSAIDs are used, doses at the lower 
+end of the potential range and lower potency agents such as 
+ibuprofen are preferred. Opiates characteristically accumulate 
+in this setting, and may be markedly dialyzed out, precipitat -
+ing acute pain relating to hemodialysis sessions. Even the use of 
+weaker agents such as codeine can result in severe obtundation 
+and respiratory arrest. Opiates, however, are often necessary to 
+provide adequate symptom relief. In general, dosing intervals 
+need extending rather than doses limited, slow release prepara-
+tions should be avoided, and access to “top up” doses may need 
+to be limited. Transdermal release patches can be useful, espe-
+cially utilizing drugs such as fentanyl, which rely on hepatic dis-
+posal. The lowest dose formulation should be utilized initially. 
+Adequate time should be allowed for any of these opioid agents 
+to achieve steady state before escalation of the analgesic algo -
+rithm. Co-analgesic drugs such as antidepressants (e.g., tricyclic 
+antidepressants) or anticonvulsants (e.g., gabapentin) are often 
+considered in intractable pain, particularly with a neuropathic 
+element. These can be especially troublesome to utilize without 
+excessive sedation and poor quality of life. Again , doses should 
+be started at the lowest possible level, with very careful dose es-
+calation. Combination of these agents should be avoided if pos-
+sible. Finally, it is important that nonpharmaceutical strategies in 
+pain management are not neglected. Patients should be closely 
+involved in decision making, and efforts should be made to ex -
+plain the challenges and manage expectations. Additional inter -
+ventions such as psychological interventions should be given due 
+consideration.
+References and Suggested Readings
+Apostolou T, Gokal R. Neuropathy and quality-of-life in diabetic continuous ambula-
+tory peritoneal dialysis patients. Perit Dial Int. 1999;19(suppl 2):S242–S247.
+Arnold R, et al. Effects of hemodiafiltration and high flux hemodialysis on nerve excit-
+ability in end-stage kidney disease. PLoS One. 2013;8:e59055.
+Benz RL, et al. Potential novel predictors of mortality in end-stage renal disease 
+ patients with sleep disorders. Am J Kidney Dis. 2000;35:1052–1060.
+Benz RL, Pressman MR, Wu X. Periodic limb movements in sleep revealed by treat-
+ment of sleep apnea with continuous positive airway pressure in the advanced 
+chronic kidney disease population. Clin Nephrol. 2011;76:470–474.
+Chang JM, et al. Fatal outcome after ingestion of star fruit (Averrhoa carambola) in 
+uremic patients. Am J Kidney Dis. 2000;35:189–193.
+Davison SN. Pain in hemodialysis patients: prevalence, cause, severity, and manage-
+ment. Am J Kidney Dis. 2003;42:1239–1247.
+Dharia SM, Brown LK, Unruh ML. Recognition and treatment of obstructive sleep 
+apnea. Semin Dial. 2013;26:273–277.
+Diaz A, Deliz B, Benbadis SR. The use of newer antiepileptic drugs in patients with 
+renal failure. Expert Rev Neurother. 2012;12:99–105.
+Edmunds ME, Walls J. Pathogenesis of seizures during recombinant human erythro-
+poietin therapy. Semin Dial. 1991;4:163.
+Eldehni MT, McIntyre CW . Are there neurological consequences of recurrent intradia-
+lytic hypotension? Semin Dial. 2012;25:253–256.
+Eldehini MT, Odudu A, McIntyre CW .  Randomized clinical trial of dialyzate cooling 
+and effects on brain white matter. J Am Soc Nephrol. 2014, in press.
+Daugirdas9781451144291-ch040.indd   775 09/10/14   1:47 am
+Part IV / Clinical Problem Areas
+776
+Elias RM, et al. Relationship of pharyngeal water content and jugular volume with 
+severity of obstructive sleep apnea in renal failure. Nephrol Dial Transplant. 
+2013;28:937–944.
+Forsberg U, et al. Microemboli, developed during haemodialysis, pass the lung barrier 
+and may cause ischaemic lesions in organs such as the brain. Nephrol Dial Trans-
+plant. 2010;25:2691–2695.
+Glenn CM, et al. Dialysis-associated seizures in children and adolescents. Pediatr 
+Nephrol. 1992;6:182.
+Hanly PJ, et al. Daytime sleepiness in patients with CRF: impact of nocturnal hemodi-
+alysis. Am J Kidney Dis. 2003;41:403–410.
+Hung SC, et al. Thiamine deficiency and unexplained encephalopathy in hemodialysis 
+and peritoneal dialysis patients. Am J Kidney Dis. 2001;38:941–947.
+Iftikhar S, Dahbour S, Nauman S. Nonconvulsive status epilepticus: high incidence in 
+dialysis-dependent patients. Hemodial Int. 2007;11:392–397.
+Kang HJ, et al. Does carpal tunnel release provide long-term relief in patients with hemodi-
+alysis-associated carpal tunnel syndrome? Clin Orthop Relat Res. 2012;470:2561–2565.
+Kavanagh D, et al. Restless legs syndrome in patients on dialysis. Am J Kidney Dis. 
+2004;43:763–771.
+Kiley JE. Residual renal and dialyser clearance, EEG slowing, and nerve conduction 
+velocity. ASAIO J. 1981;4:1.
+Lass P , et al. Cognitive impairment in patients with renal failure is associated with 
+multiple-infarct dementia. Clin Nucl Med. 1999;24:561–565.
+Marsh JT, et al. rHuEPO treatment improves brain and cognitive function of anemic 
+dialysis patients. Kidney Int. 1991;39:155.
+McIntyre CW . Recurrent circulatory stress: the dark side of dialysis. Semin Dial. 
+2010;23:449–451.
+McIntyre CW , et al. Circulating endotoxemia: a novel factor in systemic inflamma -
+tion and cardiovascular disease in chronic kidney disease. Clin J Am Soc Nephrol. 
+2011;6:133–141.
+Molnar MZ, Novak M, Mucsi I. Management of restless legs syndrome in patients on 
+dialysis. Drugs. 2006;66:607–624.
+Moriwaki K, et al. Vitamin B6 deficiency in elderly patients on chronic peritoneal 
+ dialysis. Adv Perit Dial. 2000;16:308–312.
+Nakatani T, et al. Silent cerebral infarction in hemodialysis patients. Am J Nephrol. 
+2003;23:86–90.
+Nicholl DD, et al. Diagnostic value of screening instruments for identifying obstructive 
+sleep apnea in kidney failure. J Clin Sleep Med. 2013;9:31–38.
+Novak M, et al. Diagnosis and management of sleep apnea syndrome and restless legs 
+syndrome in dialysis patients. Semin Dial. 2006;19:210–216.
+Novak M, et al. Diagnosis and management of insomnia in dialysis patients. Semin 
+Dial. 2006;19:25–31.
+Nicholl DD, et al. Diagnostic value of screening instruments for identifying obstructive 
+sleep apnea in kidney failure. J Clin Sleep Med. 2013;9:31–38.
+Odudu A, Francis ST, McIntyre CW . MRI for the assessment of organ perfusion in pa-
+tients with chronic kidney disease. Curr Opin Nephrol Hypertens. 2012;21:647–654.
+Okada H, et al. Vitamin B 6 supplementation can improve peripheral neuropathy in 
+patients with chronic renal failure on high-flux hemodialysis and human recom-
+binant erythropoietin. Nephrol Dial Transplant. 2000;16:1410–1413.
+Pressman MR, Benz RL. Sleep disordered breathing in ESRD: acute beneficial 
+ effects of treatment with nasal continuous positive airway pressure. Kidney Int. 
+1993;43:1134–1139.
+Prohovnik I, et al. Cerebrovascular effects of hemodialysis in chronic kidney disease.  
+J Cereb Blood Flow Metab. 2007;27:1861–1869.
+Santoro D, et al. Pain in end-stage renal disease: a frequent and neglected clinical prob-
+lem. Clin Nephrol. 2013;79 (suppl 1):S2–S11.
+Silver SM. Cerebral edema after hemodialysis: the “reverse urea effect” lives. Int J Artif 
+Organs. 1998;21:247–250.
+Tang S, et al. Alleviation of sleep apnea in patients with chronic renal failure by noc-
+turnal cycler-assisted peritoneal dialysis compared with conventional continuous 
+ambulatory peritoneal dialysis. J Am Soc Nephrol. 2006;17:2607–2616.
+Tucker KL, et al. High homocysteine and low B vitamin predict cognitive decline 
+in aging men: the Veterans Affairs Normative Aging Study. Am J Clin Nutr. 
+2005;82:627–635.
+Daugirdas9781451144291-ch040.indd   776 09/10/14   1:47 am

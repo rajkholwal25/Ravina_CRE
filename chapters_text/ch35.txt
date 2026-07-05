@@ -1,0 +1,2436 @@
+615
+Infections
+David J. Leehey, Jacqueline T. Pham, 
+Tran H. Tran, and Joseph R. Lentino35
+ I. DERANGEMENT OF IMMUNE FUNCTION IN UREMIA
+A. Etiology. In dialysis patients, there is impairment of several 
+aspects of lymphocyte and granulocyte function. Unidentified 
+uremic toxins are thought to be responsible; malnutrition or 
+vitamin D deficiency can sometimes be contributory factors.
+B. Clinical implications
+1. Increased susceptibility to infection
+a. Frequency of bacterial infections.  Bacterial infections occur 
+more often in dialysis patients than in their nonuremic 
+counterparts; the increase is probably related more to 
+frequent violation of normal skin and mucosal barriers 
+than to immune system dysfunction.
+b. Severity of bacterial infections.  Owing to the presence of a 
+vascular access, infections in hemodialysis patients are 
+often associated with bacteremia, and there is a substan-
+tial risk of serious complications such as endocarditis, 
+osteomyelitis, and epidural abscess. Use of a hemodi-
+alysis catheter is associated with a threefold increase 
+in hospitalization and death from septic complications 
+as compared with use of a native or graft fistula. In peri-
+toneal dialysis patients, peritonitis is rarely associated 
+with systemic infection.
+c. Role of hemodialysis membrane or peritoneal dialysis solu -
+tion. Some of the immune defects previously attributed 
+to uremia may be due, in part, to periodic exposure of 
+the blood to certain dialysis membranes or to lack of 
+removal of putative inhibitors of immune function by 
+low-flux membranes. However, in the HEMO study, 
+infection-related deaths were not reduced by utiliza-
+tion of biocompatible, high-flux dialyzers (Allon, 2004). 
+In peritoneal dialysis patients, peritoneal neutrophil 
+function is depressed owing to removal of opsonins 
+(immunoglobulin and complement) in the dialysate 
+and to regular exposure to low pH, high osmolality, and 
+glucose degradation products present in some dialysis 
+solutions.
+Daugirdas9781451144291-ch035.indd   615 11/10/14   3:59 am
+Part IV / Clinical Problem Areas
+616
+ II. DERANGEMENT OF TEMPERATURE CONTROL IN UREMIA
+A. Baseline hypothermia in uremic patients.  In about 50% of hemodi-
+alysis patients, the predialysis body temperature is subnormal. 
+The reason for this is unknown.
+B. Reduced pyrexic response associated with infections.  Uremia per se 
+does not appear to affect the temperature response to pyrogens. 
+In addition, the degree of interleukin-1 (IL-1) production by 
+stimulated uremic monocytes is normal. However, because of 
+baseline hypothermia, and possibly because of frequently coex-
+isting malnutrition, severe infections in some dialysis patients 
+may be associated with an attenuated or absent fever response.
+ III. BACTERIAL INFECTIONS IN DIALYSIS PATIENTS
+A. Related to the access site
+1. Hemodialysis patients.  Prevention, diagnosis, and treatment 
+of vascular access infections are described in Chapters 9 
+(venous catheters) and 8 ( fistulas and grafts). Several addi-
+tional clinical points are emphasized here.
+a. Bacteremia versus pyrogen reaction. The dialysis patient with 
+bacteremia generally presents with chills and fever and 
+may appear quite toxic. On occasion, however, symp-
+toms and signs of infection are remarkably few or absent. 
+Although redness, tenderness, or exudate at the access 
+site may help to incriminate it as the source of the infec-
+tion, in many cases an infected access site can appear 
+normal. Delayed treatment of sepsis in dialysis patients 
+is an important cause of morbidity and mortality. In gen-
+eral, patients with venous hemodialysis catheters and 
+fever should be assumed to have catheter-related bac-
+teremia and treated with broad-spectrum antibiotics 
+pending results of blood cultures.
+1. Pyrogen reaction.  Low-grade fever during hemodialy-
+sis may be related to pyrogens present in the dialy-
+sis solution rather than to actual infection. The time 
+course of fever may be somewhat helpful in making 
+the distinction between pyrogen reaction and infec-
+tion: Patients with pyrogen-related fever are afebrile 
+prior to dialysis but become febrile during dialysis; 
+fever resolves spontaneously after cessation of dialy -
+sis. Patients with access site–related bacteremia are 
+often febrile prior to institution of dialysis and, in the 
+absence of treatment, fever persists during and after 
+dialysis. There is one exception to the rule: Fever and 
+chills that occur shortly after catheter manipulation 
+( for instance, commencement or cessation of dialysis) 
+suggests catheter-associated bacteremia. Use of high-
+flux dialysis (especially in conjunction with bicarbon-
+ate dialysate) and dialyzer reuse are associated with 
+an increased incidence of pyrogenic reactions. Blood 
+cultures should always be obtained in any febrile 
+hemodialysis patient, even when a pyrogen reaction 
+Daugirdas9781451144291-ch035.indd   616 11/10/14   3:59 am
+617Chapter 35 / Infections
+is the suspected cause of the fever and, in most cases, 
+antibiotics should be administered until infection is 
+excluded.
+2. Contamination of hemodialysis machines or solutions.  Occa -
+sionally, bacteremia may result from contamina -
+tion of hemodialysis machines. These are generally 
+gram-negative and occasionally fungal infections. 
+Outbreaks of such infections have been caused by 
+inadequate disinfection of water treatment or distri -
+bution systems or reprocessed dialyzers (Rao, 2009). 
+Contamination of the waste drain ports of the hemo-
+dialysis machine has also been described.
+b. Prophylactic antimicrobial administration
+1. Prophylaxis prior to an invasive procedure likely to result in 
+bacteremia. Although there is no definite evidence in 
+the literature, it is our policy to administer antimi-
+crobial prophylaxis to hemodialysis patients prior 
+to invasive procedures associated with a substantial 
+risk of bacteremia because of the abnormal vascular 
+communication present. These include dental pro -
+cedures (especially extractions); gastrointestinal (GI) 
+procedures such as esophageal stricture dilation, 
+sclerotherapy for esophageal varices, and endoscopic 
+retrograde cholangiography with biliary obstruction 
+(not necessary for routine endoscopy with or with-
+out biopsy); and genitourinary procedures including 
+cystoscopy, urethral dilation, and transurethral pros-
+tate resection. The recommended antimicrobial is 
+amoxicillin 2.0 g given 1 hour before the procedure 
+(or ampicillin 2.0 g IM or IV given 30 minutes before 
+the procedure). In penicillin-allergic patients, either 
+clindamycin 600 mg by mouth or IV (dental or esopha-
+geal procedures) or vancomycin 1.0 g IV (other GI and 
+genitourinary procedures) can be substituted.
+2. Long-term, continuous prophylaxis.  The skin and nasal 
+carriage rate of Staphylococcus aureus  in hemodi -
+alysis patients is about 50%. Intranasal mupirocin 
+ointment is effective in eradicating the carrier state 
+and in uncontrolled studies has decreased the inci-
+dence of staphylococcal infection. Decision analysis 
+suggests that weekly use of this agent in all patients 
+without screening will decrease infection rates and is 
+cost effective (Bloom, 1996). However, a major con-
+cern is the development of mupirocin resistance with 
+chronic use. In general, there is insufficient evidence 
+to support routine Staphylococcus aureus , including 
+methicillin-resistant Staphylococcus aureus  (MRSA) 
+decolonization.
+On the other hand, a reduction in catheter-
+related bacteremia has been demonstrated by use of 
+prophylactic topical antimicrobial ointments at the 
+Daugirdas9781451144291-ch035.indd   617 11/10/14   3:59 am
+Part IV / Clinical Problem Areas
+618
+catheter exit site, the use of prophylactic catheter 
+locking solutions, fastidious catheter care, and the 
+use of vascular access managers and quality initiative 
+programs (Lok and Mokrzycki, 2011). Their use is par-
+ticularly beneficial in patients who have nasal carriage 
+of Staphylococcus aureus . Dry gauze dressings rather 
+than transparent film dressings are recommended be-
+cause transparent film dressings pose a greater threat 
+of exit site colonization (Conly, 1989). A surgical mask 
+worn by the patient and nurse any time the catheter is 
+accessed reduces the spread of infectious droplets and 
+reduces contamination of the catheter site.
+c. V ancomycin-resistant gram-positive infections.  Concern 
+about an increasing prevalence of vancomycin-resis-
+tant enterococci (VRE) in hospitalized patients has 
+resulted in recommendations that vancomycin use be 
+restricted in dialysis patients. Because of the relatively 
+high incidence of staphylococcal organisms resistant 
+to antistaphylococcal penicillins and cephalosporins, 
+it is currently our policy to utilize vancomycin as initial 
+therapy of life-threatening suspected S. aureus infections 
+(e.g., catheter-related bacteremia). If sensitivity results 
+warrant, vancomycin can be discontinued in several 
+days, and prolonged treatment with an alternative anti -
+biotic can then be employed. Certain cephalosporins 
+(e.g., cefazolin) have a very prolonged half-life in end-
+stage kidney disease (ESKD ) patients and can be dosed 
+conveniently postdialysis.
+2. Peritoneal dialysis patients.
+a. Antimicrobial prophylaxis.  In the absence of other indica-
+tions for prophylaxis, we do not routinely administer 
+antibiotics prior to invasive procedures unless a vascular 
+access is present. Long-term, continuous prophylaxis is 
+discussed in Chapter 27.
+B. Unrelated to the access site
+1. Urinary tract infection (UTI).  In dialysis patients, the incidence 
+of UTI is high, especially in patients with polycystic kidney 
+disease.
+a. Clinical presentation.  In oliguric patients, the symptoms 
+of cystitis are similar to those in nonuremic individu-
+als, although gross hematuria is unusually common and 
+occurs in up to one-third of cases. Anuric patients may 
+present with suprapubic discomfort or foul-smelling ure-
+thral discharge and progress to pyocystis (see below).
+b. Diagnosis. Voided urine samples from oliguric patients, 
+even from those voiding only a few milliliters per day, are 
+usually sufficient for diagnosis. Urethral catheterization 
+and bladder lavage may cause infection and should be 
+reserved for the symptomatic anuric patient. The pres -
+ence of pyuria is not a useful finding to rule in or rule out 
+infection. Absence of visible bacteria does not rule out 
+Daugirdas9781451144291-ch035.indd   618 11/10/14   3:59 am
+619Chapter 35 / Infections
+UTI. A urine culture is essential to make the diagnosis. 
+As in nonuremic patients, a colony count greater than 
+103 in a properly collected urine specimen is considered 
+to be suggestive of infection, but there are no good stud-
+ies in dialysis patients.
+c. T reatment.  Optimally, antimicrobial therapy should be 
+based on sensitivity testing of the organism involved. If 
+empirical therapy is warranted, penicillin, ampicillin, 
+cephalexin, a fluoroquinolone, or trimethoprim should 
+be used because they are safe and may attain adequate 
+urine levels in ESKD  patients. Male patients from sus -
+ceptible populations (Asian and Mediterranean) should 
+be tested for glucose-6-phosphatase deficiency before 
+receiving trimethoprim–sulfamethoxazole. In female 
+dialysis patients, trimethoprim–sulfamethoxazole is 
+generally chosen over ampicillin for treatment of recur -
+rent UTIs; trimethoprim–sulfamethoxazole is less likely 
+to be associated with the emergence of resistant organ-
+isms in the fecal flora, the source of most urinary patho-
+gens in women.
+The most appropriate treatment schedule for di -
+alysis patients with cystitis has not been well studied. A 
+urine culture should be repeated on the third or fourth 
+day of treatment documenting that the urine shows no 
+growth, and therapy should be continued for a total of 
+5–7 days. Ten days of antimicrobial therapy is warranted 
+in patients with adult polycystic kidney disease because 
+of their increased susceptibility to pyogenic complica-
+tions of UTIs. A follow-up urine culture should be ob -
+tained 7–10 days after completing therapy.
+It is difficult to achieve adequate urinary drug levels 
+of ticarcillin, doxycycline, sulfisoxazole, and the amino-
+glycosides in dialysis patients; hence, these agents are 
+not recommended for treatment of cystitis. However, 
+when the responsible urinary pathogen is resistant to 
+trimethoprim–sulfamethoxazole, cephalexin, fluoro -
+quinolones, and the penicillins, one of these alterna-
+tive drugs can be employed if its use is supported by the 
+results of bacterial sensitivity. The use of nalidixic acid, 
+nitrofurantoin, tetracycline, or methenamine mandelate 
+is generally contraindicated in anuric patients due to the 
+prolonged half-lives of these agents and the accumula-
+tion of toxic metabolites.
+If repeated culture and sensitivity testing show bac-
+terial resistance, the antimicrobial therapy should be 
+adjusted. If the original infecting organism is still sensi-
+tive to the initial therapy, the dosage should be increased 
+if possible or intravesical antimicrobial therapy should 
+be administered. If a source of bacteria, such as a stag-
+horn calculus, is identified, it must be removed to cure 
+the UTI permanently. Bacterial persistence is a  recurrent 
+Daugirdas9781451144291-ch035.indd   619 11/10/14   3:59 am
+Part IV / Clinical Problem Areas
+620
+ infection from a source within the urinary tract. It is 
+ suspected if infections with the same bacteria return im-
+mediately after treatment is completed. Causes include 
+infected cysts, infection stones (e.g., staghorn calculus), 
+and bacterial prostatitis. Reinfection is a recurrent infec-
+tion caused by the same or different species of bacteria 
+entering the urinary tract at varied intervals. Reinfection 
+is not usually due to an identifiable anatomic lesion but 
+rather to reintroduction of bacteria from a source out -
+side the urinary tract, most frequently the rectal flora. 
+Vesicoenteric and vaginal fistulas are rare causes of re -
+infection.
+All patients with recurrent infection should be 
+evaluated for residual urine and urethral stenosis, 
+ urethral stricture, or bladder outlet obstruction. A renal 
+ultrasonographic study and plain film tomograms of 
+the kidney should be obtained in dialysis patients with 
+possible bacterial persistence. Computed tomography 
+(CT) with and without contrast infusion may be used 
+if ultrasonographic findings are indeterminate. Cystos-
+copy is recommended if hematuria occurs or to help rule 
+out  enterovesical fistula in patients with pneumaturia. 
+Ureteral catheter localization studies should also be 
+performed if bacterial persistence is suspected. Patients 
+found to have a congenital or acquired anatomic abnor -
+mality responsible for their infections should have the 
+defect removed surgically. The safety of long-term anti-
+microbial prophylaxis in dialysis patients with frequent 
+urinary bladder reinfections is not known. Low-dose 
+trimethoprim– sulfamethoxazole and cephalexin would 
+probably be the safest drugs to use.
+d. Upper urinary tract infections and pyogenic complications.  
+Upper tract infections in dialysis patients occur most 
+commonly as a result of retrograde ascent of urinary 
+pathogens in the urinary tract. Rarely, acute pyelone-
+phritis occurs in dialysis patients from a hematogenic 
+route. Patients with cystic kidneys and especially those 
+with adult polycystic disease are particularly susceptible 
+to upper tract infection and its complications. Infected 
+cysts, pyonephrosis, and renal and perirenal abscesses 
+may develop.
+A patient with an infected cyst or renal or perirenal 
+abscess usually presents with dysuria, recurrent UTIs, 
+fever, night sweats, abdominal or flank pain, or sepsis. 
+Occasionally, the patient may be asymptomatic. A ten -
+der, tense mass may be palpable in the flank or abdomen. 
+With systemic symptoms, these patients may develop 
+dehydration due to poor fluid and food intake, sweating, 
+and fever.
+Leukocytosis is commonly present. Urine culture 
+will identify the responsible organism if the parenchymal 
+Daugirdas9781451144291-ch035.indd   620 11/10/14   3:59 am
+621Chapter 35 / Infections
+infection communicates with the collecting  system. How-
+ever, culture results can be negative when an infected cyst 
+does not communicate with the urinary tract, or when 
+there is  pyonephrosis due to a cyst or stone that com-
+pletely obstructs the ureter. Ultrasonography or CT may 
+identify infected cysts and provide a point of reference for 
+determining response to antimicrobial therapy. The use 
+of indium-111 ( 111In) leukocyte imaging and gallium-67 
+(67Ga) citrate single photon emission computed tomog -
+raphy (SPECT) transaxial imaging in localizing infected 
+cysts has been described and may be considered when 
+findings from ultrasonography or CT are inconclusive.
+In patients with cystic kidneys, antimicrobial ther -
+apy of upper tract infection should be continued for 
+at least 3 weeks. Many antimicrobials penetrate renal 
+cysts poorly, and the degree of antimicrobial penetra-
+tion depends on whether the cysts are derived from the 
+proximal tubule or the distal nephron. Lipid-soluble 
+trimethoprim, ciprofloxacin, metronidazole, clindamy -
+cin, erythromycin, and doxycycline have been shown 
+to achieve good bactericidal levels in the fluids of both 
+types of cysts, and should be good treatment selections, 
+depending on the suspected organism. Ciprofloxacin has 
+been shown to sterilize infected cysts in some patients. 
+Non–lipid-soluble antimicrobials, such as the amino-
+glycosides, the third-generation cephalosporins, and 
+the penicillins, have generally failed to cure infections 
+in polycystic kidneys, presumably because of their poor 
+penetration into cysts derived from the distal nephron.
+Patients with adult polycystic kidneys with bacte-
+rial persistence localizing to one side (as documented 
+by ureteral catheter localization studies) should have 
+the source of infection removed surgically. Pyonephro-
+sis and renal and perirenal abscesses cannot be cured by 
+antimicrobial therapy alone, and require immediate and 
+definitive surgical intervention. Percutaneous drainage 
+of an infected cyst under radiographic imaging may be 
+appropriate in medically unstable patients, but surgical 
+intervention currently remains the procedure of choice 
+for most localized abscesses. Laparoscopic unroofing of 
+a clearly identifiable infected cyst may be considered. 
+Nephrectomy is indicated only when an infected cyst is 
+unresponsive to antimicrobial therapy or cyst drainage. 
+Delay in nephrectomy is associated with increased mor-
+bidity and mortality.
+e. Pyocystis. In patients with a neurogenic bladder (e.g., 
+diabetic patients), pyocystis (pus in the defunctional-
+ized bladder) may be an unsuspected source of infec-
+tion. Pyocystis should always be suspected in an anuric 
+dialysis patient with fever of unknown origin. Symptoms 
+can include suprapubic or abdominal pain, foul-smelling 
+Daugirdas9781451144291-ch035.indd   621 11/10/14   3:59 am
+Part IV / Clinical Problem Areas
+622
+urethral discharge, or sepsis. Suprapubic tenderness and 
+a distended bladder may be found on careful examina-
+tion. A complete peripheral blood count often shows 
+leukocytosis. Blood cultures may or may not be positive. 
+Bladder catheterization reveals pus, culture of which usu-
+ally grows a mixed flora. Treatment consists of adequate 
+drainage via an indwelling urethral catheter, followed 
+by intermittent catheterization and bladder irrigations 
+with antimicrobial solutions until the infection clears. 
+Parenteral antimicrobials, chosen according to culture 
+and sensitivity reports, should be administered if sys-
+temic manifestations are present. Cystourethroscopy 
+and possibly cystometrography should be performed 
+to rule out a bladder outlet obstruction, a large bladder 
+diverticulum, or a neurogenic bladder. Rarely, surgical 
+drainage procedures or even simple cystectomy may be 
+needed in refractory cases.
+2. Pneumonia. Pneumonia is an important cause of mortality in 
+this population; the possibility of gram-negative infection 
+should be considered in patients dialyzed in a hospital set -
+ting. Dialysis patients may have unusual pulmonary infil-
+trates due to pulmonary calcification (now uncommon), 
+which can resemble those due to pneumonia. Fluid overload 
+sometimes can be mistaken for pneumonia, and should be 
+suspected, especially when there are bilateral pulmonary 
+infiltrates; such infiltrates can frequently improve after an 
+increase in ultrafiltration. Pleural effusions are commonly 
+exudative in character owing to uremia-associated inflam-
+mation, even in the absence of infection.
+3. Intra-abdominal infections.  Diverticulosis and diverticulitis 
+occur commonly in dialysis patients, and especially in 
+those with polycystic kidney disease. Strangulated hernia is 
+also frequently encountered. In peritoneal dialysis patients, 
+the differentiation between dialysis-associated peritoni -
+tis and peritonitis due to a disease process involving the 
+abdominal viscera can be difficult (see Chapter 27). Acalcu-
+lous cholecystitis has been reported. Intestinal infarction 
+can occur as a complication of hypotension occurring dur-
+ing a dialysis session or between dialyses; bowel infarction 
+should always be suspected in a dialysis patient with unex-
+plained, refractory septic shock.
+4. T uberculosis.  The incidence of tuberculosis has been esti-
+mated to be as much as tenfold higher among hemodialysis 
+patients than among the general population. Tuberculosis 
+in hemodialysis patients is frequently extrapulmonary; 
+disseminated disease may occur in the absence of chest 
+x-ray abnormalities. Difficulty in making the diagnosis is 
+increased because delayed skin hypersensitivity to tubercu-
+lin reagent is often absent or diminished due to cutaneous 
+anergy. New immunologic tests using interferon-gamma 
+release assays have shown promise in ESKD  patients 
+Daugirdas9781451144291-ch035.indd   622 11/10/14   3:59 am
+623Chapter 35 / Infections
+(Segall and Kovic, 2010; Grant, 2012). A number of subtle, 
+atypical presentations of tuberculosis can be encountered; 
+for instance, patients may present with ascites and inter -
+mittent fever only, or with hepatomegaly, weight loss, and 
+anorexia. The diagnosis of tuberculosis in extrapulmonary 
+cases is usually made by demonstrating typical caseating 
+granulomas on pleural or hepatic biopsy or by recovery 
+of tubercle bacilli from culture of biopsy material. When 
+the index of suspicion for tuberculosis is high, presump-
+tive therapy with antitubercular agents is sometimes war -
+ranted. Mortality in dialysis patients with tuberculosis has 
+been reported to be as high as 40%.
+5. Listeriosis. Listeriosis, an unusual infection in the nonimmu-
+nocompromised host, has been reported to occur in hemo-
+dialysis patients suffering from iron overload.
+6. Salmonella septicemia. In dialysis patients, severe Salmonella  
+septicemia has been noted to occur; in nonuremic patients, 
+Salmonella enteritis rarely progresses to sepsis.
+7. Y ersinia septicemia.  This infection has been reported in iron-
+loaded dialysis patients receiving deferoxamine chelation 
+therapy.
+8. Mucormycosis. This sometimes fatal infection is seen 
+with unusual frequency in patients being treated with 
+deferoxamine.
+9. Helicobacter pylori. Although patients with ESKD  frequently 
+have upper GI complications, the prevalence of this infec -
+tion appears to be the same in ESKD patients as in patients 
+with normal renal function. Therapy is similar to that for 
+nonuremic patients.
+ I V. VIRAL INFECTIONS
+A. Hepatitis A.  The incidence of hepatitis A in dialysis patients is 
+no greater than in the general population, given that trans -
+mission is usually by the fecal–oral route. The disease pur -
+sues the usual clinical course in dialysis patients. Chronic 
+hepatitis after hepatitis A infection is believed to occur rarely, 
+if at all.
+B. Hepatitis B
+1. Epidemiology
+a. Hemodialysis patients.  The incidence of infection with 
+hepatitis B virus (HBV) is now quite low in the United 
+States. (Finelli, 2005). The low incidence is due to 
+screening of the blood supply for evidence of this infec-
+tion and to low transfusion requirements due to the 
+availability of erythropoietin. However, outbreaks of 
+hepatitis B in several hemodialysis units have occurred. 
+Hepatitis B vaccine should be administered to all sus-
+ceptible hemodialysis patients. Of note, only 50%–60% 
+of vaccinated hemodialysis patients develop a protec-
+tive antibody response; optimal vaccination techniques 
+are discussed below.
+Daugirdas9781451144291-ch035.indd   623 11/10/14   3:59 am
+Part IV / Clinical Problem Areas
+624
+b. Peritoneal dialysis patients.  This group is at very low risk 
+of acquiring hepatitis B infection. Nevertheless, hepati-
+tis B can be transmitted through exposure to peritoneal 
+effluent.
+2. Clinical presentation.  Hepatitis B infection is largely asymp-
+tomatic in dialysis patients. Commonly, malaise is the only 
+complaint. The occurrence of visible jaundice is rare. The 
+only manifestation of infection may be an unexplained, 
+mild (two- to threefold) elevation in the serum aspartate 
+(AST) or alanine aminotransferase (ALT) level, or even an 
+increase from a lower to a higher level within the normal 
+range. The serum bilirubin and alkaline phosphatase con-
+centrations may remain normal or be elevated only slightly.
+3. Chronic hepatitis B infection.  Hepatitis B infection in dialysis 
+patients often runs a protracted course and in 50% of cases 
+progresses to a chronic, HbsAg-positive state. Development 
+of clinically important persistent (or active) hepatitis is not 
+nearly as common as it is in nondialysis patients. Patients 
+with high serum ferritin levels appear to be at increased 
+risk for developing persistent hepatitis. Treatment is indi-
+cated in HBsAg-positive patients with evidence of viral 
+replication and abnormal transaminase levels, preferably 
+in conjunction with liver histology. A level of 4 to 5 log 10 
+copies/mL for HBV DNA is usually taken as the threshold 
+to start treatment. It is important to recognize that hepati-
+tis B e antigen (HBeAg) can be negative despite active dis-
+ease. Interferon, lamivudine, adefovir, or entecavir can be 
+utilized for the treatment of chronic hepatitis B. Entecavir 
+is the recommended first-line therapy in dialysis patients. 
+The doses of all antiviral medications must be adjusted 
+appropriately according to renal function. The dosing for 
+lamivudine, adefovir, and entecavir are 100 mg by mouth 
+daily, 10 mg by mouth daily, and 0.05 mg by mouth daily, 
+respectively. In view of the side effects of interferon in 
+patients on dialysis, nucleotide or nucleoside analogs are 
+better choices.
+4. Routine screening. Hemodialysis patients should be screened 
+for HBV surface antigen (HBsAg), surface antibody (anti-
+HBs) and core antibody (anti-HBc) on admission to the 
+dialysis unit (or hospital). HBsAg should then be tested 
+monthly in all HBV-susceptible patients, including nonres-
+ponders to the vaccine, and anti-HBs with antibody titer 
+measured annually. Testing for HBV DNA should be done if 
+HBsAg is positive, and may be indicated in patients who are 
+positive for anti-HBc but negative for HBsAg and anti-HBs 
+as such patients can occasionally be infectious.
+5. Prevention
+a. Restricting the possibility of exposure to the virus.  Epidemio -
+logic principles can be utilized to decrease the risk of 
+hepatitis B infection, both among patients and among 
+dialysis staff. Table 35.1 lists some helpful  precautions. 
+Daugirdas9781451144291-ch035.indd   624 11/10/14   3:59 am
+625Chapter 35 / Infections
+1. General precautions for staff and patients
+a. Surveillance for hepatitis B surface antigen (HBsAg) and antibody (HBsAb) 
+(see text)
+b. Isolation of HBsAg-positive patients (not necessary for human 
+immunodeficiency virus [HIV]- and hepatitis C virus [HCV]-infected patients)
+c. Cleansing of dialysis machines and blood/body fluid contaminated areas 
+with 1% sodium hypochlorite (bleach) solution
+d. Dialyzer reuse prohibited for HBV-positive patients (acceptable for patients 
+with anti-HCV and probably HIV)
+e. Universal precautions (see below)
+f. Protocol for exposure to blood/body fluids (see below)
+2. Universal precautions
+a. Staff must wear fluid-impermeable garments
+b. Gloves are to be used whenever there is potential for exposure to blood or 
+body fluids
+c. Gloves must be changed and hands washed between patients
+d. Protective eyewear and face shields are worn when there is potential for 
+splashing of blood (e.g., initiation and discontinuation of dialysis, changing 
+the blood circuit)
+e. No recapping of contaminated needles; prompt disposal in appropriate 
+container
+3. Exposure to blood
+a. Testing for HBsAg and HBsAb at time of incident and 6 weeks later
+b. Testing for HIV (employee consent required) at time of incident and 6 weeks 
+and 6 months later
+c. If HBsAg status of source patient is positive or unknown, administer 
+hepatitis B immune globulin
+d. Test source patient for HIV (inform patient; consent may not be required)
+Infection Control Practices in the Hemodialysis Unit
+35.1
+TABLE
+Some centers recommend that patients with hepatitis 
+B antigenemia be treated with either home hemodialy -
+sis or home peritoneal dialysis in order to decrease the 
+chance of transmission to other patients and staff.
+b. V accination.  See Section V below.
+c. Hepatitis B immune globulin.  This should be given after any 
+exposure to the body fluids of a person known to be 
+infected with HBV .
+C. Hepatitis C.  The prevalence of antibodies to hepatitis C virus 
+(anti-HCV) in dialysis patients is higher than in healthy popu-
+lations. Recent data indicate that 8%–10% of dialysis patients 
+in the United States have anti-HCV . Worldwide, there is con-
+siderable variability in the prevalence of anti-HCV , ranging 
+from 1% to 63%. However, there is also great variability in 
+HCV testing practices in dialysis centers (Meyers, 2003). The 
+high incidence and prevalence of HCV infection among dialy-
+sis patients can be attributed to several risk factors, includ-
+ing number of blood transfusions, duration of dialysis, mode 
+of dialysis (lower risk in peritoneal dialysis patients), and a 
+Daugirdas9781451144291-ch035.indd   625 11/10/14   3:59 am
+Part IV / Clinical Problem Areas
+626
+history of previous organ transplantation or intravenous drug 
+abuse. Infection rates among dialysis patients in the United 
+States have not changed appreciably since tests for anti-HCV 
+were first developed in the early 1990s. At the present time, 
+there is no evidence that sharing of dialysis machines, type 
+of dialysis membrane used, or  dialyzer reprocessing are risk 
+factors. Therefore, the Centers for Disease Control and Pre-
+vention (CDC) does not recommend dedicated machines, 
+isolation of patients, or prohibition of reuse in hemodialysis 
+patients with anti-HCV . However, observations suggest both 
+a higher incidence of new cases of hepatitis C in units with a 
+higher prevalence of HCV infection and a decreased incidence 
+of HCV in units that implement infection control measures; 
+therefore, in dialysis units with a high prevalence of infection, 
+isolation of HCV-positive patients, use of dedicated machines, 
+and restriction on dialyzer reuse for patients infected with 
+HCV may be warranted (Agarwal, 2011). The CDC recom-
+mends that all hemodialysis patients should be tested for 
+anti-HCV antibodies on admission, and anti-HCV-negative 
+patients should be tested for anti-HCV antibodies semiannu-
+ally thereafter.
+The prevalence of anti-HCV among dialysis staff is similar 
+to that of the general population (0%–6%). Immune globulin 
+and/or α-interferon for postexposure prophylaxis against hep-
+atitis C in health care workers are not recommended.
+The natural history of hepatitis C in dialysis patients is 
+difficult to ascertain since there have been no large studies in 
+which liver biopsy was performed. The association between 
+liver enzymes (e.g., ALT) and histologic severity is poor. Multi-
+variate analyses have shown an increased risk of death in hepa-
+titis C–infected patients, with excess mortality predominantly 
+due to cirrhosis and liver cancer.
+Until very recently (Gentile, 2014), treatment options were 
+suboptimal. α-Interferon results in decreased transaminase 
+levels and improved liver histology in most patients, with a 
+sustained response in about 40% of patients, a response rate at 
+least comparable to that seen in patients without renal disease. 
+However, the incidence of side effects is substantial. Common 
+side effects are myalgias, headache, fatigue, and depression, 
+but more serious adverse effects, including bone marrow sup-
+pression, pancreatitis, cardiac failure, and lymphoma, have 
+been reported. Therefore, the benefit-to-risk ratio in the di-
+alysis population is unclear. Treatments with interferon (IFN-
+α2a) and pegylated IFN achieve a cure rate of 30%–45% in 
+this population. Addition of ribavirin may increase the cure 
+rate, but is tolerated poorly in ESKD  patients (Esforzado and 
+Campistol, 2012). Ribavirin is normally renally excreted and 
+causes dose-related hemolysis; therefore, it must be used with 
+extreme caution and at a reduced dose in dialysis patients.
+Treatment for hepatitis C should at present be considered 
+only for patients with significant liver disease with a  reasonable 
+Daugirdas9781451144291-ch035.indd   626 11/10/14   3:59 am
+627Chapter 35 / Infections
+likelihood of prolonged survival, especially in patients in whom 
+transplantation is planned. A recent meta-analysis found that 
+dose of IFN (≥3 × 106 thrice weekly), treatment for ≥6 months, 
+treatment completion, lower baseline HCV RNA, female gen -
+der, and early virologic response were predictive of sustained 
+virologic response (Gordon, 2009). 2008 KDIGO guidelines 
+recommend monotherapy with standard IFN that is dose 
+adjusted for a glomerular filtration rate (GFR) <15 mL/min 
+per 1.73 m 2. A possible regimen is 3 million units of IFN α-2b 
+administered subcutaneously three times per week for 6 to 12 
+months (if tolerated). Close observation for significant side ef-
+fects is mandatory.
+The recent high cure rates achieved with new interferon-
+free drug regimens using combinations of direct-acting an-
+tiviral agents such as daclatasvir, asunaprevir, dasabuvir, 
+sofosbuvir, and ABT-450/r-ombitasvir with or without ribavi-
+rin has markedly enhanced the chances for cure of hepatitis C 
+infection in nondialysis patients (Chung and Baumert, 2014; 
+Gentile, 2014). There is very limited experience with any of 
+these new drug combinations in dialysis patients, although 
+many of these drugs are primarily excreted by the liver. Some 
+time will be needed to see how and to what extent these very 
+new major advances against hepatitis C infection can be ap-
+plied to the ESKD population.
+D. Cytomegalovirus (CMV) and mononucleosis.  These viral infections 
+can mimic hepatitis due to B or C virus but occur uncom-
+monly in dialysis patients.
+E. Influenza. Dialysis patients are at increased risk for developing 
+complications during influenza infection and should be vac -
+cinated. Use of antiviral agents for influenza prevention and 
+treatment is discussed below.
+F. Human immunodeficiency virus (HIV)
+1. Incidence and prevalence.  The rate of HIV infection in hemo-
+dialysis patients is elevated, but only slightly above that 
+in the general population. The incidence of HIV infection 
+in the U.S. ESKD  program is stable. Both incidence and 
+prevalence are much higher in large urban areas serving 
+minorities.
+2. Clinical manifestations. Dialysis patients who are HIV positive 
+may be asymptomatic or may present with the full-blown 
+acquired immunodeficiency syndrome (AIDS). HIV-related 
+renal disease may be an important cause of renal failure in 
+some patients. Since the availability of highly active anti-
+retroviral therapy (HAART), the prognosis of HIV-infected 
+patients has markedly improved, and many patients who 
+are HIV positive without other clinical manifestations can 
+live for many years on dialysis.
+3. Routine screening.  There exists some controversy as to 
+whether hemodialysis patients without clinical evidence of 
+AIDS should be routinely screened for HIV positivity. The 
+recommendation from the CDC is that routine screening 
+Daugirdas9781451144291-ch035.indd   627 11/10/14   3:59 am
+Part IV / Clinical Problem Areas
+628
+not be performed. However, some dialysis units (especially 
+those serving high-risk populations) are screening for HIV . 
+Issues of confidentiality must be balanced against the risk 
+to other patients and dialysis staff.
+4. Dialysis in patients who are HIV positive.  The CDC recommen -
+dation is that the choice between hemodialysis and peri-
+toneal dialysis should not be affected by the finding of HIV 
+positivity. However, home dialysis will lessen any possible 
+risk to other patients and to dialysis staff. The peritoneal 
+effluent of HIV-positive patients should be considered 
+infectious and handled appropriately. If hemodialysis is 
+elected, the CDC guidelines maintain that only the usual 
+body fluid precautions attendant to routine dialysis need 
+be followed. The CDC does not recommend that a special 
+dialysis machine be set aside for HIV-positive patients, and 
+dialyzer reuse in HIV-positive patients is not forbidden.
+A number of dialysis units see the CDC recommenda-
+tions as too liberal and are treating HIV-positive patients 
+in the same manner as patients who are Hb sAg positive 
+(see Table 35.1). Health care workers have developed HIV 
+infection after skin or mucous membrane contact with 
+ HIV-infected blood, underscoring the importance of uni -
+versal precautions while performing dialysis.
+ V. V ACCINATION.  In dialysis patients, the antibody response to a 
+number of commonly used vaccines is suboptimal. Nevertheless, 
+vaccination against pneumococcus, influenza, and hepatitis is 
+believed to be indicated for almost all dialysis patients. Table 35.2 
+lists the recommended frequency of administration of commonly 
+used vaccines. For all vaccines other than hepatitis B, the dosages 
+are identical to those used in the general population.
+A. V accination against hepatitis B.  All dialysis patients except those 
+who are HbsAg or HbsAb (antibody) positive should receive 
+the hepatitis B vaccine. To increase the chances of successful 
+Vaccine Frequency of Administration
+Influenza A and B Annually
+Tetanus, diphtheria Booster every 10 years
+Pneumococcus Revaccination dependent on antibody response
+Hepatitis B For initial vaccination schedule give a total of four 
+double doses with each injection split between the 
+left and right deltoid muscles
+Requirement for revaccination not yet known, but 
+recommended if there is a fall in antibody titer (see 
+text)
+Immunizations Recommended for Dialysis Patients
+35.2
+TABLE
+Daugirdas9781451144291-ch035.indd   628 11/10/14   3:59 am
+629Chapter 35 / Infections
+vaccination, the dosage of hepatitis B vaccine in dialysis 
+patients should be twice the normal amount. Giving an addi-
+tional dose, especially if there is a fall in antibody titer below 
+10 mIU/mL, is recommended. A series of four IM injections 
+of 40 mcg HbsAg should be given into the deltoid muscles 
+at intervals of 0, 1, 2, and 6 months to complete the primary 
+immunization series. Injection into the gluteal muscle is not 
+recommended because gluteal injection has been associated 
+with failure to develop antibody or with loss of antibody 6 
+months to 1 year following immunization (in nonuremic as 
+well as in uremic patients).
+Overall, the percentage of successful vaccination against 
+hepatitis B in dialysis patients is less than in the general pop -
+ulation, and rates as low as 50%–60% have been reported. 
+Some patients may not have responded because of gluteal 
+vaccine administration or because of failure to complete the 
+vaccination regimen. The usefulness of adjuvant vaccines 
+and vaccines given intradermally continues to be studied 
+(Fabrizi, 2011).
+ VI. ANTIMICROBIAL USAGE IN DIALYSIS PATIENTS. Table 35.3 lists dosing 
+guidelines for most commonly used antimicrobial, antifungal, 
+and antiviral agents in patients treated with intermittent hemo -
+dialysis and peritoneal dialysis. Due to increased efficiency of 
+drug removal in continuous renal replacement therapy (CRRT), 
+optimal dosing strategies for antimicrobials in CRRT differ from 
+traditional dialysis dosing. Additional dosing recommendations 
+for drugs studied in CRRT are provided in Chapter 15.
+A. Penicillins. Most penicillins are normally excreted by the kid-
+ney to a substantial extent (40%–80%), and are removed to a 
+moderate degree by both hemodialysis and peritoneal dialysis. 
+Therefore, both dosage reduction and posthemodialysis sup-
+plementation are generally recommended. From a practical 
+standpoint, postdialysis supplementation is probably unnec -
+essary; however, dosing should be timed so that a dose is given 
+immediately after dialysis. Two exceptions to this general rule 
+are nafcillin and oxacillin; because these drugs are substan-
+tially excreted by both the liver and the kidney, dosage reduc-
+tion is not necessary unless liver function is also impaired. 
+Because of the high therapeutic index of penicillins, monitor -
+ing of serum levels is generally not necessary.
+Amoxicillin-clavulanate, ticarcillin-clavulanate, piper -
+acillin-tazobactam, and ampicillin-sulbactam are examples of 
+pencillins combined with β-lactamase inhibitors. β-lactamase 
+inhibitors slow the breakdown of β -lactams by bacteria ex -
+hibiting resistance to pencillins. The β-lactamase inhibitor of 
+these combination drugs may exhibit longer half-lives in ESKD. 
+Clavulanate is a β-lactamase inhibitor that is frequently com -
+Daugirdas9781451144291-ch035.indd   629 11/10/14   3:59 am
+630
+Systemic Antibiotic, Antiviral, and Antifungal Drug Dosages for an Adult Dialysis Patient
+35.3
+TABLE
+Half-life
+Nonuremic  
+Patient
+Dialysis 
+Patient
+Dialysis 
+Patient
+Drug
+Usual Nonuremic 
+Dosea (hr)
+Dosage (% of 
+Nonuremic 
+Dose)
+Usual Dialysis Patient 
+Dosage
+Post-HD 
+Supplement
+Dosage for 
+CAPDb
+Antibiotics
+Penicillins
+Amoxicillin PO 250–500 mg q8h 0.7–1.4 7–21 50–80 250–500 mg q24h DAD 250–500 mg 
+q12h
+Ampicillin IV 1–2 g q4–6h 1–1.8 7–20 50–80 1–2 g q12–24h DAD 250 mg q12h
+Ampicillin/sulbactam IV 1.5–3 g q6h See ampicillin 1.5–3 g q12–24h DAD 3 g q24h
+Dicloxacillin PO 125–500 mg q6h 0.6–0.8 1.3 95–100 250 mg q6h No Same
+Nafcillin IV 1–2 g q4h 0.5–1 1.2 100 1–2 g q4h No Same
+Oxacillin IV 0.5–1 g q4–6h 0.3–1 0.3–1.0 95–100 0.5–1.0 g q4–6h No Same
+Penicillin G IV/IMc 0.5–4 mU q4h 0.5–0.84 3.3–5.1 25–50 0.5–1 mU q4–6h or 1–2 
+mU q8–12h
+DAD Same
+Penicillin V PO 250 mg q6h 0.5 4.0 50 250 mg q12h No Same
+Daugirdas9781451144291-ch035.indd   630 11/10/14   3:59 am
+631
+Half-life
+Nonuremic  
+Patient
+Dialysis 
+Patient
+Dialysis 
+Patient
+Drug
+Usual Nonuremic 
+Dosea (hr)
+Dosage (% of 
+Nonuremic 
+Dose)
+Usual Dialysis Patient 
+Dosage
+Post-HD 
+Supplement
+Dosage for 
+CAPDb
+Piperacillin IV 3–4 g q4–6h 1.0 3.3–5.1 50–70 2 g q8h 1g 3–4g q8h
+Piperacillin/tazobactam 
+IV
+3.375–4.5 g q6–8h See piperacillin 2.25 g q12h, for HAP 
+2.25 g q8h
+0.75 g Same
+Ticarcillin/ 
+clavulanate IV
+3.1 g q4–6h 1.1 12 50–80 2 g (ticarcillin) q12h 
+or 2 g q8h without 
+supplemental dose
+3.1 g 3.1 g q12h
+Cephalosporins
+Cefaclor PO 0.25–0.5 g q8h 0.5–1 2.8 50–80 250 mg q12h 250 mg Same
+Cefadroxil PO 0.5–1 g q12h 1.4 22 25–50 1–2 g q36h 0.5–1 g Same
+Cefazolin IV/IM 1–2 g q8h 2 40–70 50–80 0.5–1 g q24 or 1–2 g 
+q48–72h
+0.5–1 g 0.5 mg q12h
+Cefdinir PO 600 mg q.d. or 300 mg 
+q12h
+1.7 ? ? 300 mg q48h 300 mg ?
+Systemic Antibiotic, Antiviral, and Antifungal Drug Dosages for an Adult Dialysis Patient (continued)
+35.3
+TABLE
+(Continued)
+Daugirdas9781451144291-ch035.indd   631 11/10/14   3:59 am
+632
+Systemic Antibiotic, Antiviral, and Antifungal Drug Dosages for an Adult Dialysis Patient (continued)
+35.3
+TABLE
+Half-life
+Nonuremic  
+Patient
+Dialysis 
+Patient
+Dialysis 
+Patient
+Drug
+Usual Nonuremic 
+Dosea (hr)
+Dosage (% of 
+Nonuremic 
+Dose)
+Usual Dialysis Patient 
+Dosage
+Post-HD 
+Supplement
+Dosage for 
+CAPDb
+Cefepime IV 1–2 g q8–12h 2 13.5 25 1 g q24h × 1 then 1–2 g 
+q48–72h or 2 g t.i.w.
+DAD 1–2 g q48h
+Cefotaxime IV 1–2 g q4–12h 1–1.5 15–35 50 1–2g q24h DAD 1g q24h
+Cefotetan IV/IM 1–2 g q12h 3–5 13–25 80–95 0.25–0.5 g q24h on   
+non-dialysis days
+1g 1 g q24h
+Cefoxitin IV/IM 1–2 g q6–8h 0.6–1 13–23 15 0.5–1 g q12–48h 1–2 g 1g q24h
+Cefpodoxime PO 100–400 mg q12h 2.2 9.8 25 100–400 mg t.i.w. DAD 100–400 mg 
+q24h
+Cefprozil PO 500 mg q24h or 
+250–500 mg q12h, or 
+250 mg t.i.d.
+1.3 6.0 45 250 mg q24h DAD ?
+Ceftaroline IV 600 mg q12h 2.7 ? 33 200 mg q12h DAD ?
+Ceftazidime IV/IM 2 g q8h 1–2 13–25 0–50 0.5–1 g q24h or 1–2 g 
+q48–72h
+1 gd 1 g load then 
+500 mg q24h
+Daugirdas9781451144291-ch035.indd   632 11/10/14   3:59 am
+633
+Half-life
+Nonuremic  
+Patient
+Dialysis 
+Patient
+Dialysis 
+Patient
+Drug
+Usual Nonuremic 
+Dosea (hr)
+Dosage (% of 
+Nonuremic 
+Dose)
+Usual Dialysis Patient 
+Dosage
+Post-HD 
+Supplement
+Dosage for 
+CAPDb
+Ceftibuten PO 400 mg q24h 2 13–22 25–50 400 mg or 9 mg/kg (after 
+each dialysis session)
+DAD ?
+Ceftriaxone IV 1–2 g q12–24h 5–9 12–16 100 1–2 g q12–24h None Same
+Cefuroxime IV 0.75–1.5 g q8h 1–2 17 75 0.75–1.5 g q24h DAD Same
+Cefuroxime PO 250–500 mg q12h 1–2 17 33 ? ? ?
+Cephalexin PO 0.25–1.0 g q6h 0.5–1.2 30 50–80 250 mg q12-24h DAD Same
+Carbapenems/
+monobactams
+Aztreonam IV 1-2 g q6-8h 1.7–2.9 6–8 50–80 LD of 0.5, 1, or 2 g then 
+0.25-0.5 g q6-8h; or 
+500 mg q12h
+for severe 
+infections 
+125–250 mg 
+after dialysis
+Same
+Systemic Antibiotic, Antiviral, and Antifungal Drug Dosages for an Adult Dialysis Patient (continued)
+35.3
+TABLE
+(Continued)
+Daugirdas9781451144291-ch035.indd   633 11/10/14   3:59 am
+634
+Half-life
+Nonuremic  
+Patient
+Dialysis 
+Patient
+Dialysis 
+Patient
+Drug
+Usual Nonuremic 
+Dosea (hr)
+Dosage (% of 
+Nonuremic 
+Dose)
+Usual Dialysis Patient 
+Dosage
+Post-HD 
+Supplement
+Dosage for 
+CAPDb
+Doripenem IV 500 mg q8h 1.0 18 48 250 mg q24h, for PSA 
+500 mg q12h (on day 1) 
+then 500 mg q24h
+? ?
+Ertapenem IV/IM 1 g q24h 4.0 >4.0 50 500 mg q24h 150 mgj 500 mg q24h
+Imipenem/cilastin IV/IM 0.5 q6h 1.0 4 50 250–500 mg q12h DAD Dosed by 
+weight
+Meropenem IV 0.5-2 g q8h 1–1.5 6–8 25 500 mg q24h DAD 0.5-2 g q24h
+Fluoroquinolones
+Ciprofloxacin IV 400 mg q12h 3–5 6–9 90–100 200–400 mg q24h ? ?
+Ciprofloxacin PO IR 500–750 mg q12h; 
+ER 500–1,000 mg q24h
+3–5 6–9 90–100 IR 250–500 mg q24h; ER 
+500 mg q 24h
+DAD Same
+Gemifloxacin PO 320 mg q24h 4–12 >7 160 mg q24h DAD Same
+Levofloxacin IV/PO 750 mg q24h 6–8 76 25 750 mg once then 500 
+mg q48h
+DAD Same
+Systemic Antibiotic, Antiviral, and Antifungal Drug Dosages for an Adult Dialysis Patient (continued)
+35.3
+TABLE
+Daugirdas9781451144291-ch035.indd   634 11/10/14   3:59 am
+635
+Half-life
+Nonuremic  
+Patient
+Dialysis 
+Patient
+Dialysis 
+Patient
+Drug
+Usual Nonuremic 
+Dosea (hr)
+Dosage (% of 
+Nonuremic 
+Dose)
+Usual Dialysis Patient 
+Dosage
+Post-HD 
+Supplement
+Dosage for 
+CAPDb
+Moxifloxacin IV/PO 400 mg q24h 8–15 (IV)
+12–16
+(PO)
+9–16 100 400 mg q24h No Same
+Ofloxacin IV/PO 200–400 mg q12h 4–5, then 20–25 28–37 25 100–200 mg q24h DAD 300 mg q24h
+Aminoglycosides
+Amikacin IV 5–7.5 mg/kg q12h 1.4–2.3 28–86 80 See text See text See text
+Gentamicin IV 1–2.5 mg/kg q8–12h 1.5–3 36–70 50 See text See text See text
+Neomycin PO 0.5–2 g q6–8h Avoid in renal failure
+Streptomycin IM 15–30 mg/kg q24h 5 30–80 15 7.5–15 mg/kg t.i.w. on 
+dialysis days
+DAD See text
+Tobramycin IV 1–2.5 mg/kg q8–12h 2–3 5–70 30–75 1–2 mg/kg q48–72h See text See text
+Macrolides and ketolides
+Azithromycin IV/PO 500 mg q24h × 1d, 250 
+mg q24h × 4 d
+68–72 ? 100 500 mg q24h × 1 d, 250 
+mg q24h × 4 d
+No Same
+Systemic Antibiotic, Antiviral, and Antifungal Drug Dosages for an Adult Dialysis Patient (continued)
+35.3
+TABLE
+(Continued)
+Daugirdas9781451144291-ch035.indd   635 11/10/14   3:59 am
+636
+Systemic Antibiotic, Antiviral, and Antifungal Drug Dosages for an Adult Dialysis Patient (continued)
+35.3
+TABLE
+Half-life
+Nonuremic  
+Patient
+Dialysis 
+Patient
+Dialysis 
+Patient
+Drug
+Usual Nonuremic 
+Dosea (hr)
+Dosage (% of 
+Nonuremic 
+Dose)
+Usual Dialysis Patient 
+Dosage
+Post-HD 
+Supplement
+Dosage for 
+CAPDb
+Clarithromycin PO 250–500 mg q12h 3–7 ? 50 250 mg q12h DAD ?
+Erythromycin IV/PO 250–500 mg q6–12h 1.5-2 5–6 80–95 250–500 mg q6-12h No Same
+Telithromycin PO 800 mg PO q24h 10 15 600 mg q24h DAD ?
+Glycopeptides
+Telavancin IV 10 mg/kg q24h 6.6–9.6 ? ? ? ? ?
+Vancomycin IV 15–20 mg/kg q12h 5–11 200–250 <10 1 g q4–7 d See text See text
+Tetracyclines
+Demeclocycline PO 150 mg q6h or 
+300 mg q12h
+Avoid in renal failure
+Doxycycline IV/PO 100–200 mg q12–24h 12–15 18–25 100 100–200 mg q12–24h No Same
+Minocycline IV/PO 200 mg LD, 100 mg 
+q12h
+11–22 ? 100 100 mg PO q12h No Same
+Daugirdas9781451144291-ch035.indd   636 11/10/14   3:59 am
+637
+Systemic Antibiotic, Antiviral, and Antifungal Drug Dosages for an Adult Dialysis Patient (continued)
+35.3
+TABLE
+Half-life
+Nonuremic  
+Patient
+Dialysis 
+Patient
+Dialysis 
+Patient
+Drug
+Usual Nonuremic 
+Dosea (hr)
+Dosage (% of 
+Nonuremic 
+Dose)
+Usual Dialysis Patient 
+Dosage
+Post-HD 
+Supplement
+Dosage for 
+CAPDb
+Tetracycline PO 250–500 mg q6h 8–11 57–108 80–95 ? No ?
+Nitroimidazoles
+Metronidazole IV/PO 500 mg q6–8h 8 18–32 0–50 500 mg q8–12h DAD 250 mg q6–8h 
+or 500 mg 
+q12h
+Tinidazole PO 2g q24h 13 11.1–14.7 100 2 g q24h 1g ?
+Diaminopyrimidines
+Pyrimethamine PO 25–50 mg q24h 80–95 100 25–50 mg q24h No ?
+Trimethoprim (T)/
+sulfameth-oxazole(S) 
+IV/PO
+See text 8–10 (T) 26 (T) 50 See text See text See text
+35 (S) 50 (S)
+(Continued)
+Daugirdas9781451144291-ch035.indd   637 11/10/14   3:59 am
+638
+Half-life
+Nonuremic  
+Patient
+Dialysis 
+Patient
+Dialysis 
+Patient
+Drug
+Usual Nonuremic 
+Dosea (hr)
+Dosage (% of 
+Nonuremic 
+Dose)
+Usual Dialysis Patient 
+Dosage
+Post-HD 
+Supplement
+Dosage for 
+CAPDb
+Antituberculars
+Ethambutol PO 15 mg/kg q24h 2.5–3.6 7–15 50 15 mg/kg q48h or  
+15 mg/kg t.i.w.
+DAD Same
+Isoniazid IV/PO 300 mg q24h 0.5–1.5 2.3 100f 300 mg q24h DAD Same
+(fast acetylators)
+2.5–3.6 7–15
+(slow acetylators)
+Pyrazinamide PO 15–30 mg/kg/d 9–10 ? 50 25–35 mg/kg t.i.w. DAD ?
+Rifabutin PO 300 mg q24h 45 ND 50 150 mg q24h ? ?
+Rifampin IV/PO 600 mg q24h 3.5 4.0 100 600 mg q24h No Same
+Miscellaneous antibiotics
+Colistin 1.25–2.5 mg/kg q12h 2–3 48–72 1.5 mg/kg q24–48h DAD ?
+Clindamycin PO 150–450 mg q6h 2–3, 3.4–5.1 (elderly) 4.0 100 Same No Same
+Systemic Antibiotic, Antiviral, and Antifungal Drug Dosages for an Adult Dialysis Patient (continued)
+35.3
+TABLE
+Daugirdas9781451144291-ch035.indd   638 11/10/14   3:59 am
+639
+Half-life
+Nonuremic  
+Patient
+Dialysis 
+Patient
+Dialysis 
+Patient
+Drug
+Usual Nonuremic 
+Dosea (hr)
+Dosage (% of 
+Nonuremic 
+Dose)
+Usual Dialysis Patient 
+Dosage
+Post-HD 
+Supplement
+Dosage for 
+CAPDb
+Clindamycin IV 600–900 mg q8h 2.3, 3.4–5.1 (elderly) 4.0 100 400–900 mg q8h No Same
+Dapsone PO 50–100 mg q24h 10–50 100 Pneumocystis 
+pneumonia prophylaxis 
+50 mg q12h
+DAD ?
+Daptomycin IV 4–6 mg/kg q24h 8–9 30 50 4–6 mg/kg q48hi or 6 mg/
+kg t.i.w. after dialysis
+DAD Same
+Linezolid IV/PO 600 mg q12h 4–5 6–8 70 600 mg q12h DADe Same
+Methenamine PO 1 g q6h (mandelate) Avoid in renal failure
+1 g q12h (hippurate)
+Nitrofurantoin PO 50–100 mg q6h Avoid in renal failure
+Quinupristin/
+Dalfopristin IV
+7.5 mg/kg q8–12h 1.3–1.5 ? 100 7.5 mg/kg q8–12h No Same
+Spectinomycin IM 2–4 g once 1.2–2.8 4.7–29.3 50 2–4 g once No Same
+Systemic Antibiotic, Antiviral, and Antifungal Drug Dosages for an Adult Dialysis Patient (continued)
+35.3
+TABLE
+(Continued)
+Daugirdas9781451144291-ch035.indd   639 11/10/14   3:59 am
+640
+Half-life
+Nonuremic  
+Patient
+Dialysis 
+Patient
+Dialysis 
+Patient
+Drug
+Usual Nonuremic 
+Dosea (hr)
+Dosage (% of 
+Nonuremic 
+Dose)
+Usual Dialysis Patient 
+Dosage
+Post-HD 
+Supplement
+Dosage for 
+CAPDb
+Antivirals
+Acyclovir IV 5–10 mg/kg q8h 3.0 19.5 15–20 2.5–5 mg/kg q24h DAD Same
+Acyclovir PO 200–800 mg 5x/day 3.0 19.5 15–20 200 mg q12h DAD Same
+Amantadine PO 100 mg q12h 24 168–240 <10 200 mg q wkg No Same
+Boceprevir 300 mg t.i.d. 3 3 100 300 mg t.i.d. No Same
+Cidofovir IV 5 mg/kg weekly to 
+every other week
+Contraindicated with creatinine clearance ≤55 mL/min or serum creatinine >1.5 mg/dL
+Famciclovir PO 125–500 mg q8–12h 2–4 3–24 25 125–250 mg t.i.w. DAD ?
+Foscarnet IV 60 mg/kg q8h × 3 wk, 
+then 90–120 mg/kg q24h
+3.0 ? 50–100 45–90 mg/kg t.i.w. DAD ?
+Ganciclovir IV 5 mg/kg/d q12–24h 1.7–5.8 5–28 25 0.625–1.25 mg/kg/dose 
+t.i.w.
+DAD Same
+Systemic Antibiotic, Antiviral, and Antifungal Drug Dosages for an Adult Dialysis Patient (continued)
+35.3
+TABLE
+Daugirdas9781451144291-ch035.indd   640 11/10/14   3:59 am
+641
+Half-life
+Nonuremic  
+Patient
+Dialysis 
+Patient
+Dialysis 
+Patient
+Drug
+Usual Nonuremic 
+Dosea (hr)
+Dosage (% of 
+Nonuremic 
+Dose)
+Usual Dialysis Patient 
+Dosage
+Post-HD 
+Supplement
+Dosage for 
+CAPDb
+Oseltamivir PO 75 mg b.i.d. 6–10 No data <20 75 mg t.i.w. DAD 30 mg q7d
+Ribavirin PO 800–1,200 mg in two 
+divided doses daily
+24 (capsule), 120–170 
+(tablet)
+? 50 200 mg q24h No Same
+Rimantidine PO 100 mg q12h 25 40 50 100 mg q24h No Same
+Valacyclovir PO 1–2 g q 8–12h 3.0 14 16 500 mg q24h DAD Same
+Valganciclovir PO 900 mg q12–24h Avoid in patients receiving hemodialysis
+Zanamivir PO 10 mg b.i.d. 2.5–5 18.5 100 10 mg b.i.d. No Same
+Antiretrovirals
+Abacavir PO 300 mg q12h or 600mg 
+q24h
+1–1.5 ? 100 300 mg q12h No ?
+Adefovir PO 10 mg q24h 7.5 15 10–30 10 mg q7d DAD ?
+Atazanavir PO 300–400 mg q24h 7.0 ? 97.9 300 q24hh ? ?
+Systemic Antibiotic, Antiviral, and Antifungal Drug Dosages for an Adult Dialysis Patient (continued)
+35.3
+TABLE
+(Continued)
+Daugirdas9781451144291-ch035.indd   641 11/10/14   3:59 am
+642
+Half-life
+Nonuremic  
+Patient
+Dialysis 
+Patient
+Dialysis 
+Patient
+Drug
+Usual Nonuremic 
+Dosea (hr)
+Dosage (% of 
+Nonuremic 
+Dose)
+Usual Dialysis Patient 
+Dosage
+Post-HD 
+Supplement
+Dosage for 
+CAPDb
+Darunavir 800 mg q24h 15 ? 43 ? ? ?
+Delavirdine PO 400 mg q8h 5.8 ? 100 ? ? ?
+Didanosine PO 25–60 kg: 200 mg q24h
+> 60 kg: 400 mg q24h
+1.3–1.5 2.5–5 65–80 <60 kg: capsule not 
+recommended
+>60 kg: 25 mg q24h
+No Same
+Entecavir PO 0.5–1 mg q24h 128–149 ? 87 0.05–0.1 mg q24h DAD Same
+Efavirenz PO 600 mg q24h 40–55 ? 100 ? ? ?
+Elvitegravir/cobicstat/
+emtricitabine/tenofovir 
+PO
+1 tab q24h 4–13 ? ? Avoid in patients 
+receiving dialysis
+Enfuvirtide SC 90 mg q12h 3.8 100 90 mg q12h No ?
+Emtricitabine PO Capsule 200 mg q24h; 
+Solution 240 mg q24h
+10 >10 70 Capsule 200 mg q96h; 
+Solution 60 mg q24h
+DAD ?
+Fosamprenavir PO 1400 mg q24h 7.7 ? ? 1400 mg q24h ?
+Systemic Antibiotic, Antiviral, and Antifungal Drug Dosages for an Adult Dialysis Patient (continued)
+35.3
+TABLE
+Daugirdas9781451144291-ch035.indd   642 11/10/14   3:59 am
+643
+Half-life
+Nonuremic  
+Patient
+Dialysis 
+Patient
+Dialysis 
+Patient
+Drug
+Usual Nonuremic 
+Dosea (hr)
+Dosage (% of 
+Nonuremic 
+Dose)
+Usual Dialysis Patient 
+Dosage
+Post-HD 
+Supplement
+Dosage for 
+CAPDb
+Indinavir PO 800 mg q8h 1.4–2.2 ? 100 ? ? ?
+Lamivudine PO 150 mg q12h or  
+300 mg q24h
+3–7 15–35 76 50 mg LD, then 25 mg 
+q24h
+No Same
+Lopinavir/ritonavir 
+PO (1 tablet = 200 mg 
+lopinavir and 50 mg 
+ritonavir)
+2 tablets q12h 3.67 100 2 tablets q12h No ?
+Maraviroc PO 300 mg q12h 14–18 ? 100 300 mg q12h ? ?
+Nelfinavir PO 1250 mg q12h or 
+750 mg q8h
+3.5–5 ? 100 1250 mg q12h ? Same
+Nevirapine PO 200 mg q12h 25–30 ? 56 ? 200 mg ?
+Raltegravir PO 400 mg q12h 9 ? 100 400 mg q12h DAD ?
+Rilpivirine PO 25 mg q24h 50 ? 100 25 mg q24h No Same
+Ritonavir PO 600 mg q12h 3–5 ? 100 ? ? ?
+Systemic Antibiotic, Antiviral, and Antifungal Drug Dosages for an Adult Dialysis Patient (continued)
+35.3
+TABLE
+(Continued)
+Daugirdas9781451144291-ch035.indd   643 11/10/14   3:59 am
+644
+Half-life
+Nonuremic  
+Patient
+Dialysis 
+Patient
+Dialysis 
+Patient
+Drug
+Usual Nonuremic 
+Dosea (hr)
+Dosage (% of 
+Nonuremic 
+Dose)
+Usual Dialysis Patient 
+Dosage
+Post-HD 
+Supplement
+Dosage for 
+CAPDb
+Saquinavir 1000 mg b.i.d. with 100 
+mg ritonavir b.i.d.
+13 ? 100 ? ? ?
+Stavudine PO ≥60 kg:40 mg q12h 
+<60 kg:30 mg q12h
+1.6 1.55–5.4 69 ≥60 kg: 20 mg q24h <60 
+kg: 15 mg q24h
+DAD ?
+Telaprevir PO 1125 mg q12h 4–11 ? ? ?
+Telbivudine PO 600mg q24h 40–49 ? 600 mg q96h DAD ?
+Tenofovir PO 300 mg q24h 17 ? 90? 300 mg q7d DAD ?
+Tipranavir PO 500 mg q12h 5.5–6 ? 100 500mg q12h ? ?
+Zidovudine PO 300 mg q12h 1.0 1.4 See text 100 mg q6–8h Same
+Antifungals
+Amphotericin B 
+cholesteryl sulfate 
+complex (Amphotec)
+3–4 mg/kg/d 28 ? 100 ? ? ?
+Amphotericin B lipid 
+complex (Abelcet IV
+5 mg/kg q24h 173 (after multiple 
+doses)
+? 100 5 mg/kg q24h No Same
+Systemic Antibiotic, Antiviral, and Antifungal Drug Dosages for an Adult Dialysis Patient (continued)
+35.3
+TABLE
+Daugirdas9781451144291-ch035.indd   644 11/10/14   3:59 am
+645
+Half-life
+Nonuremic  
+Patient
+Dialysis 
+Patient
+Dialysis 
+Patient
+Drug
+Usual Nonuremic 
+Dosea (hr)
+Dosage (% of 
+Nonuremic 
+Dose)
+Usual Dialysis Patient 
+Dosage
+Post-HD 
+Supplement
+Dosage for 
+CAPDb
+Amphotericin 
+B liposome  
+(AmBisome IV
+3–6 mg/kg q24h 7–10 (after a single 
+24h dosing interval)
+? 100 3–6 mg/kg q24h No Same
+Anidulafungin IV 100–200 mg day 1, 
+then 50–100 mg q24h
+40–50 ? 100 100–200 mg day 1, then 
+50–100 mg q24h
+No ?
+Caspofungin IV 70 mg LD, 50 mg q24h 9–11 ? 100 70 mg LD, 50 mg q24h No Same
+Fluconazole IV/PO 150–800 mg q24h 30 ? 100 200–800 q24h DAD ?
+Flucytosine PO 50–150 mg/kg/d in 
+divided doses q6h
+2–5 75–200 10–25 37.5 mg/kg q24–48h DAD 0.5–1.0 g q24h
+Griseofulvin PO 
+(microsize)
+500 mg q24h 9–24 ? 100 ? ? ?
+Griseofulvin PO 
+(ultramicrosize)
+375–750 mg q24h 9–24 ? 100 ? ? ?
+Itraconazole PO 
+capsule
+200–600 mg in divided 
+doses daily
+21 ? 100 200–400 mg in divided 
+doses daily
+No ?
+Systemic Antibiotic, Antiviral, and Antifungal Drug Dosages for an Adult Dialysis Patient (continued)
+35.3
+TABLE
+(Continued)
+Daugirdas9781451144291-ch035.indd   645 11/10/14   3:59 am
+646
+Half-life
+Nonuremic  
+Patient
+Dialysis 
+Patient
+Dialysis 
+Patient
+Drug
+Usual Nonuremic 
+Dosea (hr)
+Dosage (% of 
+Nonuremic 
+Dose)
+Usual Dialysis Patient 
+Dosage
+Post-HD 
+Supplement
+Dosage for 
+CAPDb
+Itraconazole PO 
+suspension
+100–200 mg q24h 21 ? 100 ? ? ?
+Ketoconazole PO 200–400 mg q24h 8.0 8.0 100 200–400 mg q24h No ?
+Micafungin IV 50–150 mg q24h 11–21 ? 100 50–150 mg q24h No ?
+Posaconazole PO
+Delayed-release tablet
+300 mg q12h or q24h 26–31 ? 100 300 mg q12h or q24h No ?
+Posaconazole PO
+Oral Suspension
+100 – 400 q12h or q24h 
+or 200 mg q8h
+Depends on indication
+20–66 ? 100 100–400 q12h or q24h or 
+200 mg q8h
+No ?
+Posaconazole IV 300 mg q 12–24h Not recommended in patients with creatinine clearance ≤50 mL/min or <18YOA
+Terbinafine PO 250 mg q24h Not recommended in patients with creatinine clearance ≤50 mL/min
+Voriconazole IV 6 mg/kg q12h LD, 4 
+mg/kg q12h
+Not recommended in patients with creatinine clearance ≤50 mL/min
+Voriconazole PO ≥40 kg: 200 mg q12h Variable and dose 
+dependent
+100 ≥40 kg: 200 mg q12h No Same
+Systemic Antibiotic, Antiviral, and Antifungal Drug Dosages for an Adult Dialysis Patient (continued)
+35.3
+TABLE
+Daugirdas9781451144291-ch035.indd   646 11/10/14   3:59 am
+647
+Half-life
+Nonuremic  
+Patient
+Dialysis 
+Patient
+Dialysis 
+Patient
+Drug
+Usual Nonuremic 
+Dosea (hr)
+Dosage (% of 
+Nonuremic 
+Dose)
+Usual Dialysis Patient 
+Dosage
+Post-HD 
+Supplement
+Dosage for 
+CAPDb
+<40 kg: 100 mg q12h <40 kg: 100 mg q12h No Same
+DAD, no post-HD supplement required, but on hemodialysis days schedule the usual dialysis patient dose after the dialysis session; HD, hemodialysis; CAPD, continuous ambulatory peritoneal dialysis; 
+IM, intramuscular; IV, intravenous; LD, loading dose; PD, peritoneal dialysis (primarily CAPD); PO, oral; SC, subcutaneous; q24hr, daily; q.h.s., at bedtime; t.i.d., three time/d; b.i.d., two times/d; t.i.w., 
+three times per week.
+a Usual doses recommended for treatment of moderate-to-severe infections.
+b Same as usual dialysis patient dosage.
+c Doses greatly vary based on indication.
+d Prolonged half-life allows dosing thrice weekly post-HD.
+e Supplemental dose may be considered early in treatment course.
+f No dosage reduction needed in patients known to be fast acetylators.
+g Long-term administration best avoided unless blood levels are followed.
+h Recommended only in antiretroviral treatment-naive patients as boosted therapy with ritonavir 100 mg once daily.
+i If next planned dialysis is >72 hr away, give 9mg/kg.
+j If dosed < 6 hr prior to HD give 150mg AD.
+Sources: Lexi-Drug, Lexi-Comp ® [Internet database]. Hudson, OH: Lexi-Comp, Inc. Available at http://www.crlonline.com. Accessed April 10, 2014. Data from Facts and Comparisons. Available from 
+http://online.factsandcomparisons.com. Accessed April 23, 2013; Up to date. Available from http://www.uptodate.com/contents/search. Accessed April 23, 2013; Micromedex. Available from http://
+www.micromedex.com/index.html. Accessed April 23, 2013; The Sanford guide to antimicrobial therapy 2012, 42nd ed. Antimicrobial Therapy Inc., Sperryville, VA, 2012; McNicholl IR, Rodriguez 
+RA. Dosing of Antiretroviral Drugs in Adults with Chronic Kidney Disease and Hemodialysis. HIVinsite. Available at. http://hivinsite.ucsf.edu/insite?page=md-rr-18 Accessed May 10, 2013; Heintz BH, 
+Matzke GR, Dager WE. Antimicrobial dosing concepts and recommendations for critically ill adult patients receiving continuous renal replacement therapy or intermittent hemodialysis. Pharmaco-
+therapy. 2009;29:562–577; Stathoulopoulou F, et al. Clinical pharmacokinetics of oral acyclovir in patients on continuous ambulatory peritoneal dialysis. Nephron. 1996;74:337. Stanford Hospital and 
+Clinics Antimicorobial Dosing Reference Guide 2013. Available at http://bugsanddrugs.stanford.edu/documents/2013SHCABXDosingGuide.pdf. Accessed April 10, 2014.
+Systemic Antibiotic, Antiviral, and Antifungal Drug Dosages for an Adult Dialysis Patient (continued)
+35.3
+TABLE
+Daugirdas9781451144291-ch035.indd   647 11/10/14   3:59 am
+Part IV / Clinical Problem Areas
+648
+bined with amoxicillin or ticarcillin. The half-life of clavulanate 
+increases from 0.75 to about 5.0 hours with renal failure, but 
+clavulanate is dialyzable. The dosing recommendations for the 
+parent antimicrobial in Table 35.3 will usually apply as well to 
+the antimicrobial–clavulanate combination.
+Ticarcillin is no longer available without clavulanate in 
+the United States or the United Kingdom. The recommended 
+dose for ticarcillin-clavulanate in patients on hemodialysis is 2 
+g of ticarcillin component every 12 hours; supplemented with 
+3.1 g (ticarcillin/clavulanate) after each dialysis session. Alter-
+natively, 2 g every 8 hours can be given without a supplemental 
+dose for severe infections (Heintz, 2009). In CRRT, ticarcillin-
+clavulanate should not be administered in intervals exceeding 
+every 8 hours. The clavulanate component is hepatically elimi-
+nated, and extending the dosing interval beyond 8 hours may 
+result in loss of beta-lactamase inhibition (Trotman, 2005). In 
+patients weighing less than 60 kg, ticarcillin-clavulanate dos-
+ing is weight based.
+In renal failure, tazobactam accumulates proportionally 
+to piperacillin, and dosing is based on the optimal piperacil-
+lin dose. Piperacillin-tazobactam should be dosed more fre-
+quently (2.25 g every 8 hours) for nosocomial pneumonia in 
+patients on hemodialysis. Piperacillin-  tazobactam is cleared 
+by all forms of CRRT. In CH (continuous hemofiltration) the 
+recommended dose is 2.25–3.375 g every 6–8 hours and in 
+CHD (continuous hemodialysis) the dose is slightly higher: 
+2.25–3.375 g every 6 hours. Treatment of resistant pathogens, 
+such as Pseudomonas, requires higher doses, and an alternate 
+dosing of 4.5 g every 8 hours has been recommended. In CRRT, 
+there is some concern of tazobactam accumulation, given its 
+lower clearance relative to piperacillin, and using piperacillin 
+alone to alternate with piperacillin-tazobactam, particularly 
+in CH-dependent patients, may minimize this concern. Ampi-
+cillin-sulbactam has similar pharmacokinetics to piperacillin-
+tazobactam, and dose adjustments are similar.
+B. Cephalosporins. Ceftriaxone is the only cephalosporin that is 
+both highly protein bound and hepatically metabolized; thus 
+no dosing adjustment is required in dialysis patients. The 
+remaining cephalosporins are excreted by the kidney to a 
+large extent (e.g., 30%–96%), and most are removed to some 
+extent by dialysis; therefore, dosage reduction is almost always 
+necessary for dialysis patients. Some of the long-acting cepha-
+losporins (e.g., cefazolin, ceftazidime) can be administered 
+thrice weekly (e.g., after each hemodialysis session in patients 
+being dialyzed three times a week). In patients on intermittent 
+hemodialysis, cefotetan should be administered at 25% of the 
+usual dose every 24 hours on days between dialysis and 50% of 
+the usual dose on the day of dialysis.
+Cefepime at a higher dose of 4 g per day can be considered 
+to treat Pseudomonas or life-threatening infections in order to 
+maximize time above the minimum inhibitory concentration 
+Daugirdas9781451144291-ch035.indd   648 11/10/14   3:59 am
+649Chapter 35 / Infections
+(MIC) (Trotman, 2005). Cefepime doses of 1 g every 8 hours 
+achieve similar steady-state concentrations as 2 g every 12 
+hours at lower costs (Heintz, 2009). Doses of 2 g every 8 hours 
+may be needed to treat infection with gram-negative rods 
+showing an MIC ≥ 4 mg/L (Heintz, 2009). Ceftaroline is the 
+newest fifth generation cephalosporin and is the only cepha -
+losporin with some activity against MRSA. It is approved for 
+treatment of skin and soft tissue infections as well as commu-
+nity-acquired pneumonia. Like others in its class, it is renally 
+cleared and requires a significant dose reduction in ESKD.
+Cephalosporins in CHD or CHDF (continuous hemodi-
+afiltration) should be dosed according to the dosing recom-
+mendations for patients with a CrCl of 30–50 mL/min. Studies 
+with ceftazadime appear to suggest CH does not remove ceph-
+alosporins as efficiently as CHD (Trotman, 2005). In CHDF, 
+ceftazadime may be given with a 2-g loading dose followed by 
+3 g over 24 hours as a continuous IV infusion to maintain con-
+centrations ≥ four times the MIC for susceptible pathogens 
+(Heintz, 2009). Not all cephalosporins have been studied in 
+CRRT; however, extrapolations on dosing can be made based 
+on antibiotics of similar pharmacokinetic and molecular prop-
+erties.
+C. Carbapenem/monobactams. Imipenem is available with cilastatin 
+as a 1:1 dosage ratio between the two compounds. Cilastatin 
+is an inhibitor of the renal dipeptidase enzyme that rapidly 
+breaks down imipenem. Cilastatin accumulates more than 
+imipenem in patients with renal failure. The half-life for cilas-
+tatin is prolonged from 1 hour to about 15 hours in renal fail-
+ure, but cilastatin is dialyzable. In CRRT, imipenem/cilastin 
+doses of 250 mg every 6 hours or 500 mg every 8 hours are rec-
+ommended, while higher doses of 500 mg every 6 hours may 
+be required for more resistant infections (Trotman, 2005).
+Ertapenem, meropenem, and doripenem are resistant to 
+renal degradation and are not given with an adjunctive dipep-
+tidase inhibitor. Ertapenem has a broad spectrum of activity, 
+covering the gram-positives, gram-negatives, and anaerobes. 
+Unlike the other carbapenems, ertapenem lacks coverage 
+against Pseudomonas and Acinetobacter . Ertapenem has the 
+advantage of once-daily dosing. The dose should be reduced 
+by 50% in patients with renal dysfunction. Meropenem has 
+similar coverage to imipenem/cilastin, and doses of 500–1,000 
+mg every 12 h ours are recommended in CRRT. Doripenem is 
+the newest carbapenem, and 52% is removed during a 4-hour 
+ hemodialysis session in ESKD  patients. The recommended 
+dose with intermittent hemodialysis is 250 mg every 24 hours; 
+however, when treating Pseudomonas, the recommended dose 
+is 500 mg every 12 hours on day 1, followed by 500 mg every 
+24 hours.
+Aztreonam is the sole monobactam antibiotic in its class 
+with gram-negative coverage only (including coverage of Pseu-
+domonas). Owing to the cost of aztreonam, this antibiotic is 
+Daugirdas9781451144291-ch035.indd   649 11/10/14   3:59 am
+Part IV / Clinical Problem Areas
+650
+typically reserved for patients who have a history of rash to 
+both penicillins and cephalosporins, or patients who have an 
+immediate-type allergy (i.e., anaphylaxis) to the penicillins. 
+For patients receiving dialysis, a loading dose of 500 mg, 1 g, 
+or 2 g, followed by 25% of the initial dose at the usual interval 
+(every 6–8 hours) should be given. For serious/life-threatening 
+infections, administer 12.5% of the initial dose after each di-
+alysis session (given in addition to the maintenance doses). 
+Alternatively, aztreonam can be dosed 500 mg every 12 hours 
+in patients on hemodialysis (Heintz, 2009).
+D. Fluoroquinolones. Moxifloxacin has better coverage against 
+gram-positive pathogens (particularly Streptococcus pneu -
+moniae) versus the older fluoroquinolones. The majority of the 
+fluoroquinolones can be administered both orally and intra -
+venously. Moxifloxacin is the only antibiotic in this class that 
+does not require dosage adjustment with intermittent hemo -
+dialysis or CRRT. Levofloxacin is removed by CH and CHDF 
+but not intermittent hemodialysis. Higher doses of ciprofloxa-
+cin may be required for CRRT. Ciprofloxacin also comes as an 
+extended-release oral formulation that is dosed once daily, is 
+not interchangeable with immediate-release formulations, 
+and is approved only for UTI. Oral and IV formulations of gati-
+floxacin were discontinued in 2006 owing to the risk of pro-
+found hypoglycemia.
+E. Colistimethate. Colistimethate (Colistin) was largely supplanted 
+by aminoglycosides 30 years ago owing to its high risk of dose-
+dependent nephrotoxicity and neurotoxicity. Recent reports 
+indicate that the incidence of acute kidney injury with colistin 
+can be as high as 60% (Kubin, 2012). However, colistin is one 
+of the few drugs that can still have activity against multidrug-
+resistant gram-negative organisms such as Pseudomonas  and 
+Acinetobacter. It is a large, highly tissue-bound molecule, and 
+dialytic removal is small. Doses should be based on ideal 
+body weight in obese patients, and recommended doses are 
+expressed in terms of colistin base. In CRRT, colistin can be 
+dosed at 2.5 mg/kg every 48 hours; however, a single case 
+report has demonstrated that the use of 2.5 mg/kg every 48 
+hours with a dialysate flow rate of 1 L/hour may be inadequate 
+and that dosing every 24 hours was well-tolerated. Based on 
+pharmacokinetic analysis, dosing as frequent as every 12 
+hours can be recommended in patients receiving CHDF (Li, 
+2005). Colistin also comes in nebulized inhalation form that 
+can be used for bronchiectasis and pulmonary colonization/
+infection in patients with cystic fibrosis.
+F. Aminoglycosides. Renal excretion of aminoglycosides is nor -
+mally > 90%, and a substantial increase in dosing interval is 
+necessary in patients with renal dysfunction. Drug removal 
+by dialysis is around 50%, requiring a postdialysis supplement 
+or addition of aminoglycoside to peritoneal dialysis solutions. 
+The therapeutic index of these agents is low, with the major 
+risk (in dialysis patients) being otovestibulotoxicity. Loss of 
+Daugirdas9781451144291-ch035.indd   650 11/10/14   3:59 am
+651Chapter 35 / Infections
+clinically important residual renal function may also occur. 
+High-dose extended interval dosing is not recommended in 
+patients with ESKD . Dosing for all aminoglycosides is based 
+on ideal body weight and adjusted body weight for obese 
+patients.
+1. Gentamicin and tobramycin
+a. Hemodialysis patients. In patients receiving hemodialysis 
+three times a week, a loading dose of 2–3 mg/kg is rec-
+ommended followed by maintenance doses accord-
+ing to indication as follows: For mild UTI or synergy  
+(making use of a synergystic effect of aminoglycoside 
+with other concomitantly administered antibiotics) , 
+1 mg/kg every 48–72 hours is recommended and 
+redosing for prehemodialysis or posthemodialysis 
+concentrations <1 mg/L should be considered. For 
+moderate-to-severe UTI, 1–1.5 mg/kg every 48–72 
+hours is recommended, and redosing for prehemodi -
+alysis concentrations < 1.5–2 mg/L or posthemodi-
+alysis concentrations <1 mg/L should be considered. 
+For systemic gram-negative rod infection, 1.5–2 mg/
+kg every 48–72 hours and redosing for prehemodialy-
+sis concentrations < 3–5 mg/L or posthemodialysis 
+concentrations <2 mg/L is recommended. Although 
+removal of gentamicin and tobramycin is primarily 
+renal, extrarenal excretion of up to 20–30 mg per day 
+has been reported in dialysis patients. Furthermore, 
+many dialysis patients have some residual renal func -
+tion, accounting for some renal drug removal. The 
+postdialysis dose will replace drug lost during hemodi-
+alysis and drug removed due to nonrenal and residual 
+renal excretion; thus, the amount of postdialysis dose 
+may vary considerably and should be adjusted on the 
+basis of the plasma drug levels achieved (see below).
+b. Peritoneal dialysis patients. The easiest strategy for treat-
+ing nonperitoneal infections in continuous ambu -
+latory peritoneal dialysis (CAPD) and automated  
+peritoneal dialysis ( APD) patients is to give the usual 
+loading dose IV and then to add 4–6 mg/L to the 
+peritoneal dialysis solution. Although the strategy is 
+simple, its efficacy and safety have not been evalu-
+ated, and there is a concern for otovestibular toxicity 
+if treatment is prolonged. An alternative strategy for 
+patients receiving CAPD or APD  would be to give the 
+usual loading dose followed by parenteral (IV or IM) 
+or intraperitoneal (IP) administration of additional 
+small doses based on serum drug levels.
+c. CRRT. CRRT effectively removes aminoglycosides. The 
+half-life of aminoglycosides in patients on CRRT is 
+around 18–60 hours. In CRRT, a loading dose of 2–3 
+mg/kg should be followed by: 1 mg/kg every 24–36 
+hours (redose when concentration <1 mg/L) for 
+Daugirdas9781451144291-ch035.indd   651 11/10/14   3:59 am
+Part IV / Clinical Problem Areas
+652
+mild UTI or synergy, 1–1.5 mg/kg every 24–36 hours 
+(redose when concentration <1.5–2 mg/L) for moder-
+ate-to-severe UTI, or 1.5–2.5 mg/kg every 24–48 hours 
+(redose when concentration <3–5 mg/L) for systemic 
+gram-negative infection. As with any aminoglyco-
+side dosing, serum drug levels should be obtained to 
+ensure therapeutic levels and avoidance of toxicity.
+G. Amikacin. The strategy for amikacin is similar to that for dosing 
+gentamicin or tobramycin; however, the loading dose should 
+be 5.0–7.5 mg/kg. Redosing is recommended when prehemo-
+dialysis concentration is <10 mg/L or when posthemodialysis 
+concentration is <6–8 mg/L (Heintz, 2009). In peritoneal dial-
+ysis patients, the recommended amount of amikacin to add 
+to the peritoneal dialysis solution was formerly 18–25 mg/L. 
+Now there has been a trend to use lower doses of amikacin 
+(e.g., for peritonitis; see Chapter 27). The recommended CRRT 
+dose for amikacin is a 10-mg/kg load with a maintenance dose 
+of 7.5 mg/kg every 24–48 hours, with further adjustment based 
+on serum drug levels. For severe gram-negative rod infections, 
+the target peak concentration is 15–30 mg/L, and redosing is 
+recommended when the concentration is <10 mg/L (Heintz, 
+2009).
+H. Streptomycin. One-half of the normal (nonuremic) dosage 
+should be administered after hemodialysis. In CAPD patients, 
+20 mg/L should be added to the dialysis solution. In CRRT, 
+administer doses every 24–72 hours and monitor levels.
+I. Monitoring of serum aminoglycoside levels.  Serum drug levels 
+should be monitored in all dialysis patients receiving ami -
+noglycosides, except perhaps those being treated with IP 
+aminoglycosides for peritonitis. Monitoring of serum ami -
+noglycoside levels is especially important in cases of serious 
+infection where maximal efficacy is of paramount importance 
+and during prolonged use where otovestibular toxicity is 
+common.
+1. Peak aminoglycoside levels. The volume of distribution 
+for aminoglycosides in dialysis patients is similar to 
+that for nonuremic patients; therefore, peak serum 
+levels should be similar to those in nonuremic patients 
+given a similar dosage with a similar trough (predose) 
+serum concentration. Ideally, peak levels should be 
+drawn 30 minutes after the end of dose infusion.
+2. Trough aminoglycoside levels. In nonuremic patients, the 
+dosing interval of the aminoglycosides is adjusted 
+based on the trough (predose) level, as trough levels 
+>2 mg/L (gentamicin, tobramycin) or 10 mg/L (ami-
+kacin) are associated with toxicity. In dialysis patients, 
+the altered pharmacokinetics of aminoglycosides 
+may lead to difficulties in dosing. For example, when 
+gentamicin is given posthemodialysis, the magni -
+tude of a subsequent predialysis level will depend on 
+the frequency of dialysis, as well as on the amount 
+Daugirdas9781451144291-ch035.indd   652 11/10/14   3:59 am
+653Chapter 35 / Infections
+administered and the gentamicin half-life. With daily 
+or even every-other-day dialysis, therapeutic peak lev-
+els of approximately 4.0–6.0 mg/L may be associated 
+with predialysis levels of >2.0 mg/L. Thus, predialysis 
+levels >2.0 mg/L may need to be accepted if therapeu-
+tic peak levels are desired. Whether predialysis levels 
+of >2.0 mg/L in a dialysis setting predispose patients 
+to otovestibulotoxicity is unknown. This may be an 
+important consideration with prolonged ( >7–10 
+days) therapy.
+Prolonged aminoglycoside therapy in peritoneal 
+dialysis patients using IP maintenance dosages will 
+result in random serum aminoglycoside levels of > 2 
+mg/L ( for gentamicin or tobramycin) or >8 mg/L for 
+amikacin. For example, the addition of 6 mg/L of gen-
+tamicin into the dialysate may result in a steady-state 
+serum level of 3–6 mg/L, which may result in otoves-
+tibulotoxicity. Recommendations include administer-
+ing IP aminoglycosides once daily only or decreasing 
+the concentration of IP aminoglycoside when pro -
+longed therapy is indicated.
+3. When the MIC is known.  When the organism is known 
+and the aminoglycoside MIC has been determined, 
+the strategy should be to achieve a peak serum drug 
+level at least four times greater than the MIC value. 
+Of course, one cannot exceed maximum safe peak 
+drug levels; however, in some instances, the MIC may 
+be quite low, allowing a reduction in aminoglycoside 
+dosage and serum drug levels without compromising 
+treatment efficacy.
+J. Macrolides and ketolides.  Erythromycin undergoes 5%–20% 
+renal excretion in nonuremic patients and requires no dosage 
+adjustment in the presence of renal insufficiency. The use of 
+erythromycin has been largely supplanted by azithromycin 
+and clarithromycin, which have a more favorable side-effect 
+profile and fewer drug–drug interactions. Clarithromycin 
+doses should be reduced by 50% in those patients with CrCl 
+<30mL/min and given after dialysis. Additional dose adjust -
+ments are necessary if coadministered with the protease 
+inhibitors atazanvir and ritonavir, which may increase the 
+serum concentration of clarithromycin. As with erythromycin, 
+azithromycin does not require dosage adjustment for inter -
+mittent hemodialysis, peritoneal dialysis, or CRRT (Heintz, 
+2009).
+The ketolides are a new class of antibiotics, similar to 
+the macrolides. To date, telithromycin is the first and only 
+agent on the market in the United States. Compared with 
+the macrolides, the ketolides have additional activity against 
+multiresistant Streptococcus pneumoniae, S. aureus (methicil-
+lin- and erythromycin-susceptible isolates only), Haemophilus 
+influenzae, Moraxella catarrhalis, Chlamydia pneumoniae, and 
+Daugirdas9781451144291-ch035.indd   653 11/10/14   3:59 am
+Part IV / Clinical Problem Areas
+654
+Mycoplasma pneumoniae. Telithromycin is currently approved 
+only for mild to moderate community-acquired pneumonia; 
+safety issues regarding hepatoxicity and fatal cases of myas-
+thenia gravis alerted the Food and Drug Administration (FDA) 
+and led them to remove prior approved indications for acute 
+bacterial sinusitis and acute bacterial exacerbations of chronic 
+bronchitis. In hemodialysis, the recommended dose is 600 mg 
+once daily, and when renal impairment is accompanied by he-
+patic impairment, the dose should be further reduced to 400 
+mg once daily.
+K. Glycopeptides. Vancomycin is useful for the treatment of severe 
+gram-positive infections in dialysis patients. As vancomycin 
+is excreted by the kidneys, dosing intervals can be substan-
+tially increased in patients with renal failure. In the past, doses 
+could be administered every 7–10 days in patients with no 
+renal excretory function since drug removal is negligible when 
+low-flux dialyzers are employed. However, now that high-flux 
+membranes are used routinely, substantial extracorporeal 
+removal of vancomycin during dialysis can be expected and 
+postdialysis supplements are needed.
+Measurement of serum drug levels is necessary to en -
+sure adequate bactericidal levels and to avoid ototoxicity. In 
+the past, target peak and trough plasma concentrations were 
+typically 30–40 and 5–10 mg/L, respectively, and a usual regi-
+men was to give a 1-g loading dose followed by 500 mg after 
+each hemodialysis session. However, these doses are frequently 
+inadequate, especially in patients with high body mass index. 
+Moreover, the development of antibiotic resistance resulting 
+in the need for higher vancomycin trough levels (15–20 mg/L) 
+has been noted (Vandecasteele and De Vriese, 2010). It is now 
+recommended that hospitalized patients with life-threatening 
+infection should receive a 25–30 mg/kg (max 2 g) loading dose 
+followed by posthemodialysis supplements guided by trough 
+levels. Posthemodialysis doses of 500–1,000 mg or 5–10 mg/kg 
+are recommended when trough levels are <10–15 mg/L (Heintz, 
+2009). An alternate strategy of redosing based on prehemodialysis 
+concentrations is as follows: if <10 mg/L, administer 1,000 mg 
+after hemodialysis; if 10–25 mg/L, administer 500–750 mg after 
+hemodialysis; and if >25 mg/L, hold vancomycin.
+Vancomycin is removed to only a minimal extent by peri-
+toneal dialysis, and dosing is similar to that for hemodialysis 
+patients. Vancomycin administration via peritoneal dialysis 
+fluid should be 15–30 mg/L of peritoneal dialysis fluid, and sys-
+temic administration for peritoneal dialysis patients is with a 
+loading dose of 1,000 mg, followed by 500–1000 mg every 48–72 
+hours with close monitoring of levels. In less ill patients who 
+are managed in the outpatient hemodialysis center, once an 
+administered posthemodialysis supplement has been shown 
+to result in a desired trough concentration (i.e., prior to the 
+next hemodialysis session), continued drug monitoring may 
+not be necessary (Pai and Pai, 2004).
+Daugirdas9781451144291-ch035.indd   654 11/10/14   3:59 am
+655Chapter 35 / Infections
+Suggested dosing for vancomycin in CRRT is as follows: 
+CH, loading dose of 15–25 mg/kg, followed by either 1,000 mg 
+every 48 hours or 10–15 mg/kg every 24–48 hours; CHD, load-
+ing dose of 15–25 mg/kg, followed by either 1,000 mg every 24 
+hours or 10–15 mg/kg every 24 hours; and CHDF, loading dose 
+of 15–25 mg/kg, followed by either 1,000 mg every 24 hours or 
+7.5–10 mg/kg every 12 hours. For all forms of CRRT, redosing 
+should be considered for vancomycin concentrations <10–15 
+mg/L. Vancomycin dosing is based on actual body weight.
+In 2009, telavancin, an IV glycopeptide with activity 
+against MRSA became available for the treatment for com -
+plicated skin infections. It exhibits concentration-dependent 
+killing and is nearly 90% protein bound. In 2013, it received 
+expanded indications for hospital-acquired and ventilator-
+associated pneumonia caused by susceptible  Staphylococcus 
+aureus. Use should be limited to situations when alternative 
+treatments are not suitable, owing to increased mortality in 
+patients with renal insufficiency treated for pneumonia with 
+telavancin compared with vancomycin (Rubinstein, 2011). 
+Black box warnings for telavancin also include the risk of new 
+onset nephrotoxicity, and potential teratogenicity. Patients 
+with baseline comorbidities or receiving concomitant medi -
+cations known to affect kidney function are particularly vul-
+nerable to nephrotoxicity. Renal adjustment is necessary in 
+patients with CrCl <50 mL/min; however, no adjustments are 
+provided by the manufacturer for patients with CrCl <10 mL/
+min or on hemodialysis owing to limited studies.
+L. Linezolid. Linezolid is predominantly metabolized by the liver 
+into two inactive metabolites. Although nearly one-third of 
+the dose is excreted unchanged by the kidneys, renal dose 
+adjustment is not required. The two primary metabolites may 
+accumulate in patients with renal impairment, but the clinical 
+significance is unknown. Monitoring for hematopoietic (e.g., 
+anemia, leukopenia, thrombocytopenia) and neuropathic 
+(e.g., peripheral neuropathy) adverse events when administer-
+ing for extended periods is recommended. If linezolid is not 
+given immediately after a dialysis session, then a supplemen -
+tal dose, especially early in the treatment course, may be con-
+sidered. However, no supplemental dose or dosage adjustment 
+for patients on intermittent hemodialysis, peritoneal dialysis, 
+or CRRT has been suggested (Heintz, 2009; Trotman, 2005).
+M. Daptomycin. Daptomcyin is a large molecule that does not 
+appear to be readily removed by dialysis or CRRT. Higher 
+doses of 6 mg/kg every 24 hours are recommended for Staphy-
+lococcal bacteremia. In obese patients, doses should be based 
+on adjusted body weight. Dose adjustments in hemodialysis 
+and CRRT used to coincide with the dose recommended for 
+patients with CrCl <30 mL/min (Trotman, 2005); however, 
+for CRRT, this dosing strategy appears to result in a low C max. 
+Thus, patients on CRRT may require 4–6 mg/kg every 24 hours 
+(or 8 mg/kg every 48 hours), depending on site or severity of 
+Daugirdas9781451144291-ch035.indd   655 11/10/14   3:59 am
+Part IV / Clinical Problem Areas
+656
+infection, and whether or not the patient is responding to 
+standard dosing (Heintz, 2009). Alternatively, in intermit -
+tent hemodialysis and peritoneal dialysis, daptomycin can be 
+dosed at 6 mg/kg after hemodialysis 3 times weekly (Salama, 
+2010). Baseline and weekly creatine phosphokinase monitor -
+ing should be performed while patients receive daptomycin in 
+view of the risk of myopathy and rhabdomyolysis.
+N. T etracyclines.  Use of tetracyclines is generally avoided in 
+patients with renal insufficiency because of the antianabolic 
+effect of these drugs; the use of tetracyclines can lead to an 
+increase in the plasma urea nitrogen level and to worsening 
+acidosis. When a tetracycline is necessary, doxycycline may be 
+used. Although doxycycline also has antianabolic effects, the 
+percentage of renal excretion for doxycycline (normally 40%) 
+is lower than that for tetracycline (60%). Doxycycline is poorly 
+removed by dialysis, and no supplemental dose or dosage 
+adjustment is necessary for patients on intermittent hemodi -
+alysis, peritoneal dialysis, or CRRT. Minocycline is minimally 
+excreted by the kidney and can be given in the usual dosages, 
+but should not exceed 200 mg per day.
+O. Glycylcyclines. Tigecycline is the first FDA–approved drug 
+from a new class of antibiotics called the glycylcyclines. It is 
+indicated for complicated skin and skin structure infections, 
+complicated intra-abdominal infections, and community-
+acquired bacterial pneumonia. Owing to a 2010 analysis show-
+ing an increased risk of death with tigecycline for approved 
+uses as well as unnapproved uses, it should be reserved for 
+situations when alternative treatments are not suitable. 
+Tigecycline is structurally similar to the  tetracyclines and is 
+derived from minocycline. It has gram- positive and gram-neg-
+ative activity as well as activity against methicillin-resistant 
+S. aureus . Tigecycline is cleared by the liver and requires no 
+renal dose adjustments in hemodialysis, peritoneal dialysis, or 
+CRRT.
+P. Diaminopyrimidines. Trimethoprim may raise serum creatinine 
+values in patients with renal impairment because of interfer -
+ence with tubular secretion of creatinine; this is not accom-
+panied by a reduction in the true glomerular filtration rate 
+(as measured by the clearance of inulin). Trimethoprim is 
+normally 80%–90% excreted by the kidney. Renal excretion 
+of sulfamethoxazole is normally 20%–30%. Trimethoprim 
+and sulfamethoxazole are removed well by hemodialysis 
+but poorly by peritoneal dialysis. For treatment of UTIs, one 
+single-strength tablet containing 80 mg of trimethoprim and 
+400 mg of sulfamethoxazole should be given twice daily. When 
+giving high-dose IV trimethoprim/sulfamethoxazole (e.g., 
+for treatment of Pneumocystis carinii  pneumonia) in dialysis 
+patients, 50% of the usual dose (the latter being 15–20 mg/kg 
+per day based on the trimethoprim component) is given as 
+divided doses every 6 to 12 hours; the incidence of leukopenia 
+may be increased when treating dialysis patients, and careful 
+Daugirdas9781451144291-ch035.indd   656 11/10/14   3:59 am
+657Chapter 35 / Infections
+monitoring is essential. In CRRT, doses of 2.5–7.5 mg/kg of tri-
+methoprim every 12 hours are recommended and are highly 
+dependent on indication. Critically ill patients with Pneumo -
+cystis carinii pneumonia receiving CHDF may require up to 10 
+mg/kg every 12 hours (Heintz, 2009).
+Q. Antituberculars. Rifampin is used in the treatment of S. aureus  
+skin exit site infections and peritonitis. Rifampin dosage does 
+not need to be adjusted in dialysis patients as the half-life 
+does not differ if dosing is less than 600 mg daily. IP dosing 
+of rifampin for treatment of peritonitis should be consid -
+ered, given the low dialysate concentration of the by mouth 
+formulation, according to the International Society for Peri -
+toneal Dialysis guidelines. The percentage of renal excretion 
+of isoniazid will vary depending on whether the patient acety-
+lates the drug slowly (renal excretion = 30%) or rapidly (renal 
+ excretion  = 7%); however, this rate does not seem to alter 
+clinical  results. Isoniazid is removed well by dialysis (50%–
+100%) and should be given postdialysis. Usually, doses are not 
+adjusted in dialysis patients because decreased renal excre-
+tion is balanced by removal during dialysis. However, some 
+authors recommend a small dosage reduction (e.g., 200 mg 
+per day rather than 300 mg per day), because accumulation 
+of isoniazid may occur in patients who are “slow acetylators” 
+receiving 300 mg per day.
+Ethambutol is largely excreted by the kidney in non-
+uremic patients. In dialyzed patients, an increase in the dosing 
+interval is required (see Table 35.3). Patients on dialysis should 
+receive the same pyrazinamide dose as patients with a CrCl 
+<30 mL/min.
+R. Antivirals. The neuraminidase inhibitors zanamivir and oselta -
+mivir are used for prophylaxis and treatment against influenza 
+A and B, whereas the adamantines, amantadine and rimanta-
+dine, are no longer recommended for use in the United States 
+for this purpose owing to high resistance rates (Fiore, 2011). 
+Amantadine can also treat parkinsonism and drug-induced 
+extrapyramidal symptoms. Amantadine should be used with 
+great caution in hemodialysis patients as excretion of aman-
+tadine is almost exclusively renal. Because of its large volume 
+of distribution, amantadine is removed very slowly by either 
+hemodialysis or peritoneal dialysis. Rimantadine is primar -
+ily metabolized by the liver, with <25% typically excreted 
+unchanged by the kidney and is not removed by hemodialysis.
+Oseltamivir requires dose adjustment for CrCl < 60 mL/
+min and requires weight-based dosing in children with renal 
+impairment. It does not appear to cause serious dose-related 
+adverse events (Aoki, 2012). Zanamivir is administered via in-
+halation; owing to the low likelihood of its systemic absorp -
+tion, renal dose adjustment is not necessary.
+Acyclovir, famciclovir, and valacyclovir all treat herpes 
+simplex and varicella-zoster infections, and require dosage 
+reduction in the presence of renal dysfunction. Failure to 
+Daugirdas9781451144291-ch035.indd   657 11/10/14   3:59 am
+Part IV / Clinical Problem Areas
+658
+ appropriately reduce the dose of acyclovir can lead to severe 
+central nervous system toxicity, particularly in CAPD patients 
+(Stathoulopoulou, 1996). In patients with residual renal func-
+tion, IV acyclovir can lead to the formation of insoluble crys -
+tals in the renal tubules, which can lead to acute kidney injury 
+(Perazella, 2003). Risk is decreased with administration of IV 
+acyclovir over 1–2 hours (Laskin, 1983). Valacyclovir is the 
+prodrug to acyclovir and offers about 55% more bioavailability 
+(Perry and Faulds, 1996). Oral famciclovir is a prodrug to pen-
+ciclovir, and the latter is available only as a topical formula-
+tion. Famciclovir provides good bioavailability, which requires 
+adjustment for renal dysfunction, and it has a similar toxicity 
+profile to acyclovir.
+Several antiviral agents are currently employed for the treat-
+ment of CMV infections and CMV prevention in transplanted 
+patients (cidofovir, foscarnet, ganciclovir, valganciclovir). Cido-
+fovir has an active metabolite with a half-life of 65 hours, thus 
+allowing for weekly dosing. It is contraindicated in patients with 
+a CrCl ≤55 mL/min (Lea and Brysom, 1996). Its most significant 
+side effect is dose-dependent nephrotoxicity that presents like a 
+Fanconi-type syndrome. The risk can be reduced by giving 1 L of 
+normal saline over 1–2 hours directly before cidofovir adminis-
+tration and giving probenecid 2 g by mouth 3 hours beforehand 
+and 1 g 2 and 8 hours following cidofovir.
+Foscarnet is primarily used in CMV-infected patients that 
+have resistance to ganciclovir. It is only available as an IV drug 
+owing to poor bioavailability of the oral formulation. Foscar -
+net is associated with a >10% incidence of renal insufficiency, 
+likely attributed to direct toxicity to renal tubular cells (Tri-
+fillis, 1993). High-flux dialysis for 2.5 hours has demonstrated 
+38% removal of foscarnet. Induction therapy with foscarnet 
+of 60–90 mg/kg post dialysis followed by maintenance doses 
+of 45–60 mg/kg, aiming at peak plasma concentrations of 
+400–800 mcmol/L has been suggested. In CRRT, dosing should 
+be the same as for patients with CrCl of 10–50 mL/min. Val -
+ganciclovir is a prodrug of ganciclovir with higher oral bio-
+availability than oral ganciclovir. Owing to ganciclovir’s poor 
+bioavailability, the IV formulation is more commonly used. The 
+manufacturer recommends that valganciclovir be avoided in 
+patients receiving hemodialysis and to consider ganciclovir, 
+instead. Patients should be closely observed for bone marrow 
+toxicity while on any of these four antivirals.
+S. Antiretrovirals. The nucleoside/nucleotide reverse transcriptase 
+inhibitors (NRTIs) were the first class of antiretrovirals avail -
+able for clinical use. Zidovudine (azidothymidine or AZT) was 
+the first NRTI to be approved for the treatment of HIV/AIDS. 
+It is predominantly hepatically metabolized to the inactive 
+glucuronide metabolite GZDV with only about 20% excreted 
+unchanged by the kidneys. In renal failure, alteration in elimi-
+nation and GZDV accumulation necessitate dosage reduction 
+Daugirdas9781451144291-ch035.indd   658 11/10/14   3:59 am
+659Chapter 35 / Infections
+(generally a 50% reduction) in order to avoid toxicity. Severe 
+granulocytopenia in ESKD  patients with 100 mg t.i.d. dosing 
+has been observed. There is no significant removal of the drug 
+or its metabolite by either hemodialysis or peritoneal dialy -
+sis. Other NRTIs (e.g., didanosine, emtricitabine, lamivudine, 
+tenofovir, stavudine) also require dosage adjustments in renal 
+failure (see Table 35.3). Abacavir is the only NRTI that does 
+not require dosage adjustment. Tenofovir has been reported 
+to cause nephrotoxicity, which could be important in patients 
+with residual renal function.
+With the exception of lopinavir/ritonavir and atazanavir, 
+none of the protease inhibitors—darunavir, fosamprenavir, 
+indinavir, nelfinavir, ritonavir, saquinavir, and tipranavir—re-
+quire dosage adjustment in patients with renal failure not on 
+hemodialysis. Pharmacokinetic evaluations of most protease 
+inhibitors in hemodialysis patients have not been conducted. 
+Studies have been performed with atazanavir, lopinavir, and 
+ritonavir that exhibit significantly lower concentrations in he-
+modialysis patients despite being hepatically cleared. Boosted 
+therapy of atazanavir 300 mg with ritonavir 100 mg once daily 
+is recommended in patients on dialysis considered antiretro -
+viral-naïve. However, atazanavir should be avoided altogether 
+in antiretroviral-experienced patients on dialysis because of 
+evidence of moderate increases in atazanvir clearance and 
+decreased exposure levels in patients managed with hemodi -
+alysis. Lopinavir/ritonavir should not be given less than twice 
+daily with hemodialysis. Caution should be exercised with pa-
+tients whose HIV virus has protease inhibitor resistance mu-
+tations as lopinavir and ritonavir levels may not be adequate 
+for viral suppression in dialysis patients. Numerous drug–drug 
+interactions with protease inhibitors exist because of their me-
+tabolism through the hepatic cytochrome P450 isoenzyme sys-
+tem, and monitoring for these interactions is warranted.
+The nonnucleoside reverse transcriptase inhibitors 
+(NNRTIs) nevirapine, delavirdine, efavirenz, and rilpivirine are 
+a heterogenous group with respect to limited renal clearance 
+(see Table 35.3). Dose adjustments for patients with chronic 
+kidney disease not on dialysis are not provided by the manufac-
+turer for nevirapine, delavirdine, and efavirenz, owing to lim -
+ited studies. A supplemental dose of 200 mg is recommended 
+for nevirapine following each dialysis session. Rilpivirine ex -
+hibits extensive protein binding, which makes significant re-
+moval by hemodialysis or peritoneal dialysis unlikely.
+Enfuvirtide belongs to a new class of antiretrovirals (i.e., 
+fusion inhibitors). This drug is reserved only for patients who 
+require salvage therapy and are resistant to all classes of anti-
+retrovirals. The use of this antiretroviral is limited by the need 
+for subcutaneous injections and the substantial cost. Dosage 
+adjustment for chronic kidney disease with enfuvirtide does 
+not appear necessary.
+Daugirdas9781451144291-ch035.indd   659 11/10/14   3:59 am
+Part IV / Clinical Problem Areas
+660
+Maraviroc is a chemokine coreceptor antagonist that 
+does not require dose adjustment in mild to moderate chronic 
+kidney disease. However, patients concomitantly receiving po-
+tent cytochrome P450-3A inhibitors or inducers and with CrCl 
+<30 mL/min should not receive maraviroc. Hemodialysis has 
+minimal effect on clearance; however, if postural hypotension 
+occurs in patients with ESKD  the maraviroc dose should be 
+reduced to 150 mg twice daily.
+Raltegravir and elvitegravir/cobicistat both work through 
+inhibiting integrase, the viral enzyme used to incorporate viral 
+DNA into the host cell. While raltegravir does not require dose 
+adjustment for mild, moderate, or severe chronic kidney dis -
+ease, elvitegravir/cobicstat used in combination with emtric-
+itabine/tenofovir should not be initiated in patients with CrCl 
+<70 mL/min, and should be discontinued in patients with 
+CrCl <50 mL/min.
+To reduce the increasing pill burden of antiretroviral regi-
+mens, several fixed-dose combinations are currently available: 
+efavirenz/emtricitabine/tenofovir, zidovudine/lamivudine, 
+rilpivirine/emtricitabine/tenofovir, abacavir/lamivudine, zi -
+dovudine/lamivudine/abacavir, and emtricitabine/tenofovir. 
+The general rule in hemodialysis is to substitute with the com-
+ponent drugs and adjust the dose of each drug separately.
+T. Antifungals. The use of amphotericin B deoxycholate (conven-
+tional amphotericin B), the standard for treatment of fungal 
+infections for decades, is limited because of its nephrotoxic-
+ity potential. Three lipid-based amphotericin B formulations 
+are FDA approved (Amphotec, Abelcet, and AmBisome) with 
+the intention of less toxicity compared with amphotericin B 
+deoxycholate. Nephrotoxicity may be a consideration with 
+prolonged use of amphotericin B in patients with residual 
+renal function. All formulations of amphotericin are not dia-
+lyzed well, and, consequently, doses do not need to be adjusted 
+for any dialysis modality.
+The systemic azole antifungals include two groups: 
+the triazoles, which encompass fluconazole, itraconazole, 
+voriconazole, and posaconazole, and the imidazole group, 
+which includes ketoconazole. Imidazoles have largely been 
+supplanted by triazoles on account of improved efficacy 
+and safety profiles, and the FDA has advised against using 
+ketoconazole as first-line therapy for fungal infections.  
+A patient’s medication profile should be reviewed carefully 
+before prescribing these agents in light of the multiple drug–
+drug interactions, particularly through the cytochrome P450 
+enzyme system.
+Posaconazole affords the broadest spectrum of activity 
+and interacts less with other drugs; however, the oral suspen-
+sion formulation has an erratic bioavailability owing to its 
+dependence on a high-fat meal. It is also available as delayed-
+release tablets, which provides an option in fasting patients. 
+Daugirdas9781451144291-ch035.indd   660 11/10/14   3:59 am
+661Chapter 35 / Infections
+An IV formulation has recently become available in April 2014, 
+but is not recommended for use in patients with CrCl <50 mL/
+min. Itraconazole and voriconazole have erratic bioavailabil -
+ity, which is improved somewhat with use of the suspension 
+formulation as opposed to the capsule. Voriconazole can also 
+exhibit decreased bioavailability when taken with high-fat 
+meals, and bioavailability is subject to variability on account 
+of genetic factors, also. Voriconazole is the gold standard for 
+the treatment of invasive aspergillosis. While oral voriconazole 
+is not dose adjusted with renal dysfunction, the IV form cannot 
+be given if a patient’s CrCl is <50 mL/min owing to the ac-
+cumulation of the vehicle cyclodextrin. The Infectious Diseases 
+Society of America Guidelines recommend drug level monitor-
+ing for itraconazole when it is being used to treat aspergillosis, 
+histoplasmosis, or blastomycosis. It is also becoming more 
+common to see the monitoring of voriconazole and posacon -
+azole drug levels, with trough recommendations between >1 
+mg/L and <5.5 mg/L, and ≥ 0.7 mg/L, respectively.
+Fluconazole has excellent bioavailability and efficacy 
+against yeast, though it has no activity against molds. The 
+only azole antifungal that requires dosage adjustment in renal 
+dysfunction is fluconazole; some will decrease the dose by 
+one-half in patients with renal dysfunction, while others will 
+extend the interval to every 48 hours while keeping the dose 
+the same. The latter may be more appropriate owing to fluco-
+nazole’s dose dependence (e.g., the higher the dose, the higher 
+the serum concentration will be above the MIC of the organ-
+ism). Fluconazole levels are not usually monitored given its 
+predictable bioavailability (Andes, 2009).
+Caspofungin, micafungin, and anidulafungin are antifun-
+gal agents belonging to a class of drugs called echinocandins. 
+This class of antifungals works on the fungal cell wall com-
+pared with the amphotericin formulations and the azole anti-
+fungals, which act on fungal cytoplasmic membranes. Benefits 
+of this drug class include effective treatment of fluconazole-
+resistant Candida glabrata  and krusei , in addition to having 
+fewer side effects relative to other antifungals. The spectrum 
+of activity of all the echinocandins is comparable, and all have 
+FDA indications for esophageal candidiasis and invasive can -
+didiasis. Moreover, all agents are administered in IV form and 
+do not need to be adjusted for renal dysfunction, although the 
+dose of caspofungin should be reduced in moderate hepatic 
+insufficiency. Unlike the azoles, echinocandins do not interact 
+significantly with the cytochrome P450 enzyme class, resulting 
+in fewer drug interactions, though monitoring of calcineurin 
+inhibitor levels is recommended when being given with caspo-
+fungin and micafungin.
+U. Postdialysis supplements.  Recommended posthemodialy -
+sis supplements are listed in Table 35.3. These should be 
+given in addition to the maintenance dosages listed. The 
+Daugirdas9781451144291-ch035.indd   661 11/10/14   3:59 am
+Part IV / Clinical Problem Areas
+662
+posthemodialysis supplements recommended here are geared 
+for a conventional, 4-hour hemodialysis treatment only. With 
+very short dialysis treatments, the amount of drug removed by 
+hemodialysis may not be substantial enough to necessitate a 
+posthemodialysis supplement, but timing of dosing so that a 
+dose is given after dialysis is recommended. In general, perito-
+neal dialysis patients can be treated with usual hemodialysis 
+patient doses. Drug dosing during CRRT has recently been 
+reviewed elsewhere (Heintz, 2009).
+References and Suggested Readings
+Agarwal SK. Hemodialysis of patients with HCV infection: isolation has a definite role. 
+Nephron Clin Pract. 2011;117:c328–c332.
+Allon M. Dialysis-catheter related bacteremia: treatment and prophylaxis. Am J Kidney 
+Dis. 2004;44:779–791.
+Andes D, et al. Antifungal therapeutic drug monitoring: established and emerging indi-
+cations. Antimicrob Agents Chemother. 2009;53:24.
+Aoki FY, et al. AMMI Canada Guidelines, “The use of antiviral drugs for influenza: 
+guidance for practitioners 2012/2013”. Can J Infect Dis Med Microbiol. 2012;23:  
+e79–e92.
+Ballantine L. Tuberculosis screening in a dialysis program. Nephrol Nurs J. 2000;27:  
+489–499; quiz 500–501.
+Bloom S, et al. Clinical and economic effects of mupirocin calcium on prevent-
+ing Staphylococcus aureus  infection in hemodialysis patients. Am J Kidney Dis. 
+1996;27:687–694.
+Bruchfeld A, et al. Pegylated interferon and ribavirin treatment for hepatitis C in 
+ haemodialysis patients. J Viral Hepat. 2006;13:316–321.
+Chapman SW , et al. Clinical practice guidelines for the management of blastomy -
+cosis: 2008 update by the Infectious Diseases Society of America. Clin Infect Dis. 
+2008;46:1801.
+Conly JM, Grieves K, Peters B. A prospective, randomized study comparing transpar -
+ent and dry gauze dressings for central venous catheters. J Infect Dis . 1989;159:  
+310–319.
+Degos F, et al. The tolerance and efficacy of interferon-alpha in haemodialysis patients 
+with HCV infection: a multicentre, prospective study. Nephrol Dial Transplant. 
+2001;16:1017–1023.
+Deray G, et al. Pharmacokinetics of 3’-azide-3 deoxy-thymidine (AZT) in a patient 
+undergoing hemodialysis. Therapie. 1989;44:405.
+Dinits-Pensy M, et al. The use of vaccines in adult patients with renal disease. Am J 
+Kidney Dis. 2005;46:997–1011.
+Esforzado N, Campistol JM. Treatment of hepatitis C in dialysis patients. Contrib 
+Nephrol. 2012;176:54–65.
+Fabrizi F, et al. Intradermal vs intramuscular vaccine against hepatitis B infection 
+in dialysis patients: a meta-analysis of randomized trials. J Viral Hepat. 2011;18:  
+730–737.
+Finelli L, et al. National surveillance of dialysis-associated diseases in the United 
+States, 2002. Semin Dial. 2005;18:52–61.
+Fiore AE, et al, Centers for Disease Control and Prevention (CDC). Antiviral agents 
+for the treatment and chemoprophylaxis of influenza—recommendations of the 
+Advisory Committee on Immunization Practices (ACIP). MMWR Recomm Rep. 
+2011;60:1.
+Gentile I, et al. Interferon-free therapies for chronic hepatitis C: toward a hepatitis C 
+virus-free world? Expert Rev Anti Infect Ther. 2014;12:763–773.
+Gordon CE, et al. Interferon for hepatitis C virus in hemodialysis—an individual 
+patient meat-analysis of factors associated with sustained virologic response. Clin 
+J Am Soc Nephrol. 2009;4:1449–1458.
+Grant J, et al. Interferon-gamma release assays are a better tuberculosis screening test 
+for hemodialysis patients: a study and review of the literature. Can J Infect Dis Med 
+Microbiol. 2012;23:114–116.
+Daugirdas9781451144291-ch035.indd   662 11/10/14   3:59 am
+663Chapter 35 / Infections
+Heintz BH, Matzke GR, Dager WE. Antimicrobial dosing concepts and recommen -
+dations for critically ill adult patients receiving continuous renal replacement 
+therapy or intermittent hemodialysis. Pharmacotherapy. 2009;29:562–577.
+Jaber BL. Bacterial infections in hemodialysis patients: pathogenesis and prevention. 
+Kidney Int. 2005;67:2508–2519.
+Kallen AJ, Jernigan JA, Patel PR. Decolonization to prevent infections with Staphylo -
+coccus aureus in patients undergoing hemodialysis: a review of current evidence. 
+Semin Dial. 2011;24:533–539.
+Kubin CJ, et al. Incidence and predictors of acute kidney injury associated with intra-
+venous polymyxin B therapy. J Infect. 2012;65:80–87.
+Laskin OL. Clinical pharmacokinetics of acyclovir. Clin Pharmacokinet. 1983;8:187.
+Lea AP , Bryson HM. Cidofovir. Drugs. 1996;52:225.
+Li J, et al. Pharmacokinetics of colistin methanesulfonate and colistin in a critically 
+ill patient receiving continuous venovenous hemodiafiltration. Antimicrob Agents 
+Chemother. 2005;49:4814–4815.
+Li, PK, et al. Peritoneal dialysis-related infections recommendations: 2010 update. Perit 
+Dial Int. 2010;30:393–423.
+Lok CE, Mokrzycki MH. Prevention and management of catheter-related infection in 
+hemodialysis patients. Kidney Int. 2011;79:587–598.
+Marr KA, et al. Catheter-related bacteremia and outcome of attempted cath-
+eter  salvage in patients undergoing hemodialysis. Ann Intern Med. 1997;127:  
+275–280.
+Masuko K, et al. Infection with hepatitis GB virus C in patients on maintenance 
+ hemodialysis. N Engl J Med. 1996;334:1485–1490.
+Messing B, et al. Antibiotic-lock technique: a new approach to optimal therapy for 
+catheter-related sepsis in home-parenteral nutrition patients. J Parenter Enteral 
+Nutr. 1988;12:185–189.
+Meyers CM, et al. Hepatitis C and renal disease: an update. Am J Kidney Dis . 
+2003;42:631–657.
+Novak JE, Szczech LA. Management of HIV-infected patients with ESRD. Adv Chronic 
+Kidney Dis. 2010;17:102–110.
+Pai AB, Pai MP . Vancomycin dosing in high flux hemodialysis: a limited-sampling 
+ algorithm. Am J Health Syst Pharm. 2004;61:1812–1816.
+Patel PR, et al. Epidemiology, surveillance, and prevention of hepatitis C virus infec-
+tions in hemodialysis patients. Am J Kidney Dis. 2010;56:371–378.
+Perazella MA. Drug-induced renal failure: update on new medications and unique 
+mechanisms of nephrotoxicity. Am J Med Sci. 2003;325:349–362.
+Perry CM, Faulds D. Valaciclovir: a review of its antiviral activity, pharmacokinetic 
+properties and therapeutic efficacy in herpesvirus infections. Drugs. 1996;52:754.
+Rubinstein E, et al. Telavancin versus vancomycin for hospital-acquired pneumonia 
+due to gram-positive pathogens. Clin Infect Dis. 2011;52:31–40.
+Rao CY, et al. Contaminated product water as the source of Phialemonium curvatum 
+bloodstream infection among patients undergoing hemodialysis. Infect Control 
+Hosp Epidemiol. 2009;30:840–847.
+Salama NN, et al. Single-dose daptomycin pharmacokinetics in chronic haemodialysis 
+patients. Nephrol Dial Transplant. 2010;25:1279–1284.
+Segall L, Covic A. Diagnosis of tuberculosis in dialysis patients: current strategies. Clin 
+J Am Soc Nephrol. 2010;5:1114–1122.
+Stathoulopoulou F, et al. Clinical pharmacokinetics of oral acyclovir in patients on 
+continuous ambulatory peritoneal dialysis. Nephron. 1996;74:337.
+Tokars JI, et al. National surveillance of hemodialysis associated diseases in the United 
+States, 2000. Semin Dial. 2002;15:162–171.
+Tong NKC, et al. Immunogenicity and safety of an adjuvanted hepatitis B vaccine in 
+pre-hemodialysis and hemodialysis patients. Kidney Int. 2005;68:2298–2303.
+Trifillis AL, et al. Use of human renal proximal tubule cell cultures for studying foscar-
+net-induced nephrotoxicity in vitro. Antimicrob Agents Chemother. 1993;37:2496.
+Trotman RL, et al. Antibiotic dosing in critically ill adult patients receiving continuous 
+renal replacement therapy. Clin Infect Dis. 2005;41:1159–1166.
+Van Geelen JA, et al. Immune response to hepatitis B vaccine in hemodialysis patients. 
+Nephron. 1987;45:216.
+Vera EM, et al. Urinalysis in the diagnosis of urinary tract infections in hemodialysis 
+patients. J Am Soc Nephrol. 2002;21:639A.
+Daugirdas9781451144291-ch035.indd   663 11/10/14   3:59 am
+Part IV / Clinical Problem Areas
+664
+Vidal L, et al. Systematic comparison of four sources of drug information regarding 
+adjustment of dose for renal function. Br J Med. 2005;331:263.
+Vistide prescribing information. Gilead Sciences, Inc., Foster City, CA, USA; 1996.
+Walsh TJ, et al. Treatment of aspergillosis: clinical practice guidelines of the Infectious 
+Diseases Society of America. Clin Infect Dis. 2008;46:327.
+Wheat LJ, et al. Clinical practice guidelines for the management of patients with his-
+toplasmosis: 2007 update by the Infectious Diseases Society of America. Clin Infect 
+Dis. 2007;45:807.
+Zampieron A, et al. European study on epidemiology and management of hepatitis 
+C virus (HCV) infection in the haemodialysis population. Part 3: prevalence and 
+incidence. EDTNA ERCA J. 2006;32:42–44.
+Daugirdas9781451144291-ch035.indd   664 11/10/14   3:59 am

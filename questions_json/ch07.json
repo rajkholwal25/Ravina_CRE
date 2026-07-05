@@ -1,0 +1,665 @@
+{
+  "chapter": 7,
+  "questions": [
+    {
+      "topic": "Catheter outcomes",
+      "question": "Compared with an arteriovenous access, chronic hemodialysis through a venous catheter is characteristically associated with which outcome?",
+      "options": {
+        "A": "Higher levels of inflammatory markers such as C-reactive protein and higher mortality",
+        "B": "Lower infection rates and lower mortality",
+        "C": "Higher achievable blood flows and urea clearance",
+        "D": "Identical survival with fewer infections"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is that catheter patients have higher inflammatory markers such as C-reactive protein and higher mortality; they also develop infections more often than patients using an AV access. Options claiming lower infection/mortality, higher achievable flows, or identical survival are wrong because catheters underperform AV accesses on every count. The chapter notes these associative risks may reflect a different patient population, risk factors arising when AV accesses fail, or a property of catheter use itself, probably all three. Clinically this is why AV access is preferred whenever it can be created."
+    },
+    {
+      "topic": "Catheter survival rates",
+      "question": "When revisions are included, venous catheter survival rates are approximately what at 6 months and 1 year?",
+      "options": {
+        "A": "90% and 80%",
+        "B": "60% and 40%",
+        "C": "40% and 20%",
+        "D": "75% and 55%"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is about 60% at 6 months and 40% at 1 year when revisions are included. The other figures (90/80, 40/20, 75/55) overstate or understate these outcomes. These relatively poor survival numbers, together with limited blood flow and higher infection rates, underscore why catheters are generally a last-resort chronic access. Knowing the 60%/40% benchmark helps a student appreciate that a catheter is not a durable long-term solution and that early planning for a fistula or graft matters."
+    },
+    {
+      "topic": "Catheter blood flow",
+      "question": "Blood flow through venous catheters is usually limited to a range closest to which value?",
+      "options": {
+        "A": "500 mL/min",
+        "B": "600 mL/min",
+        "C": "300 mL/min",
+        "D": "150 mL/min"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is about 300 mL/min. Nominal flow above 400 mL/min (actual flow around 350 mL/min) can rarely be obtained, so usually flow is limited to a range closer to 300 mL/min; values of 500, 600, or 150 mL/min do not match the text. This inadequate flow is a significant problem that limits catheter use in larger patients and produces a lower than average urea reduction ratio (URR) or fractional urea clearance (Kt/V). Recognizing this flow ceiling explains why catheter dialysis is often less efficient than AV access dialysis."
+    },
+    {
+      "topic": "Chronic catheter indications",
+      "question": "Which patient is an appropriate candidate for a venous catheter as long-term chronic vascular access?",
+      "options": {
+        "A": "A young athlete with excellent forearm vessels",
+        "B": "A patient with a newly matured AV fistula",
+        "C": "A patient recovering rapidly from acute kidney injury",
+        "D": "A morbidly obese patient in whom an AV access cannot be readily created"
+      },
+      "correct": "D",
+      "explanation": "The correct answer is the morbidly obese patient in whom an AV access cannot be readily created. Long-term catheters are reserved for patients who cannot readily get an AV access: small children, some diabetics with severe vascular disease, the morbidly obese, and those who have exhausted AV access sites. A young athlete with good vessels, a patient with a newly matured fistula, or one recovering rapidly from AKI would not need a chronic catheter. Additional indications include cardiomyopathy that cannot sustain adequate blood pressures or access flows."
+    },
+    {
+      "topic": "Elderly catheter infection",
+      "question": "Catheter infection rates in patients older than 75 years compared with younger patients are approximately what?",
+      "options": {
+        "A": "One-third as high",
+        "B": "Three times higher",
+        "C": "Essentially identical",
+        "D": "Twice as high"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is one-third as high. Infection rates with venous catheters in elderly patients over 75 years are relatively low, about one-third that seen in younger patients (Murea, 2014); so answers stating three times higher, identical, or twice as high are incorrect. This lower infection risk is part of the renewed discussion about accepting chronic catheter access in selected elderly patients with comorbidities and limited expected life span. It illustrates that risk-benefit for a catheter shifts with age and prognosis."
+    },
+    {
+      "topic": "Cuffed versus uncuffed",
+      "question": "Using an uncuffed catheter for periods beyond several weeks characteristically leads to what, making it not recommended?",
+      "options": {
+        "A": "Excessive blood flow",
+        "B": "A relatively high rate of infection",
+        "C": "Reduced central venous stenosis",
+        "D": "Improved patient survival"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is a relatively high rate of infection. Using an uncuffed catheter beyond several weeks results in a relatively high infection rate and is therefore not recommended; it does not increase flow, reduce stenosis, or improve survival. Uncuffed catheters are meant for short-term use, and the infection risk climbs markedly after the first week. This is why KDOQI advises converting to a cuffed catheter once dialysis is expected to last longer than one week, and why cuffs are used whenever prolonged use is anticipated."
+    },
+    {
+      "topic": "Catheter cuffs",
+      "question": "What is the purpose of Dacron or felt cuffs bonded to a catheter?",
+      "options": {
+        "A": "To increase achievable blood flow",
+        "B": "To make the catheter stiffer for insertion",
+        "C": "To reduce line-related infection and catheter migration",
+        "D": "To eliminate the need for anticoagulant locks"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is to reduce line-related infection and catheter migration. Dacron or felt cuffs bonded to the catheter lower the incidence of line-related infection and of catheter migration and must be used whenever longer-term use is anticipated, or when a patient will be discharged with the catheter in place. Cuffs do not increase blood flow, stiffen the catheter, or remove the need for anticoagulant locks. The cuff also becomes incorporated into subcutaneous tissue to anchor the catheter, which is why sutures at the exit site are unnecessary and discouraged."
+    },
+    {
+      "topic": "Tesio catheter system",
+      "question": "The cuffed Tesio catheter system, used primarily for chronic dialysis, is best described as which of the following?",
+      "options": {
+        "A": "A single coaxial lumen with a shared tip",
+        "B": "A rigid uncuffed temporary catheter",
+        "C": "A double-D dual-lumen catheter",
+        "D": "Two completely separate soft silicone catheters, one for inflow and one for outflow"
+      },
+      "correct": "D",
+      "explanation": "The correct answer is two completely separate soft silicone catheters, one for inflow and one for outflow. The cuffed Tesio system, used primarily for chronic dialysis, is not a single coaxial lumen, a rigid uncuffed temporary line, or a double-D dual-lumen catheter. Its two independent soft silicone catheters give greater separation of inlet and outlet, which helps limit recirculation. This contrasts with dual-lumen designs available in a double-D or side-by-side configuration, while coaxial catheters are now less frequently used."
+    },
+    {
+      "topic": "Antiseptic impregnation",
+      "question": "What is the current evidence status for dialysis catheters impregnated with antiseptic or silver-based coatings?",
+      "options": {
+        "A": "No large studies demonstrate improved outcomes with such catheters",
+        "B": "Large trials confirm markedly improved survival",
+        "C": "They are CDC-mandated for all patients",
+        "D": "They have been proven to eliminate bacteremia"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is that no large studies demonstrate improved outcomes with antiseptic- or silver-coated catheters. Some dialysis catheters or their cuffs are impregnated with antiseptic or silver-based coatings to inhibit bacterial growth, but the evidence base is lacking, so claims that trials confirm improved survival, that the CDC mandates them, or that they eliminate bacteremia are wrong. Clinically this means such coatings should not be relied upon as a substitute for proven measures like aseptic technique, chlorhexidine antisepsis, and good catheter-care protocols."
+    },
+    {
+      "topic": "Acute dialysis indications",
+      "question": "Which of the following is a recognized indication for acute venous catheter angioaccess?",
+      "options": {
+        "A": "Elective outpatient dialysis in a patient with a working graft",
+        "B": "Hemodialysis or hemoperfusion for an overdose or intoxication",
+        "C": "A stable patient with a well-functioning mature fistula",
+        "D": "A patient who declines all forms of dialysis"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is hemodialysis or hemoperfusion for an overdose or intoxication. Recognized acute indications also include acute renal failure, late-stage CKD needing urgent dialysis without mature access, maintenance patients who lost their permanent access, plasmapheresis, PD patients resting the abdomen, and transplant recipients in severe rejection. Elective dialysis with a working graft, a stable patient with a mature fistula, or a patient declining dialysis are not catheter indications. Earlier CKD referral and urgent-start PD should reduce the need for urgent catheter placement."
+    },
+    {
+      "topic": "Optimal insertion site",
+      "question": "Which insertion site is optimal for a venous dialysis catheter because the venous pathway to the right atrium is short and straight?",
+      "options": {
+        "A": "Left internal jugular vein",
+        "B": "Left femoral vein",
+        "C": "Right internal jugular vein",
+        "D": "Left subclavian vein"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is the right internal jugular vein because its venous pathway to the right atrium is relatively short and straight. The left internal jugular is a longer, twistier route; the subclavian carries high complication and stenosis rates; and femoral sites, while useful, are not the default first choice for optimal positioning. The short, straight right IJ path eases catheter advancement and tip positioning in the right atrium. This is why Table 7.1 lists the right internal jugular as the first-preference site."
+    },
+    {
+      "topic": "Subclavian site risks",
+      "question": "The subclavian site should generally be avoided partly because of which associated complication?",
+      "options": {
+        "A": "Retroperitoneal hemorrhage",
+        "B": "Femoral artery puncture",
+        "C": "Iliofemoral side-branch cannulation",
+        "D": "Central venous stenosis in up to 40% of cases"
+      },
+      "correct": "D",
+      "explanation": "The correct answer is central venous stenosis in up to 40% of cases. The subclavian site is generally avoided because of higher insertion-related complications (pneumothorax, hemothorax, subclavian artery perforation, brachial plexus injury) and a high incidence, up to 40%, of central venous stenosis. Retroperitoneal hemorrhage and femoral artery puncture belong to the femoral approach, and iliofemoral side-branch cannulation is a femoral guidewire issue. Central stenosis is especially important because it can compromise future AV access in that arm."
+    },
+    {
+      "topic": "Left internal jugular",
+      "question": "Why is the left internal jugular vein considered suboptimal for acute dialysis catheter placement?",
+      "options": {
+        "A": "It represents a relatively long and twisty pathway to the right atrium",
+        "B": "It carries the highest risk of retroperitoneal bleeding",
+        "C": "It cannot accommodate a dual-lumen catheter",
+        "D": "It has no connection to the right atrium"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is that the left internal jugular represents a relatively long and twisty pathway to the right atrium. This makes it suboptimal compared with the right IJ; it is not the highest retroperitoneal-bleed risk (that is femoral), it can accommodate a dual-lumen catheter, and it does connect to the right atrium. Beyond the awkward course, preserving the upper-extremity central veins matters because future chronic dialysis may need those vessels, and instrumentation raises the risk of central venous stenosis. Hence the left IJ is reserved for when right IJ and femoral are contraindicated."
+    },
+    {
+      "topic": "Femoral approach advantages",
+      "question": "Which is a potential advantage of the femoral vein approach for catheter insertion?",
+      "options": {
+        "A": "It eliminates any risk of arterial puncture",
+        "B": "There is no risk of pneumothorax, hemothorax, or brachial plexus injury",
+        "C": "It guarantees higher blood flow than jugular sites",
+        "D": "It prevents central venous stenosis entirely"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is that the femoral approach carries no risk of pneumothorax, hemothorax, or brachial plexus injury. Placement also tends to be simpler for inexperienced operators. It does not eliminate arterial puncture (femoral arterial puncture and retroperitoneal bleed can occur), does not guarantee higher flow than jugular sites, and does not prevent central stenosis. The femoral route is also useful for the initial treatment in acute pulmonary edema because the patient's head and chest can stay elevated during insertion."
+    },
+    {
+      "topic": "Cathedia study infection",
+      "question": "The Cathedia Study Group found what regarding infection and colonization for femoral versus internal jugular catheters?",
+      "options": {
+        "A": "Femoral catheters had far higher infection rates",
+        "B": "Jugular catheters colonized within 2 days",
+        "C": "Comparable infection rates and comparable time to tip colonization of 14 days",
+        "D": "Femoral catheters never became colonized"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is comparable infection rates and comparable time to tip colonization of 14 days for femoral versus internal jugular catheters (Dugue, 2012). Older belief held that femoral lines had higher infection risk, so answers claiming far higher femoral rates, 2-day jugular colonization, or that femoral catheters never colonize are wrong. The Cathedia Study also found similar delivered URR and Kt/V between the two sites. This 14-day median colonization time is why the KDOQI 5-day femoral limit may be considered somewhat stringent."
+    },
+    {
+      "topic": "Femoral catheter length",
+      "question": "When a femoral catheter is used, its length should usually be at least how long so the tip reaches the inferior vena cava?",
+      "options": {
+        "A": "At least 10 cm",
+        "B": "At least 15 cm",
+        "C": "At least 30 cm",
+        "D": "At least 20 cm"
+      },
+      "correct": "D",
+      "explanation": "The correct answer is at least 20 cm. Femoral catheters must be long enough, usually at least 20 cm, so the tip sits in the inferior vena cava, which permits better flow and minimizes recirculation; 10, 15, or 30 cm are not the figure given. A tip left too proximal in the iliofemoral system gives poor flow and high recirculation, undermining dialysis adequacy. This length requirement is a practical detail that distinguishes femoral from jugular lines, where a shorter catheter reaches the right atrium."
+    },
+    {
+      "topic": "Femoral infection and obesity",
+      "question": "Infection risk with femoral catheters is increased in which patient group?",
+      "options": {
+        "A": "Obese patients with a body mass index above 28 kg/m2",
+        "B": "Patients under 40 years of age",
+        "C": "Underweight patients with a low body mass index",
+        "D": "Patients with well-controlled diabetes"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is obese patients with a body mass index above 28 kg/m2. Infection risk with femoral catheters is increased in obese patients (BMI greater than 28), though the extent probably depends on body-fat distribution; young age, low BMI, and well-controlled diabetes are not cited as raising femoral infection risk. Table 7.1 reflects this by favoring the right IJ in critically ill bed-bound patients with BMI over 28 and the femoral site when BMI is under 24. Body habitus therefore guides site selection to limit infection."
+    },
+    {
+      "topic": "European site preference",
+      "question": "How does the European Best Practices Group's site preference differ from the chapter's Table 7.1 ordering?",
+      "options": {
+        "A": "It recommends subclavian as the first choice",
+        "B": "It gives second preference to the left internal jugular vein and discourages femoral catheters",
+        "C": "It prohibits use of the right internal jugular vein",
+        "D": "It recommends femoral catheters above all others"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is that the European Best Practices Group gives second preference to the left internal jugular vein and recommends femoral catheters be discouraged (Vanholder, 2010). It does not favor subclavian first, does not prohibit the right IJ, and does not put femoral above all others. This disagreement with Table 7.1, which ranks femoral second, highlights genuine practice variation. The European stance leans on infection and stenosis concerns, whereas the Cathedia data supporting femoral safety inform the more femoral-friendly ordering in the chapter."
+    },
+    {
+      "topic": "KDOQI cuffed catheter",
+      "question": "According to KDOQI 2006, a cuffed catheter should be used when the anticipated need for dialysis exceeds what duration?",
+      "options": {
+        "A": "Longer than 24 hours",
+        "B": "Longer than 3 days",
+        "C": "Longer than 1 week",
+        "D": "Longer than 1 month"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is longer than 1 week. Because uncuffed catheter infection risk rises markedly after the first week, KDOQI 2006 recommends a cuffed catheter when the anticipated dialysis need exceeds 1 week; 24 hours, 3 days, and 1 month are incorrect. Once prolonged dialysis is likely, an uncuffed internal jugular catheter can be exchanged for a cuffed one, or a cuffed catheter placed initially in the right IJ. This threshold ties directly to the sharp climb in uncuffed-line infection after seven days."
+    },
+    {
+      "topic": "Femoral catheter dwell time",
+      "question": "KDOQI recommends that femoral catheters in bed-bound patients not be left in place longer than how many days?",
+      "options": {
+        "A": "14 days",
+        "B": "21 days",
+        "C": "10 days",
+        "D": "5 days"
+      },
+      "correct": "D",
+      "explanation": "The correct answer is 5 days. KDOQI recommends that femoral catheters in bed-bound patients not remain longer than 5 days; 14, 21, and 10 days are incorrect. However, the chapter notes this may be a bit too stringent, since the Cathedia Study found a median time to catheter tip colonization of 14 days. The tension between the conservative 5-day rule and the 14-day colonization data is a good example of guideline recommendations being reassessed as newer trial evidence emerges."
+    },
+    {
+      "topic": "Cuffed tunneled femoral",
+      "question": "A claimed advantage of a cuffed tunneled femoral catheter over a standard femoral catheter is which of the following?",
+      "options": {
+        "A": "It locates the exit site away from overhanging skin folds and allows easy removal",
+        "B": "It provides permanent access with no time limit",
+        "C": "It eliminates the need for any future AV access",
+        "D": "It places the exit site directly within a skin fold"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is that a cuffed tunneled femoral catheter locates the exit site away from overhanging skin folds and allows easy removal. Removal is easy as long as it is done within several weeks of insertion. It does not give unlimited permanent access, does not remove the need for future AV access, and does not place the exit site within a skin fold. The advantage of siting the exit away from skin folds is lower infection risk, and it buys time for more definitive access, whether peritoneal or hemodialysis."
+    },
+    {
+      "topic": "Ultrasound guidance",
+      "question": "Real-time ultrasound guidance for internal jugular puncture produces which effect?",
+      "options": {
+        "A": "It increases carotid artery puncture rates",
+        "B": "It markedly increases first-attempt success and greatly reduces carotid punctures and hematoma",
+        "C": "It has no measurable effect on success rates",
+        "D": "It removes the need for sterile technique"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is that ultrasound markedly increases first-attempt success and greatly reduces carotid punctures and hematoma. Real-time ultrasound does not raise carotid puncture rates, is not without effect, and does not replace sterile technique. The central neck veins show anatomic variability and one may occasionally be absent, and atypical or ectatic carotids add risk, so direct visualization is valuable (Rabindranath, 2011). Ultrasound similarly helps in the femoral approach, where the vein often lies behind the artery."
+    },
+    {
+      "topic": "Femoral vein anatomy",
+      "question": "In the femoral approach, how does the vein-artery relationship change as one proceeds distally from the inguinal ligament?",
+      "options": {
+        "A": "The vein moves entirely away from the artery",
+        "B": "The artery disappears from view",
+        "C": "The vein, often lying behind the artery, overlaps it increasingly",
+        "D": "The vein becomes superficial to the skin"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is that the vein, often lying behind the artery, overlaps it increasingly as one moves distally from the inguinal ligament (Beaudoin, 2011). It does not move entirely away from the artery, the artery does not disappear, and the vein does not become superficial to the skin. This growing overlap raises the chance of arterial puncture with blind cannulation, which is exactly why ultrasound guidance is recommended to reduce complications in the femoral approach. Puncturing 2 to 4 cm below the inguinal ligament helps limit this overlap."
+    },
+    {
+      "topic": "Simulation training",
+      "question": "Simulation-based training for dialysis catheter insertion by nephrology fellows has been shown to do what?",
+      "options": {
+        "A": "Worsen catheter outcomes",
+        "B": "Have no effect on outcomes",
+        "C": "Replace the need for aseptic technique",
+        "D": "Improve catheter-related outcomes"
+      },
+      "correct": "D",
+      "explanation": "The correct answer is that simulation-based training improves catheter-related outcomes. Venous catheter insertion is a necessary skill for nephrology fellows, yet many programs lack resources to provide adequate training; simulation has been proposed to remedy this, and intensive simulation training has improved outcomes (Clark and Barsuk, 2014). It does not worsen or fail to affect outcomes, and it does not replace aseptic technique. This supports building structured, hands-on training into fellowship rather than relying solely on bedside experience."
+    },
+    {
+      "topic": "Aseptic insertion technique",
+      "question": "What sterile environment is recommended for venous catheter insertion?",
+      "options": {
+        "A": "A maximum barrier environment with the operator in a sterile gown and gloves",
+        "B": "Clean but nonsterile gloves only",
+        "C": "A face shield worn without a mask",
+        "D": "No draping, to improve visualization"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is a maximum barrier environment with the operator in a sterile gown and gloves. Insertion uses aseptic technique with a sterile surgical gown and gloves in a maximum barrier protection setting; nonsterile gloves only, a face shield without a mask, or omitting draping are all unacceptable. The site is cleansed with surgical scrub and draped, the ultrasound probe covered with a sterile sheath, and chlorhexidine skin antisepsis applied. These barrier precautions plus hand hygiene minimize insertion-related infection (O'Grady, 2011)."
+    },
+    {
+      "topic": "Ultrasound vein identification",
+      "question": "On ultrasound, which finding helps distinguish the internal jugular vein from the carotid artery?",
+      "options": {
+        "A": "The vein does not change with any maneuver",
+        "B": "The vein collapses with gentle probe pressure whereas the artery does not",
+        "C": "The artery collapses with probe pressure whereas the vein does not",
+        "D": "The vein has thicker, pulsatile walls"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is that the vein collapses with gentle probe pressure whereas the artery does not. The artery, being thicker-walled and higher pressure, resists compression, so options reversing this or saying the vein never changes are wrong. Additionally, the vein diameter increases with a Valsalva maneuver, which is easily seen on ultrasound. These two sonographic signs, compressibility and Valsalva distension, reliably distinguish the internal jugular vein from the carotid artery and help avoid inadvertent arterial puncture."
+    },
+    {
+      "topic": "Micropuncture needle",
+      "question": "Why is a 21G micropuncture needle preferred over a larger 18G needle for initial internal jugular puncture?",
+      "options": {
+        "A": "It is required to fit the dilator",
+        "B": "It allows faster guidewire passage only",
+        "C": "The small needle limits complications if the carotid artery is inadvertently punctured",
+        "D": "It cannot puncture an artery at all"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is that the small 21G needle limits complications if the carotid artery is inadvertently punctured, compared with a larger 18G needle. It is not required to fit the dilator, does not merely speed guidewire passage, and can still puncture an artery. Dialysis trays often include an 18G needle, but the finer 21G micropuncture needle reduces the size of any accidental arterial injury. Under direct ultrasound visualization the vein is seen to indent before the anterior wall is penetrated, and a 0.018-inch guidewire then passes through this needle."
+    },
+    {
+      "topic": "Initial guidewire size",
+      "question": "Which initial guidewire is inserted through the 21G micropuncture needle into the vein?",
+      "options": {
+        "A": "A 0.035-inch guidewire",
+        "B": "A 5-French guidewire",
+        "C": "A 0.050-inch guidewire",
+        "D": "A 0.018-inch guidewire"
+      },
+      "correct": "D",
+      "explanation": "The correct answer is a 0.018-inch guidewire. After the syringe is removed from the 21G micropuncture needle, a 0.018-inch guidewire is inserted through the needle and advanced, with position confirmed by fluoroscopy; a 0.035-inch wire, a 5-French wire, or a 0.050-inch wire do not match this step. The finer wire matches the small micropuncture needle. Later, for a temporary line, a standard 0.035-inch guidewire is advanced and progressively larger dilators are passed, illustrating a stepwise, small-to-large sequence."
+    },
+    {
+      "topic": "Guidewire in IVC",
+      "question": "Why is the guidewire passed into the inferior vena cava when dilating the deep tissues for a cuffed catheter?",
+      "options": {
+        "A": "To decrease the likelihood of cardiac arrhythmias",
+        "B": "To increase catheter blood flow",
+        "C": "To measure the femoral vein length",
+        "D": "To eliminate the need for a dilator"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is to decrease the likelihood of cardiac arrhythmias. When dilating the deep tissues for a cuffed catheter, passing the guidewire (Benson or angled glidewire) into the inferior vena cava lowers the chance of arrhythmias; it does not increase flow, measure femoral length, or remove the need for a dilator. Keeping the wire tip in the IVC rather than the right atrium avoids irritating the myocardium. The 5-French dilator is then removed and progressively larger dilators are passed, with the dilator moving freely on the wire."
+    },
+    {
+      "topic": "Cuff tunnel position",
+      "question": "When creating the tunnel for a cuffed catheter, the cuff should ideally sit at what distance from the exit site?",
+      "options": {
+        "A": "Approximately 5 to 6 cm",
+        "B": "Approximately 1 to 2 cm",
+        "C": "Exactly at the exit site",
+        "D": "At least 10 cm"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is approximately 1 to 2 cm from the exit site. The subcutaneous tunnel is fashioned so the cuff lies within it about 1 to 2 cm from the exit site; 5 to 6 cm, sitting exactly at the exit, or 10 cm are incorrect. Catheter length can be set by the fourth-rib-interspace landmark or by measuring with a guidewire from the insertion site to the mid-right atrium. Proper cuff placement lets tissue ingrowth anchor the catheter and creates a barrier against infection tracking up from the exit site."
+    },
+    {
+      "topic": "Catheter function check",
+      "question": "Adequate catheter function to deliver blood flow above 300 mL/min is confirmed when a 10-mL syringe can do what?",
+      "options": {
+        "A": "Inject saline against high resistance",
+        "B": "Aspirate only air",
+        "C": "Rapidly pull back blood without any shuttering",
+        "D": "Pull back blood only very slowly"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is that a 10-mL syringe can rapidly pull back blood without any shuttering. This confirms the catheter is capable of delivering blood flow greater than 300 mL/min; injecting against high resistance, aspirating only air, or slow pullback all indicate a problem. This bedside aspiration test is performed after the cuff is set 1 to 2 cm from the exit site and before closing the venotomy. Because catheter flow tends to plateau near 300 mL/min, verifying brisk aspiration ensures adequate dialysis delivery from the outset."
+    },
+    {
+      "topic": "Exit-site suturing",
+      "question": "Why should sutures not be placed at the catheter exit site?",
+      "options": {
+        "A": "They interfere with blood flow",
+        "B": "They cause air embolism",
+        "C": "They loosen the subcutaneous cuff",
+        "D": "They serve as a nidus for infection"
+      },
+      "correct": "D",
+      "explanation": "The correct answer is that sutures at the exit site serve as a nidus for infection. They are therefore avoided; they do not chiefly interfere with flow, cause air embolism, or loosen the cuff. Instead, the venotomy at the neck is closed with suture after confirming flow, and additional suture holds the catheter at the hub, ideally with air knots to improve comfort and reduce skin necrosis. The subcutaneous cuff, not sutures, ultimately anchors the catheter, so leaving the exit site suture-free lowers infection risk."
+    },
+    {
+      "topic": "Femoral positioning",
+      "question": "For a femoral catheter insertion, the femoral vein should be located at what distance below the inguinal ligament?",
+      "options": {
+        "A": "2 to 4 cm below the inguinal ligament",
+        "B": "6 to 8 cm below the inguinal ligament",
+        "C": "At the level of the knee",
+        "D": "Directly at the inguinal ligament"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is 2 to 4 cm below the inguinal ligament. The femoral vein is located 2 to 4 cm below the inguinal ligament using a 21G needle filled with heparinized saline or local anesthetic; 6 to 8 cm, the knee, or directly at the ligament are wrong. Puncturing at this level, rather than lower, limits the vein-behind-artery overlap that worsens distally. The patient lies flat with the knee slightly flexed and leg abducted and externally rotated, and real-time ultrasound improves the chance of a successful puncture."
+    },
+    {
+      "topic": "Arterial puncture management",
+      "question": "Arterial puncture by the initial small-gauge probing needle should be managed by which of the following?",
+      "options": {
+        "A": "Immediate catheter insertion into the artery",
+        "B": "Uninterrupted local pressure for 15 to 20 minutes",
+        "C": "Starting dialysis immediately",
+        "D": "Applying a tourniquet for 1 hour"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is uninterrupted local pressure for 15 to 20 minutes. Arterial puncture by the initial small-gauge probing needle is managed with sustained local pressure for 15 to 20 minutes, and the cannula should never be inserted into an artery. Inserting the catheter into the artery, starting dialysis, or applying an hour-long tourniquet are all wrong. Using the fine 21G probing needle limits the injury from such punctures. Prompt, uninterrupted compression prevents hematoma formation and, in the neck, avoids airway-threatening bleeding."
+    },
+    {
+      "topic": "Inadvertent arterial catheter",
+      "question": "If a dialysis catheter is inadvertently inserted into an artery, what is the appropriate management?",
+      "options": {
+        "A": "Proceed with dialysis at low blood flow",
+        "B": "Flush with heparin and leave it in place",
+        "C": "Postpone dialysis and seek surgical opinion to avoid major hematoma and tracheal compression",
+        "D": "Remove it at the bedside and discharge the patient"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is to postpone dialysis and seek a surgical opinion to avoid major hematoma and tracheal compression. If a dialysis catheter is inadvertently placed in an artery, you do not proceed at low flow, do not heparinize and leave it, and do not simply pull it at the bedside and discharge. The large-bore catheter in an artery risks serious hemorrhage, so removal is best managed surgically. In the neck, an expanding hematoma can compress the trachea, making this a potential airway emergency."
+    },
+    {
+      "topic": "Femoral bleeding complication",
+      "question": "With femoral insertions, which severe, potentially life-threatening complication can result from puncture of the artery or the back wall of the vein?",
+      "options": {
+        "A": "Pneumothorax",
+        "B": "Brachial plexus injury",
+        "C": "Recurrent laryngeal nerve injury",
+        "D": "Retroperitoneal bleeding"
+      },
+      "correct": "D",
+      "explanation": "The correct answer is retroperitoneal bleeding. With femoral insertions, retroperitoneal bleeding may be severe and life-threatening after puncture of the artery or inadvertent puncture of the back wall of the vein. Pneumothorax and brachial plexus injury belong to internal jugular and subclavian sites, and recurrent laryngeal nerve injury is also an IJ/SC complication. Retroperitoneal hemorrhage can be occult, so unexplained hypotension after a femoral attempt should raise suspicion. This risk is one reason careful, ultrasound-guided femoral puncture is advised."
+    },
+    {
+      "topic": "Cardiac perforation signs",
+      "question": "Perforation of the superior vena cava or cardiac chambers is suggested by which findings soon after commencing dialysis?",
+      "options": {
+        "A": "Unexplained chest pain, shortness of breath, or hypotension",
+        "B": "Painless swelling of both legs",
+        "C": "Isolated fever without other symptoms",
+        "D": "Gradual weight gain over several weeks"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is unexplained chest pain, shortness of breath, or hypotension soon after commencing dialysis. Perforation of the superior vena cava or cardiac chambers can be life-threatening and presents this way; painless leg swelling, isolated fever, or gradual weight gain do not fit. These symptoms may signal pericardial tamponade from a perforating catheter and can require surgical correction. Recognizing this triad early after starting dialysis on a newly placed central catheter is critical, since deterioration can be rapid."
+    },
+    {
+      "topic": "Site-specific complications",
+      "question": "Which immediate complication is specifically associated with the femoral insertion site rather than the internal jugular or subclavian sites?",
+      "options": {
+        "A": "Pneumothorax",
+        "B": "Retroperitoneal hemorrhage",
+        "C": "Pericardial tamponade",
+        "D": "Recurrent laryngeal nerve injury"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is retroperitoneal hemorrhage, which Table 7.2 lists specifically for the femoral (F) site. Pneumothorax and pericardial tamponade are internal jugular and subclavian (IJ, SC) complications, and recurrent laryngeal nerve injury is likewise an IJ/SC injury to adjacent structures. Air embolism is noted for all sites but far more with IJ and SC than femoral. Matching complications to sites helps predict and monitor for the dangers unique to each approach, guiding site choice and post-insertion surveillance."
+    },
+    {
+      "topic": "Dressing masks",
+      "question": "During catheter connect and disconnect procedures, why should a face shield not be used without a surgical mask?",
+      "options": {
+        "A": "The shield fogs and blocks vision",
+        "B": "The shield is not sterile",
+        "C": "The shield focuses the wearer's breath directly on the exposed catheter hub",
+        "D": "The shield increases air embolism risk"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is that a face shield without a surgical mask focuses the wearer's breath directly on the exposed catheter hub. During connect and disconnect procedures both staff and patient should wear surgical masks; the shield does not chiefly fog vision, is not the issue for being nonsterile, and does not itself cause air embolism. Redirecting exhaled breath onto the open hub risks contaminating the lumen. The lumen and tips must never remain open to air, and a cap or syringe should always cover the lumen."
+    },
+    {
+      "topic": "Interdialytic infusions",
+      "question": "What is the policy regarding interdialytic infusions through a dialysis catheter?",
+      "options": {
+        "A": "They are encouraged for hydration",
+        "B": "They are allowed only with antibiotics",
+        "C": "They are required to maintain patency",
+        "D": "They are forbidden because lumens must be kept sterile"
+      },
+      "correct": "D",
+      "explanation": "The correct answer is that interdialytic infusions through the catheter are forbidden because lumens must be kept sterile. They are not encouraged for hydration, not allowed with antibiotics, and not required for patency. Using the dialysis catheter for other infusions between sessions repeatedly breaches the closed sterile system and invites bloodstream infection. Between treatments the lumen is instead filled with a heparin or citrate lock, and the hub is kept capped, maintaining a clean field under the connectors at all times."
+    },
+    {
+      "topic": "Connector antisepsis",
+      "question": "After each dialysis, catheter hubs or blood line connectors should be soaked in antiseptic for how long before separation?",
+      "options": {
+        "A": "3 to 5 minutes",
+        "B": "10 to 15 seconds",
+        "C": "30 to 45 minutes",
+        "D": "About 1 hour"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is 3 to 5 minutes. After each dialysis, catheter hubs or blood line connectors should be soaked in antiseptic for 3 to 5 minutes and then dried before separation; 10 to 15 seconds, 30 to 45 minutes, and about 1 hour are incorrect. After disconnecting, the connector threads should be scrubbed with chlorhexidine. This deliberate contact time lets the antiseptic act on organisms at the hub, a key portal for catheter-related bloodstream infection, before the line is opened."
+    },
+    {
+      "topic": "Chlorhexidine antiseptic",
+      "question": "Which antiseptic solution appears to give better results for catheter care than povidone-iodine?",
+      "options": {
+        "A": "Plain sterile water",
+        "B": "Chlorhexidine-based solutions greater than 0.5%",
+        "C": "Hydrogen peroxide",
+        "D": "70% saline"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is chlorhexidine-based solutions greater than 0.5%. These appear to give better results than povidone-iodine for catheter care (Mimoz, 2007; Onder, 2009); plain water, hydrogen peroxide, and 70% saline are not the answer. The CDC core interventions likewise favor an alcohol-based chlorhexidine solution over 0.5% as the first-line skin antiseptic for line insertion and dressing changes, with povidone-iodine or 70% alcohol reserved for chlorhexidine intolerance. Superior, longer-lasting antisepsis translates into fewer bloodstream infections."
+    },
+    {
+      "topic": "Film dressings",
+      "question": "Why should nonbreathable or nonporous transparent film dressings be avoided at the catheter exit site?",
+      "options": {
+        "A": "They are more expensive than gauze",
+        "B": "They cannot be seen through",
+        "C": "They pose a greater threat of exit-site colonization than dry dressings",
+        "D": "They dissolve the catheter material"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is that nonbreathable or nonporous transparent film dressings pose a greater threat of exit-site colonization than dry dressings. They are avoided for this reason, not because of cost, opacity, or dissolving the catheter. Trapped moisture under an occlusive film promotes bacterial growth at the exit site. The CDC recommends covering the site with either sterile gauze or a sterile, transparent, semipermeable dressing, and the catheter should otherwise be covered with a sterile dry dressing; the best dressing type remains debated."
+    },
+    {
+      "topic": "Air embolism on removal",
+      "question": "Which step is part of the recommended protocol to prevent air embolism when removing a jugular venous catheter?",
+      "options": {
+        "A": "Place the patient upright and have them inhale deeply",
+        "B": "Give a full heparin bolus before removal",
+        "C": "Remove the dressing within 1 hour",
+        "D": "Position the patient head down and instruct them not to cough or inhale deeply"
+      },
+      "correct": "D",
+      "explanation": "The correct answer is to position the patient head down and instruct them not to cough or inhale deeply. Placing the patient upright with deep inhalation, giving a heparin bolus, or removing the dressing within an hour all increase risk. Because lethal air embolism has followed jugular catheter removal (Boer and Hene, 1999), the protocol also withholds heparin that day (giving protamine if already on board) and applies an air-occlusive dressing with inert ointment for an instant seal. Head-down positioning raises venous pressure to prevent air entrainment."
+    },
+    {
+      "topic": "Air embolism observation",
+      "question": "After jugular catheter removal, how long should the patient be observed and how long should the air-occlusive dressing remain in place?",
+      "options": {
+        "A": "Observed 30 minutes; air-occlusive dressing left in place at least 24 hours",
+        "B": "Observed 5 minutes; dressing removed immediately",
+        "C": "Observed 2 hours; dressing for 1 hour",
+        "D": "No observation; dressing for 6 hours"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is observe for 30 minutes and leave the air-occlusive dressing in place at least 24 hours. Shorter observation with immediate dressing removal, 2 hours with a 1-hour dressing, or no observation with a 6-hour dressing are all incorrect. These steps complete the Boer and Hene removal protocol, which also uses head-down positioning, no heparin that day, and instructions not to cough or inhale deeply. Air can enter the residual venous tract for some time, so the prolonged occlusive dressing and monitoring guard against delayed embolism."
+    },
+    {
+      "topic": "Guidewire exchange technique",
+      "question": "During internal jugular catheter exchange over a guidewire, a contrast injection through the atrial port is performed to detect which finding?",
+      "options": {
+        "A": "A pneumothorax",
+        "B": "A fibroepithelial sheath, which may warrant balloon angioplasty",
+        "C": "Retroperitoneal bleeding",
+        "D": "Air within the pleural space"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is a fibroepithelial sheath, which may warrant balloon angioplasty. During internal jugular catheter exchange over a guidewire, contrast is injected through the atrial port to detect a fibroepithelial sheath; if present, percutaneous balloon angioplasty is considered and contrast repeated to assess the result. It is not looking for pneumothorax, retroperitoneal bleeding, or pleural air. The operator also removes the outer pair of gloves before handling the new catheter to minimize transferring organisms from the old line to the new one."
+    },
+    {
+      "topic": "Showering guidance",
+      "question": "If a catheter patient showers, what is the recommended practice?",
+      "options": {
+        "A": "Shower after dialysis and leave the site uncovered",
+        "B": "Immerse the catheter fully to clean it",
+        "C": "Shower before coming to the unit, only after the exit-site sinus tract is established, then apply a new dressing and antibacterial ointment",
+        "D": "Shower during the dialysis session"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is to shower before coming to the unit, only after the exit-site sinus tract is established, then apply a new dressing and antibacterial ointment. Showering after dialysis with an uncovered site, immersing the catheter, or showering during dialysis are wrong. The exit site should never be immersed in bath water, and immersive swimming is discouraged for fear of infection. A quality study found that in selected patients showering with a no-dressing technique for tunneled catheters did not increase infection risk (Lawrence, 2014)."
+    },
+    {
+      "topic": "Heparin lock concentration",
+      "question": "After each dialysis session, the dead space of each catheter lumen is filled with heparin at what concentration range?",
+      "options": {
+        "A": "10 to 50 units/mL",
+        "B": "100 to 500 units/mL",
+        "C": "10,000 to 20,000 units/mL",
+        "D": "1,000 to 5,000 units/mL"
+      },
+      "correct": "D",
+      "explanation": "The correct answer is 1,000 to 5,000 units/mL. After each session the dead space of each lumen is filled with heparin at 1,000 to 5,000 units/mL through the injection ports; 10 to 50, 100 to 500, and 10,000 to 20,000 units/mL are incorrect. Because lock solution leaks out to the most proximal side hole, the higher 5,000 units/mL concentration can cause significant systemic anticoagulation, though one study linked it to less need for tPA (Maya, 2010). Overfilling beyond the labeled lumen volume risks bleeding, so the required volume is recorded on the chart."
+    },
+    {
+      "topic": "Citrate mechanism",
+      "question": "How does citrate function as an anticoagulant in a catheter lock solution?",
+      "options": {
+        "A": "It chelates calcium, which is essential for clotting",
+        "B": "It activates platelets",
+        "C": "It directly inhibits thrombin",
+        "D": "It dissolves fibrin"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is that citrate chelates calcium, which is essential for clotting. It does not activate platelets, directly inhibit thrombin, or dissolve fibrin. By binding calcium within the lumen, citrate prevents clot formation and can also carry antimicrobial and antibiofilm activity. A 2014 meta-analysis found citrate-based locks containing antibiotics or antiseptics outperformed heparin-containing ones for reducing CLABSI, but plain citrate beat heparin mainly at high (30%) concentration. Understanding the calcium-chelation mechanism also explains citrate's danger if it enters the systemic circulation."
+    },
+    {
+      "topic": "Citrate concentration efficacy",
+      "question": "Citrate alone was more effective than heparin at reducing bloodstream infection primarily under what condition?",
+      "options": {
+        "A": "When a 4% concentration was used",
+        "B": "When a high concentration of 30% was used",
+        "C": "Only when combined with warfarin",
+        "D": "At all concentrations equally"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is when a high concentration of 30% was used. Citrate alone was more effective than heparin primarily at 30%; at lower concentrations there seemed to be no advantage over heparin (Zhao, 2014). So 4%, combination with warfarin, or all concentrations equally are wrong. Citrate also leaks out of the lock into the circulation fairly rapidly, quickly falling below levels that inhibit bacterial growth (Schilcher, 2014). This trade-off between the efficacy of high-concentration citrate and the safety of low concentrations frames the locking-solution debate."
+    },
+    {
+      "topic": "Concentrated citrate danger",
+      "question": "Use of very high concentrations of citrate in a dialysis catheter has been associated with which fatal event?",
+      "options": {
+        "A": "Massive pulmonary embolism",
+        "B": "Air embolism",
+        "C": "Cardiac arrhythmia and death from an acutely lowered ionized calcium",
+        "D": "Retroperitoneal hemorrhage"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is cardiac arrhythmia and death from an acutely lowered ionized calcium. In the United States in 2000, very high citrate concentrations in a dialysis catheter were linked to arrhythmia and patient death, presumably from inadvertent injection of concentrated citrate into the left atrium acutely dropping ionized calcium (Polaschegg and Sodemann, 2003). It was not pulmonary embolism, air embolism, or retroperitoneal hemorrhage. Because citrate works by chelating calcium, a systemic bolus can precipitously lower ionized calcium, which is why the lowest concentration is preferred."
+    },
+    {
+      "topic": "Recommended citrate concentration",
+      "question": "What citrate concentration is considered prudent for a locking solution, recognizing its efficacy alone may be no better than heparin?",
+      "options": {
+        "A": "30% citrate",
+        "B": "15% citrate",
+        "C": "46.7% citrate",
+        "D": "The lowest concentration, 4% citrate"
+      },
+      "correct": "D",
+      "explanation": "The correct answer is the lowest concentration, 4% citrate. It is prudent to use 4% citrate, recognizing its efficacy alone at this concentration may be no better than heparin; 30%, 15%, and 46.7% are not recommended for routine locking. This choice reflects the fatal arrhythmia risk seen with concentrated citrate reaching the circulation. Citrate use at any concentration is also problematic in countries such as the United States where it is not conveniently available in small locking volumes, further limiting its practical adoption."
+    },
+    {
+      "topic": "Antibiotic lock recommendations",
+      "question": "What is the current position of the CDC and the US National Kidney Foundation on routine antibiotic-containing lock solutions?",
+      "options": {
+        "A": "Neither recommends the routine use of antibiotic-containing locks",
+        "B": "Both mandate their routine use",
+        "C": "Only the CDC recommends them routinely",
+        "D": "Both have banned them entirely"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is that neither the CDC nor the US National Kidney Foundation recommends routine antibiotic-containing locks (Camins, 2013), while the European Best Practices Group is somewhat equivocal. They neither mandate nor ban them, and it is not only the CDC endorsing them. Antibiotic locks have not become mainstream because of added cost, compounding issues, and fear of promoting resistance; one vancomycin-gentamicin lock increased Staphylococcus and antibiotic-resistant Enterobacter (Dixon, 2012). Research continues into locks that also fight biofilm, such as taurolidine-citrate."
+    },
+    {
+      "topic": "Mupirocin exit-site ointment",
+      "question": "Mupirocin exit-site ointment reduces the catheter infection rate, but why is it not widely used?",
+      "options": {
+        "A": "It has no effect on Staphylococcus colonization",
+        "B": "Of fear of long-term emergence of mupirocin-resistant organisms",
+        "C": "It is prohibitively toxic to skin",
+        "D": "It increases the catheter infection rate"
+      },
+      "correct": "B",
+      "explanation": "The correct answer is fear of long-term emergence of mupirocin-resistant organisms. Mupirocin exit-site ointment lowers Staphylococcus colonization, reduces the catheter infection rate, and increases catheter survival (McCann and Moore, 2010; O'Grady, 2011), so it is not ineffective, toxic, or infection-promoting; the barrier is resistance. The CDC recommends exit-site ointments but shares this resistance concern, and the European group advises using it only until the insertion site heals. One intermediate strategy limits mupirocin to patients with repeated infection episodes."
+    },
+    {
+      "topic": "Nasal decolonization",
+      "question": "In patients harboring Staphylococcus in the nose, nasal decolonization has been shown to do what?",
+      "options": {
+        "A": "Increase the rate of CLABSI",
+        "B": "Have no effect on bloodstream infection",
+        "C": "Reduce the rate of CLABSI, though the concern of mupirocin resistance remains",
+        "D": "Permanently eradicate all nasal carriage"
+      },
+      "correct": "C",
+      "explanation": "The correct answer is that nasal decolonization reduces the rate of CLABSI in Staphylococcus carriers, though the specter of mupirocin resistance remains. It does not increase CLABSI, is not without effect, and does not permanently eradicate carriage (Abad, 2013; Teo, 2011). Treating nasal Staphylococcus removes a reservoir that seeds catheter bloodstream infections. This is more attractive in selected carriers than for a whole unit, though decolonization of multidrug-resistant S. aureus has been applied unit-wide with encouraging short-term results (Kang, 2012)."
+    }
+  ]
+}

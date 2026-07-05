@@ -1,0 +1,665 @@
+{
+ "chapter": 16,
+ "questions": [
+  {
+   "topic": "HD regimen definitions",
+   "question": "Conventional hemodialysis is best defined as sessions lasting approximately 3 to 5 hours given at what frequency?",
+   "options": {
+    "A": "3 times per week",
+    "B": "Every other day",
+    "C": "5 to 7 times per week",
+    "D": "Once nightly"
+   },
+   "correct": "A",
+   "explanation": "The chapter classifies conventional HD as 3-5 hour sessions given 3 times per week, making A correct. This distinguishes it from frequent HD (5-7 sessions/week, option C) and from long-session or every-other-day regimens (option B). 'Once nightly' (D) evokes nocturnal HD, a long frequent form done at night. Recognizing these categories matters because intensified regimens, either more frequent or longer, are proposed to improve extracellular fluid volume, blood pressure, LV mass, phosphate, and quality of life compared with the conventional thrice-weekly baseline."
+  },
+  {
+   "topic": "Frequent HD categories",
+   "question": "Within the frequent hemodialysis category (5-7 sessions per week), 'frequent short' sessions are characterized by which duration?",
+   "options": {
+    "A": "3 to 5 hours",
+    "B": "1.5 to 3 hours",
+    "C": "Greater than 5 hours",
+    "D": "6 to 10 hours"
+   },
+   "correct": "B",
+   "explanation": "Frequent HD means 5-7 sessions per week and is subdivided by duration: frequent short is 1.5-3 hours (B, correct), frequent standard is 3-5 hours (A), and frequent long is greater than 5 hours (C). Option D, 6-10 hours, is the typical duration of nocturnal HD, a long frequent regimen. Short and standard frequent HD are collectively called daily HD (DHD), while frequent long sessions done at night are nocturnal HD (NHD). Knowing these boundaries helps match session length and frequency to a patient's clearance and ultrafiltration needs."
+  },
+  {
+   "topic": "Nocturnal HD terminology",
+   "question": "Long, frequent hemodialysis typically performed at night is referred to by which abbreviation?",
+   "options": {
+    "A": "PD",
+    "B": "SDHD",
+    "C": "NHD",
+    "D": "DHD"
+   },
+   "correct": "C",
+   "explanation": "Long, frequent HD is usually performed at night and is termed frequent nocturnal HD, so NHD (C) is correct. By contrast, short and standard frequent HD are collectively called daily HD (DHD, option D). PD (A) is peritoneal dialysis, a different modality, and SDHD (B) denotes short daily HD, a frequent-short regimen done during the day. NHD typically runs 6-10 hours, three or more nights weekly, and because clearance is high it permits lower blood and dialysate flows with single-needle access."
+  },
+  {
+   "topic": "Modality selection",
+   "question": "According to the guiding principles for modality selection, which patients should preferentially receive frequent nocturnal hemodialysis?",
+   "options": {
+    "A": "Patients unwilling to self-cannulate",
+    "B": "Elderly patients with dementia",
+    "C": "Patients with uncontrolled seizures",
+    "D": "Patients seeking pregnancy"
+   },
+   "correct": "D",
+   "explanation": "Among the guiding principles, patients seeking pregnancy should preferentially receive frequent NHD, making D correct. The other options are barriers or contraindications, not indications for intensive home therapy: unwillingness to self-cannulate (A) and dementia (B) are functional barriers to home HD, and uncontrolled seizures (C) are a relative contraindication. The rationale is that longer, more frequent dialysis provides the enhanced clearance and volume control that support a successful pregnancy, which conventional thrice-weekly HD often cannot achieve."
+  },
+  {
+   "topic": "Home modality promotion",
+   "question": "Where medically appropriate and feasible, how should home modalities be positioned relative to other therapies when transplantation is not imminent?",
+   "options": {
+    "A": "As first-line therapies",
+    "B": "As last-resort therapies",
+    "C": "Only after conventional in-center HD fails",
+    "D": "Only for patients under 40 years"
+   },
+   "correct": "A",
+   "explanation": "The principles state that where medically appropriate and feasible, home modalities including PD should be promoted as first-line therapies when transplantation is not imminent, so A is correct. This contradicts options B and C, which frame home HD as a last resort or only after in-center HD fails. There is no age cutoff of 40 (D), and multiple or severe comorbidities are not contraindications. Home modalities are favored for the independence, self-scheduling, and more liberal diet they allow, which likely improve quality of life."
+  },
+  {
+   "topic": "Interdialytic interval",
+   "question": "For home HD scheduling, what lower boundary for treatment frequency is recommended to avoid a 3-day interdialytic interval?",
+   "options": {
+    "A": "Once weekly",
+    "B": "Every other day",
+    "C": "Twice weekly",
+    "D": "Six times weekly"
+   },
+   "correct": "B",
+   "explanation": "The authors recommend avoiding a 3-day interdialytic interval and set a lower boundary of every other day for home HD, so B is correct. Once weekly (A) and twice weekly (C) would create even longer gaps and are inadequate. Six times weekly (D) exceeds the minimum but is not the stated lower boundary. This recommendation stems from observational data showing mortality peaks after the long weekend gap in thrice-weekly patients, attributed to greater fluid removal needs and the buildup of uremic toxins such as potassium."
+  },
+  {
+   "topic": "Home HD prevalence",
+   "question": "Reported prevalent rates of home hemodialysis in most jurisdictions are generally in what range?",
+   "options": {
+    "A": "25% to 30%",
+    "B": "10% to 20%",
+    "C": "Less than 5%",
+    "D": "Around 50%"
+   },
+   "correct": "C",
+   "explanation": "Reported prevalent home HD rates are generally less than 5% in most jurisdictions, so C is correct, though the chapter notes they reach as high as 15% in some places. The higher figures in options A, B, and D (25-30%, 10-20%, and about 50%) overstate real-world uptake. Provider and patient preferences, decreasing costs of equipment and consumables, new funding models, and more user-friendly technology are cited as facilitating factors that may raise these low prevalence rates over time."
+  },
+  {
+   "topic": "Home HD prerequisite",
+   "question": "What is described as the primary prerequisite for home hemodialysis?",
+   "options": {
+    "A": "A functioning arteriovenous fistula",
+    "B": "Residence within 10 miles of a dialysis center",
+    "C": "Absence of any comorbidities",
+    "D": "A willing patient or partner able to learn to safely perform dialysis"
+   },
+   "correct": "D",
+   "explanation": "The primary prerequisite for home HD is a willing patient or partner able to learn to safely perform the procedure, so D is correct. A functioning fistula (A) is preferred access but not the primary requirement, since catheters can be used. There is no 10-mile residency rule (B), and multiple or severe comorbidities are explicitly NOT contraindications (C). The emphasis on willingness and learning ability reflects that safe self-care, cannulation, and alarm response are what make unsupervised home treatment feasible."
+  },
+  {
+   "topic": "Relative contraindications",
+   "question": "Which of the following is listed as a relative contraindication to home hemodialysis?",
+   "options": {
+    "A": "Uncontrolled seizures",
+    "B": "Presence of an arteriovenous graft",
+    "C": "Prior peritoneal dialysis",
+    "D": "Age over 65 years"
+   },
+   "correct": "A",
+   "explanation": "Uncontrolled seizures are listed as a relative contraindication to home HD (A), alongside hypoglycemia, noncompliance with medical care, and significant intradialytic hemodynamic instability requiring frequent nursing intervention. An AV graft (B) is an accepted access, prior PD (C) is actually a situation where home HD should be considered, and age over 65 (D) is not a contraindication. These conditions are cautions rather than absolute bars because they raise the risk of an unsupervised catastrophic event during home treatment."
+  },
+  {
+   "topic": "Home environment assessment",
+   "question": "When a renal technologist assesses a home for suitability, which set of factors is the focus?",
+   "options": {
+    "A": "Room temperature, lighting, flooring, and paint",
+    "B": "Water quantity/quality, electrical supply, storage space, and cleanliness",
+    "C": "Internet speed, phone signal, and cable service",
+    "D": "Proximity to a hospital and pharmacy"
+   },
+   "correct": "B",
+   "explanation": "A renal technologist assesses the home focusing on water quantity and quality, electrical supply, storage space, and cleanliness, so B is correct. The other option sets (room temperature and paint, internet and phone signal, or proximity to a hospital) are not the technologist's structured focus. These factors rarely pose insurmountable barriers, but the patient must understand the changes needed; local building codes should be followed and landlord permission may be required before altering plumbing or electrical infrastructure."
+  },
+  {
+   "topic": "In-center HD reasons",
+   "question": "Which of the following is a reason cited for choosing in-center over home-based HD?",
+   "options": {
+    "A": "Desire for a more liberal diet",
+    "B": "Preference for nocturnal treatment",
+    "C": "Vascular access or cannulation problems",
+    "D": "Availability of a willing home partner"
+   },
+   "correct": "C",
+   "explanation": "Reasons for choosing in-center over home HD include patient safety concerns, vascular access or cannulation problems (C, correct), inability or unwillingness of patient or partner to perform HD, an unsuitable home environment, and patient preference. Options A and B (desire for a liberal diet, preference for nocturnal treatment) are advantages that favor home therapy, and a willing home partner (D) supports home HD rather than pushing toward in-center care. Cannulation difficulty is a real barrier because home patients must reliably self-access."
+  },
+  {
+   "topic": "Long thrice-weekly HD",
+   "question": "Long, thrice-weekly daytime in-center hemodialysis is described as common in which country?",
+   "options": {
+    "A": "India",
+    "B": "Japan",
+    "C": "Brazil",
+    "D": "France"
+   },
+   "correct": "D",
+   "explanation": "Long, thrice-weekly, in-center daytime HD is described as common in France (D). Long thrice-weekly HD at night is becoming increasingly available in the United States, but that is nocturnal, not daytime, and long frequent NHD is not usually done in-center. India, Japan, and Brazil are not named for this practice. The landmark Tassin (France) experience of 8-hour thrice-weekly sessions showed marked improvements in survival, blood pressure, and phosphate control, underpinning interest in long-session dialysis."
+  },
+  {
+   "topic": "Home HD training",
+   "question": "For a patient without prior HD experience, one-on-one training with an experienced nurse is typically required for at least how long to become safe and proficient?",
+   "options": {
+    "A": "6 weeks",
+    "B": "3 weeks",
+    "C": "1 week",
+    "D": "6 months"
+   },
+   "correct": "A",
+   "explanation": "Without prior HD experience, patients typically need one-on-one training with an experienced nurse for at least 6 weeks to become safe and proficient, so A is correct. Shorter periods of 3 weeks or 1 week (B, C) are insufficient for the naive patient, while 6 months (D) overstates it; patients with prior self-care HD experience need less time. Training covers the dialysis procedure, blood access, and troubleshooting, and many programs require annual recertification to confirm continued competence."
+  },
+  {
+   "topic": "Recertification",
+   "question": "Many home HD programs require patients to demonstrate correct performance of dialysis and troubleshooting at what interval?",
+   "options": {
+    "A": "Weekly",
+    "B": "Annually",
+    "C": "Monthly",
+    "D": "Every 5 years"
+   },
+   "correct": "B",
+   "explanation": "Many home HD programs require patients to recertify annually by demonstrating in the training unit that they can correctly perform dialysis, manage blood access, and troubleshoot effectively, so B is correct. Weekly or monthly recertification (A, C) would be impractically frequent, and every 5 years (D) is too infrequent to catch skill drift. Annual recertification is a safety mechanism that ensures self-care competence, which is central to safe home treatment, is maintained over time."
+  },
+  {
+   "topic": "Vascular access preference",
+   "question": "The Canadian Society of Nephrology guidelines for intensive HD recommend which vascular access over catheters, primarily due to lower infection risk?",
+   "options": {
+    "A": "Nontunneled temporary catheters",
+    "B": "Tunneled cuffed catheters",
+    "C": "Arteriovenous fistulae and grafts",
+    "D": "Femoral catheters"
+   },
+   "correct": "C",
+   "explanation": "The CSN guidelines for intensive HD recommend AV fistulae and grafts over catheters because of lower infection risk (C), a conditional and weak recommendation based on very low quality evidence. Nontunneled temporary, tunneled cuffed, and femoral catheters (A, B, D) all carry higher infection risk. The guideline acknowledges that the technical demands of cannulation can be a barrier to home HD, which is one reason the easier-to-learn buttonhole technique became popular for fistula access."
+  },
+  {
+   "topic": "Buttonhole cannulation",
+   "question": "The buttonhole cannulation technique involves recannulation of precisely the same sites using what type of needles?",
+   "options": {
+    "A": "Sharp needles",
+    "B": "Peripheral IV catheters",
+    "C": "Winged steel needles",
+    "D": "Blunt needles"
+   },
+   "correct": "D",
+   "explanation": "Buttonhole cannulation involves recannulating precisely the same two sites, or pairs of sites, with blunt needles, so D is correct. Sharp needles (A) are used in the rope-ladder, or rotating-site, method rather than an established buttonhole track; peripheral IV catheters (B) and winged steel needles (C) are not the technique's defining tools. Buttonhole may be easier for patients to learn than rope-ladder, but it carries higher Staphylococcus aureus bacteremia risk, so guidelines pair it with topical mupirocin prophylaxis."
+  },
+  {
+   "topic": "Buttonhole infection risk",
+   "question": "Because buttonhole cannulation may increase Staphylococcus aureus bacteremia, CSN guidelines recommend combining it with topical prophylaxis using which agent?",
+   "options": {
+    "A": "Mupirocin",
+    "B": "Vancomycin",
+    "C": "Chlorhexidine gluconate only",
+    "D": "Neomycin"
+   },
+   "correct": "A",
+   "explanation": "Because buttonhole cannulation may raise Staphylococcus aureus bacteremia rates, CSN guidelines recommend combining it with topical antimicrobial prophylaxis using mupirocin (A), a conditional and weak recommendation. Vancomycin (B) is a systemic agent, not the recommended topical prophylaxis; chlorhexidine gluconate alone (C) and neomycin (D) are not what the chapter specifies. The mupirocin recommendation directly addresses the elevated S. aureus risk documented with buttonhole access in home HD cohorts."
+  },
+  {
+   "topic": "NHD access flows",
+   "question": "For nocturnal hemodialysis, where high dialysis efficiency is not required, what low blood flow and needle configuration are sufficient?",
+   "options": {
+    "A": "400-500 mL/min with double needles",
+    "B": "200-250 mL/min with a single needle",
+    "C": "600 mL/min with a single needle",
+    "D": "100 mL/min with a catheter only"
+   },
+   "correct": "B",
+   "explanation": "For nocturnal HD, where high dialysis efficiency is not required, low blood flows of 200-250 mL/min with a single needle are sufficient (B). Higher flows of 400-500 mL/min with double needles (A) or 600 mL/min (C) belong to short daily HD, which needs greater per-session clearance. A catheter-only 100 mL/min approach (D) is too low. The extended nightly treatment time compensates for the lower flow, and single-needle access also reduces bleeding risk if a line disconnects during sleep."
+  },
+  {
+   "topic": "Dialysis membranes",
+   "question": "What does the chapter state regarding the choice of dialysis membrane in home HD?",
+   "options": {
+    "A": "Low-flux membranes are mandated",
+    "B": "Only cellulose membranes are permitted",
+    "C": "There are no data supporting one membrane over another, though most centers use high-flux",
+    "D": "Membrane choice must match body surface area exactly"
+   },
+   "correct": "C",
+   "explanation": "The chapter states there are no data supporting one dialysis membrane over another in home HD, though most centers report using high-flux dialyzers, making C correct. Low-flux membranes are not mandated (A), cellulose membranes are not the only permitted type (B), and there is no rule that membrane choice match body surface area (D). Low dialyzer surface area can even be acceptable for long HD. Dialyzer reuse was described historically but has largely been abandoned as membrane prices fell."
+  },
+  {
+   "topic": "Closed connector devices",
+   "question": "A closed connector device is recommended for which situation to prevent air embolization and bleeding from accidental tubing disconnection?",
+   "options": {
+    "A": "Whenever blood flow exceeds 500 mL/min",
+    "B": "For all short daily HD sessions",
+    "C": "Only when using synthetic grafts",
+    "D": "When the patient performs dialysis while asleep"
+   },
+   "correct": "D",
+   "explanation": "A closed connector device is recommended when the patient performs dialysis while asleep (D), a conditional and weak recommendation, to prevent air embolization and bleeding from accidental disconnection of tubing from the catheter. It is not triggered by a specific blood flow (A), required for all short daily sessions (B), or limited to synthetic grafts (C). These devices are catheter caps with a slit diaphragm that allow flow while in place and are replaced weekly to monthly. During unmonitored sleep, an undetected disconnection is especially dangerous."
+  },
+  {
+   "topic": "InterLink connector",
+   "question": "The InterLink connector system is noted to be usable only for long HD because at higher pump speeds it causes what problem?",
+   "options": {
+    "A": "Increased arterial and venous pressures",
+    "B": "Excessive heparin consumption",
+    "C": "Dialysate contamination",
+    "D": "Loss of ultrafiltration control"
+   },
+   "correct": "A",
+   "explanation": "The InterLink System can be used only for long HD because at the higher pump speeds used in other regimens it produces increased arterial and venous pressures (A). It does not cause excessive heparin consumption (B), dialysate contamination (C), or loss of ultrafiltration control (D). Long HD uses lower blood flows, so the added resistance is tolerable. By contrast, the TEGO connector offers less resistance to flow and works at higher blood flow rates, making it suitable across more regimens."
+  },
+  {
+   "topic": "Single-needle safety",
+   "question": "Why is single-needle dialysis considered a safer option for frequent nocturnal HD performed at home?",
+   "options": {
+    "A": "It eliminates the need for anticoagulation",
+    "B": "Bleeding after disconnection is restricted to flow from the fistula/catheter rather than via the blood pump",
+    "C": "It increases solute clearance substantially",
+    "D": "It removes the need for moisture detectors"
+   },
+   "correct": "B",
+   "explanation": "Single-needle dialysis is safer for home NHD because if the line disconnects, bleeding is restricted to flow from the fistula or catheter rather than being actively driven by the blood pump (B). It does not eliminate anticoagulation (A), and it actually slightly reduces rather than increases clearance (C), which is acceptable given the long nightly treatment time. It does not remove the need for moisture detectors (D). For unmonitored nocturnal dialysis, limiting pump-driven blood loss is a key safety advantage."
+  },
+  {
+   "topic": "Remote monitoring",
+   "question": "Real-time remote monitoring of a home HD machine is typically considered for which regimen?",
+   "options": {
+    "A": "Short daily HD only",
+    "B": "Conventional in-center HD",
+    "C": "Nocturnal HD",
+    "D": "Peritoneal dialysis"
+   },
+   "correct": "C",
+   "explanation": "Real-time remote monitoring is typically considered only for nocturnal HD (C), using a modem or high-speed Internet link to detect technical problems and alarms such as air and blood leaks and to track treatment adherence. It is not routine for short daily HD (A), conventional in-center HD (B), or peritoneal dialysis (D). Some jurisdictions such as New York mandate live monitoring; many programs use it only for the first 3 months of home NHD, and some not at all. Its value is largely reassurance, since it is unproven to prevent catastrophes."
+  },
+  {
+   "topic": "Support staff roles",
+   "question": "In home HD infrastructure, which personnel are primarily responsible for machine maintenance and monitoring water quality?",
+   "options": {
+    "A": "Nurses",
+    "B": "Social workers",
+    "C": "Physicians",
+    "D": "Technicians"
+   },
+   "correct": "D",
+   "explanation": "Technicians are primarily responsible for machine maintenance and monitoring water quality, so D is correct. Nurses (A) handle assessment, training, telephone follow-up and troubleshooting, ordering of supplies, and home visits. Physicians (C) oversee medical care, and social workers (B) are not assigned these technical tasks. Biomedical engineering personnel help develop local policies for equipment installation and maintenance. Clear role division ensures both the clinical and technical demands of home HD are reliably covered."
+  },
+  {
+   "topic": "Water quality testing",
+   "question": "For rural water supplies used in home HD, which additional test is specifically required beyond endotoxins, minerals, and chloramines?",
+   "options": {
+    "A": "Coliform bacteria",
+    "B": "Fluoride concentration",
+    "C": "Radon levels",
+    "D": "Water hardness only"
+   },
+   "correct": "A",
+   "explanation": "Rural water supplies must additionally be tested for coliform bacteria (A), beyond the endotoxins, mineral content, and chloramines quantified for any source. Fluoride concentration (B), radon levels (C), and water hardness alone (D) are not the specified rural requirement. Water quality should be assessed regardless of source and must meet international purity standards. This matters especially for NHD, where dialysate exposure of roughly 108-144 L per session can compound the effects of inferior water quality."
+  },
+  {
+   "topic": "NxStage System One",
+   "question": "The NxStage System One differs from other home HD devices in which key respect?",
+   "options": {
+    "A": "It uses very high dialysate flow rates",
+    "B": "It uses a lower dialysate flow rate with prefilled dialysate bags and a cartridge-based setup",
+    "C": "It requires extensive home renovations",
+    "D": "It cannot be used while traveling"
+   },
+   "correct": "B",
+   "explanation": "The NxStage System One differs by using a lower dialysate flow rate with prefilled dialysate bags plus a cartridge-based dialyzer and tubing setup (B). It does not use very high dialysate flows (A); it actually requires fewer or no home renovations (C) and is transportable for travel (D). Its lactate-based dialysate comes in ready-made 5-L bags or is produced by the PureFlow system in volumes of 15-60 L. The water needed roughly equals the dialysate volume, and low-molecular-weight heparin or an external pump provides anticoagulation."
+  },
+  {
+   "topic": "NxStage dialysate flow",
+   "question": "What is a stated present limitation of the NxStage device regarding dialysate flow?",
+   "options": {
+    "A": "It cannot deliver bicarbonate dialysate",
+    "B": "A minimum dialysate flow of 800 mL/min",
+    "C": "A maximal dialysate flow rate of 200 mL/min",
+    "D": "It requires flows above 500 mL/min"
+   },
+   "correct": "C",
+   "explanation": "A stated present limitation of the NxStage device is a maximal dialysate flow rate of 200 mL/min (C). The claim about bicarbonate (A) is not the flow-related limitation asked about; the device uses lactate-based dialysate. It does not require an 800 mL/min minimum (B) or flows above 500 mL/min (D). The low dialysate flow reflects its prefilled-bag design and constrains per-session clearance, which is why the clinical significance of low dialysate flow is addressed in the adequacy and dose section of the chapter."
+  },
+  {
+   "topic": "Phosphate removal kinetics",
+   "question": "Weekly phosphate removal depends primarily on which factor, given that intradialytic phosphate falls precipitously in the first hour then plateaus?",
+   "options": {
+    "A": "Number of needles used",
+    "B": "Blood flow rate alone",
+    "C": "Dialysate calcium concentration",
+    "D": "Total weekly dialysis time"
+   },
+   "correct": "D",
+   "explanation": "Because intradialytic phosphate falls precipitously in the first hour then plateaus, weekly phosphate removal depends primarily on total weekly dialysis time (D). Number of needles (A) and blood flow rate alone (B) do not govern it, and dialysate calcium concentration (C) is unrelated to phosphate clearance. This kinetic behavior resembles that of poorly dialyzed middle molecules, whose plasma concentration changes little during a session, so distributing the same weekly time over more frequent sessions offers only limited additional phosphate removal."
+  },
+  {
+   "topic": "Frequency and urea",
+   "question": "For solutes such as urea, prolongation of a single dialysis session beyond how many hours is of limited benefit, favoring distribution over more frequent sessions?",
+   "options": {
+    "A": "4 hours",
+    "B": "2 hours",
+    "C": "6 hours",
+    "D": "8 hours"
+   },
+   "correct": "A",
+   "explanation": "For urea, plasma concentration keeps falling as a session progresses, so prolonging a single session beyond 4 hours yields limited benefit (A); it is better to distribute the same weekly time over more frequent sessions. Two hours (B) is shorter than the point of diminishing returns, while 6 or 8 hours (C, D) are well past it. The most efficient solute removal occurs early in a session when the plasma concentration is highest, which is why frequency, captured by standard Kt/V, best clears sequestered but easily dialyzable solutes."
+  },
+  {
+   "topic": "Ultrafiltration and time",
+   "question": "If weekly dialysis time is doubled while fluid ingestion remains constant, what happens to the ultrafiltration rate?",
+   "options": {
+    "A": "It doubles",
+    "B": "It is halved",
+    "C": "It remains unchanged",
+    "D": "It quadruples"
+   },
+   "correct": "B",
+   "explanation": "If weekly dialysis time is doubled while fluid ingestion stays constant, the ultrafiltration rate is halved (B), because the same fluid volume is removed over twice the time. It does not double (A), stay unchanged (C), or quadruple (D). Halving the UF rate greatly reduces the hemodynamic stress of fluid removal, which is a major reason longer and more frequent regimens improve blood pressure and reduce intradialytic hypotension per treatment even as dietary sodium and fluid intake are liberalized."
+  },
+  {
+   "topic": "FHN Daily hypotension",
+   "question": "In the FHN Daily Trial, increasing treatment frequency had what effect on intradialytic hypotensive episodes?",
+   "options": {
+    "A": "Increased episodes per treatment",
+    "B": "Eliminated hypotension entirely",
+    "C": "Reduced episodes per treatment but increased total episodes per week",
+    "D": "Had no measurable effect"
+   },
+   "correct": "C",
+   "explanation": "In the FHN Daily Trial, increasing frequency reduced intradialytic hypotensive episodes per treatment but, because more treatments were given each week, increased the total episodes per week (C). So it neither raised per-treatment episodes (A) nor eliminated hypotension (B) nor had no effect (D). Weekly dialysis time and fluid ingestion both rose slightly in that trial. The per-treatment improvement reflects that early in a session more excess fluid sits in the central blood volume compartment, easing hemodynamic tolerance of ultrafiltration."
+  },
+  {
+   "topic": "Interdialytic interval mortality",
+   "question": "In patients on a three-times-per-week Monday-Wednesday-Friday schedule, observational studies show mortality is highest on which day?",
+   "options": {
+    "A": "Sunday",
+    "B": "Wednesday",
+    "C": "Friday",
+    "D": "Monday"
+   },
+   "correct": "D",
+   "explanation": "Observational studies show mortality is highest on Mondays for patients on a Monday-Wednesday-Friday schedule (D), and on Tuesdays for Tuesday-Thursday-Saturday patients, that is, after the long 3-day weekend interdialytic interval. Sunday, Wednesday, and Friday (A, B, C) do not follow the long gap. Whether the excess deaths stem from greater required fluid removal or from buildup of uremic toxins such as potassium is unclear, but this pattern argues against a thrice-weekly home schedule when every-other-day dialysis is feasible."
+  },
+  {
+   "topic": "Residual kidney function",
+   "question": "In the FHN Nocturnal Trial, accelerated loss of residual kidney function was noted in patients dialyzing at what intensity?",
+   "options": {
+    "A": "More than 4.5 times per week with weekly time longer than 28 hours",
+    "B": "Exactly 3 times per week",
+    "C": "Less than 12 hours per week",
+    "D": "Once weekly nocturnal sessions"
+   },
+   "correct": "A",
+   "explanation": "In the FHN Nocturnal Trial, accelerated loss of residual kidney function occurred in patients dialyzing more than 4.5 times per week with long sessions, meaning weekly dialysis time longer than 28 hours (A). It was not seen with shorter weekly times, so exactly 3 times weekly (B), under 12 hours weekly (C), or once-weekly sessions (D) are not the high-risk pattern. This finding, which needs confirmation, suggests very intensive frequent-and-long schedules may not be optimal for patients with substantial residual function unless required for refractory volume overload or hyperphosphatemia."
+  },
+  {
+   "topic": "Standard Kt/V concept",
+   "question": "The standard Kt/V (stdKt/V) is best described as which kind of measure?",
+   "options": {
+    "A": "A per-session measure independent of urea generation",
+    "B": "A frequency-independent weekly measure of dialysis dose",
+    "C": "A measure of ultrafiltration rate",
+    "D": "A measure of dialysate flow efficiency"
+   },
+   "correct": "B",
+   "explanation": "Standard Kt/V is a frequency-independent weekly measure of dialysis dose (B), normalized to V and defined as the urea generation rate divided by the mean peak predialysis serum urea nitrogen level. It is not a per-session measure independent of urea generation (A), nor a measure of ultrafiltration rate (C) or dialysate flow efficiency (D). Being frequency-independent lets it compare doses across conventional, daily, and nocturnal schedules on a common weekly scale, which is essential for prescribing and quantifying intensive HD."
+  },
+  {
+   "topic": "SDHD stdKt/V equivalence",
+   "question": "To achieve the same stdKt/V of 2.15 using six-times-per-week short daily HD, approximately what per-session spKt/V is needed?",
+   "options": {
+    "A": "2.0",
+    "B": "1.2",
+    "C": "0.5",
+    "D": "3.6"
+   },
+   "correct": "C",
+   "explanation": "To match a stdKt/V of 2.15 using six-times-per-week short daily HD, an spKt/V of only about 0.5 per session is needed (C). The value 1.2 (B) is the KDOQI minimum single-session spKt/V for thrice-weekly dialysis, which yields that same 2.15; 2.0 (A) and 3.6 (D) are far higher than required per session. This illustrates that added frequency raises weekly stdKt/V efficiently, so each individual session can deliver a much smaller single-pool dose while still meeting the weekly target."
+  },
+  {
+   "topic": "DHD prescription",
+   "question": "For patients starting a six-times-per-week DHD schedule, what is a reasonable initial prescription cited?",
+   "options": {
+    "A": "5-hour treatments, 30 hours per week",
+    "B": "8-hour treatments, 24 hours per week",
+    "C": "30-minute treatments, 3 hours per week",
+    "D": "2-hour treatments, 12 hours per week"
+   },
+   "correct": "D",
+   "explanation": "A reasonable starting DHD prescription is 2-hour treatments totaling 12 hours per week (D), then adjusted by measured delivered dose and patient satisfaction. Six-times-weekly session lengths generally range 1.5-3 hours (weekly 9-18 hours), so 5-hour/30-hour (A) and 8-hour/24-hour (B) are nocturnal-scale, and 30-minute sessions (C) are far too short. Sessions need not all be the same length, and extending beyond 2 hours can help remove more phosphate, salt, and water in selected patients."
+  },
+  {
+   "topic": "FHN Daily dose",
+   "question": "In the FHN Daily Trial, patients receiving daily HD received an average standard Kt/V of approximately what value per week?",
+   "options": {
+    "A": "3.6",
+    "B": "2.15",
+    "C": "5.0",
+    "D": "1.06"
+   },
+   "correct": "A",
+   "explanation": "In the FHN Daily Trial, daily HD patients received an average standard Kt/V of 3.6 per week (A), corresponding to an average equilibrated Kt/V of 1.06 per session given on average 5 times per week. The value 2.15 (B) is the stdKt/V tied to a thrice-weekly spKt/V of 1.2; 5.0 (C) is the FHN Nocturnal Trial figure; and 1.06 (D) is the per-session equilibrated Kt/V, not the weekly standard value. The high weekly dose reflects the cumulative clearance of frequent sessions."
+  },
+  {
+   "topic": "NHD prescription flows",
+   "question": "For nocturnal HD, the recommended blood flow (Qb) with single needle and dialysate flow (Qd) are approximately which values?",
+   "options": {
+    "A": "Qb 400-500 mL/min and Qd 800 mL/min",
+    "B": "Qb 200-250 mL/min and Qd 300 mL/min",
+    "C": "Qb 600 mL/min and Qd 500 mL/min",
+    "D": "Qb 100 mL/min and Qd 100 mL/min"
+   },
+   "correct": "B",
+   "explanation": "For nocturnal HD the recommended prescription is a blood flow (Qb) of 200-250 mL/min with a single needle and a dialysate flow (Qd) of about 300 mL/min (B). The high-flow options, Qb 400-500 with Qd 800 (A) or Qb 600 with Qd 500 (C), suit short daily HD, and Qb/Qd of 100/100 (D) is too low. Because clearance is markedly increased over the long nightly session, submaximal blood flows with single-needle access optimize safety and lower dialysate flows save water costs without compromising adequacy."
+  },
+  {
+   "topic": "FHN Nocturnal dose",
+   "question": "In the FHN Nocturnal Trial, the typical prescription of at least 6 hours given on average 5 nights per week achieved a stdKt/V of about what value?",
+   "options": {
+    "A": "2.15",
+    "B": "3.6",
+    "C": "5.0",
+    "D": "1.2"
+   },
+   "correct": "C",
+   "explanation": "In the FHN Nocturnal Trial, the typical prescription of at least 6 hours given on average 5 nights per week achieved a standard Kt/V of about 5.0 (C). The value 2.15 (A) corresponds to thrice-weekly dialysis at spKt/V 1.2; 3.6 (B) was the FHN Daily Trial weekly dose; and 1.2 (D) is a single-session spKt/V, not a weekly standard measure. With 6-10 hour sessions three or more times weekly, stdKt/V typically runs well above 2.0 as long as each session delivers an spKt/V of at least 1.2."
+  },
+  {
+   "topic": "Dialysate composition switch",
+   "question": "When switching a patient from conventional dialysis to frequent or long-duration HD, which two dialysate adjustments may be needed?",
+   "options": {
+    "A": "Glucose must be added and bicarbonate increased",
+    "B": "Sodium must be doubled and potassium removed",
+    "C": "Calcium must be eliminated and magnesium tripled",
+    "D": "Bicarbonate may need to be reduced and phosphate may need to be added"
+   },
+   "correct": "D",
+   "explanation": "When switching from conventional to frequent or long-duration HD, similar dialysate can be used except that bicarbonate may need to be reduced and phosphate may need to be added (D). Adding glucose and raising bicarbonate (A), doubling sodium and removing potassium (B), or eliminating calcium and tripling magnesium (C) are not recommended. Bicarbonate is lowered to avoid postdialysis alkalemia with long frequent sessions, and phosphate is added because intensive dialysis can drive patients into negative phosphorus balance."
+  },
+  {
+   "topic": "Predialysis bicarbonate target",
+   "question": "Dialysate bicarbonate concentration should be adjusted to achieve a predialysis serum bicarbonate in which range?",
+   "options": {
+    "A": "22-24 mmol/L",
+    "B": "28-33 mmol/L",
+    "C": "15-18 mmol/L",
+    "D": "35-40 mmol/L"
+   },
+   "correct": "A",
+   "explanation": "Dialysate bicarbonate should be adjusted to achieve a predialysis serum bicarbonate of 22-24 mmol/L (A). The 28-33 mmol/L range (B) is the usual starting dialysate bicarbonate concentration for frequent HD, not the predialysis serum target; 15-18 (C) and 35-40 (D) fall outside the goal. Machine bicarbonate readouts do not account for the alkalinizing effect of sodium acetate or citrate in the concentrate, so with frequent long NHD the dialysate bicarbonate is set toward the lower end to prevent postdialysis alkalemia."
+  },
+  {
+   "topic": "Phosphorus control time",
+   "question": "To control serum phosphorus in patients ingesting a usual amount of protein without binders, approximately how many hours of dialysis per week are required?",
+   "options": {
+    "A": "9-12 hours",
+    "B": "24-28 hours",
+    "C": "40-45 hours",
+    "D": "6-8 hours"
+   },
+   "correct": "B",
+   "explanation": "About 24-28 hours per week of dialysis are required to control serum phosphorus in patients ingesting a usual protein amount without phosphorus binders (B). Nine-to-12 hours (A) and 6-8 hours (D) are insufficient, while 40-45 hours (C) overstates the need. Increasing SDHD frequency without increasing weekly time has only a trivial phosphorus effect, especially as patients liberalize protein intake; three nocturnal sessions or every-other-night NHD produce a more marked phosphorus reduction, sometimes eliminating binder need."
+  },
+  {
+   "topic": "Predialysis hypophosphatemia",
+   "question": "What is the significance of predialysis hypophosphatemia in intensive HD patients?",
+   "options": {
+    "A": "It is desirable and should be targeted",
+    "B": "It has no clinical significance",
+    "C": "It is undesirable and associated with elevated mortality risk",
+    "D": "It indicates adequate binder use"
+   },
+   "correct": "C",
+   "explanation": "Predialysis hypophosphatemia is undesirable and associated with an elevated risk of mortality (C). It is not a target to pursue (A), not clinically insignificant (B), and does not indicate adequate binder use (D). Whereas hypophosphatemia at the end of dialysis is common, low predialysis levels can be worsened during periods of reduced food intake such as intercurrent illness. For this reason, most patients dialyzed more than 30 hours per week need some phosphate added to the dialysate to prevent depletion."
+  },
+  {
+   "topic": "Calcium in NHD",
+   "question": "Patients receiving frequent, long nocturnal HD can deplete total-body calcium unless what is done?",
+   "options": {
+    "A": "Ultrafiltration is minimized",
+    "B": "Calcium is removed from the dialysate entirely",
+    "C": "Dialysate magnesium is increased",
+    "D": "A slightly higher-than-usual dialysate calcium concentration is used"
+   },
+   "correct": "D",
+   "explanation": "Patients on frequent, long nocturnal HD can deplete their total-body calcium unless a slightly higher-than-usual dialysate calcium concentration is used (D). Minimizing ultrafiltration (A), removing dialysate calcium entirely (B), or increasing dialysate magnesium (C) would not correct this and could worsen it. Using only 1.25 mM (2.5 mEq/L) calcium in these patients has caused hyperparathyroidism refractory to vitamin D analogs, especially once calcium-based binders are stopped, so the bath calcium must be raised for long frequent NHD."
+  },
+  {
+   "topic": "CSN calcium recommendation",
+   "question": "The CSN clinical practice guideline for intensive HD recommends a dialysate calcium of at least what concentration for long, frequent HD?",
+   "options": {
+    "A": "1.5 mM (3.0 mEq/L) or higher",
+    "B": "1.25 mM (2.5 mEq/L)",
+    "C": "1.0 mM (2.0 mEq/L)",
+    "D": "2.0 mM (4.0 mEq/L)"
+   },
+   "correct": "A",
+   "explanation": "The CSN clinical practice guideline for intensive HD recommends a dialysate calcium of 1.5 mM (3.0 mEq/L) or higher for long, frequent HD (A). The standard 1.25 mM (2.5 mEq/L) (B) is appropriate for SDHD, which is not associated with marked calcium changes, but is too low for long frequent NHD; 1.0 mM (C) is lower still, and 2.0 mM (D) is not the stated recommendation. The higher bath calcium offsets the calcium losses caused by prolonged, frequent dialysis exposure."
+  },
+  {
+   "topic": "Anticoagulation requirement",
+   "question": "What is stated about long HD performed with slow blood pump speeds and anticoagulation?",
+   "options": {
+    "A": "It never requires anticoagulation",
+    "B": "It generally cannot be performed without anticoagulation",
+    "C": "It requires only saline flushes",
+    "D": "It must use citrate exclusively"
+   },
+   "correct": "B",
+   "explanation": "Long HD performed with slow blood pump speeds generally cannot be done without anticoagulation (B), because low flow promotes clotting in the circuit. It is not true that it never needs anticoagulation (A), can rely on saline flushes alone (C), or must use citrate exclusively (D). Standard heparin protocols may be used for all frequent HD schedules; some programs use low-molecular-weight heparin as a bolus, with or without a mid-dialysis top-up, for longer sessions, though published safety and efficacy evidence is lacking."
+  },
+  {
+   "topic": "Antihypertensive drugs",
+   "question": "What may happen to antihypertensive medication requirements after starting long or frequent HD?",
+   "options": {
+    "A": "Doses always need to be increased",
+    "B": "All antihypertensives become contraindicated",
+    "C": "A patient may no longer need antihypertensive drugs",
+    "D": "Requirements are unchanged"
+   },
+   "correct": "C",
+   "explanation": "After starting long or frequent HD, blood pressure may improve so markedly that a patient no longer needs antihypertensive drugs (C). Doses do not always need increasing (A), antihypertensives do not become contraindicated (B), and requirements are not simply unchanged (D). Improvement can appear as early as one week, is most marked within the first few months, and may continue thereafter. Cardioprotective agents such as ACE inhibitors or beta-blockers may still be prescribed if desired, but at lower tolerated doses."
+  },
+  {
+   "topic": "Follow-up schedule",
+   "question": "After starting home therapy, what is the recommended clinic follow-up schedule?",
+   "options": {
+    "A": "Seen every 6 months from the start",
+    "B": "Seen weekly for the first year",
+    "C": "Seen only annually",
+    "D": "Seen within 2-4 weeks, then monthly for 3 months, then every 2-3 months"
+   },
+   "correct": "D",
+   "explanation": "Most home HD patients should be seen within 2-4 weeks of starting therapy, then monthly for 3 months, then every 2-3 months thereafter (D), assuming 24-hour on-call nursing support is available. Every-6-month visits from the start (A), weekly visits for a year (B), and annual-only follow-up (C) do not match this schedule. Dialysis run sheets documenting weights, BP, and intradialytic complications should be brought to each visit, and home patients can also be trained to prepare their own blood samples."
+  },
+  {
+   "topic": "Home vs center trials",
+   "question": "What is the current state of randomized trial evidence comparing home with center HD?",
+   "options": {
+    "A": "There have been no trials comparing home with center HD",
+    "B": "Multiple large RCTs confirm superiority of home HD",
+    "C": "One RCT showed center HD is superior",
+    "D": "Trials are prohibited by ethics boards"
+   },
+   "correct": "A",
+   "explanation": "To date there have been no randomized trials comparing home with center HD (A). Claims of multiple confirming RCTs (B) or an RCT favoring center HD (C) are incorrect, and trials are not prohibited by ethics boards (D). Observational studies suggest better survival with home HD, but a major barrier to randomization is patient unwillingness to be allocated between the home and in-center settings. The absence of trial data means modality decisions rely on observational evidence and on patient preferences."
+  },
+  {
+   "topic": "Survival confounding",
+   "question": "Why might observational studies overstate the survival benefit of home HD?",
+   "options": {
+    "A": "Because home HD patients are older and sicker",
+    "B": "Because of unmeasured patient characteristics such as health literacy, motivation, and social support",
+    "C": "Because of mandatory randomization",
+    "D": "Because home HD uses lower dialysis doses"
+   },
+   "correct": "B",
+   "explanation": "Observational studies may overstate home HD survival because of unmeasured patient characteristics such as health literacy, motivation, psychological well-being, social support structures, functional ability, and socioeconomic factors (B). Home HD patients are generally not older and sicker (A), randomization is not mandatory in these studies (C), and home HD does not use lower doses (D). These favorable but unmeasured traits mean the survival advantage seen in home HD populations cannot be attributed to the modality alone; residual confounding must be considered."
+  },
+  {
+   "topic": "FHN Daily outcomes",
+   "question": "In the FHN Daily Trial, patients receiving short daily HD in-center showed significant improvement in which outcomes compared with conventional center HD?",
+   "options": {
+    "A": "Nutritional variables and mental health",
+    "B": "Cognitive function and anemia management",
+    "C": "SF-36 physical composite scores and regression of ventricular hypertrophy",
+    "D": "Residual kidney function preservation"
+   },
+   "correct": "C",
+   "explanation": "In the FHN Daily Trial, in-center SDHD patients had statistically and clinically significantly better SF-36 physical composite scores and regression of ventricular hypertrophy versus conventional center HD (C), plus better phosphate and BP control. There were no detected differences in nutritional variables, anemia management, mental health, or cognitive function, so options A and B are incorrect, and residual kidney function was not the benefit shown (D). Delivered treatments averaged 2.5 hours, about 5.2 times weekly, and the trial gives the least biased estimates of these effects."
+  },
+  {
+   "topic": "NHD LVH trials",
+   "question": "Regarding left ventricular hypertrophy, how did the Canadian (Culleton) and larger FHN nocturnal trials differ?",
+   "options": {
+    "A": "The FHN study showed regression but the Canadian did not",
+    "B": "Both showed no LVH regression",
+    "C": "Both showed dramatic LVH regression",
+    "D": "The Canadian study showed LVH regression with NHD, while the FHN nocturnal study did not"
+   },
+   "correct": "D",
+   "explanation": "The Canadian study (Culleton, 2007) demonstrated left ventricular hypertrophy regression with NHD, while the larger FHN nocturnal study (Rocco, 2011) did not (D), so option A reverses the findings and B and C are wrong. The attenuated LV mass effect in FHN may reflect preserved residual renal function in that study population. Both trials, however, found improved blood pressure and phosphate control with NHD, and survival data for NHD remain observational and subject to residual confounding."
+  },
+  {
+   "topic": "NHD residual function",
+   "question": "In the FHN Nocturnal Trial, patients who received frequent NHD had increased risk of what at 12 months compared with a 3-days-per-week schedule?",
+   "options": {
+    "A": "Complete loss of residual renal function",
+    "B": "Vascular access thrombosis",
+    "C": "Severe hyperphosphatemia",
+    "D": "Uncontrolled hypertension"
+   },
+   "correct": "A",
+   "explanation": "In the FHN Nocturnal Trial, patients receiving frequent NHD had an increased risk of complete loss of residual renal function at 12 months compared with a 3-days-per-week schedule (A). Vascular access thrombosis (B), severe hyperphosphatemia (C), and uncontrolled hypertension (D) were not the specified 12-month risk; in fact NHD improved phosphate and BP control. This potential harm, along with increased vascular access procedures and caregiver burden, should be discussed with patients before starting frequent NHD."
+  },
+  {
+   "topic": "Tassin experience",
+   "question": "The Tassin experience of thrice-weekly in-center HD lasting 8 hours per session demonstrated marked improvements in which outcomes?",
+   "options": {
+    "A": "Cognitive function and anemia only",
+    "B": "Survival, blood pressure, and phosphate control",
+    "C": "Residual renal function preservation",
+    "D": "Vascular access patency"
+   },
+   "correct": "B",
+   "explanation": "The Tassin experience (Charra, 2004) of thrice-weekly in-center HD lasting 8 hours per session showed marked improvements in survival, blood pressure, and phosphate control (B). It was not primarily about cognitive function or anemia (A), residual renal function preservation (C), or vascular access patency (D). Tassin is the landmark example supporting long-session dialysis; more recent U.S. in-center thrice-weekly nocturnal programs and Australian and New Zealand every-other-day home HD report similar benefits, though all such evidence is observational."
+  },
+  {
+   "topic": "Post-PD home HD",
+   "question": "According to the modality selection principles, when should home HD particularly be considered following the failure of PD or a renal allograft?",
+   "options": {
+    "A": "Only if the patient is under 50 years old",
+    "B": "It should be avoided entirely after PD failure",
+    "C": "It requires carefully timed education and planning to maintain independence from center HD",
+    "D": "Only after at least one year of in-center HD"
+   },
+   "correct": "C",
+   "explanation": "Home HD should be considered following failure of PD or a renal allograft, and this approach requires carefully timed education and planning to help patients maintain their independence from center HD (C). There is no under-50 age restriction (A); it should not be avoided after PD failure (B); and it does not require a year of in-center HD first (D). Timely planning is emphasized because transitioning directly to home HD, rather than defaulting to in-center care, preserves the patient's independence and self-management."
+  }
+ ]
+}

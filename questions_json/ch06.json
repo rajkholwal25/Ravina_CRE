@@ -1,0 +1,665 @@
+{
+ "chapter": 6,
+ "questions": [
+  {
+   "topic": "Access types",
+   "question": "What structurally distinguishes an arteriovenous graft from an arteriovenous fistula?",
+   "options": {
+    "A": "A graft connects two veins rather than an artery and a vein",
+    "B": "A graft is created only in the lower extremity",
+    "C": "A graft bridges the artery and vein with a tube of prosthetic material",
+    "D": "A graft requires no anastomosis to the artery"
+   },
+   "correct": "C",
+   "explanation": "The correct answer is C: an AV graft bridges the feeding artery and vein with a tube of prosthetic material, most commonly expanded PTFE polymer. An AV fistula instead is a direct anastomosis between a native artery and vein, so options describing joining two veins (A) or requiring no arterial anastomosis (D) are wrong, and grafts are not confined to the leg (B). Grafts are chosen when native vessels are too small or poorly distensible, spanning a gap the surgeon cannot close directly; this structural difference underlies why grafts and fistulas mature and fail differently."
+  },
+  {
+   "topic": "Graft material",
+   "question": "Which material is most commonly used as the bridging conduit in an arteriovenous graft?",
+   "options": {
+    "A": "Dacron mesh",
+    "B": "Polytetrafluoroethylene (PTFE) polymer",
+    "C": "Cryopreserved human vein",
+    "D": "Bovine pericardium"
+   },
+   "correct": "B",
+   "explanation": "The correct answer is B: polytetrafluoroethylene (PTFE) polymer is the most commonly used bridging material, and most AV grafts placed in the United States are composed of expanded PTFE. Dacron, cryopreserved human vein, and bovine pericardium are not the standard conduit; cryopreserved vein grafts, especially in the thigh, actually carry a higher infection risk. The chapter notes the choice of synthetic versus biologic material rests on the surgeon's preference and experience, but PTFE remains the default for its handling characteristics and established patency record."
+  },
+  {
+   "topic": "Fistula maturation time",
+   "question": "How long does the maturation process of a newly created AV fistula generally take before it can be used?",
+   "options": {
+    "A": "1-3 days",
+    "B": "1-3 weeks",
+    "C": "6-8 months",
+    "D": "6-8 weeks"
+   },
+   "correct": "D",
+   "explanation": "The correct answer is D: fistula maturation generally takes about 6-8 weeks, during which blood flow rises as both artery and vein dilate and the vein wall thickens (remodels) to withstand needling. This is why a fistula cannot be used immediately. A graft, by contrast, can be used within 1-3 weeks (making B a graft figure), and days (A) or months (C) are wrong. Pressure- and flow-induced remodeling strengthens the fistula and limits tearing and extravasation, while dilatation eases needle insertion; premature cannulation risks infiltration and permanent loss of the access."
+  },
+  {
+   "topic": "Graft usability timing",
+   "question": "Compared with a fistula, when can an AV graft generally first be used after placement?",
+   "options": {
+    "A": "Within 1-3 weeks",
+    "B": "Immediately at the end of surgery",
+    "C": "After 6-8 weeks",
+    "D": "After at least 6 months"
+   },
+   "correct": "A",
+   "explanation": "The correct answer is A: an AV graft can generally be used within 1-3 weeks after placement, earlier than a fistula because there is no biologic maturation of native vessels to await. It cannot be used immediately at surgery (B); 6-8 weeks (C) is the fistula maturation window, and 6 months (D) is the recommended interval for placing a fistula before dialysis starts. Short maturation time is one of the graft's practical advantages, along with a large cannulation surface and easy handling, which offset its lower long-term patency compared with a fistula."
+  },
+  {
+   "topic": "Fistula vs graft outcomes",
+   "question": "A well-functioning AV fistula is preferred over a graft primarily because of which advantages?",
+   "options": {
+    "A": "Lower cost and simpler surgery",
+    "B": "Lower infection rate, higher patency, and better patient survival",
+    "C": "Faster maturation and larger cannulation surface",
+    "D": "Easier cannulation and better surgical handling"
+   },
+   "correct": "B",
+   "explanation": "The correct answer is B: a well-functioning fistula is preferred because of its lower incidence of infection, higher patency rates, and overall better patient survival. Faster maturation and a large cannulation surface (C) and easy cannulation and surgical handling (D) are actually advantages of grafts, not fistulas, and lower cost or simpler surgery (A) is not the cited reason. The main downside of fistulas is a poor maturation rate in patients with unsuitable vessels, including many elderly patients, which is why grafts remain a suitable initial choice when veins are small or poorly distensible."
+  },
+  {
+   "topic": "Neointimal hyperplasia",
+   "question": "In an AV graft, neointimal hyperplasia most commonly develops at which location?",
+   "options": {
+    "A": "Within the body of the PTFE graft itself",
+    "B": "In the venous segment downstream from the graft-vein anastomosis",
+    "C": "At the arterial anastomosis",
+    "D": "In the feeding artery upstream of the graft"
+   },
+   "correct": "B",
+   "explanation": "The correct answer is B: neointimal hyperplasia most commonly develops in the venous segment downstream from the graft-vein anastomosis, not within the PTFE body (A), the arterial anastomosis (C), or the feeding artery (D). It is driven by turbulence past the anastomosis and by compliance mismatch between the rigid graft and the flexible vein, and periodic exposure of this vein to activated blood leaving the dialyzer may accelerate it. The hyperplasia obstructs the lumen, causing poor graft flow, prolonged post-needle bleeding from raised intragraft pressure, and eventually graft thrombosis."
+  },
+  {
+   "topic": "Graft complications",
+   "question": "Prolonged bleeding after removal of dialysis needles from a graft, due to increased intragraft pressure, is a consequence of which problem?",
+   "options": {
+    "A": "Inflow arterial stenosis",
+    "B": "Compliance match between graft and vein",
+    "C": "Excessive systemic anticoagulation",
+    "D": "Downstream venous hyperplasia obstructing the lumen"
+   },
+   "correct": "D",
+   "explanation": "The correct answer is D: downstream venous hyperplasia obstructs the lumen, raising intragraft pressure, which produces prolonged bleeding after needle removal and ultimately graft thrombosis. This is a compliance mismatch problem (not a match, so B is wrong), and it is not primarily inflow arterial stenosis (A) or systemic anticoagulation (C). The vulnerable venous segment sits downstream of the graft-vein anastomosis; recognizing prolonged post-dialysis bleeding as a sign of elevated intra-access pressure should prompt evaluation for this outflow obstruction before the graft clots."
+  },
+  {
+   "topic": "Access hierarchy",
+   "question": "How do AV grafts compare with central venous catheters regarding patient outcomes?",
+   "options": {
+    "A": "Grafts and catheters have identical infection and survival rates",
+    "B": "Catheters are superior to grafts in all patients",
+    "C": "Grafts are inferior to catheters for survival",
+    "D": "Grafts are superior, with less serious infection, lower morbidity, and higher survival"
+   },
+   "correct": "D",
+   "explanation": "The correct answer is D: although a graft is inferior to a mature fistula, it is superior to a central venous catheter, and patients with either a fistula or graft have less serious infections, lower morbidity, and higher survival than those managed with catheters. Thus catheters are not superior in all patients (B) nor are outcomes identical (A), and grafts are not inferior to catheters (C). The chapter tempers this by noting some poor catheter results reflect selection bias (catheters go to sicker patients) and that catheter infection risk in the elderly is relatively low, so catheters remain useful in select cases."
+  },
+  {
+   "topic": "Fistula First target",
+   "question": "The KDOQI and Fistula First guidelines target AV fistula use in at least what percentage of prevalent dialysis patients?",
+   "options": {
+    "A": "26%",
+    "B": "50%",
+    "C": "68%",
+    "D": "90%"
+   },
+   "correct": "C",
+   "explanation": "The correct answer is C: KDOQI and the Fistula First initiative target at least 68% AV fistula use in prevalent dialysis patients. 26% (A) was the US prevalent fistula rate before the initiative (which rose to 61%), 90% (D) is the level many US and European centers actually achieve, and 50% (B) is not a cited target. These guidelines promote fistula construction and emphasize early nephrology referral so an AV access can be built before dialysis, avoiding the central catheter usually required when patients present late in chronic kidney disease."
+  },
+  {
+   "topic": "Initiative revision",
+   "question": "Because US central venous catheter use did not decline as planned, the initiative goal was revised to which slogan?",
+   "options": {
+    "A": "Fistula first, graft second",
+    "B": "Fistula first and catheter last",
+    "C": "Catheter never",
+    "D": "Access for all"
+   },
+   "correct": "B",
+   "explanation": "The correct answer is B: the goal was revised from 'fistula first' to 'fistula first and catheter last' because US central venous catheter use did not decline as much as planned even as the fistula rate rose from 26% to 61%. 'Fistula first, graft second' (A), 'catheter never' (C), and 'access for all' (D) are not the revised slogan. The revision underscores that reducing catheter dependence, not merely increasing fistulas, is the outstanding challenge, supported by strategies like early referral and urgent-start peritoneal dialysis to stabilize patients without a chronic catheter."
+  },
+  {
+   "topic": "Vessel preservation",
+   "question": "In progressive CKD patients likely to need dialysis, which veins should be used whenever possible for routine venipuncture to preserve access options?",
+   "options": {
+    "A": "Veins on the dorsum of the hand",
+    "B": "Antecubital veins",
+    "C": "Cephalic veins of the forearm",
+    "D": "Subclavian vein"
+   },
+   "correct": "A",
+   "explanation": "The correct answer is A: the veins on the dorsum of the hand should be used whenever possible for venipuncture, because upper-extremity venipunctures and infusion lines must be minimized to protect future access sites. The cephalic and antecubital veins (B, C) are precisely the ones to spare, and the subclavian vein (D) should not be cannulated unless absolutely necessary given the risk of central vein stenosis. PICC and midline catheters should also be rejected. Preserving these superficial and deep arm veins keeps options open for AV fistula or graft creation as CKD progresses."
+  },
+  {
+   "topic": "Vessel preservation",
+   "question": "Why should cardiac and endovascular percutaneous interventions avoid using the radial and brachial arteries in CKD patients?",
+   "options": {
+    "A": "These arteries carry a high risk of dissection",
+    "B": "Access through these arteries causes central vein stenosis",
+    "C": "These arteries need to be preserved for future AV access creation",
+    "D": "These arteries are too small for catheter passage"
+   },
+   "correct": "C",
+   "explanation": "The correct answer is C: the radial and brachial arteries must be preserved for future AV access creation, so cardiac and other endovascular percutaneous interventions should not be performed through them. The concern is not primarily dissection risk (A), central vein stenosis (B, which relates to subclavian or central cannulation), or artery caliber (D). Protecting arterial inflow, along with sparing arm veins and avoiding subclavian and CIED lead placement, is part of a comprehensive vessel-preservation strategy in progressive CKD so a functional access can later be built."
+  },
+  {
+   "topic": "CIED and access",
+   "question": "In a CKD patient who needs a pacemaker, transvenous endovascular lead placement is discouraged because it can do what?",
+   "options": {
+    "A": "Cause radial artery calcification",
+    "B": "Prevent maturation of a forearm fistula",
+    "C": "Directly damage the cephalic vein at the wrist",
+    "D": "Adversely affect patency of the central veins and carry high infection risk"
+   },
+   "correct": "D",
+   "explanation": "The correct answer is D: transvenous endovascular CIED (pacemaker) leads should be avoided because they can adversely affect patency of the central veins and carry a high long-term infection risk. They are not discouraged for causing radial artery calcification (A), blocking forearm fistula maturation (B), or damaging the wrist cephalic vein (C). Because central vein patency is essential for any arm access to drain properly, CKD patients needing a pacemaker should instead be evaluated for epicardial or subcutaneous lead approaches that spare the central venous system."
+  },
+  {
+   "topic": "Access planning timing",
+   "question": "For a patient choosing hemodialysis, how far in advance of planned dialysis initiation should an AV fistula ideally be placed?",
+   "options": {
+    "A": "At least 2 weeks",
+    "B": "At least 6 weeks",
+    "C": "At least 3 months",
+    "D": "At least 6 months"
+   },
+   "correct": "D",
+   "explanation": "The correct answer is D: for patients choosing hemodialysis, an AV fistula should be placed at least 6 months before planned dialysis initiation, allowing time for the 6-8 week maturation plus any corrective procedures if the first fistula fails. 2 weeks (A), 6 weeks (B), and 3 months (C) leave insufficient margin. Early placement, enabled by referring CKD patients once GFR falls below 30 mL/min per 1.73 m2, avoids the central catheter typically required when patients are referred late, reducing catheter-associated infection and central vein stenosis."
+  },
+  {
+   "topic": "Patient education GFR",
+   "question": "At what GFR threshold should patients be educated about all renal replacement modality options, including PD and transplantation?",
+   "options": {
+    "A": "<60 mL/min per 1.73 m2",
+    "B": "<45 mL/min per 1.73 m2",
+    "C": "<30 mL/min per 1.73 m2",
+    "D": "<15 mL/min per 1.73 m2"
+   },
+   "correct": "C",
+   "explanation": "The correct answer is C: patients with a GFR below 30 mL/min per 1.73 m2 should be educated about all renal replacement options, including peritoneal dialysis and transplantation. 60 (A), 45 (B), and 15 (D) mL/min are not the cited threshold. Educating at this stage lets the patient choose a modality and, if hemodialysis is selected, allows the fistula to be placed at least 6 months ahead. For those planning peritoneal dialysis a fistula is optional, and backup fistulas are now rarely created because peritonitis rates have fallen substantially."
+  },
+  {
+   "topic": "Short-term access",
+   "question": "For a patient awaiting a live donor kidney who needs dialysis only briefly, which access is appropriate provided there is no contraindication?",
+   "options": {
+    "A": "An upper arm AV graft",
+    "B": "A leg fistula",
+    "C": "A transposed basilic vein fistula",
+    "D": "A short-term (<6 months) cuffed venous catheter"
+   },
+   "correct": "D",
+   "explanation": "The correct answer is D: a patient awaiting a live donor kidney who needs only brief dialysis can be managed with a short-term (<6 months) cuffed venous catheter rather than a permanent access, unless contraindicated. A permanent upper-arm graft (A), leg fistula (B), or transposed basilic vein fistula (C) would be unnecessary surgery for such short use. The key contraindication noted is valvular heart disease, which predisposes to endocarditis; avoiding a permanent AV access spares the patient a procedure they will not need once transplanted."
+  },
+  {
+   "topic": "ESRD prediction tools",
+   "question": "The predictive equations developed by Tangri estimate the risk of developing ESRD over what time window?",
+   "options": {
+    "A": "3 years",
+    "B": "1 year",
+    "C": "6 months",
+    "D": "5 years"
+   },
+   "correct": "A",
+   "explanation": "The correct answer is A: the Tangri equations predict the risk of developing ESRD over a 3-year time window, helping decide when to create access. In contrast the Drawz equation, based on male US Veterans Affairs patients, predicts ESRD risk over a 1-year period (B). 6 months (C) and 5 years (D) are not cited. These tools matter because premature access creation wastes resources and many elderly patients die before ever needing dialysis, so accurately anticipating the need helps time surgery appropriately rather than operating too early."
+  },
+  {
+   "topic": "Preoperative history",
+   "question": "Which comorbid condition may limit access options because the patient may not tolerate the additional cardiac output needed to circulate blood through the access?",
+   "options": {
+    "A": "Peripheral vascular disease",
+    "B": "Severe congestive heart failure",
+    "C": "Diabetes mellitus",
+    "D": "Prior PICC line use"
+   },
+   "correct": "B",
+   "explanation": "The correct answer is B: patients with severe congestive heart failure may not tolerate the additional cardiac output required to circulate blood through the access, which limits construction options. Peripheral vascular disease (A) and diabetes (C) limit options mainly through atherosclerosis and damaged arm vessels, and prior PICC use (D) matters for central vein patency, but the specific issue of not tolerating the added cardiac output is heart failure. A thorough history should also query prior catheters, CIED leads, PICC lines, and vascular surgery, since these shape what access is feasible."
+  },
+  {
+   "topic": "Blood pressure exam",
+   "question": "An interarm blood pressure difference measured during preoperative exam is graded as problematic when it exceeds what value?",
+   "options": {
+    "A": "5 mm Hg",
+    "B": "10 mm Hg",
+    "C": "40 mm Hg",
+    "D": "20 mm Hg"
+   },
+   "correct": "D",
+   "explanation": "The correct answer is D: an interarm blood pressure difference is graded normal if <10 mm Hg, borderline if 10-20 mm Hg, and problematic if >20 mm Hg. Thus 5 (A) and 10 (B) fall in the normal or borderline range and 40 (C) is not the threshold. A problematic difference suggests arterial inflow disease on one side and, along with markedly diminished or absent pulses or a >20 mm Hg mean arterial pressure difference between arms, is an indication for arteriography before choosing that arm for access."
+  },
+  {
+   "topic": "Allen test",
+   "question": "The Allen test is used to assess what aspect of the hand's circulation?",
+   "options": {
+    "A": "Collateral flow between the radial and ulnar arteries at the palmar arch",
+    "B": "Central venous patency in the chest",
+    "C": "Cephalic vein distensibility at the wrist",
+    "D": "The presence of a brachial artery stenosis"
+   },
+   "correct": "A",
+   "explanation": "The correct answer is A: the Allen test assesses collateral flow between the radial and ulnar arteries at the palmar arch, confirming the hand has dual supply before an access might compromise one artery. It does not evaluate central venous patency (B), cephalic vein distensibility (C), or brachial artery stenosis (D). It can be done by physical exam or aided by Doppler, and its sensitivity increases when combined with pulse oximetry; blanching that persists 5 seconds or more after releasing an artery is a positive test for insufficiency of that artery."
+  },
+  {
+   "topic": "Doppler ultrasonography",
+   "question": "A recognized limitation of Doppler ultrasonography for preoperative access mapping is its poor visualization of what?",
+   "options": {
+    "A": "The radial artery",
+    "B": "Peripheral forearm veins",
+    "C": "The central veins",
+    "D": "The cephalic vein at the wrist"
+   },
+   "correct": "C",
+   "explanation": "The correct answer is C: poor visualization of the central veins is the recognized limitation of Doppler ultrasonography, which is why venography is reserved for central vein evaluation. Doppler actually images the radial artery (A), peripheral forearm veins (B), and the wrist cephalic vein (D) well, giving flow velocity and inner diameters of brachial and radial arteries and peripheral veins. It should be performed in all patients and is best done in the operating room after regional nerve block, since anesthesia dilates otherwise constricted veins for better assessment."
+  },
+  {
+   "topic": "Minimal vessel size",
+   "question": "Studies suggest the minimum vein lumen diameter for a successful surgical fistula anastomosis is about what value?",
+   "options": {
+    "A": "2.5 mm",
+    "B": "2.0 mm",
+    "C": "1.5 mm",
+    "D": "4.0 mm"
+   },
+   "correct": "A",
+   "explanation": "The correct answer is A: studies suggest the minimum vein lumen diameter should be about 2.5 mm for successful surgical anastomosis, while the minimal arterial diameter should be about 2.0 mm (B, the artery figure). Borderline vessels down to 1.5 mm (C) have been used but require an experienced microsurgeon; 4.0 mm (D) is not required. More important than absolute size is the ability of artery and vein to dilate after anastomosis to allow increased flow, which is why dilation testing supplements static diameter measurements."
+  },
+  {
+   "topic": "Vein dilation test",
+   "question": "During the vein dilation test, an average increase in vein internal diameter of what magnitude is associated with successful fistula outcome?",
+   "options": {
+    "A": "10%",
+    "B": "25%",
+    "C": "100%",
+    "D": "50%"
+   },
+   "correct": "D",
+   "explanation": "The correct answer is D: during the Doppler vein dilation test the proximal vein is occluded with a tourniquet and an average increase in internal diameter of 50% has been associated with successful fistula outcome. 10% (A) and 25% (B) fall short of the validated cutoff and 100% (C) overstates it. This functional test matters because the vein's capacity to dilate, more than its resting diameter, predicts whether a fistula will mature; a poorly distensible vein may fail even if it meets the 2.5 mm minimum lumen diameter."
+  },
+  {
+   "topic": "Venography",
+   "question": "Venography for access evaluation should be reserved primarily for assessing which vessels?",
+   "options": {
+    "A": "The palmar arch arteries",
+    "B": "The central veins",
+    "C": "The peripheral forearm veins",
+    "D": "The radial and ulnar arteries"
+   },
+   "correct": "B",
+   "explanation": "The correct answer is B: venography should be reserved for evaluating the central veins, especially in patients with prior transvenous pacemaker placement, upper-extremity edema, chest-wall or shoulder collateral veins, or unequal extremity size. It does not assess the palmar arch arteries (A), peripheral forearm veins (C), or the radial and ulnar arteries (D); indeed venography alone does not evaluate the arterial tree. When performed, 30 mL or less of nonionic low-osmolality contrast diluted 1:4 should be used to limit nephrotoxicity, as full-strength contrast is usually unnecessary."
+  },
+  {
+   "topic": "Arteriography indication",
+   "question": "Arteriography during preoperative access evaluation is indicated in which circumstance?",
+   "options": {
+    "A": "Any patient with diabetes",
+    "B": "All patients over age 65",
+    "C": "Markedly diminished or absent pulses, or a >20 mm Hg interarm mean arterial pressure difference",
+    "D": "Whenever venography shows a central stenosis"
+   },
+   "correct": "C",
+   "explanation": "The correct answer is C: arteriography is indicated when pulses at the desired access site are markedly diminished or absent, or when there is a >20 mm Hg difference in mean arterial pressure between the arms. It is not routinely indicated for all diabetics (A), everyone over 65 (B), or simply because venography shows central stenosis (D, a venous rather than arterial finding). These arterial red flags signal inflow disease that could doom an access, so the arterial tree must be imaged before committing to that limb."
+  },
+  {
+   "topic": "Conventional vs transposed",
+   "question": "How does a transposed AV fistula differ from a conventional AV fistula?",
+   "options": {
+    "A": "It uses a prosthetic bridging tube",
+    "B": "It utilizes deeper veins requiring extensive mobilization into a subcutaneous tunnel",
+    "C": "It is always created in the leg",
+    "D": "It connects two arteries"
+   },
+   "correct": "B",
+   "explanation": "The correct answer is B: a transposed fistula uses deeper veins that require extensive mobilization into a subcutaneous tunnel for needle access, unlike a conventional fistula which joins a superficial artery and vein with little mobilization. It does not use a prosthetic tube (A, that is a graft), is not always in the leg (C), and never connects two arteries (D). Because of the mobilization, transposed fistulas are technically more challenging and need greater healing time, and may be one- or two-stage procedures, whereas conventional fistulas are typically single-stage."
+  },
+  {
+   "topic": "Preferred fistula site",
+   "question": "Which fistula is considered the preferred access and is classically placed in the nondominant arm?",
+   "options": {
+    "A": "The wrist radiocephalic (Brescia-Cimino) fistula",
+    "B": "Gracz perforating vein fistula",
+    "C": "Transposed basilic vein-brachial artery fistula",
+    "D": "Brachiocephalic upper arm fistula"
+   },
+   "correct": "A",
+   "explanation": "The correct answer is A: the classic wrist radiocephalic (Brescia-Cimino) fistula, placed in the nondominant arm, is the preferred access because it is distal, preserves proximal sites, and has a strong track record. The Gracz perforating vein fistula (B) and transposed basilic-brachial fistula (C) are reserved for when forearm options fail, and the upper-arm brachiocephalic fistula (D) is a later choice. The strategy is to start as distally as possible in the nondominant arm and move proximally only as sites are exhausted, then to the dominant arm."
+  },
+  {
+   "topic": "Snuffbox fistula",
+   "question": "The anatomical snuffbox fistula is best described as which of the following?",
+   "options": {
+    "A": "An upper arm transposed fistula",
+    "B": "The distal-most variant of the radiocephalic fistula",
+    "C": "A leg fistula site",
+    "D": "A perforating vein fistula at the elbow"
+   },
+   "correct": "B",
+   "explanation": "The correct answer is B: the anatomical snuffbox fistula is the distal-most variant of the radiocephalic fistula, created between the tendons of extensor pollicis longus and brevis. It is not an upper-arm transposed fistula (A), a leg site (C), or an elbow perforating vein fistula (D). Being the most distal of at least nine potential upper-extremity sites, it maximally preserves more proximal vessels for future access, embodying the principle of starting distally and working proximally as sites are used up."
+  },
+  {
+   "topic": "Elderly perforating vein fistula",
+   "question": "In elderly patients with poor blood vessels, an elbow perforating vein (Konner-modified Gracz) fistula achieved what patency rate at 24 months in one small study?",
+   "options": {
+    "A": "45%",
+    "B": "60%",
+    "C": "95%",
+    "D": "78%"
+   },
+   "correct": "D",
+   "explanation": "The correct answer is D: in one small study of elderly patients with poor blood vessels, an elbow perforating vein fistula created with the Konner modification of the Gracz approach achieved an impressive 24-month patency of 78%. 45% (A), 60% (B), and 95% (C) are not the reported figures. In these patients a calcified radial artery with a small lumen and thick wall makes conventional forearm fistulas likely to fail, so if a suitable perforating vein and adequate brachial artery and cephalic vein are present, the elbow perforating vein fistula is a strong alternative."
+  },
+  {
+   "topic": "IMA graft steal",
+   "question": "In a patient with an internal mammary artery-coronary bypass graft, how should a needed AV fistula be positioned to avoid a steal problem?",
+   "options": {
+    "A": "On the same side as the bypass graft",
+    "B": "On the contralateral side",
+    "C": "Only in a leg",
+    "D": "Only as a graft, never a fistula"
+   },
+   "correct": "B",
+   "explanation": "The correct answer is B: because steal has been widely reported when a fistula sits on the same side as an internal mammary artery-coronary bypass graft, a contralateral AV fistula should be created to avoid diverting flow from the myocardium. Placing it on the same side (A) is what causes the problem, and restricting to a leg (C) or mandating a graft over a fistula (D) is not the recommended solution. The concern is that the fistula can steal flow through the shared arterial supply, so switching arms protects the coronary graft."
+  },
+  {
+   "topic": "Anastomosis and red hand",
+   "question": "Which fistula anastomosis technique is more likely to transmit high pressure to the distal hand veins, causing swelling and 'red hand syndrome'?",
+   "options": {
+    "A": "Side-of-artery to end-of-vein",
+    "B": "End-of-artery to end-of-vein",
+    "C": "Side-of-artery to side-of-vein",
+    "D": "The piggyback SLOT technique"
+   },
+   "correct": "C",
+   "explanation": "The correct answer is C: with the side-of-artery to side-of-vein method, higher pressures may be transmitted to the distal hand veins, causing swelling and 'red hand syndrome.' The side-of-artery to end-of-vein technique (A) prevents this venous hypertension because the distal vein is ligated off. End-to-end (B) and the piggyback SLOT technique (D) are not the cause; SLOT actually reduces torsion and juxta-anastomotic stenosis. In all AV fistula anastomoses distal arterial flow is preserved, but how venous outflow is handled determines hand congestion."
+  },
+  {
+   "topic": "Radial artery flow",
+   "question": "Immediately after creation of a radial artery fistula anastomosis, radial artery flow typically increases from a baseline of 20-30 mL/min to approximately what range?",
+   "options": {
+    "A": "50-80 mL/min",
+    "B": "100-150 mL/min",
+    "C": "200-300 mL/min",
+    "D": "600-900 mL/min"
+   },
+   "correct": "C",
+   "explanation": "The correct answer is C: the radial artery normally flows at 20-30 mL/min, and this increases to 200-300 mL/min immediately after creating the anastomosis, reflecting the low-resistance shunt into the vein. 50-80 (A) and 100-150 (B) understate this rise, and 600-900 (D) overstates the immediate value (600 mL/min is instead the mature fistula flow target). This roughly tenfold jump in flow drives the pressure- and flow-induced remodeling that matures the vein over the ensuing weeks."
+  },
+  {
+   "topic": "Intraoperative flow prediction",
+   "question": "In forearm fistulas, an immediate postsurgical flow in the anastomosed vein below what value was highly predictive of subsequent fistula failure?",
+   "options": {
+    "A": "250 mL/min",
+    "B": "120 mL/min",
+    "C": "400 mL/min",
+    "D": "600 mL/min"
+   },
+   "correct": "B",
+   "explanation": "The correct answer is B: in forearm fistulas, an immediate postoperative flow in the anastomosed vein below 120 mL/min was highly predictive of subsequent fistula failure. 250 (A), 400 (C), and 600 (D) mL/min are not the cited cutoff; 600 mL/min is the mature rule-of-6 target, not an intraoperative threshold. Measuring flow at surgery gives early warning: a fistula that starts with very low flow is unlikely to mature, prompting reconsideration or an alternative access before weeks are lost waiting."
+  },
+  {
+   "topic": "Preoperative arm exercise",
+   "question": "Some centers have patients perform arm exercises before fistula surgery with the goal of dilating the vein to what luminal size?",
+   "options": {
+    "A": "More than 2.5 mm",
+    "B": "More than 1.5 mm",
+    "C": "More than 6 mm",
+    "D": "More than 10 mm"
+   },
+   "correct": "A",
+   "explanation": "The correct answer is A: some centers have patients perform preoperative arm exercises for several weeks aiming to dilate the vein to a luminal size of more than 2.5 mm, matching the minimum diameter thought needed for a successful anastomosis. 1.5 mm (B) is only a borderline size, while 6 mm (C) and 10 mm (D) exceed what is targeted preoperatively (6 mm is the mature rule-of-6 diameter). The chapter notes that hand exercises to assist maturation, though widely used, have never been confirmed to help in a randomized trial."
+  },
+  {
+   "topic": "Rule of sixes",
+   "question": "According to the 'rule of 6,' a mature AV fistula should have a blood flow of at least what value?",
+   "options": {
+    "A": "300 mL/min",
+    "B": "450 mL/min",
+    "C": "600 mL/min",
+    "D": "900 mL/min"
+   },
+   "correct": "C",
+   "explanation": "The correct answer is C: by the 'rule of 6' a mature fistula should have a blood flow of at least 600 mL/min. 300 (A) and 450 (B) fall below the threshold and 900 (D) exceeds it. The full rule requires the vein to be 6 mm in diameter, lie less than 6 mm below the skin, carry at least 600 mL/min, and include a straight cannulation segment at least 6 cm long, with maturation generally by about 6 weeks. New fistulas should be examined within 4-6 weeks for these signs before cannulation is attempted."
+  },
+  {
+   "topic": "Maturation failure cause",
+   "question": "Which remediable cause of primary fistula maturation failure can often be corrected by surgical ligation?",
+   "options": {
+    "A": "An atherosclerotic feeding artery",
+    "B": "Preexisting vascular calcification",
+    "C": "Multiple tributary side branches siphoning off venous flow",
+    "D": "An inadequate anastomosis"
+   },
+   "correct": "C",
+   "explanation": "The correct answer is C: multiple tributary side branches can siphon off the increased venous flow, blunting the flow-induced pressure rise that drives maturation, and this is remediable because ligating the branches can bring about or hasten maturation. An atherosclerotic artery (A), preexisting calcification (B), and an inadequate anastomosis (D) are causes of primary maturation failure but are not readily corrected by simple ligation. Redirecting flow into the main venous channel restores the pressure the vein needs to remodel and enlarge."
+  },
+  {
+   "topic": "Failed maturation workup",
+   "question": "If a fistula cannot be cannulated or support dialysis at least 6 weeks after placement, what should be obtained?",
+   "options": {
+    "A": "A repeat Allen test",
+    "B": "An arteriography of the contralateral arm",
+    "C": "A venous catheter placement",
+    "D": "An imaging fistulogram"
+   },
+   "correct": "D",
+   "explanation": "The correct answer is D: if a fistula cannot be cannulated or support dialysis at least 6 weeks after placement, an imaging fistulogram should be obtained to identify the problem, such as a stenosis or siphoning side branches. A repeat Allen test (A) assesses palmar arterial flow, contralateral arteriography (B) evaluates the wrong arm, and placing a venous catheter (C) does not diagnose the failure. The fistulogram directly visualizes the access and its outflow, guiding targeted correction so the fistula can be salvaged rather than abandoned."
+  },
+  {
+   "topic": "Trial cannulation timing",
+   "question": "For a new fistula, when is the ideal time to perform the initial trial cannulation?",
+   "options": {
+    "A": "On a nondialysis day to avoid heparin-related complications",
+    "B": "During the first treatment after a long weekend",
+    "C": "Immediately after surgery in the recovery room",
+    "D": "Only after 6 months of maturation"
+   },
+   "correct": "A",
+   "explanation": "The correct answer is A: the initial trial cannulation of a new fistula should ideally be done on a nondialysis day to eliminate complications associated with heparin administration. Cannulating during the first treatment after a long weekend (B) risks fluid overload and abnormal chemistries; doing it immediately after surgery (C) precedes maturation, and waiting a full 6 months (D) is unnecessary. If a nondialysis-day trial is not possible, the midweek treatment is preferred, again to minimize post-long-interval fluid and electrolyte problems."
+  },
+  {
+   "topic": "Wet needle technique",
+   "question": "What is the primary advantage of using a 'wet needle' technique for cannulation?",
+   "options": {
+    "A": "It increases achievable blood flow rates",
+    "B": "It prevents recirculation between needles",
+    "C": "It eliminates the need to confirm needle placement",
+    "D": "Saline is less harmful to surrounding tissue if infiltration occurs, and it avoids blood spray from bleeding out air"
+   },
+   "correct": "D",
+   "explanation": "The correct answer is D: with a wet needle the saline is less harmful to surrounding tissue if infiltration occurs, and priming with saline avoids the blood spray or spill that results when bleeding out air from dry needles. It does not increase achievable flow (A), prevent recirculation (B), or remove the need to confirm placement (C); indeed placement must still be confirmed with a saline flush because blood return alone is inadequate. Purging air with saline also protects the dialysis staff, the patient, and nearby patients from blood exposure."
+  },
+  {
+   "topic": "Initial needle size",
+   "question": "What needle gauge is typically used for the initial cannulation attempts of a newly matured fistula?",
+   "options": {
+    "A": "14G",
+    "B": "15G",
+    "C": "20G",
+    "D": "17G"
+   },
+   "correct": "D",
+   "explanation": "The correct answer is D: the smallest available needle, usually a 17G, is used for initial cannulation of a newly matured fistula, with the caveat that a 17G delivers limited blood flow (no more than about 250 mL/min). Larger 14G (A), 15G (B), and 16G needles risk infiltrating an immature vessel; 20G (C) is not standard. Needle gauge is matched to vessel size by visual and tactile assessment (if the needle looks larger than the vein under tourniquet it is too big), then advanced to larger sizes only as vessel size and access flow allow."
+  },
+  {
+   "topic": "Prepump pressure",
+   "question": "During cannulation of a new fistula with a 17G needle, prepump arterial pressure should not exceed what value?",
+   "options": {
+    "A": "-250 mm Hg",
+    "B": "-150 mm Hg",
+    "C": "-100 mm Hg",
+    "D": "-400 mm Hg"
+   },
+   "correct": "A",
+   "explanation": "The correct answer is A: when cannulating a new fistula with a 17G needle, prepump arterial pressure should not exceed -250 mm Hg. -150 (B) and -100 (C) are more conservative than the stated limit and -400 (D) is excessively negative. Prepump arterial monitoring ensures the blood pump speed does not outpace what the needle can provide; an overly negative pressure signals the pump is pulling harder than the 17G access flow allows, risking hemolysis and access damage, so speed should be reduced or a larger needle used later."
+  },
+  {
+   "topic": "Cannulation angle",
+   "question": "At what insertion angle should the fistula be cannulated before flattening the needle once flashback is seen?",
+   "options": {
+    "A": "10 degrees",
+    "B": "25 degrees",
+    "C": "45 degrees",
+    "D": "90 degrees"
+   },
+   "correct": "B",
+   "explanation": "The correct answer is B: the fistula should be cannulated using a 25-degree insertion angle; once blood flashback appears, the angle is flattened parallel to the skin and the needle advanced slowly into the lumen. 10 degrees (A) is too shallow to enter cleanly, while 45 (C) and 90 (D) degrees are too steep and risk piercing the far vessel wall. Controlled angle technique, following tourniquet application and disinfection, minimizes infiltration; a too-steep angle on removal can likewise let the needle's cutting edge puncture the vein wall."
+  },
+  {
+   "topic": "Graft advantages",
+   "question": "Which of the following is a recognized advantage of AV grafts over fistulas?",
+   "options": {
+    "A": "Higher long-term patency rates",
+    "B": "Lower need for endovascular interventions",
+    "C": "Large surface area for needling, easy cannulation, and short maturation time",
+    "D": "Lower infection rate"
+   },
+   "correct": "C",
+   "explanation": "The correct answer is C: recognized advantages of AV grafts include a large surface area for needle placement, easy cannulation, short maturation time, and easy surgical handling. Higher long-term patency (A), lower need for endovascular interventions (B), and lower infection rate (D) are all advantages of fistulas, not grafts; grafts in fact have lower patency and require more interventions to stay open. These practical benefits explain why a graft is a reasonable initial choice when a patient's native vessels cannot support a fistula."
+  },
+  {
+   "topic": "Graft material choices",
+   "question": "Which statement about graft material and configuration is correct?",
+   "options": {
+    "A": "Modifying the distal anastomosis with a venous cuff may decrease venous stenosis and increase patency",
+    "B": "Tapered, externally supported, or elastic grafts outperform standard PTFE",
+    "C": "Short grafts have superior patency compared to long grafts",
+    "D": "Heparin-bonded graft materials provide clear long-term advantages"
+   },
+   "correct": "A",
+   "explanation": "The correct answer is A: modifying the distal anastomosis of a PTFE graft with a venous cuff may decrease venous stenosis and increase graft patency. The other options state the opposite of the evidence: tapered, externally supported, or elastic grafts do not outperform standard PTFE (B); short grafts have no patency advantage over long grafts (C); and newer heparin-bonded materials do not appear to confer clear long-term advantages (D). So aside from the venous cuff modification, elaborate graft variations have not proven superior to standard expanded PTFE."
+  },
+  {
+   "topic": "Cryopreserved grafts",
+   "question": "The use of cryopreserved vein grafts, especially those placed in the thigh, is associated with what?",
+   "options": {
+    "A": "Lower thrombosis rates",
+    "B": "Faster maturation than PTFE",
+    "C": "A higher risk of infection",
+    "D": "Reduced neointimal hyperplasia"
+   },
+   "correct": "C",
+   "explanation": "The correct answer is C: use of cryopreserved vein grafts, especially those placed in the thigh, is associated with a higher risk of infection. They are not linked to lower thrombosis (A), faster maturation than PTFE (B), or reduced neointimal hyperplasia (D). This infection risk, echoing the general caution that thigh grafts carry higher complication rates, is why the choice of synthetic versus biologic material rests on surgeon preference and experience, with expanded PTFE remaining the usual default conduit."
+  },
+  {
+   "topic": "Distal graft tradeoff",
+   "question": "A distal graft in the nondominant arm is generally preferred initially, but carries what disadvantage compared with proximal grafts?",
+   "options": {
+    "A": "Higher infection rates",
+    "B": "Longer maturation time",
+    "C": "Inability to be cannulated",
+    "D": "More frequent episodes of thrombosis"
+   },
+   "correct": "D",
+   "explanation": "The correct answer is D: a distal graft in the nondominant arm is generally preferred initially because it preserves proximal arm sites for future access, but distal grafts are associated with more frequent episodes of thrombosis. The tradeoff is not higher infection (A), longer maturation (B), or inability to cannulate (C). A distal graft (for example a straight forearm graft from the radial artery to an antecubital vein) can also sometimes mature a proximal downstream vein for later conversion to an AV fistula, adding to its strategic value despite the clotting risk."
+  },
+  {
+   "topic": "PTFE graft maturation",
+   "question": "A standard PTFE graft should not be cannulated for at least how long after placement?",
+   "options": {
+    "A": "2 weeks",
+    "B": "1 week",
+    "C": "24 hours",
+    "D": "6 weeks"
+   },
+   "correct": "A",
+   "explanation": "The correct answer is A: a standard PTFE graft should not be cannulated for at least 2 weeks after placement, and is mature only when edema and erythema have resolved and the graft course is easily palpable. 1 week (B) and 24 hours (C, which applies to certain composite early-use grafts) are too soon, and 6 weeks (D) is the fistula-type interval. Adhesion between graft and tunnel to prevent hematoma takes at least 2-3 weeks; cannulating an edematous, non-palpable graft invites inaccurate insertion, hematoma, or frank laceration."
+  },
+  {
+   "topic": "Access physical exam",
+   "question": "Physical examination of an AV access is emerging as an important tool primarily because it can do what?",
+   "options": {
+    "A": "Accurately detect and localize stenotic lesions in most patients",
+    "B": "Replace all need for fistulography",
+    "C": "Measure exact access blood flow in mL/min",
+    "D": "Visualize the central veins directly"
+   },
+   "correct": "A",
+   "explanation": "The correct answer is A: physical examination is valued because multiple studies show it can accurately detect and localize stenotic lesions in a great majority of patients with an AV access. It does not replace all fistulography (B), measure exact flow in mL/min (C), or directly visualize the central veins (D). Being noninvasive and cost-effective, it is emerging as an important tool for both postoperative monitoring of a new access and evaluation of access dysfunction, complementing rather than replacing imaging when a lesion must be confirmed."
+  },
+  {
+   "topic": "Central stenosis signs",
+   "question": "The presence of face, neck, or breast swelling in an access patient usually indicates what?",
+   "options": {
+    "A": "An inflow arterial stenosis",
+    "B": "Central venous stenosis",
+    "C": "A side branch in the fistula",
+    "D": "A maturing fistula"
+   },
+   "correct": "B",
+   "explanation": "The correct answer is B: face, neck, or breast swelling in an access patient usually indicates central venous stenosis, as the obstructed central outflow backs up into these territories. It is not a sign of inflow arterial stenosis (A), a fistula side branch (C), or normal maturation (D). Collateral veins over the chest or shoulder likewise point to downstream stenosis. Inspection should extend beyond the access to the arm, shoulder, breast, neck, and face, and any such swelling should prompt central vein imaging such as venography."
+  },
+  {
+   "topic": "Pulse augmentation test",
+   "question": "The pulse augmentation test is used to evaluate which segment of an AV access?",
+   "options": {
+    "A": "The outflow tract",
+    "B": "The inflow segment",
+    "C": "The central veins",
+    "D": "The cannulation zone only"
+   },
+   "correct": "B",
+   "explanation": "The correct answer is B: the pulse augmentation test evaluates the inflow segment, whereas the arm elevation test assesses the outflow tract (A). It does not directly test the central veins (C) or only the cannulation zone (D). The access is occluded a few centimeters beyond the arterial anastomosis and the upstream pulse should augment (become hyperpulsatile) if inflow is good; it can also unmask side branches, because a persistent thrill and failure to augment after outflow occlusion signal an accessory outflow pathway that must be located."
+  },
+  {
+   "topic": "Arm elevation test",
+   "question": "The arm elevation test is considered abnormal when what is observed?",
+   "options": {
+    "A": "The fistula collapses completely on elevation",
+    "B": "The fistula remains plump and fails to collapse",
+    "C": "The thrill disappears on elevation",
+    "D": "The pulse augments on elevation"
+   },
+   "correct": "B",
+   "explanation": "The correct answer is B: the arm elevation test is abnormal when the fistula remains plump and fails to collapse on elevation, indicating downstream (outflow) stenosis. Normal collapse on elevation (A) is the expected finding, and a disappearing thrill (C) or an augmenting pulse (D) belong to other maneuvers. Because it assesses the outflow tract, this simple bedside test complements the pulse augmentation test of inflow; a fistula that stays distended when raised has obstructed venous return that should be pursued with imaging."
+  },
+  {
+   "topic": "Mature access needle size",
+   "question": "In mature accesses supporting high-efficiency dialysis (>350 mL/min), what needle size is generally needed?",
+   "options": {
+    "A": "20G",
+    "B": "17G",
+    "C": "16G",
+    "D": "15G"
+   },
+   "correct": "D",
+   "explanation": "The correct answer is D: mature accesses supporting high-efficiency dialysis (>350 mL/min) generally need larger 15G needles to deliver those flows. Smaller 16G to 17G needles (B, C) are used only during initial cannulation and cannot support high flow (a 16G delivers no more than about 350 mL/min, a 17G no more than about 250 mL/min), and 20G (A) is far too small. Needle size is therefore progressively increased from 17G as vessel size and access flow permit, matching the gauge to the flow the treatment requires."
+  },
+  {
+   "topic": "Loop graft needle reversal",
+   "question": "In forearm loop grafts, what is true about the arterial limb in more than 80% of cases?",
+   "options": {
+    "A": "It lies medially (ulnar side)",
+    "B": "It lies on the radial side",
+    "C": "It cannot be located by physical exam",
+    "D": "It always points downstream"
+   },
+   "correct": "A",
+   "explanation": "The correct answer is A: in more than 80% of forearm loop grafts the arterial limb lies medially, on the ulnar side, but in the remainder it lies on the radial side (B). It can usually be located by physical exam (making C wrong) rather than assumed. If staff do not know a given graft runs opposite to the usual direction, reverse needle placement can occur, raising recirculation to more than 20% and delivering inadequate dialysis. When in doubt, transient occlusion with palpation on either side, or a surgeon's road-map diagram, reveals the true flow direction."
+  },
+  {
+   "topic": "Buttonhole cannulation",
+   "question": "Which statement accurately describes the buttonhole cannulation method?",
+   "options": {
+    "A": "It uses the same limited needle tracts repeatedly with dulled needles once developed",
+    "B": "It is preferred for AV grafts over fistulas",
+    "C": "It requires a different site for every treatment",
+    "D": "It clearly prolongs fistula longevity and reduces infection"
+   },
+   "correct": "A",
+   "explanation": "The correct answer is A: the buttonhole method punctures the fistula through the same limited tracts repeatedly, using special dulled needles once the tract is established to minimize laceration. It is not preferred for grafts (B); there is no published experience in grafts and it should not be tried in them. It does not use a different site each time (C, that is the rotating 'ladder' technique), and does not clearly prolong longevity or reduce infection (D); in fact it may increase infectious complications. Success is highly technique-dependent and demands strict infection control."
+  },
+  {
+   "topic": "Prolonged bleeding",
+   "question": "Prolonged bleeding lasting more than 20 minutes after needle removal may indicate what?",
+   "options": {
+    "A": "An inflow arterial stenosis",
+    "B": "A maturing fistula",
+    "C": "Increased intra-access pressure due to an unsuspected outflow stenosis",
+    "D": "Inadequate anticoagulation"
+   },
+   "correct": "C",
+   "explanation": "The correct answer is C: prolonged bleeding lasting more than 20 minutes after needle removal may indicate increased intra-access pressure from an unsuspected outflow stenosis, the same mechanism that raises intragraft pressure and threatens thrombosis. It is not a sign of inflow arterial stenosis (A), a maturing fistula (B), or inadequate anticoagulation (D); in fact excessive anticoagulation is a competing cause. Other causes include therapeutic warfarin dosing and heparin escape from a venous catheter lock during transition from catheter to fistula, but a fixable outflow stenosis must be excluded."
+  }
+ ]
+}

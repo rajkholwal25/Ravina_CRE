@@ -1,0 +1,1054 @@
+172
+ I. THE HEMODIALYSIS PRESCRIPTION.  All patients are different, and 
+the circumstances eventuating in the need for acute hemodi -
+alysis vary widely. The prescription for hemodialysis will change 
+accordingly. As a teaching tool only, we present a “typical” 
+ prescription for an acute hemodialysis in a 70-kg adult.
+Rx: Acute hemodialysis (not for initial treatment)
+Session length: Perform hemodialysis for 4 hours
+Blood flow rate: 350 mL/min
+Dialyzer: 
+Dialyzer membrane: your choice
+Dialyzer KUF: your choice
+Dialyzer efficiency: usually a dialyzer with a K 0A of 800–1200 
+is used
+Dialysis solution composition (variable): 
+Base: bicarbonate 25 mM
+Sodium: 145 mM
+Potassium: 3.5 mM
+Calcium: 1.5 mM (3.0 mEq/L)
+Magnesium: 0.375 mM (0.75 mEq/L)
+Dextrose: 5.5 mM (100 mg/dL)
+Phosphate: none
+Dialysis solution flow rate: 500 mL/min
+Dialysis solution temperature: 35°C–36°C
+Fluid removal orders:
+Remove 2.2 L over 4 hours at a constant rate
+Anticoagulation orders:
+See Chapter 14
+A. Determining dialysis session length and blood flow rate.  The dialysis 
+session length together with the blood flow rate is the most 
+important determinant of the amount of dialysis to be given 
+(dialyzer efficiency is also a factor).
+1. Reduce the amount of dialysis for the initial one or two sessions. For
+the initial treatment, especially when the predialysis serum 
+urea nitrogen (SUN) level is very high (e.g., >125 mg/dL  
+[44  mmol/L]), the dialysis session length and blood flow
+rate should both be reduced. A urea reduction ratio of <40% 
+should be targeted. This usually means using a blood flow
+Acute Hemodialysis 
+Prescription
+Edward A. Ross, Allen R. Nissenson, 
+and John T. Daugirdas
+10
+Daugirdas9781451144291-ch010.indd   172 09/10/14   1:08 am
+Chapter 10 / Acute Hemodialysis Prescription 173
+rate of only 200 mL/min (150 mL/min in small patients) for 
+adults along with a 2-hour treatment time and a relatively 
+low-efficiency hemofilter. A longer initial dialysis session 
+or use of excessively high blood flow rates in the acute set -
+ting may result in the so-called disequilibrium syndrome, 
+described more fully in Chapter 12. This neurologic syn-
+drome, which includes the appearance of obtundation, or 
+even seizures and coma, during or after dialysis, has been 
+associated with excessively rapid removal of blood solutes. 
+The risk of disequilibrium syndrome is increased when the 
+predialysis SUN level is high. After the initial dialysis ses-
+sion, the patient can be reevaluated and should generally 
+be dialyzed again the following day. The length of the sec-
+ond dialysis session can usually be increased to 3 hours, 
+provided that the predialysis SUN level is <100 mg/dL 
+(36 mmol/L). Subsequent dialysis sessions can be as long 
+as needed. The length of a single dialysis treatment rarely 
+exceeds 6 hours unless the purpose of dialysis is treatment 
+of drug overdose. Slow low-efficiency hemodialysis (SLED) 
+uses low blood and dialysis solution flow rates and longer 
+treatment sessions in order to more safely remove fluid. 
+SLED is described in Chapter 15.
+2. Dialysis frequency and dose for subsequent treatments and dialysis  
+adequacy. I t is difficult to deliver a large amount of dialysis in 
+the acute setting. Most intensive care unit patients are fluid 
+overloaded, and urea distribution volume is often much 
+greater than 50%–60% of body weight. True delivered blood 
+flow rate through a venous catheter rarely exceeds 350 mL/
+min and is often substantially lower. Recirculation occurs in 
+venous catheters and is greatest with catheters in the femo-
+ral position owing to the low pericatheter venous flow rate. 
+Often, the treatment is interrupted owing  to hypotension. 
+Furthermore, the degree of urea sequestration in muscle 
+may be increased, as such patients are often on pressors, re-
+ducing blood flow to muscle and skin, which contain a sub-
+stantial portion of urea and other dissolved waste products. 
+Concomitant intravenous infusions, which are  often given 
+to patients in an acute setting, dilute the urea level in the 
+blood and reduce further the efficiency of dialysis.
+A typical 3- to 4-hour acute-dialysis session will deliver 
+a single-pool Kt /V of only 0.9, with an equilibrated Kt /V of 
+0.7. Dialysate-side urea removal may be even lower (Evan-
+son, 1999). This low level of Kt /V, if given three times per 
+week, is associated with a high mortality in chronic, stable 
+patients. One option is to dialyze sick patients with acute 
+renal failure on a daily (six or seven times per week) basis. 
+Each treatment is then approximately 3–4 hours in length. 
+Data by Schiffl (2002) suggest that mortality is reduced in 
+patients with acute renal failure dialyzed six times per week 
+as opposed to those receiving dialysis every other day. If 
+every-other-day dialysis is to be given, the treatment length 
+Daugirdas9781451144291-ch010.indd   173 09/10/14   1:08 am
+Part II / Blood-Based Therapies
+174
+should probably be set at 4–6 hours, to deliver a single-
+pool Kt/V of at least 1.2–1.3, as recommended for chronic 
+therapy. The VA/NIH (2008) study compared outcomes in 
+acute patients dialyzed either 3 or 6 times per week and 
+found absolutely no difference in outcomes. The intensity 
+of dialysis in the 3-times-per-week group was substantially 
+higher (Kt/V of 1.3 or more) than in the Schiffl article. For 
+this reason, the KDIGO workgroup on acute kidney injury 
+(2012) recommends that when attempting to maintain 
+acute patients on a 3-times-per-week schedule, each treat -
+ment should have a Kt /V of ≥1.3. When there is a concern 
+that there is inconsistent dialysis delivery (e.g., catheter 
+flow or hollow-fiber thrombosis problems), one can verify 
+HD adequacy by assessing the URR using blood tests or 
+devices that measure real-time solute clearance (ionic con-
+ductance or UV-absorption technologies).
+The amount of dialysis may need to be adjusted up-
+ward in hypercatabolic patients. A low predialysis SUN 
+level should not be used as a justification to reduce the 
+amount of dialysis unless substantial residual renal urea 
+clearance is documented; many acute renal failure patients 
+tend to have decreased urea generation rates due to lack of 
+protein ingestion and/or to impairment of urea synthesis 
+by the liver. Therefore, in such patients a low SUN does not 
+necessarily reflect low levels of other uremic toxins.
+B. Choosing a dialyzer
+1. Membrane material. A C ochrane report has suggested that no 
+firm conclusions could be drawn as of 2006 regarding the 
+benefits of any one group of modern dialysis membranes 
+over another for acute or chronic dialysis. The best dialyzer 
+to select for acute dialysis, therefore, remains unclear. No 
+recommendation favoring use of high-flux membranes for 
+acute dialysis can be made at this time, as membrane flux 
+has not been studied as a separate factor in any random-
+ized study of acute dialysis.
+a. Anaphylactoid reactions.  T hese can occur and depend on 
+both membrane material and sterilization mode. See 
+Chapter 12 for details.
+2. Ultrafiltration coefficient ( KUF). U ltrafiltration controllers are 
+now available on all modern dialysis machines, and these 
+accurately control the ultrafiltration rate by means of spe -
+cial pumps and circuits. Machines with volumetric ultra-
+filtration controllers are designed to use dialyzers of high 
+water permeability (e.g., KUF > 6.0) and may lose accuracy if 
+a high fluid removal rate is attempted using a dialyzer that 
+is relatively impermeable to water.
+In the unlikely event that a dialysis machine with an 
+ultrafiltration controller is not available, then a membrane 
+with a relatively low water permeability (KUF) should be cho-
+sen so that the transmembrane pressure (TMP) will have to 
+be set at a relatively high level to remove the amount of fluid 
+Daugirdas9781451144291-ch010.indd   174 09/10/14   1:08 am
+Chapter 10 / Acute Hemodialysis Prescription 175
+desired; then the inevitable errors in maintaining the  desired 
+TMP will have less impact on the rate of fluid removal. When 
+close monitoring of the fluid removal rate is required and a 
+machine with advanced ultrafiltration control circuitry is 
+not available, the fluid removal rate can be monitored by 
+placing the patient on an electronic bed or chair scale and 
+continuously following the weight during dialysis.
+3. Dialyzer urea clearance.  F or the first couple of dialysis ses-
+sions, it is best to avoid using very high-efficiency dialyzers, 
+although these can be used as long as the blood flow is low. 
+A dialyzer with an in vitro K0A urea of about 500–600 mL/
+min is recommended for the initial session to minimize the 
+risk of inadvertent overdialysis and of developing the dis-
+equilibrium syndrome, although even with such lower ef-
+ficiency dialyzers, a markedly shortened dialysis session is 
+required to prevent overdialysis. When heparin-free dialy-
+sis is used, there is less risk (theoretically) of clotting when 
+a lower blood flow rate is used with a smaller dialyzer, as 
+the blood velocity through a small fiber bundle will be 
+higher. After the initial one or two sessions, particularly if 
+a high blood flow rate is being used, normal-sized dialyzers 
+can be chosen.
+C. Choosing the dialysis solution.  I n our example, we have  chosen 
+a bicarbonate level of 25 mM with a sodium level of 145 mM, 
+a potassium level of 3.5 mM, a calcium level of 1.5 mM  
+(3.0 mEq/L), a magnesium level of 0.375 mM (0.75 mEq/L), a 
+dextrose level of 5.5 mM (100 mg/dL), and no phosphorus. De-
+pending on the circumstances, this prescription may have to 
+be altered in a given patient. It is important to recognize that 
+for acute patients the dialysis solution composition should be 
+tailored. The “standard” composition designed for acidotic, 
+hyperphosphatemic, hyperkalemic, chronic dialysis patients 
+is often inappropriate in an acute setting.
+1. Dialysis solution bicarbonate concentration.  I n the sample pre-
+scription mentioned earlier, we have chosen to use a 25 mM 
+bicarbonate level. Intensive care unit patients are often  
+relatively alkalotic for reasons described in what follows, 
+and so prescriptions for “standard” bicarbonate dialysis 
+ solution, containing 35–38 mM, should not be used with-
+out first carefully evaluating the patient’s acid–base status.
+If the predialysis plasma bicarbonate level is 28 mM 
+or higher, or if the patient has respiratory alkalosis, a cus -
+tom dialysis solution containing an appropriately lower 
+ bicarbonate level (e.g., 20–28 mM, depending on the degree 
+of alkalosis) should be used. One should remember that 
+many dialysis solutions provide an additional 4–8 mEq/L 
+of  bicarbonate-generating base from acetate or citrate as 
+discussed in Chapter 5. In machines where the dialysate 
+bicarbonate level can be adjusted by changing the propor -
+tioning ratio between the acid and base concentrates, final 
+dialysate bicarbonate levels shown on the display screen 
+Daugirdas9781451144291-ch010.indd   175 09/10/14   1:08 am
+Part II / Blood-Based Therapies
+176
+often correspond to bicarbonate after mixing with the acid 
+concentrate, and so the value shown may not incude the 
+added base content coming from acetate or citrate. 
+a. Dangers of metabolic alkalosis.  A dialysis patient with even
+a mild metabolic alkalosis (e.g., plasma bicarbonate
+level of 30 mmol/L) requires very little hyperventila-
+tion to increase blood pH to dangerous levels. Alkalemia 
+(blood pH > 7.50) may be more dangerous than acide-
+mia. Dangers of alkalemia include soft tissue calcifica -
+tion and cardiac arrhythmia (sometimes with sudden
+death), 
+ although documentation of the latter risk in the
+ literature is not easy to find. Alkalemia has also been as -
+sociated with such adverse symptoms as nausea, leth-
+argy, and headache.
+In dialysis patients, the most common causes of 
+metabolic alkalosis are a reduced intake of protein, 
+ intensive dialysis for any reason (e.g., daily dialysis), 
+and vomiting or nasogastric suction. Another common 
+cause is administered lactate or acetate with total par -
+enteral nutrition (TPN) solutions, or citrate due to citrate 
+ anticoagulation.
+b. Predialysis respiratory alkalosis.  Many patients who are
+candidates for acute dialysis have preexisting respira -
+tory alkalosis. The causes of respiratory alkalosis are the 
+same as in patients with normal renal function and in-
+clude pulmonary disease (pneumonia, edema, embolus), 
+hepatic failure, and central nervous system disorders.
+Normally, compensation for respiratory alkalosis is two-
+fold. There is an acute decrease in the plasma bicarbon-
+ate level owing  to release of hydrogen ions from body
+buffer stores. In patients with normal renal function,
+there is a further delayed (2–3 days) compensatory fall
+in the plasma bicarbonate level because of excretion of
+bicarbonate in the urine. Renal bicarbonate excretion
+obviously cannot occur in dialysis patients.
+The therapeutic goal should always be to 
+ normalize 
+the pH rather than the plasma bicarbonate level. In patients 
+with respiratory alkalosis, the plasma bicarbonate level at 
+which the blood pH will be normal may be as low as 17–20 
+mmol/L; the dialysis solution to use should contain less than 
+the usual amount of bicarbonate to achieve a postdialysis 
+plasma bicarbonate level in the desired subnormal range.
+c. Achieving an appropriately low dialysis solution bicarbonate
+level. In certain machines, the proportioning ratio of
+concentrate to product water is fixed, and as a result, the
+dialysis solution bicarbonate level can be reduced only by
+changing the concentrate bicarbonate level. With such
+machines, the bicarbonate cannot be reduced below about 
+32 mM. In machines where the concentrate-to-product
+water ratio can be changed, bicarbonate levels as low as
+20 mM usually can be delivered, but not lower, and this
+Daugirdas9781451144291-ch010.indd   176 09/10/14   1:08 am
+Chapter 10 / Acute Hemodialysis Prescription 177
+does not include the 4-8 mEq/L from acetate or citrate.  
+When attempting to provide a low-base-content dialysate, 
+sodium diacetate-containing concentrate should not be 
+used, as this will increase the base content by 8 mEq/L.
+d. Patients with severe predialysis acidosis
+1. Dangers of excessive correction of metabolic acidosis.    
+Excessive correction of severe metabolic acidosis 
+(starting plasma bicarbonate level <10 mmol/L) can 
+have adverse consequences, including lowering of the 
+ionized calcium level and a paradoxical acidification 
+of the cerebrospinal fluid and an increase in the tissue 
+production rate of lactic acid. Initial therapy should 
+aim for only partial correction of the plasma bicar -
+bonate level; a target postdialysis plasma bicarbonate 
+value of 15–20 mmol/L is generally appropriate; and 
+for such severely acidotic patients, a dialysis solution 
+bicarbonate level of 20–25 mM is normally used.
+2. Respiratory acidosis.  T he normal compensation to 
+ respiratory acidosis is an acute buffer response, 
+which can increase the plasma bicarbonate level by 
+2–4 mmol/L, followed by a delayed (3–4 days) increase 
+in renal bicarbonate generation. Because the second 
+response is obviated in dialysis patients, respiratory 
+acidosis will have a more pronounced effect on blood 
+pH than in patients with normal renal function. For 
+such patients, dialysis solution bicarbonate levels 
+should be at the higher range, targeted to keep their 
+pH in the normal range.
+2. Dialysis solution sodium level.  T he dialysis solution sodium 
+level in the sample prescription is 145 mM. This level is 
+generally acceptable for patients who have normal or 
+slightly reduced predialysis serum sodium concentrations. 
+If marked predialysis hypernatremia or hyponatremia is 
+present, the dialysis solution sodium level will have to be 
+adjusted accordingly.
+a. Hyponatremia. H yponatremia is common in seriously ill 
+patients requiring acute dialysis, primarily because such 
+patients have often received large amounts of hyponat -
+ric intravenous solutions with their medications and 
+parenteral nutrition. Hyponatremia is frequently seen 
+accompanying severe hyperglycemia in diabetic dialysis 
+patients. For every increase of 100 mg/dL (5.5 mmol/L) 
+in the serum glucose concentration, there is a corre-
+sponding initial decrease of 1.6 mmol/L in the serum so-
+dium concentration as a result of osmotic shift of water 
+from the intracellular to the extracellular compartment. 
+ Because osmotic diuresis secondary to the hyperglyce-
+mia does not occur, the excess plasma water is not ex -
+creted, and hyponatremia is maintained. Correction of 
+hyperglycemia by insulin administration reverses the ini-
+tial water shift and thereby corrects the hyponatremia.
+Daugirdas9781451144291-ch010.indd   177 09/10/14   1:08 am
+Part II / Blood-Based Therapies
+178
+1. Predialysis serum sodium level .130 mmol/L. Intensive care 
+patients often tend to be slightly hyponatremic, as
+they often are given various intravenous drugs in 5%
+dextrose and water.  The goal should be to keep serum 
+sodium at or above 140 mmol/L, and dialysis 
+ solution 
+sodium should be in the range of 140-145  mM. The
+ potential benefits of keeping dialysis solution  sodium 
+<10 mM above the serum level in patients with pos-
+sible brain edema and/or hypotension have been
+ reviewed by Davenport (2008).
+2. Predialysis serum sodium level , 130 mmol/L.  When the
+degree of predialysis hyponatremia is moderate to
+severe, and especially if the hyponatremia is of long
+duration, it is  dangerous to achieve normonatremia
+quickly. Rapid correction of hyponatremia has been
+linked to a potentially fatal neurologic syndrome
+known as osmotic demyelination syndrome  (Huang,
+2007). The maximum safe rate of correction of the se-
+rum sodium concentration in severely hyponatremic
+patients is controversial  but probably is in the range
+of 6-8 mmol/L per 24 hours. At this stage of incomplete 
+knowledge, it seems prudent when treating patients
+with severe hyponatremia to set the dialysis solution
+sodium level as low as possible (with most machines
+one can go no lower than 130 mM, although with the
+Dialog Plus machine from B.Braun one can get down
+to a dialysate sodium of ~123 mM), and to dialyze at
+a slow (50-100 mL/min) blood flow rate, and for not
+longer than 1 hour at a time, alternating with isolated
+ultrafiltration as needed for volume control.  One can
+check the serum sodium after each 30–60 min of dialy-
+sis to ensure that the desired rate of sodium increase is 
+not being exceeded. In one case report, use of a 50 mL/
+min blood flow over 3 hours resulted in the desired
+increase in the serum sodium of 6 mmol/L over the
+3-hour dialysis period (Wendland and Kaplan, 2012).
+Another approach is to delay dialysis for a few days if
+possible and to treat hyponatremia with hypertonic
+saline, removing excess fluid by isolated ultrafiltration 
+as needed.  If continuous hemodialysis or hemofiltra-
+tion is available, use of one of these modalities with
+an 
+ appropriate sodium-reduced dialysis solution/
+replacement fluid is another good option and allows
+for the greatest control of the rate of serum sodium in-
+crease (Yessayan, 2014). 
+b. Hypernatremia. Hypernatremia is less common than hy -
+ponatremia in a hemodialysis setting but does occur,
+usually in a context of dehydration, osmotic diuresis, and 
+failure to give sufficient electrolyte-free water. It is some-
+what dangerous to attempt to correct hypernatremia by
+hemodialyzing against a low-sodium dialysis solution.
+Daugirdas9781451144291-ch010.indd   178 09/10/14   1:08 am
+Chapter 10 / Acute Hemodialysis Prescription 179
+Whenever the dialysis solution sodium level is more 
+than 3–5 mM lower than the plasma value, three compli-
+cations of dialysis occur with increased incidence:
+1. Osmotic contraction of the plasma volume occurs as
+water shifts from the dialyzed blood (containing less
+sodium than before) to the relatively hyperosmotic in-
+terstitium, causing hypotension.
+2. The propensity to develop muscle cramps is increased.
+3. Water from the dialyzed, relatively hyponatremic
+blood enters cells, causing cerebral edema and exac -
+erbating the disequilibrium syndrome.
+The risk of disequilibrium syndrome is the most im-
+portant one; use of low-sodium dialysis solution should 
+certainly be avoided in situations in which the predialysis 
+SUN level is high (e.g., > 100 mg/dL [36 mmol/L]). The 
+safest approach is to first dialyze a patient with a dialysis 
+solution sodium level close to that of plasma and then 
+correct the hypernatremia by slow administration of 
+slightly hyponatric fluids.
+3. Dialysis solution potassium level.  The usual dialysis solution
+potassium concentration for acute dialysis ranges from
+2.0 to 4.5 mM. An important number of patients requiring
+acute dialysis will have a plasma potassium value in the
+normal or even the subnormal range, especially in patients 
+with nonoliguric acute renal failure and in oliguric patients 
+if food intake is poor. Hypokalemia is also a complication
+of TPN. Correction of severe acidosis during dialysis causes 
+a shift of potassium into cells, lowering the plasma potas-
+sium level further. Hypokalemia and arrhythmia can result.
+When the predialysis serum potassium level is 
+<4.5 mmol/L, the dialysis solution potassium level can  be 
+≥4.0 mM, with special caution needed in cardiac patients 
+prone to arrhythmias. In patients with a predialysis plasma 
+potassium level >5.5 mmol/L, a dialysis solution potas-
+sium level of 2.0 is usually appropriate in stable patients, 
+but the dialysis solution potassium concentration should 
+be raised to 2.5 to 3.5 in patients at risk for arrhythmia or 
+in those receiving digitalis. If the potassium level is >7.0, 
+some nephrologists will use a dialysis solution potassium 
+level below 2.0 mM. However, the plasma potassium level 
+must be monitored hourly, and there is considerable dan-
+ger of precipitating arrhythmia if the plasma potassium 
+concentration is lowered too rapidly.
+a. Potassium rebound. There is a marked rebound increase in 
+the serum potassium level within 1–2 hours after dialy-
+sis. One should resist the temptation to treat a postdi-
+alysis hypokalemia with potassium supplements unless
+there are extenuating circumstances.
+b. Acute hyperkalemia.  Patients with very severe hyperkale -
+mia present with alterations on the electrocardiogram
+(low P waves, peaked T waves, widening of the QRS,
+Daugirdas9781451144291-ch010.indd   179 09/10/14   1:08 am
+Part II / Blood-Based Therapies
+180
+cardiac standstill), along with weakness and lethargy. 
+Such patients should be treated immediately with in-
+travenous infusion of calcium chloride or calcium glu-
+conate and/or intravenous glucose plus insulin while 
+arrangements for emergency hemodialysis are being 
+made. The response to intravenous sodium bicarbonate 
+in dialysis patients is suboptimal. Another therapy is in -
+travenous or inhaled albuterol.
+c. Subacute hyperkalemia.  Initial treatment should always
+be a careful review of the diet for high-potassium foods.
+The majority of patients respond to reduced alimentary
+potassium intake. If this fails, then oral administration
+of a sodium–potassium exchange resin (e.g., sodium
+polystyrene sulfonate) can be tried. The resin usually
+is given orally with sorbitol to prevent constipation, or
+mixed with sorbitol as an enema. However, several re-
+ports of intestinal necrosis associated with sorbitol and
+oral sodium polystyrene sulfonate have been published
+(e.g., Gardiner, 1997). New, potentially safer and more ef-
+fective gastrointestinal potassium binders, such as ZS-9
+(ZS Pharma, Inc., Coppell, TX) and Patiromer (Relypsa,
+Redwood City, CA) are undergoing clinical trials.
+d. Potassium removal and dialysis solution glucose.  Potassium
+removal during dialysis using glucose-free dialysis solu-
+tion may be 30% greater than potassium removal using
+a 200 mg/dL (11 mmol/L) glucose solution because with 
+glucose-free dialysis solution there may be decreased in-
+tradialytic translocation of potassium into cells (Ward,
+1987). Use of a dialysis solution containing 100 mg/dL
+(5.5 mmol/L) glucose may be the best option, and this
+concentration is becoming the industry standard.
+4. Dialysis solution calcium levels.  Our generally recommended  
+level for acute dialysis is 1.5–1.75 mM (3.0–3.5 mEq/L).
+There is some evidence that dialysis solution calcium lev-
+els <1.5 mM (3.0 mEq/L) predispose to hypotension during 
+dialysis (van der Sande, 1998). In patients with predialysis
+hypocalcemia, unless a sufficiently high dialysis solution
+calcium level is used, correction of acidosis can result in
+further lowering of the ionized plasma calcium level (with
+possible precipitation of seizures). One study showed
+that QTc dispersion increased (potentially promoting ar -
+rhythmias) when a low calcium dialysis solution was used
+(Nappi, 2000). Routine use of 1.25 mM (2.5 mEq/L) calcium 
+dialysis solution (now standard for treatment of chronic
+dialysis patients taking calcium-containing phosphorus
+binders) to treat patients with acute renal injury is not un-
+common, however, and there is little hard evidence to show 
+that such a practice is harmful.
+a. Dialytic treatment of acute hypercalcemia.  Hemodialysis can
+be effective in lowering the serum calcium concentra-
+tion in hypercalcemic patients. In most commercially
+Daugirdas9781451144291-ch010.indd   180 09/10/14   1:08 am
+Chapter 10 / Acute Hemodialysis Prescription 181
+prepared hemodialysis solutions, the calcium concentra-
+tion ranges from 1.25 to 1.75 mM (2.5–3.5 mEq/L). Under 
+most circumstances, w e prefer to add at least 1.25 mM 
+(2.5 mEq/L) calcium to the hemodialysis solution to 
+minimize the possibility of an overly rapid decrease in 
+the serum ionized calcium (which can cause tetany or 
+seizures). Frequent measurement of the serum ionized 
+calcium concentration and physical examination of the 
+patient should be performed during dialysis to avoid 
+these complications.
+5. Dialysis solution magnesium levels.  The usual dialysis
+ solution magnesium  level ranges from 0.25 to 0.75 mM  
+(0.5–1.5 mEq/L). Magnesium is a vasodilator, and in acute di-
+alysis, one preliminary report suggests that blood pressure is 
+better maintained when a dialysis solution magnesium level
+of 0.375 mM (0.75 mEq/L) was used versus a  dialysis solu-
+tion containing 0.75 mM (1.5 mEq/L) magnesium (Roy and
+Danziger, 1996). In another article (Kyriazis, 2004), a low di-
+alysate magnesium level of 0.25 mM (0.50 mEq/L) was asso-
+ciated with intradialytic hypotension, especially when a low
+dialysate calcium was also used. So the best dialysis solution 
+magnesium level to use for acute dialysis in terms of blood
+pressure maintenance remains unknown.
+a. Hypomagnesemia. Hypomagnesemia occurs in malnour -
+ished dialysis patients and in dialysis patients receiving 
+TPN ( owing to shifting of magnesium into cells dur -
+ing anabolism). Hypomagnesemia can cause cardiac
+arrhythmia and can impair the release and action of
+parathyroid hormone. Cautious supplementation (e.g.,
+orally, intravenously) or increasing the concentration in 
+the dialysate may be needed. Serum magnesium values
+should be carefully monitored in dialysis patients dur -
+ing TPN, and TPN fluids should be supplemented rou-
+tinely with magnesium unless the serum magnesium
+level is high.
+b. Hypermagnesemia. Hypermagnesemia is usually caused
+by accidental or covert use of magnesium-containing
+laxatives, enemas, or antacids. Manifestations of hy-
+permagnesemia include hypotension, weakness, and
+bradyarrhythmias. Treatment is cessation of ingestion of 
+magnesium-containing compounds. Hemodialysis also
+is effective in lowering the serum magnesium level.
+6. Dialysis solution dextrose level.  Dialysis solution for acute
+dialysis should always contain dextrose (100–200 mg/dL;
+5.5–11 mmol/L). Septic patients, diabetics, and patients
+receiving beta-blockers are at risk of developing severe
+hypoglycemia during dialysis. Addition of dextrose to the
+dialysis solution reduces the risk of hypoglycemia and may 
+also result in a lower incidence of dialysis-related side ef-
+fects. The interaction between dialysis solution glucose
+and potassium has already been discussed.
+Daugirdas9781451144291-ch010.indd   181 09/10/14   1:08 am
+Part II / Blood-Based Therapies
+182
+7. Dialysis solution phosphate levels.  P hosphate is normally 
+absent from the dialysis solution, and justifiably so, as 
+patients in renal failure typically have elevated serum phos-
+phate values. Use of a large-surface-area dialyzer and pro-
+vision of a longer dialysis session increase the amount of 
+phosphate removed during dialysis.
+a. Hypophosphatemia. M alnourished patients and patients 
+receiving hyperalimentation may have low or low-  
+normal predialysis serum phosphate levels. Predialysis 
+hypophosphatemia may also be present in patients  being 
+intensively dialyzed for any purpose. In such  patients, 
+hypophosphatemia can be aggravated by  dialysis against 
+a zero-phosphate bath. Severe hypophosphatemia can 
+cause respiratory muscle weakness and alterations in he-
+moglobin oxygen affinity. This can lead to respiratory ar-
+rest during dialysis. For patients at risk, phosphate can be 
+added to the dialysis solution. Alternatively, phosphate 
+can be given intravenously, although this must be done 
+carefully to avoid overcorrection and hypocalcemia. 
+Rapid correction of hypophosphatemia with intravenous 
+phosphate has been associated with acute kidney injury 
+(AKI). In one study, administration of 20 mmol over an 
+average of 310 minutes was deemed generally safe, but 
+was associated with a fall in ionized calcium in some 
+patients, suggesting that a slower rate of replacement 
+might be desirable (Agarwal, 2014).
+b. Adding phosphorus to bicarbonate-containing dialysis solu -
+tions. F or prevention of hypophosphatemia, the phospho -
+rus concentration in the final dialysis solution should be 
+about 1.3 mmol/L (4 mg/dL). Phosphorus cannot be added 
+to concentrate for acetate-containing dialysis solutions 
+because of Ca–Mg–PO 4 solubility problems. Phospho-
+rus designed for IV use can be added to the  bicarbonate 
+component of the concentrate, which does not contain 
+calcium or magnesium (Hussain, 2005). An alternative 
+approach is to add sodium phosphate-containing enema 
+preparations to either the bicarbonate or acid concen-
+trate, as described in Chapter 16.  The amount added can 
+be set to achieve a final dialysis solution phosphorus con-
+centration of 1.3 mM (4.0 mg/dL); however, this practice is 
+not Food and Drug Administration-approved.
+Of practical importance, adding phosphate or other 
+supplements may be technically difficult or not feasible 
+in facilities that rely on the dialysis machine to auto-
+matically mix the base solution from dry bicarbonate 
+reagent.
+D. Choosing the dialysis solution flow rates.  F or acute dialysis, the 
+usual dialysis solution flow rate is 500 mL/min.
+E. Dialysis solution temperature.  T his is usually 35°C–37°C. The 
+lower range should be used in hypotension-prone patients 
+(see Chapter 12).
+Daugirdas9781451144291-ch010.indd   182 09/10/14   1:08 am
+Chapter 10 / Acute Hemodialysis Prescription 183
+F. Ultrafiltration orders.  Fluid removal needs can range from 0 to  
+5 kg per dialysis session.
+1. Guidelines for ultrafiltration orders.  Some guidelines to gauge
+the total amount of fluid that needs to be removed are as
+follows:
+a. Even patients who are quite edematous and in pulmo-
+nary edema rarely need removal of more than 4 L of fluid 
+during the initial session. Remaining excess fluid is best
+removed during a second session the following day.
+b. If the patient does not have pedal edema or anasarca,
+in the absence of pulmonary congestion, it is unusual to
+need to remove greater than 2–3 L over the dialysis ses-
+sion. In fact, the fluid removal requirement may be zero
+in patients with little or no jugular venous distention.
+Fluid removal rates of 10 mL/kg per hour are usually well 
+tolerated in volume overloaded patients.
+c. The fluid removal plan during dialysis should take into
+account the 0.2 L that the patient will receive at the end
+of dialysis in the form of saline to rinse the dialyzer and
+any other fluid ingested or administered during the he -
+modialysis session.
+d. As already noted, if it is the initial dialysis, the length of
+the dialysis session should be limited to 2 hours. However, 
+if a large amount of fluid (e.g., 4.0 L) must be removed, it 
+is impractical and dangerous to remove such an amount 
+over a 2-hour period. In such instances, the dialysis solu-
+tion flow can initially be shut off, and isolated ultrafil-
+tration (see Chapter 15) can be performed for 1–2 hours, 
+removing 2–3 kg of fluid. Immediately thereafter, dialysis 
+can be performed for 2 hours, removing the remainder
+of the desired fluid volume. (If severe electrolyte abnor -
+malities, such as hyperkalemia, are present, dialysis may 
+have to be performed prior to isolated ultrafiltration.)
+e. In general, it is best to remove fluid at a constant rate
+throughout the dialysis treatment. If the dialysis solution 
+sodium level has been set lower than the plasma value
+(e.g., in the treatment of hypernatremia), the ultrafiltra-
+tion rate can initially be reduced to compensate for the
+osmotic contraction of blood volume that will occur as
+the plasma sodium concentration is being lowered.
+In patients with acute renal failure, it is extremely 
+important to avoid hypotension at all times, including 
+during dialysis. In a rat model of acute renal failure, Kelle-
+her (1987) showed that the renal autoregulatory response 
+to systemic hypotension is greatly impaired. They found 
+that transient episodes of hypotension caused by blood 
+withdrawal caused further renal damage and delay of 
+functional renal recovery.
+2. Impact of dialysis frequency on ultrafiltration needs.  It is difficult
+in an acute setting to limit a patient’s fluid gain to <2 L
+per day. Often 3 L per day is absorbed in patients receiving
+Daugirdas9781451144291-ch010.indd   183 09/10/14   1:08 am
+Part II / Blood-Based Therapies
+184
+parenteral nutrition. Use of a frequent (4-7 times per week) 
+dialysis schedule reduces the amount of fluid that needs to 
+be removed with each dialysis, thereby lowering the risk of 
+intradialytic hypotension and further ischemic damage to 
+an already impaired set of kidneys. An alternative way to 
+remove fluid relatively asymptomatically is to use SLED, a 
+procedure described in Chapter 15.
+ II. HEMODIALYSIS PROCEDURE
+A. Rinsing and priming the dialyzer (single-use setting).  Thorough 
+ rinsing of the dialyzer is important because it may reduce the 
+incidence or severity of anaphylactic dialyzer reactions by vir-
+tue of removal of leachable allergens (e.g., ethylene oxide in 
+ethylene oxide–sterilized dialyzers).
+B. Obtaining vascular access
+1. Percutaneous venous cannula. C lot or residual heparin is first 
+aspirated from each catheter lumen. Patency of the cath -
+eter lumina is checked by irrigating with a saline-filled sy-
+ringe. For acute dialysis, heparin-free dialysis is becoming 
+more popular and is routinely used in some centers. If hep-
+arin is to be used, the heparin loading dose is administered 
+into the venous catheter port and is flushed in with saline. 
+After 3 minutes (to allow heparin to mix with the blood), 
+blood flow is initiated.
+2. Arteriovenous (AV) fistula (see also Chapter 6).  Both needles 
+are placed in the vein downstream to the anastomosis. 
+Flow through the venous limb is distal to proximal; hence, 
+the arterial needle is placed distally. Some tips regarding 
+needle placement are as follows:
+a. In a patient with a poorly distended venous limb, brief 
+application of a tourniquet may be helpful in defining its 
+location. This tourniquet should be removed during di-
+alysis, as its presence will encourage recirculation.
+b. Choice of optimum needle size is discussed in Chapter 6. 
+Larger needle sizes can be used when higher blood flow 
+rates are desired.
+c. Prepare the needle insertion sites with chlorhexidine or 
+other suitable disinfectant.
+d. Arterial needle. I nsert it first, at least 3 cm away from the 
+site of the AV anastomosis. The needle should be inserted 
+bevel up, pointing either upstream or downstream.
+e. V enous needle.  I nsert bevel up, pointing downstream 
+(usually this will be toward the heart). The insertion 
+point customarily is inserted at least 3–5 cm downstream 
+to the arterial needle to minimize entry of dialyzed blood 
+into the arterial needle (recirculation), although one 
+study suggests that closer needle placement does not re-
+sult in recirculation (see Chapter 6).
+f. Angle of needle insertion.  This depends on the depth of 
+the access from the surface of the skin, and usually is 
+Daugirdas9781451144291-ch010.indd   184 09/10/14   1:08 am
+Chapter 10 / Acute Hemodialysis Prescription 185
+ 20-35 degrees for AV fistulas, and 45 degrees for AV grafts 
+(Brouwer, 1995).
+3. AV graft.  The anatomy of the graft should be known and
+preferably diagrammed in the patient’s chart. The guide -
+lines for placing needles are the same as for the AV fistula. 
+Use of a tourniquet is never necessary.
+After the needles have been placed, if heparin is to 
+be used, the heparin loading dose is given into the venous 
+needle and flushed in with saline. After 3 minutes, flow 
+through the blood circuit is initiated.
+C. Initiating dialysis. The blood flow rate is initially set at 50 mL/
+min, then 100 mL/min, until the entire blood circuit fills with 
+blood. As the blood circuit fills, the priming fluid in the dia-
+lyzer and tubing can either be given to the patient or disposed 
+of to drain. In the latter instance, the venous blood line is kept 
+to drain until the blood column passes through the dialyzer 
+and reaches the venous air trap. In unstable patients, the 
+priming fluid is usually administered to the patient to help 
+maintain the blood volume.
+After the circuit is filled with blood and proper blood levels 
+in the venous drip chamber are ensured, the blood flow rate 
+should be increased promptly to the desired level. The pressure 
+levels at the inflow (arterial) monitor, between the access site 
+and the blood pump, and of the outflow (venous) monitor, be-
+tween the dialyzer and the venous air trap, are noted, and the 
+pressure limits are set slightly above and below the operating 
+pressure to maximize the probability that the blood pump will 
+stop and alarms will sound in the event of a line separation. If 
+a line separation does occur, the pressure in the blood line will 
+rapidly approach zero. As it does, it should trigger a properly 
+set pressure limit switch. The lower pressure limit on the ve-
+nous pressure gauge should be set within 10–20 mm Hg of the 
+operating pressure; a larger gap can cause failure of the alarms 
+to trigger with line separation. Unfortunately, even properly set 
+venous pressure limits may not stop the pump if the venous 
+needle dislodges or if there is a line separation.  This issue is dis-
+cussed in more detail in Chapter 4.  For this reason, connections 
+to the access should always be securely taped and kept visible 
+to caregivers at all times (Van Waeleghem, 2008; 
+ Ribitsch, 2013).
+The dialysis solution flow can now be initiated. In ma -
+chines with an ultrafiltration controller, the desired fluid re -
+moval rate is simply dialed in.
+D. Beeps, buzzers, and alarms. As introduced in Chapter 4, the mon-
+itors on the dialysis solution machine include the following:
+Blood Circuit Dialysis Solution Circuit
+Inflow pressure Conductivity
+Outflow pressure Temperature
+Air detector Hemoglobin
+Daugirdas9781451144291-ch010.indd   185 09/10/14   1:08 am
+Part II / Blood-Based Therapies
+186
+1. Blood circuit (see Fig. 4.1)
+a. Inflow (prepump) pressure monitor.  Usually, the inflow pres-
+sure (proximal to the blood pump) is −80 to −200 mm
+Hg, with −250 mm Hg being considered the usual limit
+beyond which one does not go.
+If the access is not providing sufficient blood to the 
+pump, the suction proximal to the blood pump will increase, 
+and the alarm will sound, shutting off the blood pump.
+1. Causes of excessive inflow suction
+a. Venous catheter access.  Usually improper tip posi -
+tion or ball-valve thrombus or fibrin plug at the
+catheter tip.
+b. AV access
+i. Improperly positioned arterial needle (needle
+not in vessel or up against vessel wall)
+ii. Decrease in the patient’s blood pressure (and
+hence flow through the access)
+iii. Spasm of the access vessel (AV fistula only)
+iv. Stenosis of the arterial anastomosis of an AV
+graft  or fistula
+v. Clotting of the arterial needle or of the access
+vi. Kinking of the arterial line
+ vii. Collapse of the access due to elevation of the
+arm (if this is suspected, sit the patient up, blood 
+pressure permitting, until the access site is be-
+low heart level)
+ viii. Use of too small a needle for the blood flow rate
+being used
+2. Management
+a. Venous catheter. Check lines for kinking. Sometimes, 
+changing arm or neck position or moving the cath-
+eter slightly makes the catheter work. Reversing the 
+catheter ports is another maneuver that sometimes 
+works. If these initial steps do not work, subsequent 
+steps include urokinase or tissue plasminogen acti-
+vator infusion, checking catheter position in the ra-
+diology suite, or fibrin sleeve stripping as described 
+in Chapter 9.
+b. AV access
+i. Reduce blood flow rate to the point that inflow
+suction decreases and the alarm stays off.
+ii. Verify that the patient’s blood pressure is not un-
+usually low. If the pressure is low, correct it by
+administering fluid or reducing the ultrafiltra -
+tion rate.
+iii. If a patient’s pressure is not unusually low, un-
+tape the arterial needle, move it up or down
+slightly, or rotate it.
+iv. Turn up blood flow rate to previous level. If in-
+flow suction remains excessive, repeat step (iii).
+Daugirdas9781451144291-ch010.indd   186 09/10/14   1:08 am
+Chapter 10 / Acute Hemodialysis Prescription 187
+v. If improvement is not obtained, continue dialy -
+sis for a longer time at a lower blood flow rate, or 
+place a second arterial needle (leaving the origi-
+nal, flushed with heparinized saline, in place un-
+til the end of dialysis), and dialyze through the
+second needle.
+vi. If excessive inflow suction persists despite nee-
+dle change, the inflow to the vascular access
+may be stenosed. Occlude the access between
+the arterial and venous needles by transient
+pressure with two fingers. If the negative pres-
+sure at the prepump monitor increases mark -
+edly when the intraneedle segment is occluded,
+this is a sign that some of the inflow was com-
+ing from the downstream access limb and that
+blood flow through the upstream limb of the ac-
+cess is inadequate.
+b. Outflow (venous) pressure monitor. Usually, the pressure here 
+is +50 to +250 mm Hg, depending on needle size, blood 
+flow rate, and hematocrit.
+1. Causes of high venous pressure
+a. The pressure may be as high as 200 mm Hg when
+using an AV graft because the high arterial pressure 
+in the graft is often transmitted to the venous line
+b. High blood flow rate when using a relatively small
+(16G) venous needle
+c. Clotting in the venous blood line filter if one is be-
+ing used. Clotting of the filter may be the first sign of 
+inadequate heparinization and of incipient clotting 
+of the entire dialyzer
+d. Stenosis (or spasm) at the venous limb of the vascu-
+lar access
+e. Improperly positioned venous needle or kinked ve-
+nous line
+f. Clotting of the venous needle or venous limb of the
+vascular access
+2. Management of high venous pressure
+a. If clotting of the venous blood line filter is at fault,
+the dialyzer should be rinsed with saline (by open-
+ing up the saline infusion line and briefly clamping
+the blood inlet line proximal to the saline infusion
+port). If the dialyzer is not clotted ( fibers appear
+clear on saline rinse), then a new venous line can be 
+rapidly primed with saline and substituted for the
+partially clotted line, and dialysis can be resumed
+after adjusting the heparin dose.
+b. The presence or absence of obstruction at the ve-
+nous needle or in the venous limb of the access can 
+be assessed by shutting off the blood pump, quickly 
+clamping the venous blood line, disconnecting the
+Daugirdas9781451144291-ch010.indd   187 09/10/14   1:08 am
+Part II / Blood-Based Therapies
+188
+venous blood line from the venous needle, and ir -
+rigating through the venous needle with saline and 
+noting the amount of resistance.
+c. Occlude the access between the arterial and venous 
+needles by pressing down gently with two fingers. 
+If stenosis downstream is causing outflow obstruc -
+tion through the vascular access, the positive pres-
+sure measured at the venous monitor will increase 
+further when the upstream access is occluded.
+c. Air detector. T he danger of inadvertent air entry is great -
+est between the vascular access site and the blood 
+pump, where the pressure is negative. Common sites of 
+air entry include the region around the arterial needle 
+(especially if the inflow suction is very high), via leaky 
+tubing connections, via broken blood tubing as it passes 
+through the roller pump, or via the saline infusion set. 
+Air can also enter the patient if air return is improperly 
+performed at the end of dialysis. Many air emboli occur 
+after the air detector has been turned off because of false 
+alarms. This practice should be avoided. Air embolism 
+can be fatal.
+The creation of microbubbles during dialysis and 
+their potential adverse effects is discussed in Chapter 4.
+d. Blood line kinking and hemolysis.  Se vere hemolysis may 
+occur because of kinking of the blood line between the 
+pump and the  dialyzer. This is a relatively common 
+cause of dialysis machine/blood line malfunction caus-
+ing patient injury. Blood lines configured for prepump 
+pressure monitoring will not alarm if high pressures are 
+encountered in the postpump segment between pump 
+and dialyzer. Even if a blood line with a postpump pres-
+sure monitor is being used, if the kink is upstream to the 
+origin of the pressure monitoring line, high pressure due 
+to the kink will not be detected.
+2. Dialysis solution circuit monitors.  T he dangers of dialyzing 
+against an excessively concentrated, dilute, or hot dialysis 
+solution have been discussed in Chapter 4.
+a. Conductivity. T he most common cause of increased di-
+alysis solution conductivity is either a kink in the tubing 
+routing purified water to the dialysis machine, or low 
+water pressure, resulting in insufficient water delivery to 
+the machine. The most common cause of a reduced con-
+ductivity is an empty concentrate bottle. Otherwise, the 
+cause is usually in the proportioning pump. The dialysis 
+solution bypass valve is activated as soon as conductivity 
+deviates from the specified limits, diverting the abnor -
+mal dialysis solution away from the dialyzer to the drain.
+b. T emperature.  A bnormal temperature is usually caused by 
+some malfunction in the heating circuit that warms the 
+dialysate. Again, a properly functioning bypass valve pro-
+tects the patient.
+Daugirdas9781451144291-ch010.indd   188 09/10/14   1:08 am
+Chapter 10 / Acute Hemodialysis Prescription 189
+c. Hemoglobin (blood leak).  F alse alarms may be due to the 
+presence of air bubbles in the dialysis solution, to dialy-
+sate bilirubin in jaundiced patients, or to a dirty sensor. 
+The dialysate may not appear to be discolored to the na-
+ked eye. A blood leak alarm should be confirmed by test-
+ing the effluent dialysate with a test strip of the sort used 
+for detecting hemoglobin in the urine.
+If a leak is confirmed, blood should be returned and 
+dialysis discontinued.
+E. Patient monitoring and complications. T he patient’s blood pressure 
+should be monitored as often as necessary, but at least every 
+15 minutes for an acute dialysis in an unstable patient. The 
+manifestations and treatment of hypotension and other com -
+plications during dialysis are discussed in Chapter 12.
+F. T ermination of dialysis.  T he blood in the extracorporeal circuit 
+can be returned using either saline or air. If saline is used, the 
+patient usually receives 100–300 mL of this fluid during the 
+rinse-back procedure, nullifying the corresponding amount of 
+fluid removed by ultrafiltration. However, if the patient’s blood 
+pressure is low at the end of dialysis, the saline bolus will help 
+to raise the blood pressure quickly. When air is used, the blood 
+pump is first shut off, and the arterial blood line is clamped 
+close to the patient. The arterial blood line is then discon-
+nected just distal to the clamp, opening it to air. The blood 
+pump is restarted at a reduced rate (20–50 mL/min), and the 
+air is allowed to displace the blood in the dialyzer. When the 
+air reaches the venous air trap, or when air bubbles are first 
+seen in the venous blood line, the venous line is clamped, the 
+blood pump shut off, and the return procedure terminated. 
+Use of air to return the blood increases the risk of air embo-
+lism, and the termination procedure should be extremely 
+carefully supervised when air return is employed.
+G. Postdialysis evaluation
+1. Weight loss.  T he patient should be weighed after dialysis 
+whenever possible, and the postdialysis weight compared 
+with the predialysis weight. It is not uncommon for the 
+weight loss to be greater or less than that anticipated on 
+the basis of the calculated ultrafiltration rate. Given the 
+high accuracy of the volumetric ultrafiltration  controllers 
+in modern HD machines, unpredicted pre-to-post weight 
+changes are usually due to the failure to take into account 
+fluid administered to the patient during dialysis in the form 
+of saline, medications, hyperalimentation, or oral fluid 
+ingestion.
+2. Postdialysis blood values.  B lood can be sampled promptly 
+after dialysis to confirm the adequacy of urea nitrogen 
+removal and correction of acidosis. For urea nitrogen, 
+sodium, and calcium, the postdialysis specimen can be 
+drawn 20–30 seconds to 2 minutes after dialysis, although 
+a postdialysis increase in the plasma urea level of 10%–20% 
+usually occurs within 30 minutes due to reequilibration of 
+Daugirdas9781451144291-ch010.indd   189 09/10/14   1:08 am
+Part II / Blood-Based Therapies
+190
+urea between various body compartments. The method of 
+obtaining the postdialysis blood sample is quite important; 
+if access recirculation is present, contamination of the inlet 
+blood sample with dialyzed outlet blood can occur, yielding 
+erroneously low plasma urea nitrogen values. The timing of 
+the sampling is critically important in that it can help dis -
+cern access recirculation, cardiopulmonary recirculation, 
+and intercompartmental rebound effects. Reliable meth-
+ods of obtaining the postdialysis sample are described in 
+Chapters 3 and 11.
+a. Urea nitrogen. The methods described in Chapters 3 and
+11 can be used to estimate a predicted Kt /V and urea re-
+duction ratio. If the plasma urea nitrogen value has fallen 
+to a lesser extent, possible causes include partial clotting 
+of the dialyzer, an error in setting of the blood flow rate,
+and recirculation at the vascular access site. Online ma-
+chine methods of monitoring in vivo dialyzer clearance
+(ionic conductance) and Kt/V (ultraviolet absorbance of
+the spent dialysate) are described in Chapter 11.
+b. Potassium. The change in the plasma potassium level as
+a result of dialysis is difficult to predict because of con-
+comitant shifting of potassium into cells due to correc -
+tion of acidosis or to cellular uptake of glucose. In acute
+patients, it is best to sample blood for potassium at least 
+1 hour after the end of dialysis.
+References and Suggested Readings
+Agarwal B, et al. Is parenteral phosphate replacement in the intensive care unit safe? 
+Ther Apher Dial. 2014;18:31–36.
+Brouwer DJ.  Cannulation camp: basic needle cannulation training for dialysis staff.  
+Dial Transplant. 1995;24:1-7.
+Casino FG, Marshall MR. Simple and accurate quantification of dialysis in acute renal 
+failure patients during either urea non-steady state or treatment with irregular or 
+continuous schedules. Nephrol Dial Transplant. 2004;19:1454–1466.
+Davenport A. Practical guidance for dialyzing a hemodialysis patient following acute 
+brain injury. Hemodial Int. 2008;12:307–312.
+Emmett M, et al. Effect of three laxatives and a cation exchange resin on fecal sodium 
+and potassium excretion. Gastroenterology. 1995;108:752–760.
+Evanson JA, et al. Measurement of the delivery of dialysis in acute renal failure. Kidney 
+Int. 1999;55:1501–1508.
+Gardiner GW . Kayexalate (sodium polystyrene sulphonate) in sorbitol associated with 
+intestinal necrosis in uremic patients. Can J Gastroenterol. 1997;11:573–577.
+Herrero JA, et al. Pulmonary diffusion capacity in chronic dialysis patients. Respir Med. 
+2002;96:487–492.
+Huang WY, et al. Central pontine and extrapontine myelinolysis after rapid correc-
+tion of hyponatremia by hemodialysis in a uremic patient. Ren Fail. 2007;29:635-8.
+Hussain S, et al. Phosphorus-enriched hemodialysis during pregnancy: two case 
+ reports. Hemodial Int. 2005;9:147–150.
+Jörres A, et al; and the ad-hoc working group of ERBP . A European Renal Best Practice 
+(ERBP) position statement on the Kidney Disease Improving Global Outcomes 
+(KDIGO) Clinical Practice Guidelines on Acute Kidney Injury: part 2: renal replace-
+ment therapy. Nephrol Dial Transplant. 2013;28:2940–2945.
+Kanagasundaram NS, et al; for the Project for the Improvement of the Care of Acute 
+Renal Dysfunction (PICARD) Study Group. Prescribing an equilibrated inter -
+mittent hemodialysis dose in intensive care unit acute renal failure. Kidney Int. 
+2003;64:2298–2310.
+Daugirdas9781451144291-ch010.indd   190 09/10/14   1:08 am
+Chapter 10 / Acute Hemodialysis Prescription 191
+KDIGO. KDIGO clinical practice guidelines for acute kidney injury. Kidney Int. 
+2012;2(suppl 1):1–141.
+Kelleher SP , et al. Effect of hemorrhagic reduction in blood pressure on recovery from 
+acute renal failure. Kidney Int. 1987;31:725.
+Ketchersid TL, Van Stone JC. Dialysate potassium. Semin Dial. 1991;4:46.
+Kyriazis J, et al. Dialysate magnesium level and blood pressure. Kidney Int. 
+2004;66:1221–1231.
+MacLeod AM, et al. Cellulose, modified cellulose and synthetic membranes in the hae-
+modialysis of patients with end-stage renal disease. Cochrane Database Syst Rev. 
+2005;(3):CD003234.
+Madias NE, Levey AS. Metabolic alkalosis due to absorption of “nonabsorbable” ant -
+acids. Am J Med. 1983;74:155–158.
+Nappi SE, et al. QTc dispersion increases during hemodialysis with low-calcium dialy-
+sate. Kidney Int. 2000;57:2117–2122.
+Palevsky PM, et al. KDOQI US commentary on the 2012 KDIGO clinical practice guide-
+line for acute kidney injury. Am J Kidney Dis. 2013;61:649–672.
+Ribitsch W , et al. Prevalence of detectable venous pressure drops expected with venous 
+needle dislodgement. Semin Dial. 2013 Dec 17. doi:10.1111/sdi.12169.
+Roy PS, Danziger RS. Dialysate magnesium concentration predicts the occurrence of 
+intradialytic hypotension [Abstract]. J Am Soc Nephrol. 1996;7:1496.
+Schiffl H, Lang SM, Fischer R. Daily hemodialysis and the outcome of acute renal fail-
+ure. N Engl J Med. 2002;346:305–310.
+Subramanian S, Venkataraman R, Kellum JA. Related articles, links influence of dialy-
+sis membranes on outcomes in acute renal failure: a meta-analysis. Kidney Int. 
+2002;62:1819–1823.
+Sweet SJ, et al. Hemolytic reactions mechanically induced by kinked hemodialysis 
+lines. Am J Kidney Dis. 1996;27:262–266.
+van der Sande FM, et al. Effect of dialysate calcium concentrations in intradia-
+lytic blood pressure course in cardiac-compromised patients. Am J Kidney Dis. 
+1998;32:125–131.
+Van Waeleghem JP , et al. Venous needle dislodgement: how to minimise the risks.  
+J Ren Care. 2008;34:163–168.
+VA/NIH Acute Renal Failure Trial Network, Palevsky PM, et al. Intensity of renal sup-
+port in critically ill patients with acute kidney injury. N Engl J Med. 2008;359:7–20.
+Ward RA, et al. Hemodialysate composition and intradialytic metabolic, acid–base and 
+potassium changes. Kidney Int. 1987;32:129.
+Wendland EM, Kaplan AA. A proposed approach to the dialysis prescription in severely 
+hyponatremic patients with end-stage renal disease. Semin Dial. 2012;25:82-5.
+Yessayan L, et al.  Treatment of severe hyponatremia in patients with kidney failure: 
+Role of continuous venovenous hemofiltration with low sodium replacement fluid.  
+Am J Kidney Dis. 2014;64:305-310.
+Web References
+Acute dialysis—recent articles and abstracts. http://www.hdcn.com/ddacut.htm.
+Daugirdas9781451144291-ch010.indd   191 09/10/14   1:08 am

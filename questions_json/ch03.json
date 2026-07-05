@@ -1,0 +1,665 @@
+{
+ "chapter": 3,
+ "questions": [
+  {
+   "topic": "Diffusion",
+   "question": "A patient's dialyzer is exposed to two solutes of different sizes that both fit through the membrane pores. How does molecular weight affect the rate of diffusive transport across the semipermeable membrane?",
+   "options": {
+    "A": "Larger solutes diffuse more slowly because they move at lower velocity and collide with the membrane less often",
+    "B": "Larger solutes diffuse faster because they carry more momentum",
+    "C": "Molecular weight has no effect on diffusion rate as long as the solute fits through the pores",
+    "D": "Only solutes larger than the pores can diffuse across"
+   },
+   "correct": "A",
+   "explanation": "Correct: A. Diffusion results from random molecular motion, so its rate depends on how fast a solute moves. Small molecules travel at high velocity, collide with the membrane often, and cross rapidly, whereas larger molecules move slowly, strike the membrane infrequently, and diffuse slowly even when they easily fit through the pores. B is wrong because momentum does not speed diffusion, C ignores that weight matters even for pore-sized solutes, and D is wrong since solutes larger than the pores cannot cross at all. Clinically this is why small urea (MW 60) is cleared by diffusion far better than larger wastes."
+  },
+  {
+   "topic": "Convective transport",
+   "question": "During dialysis, low-molecular-weight solutes are carried across the membrane at close to their original concentrations by water being pushed through the pores. What is this process called?",
+   "options": {
+    "A": "Diffusive equilibration",
+    "B": "Ultrafiltration with solvent drag",
+    "C": "Adsorption",
+    "D": "Back-filtration"
+   },
+   "correct": "B",
+   "explanation": "Correct: B. In ultrafiltration (convective transport), water driven by a hydrostatic or osmotic force is pushed through the membrane and sweeps permeable solutes along with it at close to their original concentration, a process called solvent drag. A is wrong because diffusion depends on a concentration gradient, not bulk water flow; C (adsorption) is binding to the membrane, and D (back-filtration) is reverse fluid movement. Because all solutes below pore size are swept at about the same rate regardless of size, convection removes larger solutes better than diffusion, which is the basis of hemofiltration."
+  },
+  {
+   "topic": "Ultrafiltration coefficient",
+   "question": "What does the ultrafiltration coefficient (KUF) of a dialyzer membrane represent?",
+   "options": {
+    "A": "The percentage of urea removed across the dialyzer",
+    "B": "The blood flow rate at which clearance plateaus",
+    "C": "The total effective surface area of the membrane",
+    "D": "The milliliters of fluid transferred across the membrane per hour per mm Hg of pressure gradient"
+   },
+   "correct": "D",
+   "explanation": "Correct: D. The ultrafiltration coefficient KUF indicates a membrane's permeability to water and is defined as the milliliters of fluid transferred across the membrane per hour per mm Hg of transmembrane pressure gradient. It varies with membrane thickness and pore size. A describes the extraction ratio, B relates to the K0A clearance plateau, and C is the surface area A. KUF varies considerably among dialyzers, and because it reflects water permeability, high-flux membranes (KUF greater than about 15 to 20 mL/hr per mm Hg) can be roughly identified by it, so KUF also serves as a marker of flux."
+  },
+  {
+   "topic": "Transmembrane pressure",
+   "question": "During hemodialysis, what determines the rate of hydrostatic ultrafiltration across the dialyzer membrane?",
+   "options": {
+    "A": "The dialysate sodium concentration alone",
+    "B": "The blood flow rate divided by the dialysate flow rate",
+    "C": "The membrane surface area only",
+    "D": "The total pressure difference across the membrane (blood compartment pressure minus dialysate compartment pressure)"
+   },
+   "correct": "D",
+   "explanation": "Correct: D. During hemodialysis water and small solutes move from blood to dialysate down a hydrostatic pressure gradient, and the ultrafiltration rate depends on the total transmembrane pressure difference, calculated as blood-compartment pressure minus dialysate-compartment pressure. A (dialysate sodium) governs osmotic effects, not hydrostatic UF; B and C are not the driving force, although membrane area and KUF influence how much fluid crosses per unit pressure. Machines control UF by varying resistance to dialysate inflow, which changes exactly this pressure difference across the membrane."
+  },
+  {
+   "topic": "Clinical UF requirement",
+   "question": "For a typical maintenance hemodialysis patient, what is the usual clinical range of ultrafiltration rate needed to remove accumulated fluid?",
+   "options": {
+    "A": "0.5 to 1.2 L/hr",
+    "B": "2.0 to 3.0 L/hr",
+    "C": "0.05 to 0.1 L/hr",
+    "D": "4.0 to 5.0 L/hr"
+   },
+   "correct": "A",
+   "explanation": "Correct: A. Interdialytic fluid that accumulates from drinking and from the water content of metabolized food must be removed over a 3 to 4 hour session, giving a usual clinical ultrafiltration need of about 0.5 to 1.2 L/hr. B, C, and D fall outside this range: rates of 2 to 5 L/hr would be excessive for routine treatment, and 0.05 to 0.1 L/hr far too little to clear typical gains. Patients with acute fluid overload may transiently need faster removal, but sustained very high UF rates are poorly tolerated, so the modest 0.5 to 1.2 L/hr range fits most patients."
+  },
+  {
+   "topic": "Interdialytic weight gain",
+   "question": "A patient dialyzed three times weekly typically gains how much weight, mostly water, between treatments?",
+   "options": {
+    "A": "0.1 to 0.5 kg",
+    "B": "6 to 8 kg",
+    "C": "10 to 12 kg",
+    "D": "1 to 4 kg"
+   },
+   "correct": "D",
+   "explanation": "Correct: D. A patient dialyzed thrice weekly typically gains 1 to 4 kg between treatments, most of it water from ingested fluid and metabolized food, and this must be removed during the 3 to 4 hour session. A (0.1 to 0.5 kg) is unrealistically small, while B and C (6 to 12 kg) would represent dangerous overload. This typical gain is what drives the usual 0.5 to 1.2 L/hr ultrafiltration requirement; larger gains force higher UF rates that are less well tolerated and can provoke intradialytic hypotension, so counseling on fluid intake matters."
+  },
+  {
+   "topic": "Hemofiltration",
+   "question": "Compared with hemodialysis, hemofiltration is particularly advantageous for removing which type of solute?",
+   "options": {
+    "A": "Sodium and potassium",
+    "B": "Urea and other very small solutes only",
+    "C": "Larger, poorly diffusible solutes such as inulin",
+    "D": "Protein-bound organic acids"
+   },
+   "correct": "C",
+   "explanation": "Correct: C. Because all ultrafiltered solutes below the membrane pore size are swept across at roughly the same rate regardless of size, hemofiltration (large-volume convection plus replacement fluid) achieves much higher removal of larger, poorly diffusible solutes such as inulin (MW 5,200). For small solutes like urea (MW 60), hemofiltration and hemodialysis remove comparable amounts, so A and B are wrong; D is wrong because protein-bound solutes are limited by their free fraction, not by convection. This size-independence of convective transport is the defining advantage of hemofiltration."
+  },
+  {
+   "topic": "Hemodiafiltration",
+   "question": "When a large amount of ultrafiltration with replacement fluid is combined with conventional diffusive dialysis in a single procedure, the technique is called what?",
+   "options": {
+    "A": "Isolated ultrafiltration",
+    "B": "Sequential dialysis",
+    "C": "Osmotic ultrafiltration",
+    "D": "Hemodiafiltration"
+   },
+   "correct": "D",
+   "explanation": "Correct: D. When a large amount of ultrafiltration, more than needed for fluid removal, is coupled with infusion of replacement fluid and combined with conventional diffusive dialysis in one treatment, it is called hemodiafiltration, capturing both diffusive removal of small solutes and convective removal of larger ones. A (isolated ultrafiltration) removes only fluid, B (sequential dialysis) separates the steps, and C (osmotic ultrafiltration) is a different UF driving force covered in Chapter 21. Hemodiafiltration thus blends the strengths of hemodialysis and hemofiltration in a single procedure."
+  },
+  {
+   "topic": "Protein-bound solutes",
+   "question": "What primarily determines how effectively a protein-bound compound is removed by conventional hemodialysis?",
+   "options": {
+    "A": "The percentage of the free (unbound) fraction in plasma and how quickly it is replenished",
+    "B": "The molecular weight of the carrier protein",
+    "C": "The dialysate bicarbonate concentration",
+    "D": "The countercurrent flow ratio alone"
+   },
+   "correct": "A",
+   "explanation": "Correct: A. Only the free (unbound) fraction of a compound is exposed to the dialyzer, so removal depends on the percentage present as free in plasma and on how quickly the protein-bound pool replenishes it. Substances tightly bound to proteins with a low free fraction are removed only slightly by conventional hemodialysis. B, C, and D are wrong because carrier-protein weight, dialysate bicarbonate, and countercurrent ratio do not govern this. The normal kidney clears these organic acids and bases by tubular secretion, which dialysis cannot replicate, so their plasma levels are markedly elevated in dialysis patients."
+  },
+  {
+   "topic": "Dialysis solution",
+   "question": "Which of the following best describes the composition of standard dialysis solution?",
+   "options": {
+    "A": "Uremic plasma diluted with saline",
+    "B": "Purified water with sodium, potassium, calcium, magnesium, chloride, bicarbonate, and dextrose added, but no uremic waste products",
+    "C": "Purified water containing added urea and creatinine to prevent overly rapid removal",
+    "D": "Normal saline with added albumin"
+   },
+   "correct": "B",
+   "explanation": "Correct: B. Dialysis solution is highly purified water to which sodium, potassium, calcium, magnesium, chloride, bicarbonate, and dextrose are added, while the low-molecular-weight uremic waste products are deliberately absent so wastes diffuse out of blood down a maximal gradient. A, C, and D are wrong: it is not diluted plasma or saline with albumin, and adding urea or creatinine would defeat the purpose by shrinking the gradient. Continuously refreshing this waste-free solution, and replacing dialyzed blood with fresh blood, keeps net removal high throughout the treatment."
+  },
+  {
+   "topic": "Countercurrent flow",
+   "question": "Why is dialysis solution normally run in the direction opposite to blood flow through the dialyzer?",
+   "options": {
+    "A": "To reduce the ultrafiltration coefficient",
+    "B": "To prevent clotting of the blood compartment",
+    "C": "To slow the transit time of blood in the filter",
+    "D": "To maximize the concentration difference of waste products between blood and dialysate throughout the dialyzer"
+   },
+   "correct": "D",
+   "explanation": "Correct: D. Dialysate is run in the direction opposite to blood flow so the waste-product concentration difference between blood and dialysate stays high in every part of the dialyzer, preventing the equilibration that would halt net removal. A is wrong because flow direction does not set KUF, B is unrelated to clotting, and C is backwards since countercurrent maximizes the gradient rather than slowing transit. If blood and dialysate flowed the same way (or sat static), dialysate would approach blood concentration and net transport would fall as the two solutions equilibrated across the membrane."
+  },
+  {
+   "topic": "Extraction ratio",
+   "question": "The extraction ratio of a dialyzer is best defined as which of the following?",
+   "options": {
+    "A": "The dialysate flow rate divided by the blood flow rate",
+    "B": "The absolute amount of urea removed per minute",
+    "C": "The theoretical maximum clearance at infinite flows",
+    "D": "The percentage reduction in a solute's concentration across the dialyzer"
+   },
+   "correct": "D",
+   "explanation": "Correct: D. The extraction ratio is the percentage reduction in a solute's concentration across the dialyzer; with inlet SUN 100 and outlet 40 mg/dL it is (100 minus 40)/100 = 60%. A describes a flow ratio, B is the absolute removal rate in mg/min, and C is the K0A. The extraction ratio is independent of the inlet concentration but falls as blood flow rises because faster blood spends less time in the filter. Multiplying the extraction ratio by the blood flow rate gives the dialyzer clearance, linking this concept directly to delivered dialysis dose."
+  },
+  {
+   "topic": "Extraction ratio",
+   "question": "If the inlet serum urea nitrogen doubles from 100 to 200 mg/dL while blood and dialysate flows are unchanged, what happens to the extraction ratio?",
+   "options": {
+    "A": "It stays the same, since extraction ratio is independent of inlet concentration",
+    "B": "It doubles",
+    "C": "It falls by half",
+    "D": "It becomes zero"
+   },
+   "correct": "A",
+   "explanation": "Correct: A. The extraction ratio is not affected by the inlet SUN level; it depends on how thoroughly the dialyzer cleans a given volume of blood, set by blood flow, dialysate flow, and membrane properties. At a fixed 60% extraction, an inlet of 200 mg/dL simply yields an outlet of 80 (still 60% removed), and an inlet of 10 gives an outlet of 4, so B, C, and D are wrong. This is precisely why the extraction ratio, and the clearance derived from it, characterize the dialyzer itself, independent of the patient's absolute urea concentration."
+  },
+  {
+   "topic": "Blood flow and extraction",
+   "question": "How does increasing the blood flow rate through a dialyzer affect the extraction ratio for urea?",
+   "options": {
+    "A": "It raises the extraction ratio",
+    "B": "It lowers the extraction ratio because blood spends less time in the dialyzer",
+    "C": "It has no effect on the extraction ratio",
+    "D": "It makes the extraction ratio exceed 100%"
+   },
+   "correct": "B",
+   "explanation": "Correct: B. The faster blood flows, the less time it spends being cleaned in the dialyzer, so outlet SUN rises and the extraction ratio falls; reducing flow from 400 to 200 mL/min lowered the outlet SUN from 40 to 12 mg/dL (higher extraction). Thus A and C are wrong, and D is impossible because extraction cannot exceed 100%. The dialyzer acts like a washing machine: shorter residence time means a smaller percentage of waste removed from each volume of blood, even though the total volume cleared per minute still rises as blood flow increases."
+  },
+  {
+   "topic": "Transit time",
+   "question": "With a dialyzer blood-compartment volume of about 100 mL, roughly how long does blood spend in the dialyzer at a blood flow rate of 400 mL/min?",
+   "options": {
+    "A": "About 5 minutes",
+    "B": "About 100 minutes",
+    "C": "About 15 seconds",
+    "D": "About 0.3 seconds"
+   },
+   "correct": "C",
+   "explanation": "Correct: C. The dialyzer blood-compartment volume is about 100 mL, so at a blood flow of 400 mL/min the blood dwells roughly 15 seconds. Halving flow to 200 mL/min doubles transit time to 30 seconds, giving more complete cleaning (outlet SUN falls to 12 mg/dL); at 1 mL/min blood would spend about 100 minutes and leave nearly urea-free. A (5 minutes) and B (100 minutes) apply to far lower flows, and D (0.3 seconds) corresponds to an impractical 20 L/min. Longer residence time raises the extraction ratio, the principle behind slower, gentler clearance."
+  },
+  {
+   "topic": "Clearance concept",
+   "question": "A dialyzer with a 60% extraction ratio operates at a blood flow of 400 mL/min. What is the dialyzer clearance?",
+   "options": {
+    "A": "160 mL/min",
+    "B": "400 mL/min",
+    "C": "60 mL/min",
+    "D": "240 mL/min"
+   },
+   "correct": "D",
+   "explanation": "Correct: D. Clearance equals the extraction ratio times the blood flow rate: 0.60 x 400 = 240 mL/min. Conceptually, a 60% extraction means 60% of the 400 mL/min stream (240 mL/min) leaves completely cleared of urea while 40% (160 mL/min) passes unchanged; mixing them gives the observed 60% reduction. A is the unchanged substream, B is the whole blood flow, and C confuses the percentage with a rate. Clearance, abbreviated K or KD, is the flow rate of the fully cleared substream and is the K used in the Kt/V adequacy calculation."
+  },
+  {
+   "topic": "Blood flow and clearance",
+   "question": "As blood flow rate through a dialyzer is progressively increased to very high values, how does dialyzer clearance behave?",
+   "options": {
+    "A": "It keeps increasing but the gains level off and clearance plateaus at high flows",
+    "B": "It rises in a perfect 1:1 ratio with blood flow indefinitely",
+    "C": "It decreases steadily",
+    "D": "It remains completely constant"
+   },
+   "correct": "A",
+   "explanation": "Correct: A. Because the extraction ratio falls as blood flow rises, clearance does not increase 1:1 with flow (B is wrong); it keeps rising but the increments shrink and clearance ultimately plateaus toward the dialyzer's K0A. In Table 3.1 clearance rose from 50 mL/min at QB 50 to 600 mL/min at QB 20,000, where only 3% of urea was extracted. C and D are wrong since clearance neither falls nor stays constant. This plateau is why simply raising blood flow yields diminishing returns once the extraction ratio has already dropped to low values."
+  },
+  {
+   "topic": "K0A",
+   "question": "The K0A of a dialyzer represents which of the following?",
+   "options": {
+    "A": "The ultrafiltration coefficient per unit surface area",
+    "B": "The theoretical maximum clearance of the dialyzer for a given solute at infinite blood and dialysate flow rates",
+    "C": "The percentage of urea removed at a blood flow of 200 mL/min",
+    "D": "The dialysate flow rate needed to match blood flow"
+   },
+   "correct": "B",
+   "explanation": "Correct: B. K0A, the mass transfer area coefficient, is the theoretical maximum clearance in mL/min that a dialyzer can achieve for a given solute at infinite blood and dialysate flows; it is the plateau clearance approaches. For the Table 3.1 dialyzer the K0A is about 600 mL/min. A confuses it with KUF per area, C is an extraction ratio at one flow, and D is a dialysate flow. Most adult dialyzers have urea K0A values of 800 to 1,600 mL/min, and K0A is the best single expression of a dialyzer's efficiency for removing small solutes such as urea."
+  },
+  {
+   "topic": "K0A components",
+   "question": "The K0A is the product of which two physical quantities?",
+   "options": {
+    "A": "Blood flow rate and dialysate flow rate",
+    "B": "Extraction ratio and session length",
+    "C": "The membrane permeability coefficient (K0) and the total effective membrane surface area (A)",
+    "D": "The ultrafiltration coefficient and transmembrane pressure"
+   },
+   "correct": "C",
+   "explanation": "Correct: C. K0A is the product of K0, the membrane's permeability coefficient for a given solute, and A, the total effective membrane surface area in the dialyzer; so A, B, and D are wrong. Doubling the surface area roughly doubles the K0A, but two dialyzers of equal area can differ in K0A if their K0 differs. K0 can be raised by making membranes thinner, adjusting porosity, and optimizing the dialysate flow path with spacer yarns. This is why high-efficiency dialyzers combine both large surface area and an improved, more permeable membrane."
+  },
+  {
+   "topic": "K0A and surface area",
+   "question": "Roughly what happens to a dialyzer's K0A if its membrane surface area is doubled while membrane properties are unchanged?",
+   "options": {
+    "A": "It is halved",
+    "B": "It stays the same",
+    "C": "It falls to zero",
+    "D": "It roughly doubles"
+   },
+   "correct": "D",
+   "explanation": "Correct: D. Since K0A equals K0 times A, doubling the effective membrane surface area while keeping membrane properties fixed roughly doubles the K0A and hence the small-solute clearance at high flows; so A, B, and C are wrong. However, surface area is not the whole story: two dialyzers of equal area can have different K0A values if their membranes differ in permeability (K0), which can be improved by thinner membranes and optimized dialysate flow paths. High-efficiency dialyzers exploit both large area and high K0 to keep extraction high at high blood flow."
+  },
+  {
+   "topic": "Erythrocytes and clearance",
+   "question": "Why is the presence of erythrocytes not a major problem when measuring urea clearance across a dialyzer?",
+   "options": {
+    "A": "Urea diffuses into and out of erythrocytes quickly, so red cell urea falls to about the plasma level",
+    "B": "Erythrocytes contain no urea at all",
+    "C": "Urea is confined entirely to plasma",
+    "D": "Red cells are removed before the blood enters the dialyzer"
+   },
+   "correct": "A",
+   "explanation": "Correct: A. Urea diffuses into and out of red cells quickly, so as plasma urea falls across the dialyzer the erythrocyte urea falls to about the same level; measuring plasma urea therefore captures nearly all urea removed. B and C are wrong because red cells do contain urea. D is false, as cells are not removed beforehand. This rapid equilibration contrasts sharply with creatinine and phosphorus, which do not equilibrate quickly with red cells, so almost none is removed from erythrocytes and their removal must be figured from plasma flow rather than whole blood flow."
+  },
+  {
+   "topic": "Blood water",
+   "question": "On average, urea is dissolved in a volume equal to approximately what fraction of whole blood?",
+   "options": {
+    "A": "About 50% of blood",
+    "B": "About 86% of blood",
+    "C": "About 100% of blood",
+    "D": "About 20% of blood"
+   },
+   "correct": "B",
+   "explanation": "Correct: B. Plasma is about 93% water and an erythrocyte about 72% water, and some urea associates with the nonwater portion of red cells, so on average urea is dissolved in a volume equal to about 86% of whole blood. A, C, and D miss this figure. This blood-water correction becomes important when converting the dialyzer clearance into the actual amount of urea removed during a session. For solutes confined to plasma, such as creatinine and phosphorus, the relevant volume is instead about 93% of the plasma flow rate, not of the blood."
+  },
+  {
+   "topic": "Plasma flow rate solutes",
+   "question": "When calculating the removal rate of creatinine or phosphorus across a dialyzer, why must plasma flow rate rather than whole blood flow rate be used?",
+   "options": {
+    "A": "Because these solutes are protein bound in plasma",
+    "B": "Because dialysate flow does not affect them",
+    "C": "Because very little creatinine or phosphorus is removed from red blood cells during passage through the dialyzer",
+    "D": "Because they have very high molecular weights"
+   },
+   "correct": "C",
+   "explanation": "Correct: C. Creatinine and phosphorus do not equilibrate quickly between plasma and erythrocytes, so almost none is removed from red cells during the brief dialyzer transit; their removal reflects only the plasma flow rate, not the whole blood flow. At a hematocrit of 30%, a 400 mL/min blood flow is really about 280 mL/min plasma and 120 mL/min red cells. A is wrong because the issue is slow red-cell equilibration, not protein binding, and B and D are unrelated. Consequently, raising the hematocrit lowers plasma flow and noticeably reduces creatinine and phosphorus clearance while barely affecting urea clearance."
+  },
+  {
+   "topic": "Dialysate flow rate",
+   "question": "Increasing dialysate flow from 500 to 800 mL/min with a high-efficiency dialyzer and blood flow above 350 mL/min increases urea clearance by approximately how much?",
+   "options": {
+    "A": "About 40% to 50%",
+    "B": "It has no measurable effect",
+    "C": "It reduces clearance by 10%",
+    "D": "About 5% to 8%"
+   },
+   "correct": "D",
+   "explanation": "Correct: D. Raising the dialysate flow from the usual 500 to 800 mL/min modestly improves diffusion, increasing urea clearance by only about 5% to 8%, and even that requires a high-efficiency dialyzer and a blood flow above 350 mL/min. A overstates the gain, while B and C are wrong since it does help somewhat and does not reduce clearance. Conversely, dialysate flow markedly below 500 mL/min, as in some daily, nocturnal, or ICU treatments, can substantially cut clearance, which is why dialysate flow is usually kept around 1.5 to 2 times the blood flow rate."
+  },
+  {
+   "topic": "Optimum dialysate flow",
+   "question": "The optimum dialysis solution flow rate is generally about what multiple of the blood flow rate?",
+   "options": {
+    "A": "1.5 to 2.0 times the blood flow rate",
+    "B": "Exactly equal to the blood flow rate",
+    "C": "5 to 10 times the blood flow rate",
+    "D": "One-half the blood flow rate"
+   },
+   "correct": "A",
+   "explanation": "Correct: A. The optimum dialysis solution flow rate is about 1.5 to 2.0 times the blood flow rate; above that the added diffusive efficiency is small, especially with newer dialyzers whose dialysate flow paths are already optimized. B, C, and D miss this ratio. The usual clinical dialysate flow is 500 mL/min, and increasing it to 800 adds only about 5% to 8% clearance under high-efficiency, high-blood-flow conditions, whereas dialysate flow well below 500 mL/min (as in some intensive or home regimens) can substantially reduce dialyzer clearance."
+  },
+  {
+   "topic": "Beta-2-microglobulin",
+   "question": "Why is the clearance of beta-2-microglobulin (MW 11,800) essentially zero with a standard low-flux dialysis membrane?",
+   "options": {
+    "A": "It is completely protein bound in plasma",
+    "B": "The molecule is too large to pass through the pores of low-flux membranes",
+    "C": "It diffuses too quickly and is reabsorbed",
+    "D": "It is destroyed by the dialysate"
+   },
+   "correct": "B",
+   "explanation": "Correct: B. Beta-2-microglobulin (MW 11,800) is simply too large to pass through the pores of standard low-flux membranes, so its dialyzer clearance is essentially zero. A is wrong because the limit is pore size, not protein binding; C and D are invented mechanisms. High-flux membranes have pores large enough to pass this molecule, and some membranes also remove it by adsorption. Because urea and beta-2-microglobulin behave so differently, a dialyzer's ability to remove small versus large solutes, that is its efficiency versus flux, must be described separately."
+  },
+  {
+   "topic": "High-flux membranes",
+   "question": "High-flux dialyzers are usually characterized by a water permeability (KUF) greater than approximately which value?",
+   "options": {
+    "A": "1 to 2 mL/hr per mm Hg",
+    "B": "5 mL/hr per mm Hg",
+    "C": "15 to 20 mL/hr per mm Hg",
+    "D": "100 mL/hr per mm Hg"
+   },
+   "correct": "C",
+   "explanation": "Correct: C. There is no single agreed measure of flux, but water permeability (KUF) can serve as a marker, and high-flux dialyzers usually have a KUF greater than about 15 to 20 mL/hr per mm Hg. A, B, and D fall below this threshold. Flux describes removal of large molecules like beta-2-microglobulin and is distinct from efficiency, which is small-solute removal best given by the urea K0A. A dialyzer can be high-flux yet low-efficiency (small pediatric units) or high-efficiency yet low-flux, so water permeability and K0A specify two independent properties."
+  },
+  {
+   "topic": "Efficiency vs flux",
+   "question": "In dialyzer terminology, what is the difference between efficiency and flux?",
+   "options": {
+    "A": "Efficiency refers to ultrafiltration and flux refers to diffusion",
+    "B": "Efficiency and flux are synonymous terms",
+    "C": "Efficiency describes only pediatric dialyzers and flux only adult dialyzers",
+    "D": "Efficiency refers to small-solute removal (best given by urea K0A), while flux refers to removal of very large molecules such as beta-2-microglobulin"
+   },
+   "correct": "D",
+   "explanation": "Correct: D. Efficiency is a dialyzer's ability to remove small solutes, best represented by the urea K0A, whereas flux is its ability to remove very large molecules such as beta-2-microglobulin, roughly indexed by water permeability (KUF). A reverses the definitions, B wrongly equates the two, and C misassigns them to patient age. The two properties are independent: a small low-efficiency dialyzer (K0A about 400 mL/min) can be high-flux, while a high-efficiency dialyzer (K0A about 1,200 mL/min) can be low flux, removing urea well but no beta-2-microglobulin."
+  },
+  {
+   "topic": "Importance of urea",
+   "question": "Which statement about urea makes it the focus of hemodialysis adequacy measurement?",
+   "options": {
+    "A": "It is a small (MW 60), only slightly toxic molecule whose generation is proportional to protein breakdown",
+    "B": "It is a highly toxic large protein produced by the kidney",
+    "C": "It is entirely protein bound and hard to remove",
+    "D": "It is generated independently of dietary protein intake"
+   },
+   "correct": "A",
+   "explanation": "Correct: A. Urea is the focus of adequacy measurement because it is a small molecule (MW 60 Da), only slightly toxic, made by the liver from amino acid nitrogen via ammonia, and generated in proportion to protein breakdown as reflected in the protein nitrogen appearance (PNA) rate. B is wrong (it is small and hepatic, not a renal protein), C is wrong (urea is water-soluble, not protein bound), and D is wrong since generation tracks dietary protein intake in stable patients. Thus urea removal indexes dialysis adequacy while urea generation estimates dietary protein intake."
+  },
+  {
+   "topic": "Weekly SUN profile",
+   "question": "In a thrice-weekly hemodialysis patient, the predialysis serum urea nitrogen is typically reduced by dialysis to about what fraction of the predialysis value, producing a sawtooth pattern?",
+   "options": {
+    "A": "About 10% (a 90% reduction)",
+    "B": "The postdialysis SUN is about 30% of the predialysis value (roughly a 70% reduction)",
+    "C": "About 80% (a 20% reduction)",
+    "D": "It falls to zero at the end of each treatment"
+   },
+   "correct": "B",
+   "explanation": "Correct: B. Dialysis typically lowers the predialysis SUN by about 70%, so the postdialysis value is roughly 30% of the predialysis level; the SUN then climbs back over the interdialytic interval to nearly the pre-treatment level, creating the characteristic sawtooth pattern. A (90% reduction) and C (20% reduction) misstate the fall, and D is wrong since the SUN does not reach zero. The time-averaged (TAC) SUN is the area under this sawtooth divided by time, and both the predialysis and TAC SUN reflect the balance between urea generation and removal."
+  },
+  {
+   "topic": "Predialysis SUN pitfall",
+   "question": "Early adequacy models targeted a low predialysis or time-averaged SUN. Why did this approach prove misleading?",
+   "options": {
+    "A": "Low SUN levels could never be achieved clinically",
+    "B": "A low SUN always indicated excellent dialysis",
+    "C": "Low predialysis or TAC SUN levels were associated with higher mortality and most often reflected inadequate protein intake rather than adequate dialysis",
+    "D": "SUN cannot be measured accurately"
+   },
+   "correct": "C",
+   "explanation": "Correct: C. Low predialysis or time-averaged (TAC) SUN levels were found to be associated with high mortality and most often reflected inadequate protein intake rather than good dialysis, so targeting a low SUN proved misleading. A and D are false, since such levels are achievable and SUN is measurable, and B is exactly the mistaken assumption the data overturned. A low SUN can simply mean the patient is eating too little protein (low urea generation), which is why adequacy assessment shifted to treatment-related measures like the URR and Kt/V that reflect delivered dose."
+  },
+  {
+   "topic": "URR",
+   "question": "If the predialysis SUN is 60 mg/dL and the postdialysis SUN is 18 mg/dL, what is the urea reduction ratio (URR)?",
+   "options": {
+    "A": "18%",
+    "B": "30%",
+    "C": "42%",
+    "D": "70%"
+   },
+   "correct": "D",
+   "explanation": "Correct: D. URR = (predialysis minus postdialysis)/predialysis = (60 minus 18)/60 = 42/60 = 0.70, conventionally expressed as 70%. A (18%) and B (30%) mistake the postdialysis value or the residual fraction for the reduction, and C (42%) is only the numerator, not the ratio. The URR is the current primary treatment-related measure of dialysis adequacy and is computed purely from the pre- and postdialysis SUN; the same calculation in SI units (21 down to 6.4 mmol/L) likewise yields 0.70, so units cancel out."
+  },
+  {
+   "topic": "Kt/V origin",
+   "question": "The urea Kt/V as a measure of dialysis adequacy was popularized by Gotch and Sargent through their reanalysis of which study, leading to a recommended minimum of at least 1.2 for thrice-weekly hemodialysis?",
+   "options": {
+    "A": "The National Cooperative Dialysis Study (NCDS)",
+    "B": "The HEMO Study",
+    "C": "The Frequent Hemodialysis Network trial",
+    "D": "The ROSCO study"
+   },
+   "correct": "A",
+   "explanation": "Correct: A. Gotch and Sargent's 1985 reanalysis of the National Cooperative Dialysis Study (NCDS) popularized urea Kt/V: a Kt/V below 0.8 was linked to morbidity and treatment failure, while a Kt/V above 1.0 predicted good outcomes, leading guidelines to recommend a minimum Kt/V of at least 1.2 for thrice-weekly hemodialysis. B (HEMO), C (Frequent Hemodialysis Network), and D (ROSCO) are later or unrelated studies. This landmark reanalysis established Kt/V as the standard dimensionless measure of the delivered dialysis dose."
+  },
+  {
+   "topic": "Kt/V meaning",
+   "question": "In the dimensionless ratio Kt/V, what do the components K, t, and V represent?",
+   "options": {
+    "A": "K is ultrafiltration coefficient, t is temperature, V is voltage",
+    "B": "K is the dialyzer blood water urea clearance, t is the session length, and V is the urea distribution volume (close to total body water)",
+    "C": "K is potassium, t is time, V is venous pressure",
+    "D": "K is the extraction ratio, t is transit time, V is the blood compartment volume"
+   },
+   "correct": "B",
+   "explanation": "Correct: B. Kt/V is a dimensionless ratio in which K is the dialyzer blood water urea clearance (L/hr), t is the session length (hours), and V is the urea distribution volume (liters, close to total body water). K times t gives the volume of blood cleared, and dividing by V normalizes it to body size, so a Kt/V of 1.0 means the volume cleared equals V. A, C, and D misassign the letters to potassium, temperature, voltage, venous pressure, or extraction ratio. Because it combines clearance, time, and body size, Kt/V is the standard adequacy metric."
+  },
+  {
+   "topic": "Fishtank model",
+   "question": "In the fish tank analogy where the fish is left in place and cleaning is done by repeatedly removing 1 L and replacing it with clean water 40 times (Kt/V = 1.0 for a 40 L tank), what fish-waste reduction ratio results?",
+   "options": {
+    "A": "100%",
+    "B": "50%",
+    "C": "About 63%",
+    "D": "0%"
+   },
+   "correct": "C",
+   "explanation": "Correct: C. When the fish stays in the tank during cleaning, each 1-L remove-and-replace cycle dilutes the waste remaining, so successive cycles remove less; after 40 such cycles (Kt = 40, V = 40, Kt/V = 1.0) the waste reduction ratio is only about 63%, not 100%. A (100%) applies only when the fish is removed and the entire 40 L is replaced at once, B (50%) corresponds to a Kt/V of 0.5, and D (0%) does not fit. This progressive dilution is why, in real single-pool dialysis, a Kt/V of 1.0 gives roughly a 63% URR rather than complete clearance."
+  },
+  {
+   "topic": "Urea generation effect",
+   "question": "For a fixed Kt/V of 1.0, how does lengthening the dialysis session affect the achieved urea reduction ratio (URR)?",
+   "options": {
+    "A": "Longer sessions raise the URR toward 100%",
+    "B": "Session length has no effect on the URR",
+    "C": "Only ultrafiltration, not session length, affects URR",
+    "D": "Longer sessions lower the URR because urea continues to be generated during the treatment, reaching about 0% with 24-hour continuous therapy"
+   },
+   "correct": "D",
+   "explanation": "Correct: D. For a fixed Kt/V of 1.0, continued urea generation during the treatment lowers the achieved URR as the session lengthens: about 63% if done instantly, 61.5% over 2 hours, 60% over 4 hours, 57% over 8 hours, and near 0% for 24-hour continuous (CRRT) therapy delivering a Kt/V of 1.0 per day. So A (rising toward 100%) and B (no effect) are wrong, and C ignores generation. This is why URR and Kt/V, though mathematically linked, also depend on session length, and long slow treatments are progressively less efficient per unit of Kt/V."
+  },
+  {
+   "topic": "Volume removal Kt/V",
+   "question": "A fish tank starting at 80 L has 40 L simply drained without replacement, leaving 40 L. Kt/V is 40/40 = 1.0, yet the waste concentration is unchanged. What does this illustrate about volume removal during dialysis?",
+   "options": {
+    "A": "Volume contraction removes waste (adds Kt/V) that is not reflected in the concentration-based reduction ratio",
+    "B": "Volume removal always lowers the true Kt/V",
+    "C": "Volume removal has no bearing on Kt/V",
+    "D": "Draining fluid increases the urea concentration proportionally"
+   },
+   "correct": "A",
+   "explanation": "Correct: A. Kt/V is calculated using the postdialysis V, so wastes removed along with ultrafiltered fluid add Kt/V that never appears as a concentration change. In the example, draining 40 L from an 80 L tank leaves 40 L (Kt/V = 40/40 = 1.0) yet the concentration is unchanged (URR 0%), proving volume contraction contributes extra Kt/V. B and C are backwards, and D is wrong since removing fluid without solute does not change concentration here. Clinically, ultrafiltration during dialysis gives added Kt/V beyond what the concentration-based URR reflects."
+  },
+  {
+   "topic": "Kt/V and URR guideline",
+   "question": "Accounting for typical urea generation and about 3% body-weight fluid removal, a minimum Kt/V of 1.2 corresponds to a recommended minimum URR of approximately what value?",
+   "options": {
+    "A": "About 50%",
+    "B": "About 65%",
+    "C": "About 80%",
+    "D": "About 90%"
+   },
+   "correct": "B",
+   "explanation": "Correct: B. On the adjusted nomogram, accounting for typical urea generation over a 3.5 to 4 hour session and about 3% body-weight fluid removal, a Kt/V of 1.2 corresponds to a URR of about 65%, which is why guidelines pairing a minimum Kt/V of 1.2 also recommend a URR of at least 65%. A, C, and D lie off the curve. The link is not perfectly fixed: with 9% fluid removal a URR of 65% can equal a Kt/V of 1.4, and a Kt/V of 1.2 can be reached with a URR as low as 58%, because greater volume removal adds unseen Kt/V."
+  },
+  {
+   "topic": "Daugirdas equation",
+   "question": "In the Daugirdas equation Kt/V = -ln(R - 0.008 x t) + (4 - 3.5 x R) x 0.55 x UF/V, what does R represent?",
+   "options": {
+    "A": "The residual renal urea clearance",
+    "B": "The ratio of dialysate to blood flow",
+    "C": "The ratio of postdialysis to predialysis SUN",
+    "D": "The ultrafiltration coefficient"
+   },
+   "correct": "C",
+   "explanation": "Correct: C. In the Daugirdas equation, R is the ratio of postdialysis to predialysis SUN; the natural-log term minus ln(R minus 0.008 x t) corrects R for urea generation as a function of session length t in hours, and the (4 minus 3.5 x R) x 0.55 x UF/V term adds the Kt/V from ultrafiltration-related volume reduction. A, B, and D misidentify R. Because it incorporates both generation and volume removal, this equation translates the easily measured pre/post SUN ratio into a Kt/V, and it generated the URR-versus-Kt/V curves shown in the chapter."
+  },
+  {
+   "topic": "Urea inbound and rebound",
+   "question": "The single-pool model predicts a monoexponential SUN decline, yet the actual intradialytic SUN falls faster than expected (inbound) and rebounds afterward. What best explains these observations?",
+   "options": {
+    "A": "Laboratory measurement error in the SUN assay",
+    "B": "Excessive postdialysis urea generation by the liver",
+    "C": "Urea is sequestered in certain body compartments during dialysis and re-enters the blood afterward",
+    "D": "Access recirculation during the entire treatment"
+   },
+   "correct": "C",
+   "explanation": "Correct: C. The actual SUN falls faster than the single-pool prediction early in dialysis (urea inbound) and rebounds afterward because urea is sequestered in certain body compartments during treatment and re-enters the blood once dialysis stops. The early fall reflects removal from a smaller apparent volume; the rebound, largely complete by 30 to 60 minutes, is too large to be explained by ongoing generation, so B is wrong. A (assay error) and D (recirculation throughout) do not fit. This multipool behavior underlies the difference between single-pool and equilibrated Kt/V."
+  },
+  {
+   "topic": "Regional blood flow model",
+   "question": "According to the regional blood flow model, urea is chiefly sequestered during dialysis in which tissues?",
+   "options": {
+    "A": "Muscle, which holds much of the total body water but receives a low fraction of cardiac output",
+    "B": "The brain and central nervous system",
+    "C": "The liver and spleen",
+    "D": "Adipose tissue, which has a very high blood flow"
+   },
+   "correct": "A",
+   "explanation": "Correct: A. In the regional blood flow model, urea is sequestered mainly in muscle, which contains a high percentage of total body water, and thus urea, but receives only a low percentage of cardiac output. This low ratio of blood flow to urea content slows transfer of urea from muscle to the dialyzer via the central circulation, causing sequestration, inbound, and rebound. B, C, and D name tissues that do not fit; the chapter specifies muscle, and adipose actually has low water content. This model, rather than slow removal from cells, explains the observed urea kinetics."
+  },
+  {
+   "topic": "Single-pool overestimate",
+   "question": "When significant urea sequestration occurs, how does the single-pool model perform in estimating the amount of urea removed?",
+   "options": {
+    "A": "It exactly matches the true removal",
+    "B": "It overestimates the amount of urea removed because the true time-averaged inlet concentration is lower than the single-pool estimate",
+    "C": "It underestimates urea removal",
+    "D": "It cannot be calculated at all"
+   },
+   "correct": "B",
+   "explanation": "Correct: B. The amount of urea removed depends on the time-averaged dialyzer inlet urea concentration during treatment. With sequestration, that true average is lower than what a single-pool model infers from the pre- and postdialysis values, so the single-pool model overestimates the urea actually removed. A is wrong (it does not match true removal), C reverses the direction, and D is false. This overestimation is exactly why an equilibrated Kt/V, based on a rebounded postdialysis sample drawn after equilibration, is lower than the single-pool Kt/V and better reflects true removal."
+  },
+  {
+   "topic": "Equilibrated Kt/V",
+   "question": "The postdialysis urea rebound used to compute an equilibrated Kt/V (eKt/V) is largely complete within approximately what time after dialysis ends?",
+   "options": {
+    "A": "Within 5 minutes",
+    "B": "Within 30 to 60 minutes",
+    "C": "Only after 6 hours",
+    "D": "Within 24 hours"
+   },
+   "correct": "B",
+   "explanation": "Correct: B. After dialysis, urea diffuses back from sequestered tissue sites into the blood, and this rebound is largely complete within 30 to 60 minutes; a postdialysis sample drawn then gives an equilibrated URR and eKt/V. A (5 minutes) is too soon to capture full rebound, and C (6 hours) and D (24 hours) are far too long. Because the equilibrated postdialysis SUN is higher than the immediate value, the eKt/V is lower than the single-pool Kt/V, and the gap is larger for short, intense treatments that generate more rebound relative to body size."
+  },
+  {
+   "topic": "eKt/V formula",
+   "question": "Using the rate equation eKt/V = spKt/V x Td/(Td + 30.7), where Td is session length in minutes, why does a shorter, more intense treatment produce a larger gap between spKt/V and eKt/V?",
+   "options": {
+    "A": "Shorter treatments have less urea generation",
+    "B": "The 30.7 constant only applies to long treatments",
+    "C": "A higher rate of dialysis (more Kt/V units per hour) produces a larger postdialysis rebound",
+    "D": "Shorter treatments have no rebound at all"
+   },
+   "correct": "C",
+   "explanation": "Correct: C. Rebound magnitude rises with the intensity of dialysis, measured as Kt/V units per hour, relative to body size, so a shorter, more intense treatment produces a larger gap between spKt/V and eKt/V. Using eKt/V = spKt/V x Td/(Td + 30.7), a spKt/V of 1.2 gives an eKt/V of 1.11 over 6 hours but only 0.96 over 2 hours. A and D are wrong (short treatments have more rebound, not less), and B misreads the 30.7, which is a time constant in minutes from the HEMO study. This is why European guidelines set the 1.2 minimum in terms of eKt/V."
+  },
+  {
+   "topic": "Access recirculation",
+   "question": "Access recirculation, in which dialyzer outlet blood re-enters the inlet, is most likely to occur under which circumstance?",
+   "options": {
+    "A": "When AV access flow greatly exceeds the blood pump demand",
+    "B": "When the dialyzer is fed from a venous catheter with high flow",
+    "C": "During ultrafiltration-only treatments",
+    "D": "When flow through a failing AV access falls to at or below the blood pump rate (e.g., 350 to 500 mL/min or slower)"
+   },
+   "correct": "D",
+   "explanation": "Correct: D. Access recirculation occurs when flow through a failing AV graft or fistula falls toward or below the blood pump rate (about 350 to 500 mL/min or slower); part of the cleared dialyzer outlet blood then reverses through the access and re-enters the inlet. Normally access flow averages about 1 L/min and exceeds the pump demand, so all inlet blood is undialyzed upstream blood and no recirculation occurs, making A and B wrong; C is unrelated. Recirculation dilutes inlet urea by 5% to 40%, cutting the urea actually removed even though dialyzer clearance is unchanged."
+  },
+  {
+   "topic": "Access recirculation adequacy",
+   "question": "How does unrecognized access recirculation affect the measured spKt/V and URR when the postdialysis sample is drawn conventionally?",
+   "options": {
+    "A": "It causes both to be overestimated because the dialyzer inlet urea is artifactually diluted",
+    "B": "It causes both to be underestimated",
+    "C": "It has no effect on either",
+    "D": "It only affects the predialysis SUN"
+   },
+   "correct": "A",
+   "explanation": "Correct: A. With access recirculation, cleared outlet blood dilutes the dialyzer inlet urea by 5% to 40%, so a conventionally drawn postdialysis inlet sample reads artifactually low; this inflates the calculated URR and therefore the spKt/V, overestimating the dose actually delivered. True dialyzer clearance is unchanged, but the amount of urea removed is reduced because the inlet concentration is lower. B and C are wrong because both indices are overestimated, not under- or unaffected, and D is wrong since recirculation distorts the postdialysis, not the predialysis, value."
+  },
+  {
+   "topic": "Blood sampling technique",
+   "question": "What is the recommended method for drawing an accurate postdialysis blood sample to avoid the effect of access recirculation?",
+   "options": {
+    "A": "Draw immediately without any change in blood flow",
+    "B": "Stop the blood pump completely and then draw the sample from the inlet line",
+    "C": "Slow the blood pump to about 100 mL/min for 10 to 20 seconds before drawing, or stop dialysate flow for 3 minutes at full blood flow",
+    "D": "Draw the sample from the dialyzer outlet line"
+   },
+   "correct": "C",
+   "explanation": "Correct: C. To avoid recirculation artifact, slow the blood pump to about 100 mL/min, assuredly below the access flow, for 10 to 20 seconds so the column of nonadmixed upstream blood reaches the sampling port, then draw; alternatively, stop or bypass dialysate flow for 3 minutes at full blood flow so the inlet SUN comes to equal the patient's SUN. Merely stopping the pump (B) just freezes admixed blood in the line, and A and D still sample diluted blood. The needed slow-flow duration depends on the roughly 9 mL dead space in most adult blood lines."
+  },
+  {
+   "topic": "Cardiopulmonary recirculation",
+   "question": "Cardiopulmonary recirculation lowers dialysis efficiency with an AV access but does not occur with a venous access. Why?",
+   "options": {
+    "A": "Venous access always has higher blood flow",
+    "B": "With a venous access, all blood leaving the dialyzer must traverse a peripheral capillary bed before returning to the dialyzer",
+    "C": "Venous catheters cannot develop an AV urea gradient",
+    "D": "The heart and lungs contain very high urea concentrations"
+   },
+   "correct": "B",
+   "explanation": "Correct: B. Cardiopulmonary recirculation happens when an AV-access-fed dialyzer receives cleared arterial blood that returns via the heart and lungs, which hold negligible urea, and is partly routed straight back to the dialyzer without passing through peripheral urea-rich tissues. With a venous access, all outlet blood must traverse a peripheral capillary bed before reaching the dialyzer again, so this recirculation cannot occur. A, C, and D are wrong. With an AV access the dialyzer rides an arterial urea curve about 5% to 10% lower than venous, making it inherently that much less efficient."
+  },
+  {
+   "topic": "Machine-measured adequacy",
+   "question": "One online method estimates dialyzer clearance without blood sampling by pulsing the dialysate. How does it work?",
+   "options": {
+    "A": "By measuring ultraviolet absorbance of the arterial blood line",
+    "B": "By weighing the patient continuously during treatment",
+    "C": "By sampling spent dialysate for urea nitrogen every minute",
+    "D": "By creating a step increase in dialysate sodium and comparing the conductivity of dialysate entering versus exiting the dialyzer"
+   },
+   "correct": "D",
+   "explanation": "Correct: D. Conductivity-based (ionic dialysance) clearance creates a step increase in dialysate sodium and compares the conductivity of dialysate entering versus exiting the dialyzer to estimate dialyzer clearance, and it can be repeated many times per session without needles or blood handling. A describes the separate UV-absorbance method for spent dialysate, B is unrelated, and C would require urea assays. Its main limitation is that it measures dialyzer clearance, not what happens in the patient, so it misses patient-side effects such as access recirculation and rebound."
+  },
+  {
+   "topic": "Urea distribution volume",
+   "question": "Using the marbles-in-a-box modeling method, if removing a fixed number of urea molecules causes only a small percentage concentration change, what does this imply about the urea distribution volume V?",
+   "options": {
+    "A": "V is large, because a small concentration change for a fixed amount removed indicates a large starting pool",
+    "B": "V is small, because little urea was present",
+    "C": "V cannot be estimated from concentration change",
+    "D": "V equals exactly the amount of urea removed"
+   },
+   "correct": "A",
+   "explanation": "Correct: A. In the marbles-in-a-box method, the pool size is inferred from the concentration change for a known amount removed: a small percentage change means a large starting pool (large V), whereas a large change means a small pool. Removing 50 marbles that cause only a 5% change implies 1,000 were present (large volume), while a 50% change implies only 100 (small volume). B, C, and D are wrong. A modeling program computes urea removed (clearance times time times mean inlet concentration) and the measured pre/post change to solve for V, which approximates about 90% of total body water."
+  },
+  {
+   "topic": "V too small",
+   "question": "A urea modeling program reports a modeled V roughly half the usual value (URR and Kt/V higher than expected) with K and t unchanged. What is the most likely cause?",
+   "options": {
+    "A": "The patient has gained a large amount of fluid",
+    "B": "The dialyzer clearance was much higher than recorded",
+    "C": "The postdialysis blood sample was drawn from the dialyzer outlet line instead of the inlet",
+    "D": "Access recirculation with proper sampling"
+   },
+   "correct": "C",
+   "explanation": "Correct: C. An artifactually low postdialysis SUN makes the URR and Kt/V read higher than expected; because the program is told K and t are unchanged, it concludes the patient's V must have shrunk and reports a V roughly half the usual value. The commonest cause of such a halved V is drawing the postdialysis sample from the dialyzer outlet line instead of the inlet. A (fluid gain) and D (properly sampled recirculation) would tend to raise or not shrink V, and B would not by itself lower modeled V this way. Always check a modeled V that suddenly drops."
+  },
+  {
+   "topic": "Residual renal function",
+   "question": "In dialysis patients with residual kidney function, how is residual renal clearance best approximated, and how do urea and creatinine clearances relate to true GFR?",
+   "options": {
+    "A": "By urea clearance alone, which equals GFR exactly",
+    "B": "As the average of the creatinine and urea clearances, since urea clearance underestimates GFR (tubular reabsorption) and creatinine clearance overestimates it (tubular secretion)",
+    "C": "By creatinine clearance alone, which underestimates GFR",
+    "D": "Residual function cannot be measured in dialysis patients"
+   },
+   "correct": "B",
+   "explanation": "Correct: B. Residual kidney clearance is best approximated as the average of the creatinine and urea clearances, because urea clearance (Kru) underestimates GFR owing to proximal tubular urea reabsorption, while creatinine clearance (Krc) overestimates GFR owing to tubular secretion; averaging the two brackets the true GFR. A and C rely on a single, biased clearance, and D is false, since residual function can and should be measured with a timed urine collection. Preserving residual function matters because it carries a substantial survival benefit in dialysis patients."
+  },
+  {
+   "topic": "nPNA",
+   "question": "A stable dialysis patient has a low normalized protein nitrogen appearance rate (nPNA). What does this most commonly reflect, once residual renal urea loss is accounted for?",
+   "options": {
+    "A": "Low dietary protein intake, which is generally associated with poor outcome",
+    "B": "Excellent nutrition and anabolism in nearly all cases",
+    "C": "Hypercatabolism and tissue breakdown",
+    "D": "A calculation error unrelated to the patient"
+   },
+   "correct": "A",
+   "explanation": "Correct: A. In steady state the normalized protein nitrogen appearance rate (nPNA) reflects dietary protein intake, so a low nPNA usually indicates poor intake and is associated with poor outcome, provided other urea losses such as residual renal clearance are properly accounted for. B and C are wrong: only rarely does a low nPNA reflect anabolism during rapid recovery, and a high nPNA can actually signal hypercatabolic tissue breakdown rather than good nutrition. D is incorrect. Notably, nPNA is only a modest mortality predictor once serum albumin and creatinine are controlled for."
+  },
+  {
+   "topic": "Standard Kt/V",
+   "question": "The 'standard' Kt/V was devised so that hemodialysis and peritoneal dialysis doses would match, using a peak concentration hypothesis. For a standard thrice-weekly hemodialysis regimen with spKt/V of 1.2, the weekly standard Kt/V is approximately what value?",
+   "options": {
+    "A": "About 3.14",
+    "B": "About 2.0",
+    "C": "About 5.0",
+    "D": "About 0.7"
+   },
+   "correct": "B",
+   "explanation": "Correct: B. The standard Kt/V was devised so that hemodialysis and peritoneal dialysis minimum doses would match. Using Keshaviah and Gotch's peak concentration hypothesis, urea generation g is divided by the mean weekly predialysis SUN rather than by the time-averaged concentration; since the average peak runs about a third higher than the TAC, this lowers the metric by roughly one-third. For a thrice-weekly regimen with an spKt/V of 1.2, that converts the EKRU-based weekly Kt/V of about 3.14 into a standard Kt/V of about 2.0, similar to the peritoneal dialysis target. A, C, and D are wrong."
+  },
+  {
+   "topic": "Casino-Lopez EKRU",
+   "question": "The Casino-Lopez equivalent renal urea clearance (EKRU) is calculated as which ratio, analogous to a creatinine clearance calculation?",
+   "options": {
+    "A": "Predialysis SUN divided by postdialysis SUN",
+    "B": "Dialyzer clearance divided by blood flow rate",
+    "C": "Urea generation rate (g) divided by the time-averaged SUN concentration (TAC)",
+    "D": "Session length divided by the urea distribution volume"
+   },
+   "correct": "C",
+   "explanation": "Correct: C. The Casino-Lopez equivalent renal urea clearance (EKRU) equals the urea generation rate g divided by the time-averaged SUN concentration (TAC), exactly mirroring how creatinine clearance is generation divided by the mean plasma level. A urea modeling program supplies g and TAC for any schedule, so any regimen can be converted to an EKRU in mL/min. A, B, and D do not describe this ratio. For a thrice-weekly spKt/V of 1.2, EKRU is about 11 mL/min, which expressed per week and normalized to V gives a weekly Kt/V of about 3.14, later scaled down to the standard Kt/V of about 2.0."
+  }
+ ]
+}

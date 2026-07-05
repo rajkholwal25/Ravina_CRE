@@ -1,0 +1,665 @@
+{
+ "chapter": 22,
+ "questions": [
+  {
+   "topic": "CAPD basics",
+   "question": "In continuous ambulatory peritoneal dialysis (CAPD), how many solution exchanges are typically performed each day?",
+   "options": {
+    "A": "Four times daily",
+    "B": "Two times daily",
+    "C": "Once daily",
+    "D": "Eight times daily"
+   },
+   "correct": "A",
+   "explanation": "In CAPD, dialysis solution is constantly present in the abdomen and is changed manually by gravity typically four times daily, with a range of three to five depending on individual patient requirements, which makes A correct. Two or once daily (B, C) would give too few exchanges to sustain the continuous clearance that defines CAPD, while eight (D) exceeds the stated range and is impractical. Drainage of spent dialysate and inflow of fresh solution both rely on gravity rather than a machine."
+  },
+  {
+   "topic": "Dialysate terminology",
+   "question": "According to correct usage, when does peritoneal dialysis solution properly become 'dialysate'?",
+   "options": {
+    "A": "As soon as it is manufactured",
+    "B": "Once it has been instilled into the peritoneal space",
+    "C": "Only after it is drained into the waste bag",
+    "D": "When it is warmed to body temperature"
+   },
+   "correct": "B",
+   "explanation": "The chapter uses the term dialysate correctly only for PD solution after it has been instilled into the peritoneal space, because the fluid does not truly become dialysate until dialysis has actually occurred there; hence B. It is not dialysate at manufacture (A) or merely when warmed (D), and it becomes dialysate on instillation, not only after draining into the waste bag (C). In everyday practice the term is loosely applied to fresh and spent fluid alike, but this chapter keeps the strict meaning."
+  },
+  {
+   "topic": "Solution volumes",
+   "question": "What is the standard CAPD solution fill volume that has traditionally been prescribed for adult patients?",
+   "options": {
+    "A": "1.0 L",
+    "B": "3.5 L",
+    "C": "2.0 L",
+    "D": "5.0 L"
+   },
+   "correct": "C",
+   "explanation": "The standard prescribed CAPD fill volume for adults has been 2.0 L, though 2.5 L is also widely used, so C is correct. Available volumes are 1.5, 2.0, 2.25, 2.5, or 3.0 L depending on manufacturer, so 1.0 L (A) and 5.0 L (D) fall outside the range and 3.5 L (B) is not a listed size. Bags are routinely overfilled by about 100 mL to allow for flushing. Larger volumes raise solute clearance but increase intraperitoneal pressure and may not be tolerated."
+  },
+  {
+   "topic": "Larger fill volumes",
+   "question": "Larger CAPD fill volumes may not be tolerated by patients primarily because of symptoms due to which of the following?",
+   "options": {
+    "A": "Excessive sodium removal",
+    "B": "Systemic hypotension",
+    "C": "Rapid glucose absorption causing hypoglycemia",
+    "D": "Increased intraperitoneal hydrostatic pressure"
+   },
+   "correct": "D",
+   "explanation": "Larger fill volumes are prescribed to increase solute clearance, but they raise intraperitoneal hydrostatic pressure, and the resulting symptoms mean they may not be tolerated, so D is correct. The chapter does not attribute intolerance to sodium removal (A), systemic hypotension (B), or hypoglycemia from glucose absorption (C). This pressure-symptom trade-off is why fill volume is individualized, and why the recumbent position in APD, with lower intraperitoneal pressure, often permits larger fills."
+  },
+  {
+   "topic": "Glucose concentrations",
+   "question": "Which set of dextrose concentrations (as glucose monohydrate) is routinely available and labeled as such in North America?",
+   "options": {
+    "A": "1.5%, 2.5%, and 4.25%",
+    "B": "1.36%, 2.27%, and 3.86%",
+    "C": "2.0%, 3.0%, and 5.0%",
+    "D": "1.0%, 2.0%, and 3.0%"
+   },
+   "correct": "A",
+   "explanation": "In North America solutions are labeled by dextrose as glucose monohydrate (MW 198) at 1.5%, 2.5%, and 4.25%, so A is correct. Option B (1.36%, 2.27%, 3.86%) is the true anhydrous glucose concentration (MW 180) used for European labeling of the very same solutions, a classic distractor. The other pairs (C, D) are not real product strengths. Recognizing that one bag carries two different numeric labels depending on region prevents dosing and charting confusion."
+  },
+  {
+   "topic": "Solution osmolarity",
+   "question": "What are the approximate osmolarities of the 1.5%, 2.5%, and 4.25% dextrose solutions, respectively?",
+   "options": {
+    "A": "280, 300, and 320 mOsm/L",
+    "B": "345, 395, and 484 mOsm/L",
+    "C": "300, 350, and 400 mOsm/L",
+    "D": "400, 500, and 600 mOsm/L"
+   },
+   "correct": "B",
+   "explanation": "The approximate osmolarities of the 1.5%, 2.5%, and 4.25% dextrose solutions are 345, 395, and 484 mOsm/L respectively, so B is correct; osmolarity rises with dextrose because glucose is the osmotic agent driving ultrafiltration. The lower figures in A, C, and D would be near or below plasma osmolarity and could not generate the hyperosmolar gradient needed for fluid removal. Higher dextrose strength thus means both more ultrafiltration and more glucose absorption."
+  },
+  {
+   "topic": "GDP generation",
+   "question": "Glucose degradation products (GDPs) in PD solutions are generated primarily by which process?",
+   "options": {
+    "A": "Exposure to ultraviolet light",
+    "B": "Prolonged refrigeration",
+    "C": "Heat sterilization of glucose",
+    "D": "Contact with polyvinyl chloride"
+   },
+   "correct": "C",
+   "explanation": "GDPs form when glucose is heat sterilized, so C is correct; these products may be toxic both to the peritoneal membrane and systemically. They are not produced by ultraviolet light (A), refrigeration (B), or contact with the PVC bag (D). Because less GDP forms when glucose is sterilized at low pH, standard lactate solutions are kept near pH 5.5, and two-compartment bags sterilize the glucose at an even lower pH of about 3.2 to minimize GDP further."
+  },
+  {
+   "topic": "Infusion pain",
+   "question": "Why is the pH of standard PD solution not lowered further below 5.5 despite this reducing GDP generation even more?",
+   "options": {
+    "A": "It would precipitate calcium",
+    "B": "It would raise osmolarity excessively",
+    "C": "It would inactivate the lactate buffer",
+    "D": "It would cause infusion pain in patients"
+   },
+   "correct": "D",
+   "explanation": "Lowering the pH below 5.5 would cut GDP generation even more, but it would also cause infusion pain, so pH is held at about 5.5 and D is correct. The limit is not set by calcium precipitation (A, which is actually a high-pH problem in bicarbonate solutions), osmolarity (B), or lactate inactivation (C). A pH of 5.5 is generally well tolerated and rises quickly as bicarbonate diffuses in from plasma, though a minority of patients still feel pain during inflow."
+  },
+  {
+   "topic": "Infusion pain relief",
+   "question": "For a patient who complains of pain during inflow of standard PD solution, which intervention can relieve it?",
+   "options": {
+    "A": "Neutralizing the solution pH with alkali prior to instillation",
+    "B": "Cooling the solution to room temperature",
+    "C": "Reducing the fill volume to 500 mL",
+    "D": "Adding extra glucose to the solution"
+   },
+   "correct": "A",
+   "explanation": "Inflow pain from the low pH of standard solution can be relieved by neutralizing the solution pH with alkali before instillation, so A is correct. Cooling to room temperature (B) actually worsens comfort and can cause shivering; reducing the fill volume to 500 mL (C) is not the described remedy; adding glucose (D) does not address pH. Two-compartment biocompatible bags, which mix to a normal pH, are an alternative way to abolish this uncommon complaint, which affects fewer than 5% of patients."
+  },
+  {
+   "topic": "Two-compartment bags",
+   "question": "In a two-compartment PD solution bag, the glucose-containing compartment is heat sterilized at a very low pH of about which value to further reduce GDP formation?",
+   "options": {
+    "A": "5.5",
+    "B": "3.2",
+    "C": "6.5",
+    "D": "8.0"
+   },
+   "correct": "B",
+   "explanation": "In the two-compartment bag the glucose compartment is heat sterilized at a very low pH of about 3.2, conditions under which GDP formation is reduced even further, so B is correct. A pH of 5.5 (A) is the single-bag standard, not the low-GDP glucose compartment; 6.5 (C) and 8.0 (D) are alkaline values, with 8.0 being the pH of the other compartment holding bicarbonate, lactate, and electrolytes. On mixing, the two compartments combine to a normal physiologic pH, yielding a low-GDP, normal-pH solution."
+  },
+  {
+   "topic": "Solution buffer",
+   "question": "Which base is contained in most commonly marketed PD solutions as the bicarbonate-generating buffer?",
+   "options": {
+    "A": "Acetate",
+    "B": "Citrate",
+    "C": "Lactate",
+    "D": "Phosphate"
+   },
+   "correct": "C",
+   "explanation": "Most marketed PD solutions use lactate as the bicarbonate-generating base, usually 40 mM (occasionally 35 mM), so C is correct. Acetate (A), citrate (B), and phosphate (D) are not the standard PD buffers. Lactate diffuses across the peritoneal membrane and is metabolized to bicarbonate in the body. Supplying bicarbonate directly is harder because a single bicarbonate bag has a high pH that precipitates calcium and magnesium, which is why bicarbonate solutions require two-compartment bags."
+  },
+  {
+   "topic": "Lactate metabolism",
+   "question": "After lactate in PD solution diffuses across the peritoneal membrane into the bloodstream, what happens to it?",
+   "options": {
+    "A": "It is excreted unchanged in urine",
+    "B": "It precipitates with calcium",
+    "C": "It is converted into glucose degradation products",
+    "D": "It is metabolized into bicarbonate"
+   },
+   "correct": "D",
+   "explanation": "Absorbed lactate is soon metabolized into bicarbonate, replenishing buffer and correcting acidosis, so D is correct. It is not excreted unchanged (A), does not precipitate calcium (B; that problem belongs to high-pH bicarbonate solutions), and is not converted to GDPs (C, which arise from heat-sterilized glucose). This indirect route is why lactate is the common base; bicarbonate can be given directly only through two-compartment bags that keep calcium and magnesium in solution."
+  },
+  {
+   "topic": "Bicarbonate mixing chemistry",
+   "question": "When a bicarbonate-based two-compartment PD solution is mixed, the small amount of acid in the calcium/magnesium compartment reacts with bicarbonate to generate what, keeping pH physiologic?",
+   "options": {
+    "A": "Carbonic acid and CO2",
+    "B": "Lactic acid and pyruvate",
+    "C": "Sodium hydroxide",
+    "D": "Advanced glycosylation end products"
+   },
+   "correct": "A",
+   "explanation": "When a bicarbonate two-compartment solution mixes, the small amount of acid in the calcium/magnesium compartment reacts with bicarbonate to form carbonic acid and CO2, holding the final pH physiologic so calcium and magnesium stay dissolved; hence A. It does not produce lactic acid and pyruvate (B), sodium hydroxide (C), or advanced glycosylation end products (D). The process mirrors making bicarbonate hemodialysis fluid from two concentrates, and it is what allows bicarbonate to be included without precipitation."
+  },
+  {
+   "topic": "Commercial solutions",
+   "question": "Which commercial PD solution contains BOTH bicarbonate and lactate as buffers?",
+   "options": {
+    "A": "Balance (Fresenius)",
+    "B": "Physioneal (Baxter)",
+    "C": "Bicavera (Fresenius)",
+    "D": "Dianeal PD4 (Baxter)"
+   },
+   "correct": "B",
+   "explanation": "Physioneal from Baxter is the two-bag solution containing both bicarbonate and lactate, using its dual compartments to limit GDP generation during sterilization and to permit bicarbonate use; hence B. Balance from Fresenius (A) uses lactate only; Bicavera from Fresenius (C) uses bicarbonate only with no lactate; Dianeal PD4 (D) is a standard single-bag lactate solution. Knowing which buffer each product carries matters when tailoring acid-base management on PD."
+  },
+  {
+   "topic": "Biocompatible solutions",
+   "question": "Why are two-bag PD solutions considered theoretically more biocompatible than standard one-bag solutions?",
+   "options": {
+    "A": "They contain higher glucose concentrations",
+    "B": "They contain potassium to match plasma",
+    "C": "They are at physiologic pH and contain greatly reduced GDPs",
+    "D": "They are stored at low temperature"
+   },
+   "correct": "C",
+   "explanation": "Two-bag solutions are considered more biocompatible because after mixing they are at physiologic or near-physiologic pH and contain greatly reduced GDPs, versus about pH 5.5 in standard one-bag fluid; hence C. They do not have higher glucose (A) or added potassium (B; PD solutions contain no potassium), and low-temperature storage (D) is not the reason. The theoretical hope was better preservation of membrane and residual renal function and fewer peritonitis episodes, though trial results have been inconsistent."
+  },
+  {
+   "topic": "balANZ study",
+   "question": "The balANZ study reported which finding with the Balance biocompatible solution, though it was not confirmed in other trials?",
+   "options": {
+    "A": "Reduced serum potassium",
+    "B": "A higher ultrafiltration rate",
+    "C": "Improved long-term technique survival",
+    "D": "A significantly lower peritonitis rate"
+   },
+   "correct": "D",
+   "explanation": "The balANZ study reported a significantly lower peritonitis rate with the Balance solution, but this was not confirmed in other trials and a meta-analysis was negative; hence D. It did not show reduced potassium (A), a higher ultrafiltration rate (B; some trials actually showed less effective UF), or proven long-term technique survival (C, since studies were underpowered for that endpoint). This inconsistency, together with higher cost, is why biocompatible fluids are not universally adopted."
+  },
+  {
+   "topic": "Biocompatible use",
+   "question": "Where are biocompatible low-GDP PD solutions most widely used?",
+   "options": {
+    "A": "Europe and parts of Asia",
+    "B": "North America",
+    "C": "South America",
+    "D": "Africa"
+   },
+   "correct": "A",
+   "explanation": "Biocompatible low-GDP PD solutions are widely used in Europe and parts of Asia but very little in North America; hence A. The other regions (B, C, D) are not where these fluids predominate. The limited North American uptake reflects both the lack of consistent high-level outcome evidence supporting their use and the higher cost of these dual-bag products, despite their theoretical biocompatibility advantages over standard pH 5.5 one-bag solutions."
+  },
+  {
+   "topic": "Sodium content",
+   "question": "The sodium concentration of most standard CAPD solutions is in which range?",
+   "options": {
+    "A": "110-115 mM",
+    "B": "132-134 mM",
+    "C": "120-125 mM",
+    "D": "145-150 mM"
+   },
+   "correct": "B",
+   "explanation": "Standard CAPD solutions have sodium mostly in the 132-134 mM range and contain no potassium, so B is correct; the other ranges (A, C, D) fall outside the actual formulations. Higher sodium would lead to less diffusive removal of sodium during dwells, while lower-sodium solutions could augment sodium removal but would need more glucose to maintain a given osmolarity. This modestly sub-plasma sodium supports sodium removal while dextrose provides the osmotic drive."
+  },
+  {
+   "topic": "Calcium content",
+   "question": "Lower-calcium PD solutions containing 2.0-2.5 mEq/L (1.0-1.25 mM) calcium are increasingly used primarily to reduce the incidence of what?",
+   "options": {
+    "A": "Infusion pain",
+    "B": "Peritonitis",
+    "C": "Hypercalcemia associated with oral calcium and vitamin D",
+    "D": "Hyponatremia"
+   },
+   "correct": "C",
+   "explanation": "Lower-calcium solutions containing 2.0-2.5 mEq/L (1.0-1.25 mM) rather than 3.5 mEq/L (1.75 mM) calcium are used mainly to reduce hypercalcemia associated with oral calcium binders and vitamin D administration; hence C. They are not aimed at infusion pain (A), peritonitis (B), or hyponatremia (D). They also protect against adynamic bone disease, which was previously common in PD patients, though at the cost of somewhat higher PTH levels."
+  },
+  {
+   "topic": "Calcium content drawback",
+   "question": "Lower-calcium PD solutions have been associated with which unwanted change?",
+   "options": {
+    "A": "Reduced ultrafiltration",
+    "B": "Severe hypocalcemic tetany",
+    "C": "Increased peritonitis rates",
+    "D": "Higher plasma parathyroid hormone (PTH) levels"
+   },
+   "correct": "D",
+   "explanation": "Lower-calcium PD solutions have been associated with higher plasma parathyroid hormone (PTH) levels, so D is correct; this is the trade-off for reducing hypercalcemia and adynamic bone disease. The chapter does not link them to reduced ultrafiltration (A), hypocalcemic tetany (B), or increased peritonitis (C). Clinicians therefore balance the lower calcium load against the risk of aggravating secondary hyperparathyroidism when selecting the dialysate calcium concentration."
+  },
+  {
+   "topic": "Glucose drawbacks",
+   "question": "Which of the following is a recognized concern with instilling large amounts of glucose into the peritoneal cavity?",
+   "options": {
+    "A": "Hyperglycemia, dyslipidemia, and obesity",
+    "B": "Hypoglycemia and weight loss",
+    "C": "Hypernatremia and hypertension",
+    "D": "Hyperkalemia and arrhythmia"
+   },
+   "correct": "A",
+   "explanation": "Instilling large amounts of glucose predisposes patients to hyperglycemia, dyslipidemia, and obesity, plus long-term peritoneal membrane damage both directly and via GDPs and advanced glycosylation end products; hence A. The opposite metabolic picture (B) and the electrolyte-based options (C, D) are not the described concerns. Glucose is also relatively ineffective in high transporters, which is why alternative osmotic agents such as icodextrin and amino acids are used."
+  },
+  {
+   "topic": "Icodextrin absorption",
+   "question": "Why is ultrafiltration with icodextrin more sustained than with glucose?",
+   "options": {
+    "A": "Icodextrin is not absorbed at all",
+    "B": "Absorption of polyglucose is by the lymphatics and is much slower",
+    "C": "It is continuously secreted by the peritoneum",
+    "D": "It is metabolized to glucose within the cavity"
+   },
+   "correct": "B",
+   "explanation": "Icodextrin, an iso-osmolar polyglucose, ultrafilters by an oncotic effect, and its absorption occurs slowly through the lymphatics, so the oncotic gradient and ultrafiltration are more sustained than with glucose; hence B. It is absorbed, just slowly, so A is wrong; it is not secreted by the peritoneum (C) and is not metabolized to glucose within the cavity (D). This sustained action makes it ideal for the long nocturnal dwell in CAPD and the long day dwell in APD, especially with ultrafiltration failure."
+  },
+  {
+   "topic": "Icodextrin assay interference",
+   "question": "Increased maltose levels from icodextrin interfere with which blood glucose measurement method, causing falsely elevated readings?",
+   "options": {
+    "A": "The hexokinase method",
+    "B": "The glucose oxidase method",
+    "C": "The glucose dehydrogenase pyrroloquinolinequinone assay",
+    "D": "Arterial blood gas analyzers"
+   },
+   "correct": "C",
+   "explanation": "Raised maltose from icodextrin interferes with the glucose dehydrogenase pyrroloquinolinequinone assay, which reacts with both glucose and maltose, giving falsely high glucose readings; hence C. Hexokinase (A) and glucose oxidase (B) methods are appropriate alternatives, and arterial blood gas analyzers (D) are not the issue. Using the wrong meter risks masking true hypoglycemia, so icodextrin patients must have blood glucose measured by a maltose-insensitive method."
+  },
+  {
+   "topic": "Icodextrin amylase",
+   "question": "Measured amylase levels in patients using icodextrin can appear how, due to interaction between icodextrin metabolites and amylase assays?",
+   "options": {
+    "A": "Factitiously high",
+    "B": "Undetectable and unmeasurable",
+    "C": "Unchanged",
+    "D": "Factitiously low"
+   },
+   "correct": "D",
+   "explanation": "Icodextrin metabolites interact with commonly used amylase assays to make measured amylase appear factitiously low, so D is correct; it is not falsely high (A), unmeasurable (B), or unchanged (C). This matters when evaluating suspected pancreatitis in an icodextrin patient, because a seemingly normal amylase may actually be depressed. Icodextrin also causes mild translocational hyponatremia from movement of sodium-poor fluid out of cells into the extracellular space."
+  },
+  {
+   "topic": "Amino-acid solutions",
+   "question": "Amino acid-based PD solutions are primarily used for what purpose?",
+   "options": {
+    "A": "Nutritional supplementation",
+    "B": "Rapid ultrafiltration in high transporters",
+    "C": "Buffering metabolic alkalosis",
+    "D": "Reducing peritonitis rates"
+   },
+   "correct": "A",
+   "explanation": "Amino-acid solutions are used for nutritional supplementation because they are largely absorbed by the end of a 4- to 6-hour dwell, delivering protein; hence A. They are not for rapid ultrafiltration in high transporters (B), buffering alkalosis (C), or reducing peritonitis (D). They are modestly effective in nutritionally compromised patients but can be used only once daily, since larger amounts cause acidosis and a rise in blood urea, problems managed with oral alkali and more dialysis."
+  },
+  {
+   "topic": "Amino-acid osmotic strength",
+   "question": "Osmotically, amino-acid PD solutions are approximately comparable to which glucose solution?",
+   "options": {
+    "A": "The 2.27% glucose solution",
+    "B": "The 1.36% glucose solution",
+    "C": "The 3.86% glucose solution",
+    "D": "Icodextrin"
+   },
+   "correct": "B",
+   "explanation": "Amino-acid solutions are reasonably effective osmotically, comparable to the 1.36% glucose solution, so B is correct; they are not as strong as the 2.27% (A) or 3.86% (C) glucose solutions, and icodextrin (D) works by a different, oncotic mechanism. Because their osmotic strength is only modest and larger doses cause acidosis and rising urea, they are limited to once-daily use, chiefly for nutritional support rather than for fluid removal."
+  },
+  {
+   "topic": "Solution warming",
+   "question": "Why do most manufacturers not recommend using a microwave oven to warm PD solution?",
+   "options": {
+    "A": "It cannot reach body temperature",
+    "B": "It sterilizes the solution unnecessarily",
+    "C": "Hot spots may be produced, particularly in transfer sets",
+    "D": "It increases GDP breakdown into safe products"
+   },
+   "correct": "C",
+   "explanation": "Microwave warming is discouraged by most manufacturers because hot spots may be produced during heating, particularly in the transfer sets; hence C. Microwaves can reach body temperature (so A is false), do not usefully sterilize the solution (B), and do not helpfully break GDPs into safe products (D). Overheating can chemically alter the dextrose and cause discomfort on instillation, and accidental boiling in a confined space can explode; a heating pad or special oven is preferred."
+  },
+  {
+   "topic": "Transfer sets",
+   "question": "What is the name of the length of plastic tubing that connects the PD solution bag to the patient's peritoneal catheter?",
+   "options": {
+    "A": "A titanium adapter",
+    "B": "A manifold",
+    "C": "A frangible",
+    "D": "A transfer set (or giving set)"
+   },
+   "correct": "D",
+   "explanation": "The length of plastic tubing connecting the PD solution bag to the patient's peritoneal catheter is the transfer set, also called a giving set; hence D. A titanium adapter (A) is a catheter connector, a manifold (B) links multiple bags to a cycler, and a frangible (C) is the breakable seal that opens a Y-set limb. Transfer sets come in three major types, straight, Y, and double-bag, each requiring a different exchange technique and carrying a different peritonitis risk."
+  },
+  {
+   "topic": "Extended-life tubing",
+   "question": "Extended-life transfer set tubing allows patients to dialyze for how long between transfer set changes?",
+   "options": {
+    "A": "6 months",
+    "B": "1 month",
+    "C": "1 week",
+    "D": "2 years"
+   },
+   "correct": "A",
+   "explanation": "Extended-life transfer set tubing allows patients to dialyze for 6 months between transfer set changes, so A is correct; 1 month (B), 1 week (C), and 2 years (D) are wrong. Ordinarily the transfer set is changed once every several months, and the extended-life version lengthens that interval to six months, reducing the number of connection procedures and the associated handling of the tubing."
+  },
+  {
+   "topic": "Adapter tubing",
+   "question": "Most Y sets connect not directly to the catheter but to a short adapter/extension tubing of what length inserted between the catheter and the Y stem?",
+   "options": {
+    "A": "5-10 cm",
+    "B": "15-24 cm",
+    "C": "30-40 cm",
+    "D": "50-60 cm"
+   },
+   "correct": "B",
+   "explanation": "Most Y sets connect not directly to the catheter but to a short 15-24 cm adapter or extension tubing inserted between the catheter and the Y stem; hence B. The other lengths (A, C, D) are incorrect. This adapter/extension tubing avoids the need for, and the risk of damage from, repeated clamping of the catheter itself. Confusingly it is sometimes also called a transfer set, but this chapter reserves that term for the bag-to-extension tubing."
+  },
+  {
+   "topic": "Flush-before-fill benefit",
+   "question": "The lower peritonitis rate of the Y set compared with the straight set is thought to be due chiefly to what?",
+   "options": {
+    "A": "Warming the solution before infusion",
+    "B": "Use of titanium connectors",
+    "C": "The flush-before-fill procedure that primes the tubing",
+    "D": "The larger fill volumes used"
+   },
+   "correct": "C",
+   "explanation": "The Y set's lower peritonitis rate versus the straight set is attributed chiefly to the flush-before-fill procedure that primes the tubing, so any bacteria introduced during connection are washed into the drainage bag rather than into the patient; hence C. It is not due to warming the solution (A), titanium connectors (B), or larger fill volumes (D). Disconnecting between exchanges also reduces exit-site and tunnel trauma, adding to the benefit that drove adoption from the mid-1980s."
+  },
+  {
+   "topic": "Y set history",
+   "question": "From which era did Y-set systems increasingly displace the straight system as the transfer set of choice?",
+   "options": {
+    "A": "From the mid-2000s",
+    "B": "From the early 1970s",
+    "C": "From the late 1990s",
+    "D": "From the mid-1980s onward"
+   },
+   "correct": "D",
+   "explanation": "Y-set systems increasingly displaced the straight system as the transfer set of choice from the mid-1980s onward, driven by their significantly lower peritonitis rate and the convenience of disconnecting between exchanges; hence D. The mid-2000s (A), early 1970s (B), and late 1990s (C) are incorrect. Pre-attached double-bag Y systems later became dominant, offering even lower peritonitis rates than standard Y sets."
+  },
+  {
+   "topic": "Double-bag flush purpose",
+   "question": "In a pre-attached double-bag system, the purpose of the flush-before-fill step is limited to what?",
+   "options": {
+    "A": "Flushing out residual air from the tubing",
+    "B": "Preventing peritoneal cavity contamination",
+    "C": "Warming the solution",
+    "D": "Neutralizing the pH"
+   },
+   "correct": "A",
+   "explanation": "In a pre-attached double-bag system the flush-before-fill step serves only to flush out residual air from the tubing; hence A. It no longer needs to prevent peritoneal cavity contamination (B), because there is no transfer set-to-solution bag connection to make, since the bags come pre-attached to the Y limbs. It does not warm the solution (C) or neutralize pH (D). Eliminating that manual connection is what makes double-bag systems even safer than standard Y sets."
+  },
+  {
+   "topic": "Double-bag advantage",
+   "question": "Pre-attached double-bag systems are now by far the most popular because of ease of use and evidence that they are associated with what compared with standard Y sets?",
+   "options": {
+    "A": "Higher ultrafiltration",
+    "B": "Even lower rates of peritonitis",
+    "C": "Lower solution cost",
+    "D": "Faster warming"
+   },
+   "correct": "B",
+   "explanation": "Pre-attached double-bag systems are now by far the most popular because of their ease of use and evidence that they carry even lower rates of peritonitis than standard Y sets; hence B. The advantage is infection-related, not higher ultrafiltration (A), lower solution cost (C), or faster warming (D). By removing the spike or Luer connection between transfer set and bag, they eliminate a key contamination step, building on the flush-before-fill benefit already provided by the Y set."
+  },
+  {
+   "topic": "Quick connect systems",
+   "question": "Quick connect-disconnect systems at the catheter-to-transfer set joint typically include a Luer lock mechanism with a recessed orifice and what feature to minimize contamination?",
+   "options": {
+    "A": "A heparin coating",
+    "B": "A titanium spike",
+    "C": "An iodine-impregnated cap",
+    "D": "A silver mesh filter"
+   },
+   "correct": "C",
+   "explanation": "Quick connect-disconnect systems at the catheter-to-transfer set joint typically include a Luer-lock mechanism with a recessed orifice and an iodine-impregnated cap to minimize the risk of contamination; hence C. A heparin coating (A), a titanium spike (B), and a silver mesh filter (D) are not described features. These systems arose with disconnect Y sets and double bags to give an easy yet sterile connection; the more elaborate Stay Safe device also regulates the fill and drain cycles."
+  },
+  {
+   "topic": "Spike-and-port",
+   "question": "The spike-and-port design for connecting the transfer set to the PD solution bag is best described as which of the following?",
+   "options": {
+    "A": "The newest, most contamination-resistant system",
+    "B": "A titanium locking device",
+    "C": "A cycler-only connection",
+    "D": "The oldest and simplest connection system"
+   },
+   "correct": "D",
+   "explanation": "The spike-and-port design is the oldest and simplest system used to connect the transfer set to the PD solution bag, operated by pushing a spike into a port on the bag; hence D. It is not the newest or most contamination-resistant option (A), a titanium locking device (B), or a cycler-only connection (C). Because spiking requires good vision, depth perception, and strength, and errors cause contamination and peritonitis, it has largely been replaced by easier Luer-lock or screw-type easy-lock connectors."
+  },
+  {
+   "topic": "Easy-lock antiseptic",
+   "question": "A modified easy-lock connector contains a recessed fluid pathway, a silicon O-ring for a tight seal, and a reservoir that can be filled with what?",
+   "options": {
+    "A": "An antiseptic solution such as povidone-iodine",
+    "B": "Sterile saline",
+    "C": "Heparin",
+    "D": "Local anesthetic"
+   },
+   "correct": "A",
+   "explanation": "A modified easy-lock connector contains a recessed fluid pathway, a silicon O-ring for a tight seal, and a reservoir that can be filled with an antiseptic solution such as povidone-iodine; hence A. It is not filled with sterile saline (B), heparin (C), or local anesthetic (D). These features replaced the error-prone spike with a system more tolerant of poor vision and dexterity, reducing contamination and subsequent peritonitis at the transfer set-to-solution bag connection."
+  },
+  {
+   "topic": "APD definitions",
+   "question": "APD with a day dwell is also known by which name?",
+   "options": {
+    "A": "Nocturnal intermittent peritoneal dialysis (NIPD)",
+    "B": "Continuous cycling peritoneal dialysis (CCPD)",
+    "C": "Tidal peritoneal dialysis (TPD)",
+    "D": "Intermittent peritoneal dialysis (IPD)"
+   },
+   "correct": "B",
+   "explanation": "APD with a day dwell is also known as continuous cycling peritoneal dialysis (CCPD); hence B. NIPD (A) is day dry APD with no day dwell; TPD (C) is tidal PD, a separate variant; and IPD (D) is not the day-dwell form. In CCPD the patient carries solution in the abdominal cavity through the day while the cycler drains and refills the abdomen three or more times overnight, which gives the therapy its continuous character."
+  },
+  {
+   "topic": "Day dry indication",
+   "question": "Day dry APD (NIPD) may be specifically indicated in a patient with which of the following?",
+   "options": {
+    "A": "Very poor residual renal function",
+    "B": "Need for maximal solute clearance",
+    "C": "Mechanical contraindications such as leaks, hernias, or back pain",
+    "D": "Severe hyperglycemia"
+   },
+   "correct": "C",
+   "explanation": "Day dry APD (NIPD) may be indicated when there is good residual renal function or when there are mechanical contraindications to walking about with solution in the abdomen, such as leaks, hernias, or back pain; hence C. Very poor residual function (A) and a need for maximal solute clearance (B) argue against it, since day-dry clearances are lower without a day dwell; severe hyperglycemia (D) is not the indication. Draining fully leaves the abdomen dry all day, relieving intraperitoneal pressure problems."
+  },
+  {
+   "topic": "Cyclers",
+   "question": "Contemporary cyclers change from drain to fill based on what, rather than waiting for a preset time?",
+   "options": {
+    "A": "A temperature threshold",
+    "B": "A fixed 10-minute timer",
+    "C": "The patient pressing a button",
+    "D": "When flow slows down"
+   },
+   "correct": "D",
+   "explanation": "Contemporary cyclers switch from drain to fill when outflow slows down rather than waiting for a preset time, and they also test whether flow has stopped because of obstruction; hence D. They are not governed by a temperature threshold (A) or a fixed 10-minute timer (B), nor do they wait for the patient to press a button (C). These pumps are not gravity-dependent and optimize drain and inflow times by measuring flow rates, improving efficiency and detecting catheter problems."
+  },
+  {
+   "topic": "Cycler smart cards",
+   "question": "Some cycler models incorporate 'smart cards,' which are used to do what?",
+   "options": {
+    "A": "Program the prescription and record the actual prescription delivered",
+    "B": "Measure serum electrolytes",
+    "C": "Warm the dialysis solution",
+    "D": "Sterilize the tubing"
+   },
+   "correct": "A",
+   "explanation": "Smart cards in some cycler models are used to program the cycler prescription and to record the actual prescription delivered to the patient; hence A. They do not measure serum electrolytes (B), warm the dialysis solution (C), or sterilize the tubing (D). This capability lets clinicians set a prescription and later verify both adherence and the therapy actually delivered, a useful check on unsupervised home APD."
+  },
+  {
+   "topic": "APD cycle numbers",
+   "question": "During APD, the number of cycles per night usually varies within which range?",
+   "options": {
+    "A": "1 to 2",
+    "B": "3 to 10",
+    "C": "12 to 20",
+    "D": "20 to 30"
+   },
+   "correct": "B",
+   "explanation": "During APD the number of cycles per night usually varies from 3 to 10, with dwell volumes ranging from 1.5 to 3.0 L; hence B. One to two cycles (A) is too few, while 12-20 (C) or 20-30 (D) exceed the usual range. Patients typically spend 8-10 hours a night cycling, and the recumbent position lowers intraperitoneal pressure, often allowing a larger fill volume that increases both clearance and ultrafiltration."
+  },
+  {
+   "topic": "APD total fluid",
+   "question": "The total amount of fluid used during an APD session is typically within which range?",
+   "options": {
+    "A": "2 to 6 L",
+    "B": "20 to 30 L",
+    "C": "8 to 18 L",
+    "D": "40 to 50 L"
+   },
+   "correct": "C",
+   "explanation": "The total amount of fluid used during an APD session is typically between 8 and 18 L; hence C. Two to 6 L (A) is too little, and 20-30 L (B) or 40-50 L (D) exceed the norm, with 20-30 L applying only to high-volume tidal PD. This total is delivered over roughly 3 to 10 nightly cycles of 1.5-3.0 L each across 8-10 hours of cycling, and can be drawn from several bags via a multipronged manifold."
+  },
+  {
+   "topic": "APD large bags",
+   "question": "For APD, the total number of bags and thus the cost can be reduced by using larger bags holding how much solution?",
+   "options": {
+    "A": "1.5 or 2 L",
+    "B": "0.5 or 1 L",
+    "C": "10 or 12 L",
+    "D": "3, 5, or 6 L"
+   },
+   "correct": "D",
+   "explanation": "The total number of bags, and thus the cost, can be reduced by using larger bags holding 3, 5, or 6 L of solution; hence D. Small 0.5-1 L (B) or 1.5-2 L (A) bags would require many connections, and 10-12 L (C) bags are not standard. The drawback is that lifting these large bags can be a problem for older and frailer patients. Cyclers can be fed from as many as eight bags simultaneously through a multipronged manifold."
+  },
+  {
+   "topic": "Intermediate dextrose",
+   "question": "Because some cyclers can be fed from two or more bags simultaneously, how can intermediate dextrose concentrations be delivered?",
+   "options": {
+    "A": "By selecting the dextrose concentrations of the solutions being hung",
+    "B": "By adding glucose powder to the bag",
+    "C": "By diluting with sterile water",
+    "D": "Only by using the last bag option"
+   },
+   "correct": "A",
+   "explanation": "Because some cyclers can be fed from two or more bags simultaneously, appropriate selection of the dextrose concentrations of the solutions being hung allows intermediate dextrose concentrations to be delivered; hence A. One does not add glucose powder to the bag (B), dilute with sterile water (C), or rely only on the last bag option (D). This flexibility tailors osmotic strength to values between the commercially available 1.5%, 2.5%, and 4.25% steps."
+  },
+  {
+   "topic": "APD icodextrin",
+   "question": "How is icodextrin solution usually handled with respect to cycler delivery in APD?",
+   "options": {
+    "A": "It is the preferred solution for all night cycles",
+    "B": "It is not usually prescribed for delivery by cycler, except as a last bag option",
+    "C": "It must be mixed with glucose before cycling",
+    "D": "It is delivered only during tidal cycling"
+   },
+   "correct": "B",
+   "explanation": "Icodextrin solution is not usually prescribed for delivery by cycler, except as a last bag option for the long day dwell; hence B. It is not the preferred solution for all night cycles (A), does not need mixing with glucose (C), and is not tied to tidal cycling (D). Its slow, sustained oncotic ultrafiltration suits a single long dwell rather than the short cycles of nocturnal APD, during which it is no more effective than glucose."
+  },
+  {
+   "topic": "APD flush option",
+   "question": "To minimize contamination risk after the transfer set-to-container connection in APD, newer cyclers allow for what?",
+   "options": {
+    "A": "Ultraviolet sterilization",
+    "B": "An automatic iodine bath",
+    "C": "A flush option after connection",
+    "D": "A titanium seal"
+   },
+   "correct": "C",
+   "explanation": "To minimize the risk of contamination after the transfer set-to-container connection, a step that returned with APD's multiple bags, newer cyclers allow for a flush option after the connection is made; hence C. There is no ultraviolet sterilization (A), automatic iodine bath (B), or titanium seal (D) described. Ironically this spike or Luer connection largely disappeared from CAPD with double bags but has become commonplace again in APD, so the flush restores some contamination protection."
+  },
+  {
+   "topic": "Tidal PD concept",
+   "question": "Tidal peritoneal dialysis (TPD) was designed to optimize solute clearance by doing what?",
+   "options": {
+    "A": "Draining the abdomen completely between every cycle",
+    "B": "Cycling once every 8 hours",
+    "C": "Using only icodextrin",
+    "D": "Leaving a significant volume of solution in the peritoneal cavity throughout the session"
+   },
+   "correct": "D",
+   "explanation": "Tidal peritoneal dialysis was designed to optimize solute clearance by leaving a significant volume of dialysis solution in the peritoneal cavity throughout the session, so that diffusive clearance can continue during cycling; hence D. It does not drain the abdomen completely between every cycle (A), which is the opposite of tidal, cycle once every 8 hours (B), or use only icodextrin (C). Typically only part of the dwell, such as a 1 L tidal volume from a 2 L fill, is exchanged each cycle."
+  },
+  {
+   "topic": "Tidal PD clearances",
+   "question": "With usual solution volumes, clearances achieved with TPD have been which of the following?",
+   "options": {
+    "A": "No better than those with similar amounts of solution delivered by conventional cycling",
+    "B": "Markedly superior to conventional cycling",
+    "C": "Always inadequate for any patient",
+    "D": "Equal to hemodialysis clearances"
+   },
+   "correct": "A",
+   "explanation": "With usual solution volumes, TPD clearances have been disappointing and are no better than those achieved with similar amounts of solution delivered by conventional cycling; hence A. They are not markedly superior (B), universally inadequate for any patient (C), or equal to hemodialysis clearances (D). Meaningful clearance benefit appears only with high-volume TPD using more than 20 L, which is costly and inconvenient, so classical high-volume TPD is little used today."
+  },
+  {
+   "topic": "TPD indications",
+   "question": "Today, the commonest indications for tidal peritoneal dialysis are to avoid low-drain alarms in patients with poor catheter function and to avoid what?",
+   "options": {
+    "A": "Infusion pain during filling",
+    "B": "Drain pain in patients with discomfort at the end of the drain phase",
+    "C": "Hyperglycemia",
+    "D": "Peritonitis"
+   },
+   "correct": "B",
+   "explanation": "The commonest indications for TPD today are to avoid low-drain alarms in patients with poor catheter function and to avoid drain pain in patients who experience discomfort at the end of the drain phase; hence B. It is not aimed at infusion pain during filling (A), hyperglycemia (C), or peritonitis (D). Because a residual volume always remains in the cavity, the catheter never drains to empty, sparing the drain-phase alarms and discomfort; the tidal volume is usually set to about 75-85%."
+  },
+  {
+   "topic": "TPD cycle timing",
+   "question": "TPD cycles are quite short, usually totaling less than how long, with dwell times for the replacement aliquot being only 10-40 minutes?",
+   "options": {
+    "A": "10 minutes",
+    "B": "30 minutes",
+    "C": "60 minutes",
+    "D": "120 minutes"
+   },
+   "correct": "C",
+   "explanation": "TPD cycles are quite short, usually totaling less than 60 minutes, with dwell times for the replacement aliquot being only 10-40 minutes; hence C. Ten minutes (A) and 30 minutes (B) understate the total cycle length, while 120 minutes (D) overstates it. The peritoneal cavity is drained completely at the end of the session, or every third or fourth cycle, to avoid cumulative ultrafiltration that would progressively enlarge the dwell volume."
+  },
+  {
+   "topic": "TPD UF computation",
+   "question": "In TPD, why must the ultrafiltration volume be calculated and added to the drain volume with each exchange?",
+   "options": {
+    "A": "Otherwise the cycler cannot detect obstruction",
+    "B": "Otherwise the solution will not warm properly",
+    "C": "Otherwise lactate will not be metabolized",
+    "D": "Otherwise the intra-abdominal volume will become progressively larger"
+   },
+   "correct": "D",
+   "explanation": "In TPD the ultrafiltration volume must be calculated and added to the drain volume with each exchange, or the intra-abdominal volume will become progressively larger; hence D. The reason is not obstruction detection (A), solution warming (B), or lactate metabolism (C). Newer cyclers set outflow by a target volume, for example 1.5 L, that triggers an immediate switch to inflow, rather than the timer-only control of early cyclers, which reduces the overfill risk that is higher with TPD."
+  },
+  {
+   "topic": "APD daytime exchanges",
+   "question": "Why does the typical 14- to 16-hour single day dwell in APD often need supplementing with additional day exchanges?",
+   "options": {
+    "A": "It provides no significant additional clearance after the first 4-6 hours and is often too long for effective net fluid removal",
+    "B": "It causes excessive ultrafiltration",
+    "C": "It rapidly generates GDPs",
+    "D": "It cannot be performed with icodextrin"
+   },
+   "correct": "A",
+   "explanation": "The typical 14- to 16-hour single day dwell provides no significant additional clearance after the first 4-6 hours and is often too long for effective net fluid removal, so additional day exchanges improve both clearance and ultrafiltration; hence A. It does not cause excessive ultrafiltration (B; it may cause net resorption), rapidly generate GDPs (C), or preclude icodextrin (D). In fact, in higher transporters a single dextrose day dwell can result in significant net fluid resorption."
+  },
+  {
+   "topic": "Docking station strategy",
+   "question": "Using the cycler tubing to deliver an additional afternoon/evening exchange, with the patient reattaching to the same tubing later for night cycling, has been described as using the cycler as what?",
+   "options": {
+    "A": "A tidal pump",
+    "B": "A docking station",
+    "C": "A manifold splitter",
+    "D": "A warming oven"
+   },
+   "correct": "B",
+   "explanation": "Using the cycler tubing to deliver an additional afternoon or evening exchange, with the patient reattaching to the same tubing later for night cycling, is described as using the cycler as a docking station; hence B. It is not a tidal pump (A), a manifold splitter (C), or a warming oven (D). It is less costly because no additional transfer set is required and solution can be drawn from economical large-volume 3-5 L bags, and it can be set up in advance by a relative or helper."
+  },
+  {
+   "topic": "Long day dwell fluid resorption",
+   "question": "When a single long day dwell leads to net fluid resorption but a second dwell is not needed for clearance, a common alternative strategy is to use which solution that maintains an oncotic gradient even over 16-hour dwells?",
+   "options": {
+    "A": "4.25% dextrose",
+    "B": "Amino-acid solution",
+    "C": "Icodextrin",
+    "D": "Pure bicarbonate solution"
+   },
+   "correct": "C",
+   "explanation": "When a single long day dwell leads to net fluid resorption but a second dwell is not required for clearance, a common strategy is to use icodextrin, which maintains an adequate oncotic gradient even during 16-hour day dwells; hence C. A 4.25% dextrose dwell (A) would be absorbed and lose its osmotic gradient over such a long dwell, an amino-acid solution (B) is for nutrition and limited to once daily, and pure bicarbonate solution (D) is not an osmotic agent. Alternatively the cycler tubing can drain the day dwell early without refilling."
+  }
+ ]
+}

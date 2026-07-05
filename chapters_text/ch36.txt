@@ -1,0 +1,1459 @@
+665
+36
+Bone Disease
+Daniel W. Coyne, Derek S. Larson,  
+and James A. Delmez
+In dialysis patients, the mineral bone axis is deranged. In attempts 
+to optimize this, a number of drugs are usually given, including 
+ phosphorus binders, active vitamin D derivatives, and calcium-
+receptor-sensitizers. Dietary restrictions are often required to limit 
+the amount of phosphorus absorbed. To understand how to manage 
+the mineral bone disorder (MBD) of chronic kidney disease (CKD), a 
+basic understanding of its pathophysiology is helpful.
+ I. P ATHOPHYSIOLOGY .  Three hormones are involved primarily in 
+maintaining mineral bone homeostasis in early CKD: FGF23, 
+calcitriol (also known as 1,25D or 1,25 dihydroxycholecalciferol), 
+and parathyroid hormone (PTH). These hormones interact with 
+the minerals calcium, phosphorus, and, to a lesser extent, magne-
+sium to ensure adequate mineral absorption from the gut, appro-
+priate mineral excretion by the kidney, and optimal conditions in 
+the bone to permit ongoing mineralization and remodeling.
+As kidney function declines, there is a progressive loss of 
+the ability to maintain mineral homeostasis and normal bone 
+turnover. The first problem that arises is the need to maintain 
+excretion of phosphorus being ingested from food. The reduced 
+number of functioning nephrons results in an increased phos -
+phorus load being filtered by each nephron. In an attempt to help 
+increase excretion of this added phosphorus load, the levels of 
+the hormone FGF23 ( fibroblast growth factor 23) are increased. 
+FGF23, produced by osteocytes, affects the function of renal 
+tubular cells by acting on a Klotho-FGF receptor complex. FGF23 
+stimulates phosphaturia by decreasing the expression and activ -
+ity of sodium-phosphate cotransporters in the renal tubules. 
+These transporters normally function to reabsorb filtered phos -
+phorus, and downregulating them increases the per nephron 
+excretion of phosphorus, limiting phosphorus overload.
+A second hormone involved in mineral bone homeostasis 
+is calcitriol. Calcitriol is synthesized by the body in a 3-stage 
+process. The first stage occurs in the skin, which, when exposed 
+to ultraviolet light, converts 7-hydroxycholesterol into chole-
+calciferol (vitamin D 3). Cholecalciferol is an inactive steroid 
+prohormone; it becomes slightly active after the steroid ring is 
+Daugirdas9781451144291-ch036.indd   665 11/10/14   4:03 am
+Part IV / Clinical Problem Areas
+666
+hydroxylated in the 25-position by the liver. This so-called “25-D” 
+can then be fully activated by a third step: hydroxylation of the 
+steroid ring at the 1-position. This final hydroxylation step can 
+occur in a variety of tissues locally, but the most important site 
+where 1,25-D is synthesized is in the renal tubules, by an enzyme 
+called 1- α hydroxylase. Another name for 1,25-D is calcitriol. 
+Calcitriol has many actions pertaining to mineral balance. It 
+increases gut calcium and phosphorus absorption, increases cal-
+cium reabsorption in the kidney, and suppresses the parathyroid 
+gland from making PTH. Calcitriol also helps mineralize bone.
+In early CKD, the levels of calcitriol are reduced. This is 
+thought to occur by two mechanisms: (1) the increased levels 
+of FGF23 induced by the need to increase per nephron  phospho-
+rus excretion suppress the 1-α hydroxylase enzyme in the renal 
+tubules, blocking conversion of 25-D to 1,25-D, and (2) there is 
+less conversion of 25-D to 1,25D because of reduced functioning 
+renal mass. The decrease in 1,25D in early CKD may be somewhat 
+compensatory, as slowing calcitriol synthesis results in reduced 
+phosphorus absorption from the gut, and this in turn reduces the 
+phosphorus excretion burden on the dwindling number of neph-
+rons. The reduced serum 1,25-D levels also result in reduction of 
+gut calcium absorption, and higher serum phosphorus levels can 
+result in lower serum calcium levels directly. Thus, some degree 
+of mild hypocalcemia is not uncommonly seen in moderate to 
+advanced CKD.
+The third hormone involved in mineral balance is parathyroid 
+hormone. This is a peptide hormone composed of 84 amino acids, 
+with the primary binding to its receptor requiring the presence of 
+the first two amino acids on the N-terminal of the molecule. The 
+main stimulus to PTH secretion is hypocalcemia, which acts on 
+calcium-sensing receptors on the parathyroid gland. One of the 
+main functions of this hormone is to maintain the serum calcium 
+level. PTH does this in a number of ways: (1) PTH decreases the 
+reabsorption of phosphorus in the kidney, increasing urinary 
+phosphorus excretion. This lowers serum phosphorus, which 
+tends to raise the serum calcium; (2) PTH stimulates the activity 
+of the 1-α hydroxylase enzyme in the kidney that converts 25-D to 
+1,25-D; normally, this results in more calcitriol, and more calcium 
+being absorbed via the gut; and (3) PTH increases the rate of bone 
+turnover, freeing up calcium from bone. Note that PTH and FGF23 
+both act to increase renal phosphorus excretion, but they have 
+the opposite effects on the kidney enzyme that makes 1,25D. In a 
+feedback loop, secretion of PTH is inhibited by 1,25D acting on cal-
+citriol receptors in the parathyroid gland. This feedback loop can 
+be exploited physiologically and pharmacologically using calcitriol 
+and various analogs of calcitriol to suppress PTH secretion. Finally, 
+PTH secretion is stimulated by high serum phosphorus levels.
+As the glomerular filtration rate (GFR) declines and as 
+ circulating 1,25-D levels decrease, intestinal calcium and phos-
+phorus absorption are reduced, thus helping to maintain mineral 
+homeostasis. The net effect of the changes in FGF23, calcitriol, 
+Daugirdas9781451144291-ch036.indd   666 11/10/14   4:03 am
+667Chapter 36 / Bone Disease
+and PTH during progressive CKD is maintenance of serum cal-
+cium and phosphorus within the normal range until stage 4 or 5 
+CKD. The low 1,25 D level, the low serum calcium level, and the 
+high serum phosphorus level, however, all act to stimulate PTH 
+secretion and contribute to worsening hyperparathyroidism. 
+With onset of stage 5 CKD and initiation of dialysis, this elegant 
+homeostasis system breaks down, leading to very high FGF23 and 
+PTH levels, uniformly low calcitriol levels, hyperphosphatemia, 
+and low or low normal serum calcium.
+These hormonal changes have adverse effects on bone 
+physiology, as described below. Hyperphosphatemia, common in 
+dialysis patients, contributes to the development of hyperpara-
+thyroidism and bone disease, and may play a pathological role in 
+the development and progression of cardiovascular disease. High 
+serum phosphorus levels may contribute to impaired bone min -
+eralization and enhance vascular and other tissue calcification. 
+High FGF23 levels, induced by hyperphosphatemia and other fac-
+tors, have been shown to induce left ventricular hypertrophy in 
+animal models.
+ II. CONTROL OF HYPERPHOSPHA TEMIA. The normal range for serum 
+phosphorus is 2.7 to 4.6 mg/dL (0.9–1.5 mmol/L). In dialysis 
+patients, the KDIGO bone guidelines recommend attempting to 
+maintain predialysis phosphorus in the normal range, based on 
+observational data that better phosphorus control is associated 
+with better outcomes. Also, there are data from animal studies 
+showing that hyperphosphatemia stimulates hyperparathyroid -
+ism and promotes vascular calcification. In clinical practice, 
+most physicians and dietitians strive to maintain predialysis 
+phosphorus between 3.0 and 5.5 mg/dL (1.0–1.8 mmol/L).
+Hyperphosphatemia occurs in anuric dialysis patients 
+because the amount of phosphorus removed during three dialysis 
+sessions per week is only a fraction of the phosphorus absorbed 
+from the diet. For this reason almost all dialysis patients being 
+dialyzed three times per week and eating a normal diet are 
+required to ingest some form of phosphorus binder along with 
+their food to limit the amount of phosphorus absorbed.
+Hypophosphatemia in dialysis patients following a conven -
+tional 3-per-week schedule is not the norm and usually is the 
+result of markedly reduced food intake unless there was some 
+error in drawing the blood (e.g., from the dialyzer outlet instead 
+of inlet at the start of dialysis) or unless there was excessive use of 
+binders. Patients with persistent predialysis hypophosphatemia 
+while off binders usually also have low protein intake, and should 
+be counseled to increase dietary protein and phosphorus intake. 
+Use of phosphorus supplements (K Phos Neutral, consisting of 
+8 mmol (250 mg) phosphorus, 13 mmol sodium, and 1.1 mmol 
+potassium, starting at one tab daily) is indicated if the serum 
+phosphorus remains below 3.0 mg/dL (1.0 mmol/L).
+A. Dietary restriction. Restricting phosphorus in the diet to 800 to 
+1,200 mg per day is the key to controlling serum phosphorus. 
+Daugirdas9781451144291-ch036.indd   667 11/10/14   4:03 am
+Part IV / Clinical Problem Areas
+668
+Inorganic phosphates, added as preservatives and flavor 
+enhancers to processed foods, are absorbed much more read-
+ily than phosphorus in natural food (Gutekunst, 2011). Con-
+tinuing patient education by a knowledgeable dietitian is the 
+best method to establish and maintain proper dietary habits. 
+See Table 36.1 and Appendix B for foods high in phosphorus 
+(Moe, 2011; Gutekunst, 2011). Although the phosphorus con-
+tent of foods is related to their protein content, phosphorus 
+is more readily absorbed from sources of animal protein than 
+from those of plant protein (Moe, 2011).
+B. Removal of phosphorus by dialysis. Hemodialysis typically removes 
+about 800 mg of phosphorus per treatment regardless of pre-
+dialysis serum levels. High flux dialyzers and dialyzers with 
+larger surface areas, as well as use of hemodiafiltration, can 
+increase phosphorus clearance to a modest degree (Penne, 
+2010). For hemodialysis, the total weekly time on dialysis is 
+the most important factor affecting phosphorus removal. 
+After the first hour of dialysis, the intradialysis serum phos-
+phorus level tends to stabilize at a low level. This is different 
+than what happens with urea, the levels of which continue 
+to fall as dialysis is prolonged. The maintained intradialysis 
+serum levels of phosphorus cause it to behave somewhat like a 
+middle molecule, where even prolonged dialysis sessions con-
+tinue to improve phosphorus removal. Dialysis frequency has 
+an additional impact on phosphorus removal because during 
+the initial hour of dialysis, intradialysis serum phosphorus is 
+at a higher level than during the remainder of the treatment. 
+The average patient needs 24–28 hours per week of dialysis 
+to allow a predialysis serum phosphorus level <4.5 mg (1.45 
+mmol/L) without use of phosphorus binders. Patients under -
+going frequent and long nocturnal dialysis with weekly dialy-
+sis times greater than 24–28 hours per week typically require 
+addition of phosphorus to the dialysis solution to prevent 
+hypophosphatemia.
+Peritoneal dialysis removes approximately 300 mg per 
+day of phosphorus when being treated with a CAPD regimen 
+of four 2 L exchanges per day. This also is far less than the 
+amount of phosphorus absorbed from the diet, and as a result, 
+most peritoneal dialysis patients require the use of binders to 
+control serum phosphorus levels.
+Dairy products (milk, yogurt, cheese)
+Organ and processed meat
+Beans/peas
+Nuts/seeds
+Whole-grain breads, bran, and cereals
+Many soft drinks (particularly colas)
+aSee also Appendix B.
+Foods Especially High in Phosphorusa
+36.1
+TABLE
+Daugirdas9781451144291-ch036.indd   668 11/10/14   4:03 am
+669Chapter 36 / Bone Disease
+C. Residual kidney function.  Residual kidney function contributes 
+substantially to phosphorus removal from the body, and 
+patients with urine volumes >500 mL per day typically require 
+substantially lower amounts of phosphorus binders and 
+have lower predialysis serum phosphorus levels than anuric 
+patients (Penne, 2011).
+D. Phosphorus binders.  Phosphorus binders play an important 
+role in phosphorus control in conjunction with dietary 
+restriction. These agents work by binding phosphorus in the 
+gastrointestinal tract, either by forming an insoluble com-
+plex or by binding it into a resin. Despite phosphorus dietary 
+restriction and adequate hemodialysis, approximately 90% 
+of dialysis patients continue to need oral phosphorous bind -
+ers in an effort to control their phosphorus levels. Other 
+than simply lowering phosphorus, recent observational data 
+have suggested that the use of phosphorus binders may also 
+correlate with longer survival and better nutritional status 
+for patients on maintenance hemodialysis (Lopes, 2012; 
+Cannata-Andia, 2013).
+See Table 36.2 for a summary of commonly used phospho-
+rus binding agents. One can think of phosphorus binders in 
+two broad categories, those that contain calcium (calcium car-
+bonate and calcium acetate) and those that do not (sevelamer, 
+lanthanum, magnesium carbonate, sucroferric oxyhydroxide, 
+ferric citrate, and aluminum-containing compounds).
+1. Phosphorus binder equivalent dose:  Using data from various 
+comparative studies, one can roughly establish an equiva-
+lent dose for various binders relative to the phosphorus 
+binding capacity of calcium carbonate (Daugirdas, 2011). 
+This so-called phosphorus binding equivalent dose (PBED) 
+allows one to compare dosages in patients taking multiple 
+binders or different binders. In U.S. patients with minimal 
+residual kidney function being dialyzed according to typical 
+U.S. practices, PBED averages around 6 g per day (Daugir -
+das, 2012). This means that such patients would need 6 g 
+per day of calcium carbonate to control their serum phos-
+phorus (Table 36.3). The average required PBED is some-
+what less, around 4–5 g per day, in smaller patients, those 
+with substantial residual renal function, and is also lower in 
+women versus men, as women tend to eat less phosphorus-
+rich foods such as meats than men.
+2. Calcium load associated with some phosphorus binders.  Calcium 
+acetate, on a gram-per-gram basis, is about as effective as 
+calcium carbonate as a phosphorus binder, but calcium 
+acetate contains only 25% calcium by weight, whereas 
+calcium carbonate contains 40% calcium by weight. Thus, 
+attempting to manage a relatively large, anuric patient 
+solely with calcium carbonate would require giving that 
+patient 6.0 g of calcium carbonate per day, and 0.4 × 6.0 
+= 2.4 g of elemental calcium per day. This is far in excess 
+of the maximum total calcium ingestion recommended 
+Daugirdas9781451144291-ch036.indd   669 11/10/14   4:03 am
+Product Trade Names Dose (mg) per Tablet Elemental Calcium Maximum Dose per Day Comments
+Calcium carbonate (Generic, Multiple 
+Names)
+Multiple doses 40% elemental 
+calcium
+1.5 g of elemental calcium/d Administered with meals as 
+binder; on empty stomach as 
+supplementTUMS 500 mg 200 mg/tab As above (7 tablets)
+TUMS EX 750 mg 300 mg/tab As above (5 tablets)
+TUMS Ultra 1,000 mg 400 mg/tab As above (3 tablets)
+TUMS 500 1,250 mg 500 mg/tab As above (3 tablets)
+Os-Cal 500 1,250 mg 500 mg/tab As above (3 tablets)
+Os-Cal+D 1,250 mg 500 mg/tab As above (3 tablets) 200 IU of vitamin D/tab
+Caltrate 600 mg 240 mg/tab As above (6 tablets)
+Calcium acetate PhosLo 667 mg 169 mg of elemental 
+calcium/tab
+As above (9 tablets) More expensive than 
+calcium carbonate. 
+Prescription medication
+Magnesium carbonate 
+with calcium carbonate
+MagneBind 200: 200 mg MgCO3 with 
+400 mg CaCO3
+160 mg/tab Dose limited by serum Mg 
+levels and diarrhea
+85 mg of elemental 
+magnesium/tab. Dialysate 
+magnesium concentrations 
+should be adjusted
+Magnesium carbonate 
+with calcium carbonate
+MagneBind 300: 300 mg MgCO3 with 
+250 mg CaCO3
+100 mg/tab Dose limited by serum Mg 
+levels and diarrhea
+85 mg of elemental 
+magnesium/tab. Dialysate 
+magnesium concentrations 
+should be adjusted
+Selected Phosphorus Binders
+36.2
+TABLE
+670
+Daugirdas9781451144291-ch036.indd   670 11/10/14   4:03 am
+Magnesium carbonate 
++ calcium acetate
+Osvaren 435 mg of MgCO3 and 
+235 mg of Ca acetate
+60 mg/tab Reduction of calcium 
+load; Mg may have 
+anticalcification properties; 
+not available in the US
+Lanthanum carbonate Fosrenal 250-mg and 500-mg 
+tablets
+0 1,250 mg t.i.d. Higher doses 
+have not been tested 
+long-term
+Significantly more expensive 
+than other products.Must be 
+chewed
+Sevelamer carbonate Renvela 400-mg and 800-mg 
+tablets and powder
+0 Has been tested to 14 g/d in 
+normal individuals. Dose may 
+be limited by side effect of GI 
+discomfort
+Significantly more expensive 
+than other products
+Sucroferric 
+oxyhydroxide (PA21)
+Velphoro 500 mg 0 3 g/d Designed to minimize iron 
+absorption from this iron-
+containing binder
+Ferric citrate (JTT-751) Not yet assigned 210 mg ferric iron 0 2.5 g/d ferric iron 210 mg elemental iron per 
+tablet as 1 g ferric citrate. 
+Associated with significant 
+increase in serum iron 
+markers
+671
+Daugirdas9781451144291-ch036.indd   671 11/10/14   4:03 am
+Part IV / Clinical Problem Areas
+672
+by guidelines issued by Kidney Disease Outcomes Quality 
+Initiative (KDOQI) and Kidney Disease: Improving Global 
+Outcomes (KDIGO). Using calcium acetate would be asso-
+ciated with a somewhat smaller calcium load of 0.25 × 6.0 
+= 1.5 g per day. This value is at the upper limit of daily cal-
+cium ingestion from both food and binders recommended 
+by KDOQI. For this reason, many patients being managed 
+with calcium-containing phosphorus binders are treated 
+with additional, noncalcium binders.
+Another strategy is to combine magnesium and 
+ calcium compounds to bind phosphorus. In the United 
+States, MagneBind, a mixture of magnesium and calcium 
+carbonate is sold as a dietary supplement and is some-
+times used off-label as a phosphorus binder. In Europe, a 
+magnesium/calcium binder made up of magnesium car -
+bonate and calcium acetate (Osvaren) is approved for use 
+as a phosphorus binder based on successful clinical trials 
+(de Francisco, 2010). As shown in Table 36.3, a 6 g per day 
+PBED of Osvaren would be associated with a daily calcium 
+load of only 0.5 g per day. In addition to limiting the amount 
+of calcium absorbed, magnesium-containing binders have 
+at least two potential beneficial effects: (1) magnesium is 
+an anticalcification factor, and it might retard vascular 
+calcification in dialysis patients, although the evidence 
+for this is limited (Spiegel, 2009); (2) mortality tends to be 
+reduced in dialysis patients with higher serum magnesium 
+levels, although it is not clear that magnesium supplemen-
+tation beyond achievement of physiological serum levels 
+is beneficial. Magnesium overload is something that one 
+needs to watch for in any dialysis patient ingesting sources 
+of magnesium.
+A more effective strategy to eliminate the problem 
+of calcium absorption from phosphorus binders is to use 
+one of the newer binders that contain no calcium. Guide -
+line groups recommend avoiding calcium-containing 
+phosphorus binders in patients prone to vascular calci -
+fication, or with evidence of vascular calcification; this 
+is hard to do, as the great majority of dialysis patients, 
+especially patients with diabetes, will have evidence of 
+calcification on abdominal X-ray or on visualization of 
+the heart valves.
+3. Dosing relative to meals.  Phosphorus binders are much more 
+effective when they are ingested with meals, and where 
+the amount of binder given corresponds to the phos-
+phorus load of each meal (Schiller, 1989). Some of the 
+binders require ingestion of multiple pills, while reduc -
+ing the number of pills by making them larger can make 
+swallowing them more difficult. This has been addressed 
+partially with some binders by making them chewable, 
+or else supplying them as a powder that can be sprinkled 
+over food.
+Daugirdas9781451144291-ch036.indd   672 11/10/14   4:03 am
+Phosphorus Binder Unit dose size (mg)
+Phosphate Binder 
+Equivalent Dose of 
+One Tablet to 1 g Ca 
+Carbonate
+Dose of Binder Needed 
+to Reach a PBED of 
+6 g/d 
+Approximate Number of 
+Tablets to Reach PBED of  
+6 g/d
+Gram of Calcium in a 
+6-g PBED dose
+Calcium carbonate 750 0.75 6.0 8 2.4
+Calcium acetate 667 0.67 6.0 9 1.5
+Osvaren (Mg carbonate + Ca 
+acetate)
+435/235a 0.75 — 8 0.5
+Lanthanum 500b 1.0 3.0 6 0
+Sevelamer carbonate 800 0.60 8.0 10 0
+Sucroferric Oxyhydroxide 
+(Velphoro)
+500 1.6 1.5 3.75 0
+Ferric citrate 210 0.64 2.0 9 0
+The equivalent dose of PA21 is based on a single randomized controlled trial versus sevelamer (Floege, 2014), and thus the equivalent dose is not as precise as for some of the other binders, where 
+multiple studies were considered.
+Ferric citrate numbers were obtained from a single clinical randomized controlled trial vs sevelamer and calcium acetate (Lewis, 2014); Osvaren is not available in the United States.
+a Each tablet contains 435-mg Mg carbonate and 235-mg Ca acetate.
+b Tablets are sold by weight of lanthanum and not of lanthanum carbonate.
+Dosages of Selected Phosphorus Binders Required to Reach a Phosphorus Binder Equivalent Dose (PBED) of 6.0 g per day
+36.3
+TABLE
+673
+Daugirdas9781451144291-ch036.indd   673 11/10/14   4:03 am
+Part IV / Clinical Problem Areas
+674
+ III. SELECTED PHOSPHORUS BINDING DRUGS
+A. Calcium-containing compounds. These agents are often used in the 
+initial management of hyperphosphatemia based on a profile 
+of effective phosphorus binding and low cost. They may also 
+be useful when some degree of calcium supplementation is 
+desired. However, dose titration is limited by KDIGO recom-
+mendations that elemental calcium ingestion should generally 
+not exceed 1.5 g per day. In addition, dialysis solution calcium 
+concentration should be limited to 2.25 to 2.5 mEq/L (1.12 to 
+1.25 mM) to avoid positive calcium balance during dialysis. 
+The coadministration of calcium and active vitamin D prepa-
+rations predisposes up to 50% of patients to hypercalcemia, 
+and this practice warrants close monitoring (Schaefer, 1992).
+1. Calcium Carbonate  (40% elemental calcium by weight) is 
+available in a variety of preparations and dose sizes, includ-
+ing TUMS (200 mg of elemental calcium with the regular 
+tablet formulation), Caltrate (240 mg of elemental calcium/
+tab), and OsCal 500 (500 mg of elemental calcium/tab). 
+A reasonable starting dose is 1–2 tablets with each meal. 
+However, the use of more than 1.5 g of elemental calcium 
+per day exposes patients to excessive calcium loading and 
+the risk of hypercalcemia, and so it is usually impossible to 
+control phosphorus with calcium carbonate alone without 
+very substantially exceeding the maximum recommended 
+targets for calcium ingestion.
+Calcium carbonate is available typically as a swallowed 
+tablet, although TUMS does come in chewable formula -
+tions. It should be noted that calcium carbonate dissoci-
+ates best in an acidic environment, and consequently its 
+solubility can be inhibited by medications such as proton 
+pump inhibitors. This agent has the benefit of easy acces-
+sibility and low cost. Common side effects include hyper -
+calcemia, constipation, and nausea.
+2. Calcium acetate  (PhosLo, 25% elemental calcium by weight) 
+is available in 667 mg tablets (169 mg of elemental cal-
+cium), and the recommended initial dose is two tablets 
+with each meal. Upward titration may be necessary every 
+2–3 weeks to establish adequate phosphorus control to a 
+maximum daily dose of 1.5 g of elemental calcium. On a mg 
+calcium carbonate versus  mg calcium acetate basis, effi-
+cacy of the two drugs as phosphorus binders appears to be 
+similar. However, because calcium acetate is 25% calcium 
+while calcium carbonate is 40% calcium, calcium acetate 
+use is associated with less calcium loading. Still, to achieve 
+a PBED of 6 g per day, use of calcium acetate alone engen-
+ders the administration of 1.5 g per day of elemental cal -
+cium. Administration is a swallowed tablet, and side effects 
+include hypercalcemia, nausea, and constipation,
+B. Sevelamer carbonate (Renvela) is a nonaluminum-, noncalcium- 
+ based phosphorus binder that traps phosphorus in the bowel 
+through ion exchange and hydrogen binding. The drug is 
+Daugirdas9781451144291-ch036.indd   674 11/10/14   4:03 am
+675Chapter 36 / Bone Disease
+available in 400- and 800-mg tablets, and granule packets, 
+and should be started at 800–1,600 mg three times per day 
+with meals. It can be titrated upward to a maximum of 13g 
+per day to attain necessary phosphorus control, though this 
+may require a significant pill load and financial burden for the 
+patient. It is recommended to give other drugs 1 hour before 
+or 3 hours after sevelamer administration. The absence of 
+calcium makes sevelamer  useful for those predisposed to 
+hypercalcemia and those already at the limit of calcium sup-
+plementation. Sevelamer may also have pleiotropic, beneficial 
+anti-inflammatory effects in dialysis patients that are not com-
+pletely mediated by LDL cholesterol reduction (Rastogi, 2013).
+The main side effects of sevelamer are nausea, diarrhea, 
+dyspepsia, and constipation. Sevelamer use may lead to hypo-
+calcemia, which should be treated with supplemental calcium.
+C. Lanthanum Carbonate (Fosrenol) became available in the United 
+States in 2005. As a trivalent cation, lanthanum binds phos-
+phorus ionically. It is a noncalcium, nonaluminum-based 
+binder. It is available in 250-, 500-, 750-, and 1,000-mg chew-
+able tablets that may also be crushed. A reasonable starting 
+dose is 500 mg three times per day with upward titration as 
+needed, but not to exceed 1,250 mg three times per day. Very 
+little lanthanum is absorbed, and to date there has been no 
+evidence of toxic accumulation or adverse effects on bone 
+metabolism (Hutchison, 2009). Its main side effects are similar 
+to the other phosphorus binders and are related to GI discom-
+fort. The chewable preparation may be convenient for patients 
+with a large swallowed pill load, but difficult for patients with 
+poor dentition. In a large prospective randomized European 
+multicenter comparator trial, the efficacy of lanthanum car -
+bonate was compared with that of calcium carbonate. Phos-
+phorus control was similar in both groups; however, there was 
+a significantly lower incidence of hypercalcemia in the lantha-
+num carbonate group, which makes it particularly useful in 
+individuals at risk for hypercalcemia (Hutchison, 2005).
+Both lanthanum and sevelamer are notably more expen-
+sive than other available phosphorus binders. Although the 
+long-term safety of lanthanum carbonate has been called into 
+question, subsequent reports over 1, 3, and 6 years have demon-
+strated a satisfactory long-term safety profile (Hutchison, 2009).
+D. Magnesium/calcium binders.  These include Magnebind (magne-
+sium carbonate plus calcium carbonate), which is sometimes 
+given off-label in the United States, and Osvaren (magnesium 
+carbonate plus calcium acetate), which has been approved for 
+use in dialysis patients in Europe. The potential benefits, as 
+well as minor risks, of giving magnesium in this context have 
+been discussed above.
+E. Sucroferric oxyhydroxide (P A21 or Velphoro).  PA21 is an iron-  
+containing phosphorus binder that contains no calcium or 
+aluminum. PA21 completed Phase 3 clinical trials in hemo-
+dialysis patients and was approved for use as a phosphorus 
+Daugirdas9781451144291-ch036.indd   675 11/10/14   4:03 am
+Part IV / Clinical Problem Areas
+676
+binder in the United States in 2013 (Floege, 2014). It comes as 
+a 500-mg chewable tablet; the starting dose is 1.5 g per day 
+(3 tablets per day with meals) with a suggested maximum dose 
+of 3 g per day. In contrast to ferric citrate, which is another 
+iron-based phosphorus binder described below, Velphoro is 
+associated with only minimal oral iron absorption.
+F. Ferric citrate. Ferric citrate is an iron-based phosphate binder 
+that contains no calcium or aluminum. Ferric citrate has been 
+approved for both CKD and ESKD patients in Japan (Yokoyama, 
+2014a, 2014b) and was approved in the United States in 2014 
+based on the results of a Phase 3 52-week clinical trial (Lewis, 
+2014). Ferric citrate comes as a tablet containing 210 mg ferric 
+iron as 1 g ferric citrate and can be titrated to its maximum dose 
+of 12 tablets/day (2.5 g ferric iron/day). Patients treated with  ferric 
+citrate demonstrated significant improvement in serum iron 
+measures (TSAT, ferritin) in addition to a reduced need for IV iron 
+(∼50% less IV iron requirement than in control patients treated 
+with non-iron phosphorus binders) and reduced need for eryth-
+ropoiesis stimulating agents (∼24% less than control patients 
+treated with non-iron phosphorus binders) while still maintain-
+ing hemoglobin. The tablet size and relative phosphorus binding 
+ability are shown in Tables 36-2 and 36-3. Ferric citrate may prove 
+highly effective as dual therapy in hyperphosphatemic patients 
+that require iron repletion. However, in patients where iron load-
+ing is a concern, ferric citrate may not be an optimal choice.
+G. Aluminum carbonate and aluminum hydroxide.  Aluminum-based 
+binders were the primary therapy for hyperphosphatemia 
+until the mid-1980’s, when the accumulation of aluminum to 
+toxic levels was found to result in hematologic, neurologic, 
+and bone complications. Consequently, these agents should 
+no longer be used chronically. Usage of aluminum-based ther-
+apies for short periods may be necessary to reduce severely 
+elevated phosphorus and calcium × phosphorus products in 
+patients with severe hyperparath yroidism and/or concurrent 
+hypercalcemia. They are also still an important tool for hyper-
+phosphatemia control in developing countries (Mudge, 2011). 
+Co-ingestion of citrate (Shohl’s solution, calcium citrate, fruit 
+juices, Alka-Selzer) greatly enhances aluminum absorption 
+and can lead to acute aluminum neurotoxicity.
+H. Use of more than one phosphorus binder. Combined treatment with 
+different types of phosphorus binders may be advantageous and 
+cost effective. Regimens should be individually tailored to each 
+patient. Combinations should take into account the patient’s 
+medication preferences, side effect tolerance, and financial 
+considerations. Total daily exposure to elemental calcium and 
+magnesium should also factor into the choice of agents used. 
+The combination of calcium- and non–  calcium-based agents 
+may provide target phosphorus control and calcium supple-
+mentation without risking excess exposure to calcium.
+ I V. OPTIMIZING SERUM CALCIUM. The normal range for serum calcium is 
+8.4 to 10.2 mg/dL (2.10–2.55 mmol/L), and the KDIGO guidelines 
+Daugirdas9781451144291-ch036.indd   676 11/10/14   4:03 am
+677Chapter 36 / Bone Disease
+recommend maintaining predialysis total calcium within this 
+range. There is great patient variability in the calcium set point 
+(the calcium level at which PTH secretion is 50% of maximum).
+Serum calcium circulates in a free (ionized) and a protein-
+bound state. Total calcium reported on standard lab tests reflects 
+both of these circulating forms. Protein-bound calcium is propor-
+tional to the concentration of albumin, which accounts for most 
+of the protein binding. On average, total calcium falls by 0.8  mg / dL 
+for every 1.0 g/dL (0.20 mmol/L for every 1.0 g/L) decrease in 
+albumin. Consequently, in hypoalbuminemia, the total calcium 
+reported from the laboratory can be corrected by using the 
+equation:
+Corrected calcium (in mg/dL) =  total calcium + (0.8 ×  
+(4.0 − albumin [in g/dL]))
+Corrected calcium (in mmol/L) =  total calcium + (0.20 ×  
+(40 − albumin [in g/L]))
+In most new dialysis patients, corrected and ionized cal-
+cium concentrations are usually slightly low or in the low normal 
+range. Calculation of corrected calcium can be used to estimate 
+whether a hypoalbuminemic patient’s serum calcium is high, 
+normal, or low. Unfortunately, corrected calcium is dependent 
+on which albumin assay is employed, and has been shown to be 
+no more accurate than total calcium in predicting whether ion-
+ized calcium is high, normal, or low (Gauci, 2008). Therefore, 
+in dialysis practice, use of total calcium is recommended, and 
+determination of ionized calcium is indicated when the result 
+could change management. Differing from the older KDOQI 
+bone guidelines, KDIGO does not recommend the routine use of 
+albumin-corrected calcium.
+A. Hypercalcemia. Hypercalcemia is usually due to excessive use 
+of calcium-based binders and/or to use of vitamin D receptor 
+agonists that increase gut calcium absorption. Patients with 
+low PTH appear to have the highest range of serum calcium, 
+which may reflect adynamic bone disease (see below) and poor 
+ability of bone to buffer calcium. Advanced hyperparathyroid-
+ism associated with a large mass of autonomous parathyroid 
+tissue can rarely result in hypercalcemia in the absence of oral 
+calcium administration or the use of active vitamin D. This is 
+referred to as tertiary hyperparathyroidism.
+B. Hypocalcemia. Low levels of total uncorrected calcium are often 
+due to a low serum albumin. A low corrected calcium may 
+be due to poor gastrointestinal absorption of calcium due to 
+vitamin D deficiency, severe hyperphosphatemia, or use of the 
+calcimimetic agent, cinacalcet.
+C. Dialysis solution calcium concentration.  Dialysis solution calcium 
+should generally be 2.5 mEq/L (1.25 mM) in most patients 
+on chronic hemodialysis. This will usually maintain a neu -
+tral calcium balance. Cautious use of a 2.25 mEq/L (1.12 mM) 
+calcium bath or lower can be used to control chronically high 
+serum calcium or to stimulate PTH secretion in patients with 
+Daugirdas9781451144291-ch036.indd   677 11/10/14   4:03 am
+Part IV / Clinical Problem Areas
+678
+chronically low PTH. Use of these lower calcium baths can 
+exacerbate hyperparathyroidism, however, and lead to bone 
+demineralization. Use of very low calcium dialysis solutions 
+also has been linked to an increased risk of QTc dispersion and 
+sudden death (see Chapter 11).
+Peritoneal dialysis fluid calcium concentration should be 
+2.5 mEq/L (1.25 mM) in most patients. A 3.5 mEq/L (1.75 mM) 
+dialysate is available, but should be reserved for patients with 
+a chronically low calcium that the clinician has determined 
+warrants therapy. Higher dialysate calcium concentration, 
+especially when used in conjunction with calcium-based phos-
+phorus binders, creates a chronically positive calcium balance, 
+suppresses PTH, and may contribute to vascular and tissue 
+calcification.
+ V. OPTIMIZING SERUM LEVELS OF 25-D (25-H YDROxYCHOLECALCIFEROL). 
+25-D (25-hydroxycholecalciferol) is synthesized by the liver from 
+cholecalciferol and reflects vitamin stores. These are frequently 
+low in dialysis patients. Several factors likely account for the 
+high incidence of deficiency, including poor sun exposure in ill 
+patients, restriction of vitamin D–fortified dairy products for 
+purposes of phosphorus control, and the high prevalence of Black 
+patients who are frequently lactose intolerant and whose dark 
+pigmentation reduces effective vitamin D formation upon ultra -
+violet light exposure. However, Black patients also appear to have 
+lower D-binding protein levels in the blood, leading to a higher 
+ratio of bioactive ( free) hormone to bound hormone. Therefore, 
+Blacks may not have the frequency and severity of vitamin D defi-
+ciency that standard testing suggests.
+Treatment of vitamin D deficiency is appropriate despite 
+the loss of adequate 1-alpha-hydroxylase activity in the kidney, 
+as other tissues possess this enzyme and produce calcitriol for 
+autocrine and paracrine actions. Treatment has also been shown 
+to increase endogenous calcitriol levels, though not usually to 
+normal (Jen, 2010). Treatment should replete, then maintain ade-
+quate stores. Vitamin D stores are assessed by measuring 25-OH 
+vitamin D in the blood. Levels >30 ng/mL (>75 nmol/L) are con-
+sidered normal, while levels <30 ng/mL (<75 nmol/L) warrant 
+treatment with ergocalciferol or cholecalciferol.
+Treatment of low serum 25-D levels differs between the 
+United States and other countries. The most logical treatment is 
+to give the natural precursor to 25-D, which is cholecalciferol, a 
+compound derived from animal sources. Cholecalciferol is widely 
+available in the United States as a food supplement, but not as an 
+FDA-approved pharmaceutical that is reimbursable. While there 
+is no recommended daily intake for cholecalciferol to maintain 
+stores, 800 to 2,000 IU per day is likely sufficient and safe. In the 
+United States, ergocalciferol is available as a prescription drug. 
+Ergocalciferol, a plant-based sterol, differs from cholecalciferol 
+slightly in terms of structure, but it is hydroxylated by the liver 
+at the 25 position and then dihydroxylated at the 1-α  position to 
+Daugirdas9781451144291-ch036.indd   678 11/10/14   4:03 am
+679Chapter 36 / Bone Disease
+yield a biologically active compound similar in action to calcitriol. 
+Ergocalciferol is commonly called vitamin D 2, while cholecalcif -
+erol is called vitamin D 3. Most (but not all) assays of serum 25-D 
+levels detect both the 25-D2 and 25-D3 compounds. Ergocalciferol 
+can be given as large weekly or monthly doses, or smaller daily 
+doses, and the dose administered should be proportional to the 
+severity of the deficiency, and the size and adiposity of the patient. 
+We commonly prescribe 50,000 IU/ month for 6 months when lev-
+els are 15–29 ng/mL (37–72 nmol/L), and 50,000 IU weekly for 2 
+to 3 months, then 50,000 IU monthly when levels are < 15 ng/mL 
+(<37 nmol/L). Obese patients will generally require larger doses 
+or longer repletion due to the fat soluble nature of the vitamin.
+ VI. BONE DISEASE IN CKD. Bone normally undergoes a coordinated turn-
+over, with osteoblast cells producing new bone matrix proteins 
+(osteoid) that undergo mineralization, coupled with the activity 
+of osteoclasts that causes bone resorption. The pathological clas-
+sification of renal osteodystrophy is based on both the static and 
+the dynamic histological parameters obtained by transiliac bone 
+biopsy. Evaluation of the biopsy for Turnover rate, Mineralization, 
+and Volume, the so-called TMV system, has been proposed as the 
+best method for classifying renal bone disease. Fluorescent labels, 
+tetracycline and demeclocycline, are deposited along the lines of 
+mineralization. Administration of such labels for one to three days 
+followed two to three weeks later by the repeat administration 
+of label allows for the determination of the rate of bone forma-
+tion. With high bone turnover, for example, the distance between 
+the two labels would be increased. Mineralization is evaluated 
+by examining the osteoid volume, increased osteoid maturation 
+time, or increased mineralization lag time. Bone volume is prone 
+to greatest error because with bone biopsy only a single location 
+is sampled. Any aluminum deposition is tested for by staining the 
+biopsy sample with acid solochrome azurine.
+A. Osteitis fibrosa. This form of renal osteodystrophy occurs when 
+PTH is persistently high. It is characterized by accelerated 
+formation and resorption of bone due to an increased num-
+ber and activity of osteoblasts and osteoclasts, and increased 
+marrow fibrosis. The severity of osteitis fibrosa is roughly pro-
+portional to the degree and duration of PTH elevation. Mild 
+osteitis fibrosa is probably preferable to adynamic bone (see 
+below) in that bone strength is greater and there is less altera-
+tion in mineral metabolism. When osteitis fibrosa is severe, 
+bone is laid down so rapidly that it is not properly mineral-
+ized or structured. In such cases, the amount of unmineralized 
+bone (osteoid) is increased. The alignment of the collagen is 
+irregular instead of in the usual lamellar pattern. This “woven” 
+bone may become mineralized as amorphous calcium phos-
+phorus rather than hydroxyapatite. The resulting bone is more 
+prone to fracture.
+The most prominent symptoms of severe osteitis fibrosa 
+are bone and joint discomfort. Metastatic calcification with 
+Daugirdas9781451144291-ch036.indd   679 11/10/14   4:03 am
+Part IV / Clinical Problem Areas
+680
+periarticular calcium deposits may lead to acute joint inflam -
+mation or pain and stiffness.
+Radiological findings are usually absent in mild disease 
+but are always present in severe hyperparathyroidism. As such, 
+bone films are not generally recommended for the assessment 
+of bone disease in dialysis patients. Hand films most reliably 
+demonstrate changes of hyperparathyroidism. The character -
+istic finding is bone loss (resorption) in the subperiosteal area, 
+best seen on the radial side of the second and third phalanges. 
+Associated erosion of the tuft of the distal phalanx also may 
+be visible and, when severe, may lead to blunting of the finger-
+tip. The latter changes are pathognomonic of present or past 
+osteitis fibrosa. Evidence of bone resorption also may be seen 
+elsewhere in the skeleton, including the skull, giving it a “salt-
+and-pepper” appearance, and in the long bones, particularly 
+the lesser trochanter of the femur.
+Disorganized, accelerated bone formation is associated 
+with osteitis fibrosa and may be visible radiologically as osteo-
+sclerosis. Bone scanning using technetium radiopharmaceuti-
+cals will show increased skeletal uptake of isotope. The bone/
+soft tissue ratio of isotope uptake will be increased; however, 
+bone scans generally add little to the diagnostic evaluation of 
+osteitis fibrosa.
+B. Adynamic bone.  Adynamic bone disease is characterized by 
+reduced osteoblast and osteoclast number and low or absent 
+bone formation rate as measured by tetracycline labeling. The 
+osteoid thickness is normal or reduced, distinguishing it from 
+osteomalacia. Associated laboratory findings may include 
+an iPTH less than 100 pg/mL (11 pmol/L), low serum bone-
+specific alkaline phosphatase, and, occasionally, a slightly ele-
+vated serum ionized calcium level. Vertebral and peripheral 
+bone densities tend to be normal or low.
+The causes of adynamic bone histology are unknown, but 
+persistently low ( for dialysis patients) PTH levels play a major 
+etiologic role. Predisposed are the elderly, women, those with 
+diabetes, and subjects of the Caucasian race. Adynamic bone is 
+more common in peritoneal dialysis patients, as is a low PTH. 
+Use of dialysis solution calcium concentration of 2.5 mEq/L 
+(1.25 mM) may reduce the prevalence of adynamic bone and 
+PTH oversuppression. Aluminum is now a rare cause of ady-
+namic bone disease.
+Initially thought to be asymptomatic and not requiring 
+treatment, adynamic bone is now known to be associated with 
+a higher fracture rate than osteitis fibrosa. Adynamic bone is 
+also associated with hypercalcemia (likely due to impaired 
+ability of the bone to buffer serum calcium), and vascular and 
+other soft tissue calcification. Symptoms, such as pain from 
+nontraumatic fractures, are usually absent until the disease is 
+advanced.
+C. Osteomalacia. Like adynamic bone disease, osteomalacia repre-
+sents a state of low bone turnover. It differs, however, because 
+Daugirdas9781451144291-ch036.indd   680 11/10/14   4:03 am
+681Chapter 36 / Bone Disease
+of the presence of large amounts of unmineralized osteoid. In 
+the absence of renal failure, vitamin D deficiency is the most 
+common cause of osteomalacia and should be considered in 
+dialysis patients with low bone mass and frequent fractures. 
+This lesion was first described in patients with aluminum 
+overload, wherein bone aluminum accumulation prevented 
+bone mineralization and also suppressed PTH secretion. With 
+recognition of its toxicity, aluminum is now rarely used as a 
+long-term phosphorus binder, and properly treated dialysis 
+solution is free of aluminum. Consequently, the incidence of 
+aluminum-induced osteomalacia has decreased substantially. 
+Rarely, osteomalacia has been ascribed to iron overload.
+D. Mixed Lesions.  Some patients display histologic evidence of 
+both osteitis fibrosa and osteomalacia on bone biopsy. Such 
+patients frequently have high PTH levels and impaired bone 
+formation and mineralization. In the past, this condition 
+was often found in patients with concomitant aluminum 
+poisoning.
+E. Osteoporosis. The age of patients at the time of starting dialy-
+sis continues to increase. Many have preexisting osteoporosis 
+documented with bone densitometry. Medical interventions 
+used routinely for osteoporosis include bisphosphonates, 
+selective or nonselective estrogens, teriparatide (Forteo) if the 
+PTH is persistently low, and vitamin D. None of these treat -
+ments have been tested for efficacy and safety in the hemodi-
+alysis population. Caution should be used before prescribing 
+these medications to dialysis patients with osteoporosis.
+VII. PARATHYROID HORMONE LEVELS
+A. PTH assays. Parathyroid hormone is an 84 amino acid peptide
+(PTH(1-84)) that activates a signaling cascade via the PTH1 
+receptor present on a variety of tissues. The N-terminal por -
+tion of the peptide is essential for binding and receptor activa-
+tion, while large portions of the C-terminal are not. Fragments 
+of PTH are rapidly cleared by the kidney and accumulate in 
+renal failure. Most fragments cannot activate the PTH1 recep-
+tor owing to loss of portions of the N-terminus; however, these 
+fragments were usually detected by single-antibody radioim-
+munoassays employed in the 1980s.
+The so-called intact PTH (iPTH) assays use two separate 
+antibodies to identify “intact” PTH molecules: these assays 
+include a “capture” antibody that reacts to the midregion of 
+the molecule, and a “detection” antibody that binds near the 
+biologically active N-terminus. Use of such “intact” PTH assays 
+greatly diminishes, but does not eliminate, interference of PTH 
+fragments. Initially, it was thought that such dual antibody 
+assays bound to PTH(1-84) only . However, several incomplete 
+PTH fragments, including the fragment PTH (7-84), are also 
+bound by this assay, and these incomplete fragments account 
+for as much as half of the PTH measured in dialysis patients by 
+the first generation “intact” PTH group of assays.
+Daugirdas9781451144291-ch036.indd   681 11/10/14   4:03 am
+Part IV / Clinical Problem Areas
+682
+There are numerous commercial iPTH assays available, 
+and the contribution of inactive PTH fragments to the total 
+PTH measurement varies greatly. Consequently, in dialysis 
+patients, different assays can lead to very different iPTH results 
+(Souberbielle, 2006; Cavalier, 2012), and at higher iPTH values, 
+the discrepancy in results becomes even greater. This large 
+interassay variability means no specific PTH target can apply 
+to all assays, and use of different assays in the same patient 
+(such as a hospital test versus a dialysis center test) can lead 
+to different interpretations.
+Some assays employ a detection antibody that binds at or 
+very near the first amino acid, and are referred to as “biPTH", 
+“bio-intact PTH”, or “whole PTH”. As these assays are thought 
+to bind exclusively to PTH(1-84), measured levels are approxi-
+mately 55% of the corresponding iPTH values. In theory such 
+“bio-intact” assays should be superior to the “intact” PTH 
+assays. Clinical practice, however, has not demonstrated 
+that these assays are superior. Most laboratories continue to 
+employ the iPTH assay, and the 2009 KDIGO bone guidelines 
+recommend continued use of the “intact” iPTH assay rather 
+than the theoretically more precise “bio-intact” 1-84 versions.
+B. PTH target values. The purpose of treating hyperparathyroidism 
+in dialysis patients is to prevent the development of severe 
+hyperparathyroidism that can cause severe bone disease and 
+fractures, and contribute to tissue calcification. Medical man-
+agement of hyperparathyroidism is also intended to reduce 
+the need for surgical parathyroidectomy.
+The treatment goals should be balanced against the risks 
+of medical interventions. Overtreatment of hyperparathyroid-
+ism can induce adynamic bone disease, which predisposes 
+patients to hypercalcemia and vascular calcification.
+The 2009 KDIGO bone guidelines recognized the lack of 
+sufficient outcomes trials to make firm recommendations on 
+the management of hyperparathyroidism in dialysis patients. 
+They recommend balancing the potential benefits of treatments 
+against the known and potential risks. In dialysis patients, they 
+recommend maintaining a stable PTH level over time, generally 
+in a range of two to nine times the upper limit of normal ( for most 
+assays this is approximately 150 to 600 pg/mL [16–64 pmol/L]), 
+while avoiding hypercalcemia and hypocalcemia. This range is 
+broader than the older KDOQI guideline recommendation of 
+150–300 pg/mL (16–32 pmol/L; about two to four times the upper 
+limit of normal). The higher target range was recommended 
+because the narrower KDOQI target appeared to lead to oversup-
+pression of bone turnover and hypercalcemia in many patients.
+Dialysis patients should not have iPTH maintained below 
+150 pg/mL (16 pmol/L), as there is a high likelihood of induc-
+ing adynamic bone disease. Persistently low PTH values are 
+more likely with overuse of active vitamin D, cinacalcet, and 
+calcium-based phosphorus binders, as well as with use of high 
+calcium dialysis solutions, (e.g., >3.0 mEq/L [1.5 mM]).
+Daugirdas9781451144291-ch036.indd   682 11/10/14   4:03 am
+683Chapter 36 / Bone Disease
+Clinicians should remember that in an individual patient, 
+PTH in a given range does not always correlate with the bone 
+disease. Adynamic bone disease has been found in patients 
+with PTH values above the target range, osteitis fibrosa is not 
+uncommon in patients with PTH levels maintained in the tar-
+get range (although its severity is usually mild), and osteomala-
+cia is due to vitamin D deficiency and has little correlation with 
+PTH. Clinical events (e.g., fractures, hypercalcemia) that do not 
+correlate with the results of repeated PTH measures warrant 
+further evaluation.
+C. Serum bone and total alkaline phosphatase.  The KDIGO guidelines 
+also suggest monitoring another marker of high bone turn -
+over, such as bone alkaline phosphatase. In clinical practice, 
+this is an expensive test to obtain, and few centers routinely 
+measure it. Normalization of serum alkaline phosphatase, of 
+which bone alkaline phosphatase is a component, may serve 
+as a secondary indicator that the patient does not have high 
+bone turnover, though it is not predictive of whether ady-
+namic bone disease is present.
+Serum total alkaline phosphatase is frequently elevated in 
+dialysis patients, usually due to elevation of bone-specific alka-
+line phosphatase due to osteitis fibrosa from hyperparathy-
+roidism. However, alkaline phosphatase originates from other 
+tissues, the most important being liver, intestine, and kidney. 
+Bone alkaline phosphatase can be measured when the source 
+of a high serum alkaline phosphatase is in doubt. Alternatively, 
+an elevation of gamma glutamyl transferase (GGT) suggests 
+the increase in alkaline phosphatase may be due to liver dis-
+ease, and evaluation of the liver and gall bladder is indicated. 
+If GGT is normal, hyperparathyroid bone disease is likely the 
+cause of the elevated alkaline phosphatase, and more inten-
+sive treatment may be indicated. In dialysis patients, both total 
+alkaline phosphatase and bone-specific alkaline phosphatase 
+levels are usually elevated in severe hyperparathyroidism and 
+improve during successful treatment. In clinical practice, a 
+PTH value that is two to nine times the upper limit of normal 
+and a normal serum total alkaline phosphatase suggests that 
+hyperparathyroid bone disease is either mild or absent, and 
+therefore intensification of present therapy to suppress PTH 
+may not be indicated.
+D. Methods of lowering or raising serum PTH. As discussed in the open-
+ing pages of this chapter, the reasons for hyperparathyroidism 
+in CKD are a low level of 1,25-D (1,25-D suppresses the para-
+thyroid gland), low levels of serum calcium (hypocalcemia 
+stimulates the parathyroid gland to produce PTH), and high 
+levels of serum phosphorus (phosphorus stimulates the para-
+thyroid gland). Accordingly, stimulating the vitamin D recep-
+tor, raising the serum calcium or activating the parathyroid 
+gland calcium-sensing receptor by other means, or reducing 
+serum phosphorus, could all be expected to lower serum PTH. 
+Raising the serum calcium to the upper limit of the normal 
+Daugirdas9781451144291-ch036.indd   683 11/10/14   4:03 am
+Part IV / Clinical Problem Areas
+684
+range, once popular, is no longer recommended for fear of pre-
+cipitating or worsening vascular calcification.
+If the serum PTH is below the desired level, reducing the 
+dose of PTH-suppressing drugs (such as vitamin D receptor 
+activators or cinacalcet) or lowering the serum calcium slightly 
+(e.g., by lowering dialysis solution calcium or avoiding calcium-
+containing phosphorus binders) can be expected to increase 
+PTH levels.
+E. Vitamin D receptor activators.  Active vitamin D (calcitriol) and 
+vitamin D receptor agonists (see Table 36.4) suppress serum 
+PTH in a dose-dependent fashion. The higher the pretreat -
+ment PTH, the larger the dose required to suppress PTH into 
+the desired range. The medications are usually given intrave-
+nously during each dialysis, but can be given orally, usually two 
+to three times a week. Because these drugs can increase gut 
+absorption of phosphorus, they should be given cautiously to 
+patients with hyperphosphatemia, and preferably only after 
+elevated serum phosphorus levels have been somewhat con -
+trolled. A number of observational studies have suggested that 
+use of calcitriol or vitamin D receptor agonist is associated 
+with increased survival (Duranton, 2013), but randomized 
+outcome trials to confirm this observation have not yet been 
+done.
+1. Calcitriol (Calcijex; Rocaltrol) or 1,25(OH) 2D3 is a synthetic
+form of the natural compound, and is usually started at 1–2 
+mcg IV with each hemodialysis or orally two to three times 
+per week in patients treated with peritoneal dialysis. This
+drug is usually the least expensive formulation of the active 
+vitamin D compounds.
+2. Paricalcitol (Zemplar) or 19-Nor-1,25(OH) 2D2 is a vitamin
+D analog that has less hypercalcemic and hyperphospha -
+temic actions in animal studies. In humans, the evidence of 
+superiority over calcitriol is more limited. A large historical 
+cohort study did find improved survival in dialysis patients 
+receiving paricalcitol compared with calcitriol (Teng,
+2003). The initial dose in mcg per dialysis treatment can
+be estimated by dividing the pretreatment iPTH by 120. An 
+oral formulation of paricalcitol is also available for patients 
+with CKD or patients on peritoneal dialysis. A starting dose 
+of 1 mcg daily or 2 mcg three times a week can  be admin -
+istered to patients with an iPTH less than or equal to 500
+pg/mL (53 pmol/L). An initial dose of 2 mcg daily or 4 mcg
+three times a week can  be started in patients with iPTH
+greater than 500 pg/mL (53 pmol/L).
+3. Doxercalciferol (Hectorol) or 1α(OH)D 2 is a vitamin D
+prohormone that is metabolized by the liver to active
+1,25(OH)
+2D2. Initial dosing is 2.5–5.0 mcg intravenously or
+orally each dialysis treatment.
+Dose adjustments of active vitamin D products for 
+PTH control are based on subsequent PTH determina-
+tions, which initially should be performed up to monthly 
+Daugirdas9781451144291-ch036.indd   684 11/10/14   4:03 am
+685Chapter 36 / Bone Disease
+Medication Trade 
+Name
+Route Dosing 
+Information
+Comments
+Calcitriol Rocaltrol PO Starting dose: 
+0.25 mcg daily 
+or 0.5 mcg three 
+times per week
+Dose range: 
+0.25–2 mcg daily
+Available in 
+0.25- and 0.5-mcg 
+tablets
+Monitor calcium 
+and phosphorus at 
+least monthly
+Calcijex IV 0.02 mcg/kg (or 
+1–2 mcg) given 
+three times 
+weekly
+Titrate by 0.5–1 
+mcg every 2–4 
+weeks
+Doxercalciferol Hectorol PO Starting dose: 
+2.5–5.0 mcg three 
+times per week
+Titrate by 2.5 mcg 
+q8 wk
+Available in 2.5 
+mcg tablets
+A vitamin D 
+prohormone that 
+is metabolized in 
+the liver to active 
+1,25(OH)2vitamin D2. 
+Oral administration 
+in dialysis 
+patients is more 
+hypercalcemic and 
+hyperphosphatemic 
+than IV 
+administration
+Hectorol IV Starting dose: 
+2.5–5.0 mcg three 
+times per week
+Titrate by 1–2 
+mcg q8 wk
+Paricalcitol Zemplar PO Dosing: 1–2 mcg 
+daily or 2–4 mcg 
+on a thrice-
+weekly regimen.
+Titrate by 1-mcg 
+increments on the 
+daily schedule, 
+or by 2 mcg on 
+the thrice-weekly 
+schedule
+Causes minimal 
+alterations in 
+calcium and 
+phosphorus, 
+comparable to 
+placebo
+Zemplar IV 0.04–0.1 mcg/
+kg or give dose 
+in mcg equal 
+to biPTH/40 or 
+iPTH/80 three 
+times per week
+Titrate by 30%–
+50% at 4-week 
+intervals
+The IV preparation 
+can also be 
+administered on 
+a once-weekly 
+regimen based 
+on the cumulative 
+weekly dose
+Characteristics of Commonly used Vitamin D Analogs
+36.4
+TABLE
+Daugirdas9781451144291-ch036.indd   685 11/10/14   4:03 am
+Part IV / Clinical Problem Areas
+686
+to  establish control, then reassessed quarterly. If hypercal-
+cemia (calcium >10.2 mg/dL [2.55 mmol/L]) develops, the 
+dose should be decreased by 30%–50% or held until the 
+ hypercalcemia resolves then restarted at a lower dose.
+F. Calcimimetics bind to the calcium sensing receptor on the 
+parathyroid gland, making it more responsive to the ambient 
+ionized calcium; this results in suppression of PTH, a marked 
+decrease in serum calcium, and a slight decrease in serum 
+phosphorus. Unlike active vitamin D products, calcimimetics 
+result in a decrease in serum calcium and phosphorus. Cina-
+calcet (Sensipar), the only calcimimetic presently available, is 
+a pill available in 30, 60, and 90 mg. Maximal PTH suppres-
+sion of 60 to 80% occurs 2 to 4 hours after each dose, and 30 to 
+50% suppression at 24 hours is observed in about two-thirds 
+of patients. Serum PTH should be measured 12 to 24 hours 
+after a dose. The initial dose of cinacalcet should be 30 mg 
+daily regardless of serum PTH, and should not be initiated if 
+the calcium is <8.4 mg/dL (<2.1 mmol/L). The dose should 
+be increased by 30-mg increments to a maximum of 180 mg 
+per day, based on monthly or quarterly PTH results, provided 
+the corrected calcium is >7.8 mg/dL (1.95 mmol/L). A fall 
+in serum calcium accompanies PTH suppression, and hypo-
+calcemia of <7.5 mg/dL (1.87 mmol/L) occurs in about 5% 
+of patients. Hypocalcemia is rarely symptomatic and can be 
+managed by addition of 500 to 1,000 mg of elemental calcium 
+on an empty stomach, an increase or addition of active vita-
+min D, or an increase in dialysate calcium to 3.0 or 3.5 mEq/L 
+(1.5 or 1.75 mM). Other major side effects of cinacalcet are 
+nausea and vomiting, which occur in up to 30% of patients, 
+and rash.
+A large outcomes trial of cinacalcet versus placebo 
+achieved substantial PTH control (median PTH about 300 vs. 
+700 pg/mL [32 vs. 74 pmol/L] at 6 months) and lower serum 
+calcium levels (median calcium 9.1 vs. 9.9 mg/dL; 2.27 vs. 2.47 
+mmol/L), but use of cinacalcet did not reduce cardiovascular 
+events or deaths (EVOLVE Trial Investigators, 2012).
+ VIII. MISCELLANEOUS THERAPIES
+A. Bisphosphonates. While these agents can increase bone den-
+sity in osteoporosis, they have not been adequately tested 
+or shown to be efficacious in dialysis patients. Bisphospho-
+nates decrease bone resorption by inhibiting osteoclasts. This 
+reduction in bone turnover may be deleterious in dialysis 
+patients, creating a form of adynamic bone disease. Generally, 
+these agents should not be used in dialysis patients.
+B. Teriparatide. A synthetic form of PTH(1-34), this polypeptide 
+induces a marked increase in bone density in osteoporotic 
+patients when administered as a daily subcutaneous injec-
+tion. It has not been tested in dialysis patients, but may be 
+of value in the treatment of adynamic bone disease, as PTH 
+levels usually are low in this disorder. Further studies are 
+Daugirdas9781451144291-ch036.indd   686 11/10/14   4:03 am
+687Chapter 36 / Bone Disease
+needed to define the role of teriparatide in low bone turnover 
+disease, and teriparatide has not been FDA approved in this 
+population.
+IX. PARATHYROIDECTOMY . Despite aggressive efforts to control PTH
+levels, surgical parathyroidectomy (PTX) continues to be nec-
+essary in those patients with severe hyperparathyroidism. PTX
+rates were higher among patients who were younger, female,
+nondiabetic, receiving peritoneal dialysis, and those with a longer 
+duration of dialysis (Foley, 2005).
+A. Indications. Failure of high-dosage intravenous active vitamin D 
+and calcimimetic therapy to improve findings of hyperpara-
+thyroidism suggests the presence of large, poorly suppressible 
+glands that require removal.
+The indications for parathyroidectomy are listed in 
+Table 36.5. When parathyroidectomy is being contemplated 
+for the treatment of refractory osteitis fibrosa or hypercalce -
+mia, very high PTH levels would be expected, and it is impor -
+tant to document this (e.g., iPTH usually more than 1,000 pg 
+per mL [106 pmol/L]) before contemplating surgery. A lower 
+serum PTH level should be suppressible using calcitriol or 
+an active vitamin D analog. Also, lower serum PTH levels or 
+a normal value for bone-specific alkaline phosphatase should 
+prompt one to question the necessity for parathyroidectomy. 
+Bone biopsy should show marked osteitis fibrosa with many 
+osteoclasts, increased tetracycline labeling, and minimal alu-
+minum staining.
+B. Relative contraindications. Recent studies have shown that accu-
+mulation of aluminum on the bone mineralizing surface 
+increases markedly after parathyroidectomy and suggest that 
+parathyroidectomy should not be done in patients who are 
+aluminum-loaded. If there is a history of long-term aluminum 
+exposure, a bone biopsy should be performed prior to parathy-
+roidectomy to exclude significant aluminum accumulation.
+C. Surgical strategy. Parathyroid surgery is a complex endeavor and 
+requires the services of a surgeon with experience in this pro-
+cedure. Aberrantly located glands, and three, five, or even six 
+1. Severe progressive symptomatic osteitis fibrosa (skeletal pain and/
+or fractures) despite adequate medical management, including serum 
+phosphorus control and calcitriol therapy
+2.
+ Very high levels of PTH plus any of the following:
+•	 Persistent
+	hypercalcemia	if	other	causes	have	been	excluded
+•	 Severe 	intractable	pruritus
+•	 Persistent 	severe	soft-tissue	calcification	despite	attempts	to	control	the	
+serum phosphorus level
+•	 Idiopathic 	disseminated	skin	necrosis	(calciphylaxis)
+•	 Incapacitating 	arthritis,	periarthritis,	and	spontaneous	tendon	ruptures
+Indications for Parathyroidectomy
+36.5
+TABLE
+Daugirdas9781451144291-ch036.indd   687 11/10/14   4:03 am
+Part IV / Clinical Problem Areas
+688
+rather than the usual four glands, may be present. An attempt 
+may be made to localize the glands preoperatively using 
+10-MHz ultrasonographic scanning or thallium–technetium 
+scanning, but this is usually not necessary.
+Until recently, the operation of choice had been subtotal 
+parathyroidectomy: total resection of three glands and 75% 
+of the fourth. The alternative approach has been total para-
+thyroidectomy with autotransplantation of some parathyroid 
+tissue into the forearm or, more recently, subcutaneously in 
+the presternal area (Kinnaert, 2000). Both procedures entail 
+some disadvantages, including the risks of permanent hypo-
+parathyroidism and recurrence (or lack of resolution) of bone 
+disease or hypercalcemia. Recurrence and failure to improve 
+are troublesome problems; often, it is uncertain whether the 
+cause is hyperfunction of residual or transplanted parathyroid 
+tissue or the unsuspected presence of an additional gland fol-
+lowing surgery.
+D. Chemical ablation. Percutaneous injection of ethanol or calcitriol 
+into the parathyroid glands of patients with severe secondary 
+hyperparathyroidism has been used to cause regression of the 
+glands and moderate parathyroid hormone secretion. It is 
+performed using ultrasound or color Doppler flow mapping 
+and may be considered in those who are poor surgical risks 
+and in centers with the appropriate expertise (Kakuta, 1999). 
+The risk of recurrent nerve palsy has been reported to be low.
+E. Postoperative hypocalcemia.  Within several hours of parathy-
+roidectomy, but especially during the first postoperative days, 
+profound hypocalcemia can develop, the severity of which 
+depends on the degree of osteitis fibrosa, which can be pre-
+dicted by the extent of preoperative serum alkaline phospha-
+tase elevation and bone histology. In addition to oral calcium 
+supplements (2–4 g per day), large dosages of intravenous 
+calcium (0.5–5.0 g per day) and oral or intravenous calcitriol 
+(2–6 mcg per day) may be required to maintain serum calcium 
+levels in an acceptable range (Dawborn, 1983). Some advocate 
+starting calcitriol and oral calcium therapy a few days before 
+the procedure even in hypercalcemic patients.
+ X. CALCIFIC UREMIC ARTERIOLOP ATHY (CUA), previously known as “cal-
+ciphylaxis, ” is an unusual disorder seen predominately in dialy-
+sis patients. Early signs and symptoms include livedo reticularis 
+and extremely painful red nodules, which progress to ulcerative 
+and necrotic lesions. Risk factors include female gender, obe -
+sity, and Caucasian race. Exposure to the uremic milieu may 
+be responsible for altering vascular smooth muscle cells and 
+increasing the expression of factors involved in ectopic mineral-
+ization, such as osteopontin and core-binding factor alpha (Moe 
+& Chen, 2003). Further mineralization from elevated calcium 
+and phosphorus levels ultimately results in arteriolar calcifica-
+tion, occlusion, and tissue ischemia. A high index of suspicion 
+is necessary to identify the disease as early as possible. The 
+Daugirdas9781451144291-ch036.indd   688 11/10/14   4:03 am
+689Chapter 36 / Bone Disease
+differential diagnosis includes vasculitis, coumadin-associated 
+skin necrosis, cryoglobulinemia, calcinosis cutis, and panniculi-
+tis. Bone scan has been reported to identify calcium deposition 
+in 97% with early plaque-only CUA (Fine & Zacharias, 2002). 
+Skin biopsy shows characteristic arteriolar calcifications in the 
+medial layer.
+Once the diagnosis is made, calcium-containing supple-
+ments and vitamin D analogs should be discontinued, and 
+non–calcium-based phosphorus-binders should be titrated 
+for aggressive phosphorus control. Parathyroidectomy is rec-
+ommended for those with CUA and elevated iPTH (> 500 pg/
+mL (53 pmol/L)), though hyperparathyroidism is not required 
+for CUA, and patients may in fact have low to normal iPTH 
+levels (Bleyer, 1998). Coumadin, which inhibits the calcium-
+regulatory matrix gla-protein, should be discontinued. Sodium 
+thiosulfate, at a dose of 25 g IV three times per week, has been 
+reported to completely resolve the lesions in 26% and improve 
+the process in 47% (Nigwekar, 2013). The mechanism of action 
+is unknown (O’Neill & Hardcastle, 2012). Pamidronate has 
+also been cited in a single case report to effect  rapid clinical 
+improvement (Monney, 2004). Wound care is critically impor -
+tant in ulcerative lesions, and surgical debridement and anti -
+biotics may be necessary. Hyperbaric oxygen (Basile, 2002) and 
+low-dose tissue plasminogen activator  (Sewell & Pittelkow, 
+2004) have been reported to promote wound healing in single 
+case studies.
+XI. ALUMINUM TO xICITY . Aluminum toxicity is rarely seen today
+because of the development of non-aluminum phosphorus bind-
+ers and improvement in water purity. Among those still exposed
+to aluminum-based compounds, greater risk for accumulation
+occurs in diabetics, the iron-deficient, children, and those with
+exposure to citrate (which increases aluminum absorption). Alu-
+minum bone disease results in diffuse bone pain or fractures with 
+low iPTH, hypercalcemia, and normal alkaline phosphatase.
+Confirmation of aluminum toxicity with the deferoxamine 
+(DFO) test should be done in those with serum aluminum levels 
+between 60 and 200 mcg/L (2,160 and 7,200 nmol/L), those with 
+symptoms of aluminum toxicity, and prior to parathyroidectomy 
+in those with known exposure. The combination of low iPTH and 
+an increase in serum aluminum by 50 mcg/L (1,800 nmol/L) 2 
+days after a 5-mg/kg DFO administration is predictive of alumi-
+num bone disease. Definitive diagnosis is made with bone biopsy 
+and trabecular staining for aluminum deposition.
+In all cases of aluminum toxicity, exposure to aluminum 
+must be identified and stopped. DFO can be administered on 
+a weekly basis at a dose of 5 mg/kg for 2 months. To prevent 
+ aluminum-related encephalopathy, those with aluminum levels 
+greater than 200 mcg/L (7,200 nmol/L) should undergo intensive 
+hemodialysis with high-flux membranes. Once levels are less 
+than 200 mcg/L (7,200 nmol/L), DFO treatment can be started. 
+Daugirdas9781451144291-ch036.indd   689 11/10/14   4:03 am
+Part IV / Clinical Problem Areas
+690
+Side effects of DFO include ototoxicity, retinopathy, fatal Mucor  
+infections, and precipitation of encephalopathy. For more details 
+see the fourth edition of this Handbook (D’Haese and DeBroe, 
+2007).
+References and Suggested Readings
+Armas LAG, et al. 25-hydroxyvitamin D response to cholecalciferol supplementation 
+in hemodialysis. Clin J Am Soc Nephrol. 2012;7:1428–1434.
+Basile C, et al. Hyperbaric oxygen therapy for calcific uremic arteriolopathy: a case 
+series. J Nephrol. 2002;16:676–680.
+Bleyer AJ, et al. A case control study of proximal calciphylaxis. Am J Kidney Dis.  
+1998;32:376–383.
+Cannata-Andia JB, et al. Use of phosphate-binding agents is associated with a lower 
+risk of mortality. Kidney Int. 2013;84:998–1008.
+Cavalier E, et al. Interpretation of serum PTH concentrations with different kits in 
+dialysis patients according to the KDIGO guidelines: importance of the reference 
+(normal) values. Nephrol Dial Transplant. 2012;27:1950–1956.
+Chertow GM, et al. Sevelamer attenuates the progression of coronary and aortic calci-
+fication in hemodialysis patients. Kidney Int. 2002;62:245–252.
+Cicone JS, et al. Successful treatment of calciphylaxis with intravenous sodium thio-
+sulfate. Am J Kidney Dis. 2004;43:1104–1108.
+Clark OH, et al. Localization studies in patients with persistent or recurrent hyperpara-
+thyroidism. Surgery. 1985;98:1083–1094.
+Coen G, et al. PTH 1-84 and PTH “7-84” in the noninvasive diagnosis of renal bone 
+disease. Am J Kidney Dis. 2002;40:348–354.
+Cunningham J, Zehnder D. New Vitamin D analogs and changing therapeutic para -
+digms. Kidney Int. 2011;79:702–707.
+Daugirdas JT, et al; the Frequent Hemodialysis Network Trial Group. The  phosphate 
+binder equivalent dose. Semin Dial. 2011;24:41–49.
+Daugirdas JT, et al; the FHN Trial Group. Effects of frequent hemodialysis on  measures 
+of CKD mineral and bone disorder. J Am Soc Nephrol. 2012;23:727–738.
+Dawborn JK, et al. Parathyroidectomy in chronic renal failure. Nephron. 1983;33:100–
+105.
+D’Haese PC, DeBroe ME. Aluminum, lanthanum, and strontium. In: Daugirdas JT, Ing 
+TS, Blake P , eds. Handbook of Dialysis, 4th ed. Philadelphia, PA: Wolters Kluwer; 
+2007:714–726.
+de Francisco ALM, et al. Evaluation of calcium acetate/magnesium carbonate as a 
+phosphate binder compared with sevelamer hydrochloride in haemodialysis 
+patients: a RCT (CALMAG study) assessing efficacy and tolerability. Nephrol Dial 
+Transplant. 2010;25:3707–3717.
+Delmez JA, Slatopolsky E. Hyperphosphatemia: its consequences and treatment in 
+patients with chronic renal disease. Am J Kidney Dis. 1992;19:303–317.
+D’Haese PC, et al. A Multicenter study on the effects of lanthanum carbonate 
+ (Fosrenol) and calcium carbonate on renal bone disease in dialysis patients. 
+ Kidney Int. 2003;63:S73–S78.
+D’Haese PC, et al. Use of low-dose deferrioxamine test to diagnose and differenti-
+ate between patients with aluminum-related bone disease, increased risk for 
+aluminum toxicity, or aluminum overload. Nephrol Dial Transplant. 1995;10:  
+1874–1884.
+Duranton F, et al. Vitamin D treatment and mortality in chronic kidney disease: a 
+systematic review and meta-analysis. Am J Nephrol. 2013;37:239–248.
+EVOLVE Trial Investigators, et al. Effect of cinacalcet on cardiovascular disease in 
+patients undergoing dialysis. N Engl J Med. 2012;367:2482-2494.
+Fine A, Zacharias J. Calciphylaxis is usually non-ulcerating: risk factors, outcome and 
+therapy. Kidney Int. 2002;61:2210–2217.
+Floege J. When man turns to stone: extraosseous calcification in uremic patients. Kid-
+ney Int. 2004;65:2447–2462.
+Floege J, et al. A phase III study of the efficacy and safety of a novel iron-based phos-
+phate binder in dialysis patients. Kidney Int. 2014;86:638–647.
+Foley RN, et al. The fall and rise of parathyroidectomy in U.S. hemodialysis patients, 
+1992 to 2002. J Am Soc Nephrol. 2005;16:210–218.
+Daugirdas9781451144291-ch036.indd   690 11/10/14   4:03 am
+691Chapter 36 / Bone Disease
+Gallieni M, et al; Italian Group for the Study of Intravenous Calcitriol. Low-dose intra-
+venous calcitriol treatment of secondary hyperparathyroidism in hemodialysis 
+patients. Kidney Int. 1992;42:1191–1198.
+Gauci C, et al. and the NephroTest Study Group. Pitfalls of measuring total blood cal-
+cium in patients with CKD. J Am Soc Nephrol. 2008;19:1592–1598.
+Goldsmith D, Ritz E, Covic A. Vascular calcification: a stiff challenge for the nephrolo-
+gists. Kidney Int. 2004;66:1315–1333.
+Goodman WG, et al. A calcimimetic agent lowers plasma parathyroid hormone 
+levels in patients with secondary hyperparathyroidism. Kidney Int. 2000;58:  
+436–445.
+Gutekunst L. Restricting protein and phosphorus: a dietitian’s perspective. In: Daugir-
+das JT. Handbook of Chronic Kidney Disease. Philadelphia, PA; Wolters Kluwer; 
+2011:127–140.
+Hutchison AJ, et al. Efficacy, tolerability, and safety of lanthanum carbonate in hyper-
+phosphatemia: a 6-month, randomized, comparative trial versus calcium carbon-
+ate. Nephron Clin Pract. 2005;100:c8–c19.
+Hutchison AJ. Lanthanum carbonate treatment, for up to 6 years, is not associated 
+with adverse effects on the liver in patients with chronic kidney disease stage 5 
+receiving hemodialysis. Clin Nephrol. 2009;71:286–295.
+Jen G, et al. Prevention of secondary hyperparathyroidism in hemodialysis patients: 
+the key role of native vitamin D supplementation. Hemodial Int. 2010;14:486–491.
+Kakuta T, et al. Prognosis of parathyroid function after successful percutaneous etha-
+nol injection therapy guided by color Doppler flow mapping in chronic  dialysis 
+patients. Am J Kidney Dis. 1999;33:1091–1099.
+Kinnaert P , et al. Long-term results of subcutaneous parathyroid grafts in uremic 
+patients. Arch Surg. 2000;135:186–190.
+Lewis JB, et al. Ferric citrate controls phosphorus and delivers iron in dialysis patients. 
+J Am Soc Nephrol. 2014; in press.
+Lomashvili KA, et al. Phosphate-induced vascular calcification: role of pyrophosphate 
+and osteopontin. J Am Soc Nephrol. 2004;15:1392–1401.
+London GM, et al. Arterial calcification and bone hisomorphometry in end-stage renal 
+disease. J Am Soc Nephrol. 2004;15:1943–1951.
+Lopes AA, et al. Phosphate binder use and mortality among hemodialysis patients 
+in the Dialysis Outcomes and Practice Patterns Study (DOPPS): evaluation of 
+ possible confounding by nutritional status. Am J Kidney Dis. 2012;60:90–101.
+Lopez-Hilker S, et al. Phosphorus restriction reverses hyperparathyroidism in uremia 
+independent of changes in calcium and calcitriol. Am J Physiol. 1990;259:F432–F437.
+Moe SM, Chen NX. Calciphylaxis and vascular calcification: a continuum of 
+ extra-skeletal osteogenesis. Pediat Nephrol. 2003;18:969–975.
+Moe SM, et al. Vegetarian compared with meat dietary protein source and phospho-
+rus homeostasis in chronic kidney disease. Clin J Am Soc Nephrol. 2011;6:257–264.
+Monney P , et al. Rapid improvement of calciphylaxis after intravenous pamidro-
+nate therapy in a patient with chronic renal failure. Nephrol Dial Transplant.  
+2004;19:2130–2132.
+Mudge DW , et al. Does aluminium continue to have a role as a phosphate binder in 
+contemporary practice? BMC Nephrol. 2011;12:20.
+Nastou D, et al. Next-generation phosphate binders: focus on iron-based binders. 
+Drugs. 2014;74:863–877.
+Navarro JF, et al. Relationship between serum magnesium and parathyroid  hormone 
+levels in hemodialysis patients. Am J Kidney Dis. 1999;34:43–48.
+Nigwekar SU, et al. Sodium thiosulfate therapy for calcific uremic arteriolopathy. Clin 
+J Am Soc Nephrol. 2013;8:1162–1170.
+O’Neill WC, Hardcastle KI. The chemistry of thiosulfate and vascular calcification. 
+Nephrol Dial Transplant. 2012;27:521–526.
+Penne EL, et al; for the CONTRAST investigators. Short-term effects of online hemodi-
+afiltration on phosphate control: a result from the randomized Controlled Convec-
+tive Transport Study. Am J Kidney Dis. 2010;55:77–87.
+Penne EL, et al. Role of residual renal function in phosphate control and anemia 
+management in chronic hemodialysis patients. Clin J Am Soc Nephrol. 2011;6:  
+281–289.
+Rastogi A. Sevelamer revisited: pleiotropic effects on endothelial and cardiovascular 
+risk factors in chronic kidney disease and end-stage renal disease. Ther Adv Car -
+diovasc Dis. 2013;7:322–342.
+Daugirdas9781451144291-ch036.indd   691 11/10/14   4:03 am
+Part IV / Clinical Problem Areas
+692
+Schaefer K, et al. Reduced risk of hypercalcemia for hemodialysis patients by adminis-
+tering calcitriol at night. Am J Kidney Dis. 1992;19:460–464.
+Schiller LR, et al. Effect of the time of administration of calcium acetate on  phosphorus 
+binding. N Engl J Med. 1989;320:1110–1113.
+Sewell LD, Pittelkow MR. Low-dose tissue plasminogen activator for calciphylaxis. 
+Arch Dermatol. 2004;140:1045–1048.
+Souberbielle JC, et al. Inter-method variability in PTH measurement: implication for 
+the care of CKD patients. Kidney Int. 2006;70:345–350.
+Spiegel DM, Farmer B. Long-term effects of magnesium carbonate on coronary artery 
+calcification and bone mineral density in hemodialysis patients: a pilot study. 
+Hemodial Int. 2009;13:453–459.
+Teng M, et al. Survival of patients undergoing hemodialysis with paricalcitol or cal-
+citriol therapy. New Engl J Med. 2003;349:446–456.
+Ubara Y, et al. Histomorphogenic features of bone in patients with primary and sec-
+ondary hypoparathyroidism. Kidney Int. 2003;63:1809–1816.
+Wüthrich RP , et al. Randomized clinical trial of the iron-based phosphate binder PA21 
+in hemodialysis patients. Clin J Am Soc Nephrol. 2013;8:280–289.
+Yokoyama K, et al. A randomized trial of JTT-751 versus sevelamer hydrochloride in 
+patients on hemodialysis. Nephrol Dial Transplant. 2014a;29:1053–1060.
+Yokoyama K, et al. Ferric citrate hydrate for the treatment of hyperphosphatemia in 
+nondialysis-dependent CKD. Clin J Am Soc Nephrol. 2014b;9:543-552.
+Web References
+Uremic bone disease links. http://www.hdcn.com/crf/bone and http://kdigo.org/
+home/mineral-bone-disorder/.
+Daugirdas9781451144291-ch036.indd   692 11/10/14   4:03 am

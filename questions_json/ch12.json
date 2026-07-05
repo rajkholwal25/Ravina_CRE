@@ -1,0 +1,665 @@
+{
+ "chapter": 12,
+ "questions": [
+  {
+   "topic": "Complication frequency",
+   "question": "Which complication is the single most common encountered during hemodialysis?",
+   "options": {
+    "A": "Hypotension",
+    "B": "Muscle cramps",
+    "C": "Nausea and vomiting",
+    "D": "Headache"
+   },
+   "correct": "A",
+   "explanation": "Hypotension is the single most common intradialytic complication. The chapter lists complications in descending order of frequency: hypotension, cramps, nausea and vomiting, headache, chest pain, back pain, and itching. Cramps, nausea/vomiting, and headache are all real but rank below hypotension. IDH matters not only for distressing symptoms but because it is linked to poor long-term outcomes, including increased mortality and myocardial stunning, so its recognition and prevention are a clinical priority."
+  },
+  {
+   "topic": "IDH definition",
+   "question": "For quality assurance purposes, which definition of intradialytic hypotension has the strongest association with increased mortality?",
+   "options": {
+    "A": "A fall in systolic BP of 20 mm Hg",
+    "B": "A nadir systolic BP less than 90 mm Hg",
+    "C": "A fall in systolic BP of 30 mm Hg",
+    "D": "A 10% fall from starting blood pressure"
+   },
+   "correct": "B",
+   "explanation": "A nadir (lowest) systolic BP less than 90 mm Hg has the strongest association with increased mortality (Flythe, 2014), so it is most useful for quality assurance. Other definitions exist, including a fall in systolic BP of 20 or 30 mm Hg or a percentage fall from the starting pressure, but these are not the ones best correlated with death. IDH is important because it also raises the risk of myocardial stunning and access thrombosis, so a mortality-anchored definition best guides quality programs."
+  },
+  {
+   "topic": "Myocardial stunning",
+   "question": "Intradialytic hypotension is associated with an increased rate of cardiac wall motion abnormalities during dialysis, a phenomenon known as which of the following?",
+   "options": {
+    "A": "Diastolic dysfunction",
+    "B": "Uremic cardiomyopathy",
+    "C": "Myocardial stunning",
+    "D": "Pericardial tamponade"
+   },
+   "correct": "C",
+   "explanation": "IDH is associated with an increased rate of cardiac wall motion abnormalities during dialysis, termed myocardial stunning (McIntyre and Odudu, 2014). Diastolic dysfunction is a cardiac cause of IDH but is not this wall-motion phenomenon; pericardial tamponade is an uncommon cause of hypotension; uremic cardiomyopathy is not the term used here. Individualized cooled dialysate has been shown to reduce myocardial stunning, linking thermal control to protection of the heart during fluid removal."
+  },
+  {
+   "topic": "IDH predisposition",
+   "question": "The incidence of intradialytic hypotension is highest in patients with which predialysis characteristic?",
+   "options": {
+    "A": "High predialysis blood pressure",
+    "B": "High predialysis potassium",
+    "C": "Elevated predialysis hematocrit",
+    "D": "Low predialysis blood pressure"
+   },
+   "correct": "D",
+   "explanation": "IDH incidence is highest in patients with low predialysis blood pressure, not high. A low predialysis pressure may be a marker of cardiac disease, and hearts with functional or structural abnormalities are less able to compensate hemodynamically for fluid removal. High predialysis potassium and elevated hematocrit are not identified predictors. Recognizing this low-pressure phenotype flags frail, cardiac-compromised patients who may benefit from cooler dialysate, higher dialysate sodium, and gentler ultrafiltration."
+  },
+  {
+   "topic": "IDH and access",
+   "question": "Intradialytic hypotension has been shown to increase the risk of which vascular access complication?",
+   "options": {
+    "A": "Access thrombosis",
+    "B": "Access aneurysm",
+    "C": "Access infection",
+    "D": "Access steal syndrome"
+   },
+   "correct": "A",
+   "explanation": "IDH is associated with an increased risk of access thrombosis (Chang, 2011). Aneurysm, infection, and steal syndrome are access complications but are not the one linked to intradialytic hypotension in this chapter. The mechanism relates to low-flow states promoting clotting within the access. This is one more reason IDH carries poor long-term consequences beyond acute symptoms, alongside increased mortality and myocardial stunning, and it supports aggressive prevention of hypotensive episodes."
+  },
+  {
+   "topic": "Interdialytic weight gain",
+   "question": "Which dietary strategy is far more effective in decreasing interdialytic weight gain?",
+   "options": {
+    "A": "Emphasizing fluid restriction",
+    "B": "Emphasizing salt (sodium) restriction",
+    "C": "Emphasizing potassium restriction",
+    "D": "Emphasizing protein restriction"
+   },
+   "correct": "B",
+   "explanation": "Emphasizing salt (sodium) restriction is far more effective in decreasing interdialytic weight gain than focusing on fluid restriction (Tomson, 2001). Advising fluid restriction without sodium restriction is not evidence-based. Potassium and protein restriction address other problems, not IDWG. Higher sodium intake is also associated with poor outcome (McCausland, 2012). Because IDH is fundamentally volume-related, curbing sodium intake lowers IDWG, reduces the required ultrafiltration rate, and thereby cuts hypotension frequency."
+  },
+  {
+   "topic": "KDOQI treatment time",
+   "question": "The KDOQI 2006 adequacy guidelines recommend that thrice-weekly treatment time not be reduced below which value in patients with little or no residual urine?",
+   "options": {
+    "A": "2 hours",
+    "B": "4 hours",
+    "C": "3 hours",
+    "D": "5 hours"
+   },
+   "correct": "C",
+   "explanation": "KDOQI 2006 adequacy guidelines recommend that thrice-weekly treatment time not be reduced below 3 hours in patients with little or no residual urine output, regardless of how high the Kt/V is. The European Best Practice Guidelines separately recommend 4 hours for all thrice-weekly patients. Two and five hours are not the KDOQI floor. Longer time lowers the ultrafiltration rate for the same fluid removal, which reduces IDH, so time should not be cut merely because clearance targets are met."
+  },
+  {
+   "topic": "Reducing IDH schedule",
+   "question": "In-center patients with fluid removal problems are often placed on a Mon-Wed-Fri-Sat schedule mainly because it does which of the following?",
+   "options": {
+    "A": "Reduces total weekly dialysis cost",
+    "B": "Allows use of larger dialyzers",
+    "C": "Eliminates the need for ultrafiltration",
+    "D": "Cuts out the long-weekend interdialytic interval and increases weekly dialysis time"
+   },
+   "correct": "D",
+   "explanation": "A Mon-Wed-Fri-Sat schedule cuts out the long-weekend interdialytic interval and increases weekly dialysis time. Both effects lower the required ultrafiltration rate for a given fluid removal, reducing IDH. It does not eliminate the need for ultrafiltration and is not about cost or dialyzer size. The long weekend gap otherwise produces a higher IDWG that forces a high ultrafiltration rate to reach target weight, so redistributing sessions is a practical fix for fluid-removal-limited patients."
+  },
+  {
+   "topic": "Target weight",
+   "question": "Why may the term 'target weight' be more appropriate than 'dry weight'?",
+   "options": {
+    "A": "Because some level of volume overload is required in many patients to prevent IDH",
+    "B": "Because patients never truly retain fluid",
+    "C": "Because dry weight cannot be measured",
+    "D": "Because target weight ignores blood pressure"
+   },
+   "correct": "A",
+   "explanation": "The term target weight may be more appropriate than dry weight because some level of volume overload is required in many patients to prevent IDH. As true dry weight is approached, the rate at which the blood compartment refills from tissue spaces diminishes, provoking transient hypovolemia, cramps, dizziness, and postdialysis malaise. Patients do retain fluid and dry weight is clinically estimated using BP, edema, and tolerance, so the other options are false. Hypoperfusion of heart, brain, and gut may accumulate harm."
+  },
+  {
+   "topic": "Low dialysate sodium",
+   "question": "When dialysis solution sodium is lower than plasma, what happens to blood volume during ultrafiltration?",
+   "options": {
+    "A": "Blood becomes hypertonic and volume increases",
+    "B": "Blood becomes hypotonic, water leaves the blood compartment, and blood volume acutely decreases",
+    "C": "There is no effect on blood volume",
+    "D": "Sodium shifts into cells raising blood volume"
+   },
+   "correct": "B",
+   "explanation": "When dialysate sodium is below plasma, blood returning from the dialyzer is hypotonic relative to surrounding tissue; to maintain osmotic equilibrium water leaves the blood compartment, acutely reducing blood volume and predisposing to IDH. It does not raise blood volume or leave it unchanged. Higher dialysate sodium limits this volume drop but increases IDWG, blood pressure, and postdialysis thirst. This osmotic principle underlies sodium modeling and the choice of an individualized dialysate sodium near the patient serum value."
+  },
+  {
+   "topic": "Dialysate temperature mechanism",
+   "question": "When dialysis solution temperature exceeds the euthermic level, which mechanism predisposes to hypotension?",
+   "options": {
+    "A": "Increased blood viscosity",
+    "B": "Reduced cardiac contractility",
+    "C": "Cutaneous vasodilation reducing vascular resistance",
+    "D": "Increased venous return"
+   },
+   "correct": "C",
+   "explanation": "When dialysate temperature exceeds the euthermic level, cutaneous vasodilation occurs to dissipate heat, reducing vascular resistance and predisposing to hypotension. The mechanism is vasodilation, not increased viscosity, reduced contractility, or increased venous return. The widely used 37 degrees C is almost always in excess of euthermic values; 35.5-36.0 degrees C are better initial choices. Even a 1.1 degree C difference notably affects blood pressure, and individualized cooled dialysate improves BP, reduces stunning, and shortens recovery time."
+  },
+  {
+   "topic": "Intradialytic eating",
+   "question": "Eating during hemodialysis can precipitate hypotension mainly through which mechanism?",
+   "options": {
+    "A": "Increased cardiac afterload",
+    "B": "Acute anemia",
+    "C": "Renal vasoconstriction",
+    "D": "Splanchnic bed vasodilation reducing TPR and increasing splanchnic venous capacity"
+   },
+   "correct": "D",
+   "explanation": "Eating during dialysis precipitates hypotension mainly by dilating splanchnic resistance vessels, which reduces total peripheral resistance and increases splanchnic venous capacity (Barakat, 1993), sequestering blood. It is not from increased afterload, acute anemia, or renal vasoconstriction. The food effect on blood pressure lasts at least 2 hours, so hypotension-prone patients should avoid eating just before or during dialysis. This is why the prevention strategy warns against food or oral glucose in such patients."
+  },
+  {
+   "topic": "Adenosine mechanism",
+   "question": "During hypotensive stress, tissue ischemia releases adenosine, which worsens hypotension by doing which of the following?",
+   "options": {
+    "A": "Blocking norepinephrine release from sympathetic terminals and causing vasodilation",
+    "B": "Increasing norepinephrine release",
+    "C": "Increasing heart rate directly",
+    "D": "Constricting arterioles"
+   },
+   "correct": "A",
+   "explanation": "During hypotensive stress, tissue ischemia releases adenosine, which blocks norepinephrine release from sympathetic nerve terminals and has intrinsic vasodilator properties, so hypotension can amplify itself: hypotension leads to ischemia, adenosine, impaired norepinephrine release, vasodilation, and further hypotension. It does not increase norepinephrine or heart rate or constrict arterioles. This self-amplifying loop helps explain why patients with low hematocrit (below 20-25%) are especially prone to IDH, and why limiting ischemia (e.g., nasal oxygen) may help."
+  },
+  {
+   "topic": "Midodrine class",
+   "question": "Midodrine, used to reduce IDH frequency, is best described as which type of agent?",
+   "options": {
+    "A": "A beta-adrenergic blocker",
+    "B": "An orally acting alpha-adrenergic agonist",
+    "C": "A calcium channel blocker",
+    "D": "A serotonin reuptake inhibitor"
+   },
+   "correct": "B",
+   "explanation": "Midodrine is an orally acting alpha-adrenergic agonist that reduces IDH frequency; a typical dose is 10 mg orally 1.5-2 hours before dialysis, though up to 40 mg has been reported. It is not a beta-blocker, calcium channel blocker, or SSRI. Supine hypertension is the major dose-limiting factor and active cardiac ischemia is a contraindication; concomitant alpha-blockers render it ineffective. Its benefit does not appear additive to that of using cool dialysate (Cruz, 1999)."
+  },
+  {
+   "topic": "Sertraline",
+   "question": "Sertraline reduces IDH frequency after approximately what duration of therapy?",
+   "options": {
+    "A": "24 hours",
+    "B": "3 to 5 days",
+    "C": "4 to 6 weeks",
+    "D": "6 months"
+   },
+   "correct": "C",
+   "explanation": "At least three reports indicate that 4 to 6 weeks of therapy with the SSRI sertraline reduces IDH frequency, possibly by improving autonomic function (Yalcin, 2003). It is not an acute effect over 24 hours or a few days, nor does it require 6 months. Like midodrine, sertraline was not shown to add protection when cool dialysate was already used (Brewster, 2003). The delayed onset reflects a neuromodulatory mechanism rather than immediate hemodynamic support."
+  },
+  {
+   "topic": "Dialysate potassium and IDH",
+   "question": "A low dialysis fluid potassium concentration of 1 mEq/L is associated with which hemodynamic effect?",
+   "options": {
+    "A": "Less frequent IDH",
+    "B": "No change in IDH frequency",
+    "C": "Reduced arrhythmias only",
+    "D": "More frequent IDH, perhaps via autonomic effects"
+   },
+   "correct": "D",
+   "explanation": "A low dialysate potassium of 1 mEq/L is associated with more frequent IDH, perhaps via autonomic effects, not less frequent or unchanged. Using higher potassium levels is advisable when predialysis levels permit, for both hemodynamic benefit and reduced arrhythmogenic effect. The prevention strategy suggests considering a 3.0 mM potassium dialysate if predialysis levels allow. So the low-potassium bath contributes to instability rather than merely affecting rhythm, making dialysate potassium a modifiable IDH factor."
+  },
+  {
+   "topic": "Dialysate calcium",
+   "question": "Compared with 1.25 mM, a dialysate calcium of 1.75 mM does which of the following in patients with cardiac disease?",
+   "options": {
+    "A": "Increases cardiac contractility and helps maintain intradialytic blood pressure",
+    "B": "Decreases cardiac contractility",
+    "C": "Has no hemodynamic effect",
+    "D": "Causes hypocalcemia"
+   },
+   "correct": "A",
+   "explanation": "A dialysate calcium of 1.75 mM increases cardiac contractility and helps maintain intradialytic blood pressure better than 1.25 mM, especially in patients with cardiac disease (van der Sande, 1998). It does not decrease contractility or cause hypocalcemia. However, in the chronic outpatient setting symptomatic IDH is not less frequent with higher calcium (Sherman, 1986), and prolonged high-calcium dialysate may contribute to vascular calcification, so the trend is to avoid prolonged use despite the acute contractility benefit."
+  },
+  {
+   "topic": "IDH acute management",
+   "question": "Initial management of an acute intradialytic hypotensive episode includes Trendelenburg positioning and which of the following?",
+   "options": {
+    "A": "Increasing the ultrafiltration rate",
+    "B": "A rapid bolus of 0.9% saline (100 mL or more) and reducing ultrafiltration to near zero",
+    "C": "Immediate blood transfusion",
+    "D": "Administering IV epinephrine"
+   },
+   "correct": "B",
+   "explanation": "Acute IDH is managed with Trendelenburg positioning (if respiratory status allows) plus a rapid 0.9% saline bolus of 100 mL or more and reducing ultrafiltration to as near zero as possible. Increasing ultrafiltration would worsen it; transfusion and epinephrine are not the routine first steps. Alternatives include glucose, mannitol, or albumin, but albumin is costly with little benefit and mannitol accumulates. Ultrafiltration can be resumed at a slower rate once vital signs have stabilized."
+  },
+  {
+   "topic": "Prevention UF threshold",
+   "question": "In the IDH prevention strategy, extending weekly dialysis time is recommended when the ultrafiltration rate exceeds which threshold?",
+   "options": {
+    "A": "5 mL/kg per hour",
+    "B": "10 mL/kg per hour",
+    "C": "13 mL/kg per hour",
+    "D": "20 mL/kg per hour"
+   },
+   "correct": "C",
+   "explanation": "The prevention strategy (Table 12.2) recommends extending weekly dialysis time if the ultrafiltration rate exceeds 13 mL/kg per hour. Five, ten, and twenty are not the stated threshold. A high ultrafiltration rate is the volume-related driver of IDH, so lengthening time lowers the rate for the same fluid removal. This sits alongside other measures such as cooler dialysate, reviewing sodium intake, raising target weight, and giving antihypertensives after rather than before dialysis."
+  },
+  {
+   "topic": "Applied Monday IDH",
+   "question": "A patient on a Mon-Wed-Fri schedule consistently has hypotension on Monday treatments. Which factor best explains the Monday predisposition?",
+   "options": {
+    "A": "Dialyzer membranes are less biocompatible on Mondays",
+    "B": "Lower dialysate sodium is used only on Mondays",
+    "C": "Caffeine withdrawal is worse on Mondays",
+    "D": "The long weekend interval produces higher IDWG, requiring a higher ultrafiltration rate to reach the same target weight"
+   },
+   "correct": "D",
+   "explanation": "The long weekend interdialytic interval produces a higher IDWG; if the same postdialysis weight is targeted, a higher ultrafiltration rate must be used to reach it, predisposing to Monday IDH. It is not about membrane biocompatibility, Monday-specific sodium, or caffeine. This is why in-center patients with fluid-removal problems are often shifted to a Mon-Wed-Fri-Sat schedule, which eliminates the long gap and adds weekly time, both lowering the required ultrafiltration rate."
+  },
+  {
+   "topic": "Cramps etiology",
+   "question": "Which set are the four most important predisposing factors for muscle cramps during dialysis?",
+   "options": {
+    "A": "Hypotension, hypovolemia (below dry weight), high ultrafiltration rate, low-sodium dialysate",
+    "B": "Hypertension, hypervolemia, low ultrafiltration rate, high-sodium dialysate",
+    "C": "Fever, sepsis, anticoagulation, high-flux membrane",
+    "D": "Hyperkalemia, alkalosis, hypercalcemia, warm dialysate"
+   },
+   "correct": "A",
+   "explanation": "The four most important predisposing factors for cramps are hypotension, hypovolemia (patient below dry weight), high ultrafiltration rate (large weight gain), and use of low-sodium dialysate. These all favor vasoconstriction, causing muscle hypoperfusion and impaired relaxation. The hypertension/hypervolemia, fever/sepsis, and hyperkalemia options are the reverse or unrelated. Cramps most often accompany hypotension but can persist after blood pressure is restored, and frequency rises with larger weight-loss requirements."
+  },
+  {
+   "topic": "Cramps frequency",
+   "question": "Weight losses of 2%, 4%, and 6% have been associated with cramping frequencies of approximately which values, respectively?",
+   "options": {
+    "A": "5%, 10%, and 15%",
+    "B": "2%, 26%, and 49%",
+    "C": "10%, 20%, and 30%",
+    "D": "1%, 5%, and 10%"
+   },
+   "correct": "B",
+   "explanation": "Cramping frequency rises logarithmically with weight-loss requirements: weight losses of 2%, 4%, and 6% were associated with cramping frequencies of 2%, 26%, and 49%, respectively. The other numeric sets are incorrect. This steep relationship underscores that limiting IDWG and the ultrafiltration rate is the key preventive lever. Cramping is also more common during the first month of dialysis and in patients with a low cardiac index, and may raise creatine phosphokinase on routine labs."
+  },
+  {
+   "topic": "Cramps management glucose",
+   "question": "For treating cramps in nondiabetic patients, which agent is preferred over hypertonic saline to avoid a concentrated sodium load?",
+   "options": {
+    "A": "Additional 0.9% saline",
+    "B": "Intravenous potassium",
+    "C": "Hypertonic glucose",
+    "D": "Intravenous calcium"
+   },
+   "correct": "C",
+   "explanation": "Because the concentrated sodium load with hypertonic saline can be problematic, hypertonic glucose is preferred for treating cramps in nondiabetic patients (Sherman, 1982). More 0.9% saline is less effective at dilating muscle vessels, and IV potassium or calcium are not the acute cramp treatment. Mannitol may accumulate in dialysis patients, particularly when given late in treatment, the usual time cramps occur. Hypertonic solutions work by dilating muscle blood vessels to relieve hypoperfusion."
+  },
+  {
+   "topic": "Cramps nifedipine",
+   "question": "Which oral agent (10 mg) can sometimes reverse cramping but should be reserved for hemodynamically stable patients?",
+   "options": {
+    "A": "Metoprolol",
+    "B": "Furosemide",
+    "C": "Midodrine",
+    "D": "Nifedipine"
+   },
+   "correct": "D",
+   "explanation": "Nifedipine 10 mg can sometimes reverse cramping and, though reportedly not causing a notable fall in blood pressure, it should be reserved for cramping in hemodynamically stable patients. Metoprolol, furosemide, and midodrine are not the agent described for this use. Forced stretching of the involved muscle (e.g., ankle flexion for calf cramping) and variably useful massage can also help acutely. Nifedipine acts as a vasodilator, so caution about blood pressure remains despite the favorable reports."
+  },
+  {
+   "topic": "Quinine cramps",
+   "question": "Quinine sulfate is now considered inadvisable for intradialytic cramps because of its association with which adverse effects?",
+   "options": {
+    "A": "Thrombocytopenia, hypersensitivity reactions, and QT prolongation",
+    "B": "Hyperkalemia and hypotension",
+    "C": "Hepatotoxicity and pancreatitis",
+    "D": "Nephrotoxicity and seizures"
+   },
+   "correct": "A",
+   "explanation": "Quinine sulfate, though effective at preventing intradialytic cramps, is now considered inadvisable because of its association with thrombocytopenia, hypersensitivity reactions, and QT prolongation. The FDA has issued guidance counseling against quinine for leg cramps. Hyperkalemia/hypotension, hepatotoxicity/pancreatitis, and nephrotoxicity/seizures are not the cited harms. Safer alternatives emphasized include stretching exercises as first-line treatment, optimizing dialysate sodium, and correcting low magnesium, calcium, and potassium."
+  },
+  {
+   "topic": "Nausea frequency",
+   "question": "Nausea or vomiting occurs in up to approximately what percentage of routine dialysis treatments, mostly related to hypotension?",
+   "options": {
+    "A": "1%",
+    "B": "10%",
+    "C": "40%",
+    "D": "70%"
+   },
+   "correct": "B",
+   "explanation": "Nausea or vomiting occurs in up to 10% of routine dialysis treatments; the cause is multifactorial, and most episodes in stable patients relate to hypotension. It is not as low as 1% or as high as 40-70%. Nausea can also be an early sign of disequilibrium, a feature of type A or B dialyzer reactions, or from gastroparesis or contaminated or misformulated dialysate. Because hypotension is the leading cause, the first management step is to treat any associated hypotension."
+  },
+  {
+   "topic": "Nausea prevention",
+   "question": "For persistent nausea and vomiting unrelated to hemodynamics, which agent may help, sometimes as a single predialysis 5-10 mg dose?",
+   "options": {
+    "A": "Ondansetron",
+    "B": "Acetaminophen",
+    "C": "Metoclopramide",
+    "D": "Diphenhydramine"
+   },
+   "correct": "C",
+   "explanation": "Persistent nausea and vomiting unrelated to hemodynamics may benefit from metoclopramide, sometimes as a single predialysis dose of 5-10 mg. Ondansetron and diphenhydramine are not the agent named here, and acetaminophen treats headache, not nausea. Prevention still centers on avoiding hypotension, since most episodes are hemodynamic. Vomiting is especially dangerous when hypotension reduces consciousness because of aspiration risk, so treating the pressure comes first, with antiemetics for other causes."
+  },
+  {
+   "topic": "Headache frequency",
+   "question": "Headache occurs in as many as what percentage of patients during dialysis?",
+   "options": {
+    "A": "10%",
+    "B": "30%",
+    "C": "50%",
+    "D": "70%"
+   },
+   "correct": "D",
+   "explanation": "Headache occurs in as many as 70% of patients during dialysis; its cause is largely unknown. It is far more common than the 10-50% distractors. Headache may be a subtle manifestation of disequilibrium, a sign of caffeine withdrawal in coffee drinkers, or a precipitated migraine in those with a history. Atypical or particularly severe headache should prompt consideration of a neurologic cause, particularly an anticoagulation-related bleed. Acetaminophen can be given during dialysis, and magnesium deficiency may contribute."
+  },
+  {
+   "topic": "Headache caffeine",
+   "question": "In coffee drinkers, dialysis headache may be a manifestation of which mechanism?",
+   "options": {
+    "A": "Caffeine withdrawal as blood caffeine is acutely reduced during dialysis",
+    "B": "Caffeine toxicity",
+    "C": "Increased intracranial pressure from caffeine",
+    "D": "Caffeine-induced hypertension"
+   },
+   "correct": "A",
+   "explanation": "In coffee drinkers, dialysis headache may reflect caffeine withdrawal as the blood caffeine concentration is acutely reduced during the treatment. It is not caffeine toxicity, raised intracranial pressure, or caffeine-induced hypertension. A cup of strong coffee may help prevent or treat these withdrawal symptoms. Headache is otherwise multifactorial, possibly a mild disequilibrium manifestation, and decreasing dialysate sodium in high-sodium regimens may help, as may cautious magnesium supplementation."
+  },
+  {
+   "topic": "Headache management",
+   "question": "Which analgesic can be given during dialysis for headache?",
+   "options": {
+    "A": "Aspirin",
+    "B": "Acetaminophen",
+    "C": "Ibuprofen",
+    "D": "Naproxen"
+   },
+   "correct": "B",
+   "explanation": "Acetaminophen can be given during dialysis for headache. Aspirin, ibuprofen, and naproxen are NSAIDs and are not the agent recommended in the chapter for intradialytic headache. Prevention measures include a cup of strong coffee for caffeine withdrawal, decreasing dialysate sodium in patients treated with high sodium, and a cautious trial of magnesium since patients with dialysis headache may be magnesium deficient (Goksel, 2006), keeping in mind the risk of giving magnesium in renal failure."
+  },
+  {
+   "topic": "Chest and back pain",
+   "question": "Mild chest pain, often with some back pain, occurs in approximately what percentage of dialysis treatments?",
+   "options": {
+    "A": "10%-15%",
+    "B": "20%-25%",
+    "C": "1%-4%",
+    "D": "30%-40%"
+   },
+   "correct": "C",
+   "explanation": "Mild chest pain, often with some back pain, occurs in 1%-4% of dialysis treatments; the cause is unknown. The higher-percentage options are incorrect. There is no specific management or prevention, though switching to a different dialyzer membrane may be of benefit. Because angina during dialysis is common, it must be in the differential along with hemolysis, air embolism, and pericarditis. Type B dialyzer reactions also present with chest and back pain and must be considered."
+  },
+  {
+   "topic": "Itching first line",
+   "question": "Which is recommended as the first line of chronic therapy for pruritus in dialysis patients?",
+   "options": {
+    "A": "Oral naltrexone",
+    "B": "UVB phototherapy",
+    "C": "Tacrolimus ointment",
+    "D": "General moisturizing and lubrication of skin with emollients"
+   },
+   "correct": "D",
+   "explanation": "Chronically, general moisturizing and lubrication of the skin with emollients is recommended and should be the first line of therapy for pruritus. Naltrexone, UVB phototherapy, and tacrolimus ointment are later steps in the algorithm, not first-line. One should also ensure dialysis is adequate (a Kt/V of at least 1.2), though evidence that higher Kt/V improves pruritus is not strong. Antihistamines are standard symptomatic treatment, with gabapentin or pregabalin, UVB, charcoal, or nalfurafine as next-line options."
+  },
+  {
+   "topic": "Itching hypersensitivity",
+   "question": "Itching appearing only during treatment, especially with other minor allergic symptoms, may be a manifestation of which of the following?",
+   "options": {
+    "A": "Low-grade hypersensitivity to dialyzer or blood circuit components",
+    "B": "Hyperphosphatemia only",
+    "C": "Uremic frost",
+    "D": "Vitamin deficiency"
+   },
+   "correct": "A",
+   "explanation": "Itching appearing only during the treatment, especially if accompanied by other minor allergic symptoms, may be a manifestation of low-grade hypersensitivity to dialyzer or blood circuit components. It is not simply hyperphosphatemia, uremic frost, or vitamin deficiency in that scenario. More often, however, itching is chronic and merely noticed while the patient sits still during dialysis. Viral or drug-induced hepatitis and scabies should not be overlooked as potential causes of such itching."
+  },
+  {
+   "topic": "Itching minerals",
+   "question": "Pruritus is often found in patients with which laboratory abnormalities?",
+   "options": {
+    "A": "Low calcium, low phosphorus, low PTH",
+    "B": "Elevated serum calcium or phosphorus and/or substantially elevated PTH",
+    "C": "Elevated albumin",
+    "D": "Low hematocrit alone"
+   },
+   "correct": "B",
+   "explanation": "Pruritus is often found in patients with elevated serum calcium or phosphorus and/or a substantially elevated PTH level; reductions in phosphorus, calcium (to the lower end of normal), and PTH are indicated. Low calcium/phosphorus/PTH, high albumin, or low hematocrit alone are not the described associations. Beyond mineral control, first-line care is emollients and ensuring adequate dialysis, then antihistamines and stepwise agents such as gabapentin, UVB, charcoal, nalfurafine, naltrexone, or tacrolimus."
+  },
+  {
+   "topic": "Disequilibrium early",
+   "question": "Which are early manifestations of the dialysis disequilibrium syndrome?",
+   "options": {
+    "A": "Seizures, obtundation, and coma",
+    "B": "Chest pain and back pain",
+    "C": "Nausea, vomiting, restlessness, and headache",
+    "D": "Urticaria and wheezing"
+   },
+   "correct": "C",
+   "explanation": "Early manifestations of disequilibrium syndrome are nausea, vomiting, restlessness, and headache. Seizures, obtundation, and coma are the more serious, later manifestations, not early ones; chest/back pain and urticaria/wheezing belong to dialyzer reactions. Disequilibrium is a set of systemic and neurologic symptoms with characteristic EEG findings occurring during or after dialysis. Because early symptoms are nonspecific, mild cases are hard to attribute with certainty, and treatment is symptomatic."
+  },
+  {
+   "topic": "Disequilibrium etiology",
+   "question": "The most widely accepted mechanism of disequilibrium syndrome is which of the following?",
+   "options": {
+    "A": "Acute cerebral vasoconstriction",
+    "B": "Rapid rise in serum sodium",
+    "C": "Air embolism to the brain",
+    "D": "An acute increase in brain water content as plasma becomes hypotonic to brain cells"
+   },
+   "correct": "D",
+   "explanation": "Most believe disequilibrium relates to an acute increase in brain water content: when plasma solute is rapidly lowered, plasma becomes hypotonic relative to brain cells and water shifts into brain tissue, causing cerebral edema. A competing theory incriminates acute CSF pH changes, but acute vasoconstriction, a sodium rise, and air embolism are not the accepted mechanism. This is why avoiding overly rapid solute removal and low-sodium dialysate is preventive, since low dialysate sodium can worsen cerebral edema."
+  },
+  {
+   "topic": "Disequilibrium urea target",
+   "question": "In an acutely uremic patient, the target reduction in plasma urea nitrogen during initial dialysis should be limited to about what value?",
+   "options": {
+    "A": "About 40%",
+    "B": "About 60%",
+    "C": "About 75%",
+    "D": "About 90%"
+   },
+   "correct": "A",
+   "explanation": "When planning dialysis for an acutely uremic patient, the initial target reduction in plasma urea nitrogen should be limited to about 40% to avoid disequilibrium. Sixty, seventy-five, and ninety percent would be too aggressive and risk cerebral edema. Overly energetic dialysis of a highly uremic patient can precipitate full-blown disequilibrium with coma or seizures. Additional safeguards include avoiding low-sodium dialysate and, in hypernatremia, not correcting sodium and uremia simultaneously."
+  },
+  {
+   "topic": "Disequilibrium chronic prevention",
+   "question": "In the chronic setting, disequilibrium-type symptoms can be minimized by using a dialysate sodium concentration of at least which value?",
+   "options": {
+    "A": "130 mM",
+    "B": "140 mM",
+    "C": "135 mM",
+    "D": "150 mM"
+   },
+   "correct": "B",
+   "explanation": "In the chronic setting, disequilibrium-type symptoms can be minimized by using a dialysate sodium concentration of at least 140 mM. Levels of 130 or 135 mM would be too low and may exacerbate the osmotic water shift into brain, while 150 mM is higher than the stated minimum. Some advocate a high initial dialysate sodium (145-150 mM) that declines over treatment, raising plasma sodium to counteract rapid solute removal, though this may increase IDWG and blood pressure."
+  },
+  {
+   "topic": "Severe disequilibrium mgmt",
+   "question": "If severe disequilibrium with seizures or coma occurs during a session, what is appropriate, and which agent may help?",
+   "options": {
+    "A": "Continue dialysis; give IV calcium",
+    "B": "Increase ultrafiltration; give IV epinephrine",
+    "C": "Stop dialysis; intravenous mannitol may be of benefit",
+    "D": "Switch to hemodiafiltration; give antihistamines"
+   },
+   "correct": "C",
+   "explanation": "If seizures, obtundation, or coma occur during a session, dialysis should be stopped; management is supportive and intravenous mannitol may be of benefit. Continuing dialysis, increasing ultrafiltration, or switching to hemodiafiltration are wrong, and calcium, epinephrine, or antihistamines are not the treatment. The airway should be controlled and the patient ventilated if necessary. If coma is truly due to disequilibrium, the patient should improve within 24 hours; otherwise reconsider the differential."
+  },
+  {
+   "topic": "Dialyzer reaction types",
+   "question": "Dialyzer reactions are generally divided into which two varieties?",
+   "options": {
+    "A": "Immediate and delayed",
+    "B": "Cellular and humoral",
+    "C": "First-use and reuse only",
+    "D": "An anaphylactic type (type A) and a nonspecific type (type B)"
+   },
+   "correct": "D",
+   "explanation": "Dialyzer reactions are divided into an anaphylactic type (type A) and a nonspecific type (type B). They are not classified simply as immediate/delayed, cellular/humoral, or first-use/reuse, although many were once grouped as first-use syndrome because they appeared more often with new dialyzers. Similar reactions occur with reused dialyzers, hence the broader terminology. Type B reactions have diminished considerably over recent decades, whereas type A represents true anaphylaxis."
+  },
+  {
+   "topic": "Type A timing",
+   "question": "Severe type A dialyzer reactions typically begin at what point during dialysis?",
+   "options": {
+    "A": "During the first few minutes, though onset may occasionally be delayed up to 30 minutes or more",
+    "B": "Only after 2 hours",
+    "C": "Only in the last 30 minutes",
+    "D": "Exclusively after the session ends"
+   },
+   "correct": "A",
+   "explanation": "Type A symptoms usually begin during the first few minutes of dialysis, though onset may occasionally be delayed for up to 30 minutes or more. They do not appear only after 2 hours, only in the last 30 minutes, or exclusively after the session. Severe reactions manifest as anaphylaxis with dyspnea, a sense of impending doom, and warmth at the fistula site; milder cases show itching, urticaria, or coryza. Patients with a history of atopy and/or eosinophilia are prone to these reactions."
+  },
+  {
+   "topic": "Type A ethylene oxide",
+   "question": "Most past type A (anaphylactic) reactions were due to hypersensitivity to which sterilizing agent?",
+   "options": {
+    "A": "Formaldehyde",
+    "B": "Ethylene oxide",
+    "C": "Gamma radiation",
+    "D": "Peracetic acid"
+   },
+   "correct": "B",
+   "explanation": "Most past type A (anaphylactic) reactions were due to hypersensitivity to ethylene oxide, widely used to sterilize dialyzers; it accumulated in the potting compound anchoring the hollow fibers and resisted removal by degassing. These reactions occurred exclusively during first use. Formaldehyde and peracetic acid are not the cited cause, and gamma radiation is an alternative sterilization method rather than an allergen. With gamma, steam, or electron-beam sterilization now common, ethylene oxide reactions are uncommon."
+  },
+  {
+   "topic": "AN69 mechanism",
+   "question": "AN69 membrane-associated anaphylactic reactions occur in patients also taking which drug class, mediated by which system?",
+   "options": {
+    "A": "Beta-blockers; the histamine system",
+    "B": "Calcium channel blockers; the complement system",
+    "C": "ACE inhibitors; the bradykinin system",
+    "D": "Diuretics; a kinin-independent system"
+   },
+   "correct": "C",
+   "explanation": "AN69 membrane-associated anaphylactic reactions occur in patients also taking ACE inhibitors and are mediated by the bradykinin system. The negatively charged AN69 membrane activates bradykinin, and the effect is magnified because ACE inhibitors block bradykinin inactivation; plasma bradykinin levels rise substantially during reactions. Beta-blockers, calcium channel blockers, and diuretics are not implicated, and the mechanism is kinin-dependent, not complement or histamine. The effect should be less pronounced with ARBs than ACE inhibitors."
+  },
+  {
+   "topic": "Contaminated dialysate timing",
+   "question": "Type A reactions from dialysate bacterial/endotoxin contamination versus complement-mediated reactions differ in timing how?",
+   "options": {
+    "A": "Contamination reactions are delayed 15-30 minutes; complement reactions within 2 minutes",
+    "B": "Both occur only after 1 hour",
+    "C": "Both occur exactly at 45 minutes",
+    "D": "Contamination reactions occur promptly within 2 minutes; complement-mediated reactions are delayed 15-30 minutes"
+   },
+   "correct": "D",
+   "explanation": "Reactions from dialysate bacterial or endotoxin contamination occur promptly, within 2 minutes of initiating dialysis, whereas complement-mediated reactions are more delayed at 15-30 minutes. The reversed and fixed-time options are wrong. Fever and chills are particularly common with contamination reactions, and the higher the bacteria and endotoxin levels, the greater the risk, especially with high-flux dialyzers. Recognizing this timing helps distinguish contamination from other type A mechanisms at the bedside."
+  },
+  {
+   "topic": "Heparin allergy",
+   "question": "When a patient seems allergic to many dialyzers regardless of sterilization and dialysate contamination is excluded, an appropriate trial is which of the following?",
+   "options": {
+    "A": "Heparin-free dialysis or citrate anticoagulation",
+    "B": "Substituting low-molecular-weight heparin",
+    "C": "Doubling the heparin dose",
+    "D": "Switching to warfarin during dialysis"
+   },
+   "correct": "A",
+   "explanation": "When a patient appears allergic to many dialyzers regardless of sterilization mode and dialysate contamination has been reasonably excluded, a trial of heparin-free dialysis or citrate anticoagulation should be considered, since heparin can cause urticaria, wheezing, and even anaphylaxis. Low-molecular-weight heparins are NOT a safe substitute owing to cross-reactivity with heparin that may cause anaphylaxis. Doubling heparin or switching to warfarin during dialysis are not appropriate responses to suspected heparin allergy."
+  },
+  {
+   "topic": "Type A management",
+   "question": "The safest immediate management of a suspected type A dialyzer reaction includes which of the following?",
+   "options": {
+    "A": "Return the blood to the patient, then stop dialysis",
+    "B": "Stop dialysis immediately, clamp the lines, and discard the dialyzer and blood without returning it",
+    "C": "Slow the blood flow and continue dialysis",
+    "D": "Increase ultrafiltration to remove the allergen"
+   },
+   "correct": "B",
+   "explanation": "It is safest to stop dialysis immediately, clamp the blood lines, and discard the dialyzer and blood without returning the contained blood to the patient. Returning the blood, merely slowing flow, or increasing ultrafiltration are wrong and could deliver more allergen. Immediate cardiorespiratory support may be required, and according to severity, intravenous antihistamines, steroids, and epinephrine can be given. Identifying the exact cause is frequently impossible, so prompt cessation takes priority."
+  },
+  {
+   "topic": "Type B symptoms",
+   "question": "The principal manifestations of a type B dialyzer reaction, usually beginning 20-40 minutes after starting, are which of the following?",
+   "options": {
+    "A": "Anaphylaxis and cardiac arrest",
+    "B": "Fever and rigors",
+    "C": "Chest pain, sometimes with back pain",
+    "D": "Seizures and coma"
+   },
+   "correct": "C",
+   "explanation": "The principal manifestations of a type B reaction are chest pain, sometimes accompanied by back pain, usually beginning 20-40 minutes after starting dialysis. Anaphylaxis and cardiac arrest describe type A, and fever/rigors and seizures/coma are not type B features. Type B reactions are typically much less severe than type A. The cause is unknown and the diagnosis is one of exclusion; other causes of chest and back pain, particularly subclinical hemolysis and myocardial ischemia, must be ruled out."
+  },
+  {
+   "topic": "Type B management",
+   "question": "Regarding management of a type B dialyzer reaction, which statement is correct?",
+   "options": {
+    "A": "Dialysis must always be terminated and the dialyzer discarded",
+    "B": "Epinephrine is first-line therapy",
+    "C": "The patient requires hospitalization in all cases",
+    "D": "Management is supportive with nasal oxygen, and dialysis can usually be continued as symptoms abate after the first hour"
+   },
+   "correct": "D",
+   "explanation": "Type B management is supportive with nasal oxygen; myocardial ischemia should be considered, and dialysis can usually be continued because symptoms invariably abate after the first hour. It is not necessary to always terminate dialysis and discard the dialyzer, epinephrine is not first-line, and not every patient requires hospitalization. Because the diagnosis is one of exclusion, subclinical hemolysis and angina must be ruled out; trying a different dialyzer membrane may help prevent recurrence."
+  },
+  {
+   "topic": "Hemolysis symptoms",
+   "question": "Which triad of symptoms is characteristic of acute hemolysis during dialysis?",
+   "options": {
+    "A": "Back pain, chest tightness, and shortness of breath",
+    "B": "Fever, chills, and hypertension",
+    "C": "Nausea, headache, and restlessness",
+    "D": "Urticaria, wheezing, and coryza"
+   },
+   "correct": "A",
+   "explanation": "The symptoms of acute hemolysis are back pain, tightness in the chest, and shortness of breath; a dramatic deepening of skin pigmentation may also occur. Fever/chills/hypertension, nausea/headache/restlessness, and urticaria/wheezing/coryza point to other complications. Acute hemolysis during dialysis may be a medical emergency because massive hemolysis releases potassium from erythrocytes, causing hyperkalemia, muscle weakness, ECG abnormalities, and potentially cardiac arrest if not detected early."
+  },
+  {
+   "topic": "Hemolysis signs",
+   "question": "Which finding is a classic visual sign of acute hemolysis in the circuit or a blood sample?",
+   "options": {
+    "A": "Bright green venous blood",
+    "B": "A port-wine appearance of blood in the venous line and pink plasma in centrifuged samples",
+    "C": "Clear, colorless plasma",
+    "D": "Foam in the venous line only"
+   },
+   "correct": "B",
+   "explanation": "Classic visual signs of hemolysis are a port-wine appearance of blood in the venous blood line, a pink discoloration of plasma in centrifuged samples, and a marked fall in the hematocrit. Bright green blood, clear colorless plasma, and foam (which suggests air embolism) are not hemolysis signs. If massive hemolysis is missed, hyperkalemia from potassium released by hemolyzed erythrocytes can cause muscle weakness, ECG abnormalities, and cardiac arrest, so early recognition is critical."
+  },
+  {
+   "topic": "Hemolysis dialysate causes",
+   "question": "Which of the following is a listed dialysis-solution-related cause of hemolysis?",
+   "options": {
+    "A": "Excessively cold dialysate only",
+    "B": "High dialysate bicarbonate",
+    "C": "Overheated or hypotonic dialysate, or contamination with chloramine, copper, or bleach",
+    "D": "Low dialysate glucose"
+   },
+   "correct": "C",
+   "explanation": "Dialysis-solution causes of hemolysis include overheated (excessively hot) dialysate and hypotonic dialysate from an insufficient concentrate-to-water ratio, plus contamination with formaldehyde, bleach, chloramine (from city water), copper (from copper piping), fluoride, nitrates, zinc, or hydrogen peroxide. Cold dialysate alone, high bicarbonate, and low glucose are not listed causes. The other main setting is a blood-line, catheter, or needle obstruction or narrowing, such as a kink causing mechanical hemolysis."
+  },
+  {
+   "topic": "Hemolysis management",
+   "question": "During acute hemolysis, why should the hemolyzed blood in the circuit not be reinfused?",
+   "options": {
+    "A": "It contains air bubbles",
+    "B": "It is too cold",
+    "C": "It contains excess sodium",
+    "D": "It has a very high potassium content"
+   },
+   "correct": "D",
+   "explanation": "The hemolyzed blood in the circuit has a very high potassium content and should not be reinfused, so the blood pump is stopped immediately and the lines clamped. It is not primarily about air, temperature, or sodium. One should anticipate and treat the resultant hyperkalemia and a possible drop in hematocrit; delayed hemolysis of injured erythrocytes may continue after the session, and severe hyperkalemia may require additional dialysis or a cation-exchange resin. Haptoglobin, free hemoglobin, LDH, and methemoglobin should be checked."
+  },
+  {
+   "topic": "Air embolism seated",
+   "question": "In a seated patient, infused air tends to migrate into which location, producing loss of consciousness and convulsions?",
+   "options": {
+    "A": "The cerebral venous system, obstructing cerebral venous return",
+    "B": "The right ventricle, forming foam",
+    "C": "The coronary arteries directly",
+    "D": "The pulmonary veins only"
+   },
+   "correct": "A",
+   "explanation": "In a seated patient, infused air tends to migrate into the cerebral venous system without entering the heart, obstructing cerebral venous return and causing loss of consciousness, convulsions, and even death. It does not go to the right ventricle, coronary arteries, or pulmonary veins in this position. Position therefore determines the presentation. Foam may be seen in the venous blood line, and if air has entered the heart a peculiar churning sound may be heard on auscultation."
+  },
+  {
+   "topic": "Air embolism recumbent",
+   "question": "In a recumbent patient, air entering the circulation tends to do which of the following?",
+   "options": {
+    "A": "Migrate only to the legs",
+    "B": "Enter the heart, generate foam in the right ventricle, and pass into the lungs causing dyspnea, cough, and chest tightness",
+    "C": "Be absorbed harmlessly",
+    "D": "Go directly to the cerebral arteries"
+   },
+   "correct": "B",
+   "explanation": "In a recumbent patient, air enters the heart, generates foam in the right ventricle, and passes into the lungs, producing dyspnea, cough, chest tightness, and arrhythmias. It does not go only to the legs, get absorbed harmlessly, or travel directly to cerebral arteries. Further passage of air across the pulmonary capillary bed into the left ventricle can cause arterial air embolization to the brain and heart with acute neurologic and cardiac dysfunction. Common entry sites include the arterial needle and prepump tubing."
+  },
+  {
+   "topic": "Air embolism management",
+   "question": "Immediate management of air embolism includes clamping the venous line, stopping the pump, and placing the patient in which position?",
+   "options": {
+    "A": "Seated upright",
+    "B": "Prone with legs elevated",
+    "C": "Recumbent on the left side with chest and head tilted downward",
+    "D": "Right lateral with head up"
+   },
+   "correct": "C",
+   "explanation": "Immediate management of air embolism is to clamp the venous blood line, stop the blood pump, and place the patient recumbent on the left side with the chest and head tilted downward. Seated upright, prone, and right-lateral positions are wrong. This left-lateral, head-down position keeps air in the right ventricle away from the outflow tract. Further treatment includes cardiorespiratory support with 100% oxygen by mask or endotracheal tube and, if the air volume warrants, percutaneous aspiration of air from the atrium or ventricle."
+  }
+ ]
+}

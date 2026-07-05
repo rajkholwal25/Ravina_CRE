@@ -1,0 +1,868 @@
+252
+Anticoagulation
+Andrew Davenport, Kar Neng Lai, 
+Joachim Hertel, and Ralph J. Caruana
+ I. BLOOD CLOTTING IN THE EXTRACORPOREAL CIRCUIT . The patient’s 
+blood is exposed to intravenous cannulas, tubing, drip chambers, 
+headers, potting compound, and dialysis membranes during 
+the dialysis procedure. These surfaces exhibit a variable degree 
+of thrombogenicity and may initiate clotting of blood, especially 
+in conjunction with exposure of blood to air in drip chambers. 
+The resulting thrombus formation may be significant enough to 
+cause occlusion and malfunction of the extracorporeal circuit. 
+Clot formation in the extracorporeal circuit begins with activa-
+tion of leukocytes and platelets, leading to surface blebbing and 
+shedding of surface membrane lipid–rich microparticles, which 
+initiate thrombin generation, activation of coagulation cascades, 
+further thrombin formation and fibrin deposition. Factors favoring 
+clotting are listed in Table 14.1.
+A. Assessing coagulation during dialysis
+1. Visual inspection. S igns of extracorporeal circuit clotting are 
+listed in Table 14.2. Visualization of the circuit can be best 
+accomplished by rinsing the system with saline solution 
+while temporarily occluding the blood inlet.
+2. Extracorporeal circuit pressures. A rterial and venous pressure 
+readings may change as a result of clotting in the extracor-
+poreal circuit, depending on the location of thrombus for -
+mation. An advantage of using blood lines with a postpump 
+arterial pressure monitor is that the difference between 
+the postpump and venous pressure readings can serve as 
+an indicator of the location of the clotting. An increased 
+14
+Low blood flow
+High hematocrit
+High ultrafiltration rate
+Dialysis access recirculation
+Intradialytic blood and blood product transfusion
+Intradialytic lipid infusion
+Use of drip chambers (air exposure, foam formation, turbulence)
+Factors Favoring Clotting of the Extracorporeal Circuit
+14.1
+TABLE
+Daugirdas9781451144291-ch014.indd   252 09/10/14   1:14 am
+253Chapter 14 / Anticoagulation
+pressure difference is seen when the clotting is confined to 
+the dialyzer itself (increased postpump pressure, decreased 
+venous pressure). If the clotting is occurring in or distal to 
+the venous blood chamber, then the postpump and venous 
+pressure readings are increased in tandem. If the clotting is 
+extensive, then the rise in pressure readings will be precipi-
+tous. A clotted or malpositioned venous needle also results 
+in increased pressure readings.
+3. Dialyzer appearance after dialysis.  T he presence of a few clot -
+ted fibers is not unusual, and the headers often collect 
+small blood clots or whitish deposits (especially in patients 
+with hyperlipidemia). More significant dialyzer clotting 
+should be recorded by the dialysis staff to serve as a clini-
+cal parameter for adjustment of anticoagulant dosing. It is 
+useful to classify the amount of clotting on the basis of the 
+visually estimated percentage of clotted fibers in order to 
+standardize documentation (e.g., <10% of fibers clotted, 
+grade 1; <50% clotted, grade 2; >50% clotted, grade 3).
+4. Measurement of residual dialyzer volume.  I n units practicing 
+dialyzer reuse, automated or manual methods are used to 
+determine the clotting-associated fiber loss during each 
+treatment. This is done by comparing the predialysis and 
+postdialysis fiber bundle volumes. Dialyzers suitable for re-
+use characteristically have <1% fiber loss over each of the 
+first 5–10 reuses.
+ II. USE OF ANTICOAGULANTS DURING DIALYSIS. W hen no anticoagulant 
+is used, dialyzer clotting rate during a 3- to 4-hour dialysis ses-
+sion is substantial (5–10%), and when this occurs, it results in 
+loss of the dialyzer and blood tubings, plus loss of approximately 
+100–180 mL of blood (the combined fill volume of the dialyzer 
+and blood line in the extracorporeal circuit). This is an accept -
+able risk in many patients judged to be at moderate to high risk 
+of anticoagulant-induced bleeding, because bleeding in such 
+patients may often result in catastrophic consequences, and for 
+such patients anticoagulation-free dialysis (described below) can 
+be appropriately used. However, for the great majority of patients, 
+who are judged not to be at a markedly increased bleeding risk, 
+some form of anticoagulation must be employed. In programs 
+Extremely dark blood
+Shadows or black streaks in the dialyzer
+Foaming with subsequent clot formation in drip chambers and venous trap
+Rapid filling of transducer monitors with blood
+“Teetering” (blood in the postdialyzer venous line segment that is unable to 
+continue into the venous chamber but falls back into the line segment)
+Presence of clots at the inflow dialyzer header
+Signs of Clotting in the Extracorporeal Circuit
+14.2
+TABLE
+Daugirdas9781451144291-ch014.indd   253 09/10/14   1:14 am
+Part II / Blood-Based Therapies
+254
+reusing dialyzers, proper levels of anticoagulation during dialysis 
+are key to obtaining reasonable reuse numbers.
+There is considerable variability among regions of the world, 
+countries, and even dialysis units about what type of anticoagula-
+tion is used during intermittent hemodialysis. Despite a number 
+of promising alternatives, heparin remains the most common 
+anticoagulant used. In the United States, unfractionated heparin 
+is mostly used, whereas in the European Union, low-molecular-
+weight heparin (LMWH) is the anticoagulant of choice recom-
+mended by the European Best Practice Guidelines (2002). A small 
+number of dialysis units anticoagulate the blood circuit using 
+trisodium citrate, and in special circumstances, direct throm-
+bin inhibitors such as argatroban, heparinoids (danaparoid, 
+fondaparinux), prostanoids, and nafamostat maleate may be 
+used as alternative anticoagulants.
+ III. MEASURING BLOOD CLOTTING DURING DIALYSIS.  W hile it is impor -
+tant to understand the principles of how clotting tests can be 
+used to monitor heparin therapy, in the United States, because 
+of economic constraints, the relatively low risk of bleeding com -
+plications from use of heparin during dialysis, and regulatory is -
+sues (the requirement for local laboratory certification), heparin 
+therapy is ordinarily prescribed empirically, without monitoring 
+of coagulation. In patients who are at an elevated risk of bleeding, 
+the need to monitor anticoagulation is often circumvented by us-
+ing heparin-free dialysis.
+When clotting studies are done, blood for clotting studies 
+should be drawn from the arterial blood line, proximal to any hep-
+arin infusion site, to reflect the clotting status of the patient rather 
+than that of the extracorporeal circuit. It is very difficult to obtain 
+baseline clotting studies from a venous catheter that has been 
+locked with heparin, because of problems of residual heparin in 
+the catheter, and this step is rarely attempted (Hemmelder, 2003).
+A. Clotting tests used to monitor heparin therapy
+1. Activated partial thromboplastin time (APTT).  T his is for unfrac -
+tionated heparin monitoring only. This is the most com -
+monly used test in a hospital setting. APTT results vary with 
+individual assays, so many centers report a ratio compared 
+to control (APPTr). Heparin resistance states can be falsely 
+suggested owing to elevated levels of factor VIII. Baseline 
+levels may be prolonged because of lupus anticoagulant 
+(Olson, 1998).
+2. Whole-blood partial thromboplastin time (WBPTT). T his is similar 
+to above, but is a bedside test. The WBPTT test accelerates 
+the clotting process by addition of 0.2 mL of actin FS re-
+agent (Thrombofax) to 0.4 mL of blood. The mixture is set 
+in a heating block at 37°C for 30 seconds and then tilted 
+every 5 seconds until a clot forms. The prolongation of the 
+WBPTT is linearly related to the blood heparin concentra -
+tion (in the range applicable to dialysis). It should not be 
+used to monitor LMWH therapy.
+Daugirdas9781451144291-ch014.indd   254 09/10/14   1:14 am
+255Chapter 14 / Anticoagulation
+3. Activated clotting time (ACT).  T he ACT test is similar to the 
+WBPTT test but uses siliceous earth to accelerate the 
+clotting process. ACT is less reproducible than WBPTT, 
+especially at low blood heparin levels. Devices that auto-
+matically tilt the tube and detect clot formation facilitate 
+standardization and reproducibility of both WBPTT and 
+ACT. It is for unfractionated heparin monitoring only.
+4. Lee–White clotting time (L WCT). T he Lee–White test is per -
+formed by adding 0.4 mL of blood to a glass tube and invert-
+ing the tube every 30 seconds until the blood clots. Usually, 
+the blood is kept at room temperature. Disadvantages of 
+the LWCT test include the long period of time required 
+before clotting occurs, extensive use of technician time re-
+quired, and the relatively poor standardization and repro -
+ducibility of the test. LWCT is the least desirable method of 
+monitoring clotting during hemodialysis. This test is now 
+rarely used.
+5. Activated Factor Xa. F actor Xa can be measured by chromo-
+genic or functional clotting assays. Laboratory assays of 
+anti-Xa activity differ, as some contain exogenous purified 
+antithrombin (AT), and anti-Xa activity measured using 
+these assays may not necessarily correlate with the biologi-
+cal effect (Greeves, 2002). Although unfractionated heparin 
+can be monitored by Xa activity, this is typically reserved 
+for LMWHs and heparinoids, typically aiming for a peak 
+anti-Xa activity of 0.4–0.6 IU/mL, and <0.2 IU/mL at the 
+end or shortly after completion of dialysis.
+6. Factor Xa–activated ACT . T his test has been proposed as a 
+more sensitive test for monitoring anticoagulation during 
+use of LMWH (Frank, 2004), but is not widely used in clini-
+cal practice.
+ I V. ANTICOAGULATION TECHNIQUES
+A. Unfractionated heparin
+1. Mechanisms of action. H eparin changes the conformation of 
+AT, leading to rapid inactivation of coagulation factors, in 
+particular, factor IIa. Unfortunately, heparin does stimulate 
+platelet aggregation and activation, but these undesirable 
+effects are counterbalanced by interference with binding 
+and activation of coagulation factors at the platelet mem -
+brane. Undesired side effects of heparin include pruritus, 
+allergy including anaphylactoid reactions, alopecia, osteo-
+porosis, hyperlipidemia, thrombocytopenia, and excessive 
+bleeding.
+2. T arget clotting times.  H eparin can usually be given liberally 
+during dialysis without fear of precipitating a bleeding epi-
+sode in patients who do not exhibit an abnormal bleeding 
+risk. The effect of two routine heparin regimens on clotting 
+time is shown in Figure 14.1. The goal is to maintain WB-
+PTT or ACT at the baseline value plus 80% during most of 
+the dialysis session (Table 14.3). However, at the end of the 
+Daugirdas9781451144291-ch014.indd   255 09/10/14   1:14 am
+Part II / Blood-Based Therapies
+256
+session, the clotting time should be shorter (baseline plus 
+40% for WBPTT or ACT) to minimize the risk of bleeding 
+from the access site after withdrawal of the access needles.
+The target clotting times using the Lee–White test are 
+also listed in Table 14.3. With LWCT, in contrast to WBPTT or 
+ACT, the target clotting times during dialysis are considerably 
+greater than baseline plus 80%, and the target LWCT values 
+at the end of the session are greater than baseline plus 40%.
+FIGURE 14.1 Effect of various heparin regimens on clotting time as reflected by the 
+WBPTT. Clotting time (CT) using the WBPTT test. A: Routine regimen, repeated-bolus 
+method. B: Routine regimen, constant-infusion method. C: Tight regimen, constant-
+infusion method.
+WBPTT
+(s)
+260
+220
+180
+140
+120
+100
+80
+01 23 4
+Initial
+bolus
+Constant
+infusion
+Stop
+infusion
+Repeat
+bolus
+Target CT : Routine Rx
+Target CT : Tight Rx
+Baseline CT
+Dialysis time (hours)
+A
+B
+C
+Routine Heparin Tight Heparin
+Desired Range Desired Range
+Test Reagent
+Baseline 
+Value
+During 
+Dialysis
+At End  
+of Dialysis
+During 
+Dialysis
+At End  
+of Dialysis
+APPTr 1.0 2.0–2.5 1.5–2.0 1.5–2.0 1.5–2.0
+WBPTT Actin FS 60–85 s +80% +40% +40% +40%
+(120–140) (85–105) (85–105) (85–105)
+ACTa Siliceous 
+earth
+120–150 s +80% +40% +40% +40%
+(200–250) (170–190) (170–190) (170–190)
+LWCTb None 4–8 min 20–30 9–16 9–16 9–16
+ACT, activated clotting time; LWCT, Lee–White clotting time.
+a There are various methods of performing the ACT, and the baseline value with some methods is 
+much lower (e.g., 90–120 sec).
+b Baseline values of the LWCT vary greatly, depending on how the test is performed.
+Target Clotting Times During Dialysis
+14.3
+TABLE
+Daugirdas9781451144291-ch014.indd   256 09/10/14   1:14 am
+257Chapter 14 / Anticoagulation
+3. Routine heparin prescriptions. T here are two basic techniques 
+of administering routine heparin. In one method, a heparin 
+bolus is followed by a constant heparin infusion. In the sec-
+ond, a heparin bolus is followed by repeated bolus doses as 
+necessary. For the purpose of discussion, we present a typi-
+cal prescription in each category.
+Rx: Routine heparin, constant-infusion method
+Administer the initial bolus dose (e.g., 2,000 units). The 
+initial heparin dose is best administered to the patient via 
+the venous access tubing and flushed in with saline (rather 
+than being infused into the arterial blood line). Introduc-
+ing heparin into the arterial blood line means that incom -
+ing nonheparinized blood will need to be pumped through 
+the dialyzer until the loading dose has had time to pass 
+through the extracorporeal circuit to anticoagulate blood 
+in the body. Wait 3–5 minutes to allow heparin dispersion 
+before initiating dialysis.
+Start heparin infusion into the arterial blood line (e.g., 
+at a rate of 1,200 units per hour).
+Rx: Routine heparin, single-dose-only or repeated-bolus method
+Administer the initial bolus dose (e.g., 4,000 units).
+Then give an additional 1,000- to 2,000-unit bolus dose 
+if necessary.
+The prescriptions used in the United States, however, 
+vary quite widely. Those centers that reuse dialyzers tend to 
+use more heparin in order to maximize reuse number. Some 
+centers give only a single initial dose (e.g., 2,000 units) of hep-
+arin, with no subsequent infusion or boluses. Some centers 
+give a fairly large (75–100 units/kg) initial bolus dose fol-
+lowed by a 500- to 750-unit-per-hour infusion. At this point 
+in time, there has been little research to convincingly demon-
+strate an optimal method of heparin dosing (Brunet, 2008).
+a. Effect of body weight on the size of the heparin dose.  Although 
+in a population pharmacokinetic study the volume of 
+distribution of heparin has been found to increase as 
+body weight rises (Smith, 1998), many dialysis centers do 
+not regularly adjust heparin dosage in accordance with 
+body weights ranging between 50 and 90 kg. Some cen-
+ters do adjust both the loading and maintenance doses 
+according to body weight.
+b. Effect of prescription of oral anticoagulants on the size of the hep-
+arin dose. I ncreasing numbers of elderly patients are pre-
+scribed coumarin oral anticoagulants, and newer oral 
+anti-Xa inhibitors (apixaban, rivaroxaban) and direct 
+thrombin inhibitors (dabigatran) are entering medical 
+practice. These newer agents are predominantly renally 
+excreted, and as such are likely to accumulate in dialysis 
+patients and thus increase the risk of bleeding. Most pa-
+tients on coumarin anticoagulants with an INR of <2.5 
+still require anticoagulation for dialysis, but those with 
+metallic heart valves who have INR values >3.0 typically 
+Daugirdas9781451144291-ch014.indd   257 09/10/14   1:14 am
+Part II / Blood-Based Therapies
+258
+do not require heparin. Similarly, patients prescribed as-
+pirin and other antiplatelet agents also require standard 
+heparin dosages, but heparin doses should be reduced 
+or withheld in patients with thrombocytopenia (<50,000  
+× 10 6/L). There is little clinical data currently on the 
+newer generations of oral anticoagulants, but caution is 
+advised, particularly with the direct thrombin and anti-
+Xa inhibitors.
+c. When to terminate the heparin infusion.  T he heparin half-life in 
+dialysis patients averages 50 minutes but ranges from 30 
+minutes to 2 hours. For a patient with an average heparin 
+half-life of 1 hour, if the heparin infusion during dialysis 
+is prolonging WBPTT or ACT to the required baseline-
+plus-80% value, stopping heparin infusion approximately 
+1 hour prior to the end of dialysis will result in the desired 
+WBPTT or ACT value of baseline plus 40% at termination 
+of the session. With venous catheters, heparin infusions 
+are commonly continued right up to the end of dialysis.
+d. Posttherapy needle puncture site bleeding.  W hen this oc -
+curs, in addition to reevaluation of the heparin dose, the 
+vascular access (graft or fistula) should be evaluated for 
+the presence of outflow stenosis, as the increased intra-
+access pressure may be predisposing to posttreatment 
+bleeding. There should also be an evaluation of needle 
+insertion technique. Poor technique and failure to rotate 
+puncture sites can lead to shredding of the wall of a graft 
+so that it leaks following needle removal no matter how 
+well anticoagulation is controlled.
+4. Evaluation of clotting during routine heparinization.  A small 
+incidence of inadvertent clotting of the extracorporeal 
+system is expected and generally does not necessitate a 
+change in heparin prescription. When clotting occurs, it 
+is useful to evaluate the likely cause. Often, the underlying 
+cause may be correctable (e.g., access revision). Operator-
+induced errors, as listed in Table 14.4, must be considered 
+and managed through education. Recurrent clotting war -
+rants individual reevaluation and adjustments in heparin 
+dosing.
+5. Bleeding complications of routine heparinization.  T he risk of 
+increased bleeding due to systemic anticoagulation is 
+25–50% in high-risk patients with bleeding gastrointestinal 
+lesions (gastritis, peptic ulcer, angiodysplasia), recent sur -
+gery, pericarditis, or thrombocytopenia. De novo bleeding 
+can involve the central nervous system, retroperitoneum, 
+and mediastinum. The tendency to bleed is potentiated by 
+uremia-associated defects in platelet function and possibly 
+by endothelial abnormalities.
+B. T ight heparin
+1. General comments.  T ight heparinization schemes are rec -
+ommended for patients who are at slight risk for bleeding, 
+when the risk of bleeding is chronic and prolonged, and 
+Daugirdas9781451144291-ch014.indd   258 09/10/14   1:14 am
+259Chapter 14 / Anticoagulation
+where use of heparin-free dialysis has been unsuccessful 
+because of frequent clotting. When using WBPTT or ACT 
+to monitor therapy, the target clotting time (see Table 14.3 
+and curve C in Fig. 14.1) is equal to the baseline value plus 
+40%. Target clotting times using the Lee–White method are 
+given in Table 14.3. If the baseline WBPTT or ACT value is 
+>140% of the average baseline value for patients in the di-
+alysis unit, it is best not to use heparin and to proceed with 
+a heparin-free or regional citrate technique.
+2. The tight heparin prescription. A bolus dose followed by 
+a constant infusion of heparin is the best technique for ad-
+ministering a tight heparin prescription because constant 
+infusion avoids the rising and falling clotting times that 
+are inevitable with repeated-bolus therapy. A typical tight 
+heparin prescription is as follows:
+Rx: Tight heparin, constant-infusion method
+Obtain baseline clotting time (WBPTT or ACT).
+Initial bolus dose = 750 units.
+Recheck WBPTT or ACT after 3 minutes.
+Administer a supplemental bolus dose if needed to 
+prolong WBPTT or ACT to a value of baseline plus 40%.
+Start dialysis and heparin infusion at a rate of 600 
+units per hour.
+Monitor clotting times every 30 minutes.
+Adjust the heparin infusion rate to keep WBPTT or 
+ACT at baseline plus 40%.
+Continue heparin infusion until the end of the dialysis 
+session.
+C. Heparin-associated complications.  A part from bleeding, compli -
+cations of note are increase in blood lipids, thrombocytopenia, 
+Dialyzer Priming
+Retained air in dialyzer (due to inadequate priming or poor priming technique)
+Inadequate priming of heparin infusion line
+Heparin Administration
+Incorrect heparin pump flow rate setting
+Incorrect loading dose
+Delayed starting of heparin pump
+Failure to release heparin line clamp
+Insufficient time delay after loading dose for systemic heparinization to occur
+Dialysis Circuit
+Kinking of dialyzer outlet blood line
+Vascular Access
+Inadequate blood flow due to needle/catheter positioning or clotting
+Excessive access recirculation due to needle/tourniquet position
+Frequent interruption of blood flow due to machine alarms
+Technical or Operator-induced Factors That May  
+Result in Clotting14.4
+TABLE
+Daugirdas9781451144291-ch014.indd   259 09/10/14   1:14 am
+Part II / Blood-Based Therapies
+260
+and the potential for hypoaldosteronism and exacerbation of 
+hyperkalemia, especially in patients with substantial residual 
+renal function. Some patients may complain of alopecia.
+1. Lipids. H eparin activates lipoprotein lipase, and in this way 
+can increase the serum triglyceride concentration. Lower 
+levels of high-density lipoprotein (HDL) cholesterol are  
+associated with higher doses of heparin.
+2. Heparin-induced thrombocytopenia.  T here are two types of 
+heparin-induced thrombocytopenia (HIT). In type 1 HIT, 
+the reduction in platelet count occurs in a time- and dose-
+dependent manner and responds to reduction in heparin 
+dose. In type 2 HIT, there is agglutination of platelets and 
+paradoxical arterial and/or venous thrombosis. Type 2 HIT, 
+which is attributable to the development of immunoglob -
+ulin G (IgG) or IgM antibodies against heparin–platelet 
+factor 4 complex, is more commonly induced with bovine 
+versus porcine unfractionated heparin, and least with 
+LMWHs. Given the frequency of HIT in the nondialysis 
+population, it is surprising that it is not encountered more 
+often in a dialysis setting. Diagnosis of type 2 HIT is a clini-
+cal diagnosis supported by a positive enzyme-linked im-
+munosorbent assay (ELISA) using bound platelet factor 4 
+complexed with heparin in combination with an abnormal 
+platelet aggregation test.
+LMWH should not be used to treat HIT, because there 
+often is cross-reactivity of the heparin–platelet factor 4 
+antibodies with these drugs. The alternative anticoagu-
+lants of choice include the direct thrombin inhibitor arg-
+atroban (Tang, 2005) and the heparinoids danaparoid, and 
+fondaparinux (Haase, 2005). Warfarin should only be intro-
+duced once the platelet count has recovered to >150,000 
+× 10 6/L, as it may lead to skin necrosis and venous limb 
+gangrene if given in the acute phase of the disease (Srini-
+vasan, 2004).
+3. Pruritus. H eparin can cause local itching when injected 
+subcutaneously, and it has been speculated that heparin 
+may be the cause of itching and other allergic reactions 
+during dialysis. On the other hand, LMWH has been used 
+to treat the itching associated with lichen planus, on the 
+basis of inhibition of T-lymphocyte heparinase activ-
+ity (  Hodak, 1998). There is no evidence that removal of 
+heparin from the extracorporeal circuit reliably improves 
+ uremic pruritus.
+4. Anaphylactoid reactions. S ee Chapter 12.
+5. Hyperkalemia. H eparin-associated hyperkalemia, attributable 
+to heparin-induced suppression of aldosterone synthesis, 
+has been well described. In oliguric dialysis patients, it has 
+been speculated that aldosterone might still aid potassium 
+excretion via a gastrointestinal mechanism (Hottelart, 1998).
+6. Osteoporosis. L ong-term administration of heparin can 
+cause osteoporosis.
+Daugirdas9781451144291-ch014.indd   260 09/10/14   1:14 am
+261Chapter 14 / Anticoagulation
+D. Heparin-free dialysis
+1. General comments. H eparin-free dialysis is the method of 
+choice in patients who are actively bleeding, who are at 
+moderate to high risk of bleeding, or in whom the use of 
+heparin is contraindicated (e.g., persons with heparin al-
+lergy). The indications for heparin-free dialysis are listed 
+in Table  14.5. Because of its simplicity and safety, many 
+centers now use heparin-free dialysis routinely for most 
+dialysis treatments being given in an intensive care unit 
+setting. Careful priming to minimize blood–air interfaces 
+is important in preventing clotting in the extracorporeal 
+circuit. The dialysis circuitry should be chosen to mini-
+mize the length of tubing, avoiding areas of stagnation 
+and turbulence due to changes in internal lumen diam-
+eter, and three-way connectors. Platelet activation is re-
+duced by cooling the dialysate.
+2. The heparin-free prescription.  T here are a variety of tech-
+niques, but all are similar to the one given below.
+Rx: Heparin-free dialysis
+a. Heparin rinse. (T his step is optional. Avoid if heparin-
+associated thrombocytopenia is present.) Rinse ex -
+tracorporeal circuit with saline containing 3,000 units 
+of heparin/L so that heparin can coat extracorporeal 
+surfaces and the dialyzer membrane to mitigate the 
+thrombogenic response. To prevent systemic heparin 
+administration to the patient, allow the heparin-con-
+taining priming fluid to drain by filling the extra -
+corporeal circuit with either the patient’s blood or 
+unheparinized saline at the outset of dialysis.
+b. Relatively high blood flow rate.  S et the blood flow rate 
+to 300–400 mL/min if tolerated. If a high blood flow 
+rate is contraindicated owing to the risk of disequilib-
+rium (e.g., small patient, very high predialysis plasma 
+urea level), consider giving ultrashort (e.g. 1-hour) 
+periods of dialysis interspersed with periods of iso -
+lated ultrafiltration. In addition, one can consider us -
+ing a small-surface-area dialyzer and/or slowing the 
+Pericarditis
+Recent surgery, with bleeding complications or risk, especially:
+Vascular and cardiac surgery
+Eye surgery (retinal and cataract)
+Renal transplant
+Brain surgery
+Parathyroid surgery
+Coagulopathy
+Thrombocytopenia
+Intracerebral hemorrhage
+Active bleeding
+Routine use for dialysis of acutely ill patients by many centers
+Anticoagulation Strategy: Indications for Heparin-free 
+Dialysis14.5
+TABLE
+Daugirdas9781451144291-ch014.indd   261 09/10/14   1:14 am
+Part II / Blood-Based Therapies
+262
+dialysate flow rate. Generally, double-lumen hemodi -
+alysis catheters deliver sufficiently high blood flows 
+for  heparin-free dialysis be effective.
+c. Periodic saline rinse. The utility of this step is controver-
+sial; one recent study suggested that use of a saline rinse 
+may actually promote clotting (perhaps via introduc-
+tion of microbubbles into the circuit) (Sagedal, 2006). 
+The purpose of the periodic rinsing is to allow inspec-
+tion of a hollow-fiber dialyzer for evidence of clotting 
+and to allow for timely discontinuation of treatment or 
+changing of the dialyzer. Also, periodic saline rinsing is 
+believed by some to reduce the propensity for dialyzer 
+clotting or interfere with clot formation.
+Procedure: Rinse the dialyzer rapidly with 250 mL 
+of saline while occluding the blood inlet line every 
+15 minutes. The frequency of the flushes can be in-
+creased or decreased as needed. The use of volumet -
+ric control is desirable for the accurate removal of 
+volumes of ultrafiltrate equal to those of the adminis-
+tered saline rinses.
+d. Dialyzer membrane materials.  H eparin is a very nega-
+tively charged molecule that can adsorb to the dialyzer 
+surface, and this has been used to develop heparin-
+coated dialyzer membranes, which have been  reported 
+to allow heparin-free or heparin-  reduced  dialysis 
+( Evenepoel, 2007). 
+e. Dialyzer surface area. L arge-surface-area dialyzers theo-
+retically are associated with a higher clotting risk, 
+especially if there is slower flow in the outer fibers; 
+smaller-surface-area dialyzers are designed to provide 
+faster flow in the outer capillary fibers and are preferred.
+f. Ultrafiltration and hemodiafiltration.  A  very high ultrafil -
+tration rate leads to hemoconcentration and increases 
+the risk of platelet–dialyzer membrane interactions 
+and clot deposition on the dialyzer surface.
+g. Blood product transfusion or lipid administration.  Adminis-
+tration via the inlet blood line has been reported to 
+increase clotting risk during dialysis.
+E. Bicarbonate dialysis solution with low-concentration citrate 
+(Citrasate™). A s mall amount of citric acid is used instead of 
+acetic acid as the acidifying agent. When the acid and base 
+concentrates are mixed, the resulting dialysis solution com -
+monly contains 0.8 mmol/L (2.4 mEq/L) citrate. This small 
+amount of citrate, by complexing with calcium, has been sug-
+gested to inhibit blood coagulation and platelet activation lo-
+cally at the dialyzer membrane surface, resulting in improved 
+dialyzer clearance and increased dialyzer reusability (Ahmad, 
+2005). This type of dialysis solution can be used with a reduced 
+dose of heparin, or as part of a heparin-free dialysis technique, 
+with a reduced incidence of dialyzer clotting. The amount of 
+citrate used is low enough such that monitoring of ionized cal-
+cium is not required.
+Daugirdas9781451144291-ch014.indd   262 09/10/14   1:14 am
+263Chapter 14 / Anticoagulation
+ V. OTHER ANTICOAGULATION TECHNIQUES
+A. LMWH. L MWH fractions (molecular weight = 4,000–6,000 Da) 
+are obtained by chemical degradation, enzymatic digestion, 
+or sieving of crude heparin (molecular weight = 2,000–25,000 
+Da). LMWHs inhibit factor Xa, factor XIIa, and kallikrein, but 
+cause so little inhibition of thrombin and factors IX and XI that 
+partial thromboplastin time and thrombin time are raised by 
+only 35% during the first hour, and are minimally prolonged 
+thereafter, decreasing bleeding risk.
+Hemodialysis using LMWHs as the sole anticoagulant has 
+been shown in long-term studies to be safe and effective. LM-
+WH’s longer half-life permits anticoagulation with a single dose 
+at the start of dialysis, though split dosing may be better for ex-
+tended dialysis sessions. Compared with unfractionated hepa-
+rin, LMWHs have higher bioavailability, with less nonspecific 
+binding to the endothelium, plasma proteins, and platelets. As 
+such, LMWHs have a more rapid onset of action and cause less 
+platelet and leukocyte activation (Aggarwal, 2004) and fibrin 
+deposition on dialyzer surfaces than unfractionated heparin. 
+As LMWHs are smaller molecules, some of the bolus dose may 
+be lost when injected upstream to the dialyzer, particularly 
+during hemodiafiltration treatments (Sombolos, 2009).
+LMWHs are now commercially available in the United 
+States, but are not widely used there for hemodialysis because 
+of greater expense and regulatory issues. The dose of LMWH 
+is  generally expressed in anti–factor Xa Institute Choay units 
+(aXaICU). A series of LMWHs are available: they differ in 
+ molecular weight (MW), half-life, and relative anti-Xa to IIa 
+ activity. The characteristics of commonly available LMWHs 
+and usual starting doses are given in Table 14.6. Lower  dosages 
+should be used in patients who have a mildly increased risk 
+of  hemorrhage.  Coagulation tests are not routinely moni -
+tored with LMWH treatments, because anti-Xa activity assays 
+are not readily available. A bedside anti-Xa assay has shown 
+promising results to assess tinzaparin anticoagulation levels 
+in one preliminary study (Pauwels, 2014). Potential benefits 
+of LMWH, as discussed above, include ease of administration 
+Name
+Molecular 
+Weight (Da)
+Anti-Xa/IIa 
+ Activity Ratio
+Average Dialysis 
+Bolus Dose
+Dalteparin 6,000 2.7 5,000 IU
+Nadroparin 4,200 3.6 70 IU/kg
+Reviparin 4,000 3.5 85 IU/kg
+Tinzaparin 4,500 1.9 1,500−3,500 IU
+Enoxaparin 4,200 3.8 0.5−0.8 mg/kg
+Commonly Used LMWH Compounds
+14.6
+TABLE
+Daugirdas9781451144291-ch014.indd   263 09/10/14   1:14 am
+Part II / Blood-Based Therapies
+264
+and more predictable effects, and LMWH may reduce the risk 
+of heparin-induced osteoporosis  associated with long-term 
+unfractionated heparin administration (Lai, 2001). The Euro-
+pean Best Practice Guidelines recommend use of LMWH over 
+unfractionated  heparin.
+1. Anaphylactic reactions to bolus low-molecular -weight heparin.   
+The so-called first-use syndrome (Chapter 12) has been re-
+ported not only with unfractionated heparin but also with 
+LMWH. When reactions occur, patients seem to react to 
+all types of heparin. Because heparins are very negatively 
+charged, bradykinin and anaphylatoxins (C3a and C5a) 
+can be generated as heparinized blood passes through the 
+dialyzer, leading to hypotension (Kishimoto, 2008), which 
+may explain the case report of an apparently heparin-aller-
+gic patient who could be dialyzed when the heparin was 
+infused using a constant-infusion method but not when a 
+bolus dose was given (De Vos, 2000).
+2. Bleeding complications. I n chronic kidney disease patients 
+being treated with LMWH who are also receiving clopi-
+dogrel and aspirin, bleeding complications have been re -
+ported (Farooq, 2004).
+B. Heparinoids (danaparoid and fondaparinux). D anaparoid is a mixture 
+of 84% heparin, 12% dermatan, and 4% chondroitin sulfates. 
+ Danaparoid affects predominantly factor Xa and therefore has 
+to be monitored with anti-Xa assays. The half-life is prolonged 
+in renal failure such that monitoring is sometimes used to 
+check anti-Xa activity prior to the succeeding dialysis session. In 
+ patients >55 kg, a 750-IU loading dose is recommended, while 
+the loading dose can be 500 IU in patients weighing 55 kg or less. 
+Subsequent doses are titrated to achieve an anti-Xa activity of 
+0.4–0.6 post bolus. Danaparoid may cross-react with HIT anti-
+bodies in up to 10% of cases. More recently, a series of synthetic 
+pentasaccharides, such as fondaparinux, have been developed, 
+which do not cross-react with HIT antibodies. A typical predialy-
+sis dose is 2.5–5.0 mg. Fondaparinux also has an extended half-
+life. Anti-Xa monitoring is designed to prevent accumulation 
+of heparinoids, aiming for a predialysis anti-Xa of ≤0.2 IU/mL. 
+Hemodiafiltration will increase losses of both danaparoid and 
+fondiparinux, and higher dosages may be required.
+C. Regional (high-concentration) citrate anticoagulation. A n alternative 
+to heparin-free dialysis is to anticoagulate the blood in the 
+extracorporeal circuit by lowering its ionized calcium concen-
+tration (calcium is required for the coagulation process). The 
+extracorporeal blood-ionized calcium level is lowered by infus-
+ing trisodium citrate (which complexes calcium) into the arte-
+rial blood line and by using a dialysis solution containing no 
+calcium. To prevent the return of blood with a very low ionized 
+calcium concentration to the patient, the process is reversed 
+by infusion of calcium chloride into the dialyzer blood outlet 
+line. About one-third of the infused citrate is dialyzed away 
+and the remaining two-thirds are quickly metabolized by the 
+Daugirdas9781451144291-ch014.indd   264 09/10/14   1:14 am
+265Chapter 14 / Anticoagulation
+patient. The advantages of regional citrate anticoagulation over 
+heparin-free dialysis are (a) the blood flow rate does not have 
+to be high and (b) clotting rarely occurs. The principal disad-
+vantages are the requirement for two infusions (one of citrate 
+and one of calcium) and the requirement for  monitoring the 
+ plasma-ionized calcium level. Because sodium citrate metab-
+olism generates bicarbonate, use of this method results in a 
+greater-than-usual increment in the plasma bicarbonate value. 
+Hence, regional citrate anticoagulation should be used with 
+caution in patients who are at risk for alkalemia. When citrate 
+anticoagulation is to be used on a long-term basis, the dialysis 
+solution bicarbonate level should be reduced (e.g., to 25 mM) 
+if metabolic alkalosis is to be avoided (van der Meulen, 1992). 
+This technique is not widely used for intermittent hemodialysis 
+but is more popular for the continuous forms of dialysis ther -
+apy. One theoretical advantage of citrate anticoagulation is the 
+prevention of platelet activation/degranulation (Gritters, 2006).
+D. Thrombin inhibitors.  A rgatroban, a synthetic peptide derived 
+from arginine, acts as a direct thrombin inhibitor. It is primar-
+ily metabolized in the liver. Argatroban is licensed for treat -
+ing patients with HIT. For hemodialysis, one can give an initial 
+bolus of 250 mcg/kg followed by an infusion starting at 2 mcg/
+kg/min, or 6–15 mg/hour (Murray 2004), titrated to achieve 
+an APPTr of 2.0–2.5. As with heparin, the infusion should be 
+stopped 20–30 minutes prior to the end of the dialysis session 
+to prevent excessive bleeding from fistula needle sites. Arg-
+atroban is not significantly cleared during high-flux hemodial-
+ysis or hemodiafiltration owing to protein binding, but much 
+lower doses are required for those with liver disease (Grein-
+achre 2008). A related drug, melagatran, has been used for an-
+ticoagulation when added to the dialysate, but this treatment 
+remains experimental (Flanigan, 2005).
+Lepirudin is a recombinant irreversible thrombin inhibi -
+tor, which is renally cleared and has a prolonged biological 
+half-life in dialysis patients. The loading dose for intermittent 
+hemodialysis ranges from 0.2–0.5 mg/kg (5–30 mg). Lepirudin 
+is cleared during hemodiafiltration and with most high-flux dia-
+lyzers (Benz, 2007). Hirudin antibodies have been reported to 
+develop in approximately one-third of patients, potentiating the 
+anticoagulant effect. Dose adjustments are made to the bolus 
+dose by measuring the APPTr prior to the subsequent dialysis, 
+aiming for an APPTr <1.5 to prevent accumulation, but as the 
+APTTr does not correlate with plasma lepirudin concentration, 
+lepirudin assays have now been developed, targeting a thera-
+peutic range of 0.5–0.8 mcg/mL. Bleeding is a major risk, and 
+there is no simple antidote, so fresh frozen plasma or factor VIIa 
+concentrates may be required. Lepirudin many occasionally 
+cause anaphylactoid reactions. Bivalirudin is a reversible direct 
+thrombin inhibitor that has a much shorter half-life than lepiru-
+din. A typical infusion rate is 1.0–2.5 mg/hour (0.009–0.023 mg/
+kg/hour) adjusted to achieve a target APPTr of around 1.5–2.0.
+Daugirdas9781451144291-ch014.indd   265 09/10/14   1:14 am
+Part II / Blood-Based Therapies
+266
+E. Prostanoids. P rostacyclin (PGI2) and its analog epoprostenol 
+are potent antiplatelet agents that block cAMP . They can be 
+used as regional anticoagulants in patients at risk of bleeding. 
+Although PGI2 is a potent vasodilator, the risk of hypotension 
+can be reduced by starting a systemic infusion at 0.5 ng/kg/
+min, and steadily increasing to 5 ng/kg/min, and then switch-
+ing the infusion into the dialysis circuit once dialysis starts, as 
+around 40% of the dose is lost into the dialysate. The half-life 
+is very short, and hypotensive episodes can usually be rapidly 
+reversed by stopping the infusion.
+F. Nafamostat maleate. N afamostat mesilate is a protease inhibitor 
+with a short half-life that can be used as a regional anticoagu-
+lant. Most experience comes from Japan, using an initial bo-
+lus dose of 20 mg, followed by an infusion starting at 40 mg/
+hour, adjusted to maintain a target APPTr of 1.5–2.0, or ACT of 
+140–180 seconds.
+References and Suggested References
+Aggarwal A. Attenuation of platelet reactivity by enoxaparin compared with unfrac-
+tionated heparin in patients undergoing haemodialysis. Nephrol Dial Transplant. 
+2004;19:1559–1563.
+Ahmad S, et al. Increased dialyzer reuse with citrate dialysate. Hemodial Int. 2005;9:264.
+Apsner R, et al. Citrate for long-term hemodialysis: prospective study of 1,009 consecu-
+tive high-flux treatments in 59 patients. Am J Kidney Dis. 2005;45:557.
+Benz K, et al. Hemofiltration of recombinant hirudin by different hemodialyzer 
+ membranes, implications for clinical use. Clin J Am Soc Nephrol. 2007;2:470–476.
+Brunet P , et al. Pharmacodynamics of unfractionated heparin during and after a 
+ haemodialysis session. Am J Kidney Dis. 2008;51:789–795.
+Caruana RJ, et al. Heparin-free dialysis: comparative data and results in high-risk 
+ patients. Kidney Int. 1987;31:1351.
+De Vos JY, Marzoughi H, Hombrouckx R. Heparinisation in chronic haemodialysis 
+treatment: bolus injection or continuous homogeneous infusion? EDTNA ERCA J. 
+2000;26(1):20–21.
+European Best Practice Guidelines. V .1–V .5 Hemodialysis and prevention of system 
+clotting (V .1 and V .2); prevention of clotting in the HD patient with elevated 
+ bleeding risk (V .3); heparin-induced thrombocytopenia (V .4); and side effects of 
+heparin (V .5). Nephrol Dial Transplant. 2002;17(suppl 7):63.
+Evenepoel P , et al. Heparin-coated polyacrylonitrile membrane versus regional citrate 
+anticoagulation: a prospective randomized study of 2 anticoagulation strategies 
+in patients at risk of bleeding. Am J Kidney Dis. 2007;49:642–649.
+Farooq V , et al. Serious adverse incidents with the usage of low molecular weight 
+ heparins in patients with chronic kidney disease. Am J Kidney Dis. 2004;43:531.
+Flanigan MJ. Melagatran anticoagulation during haemodialysis—’Primum non nocere. ’ 
+Nephrol Dial Transplant. 2005;20:1789.
+Frank RD, et al. Factor Xa-activated whole blood clotting time (Xa-ACT) for bedside 
+monitoring of dalteparin anticoagulation during haemodialysis. Nephrol Dial 
+Transplant. 2004;19:1552.
+Gotch FA, et al. Care of the patient on hemodialysis. In: Cogan MG, Garovoy MR, (eds). 
+Introduction to Dialysis, 2nd ed. New York, NY: Churchill Livingstone; 1991.
+Gouin-Thibault I, et al. Safety profile of different low-molecular weight heparins used 
+at therapeutic dose. Drug Saf. 2005;28:333.
+Greaves M. Control of anticoagulation subcommittee of the scientific and 
+ standardization committee of the International Society of Thrombosis and 
+ Haemostasis : limitations of the laboratory monitoring of heparin therapy. 
+ Scientific and standardization committee communications on behalf of the 
+control of anticoagulation subcommittee of the scientific and standardization 
+committee of the International Society of Thrombosis and Haemostasis. Thromb 
+Haemost. 2002;87:163–164.
+Daugirdas9781451144291-ch014.indd   266 09/10/14   1:14 am
+267Chapter 14 / Anticoagulation
+Greinacher A, Warkentin TE. The direct thrombin inhibitor hirudin. Thromb Haemost. 
+2008;99:819–829.
+Gritters M, et al. Citrate anticoagulation abolishes degranulation of polymorpho-
+nuclear cells and platelets and reduces oxidative stress during haemodialysis. 
+Nephrol Dial Transplant. 2006;21:153.
+Haase M, et al. Use of fondaparinux (ARIXTRA) in a dialysis patient with symptomatic 
+heparin-induced thrombocytopaenia type II. Nephrol Dial Transplant. 2005;20:444.
+Handschin AE, et al. Effect of low molecular weight heparin (dalteparin) and 
+fondaparinux (Arixtra) on human osteoblasts in vitro. Br J Surg. 2005;92:177.
+Hemmelder MH, et al. Heparin lock in hemodialysis catheters adversely affects clot-
+ting times: a comparison of three catheter sampling methods [Abstract]. J Am Soc 
+Nephrol. 2003;14:729A.
+Ho G, et al. Use of fondaparinux for circuit patency in hemodialysis patients. Am J 
+Kidney Dis. 2013;61:525–526.
+Hodak E, et al. Low-dose low-molecular-weight heparin (enoxaparin) is beneficial in 
+lichen planus: a preliminary report. J Am Acad Dermatol. 1998;38:564.
+Hottelart C. Heparin-induced hyperkalemia in chronic hemodialysis patients: com-
+parison of low molecular weight and unfractionated heparin. Artif Organs.  
+1998;22:614–617.
+Kishimoto TK, et al. Contaminated heparin associated with adverse clinical events and 
+activation of the contact system. N Engl J Med. 2008;358:2457–2467.
+Krummel T, et al. Haemodialysis in patients treated with oral anticoagulant: should we 
+heparinize? Nephrol Dial Transplant. 2014;29:906–913.
+Lai KN, et al. Effect of low molecular weight heparin on bone metabolism and hyper -
+lipidemia in patients on maintenance hemodialysis. Int J Artif Organs. 2001;24:447.
+Lim W , et al. Safety and efficacy of low molecular weight heparins for hemodialysis in 
+patients with end-stage renal failure: a meta-analysis of randomized trials. J Am 
+Soc Nephrol. 2004;15:3192.
+McGill RL, et al. Clinical consequences of heparin-free hemodialysis. Hemodial Int. 
+2005;9:393.
+Molino D, et al. In uremia, plasma levels of anti-protein C and anti-protein S antibodies 
+are associated with thrombosis. Kidney Int. 2005;68:1223.
+Murray PT, et al. A prospective comparison of three argatroban treatment regimens 
+during hemodialysis in end-stage renal disease. Kidney Int. 2004;66:2446.
+Olson JD, et al. College of American Pathologists Conference XXXI on laboratory moni-
+toring of anticoagulant therapy: laboratory monitoring of unfractionated heparin 
+therapy. Arch Pathol Lab Med. 1998;122:782–798.
+Ouseph R, et al. Improved dialyzer reuse after use of a population pharmacodynamic 
+model to determine heparin doses. Am J Kidney Dis. 2000;35:89.
+Pauwels R, et al. Bedside monitoring of anticoagulation in chronic haemodialysis pa-
+tients treated with tinzaparin. Nephrol Dial Transplant. 2014;29:1092–1096.
+Sagedal S, et al. Intermittent saline flushes during haemodialysis do not alleviate coag-
+ulation and clot formation in stable patients receiving reduced doses of dalteparin. 
+Nephrol Dial Transplant. 2006;21:444.
+Schwab SJ, et al. Hemodialysis without anticoagulation: one year prospective trial in 
+hospitalized patients at risk for bleeding. Am J Med. 1987;83:405.
+Smith BP , et al. Prediction of anticoagulation during hemodialysis by population kinet-
+ics in an artificial neural network. Artif Organs. 1998;22:731.
+Sombolos KI, et al. The anticoagulant activity of enoxaparin sodium during on-line 
+hemodiafiltration and conventional haemodialysis. Haemodial Int. 2009;13:43–47.
+Srinivasan AF, et al. Warfarin-induced skin necrosis and venous limb gangrene in the 
+setting of heparin-induced thrombocytopenia. Arch Int Med. 2004;164:66.
+Tang IY, et al. Argatroban and renal replacement therapy in patients with heparin-
+induced thrombocytopenia. Ann Pharmacother. 2005;39:231.
+Van Der Meulen J, et al. Citrate anticoagulation and dialysate with reduced buffer con-
+tent in chronic hemodialysis. Clin Nephrol. 1992;37:36–41.
+Wright S, et al. Citrate anticoagulation during long term haemodialysis. Nephrology 
+(Carlton). 2011;6:396–402.
+Zhang W , et al. Clinical experience with nadroparin in patients undergoing dialysis for 
+renal impairment. Hemodial Int. 2011;15:379–394.
+Daugirdas9781451144291-ch014.indd   267 09/10/14   1:14 am

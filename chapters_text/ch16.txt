@@ -1,0 +1,850 @@
+305
+16
+Interest in home hemodialysis (HD) continues to grow. Provider and 
+patient preferences, decreasing costs of equipment and consum -
+ables, new funding models, and more user-friendly technology may 
+be facilitating factors. Moreover, the home setting lends itself well to 
+longer and more frequent (collectively, “intensive”) HD sessions than 
+are typically available in-center, though these intensified regimens 
+can be provided in-center as well. It is useful to distinguish between 
+(a) conventional HD (3–5 hours, 3 per week), (b) frequent HD (5–7 per 
+week), which can be frequent short (1.5–3 hours), frequent standard 
+(3–5 hours), or frequent long (>5 hours), or (c) long-session-length 
+regimens (>5 hours) given 3 days per week or every other day. Short 
+and standard frequent HD are typically referred to as “daily HD” 
+(DHD), while long, frequent HD is typically done at night and is called 
+frequent “nocturnal HD” (NHD).
+ I. MODALITY SELECTION.  In the absence of evidence-based practice 
+guidelines addressing modality selection, we propose some gen-
+eral guiding principles: (a) patients approaching renal replace -
+ment therapy should receive education regarding all available 
+modality options, including conservative care without dialysis, 
+preemptive transplantation, home HD, peritoneal dialysis (PD), 
+and in-center HD; (b) where medically appropriate and feasible, 
+home modalities (including PD) should be promoted as first-line 
+therapies when transplantation is not imminent; (c) the choice 
+between PD and home HD should be based on patient preference, 
+availability, feasibility, and medical factors (e.g., patients seeking 
+pregnancy should preferentially receive frequent NHD; patients 
+at risk for suboptimal clearance with PD should consider home 
+HD); (d) home HD should be considered following the failure of 
+PD or a renal allograft—this approach requires carefully timed 
+education and planning, but can lead to more patients maintain-
+ing their independence from center HD; and (e) more intensified 
+(home or center) HD regimens may be considered to improve ex-
+tracellular fluid volume (especially in those with high fluid gains), 
+blood pressure (BP), left ventricular (LV) mass, phosphate, and 
+quality of life.
+Home and Intensive 
+Hemodialysis
+Gihad E. Nesrallah, Rita S. Suri, Robert 
+M. Lindsay, and Andreas Pierratos
+Daugirdas9781451144291-ch016.indd   305 09/10/14   1:17 am
+Part II / Blood-Based Therapies
+306
+A. Frequent versus conventional HD.  P rescription patterns vary geo -
+graphically, and also according to program and provider pref-
+erences. There are no evidence-based guidelines that directly 
+address the choice between conventional and frequent (long 
+or short) HD. In the majority of cases, the treatment schedule 
+will depend on patient preferences (such as convenience and 
+noninterference with work, sleep, and social schedules), as well 
+as clearance and ultrafiltration needs. Starting with one par -
+ticular regimen does not preclude switching to another at any 
+time, and many patients have used combinations of long and 
+short treatments to accommodate work and other schedules. 
+Where possible, we recommend avoiding a 3-day interdialytic 
+interval, setting a lower boundary of every other day for home 
+HD, though this approach is less likely to be available in-center.
+B. Home HD
+1. Patient selection. Reported prevalent rates for home HD are 
+generally <5% in most jurisdictions, but as high as 15% in 
+others. The primary prerequisite for home HD is a willing 
+patient or partner who is able to learn to safely perform the 
+dialysis procedure. Uncontrolled seizures, hypoglycemia, 
+noncompliance with medical care, and significant intra -
+dialytic hemodynamic instability requiring frequent nurs-
+ing interventions are relative contraindications. Inability to 
+use heparin precludes long HD with lower blood flow rates 
+(e.g., 150 mL/min), but not prescriptions with higher (e.g., 
+>300 mL/min) blood flow. The presence of multiple or se-
+vere comorbidities are not contraindications to home HD, 
+but frailty and inability to perform self-care HD may repre-
+sent significant barriers if no assistance is available. Home 
+HD programs should develop standardized intake proce-
+dures, and criteria for home HD eligibility should  include 
+the patient’s or helper’s motor skills, strength, vision, hear-
+ing, reading ability, motivation, and adherence. When sig-
+nificant functional barriers are identified, paid caregivers 
+can be considered, if available.
+2. Home environment suitability. The home needs to be assessed 
+by a renal technologist, focusing on (a) water quantity 
+and quality, (b) electrical supply, (c) storage space, and  
+(d) cleanliness. These rarely pose insurmountable barriers 
+to home dialysis, though the patient must understand the 
+nature and extent of the changes needed in order to accom-
+modate the necessary equipment. Local building codes 
+should be adhered to, and, occasionally, permission from 
+landlords must be sought prior to beginning any altera-
+tions to plumbing and electrical infrastructure.
+C. In-center HD. Reasons for choosing in-center over home-
+based HD include (a) patient safety concerns, (b) vascular 
+access or cannulation problems, (c) patient or partner inabil -
+ity or unwillingness to perform the HD procedure at home,  
+(d) unsuitable home environment (space, electrical, hygiene, 
+or plumbing limitations), and (e) patient preference.
+Daugirdas9781451144291-ch016.indd   306 09/10/14   1:17 am
+307Chapter 16 / Home and Intensive Hemodialysis
+While conventional regimens predominate in-center, 
+intensified center HD is increasingly available, with practices 
+varying by jurisdiction. In Canada, Australia, and Europe, 
+DHD is offered for a wide range of indications, including (a) 
+refractory volume overload, (b) refractory hyperphosphatemia 
+and/or calciphylaxis, (c) failure to thrive, and (d) pregnancy, 
+though evidence to support these indications is limited. In 
+France, long, thrice-weekly, in-center, daytime HD is com -
+mon, and long, thrice-weekly HD at night is becoming increas-
+ingly available in the United States. Long, frequent NHD is not 
+ usually done in-center. Transportation, proximity to the treat-
+ment center, patient lifestyle, and demands on the patient's 
+family are important factors that may determine whether in- 
+center intensive HD is considered. In-center intensified regi -
+mens also impose increased demands on space, equipment, 
+and nursing and technical support staff. In general, programs 
+require a “critical mass” of patients receiving intensified regi -
+mens to maintain a pool of adequately trained staff and to re-
+alize economies of scale. Lack of availability of overnight staff  
+and ability to rapidly “turn over” larger numbers of DHD treat-
+ments may require alternative staffing models.
+ II. TECHNICAL CONSIDERATIONS FOR HOME HD
+A. Training. The length of the training period depends on the pa-
+tient's previous experience with HD. Without prior experience, 
+patients typically require one-on-one training with an experi -
+enced nurse for at least 6 weeks to become safe and proficient, 
+while patients previously undergoing self-care HD require less 
+training time. Some programs with long wait times for home 
+HD training offer training in self-care HD units. Educational 
+manuals written in the patient's language at the appropriate 
+reading and comprehension level are also useful. Many pro-
+grams require patients to “recertify” annually, by demonstrat-
+ing in the training unit setting that they are able to correctly 
+perform the dialysis procedure and blood access, and trouble-
+shoot effectively.
+B. V ascular access.  The Canadian Society of Nephrology (CSN) 
+guidelines for the management of patients with ESRD (end-
+stage renal disease) treated with intensive HD (Nesrallah, 
+2013) recommend arteriovenous (AV) fistulae and grafts over 
+catheters, because of lower infection risk (conditional/weak 
+recommendation, very low quality evidence), but acknowl -
+edge that the technical demands of cannulation may repre -
+sent a barrier to home HD for some patients.
+In patients with AV fistulae, the “buttonhole” technique, 
+which involves recannulation of precisely the same two (or two 
+pairs of) sites with blunt needles, has been popular as it may be 
+easier to learn than the standard, “rope-ladder” (rotating site), 
+method (see Chapter 6). However, buttonhole cannulation 
+may result in higher rates of Staphylococcus aureus  bactere -
+mia (Muir, 2014), and as such, the CSN guidelines recommend 
+Daugirdas9781451144291-ch016.indd   307 09/10/14   1:17 am
+Part II / Blood-Based Therapies
+308
+using the buttonhole method in conjunction with topical an -
+timicrobial prophylaxis with mupirocin (conditional/weak 
+recommendation, very low quality evidence) (Nesrallah, 2010, 
+2013). With synthetic grafts, needle sites are rotated in the 
+usual fashion. Low blood flows of 200–250 mL/min and single 
+needle are sufficient for NHD, where high dialysis efficiency is 
+not required.
+C. Dialysis membranes. Currently, there are no data to support the 
+use of one kind of dialysis membrane over another in home 
+HD. In recent years, most centers have reported using high-
+flux dialyzers. Low dialyzer surface area can be acceptable for 
+long HD (Pierratos, 1999). Dialyzer reuse has been described 
+in home dialysis (Pierratos, 2000) but has largely been aban-
+doned with the fall in prices of dialysis membranes. 
+D. Patient safety and precautions.  Appropriate patient selection, 
+training, and ongoing supervision are of utmost importance 
+to ensure patient safety at home. The dialysis machine screen 
+should be easily visible at all times, from whichever position 
+the patient dialyzes, and the controls should be easily acces-
+sible. Some additional precautions include the following:
+1. Alarms and communication.  The patient (or caregiver) must 
+be able to hear the dialysis machine and its alarms and be 
+trained on how to respond to them. Patients must have a 
+telephone within hand-reaching distance of the dialysis 
+machine to contact emergency services, if needed. Some 
+programs prefer a wired (noncordless) landline telephone 
+over a cellular phone, to ensure function during power fail-
+ure or inadequate network reception. The telephone ringer 
+must be audible by the patient in case of contact attempts 
+by a remote monitoring center.
+2. Prevention of line disconnection
+a. Proper cannulation technique.  Patient or caregiver compe -
+tence with the cannulation procedure and with secur -
+ing the cannula are mandatory prerequisites for home 
+treatment.
+b. Securing lines.  Meticulous taping of the blood tubing 
+connection to the dialysis catheter is very important 
+to prevent exsanguination from accidental disconnec-
+tion. Plastic clamshell locking boxes have been used to 
+prevent catheter–tubing separation (Pierratos, 1999). 
+A small blood line connector clip (HemaSafe, Fresenius 
+NA, Lexington, MA) is widely available.
+3. Prevention of morbidity when lines disconnect
+a. Closed connector devices.  The use of a closed connector 
+device is recommended if the patient performs dialysis 
+while asleep (conditional/weak recommendation, very 
+low quality evidence) (Nesrallah, 2013) to prevent air 
+embolization and bleeding resulting from accidental 
+disconnection of the tubing from the dialysis catheter. 
+These are catheter caps with a slit diaphragm, allowing 
+Daugirdas9781451144291-ch016.indd   308 09/10/14   1:17 am
+309Chapter 16 / Home and Intensive Hemodialysis
+blood flow while in place. They are replaced periodically 
+from every week to every month depending on local 
+practices and manufacturer recommendations. The In-
+terLink System (Becton Dickinson, Franklin Lakes, NJ) 
+can be used only for  long HD, as it results in increased 
+arterial and venous pressures at the higher pump speeds 
+used in other regimens. The TEGO (ICU Medical, CA) 
+connector provides less resistance to flow and can be 
+used with higher blood flow rates. The Swan-Lock con-
+nector (Codan, Lensahn, Germany) has also been used.
+b. Moisture detectors.  An enuresis alarm, such as the 
+Drisleeper (Alpha Consultants Ltd., Nelson, New 
+ Zealand), can be attached to the cannula entry points to 
+detect bleeding. Disposable leak detectors are also avail-
+able (RedSense Medical AB, Halmstad, Sweden). A wire-
+less wetness detector, which stops the machine blood 
+pump, was recently released (Fresenius Medical Care, 
+Lexington, MA). Finally, moisture sensors can be placed 
+on the floor around the machine and near the water sup-
+ply to detect blood, dialysate, and water leaks (Pierratos, 
+2000).
+c. T wo-pump, single-needle system.  In case of accidental dis-
+connection of the venous line, substantial blood loss and 
+even exsanguination can occur. As discussed in Chapter 4,  
+one cannot rely on a drop in the venous line pressure af-
+ter line disconnection to stop the blood pump, and the 
+technology described above must be relied upon. Single-
+needle dialysis reduces the risk of bleeding due to line 
+disconnection, as bleeding will then be restricted to flow 
+from the fistula or catheter, rather than via the blood 
+pump. For this reason, single-needle dialysis is likely to 
+be a safer option for frequent NHD performed at home. 
+Given the length and frequency of sessions with long HD, 
+the slightly reduced clearance associated with single-
+needle HD is not a major concern.
+4. Monitoring. Monitoring is typically only considered for NHD. 
+A modem or high-speed Internet connection of the HD 
+machine to specialized equipment can allow for software-
+based real-time monitoring to detect technical problems 
+and alarms as they arise (e.g., air and blood leaks). Moni-
+toring is also a useful means by which to track treatment 
+adherence. Rarely are patient data such as BP monitored 
+during night-time dialysis; thus, while monitoring provides 
+patient reassurance and security, it is unclear whether 
+monitoring actually prevents catastrophic events. Some ju-
+risdictions require live remote monitoring by law (e.g., New 
+York), but most programs use it for home NHD for the first 
+3 months (Heidenheim, 2003); some programs do not use 
+it at all (Humber River Hospital, Toronto). iCare (Fresenius 
+Medical Care, Lexington, MA) is one such commercially 
+Daugirdas9781451144291-ch016.indd   309 09/10/14   1:17 am
+Part II / Blood-Based Therapies
+310
+available real-time monitoring system. Automated tele -
+phone response systems have also been used with variable 
+success.
+ III. INFRASTRUCTURE REQUIREMENTS FOR HOME HD
+A. Support staff. Specially trained nurses, biomedical technicians, 
+and physicians are required. Nurses are required for assess-
+ment and training, telephone follow-up and troubleshooting, 
+ordering of patient supplies, and home visits, while techni -
+cians provide machine maintenance and monitor water 
+ quality. Biomedical engineering personnel should be involved 
+in the development of local policies governing practices, 
+ standards, and protocols for the installation and maintenance 
+of equipment. The dialysis program's payment carrier should 
+be informed of any changes to services provided.
+B. Space. Adequate clinic space with appropriate plumbing is 
+needed to allow patient training, patient assessments, and 
+follow-up clinic visits with the physician and allied health 
+personnel.
+C. W ater supply.  Water quality should be assessed regardless of 
+the source. Endotoxins, mineral content, and chloramines 
+should be quantified. Rural water supplies must also be tested 
+for coliform bacteria. International standards exist for water 
+purity (see Chapter 5) and should be followed. Water purifica-
+tion system and HD equipment manufacturers typically spec-
+ify water pressure requirements.
+1. W ater purification.  Both reverse osmosis and deionization 
+systems have been used successfully in home dialysis. 
+ Purification systems have become increasingly compact 
+and quiet enough to install in a patient's bedroom, though 
+more remote installation is also possible where desired. 
+Patients should be instructed in maintenance procedures 
+for their water systems, including filter changes and disin-
+fection of lines and units. Ultrapure dialysate (generated 
+by using an ultrafilter) has also been used by most pro-
+grams and may be preferable for NHD, where the quan-
+tity of dialysate exposure (~108–144 L per session) can 
+compound the effects of inferior water quality. Disinfec-
+tion and water sampling frequency (usually monthly) will 
+depend on the system utilized and must follow national 
+water standards.
+D. Dialysis machines. No existing data favor the use of any one type 
+of HD machine over another; thus, any machine that can be 
+used for in-center therapy can be used for home daily dialysis. 
+Some machines are large, cumbersome, and difficult to use, 
+though there appears to be a growing interest in producing 
+machines that are better suited to home dialysis. Noise is a 
+factor for machines used for NHD. Other considerations in 
+home HD machine design include simplicity/ease of use, vis-
+ibility of the screen and accessibility of controls, short setup, 
+and simple maintenance and disinfection procedures.
+Daugirdas9781451144291-ch016.indd   310 09/10/14   1:17 am
+311Chapter 16 / Home and Intensive Hemodialysis
+The NxStage System One (NxStage Medical Inc., Law-
+rence, MA) is described separately, as it differs from other 
+devices in the use of lower dialysate flow rate with prefilled 
+dialysate bags, as well as a cartridge-based dialyzer and tubing 
+setup (Clark and Turk, 2004). Their lactate-based dialysate can 
+be delivered in ready-made 5-L bags or can be produced by the 
+PureFlow™ system from powdered dialysate mix, and made up 
+in volumes of between 15 and 60 L for longer treatments. The 
+amount of water needed is similar to the dialysate volume, as 
+is the case when deionizers are used. The NxStage device is 
+transportable and can be used when traveling. It requires fewer 
+or no renovations at the home of the patient. One limitation of 
+the NxStage device at the present time is a maximal dialysate 
+flow rate of 200 mL/min. Although there is no incorporated 
+heparin pump, low-molecular-weight heparin or an external 
+heparin pump can be utilized. The clinical significance of low 
+dialysate flow is discussed in the adequacy and dose section 
+below.
+1. Equipment maintenance programs. These are central to patient 
+safety. Most manufacturers provide suggested maintenance 
+schedules, and these should serve as a bare minimum 
+requirement to prevent complications and equipment 
+failure. In addition to a rigorous water purification mainte-
+nance schedule, microbiological and endotoxin screening 
+of product water and dialysis solution are critically impor -
+tant, particularly with high-flux membranes. Some recom-
+mend doing such screening monthly.
+E. Remote overnight monitoring. Commercially available devices and 
+software tools are listed above. Programs may choose to have 
+their own central monitoring station with trained overnight 
+personnel; alternatively, one centralized station for multiple 
+programs may be considered to reduce costs.
+ I V. PRESCRIPTION OF INTENSIVE HD
+A. Physiological rationale
+1. Solute removal advantage of increased weekly dialysis time.  For 
+solutes like poorly dialyzed middle molecules, the plasma 
+concentration does not change much during dialysis, and 
+for this reason, the main factor governing removal is total 
+weekly dialysis time. Distributing the same weekly time 
+over more frequent sessions is of limited benefit. This is 
+true for phosphate as well. The intradialytic concentra -
+tion of phosphate falls precipitously during the first hour 
+of dialysis, but then plateaus; as a result, weekly phosphate 
+removal depends primarily on total weekly dialysis time.
+2. Solute removal advantage of increased frequency . For solutes 
+such as urea, and for the theoretically “sequestered” solutes 
+modeled using standard Kt/V ( for a description of standard 
+Kt/V [stdKt/V ] see Chapter 3), the intradialytic plasma con-
+centration continues to fall as a dialysis session  progresses 
+for this reason, prolongation of a dialysis session beyond 
+Daugirdas9781451144291-ch016.indd   311 09/10/14   1:17 am
+Part II / Blood-Based Therapies
+312
+4 hours is of limited benefit, and it is advantageous to dis-
+tribute the same weekly time over more frequent sessions. 
+The most efficient solute removal occurs during the early 
+part of the dialysis session, when the plasma solute con-
+centration is the highest. The standard Kt/V measure best 
+reflects the effect of more frequent dialysis schedules on 
+highly sequestered, but easily dialyzable solutes.
+There also is an advantage for phosphorus removal in 
+terms of increasing dialysis frequency, as removal of phos-
+phorus is substantially higher during the initial hour of 
+dialysis than during the “plateau phase. ” When the weekly 
+dialysis time is long (>20 hours), the total weekly time 
+is the main determinant of phosphorus removal. When 
+weekly dialysis time is <12 hours, breaking this up into six, 
+as opposed to three, sessions per week often will decrease 
+predialysis serum phosphorus level, albeit slightly.
+3. Ultrafiltration advantage of increasing weekly dialysis time.  The 
+amount of fluid that needs to be removed per week will be 
+a function of weekly fluid ingestion minus weekly residual 
+urine volume. If one doubles the weekly dialysis time, and 
+if fluid ingestion remains constant, the ultrafiltration rate 
+will be halved, greatly reducing hemodynamic stress asso-
+ciated with fluid removal.
+4. Ultrafiltration advantage of increasing dialysis frequency . Even if 
+weekly dialysis time is not increased, there may be some ad-
+vantage to increasing frequency, because at the beginning of 
+a dialysis session, more of the excess fluid is associated with 
+the central blood volume compartment. In the FHN “Daily” 
+Trial (Chertow, 2010), where weekly dialysis time was in-
+creased marginally, and in which weekly fluid ingestion also 
+increased slightly, there was a benefit in terms of reduction 
+of intradialytic hypotensive episodes per treatment, but as a 
+greater number of treatments per week were given, the num-
+ber of hypotensive episodes per week was increased.
+5. Benefit of avoiding a long interdialytic interval.  Observational 
+studies show that in patients being dialyzed with three-
+times-per-week schedules, mortality is highest on Mon-
+days in patients following a Mon-Wed-Fri schedule, and on 
+Tuesdays in patients following a Tues-Thurs-Sat schedule. 
+It is not clear whether the increased mortality is due to the 
+requirement for increased fluid removal or to the buildup of 
+various uremic toxins, including potassium, over the 3-day 
+weekend interdialytic interval. This observation argues 
+against use of a three-times-per-week schedule at home in 
+situations where an every-other-day schedule is feasible.
+6. Potential adverse effect of frequent , long nocturnal  hemodialysis 
+schedules on residual kidney function.  In the FHN Nocturnal 
+Trial, it was noted that the loss of residual kidney func-
+tion was accelerated in those patients who were dialyz-
+ing more often than 4.5 times per week using long session 
+lengths (weekly dialysis time longer than 28 hours per 
+Daugirdas9781451144291-ch016.indd   312 09/10/14   1:17 am
+313Chapter 16 / Home and Intensive Hemodialysis
+week) (Daugirdas, 2013). This was not found in patients 
+with shorter weekly dialysis times. This observation needs 
+to be confirmed, but in patients with substantial residual 
+kidney function, a very intensive ( frequent and long) dialy-
+sis schedule may not be optimal unless needed to control 
+refractory volume overload or hyperphosphatemia.
+B. Adequacy and urea clearance
+1. Standard Kt/V. The standard Kt/V (stdKt/V) concept that 
+has been described in Chapters 3 and 11 is generally used 
+to quantify urea clearance in DHD and NHD. StdKt/V is a 
+frequency-independent measure of dialysis dose. It is a 
+weekly expression (normalized to V) of a modified equiva-
+lent urea clearance, and is defined as the urea generation 
+rate divided by the mean peak predialysis serum urea ni-
+trogen (SUN) level. The effect of dialysis frequency on the 
+stdKt/V can more easily be seen graphically, and is shown in 
+Figure 16.1. It can be seen that when three-times-per-week 
+dialysis sessions are given, each lasting about 3.5 hours and 
+delivering a single-pool (sp) Kt/V of 1.2, the resulting std-
+Kt/V will be 2.15 (when calculated using modeling or the 
+so-called “FHN equation”). Increasing the spKt/V using a 
+three-times-per-week schedule has only a modest effect on 
+increasing stdKt/V. One can see that, to achieve the same 
+FIGURE 16.1 The relationship between weekly stdKt/V and per-dialysis single-pool 
+Kt/V (spKt/V). The data assume a patient V of 40 L, dialyzer clearance of 200 mL/min, 
+and  dialysis time ranging from 30 to 270 min. The horizontal line at 2.15 represents the 
+stdKt/V (calculated using the FHN method or urea kinetic modeling) associated with the 
+KDOQI minimum session spKt/V of 1.2 with a 3 per week dialysis session. The numbers 
+on the right show number of treatments per week.
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+0.40 .5 0.60 .7 0.80 .911 .1 1.21 .3 1.41 .5
+Standard Kt/V (per week)
+Single-pool Kt/V per session
+7
+6
+5
+4
+3
+2
+Daugirdas9781451144291-ch016.indd   313 09/10/14   1:17 am
+Part II / Blood-Based Therapies
+314
+stdKt/V of 2.15 using six-times-per-week SDHD (short daily 
+hemodialysis), an spKt/V of about 0.5 needs to be delivered 
+during each session. For simplified methods of calculating 
+stdKt/V  see Appendix C.
+2. Prescription recommendations for Urea Clearance
+a. DHD. Patients following a six-times-per-week DHD 
+schedule have been treated with session lengths rang-
+ing from 1.5–3 hours (Table 16.1) six times weekly, cor -
+responding to weekly dialysis times of 9–18 hours. Blood 
+and dialysate flow rates are usually similar to those in 
+conventional dialysis, as well as dialyzers. In the FHN 
+Daily Trial, patients receiving DHD received an average 
+standard Kt/V of 3.6 per week, corresponding to an aver-
+age equilibrated Kt/V of 1.06 per session given on aver -
+age 5 times per week. It is reasonable to start with 2-hour 
+treatments, 12 hours per week. This schedule may then 
+be adjusted depending on the measured delivered dose 
+and patient satisfaction, remembering that every dialy -
+sis session need not be of the same length. In selected 
+patients, further increases in dialysis session length (be-
+yond 2 hours) should be considered, as this may be of help 
+in removing more phosphate and also salt and water, as 
+described below. DHD sessions in the 1.5-hour range may 
+be sufficient for those with substantial residual renal 
+function, but weekly stdKt/V should be monitored.
+b. NHD. With HD for 6–10 hours, three or more times per 
+week, stdKt/V values will typically be well above 2.0, as-
+suming that an spKt/V of at least 1.2 is delivered per ses-
+sion. The stdKt/V is affected to a modest degree by session 
+length, and going from a 3.5- to a 6- to 10-hour session 
+per se results in a modest increase in stdKt/V for three-
+times-per-week dialysis, even when spKt/V is unchanged. 
+Because of the marked increase in clearance with NHD, 
+submaximal blood flows with single-needle dialysis can 
+be used to optimize safety, and lower dialysate flows 
+may be used to save water costs. We recommend a Qb of 
+SDHD Frequent NHD
+Frequency (sessions per week) 6–7 5–7
+Duration (hours) 1.5–3.0 6–10
+Dialyzer (high-flux preferred) Any Any (smaller)
+QB (mL/min) 400–500 200–300
+QD (mL/min) 500–800 100–300
+Access Any Any
+Remote monitoring None Optional
+Dialyzer reuse Optional Optional
+NHD, nocturnal hemodialysis.
+Typical SDHD and Frequent NHD Prescriptions
+16.1
+TABLE
+Daugirdas9781451144291-ch016.indd   314 09/10/14   1:17 am
+315Chapter 16 / Home and Intensive Hemodialysis
+200–250 mL/min with single needle, with Qd of 300 mL/
+min. In the FHN Nocturnal Trial, the typical prescription 
+was at least 6 hours, given on  average 5 nights per week, 
+achieving a stdKt/V of 5.0.
+C. Dialysate composition. There is little evidence on optimal dialy -
+sate composition for frequent and long-duration HD. Similar 
+dialysate composition may be used when switching from con-
+ventional dialysis to frequent or long-duration HD, with the 
+exception that bicarbonate may need to be reduced and phos-
+phate may need to be added. Dialysate composition should be 
+individualized to achieve pre- and postdialysis levels in the local 
+laboratory “normal” range (see below). A typical dialysate con-
+tains Na+ 135–140 mM, K+ 2.0–3.5 mM, HCO3
+− 28–34 mM, Ca++ 
+1.25–1.75 mM (2.5–3.5 mEq/L), and Mg++ 0.5 mM (1 mEq/L). 
+1. Bicarbonate: HCO 3
+− concentration should be adjusted to 
+achieve a predialysis bicarbonate of 22–24 mmol/L. We 
+usually start with a bicarbonate of 28–33 mmol/L for pa-
+tients receiving frequent HD (either DHD or NHD). One 
+must remember that the bicarbonate concentration read -
+out on most dialysis machines does not take into account 
+the alkalinizing effect of sodium acetate or sodium citrate 
+present in bicarbonate dialysate solutions. Especially with 
+frequent, long NHD, the dialysis solution bicarbonate 
+should be set toward the lower end to limit the occurrence 
+of postdialysis alkalemia.
+2. Phosphorus. To control serum phosphorus in patients in -
+gesting a usual amount of protein, about 24–28 hours per 
+week of dialysis is required in the absence of phosphorus 
+binder ingestion. Increasing dialysis frequency in SDHD 
+without increasing weekly dialysis time will have only a 
+trivial effect on serum phosphorus, especially because 
+many patients will tend to increase their protein and phos-
+phorus intake. Patients treated with three nocturnal ses-
+sions per week, or every other night nocturnal dialysis will 
+have a more marked reduction in serum phosphorus, and 
+some may no longer need phosphorus binders, although a 
+substantial number will continue to require them. Those 
+patients treated with long sessions 5–6 times per week 
+typically will go into negative phosphorus balance unless 
+some phosphate is added to the dialysate. Whereas hy-
+pophosphatemia at the end of dialysis is common, predi -
+alysis hypophosphatemia is undesirable and is associated 
+with an elevated risk of mortality. Hypophosphatemia can 
+be exacerbated during periods of reduced food intake, for 
+example, during intercurrent illness. For this reason, most 
+patients dialyzed more than 30 hours per week will need 
+some phosphate added to the dialysate.
+Sodium phosphate preparations have been used to 
+enrich dialysate with phosphorus to prevent or treat  
+hypophosphatemia in patients treated with chronic high-
+intensity dialysis. The dialysate phosphorus concentration 
+Daugirdas9781451144291-ch016.indd   315 09/10/14   1:17 am
+Part II / Blood-Based Therapies
+316
+is usually 0.32–0.65 mM (1–2 mg/dL) although higher con-
+centrations may be necessary in some patients. The phos-
+phate can be added to either the acid or the bicarbonate 
+liquid concentrate. Enema preparations containing so -
+dium phosphate (C. B. Fleet Company, Lynchburg, VA) con-
+sisting of a mixture of NaH2PO4 • H2O and Na2HPO4 • 7H2O 
+have been widely used for this purpose. However, nonrectal 
+use of phosphate enemas has not been approved by the U.S. 
+Federal Drug Administration (FDA), and the purity of such 
+phosphate preparations is not known. The enema solu-
+tions do contain a small amount of benzalkonium chloride 
+(a biocide and preservative) and disodium EDTA, which are 
+then massively diluted further in the final dialysis solution. 
+An alternative method of phosphate supplementation is 
+to add an appropriate amount of phosphorus using USP-
+grade (United States Pharmacopeia) sodium phosphate 
+salts (Sam, 2013). Phosphate preparations for intravenous 
+use (Troyanov, 2004; Hussain, 2005) have been added to 
+hemodiafiltration solutions to increase their phosphorus 
+concentration, but their routine use in long nocturnal di-
+alysis would be quite expensive owing  to the large volume 
+of dialysis solution needed.
+3 Calcium. Patients receiving frequent, long NHD can de-
+plete their total-body calcium unless a slightly higher-
+than-usual dialysis solution calcium concentration is used  
+(Al Hejaili, 2003). Use of a dialysate calcium concentration 
+of 2.5 mEq/L (1.25 mM) in such patients has been shown to 
+result in hyperparathyroidism that is refractory to vitamin 
+D analog therapy, especially if the patient is no longer tak -
+ing calcium-based phosphorus binders. The ideal dialysate 
+calcium concentration for an individual patient will vary 
+with dietary calcium intake, ingestion of supplemental 
+calcium (including calcium-based phosphorus binders), 
+vitamin D analog use, ultrafiltration volume, and the level 
+of parathyroid gland activity. Measurement of pre- and 
+postdialysis calcium levels can help identify an ideal bath 
+calcium concentration for a given patient. The CSN clinical 
+practice guideline for intensive HD (Nesrallah, 2013) cur -
+rently recommends using a dialysate calcium of 1.5 mM 
+(3.0 mEq/L) or higher for long, frequent HD. If concentrates 
+with the desired calcium concentration are not available, 
+one can add the required amount of powdered calcium 
+chloride (the Humber program uses CaCl 2•2H2O USP) to 
+the acid concentrate. The need for a higher dialysate cal-
+cium is a problem only for long, frequent NHD; SDHD is not 
+associated with marked changes in calcium levels, and for 
+these treatments, standard dialysate calcium concentra -
+tions of 1.25 mM (2.5 mEq/L) are typically used.
+D. Anticoagulation. Long HD with slow blood pump speeds gener -
+ally cannot be performed without anticoagulation. Standard 
+heparin protocols may be used for all frequent HD schedules. 
+Daugirdas9781451144291-ch016.indd   316 09/10/14   1:17 am
+317Chapter 16 / Home and Intensive Hemodialysis
+Some programs have used low-molecular-weight heparin as 
+a bolus with or without a mid-dialysis top-up dose for longer 
+session length treatments, but published evidence of safety 
+and efficacy is lacking.
+E. Ultrafiltration, adjustment of target weight, and antihypertensive medi -
+cations. Improvement in BP control may be noted as early 
+as 1 week after changing to intensified HD, is most marked 
+within the first few months, and may continue for many 
+months thereafter. Not uncommonly, the BP may be so mark-
+edly improved by long or frequent HD that a patient will no 
+longer need antihypertensive drugs. Cardioprotective agents 
+such as angiotensin-converting enzyme inhibitors or beta-  
+blockers may still be prescribed, if desired, but at lower doses 
+as tolerated.
+Target weight with intensive HD is set as per usual 
+practice, aiming for clinical euvolemia and normal pre- and 
+postdialysis BP , while avoiding intradialytic hypotension and 
+symptoms. Larger interdialytic weight gains can be expected 
+as patients liberalize dietary sodium and fluid intake with 
+longer and more frequent sessions. Patients can be trained to 
+self-adjust ultrafiltration goals on the basis of weight and BP 
+parameters, making small incremental changes (e.g., 0.3–0.5 
+kg per session) to their target weights until desired values are 
+achieved.
+F. Follow-up
+1. Clinic visits. Most patients should be seen within 2–4 weeks 
+of starting home therapy, then monthly for 3 months, then 
+every 2–3 months thereafter. This assumes that 24-hour 
+on-call nursing support is available. The use of dialysis “run 
+sheets” allows for documentation of weights, BP , and intra-
+dialytic complications. Patients should bring these to each 
+clinic visit.
+2. Blood tests.  Patients dialyzing at home can be provided 
+with blood centrifuges and can be instructed in the proper  
+handling and preparation of blood samples.
+ V. COMP ARATIVE EFFECTIVENESS AND SAFETY OF HOME AND INTENSIVE HD 
+VERSUS OTHER MODALITIES
+A. Conventional Home HD. To date, there have been no trials com-
+paring home with center HD. Observational studies have 
+ suggested better survival with home HD, but unmeasured 
+patient  characteristics, including health literacy, motiva -
+tion, psychological well-being, social support structures, 
+functional ability, and socioeconomic factors, may account 
+for the greater survival rates observed in home HD popula-
+tions. Patient unwillingness to be randomly allocated to the 
+home or in-center setting is a major barrier to conducting 
+randomized  trials. Although not  directly measured, the free-
+dom associated with self-scheduling,  self-management, and 
+more liberal diet likely improve patient quality of life with 
+home HD.
+Daugirdas9781451144291-ch016.indd   317 09/10/14   1:17 am
+Part II / Blood-Based Therapies
+318
+B. Frequent HD
+1. Short and standard frequent HD.  No clinical trials have com -
+pared home DHD with any other modality. An observational 
+study from Australia suggested no mortality difference 
+between patients receiving intensive home HD compared 
+with those receiving conventional home HD (Marshall, 
+2011). In the FHN Daily Trial, patients who received SDHD 
+in-center had statistically and clinically significantly better 
+SF-36 (physical composite summary) scores and regression 
+of ventricular hypertrophy compared with patients who re-
+ceived conventional center HD (Chertow, 2010). It should 
+be noted that the delivered treatments in these patients 
+averaged 2.5 hours in duration, and were given on average 
+5.2 times per week. There is preliminary evidence that sur -
+vival was better in the patients randomized to the frequent-
+treatment arm (Chertow, 2013). A recent multinational 
+survival study showed a higher risk of death with SDHD; 
+however, this study was prone to residual confounding, as 
+patients treated with SDHD likely had higher (unmeasured) 
+baseline risk than could be adjusted for in statistical mod-
+els (Suri, 2013). Although there are several observational 
+studies evaluating physiological outcomes with DHD, the 
+FHN Daily Trial provides the least biased estimates of these 
+effects. In this study, patients receiving SDHD had better 
+phosphate and BP control, but no differences in nutritional 
+variables, anemia management, mental health, or cognitive 
+function were detected.
+An important safety signal in the FHN trials was an 
+increased need for interventions to maintain AV access 
+patency. Whether this was due to differential surveillance 
+(more frequent visits) or an effect of frequent cannulation 
+was not clear. There was a trend to reduced complications 
+with buttonhole cannulation, with DHD (Suri, 2013 [JASN]).
+2. Long, frequent HD. To date, two randomized trials have com-
+pared frequent NHD with conventional HD. A Canadian 
+study demonstrated regression of left ventricular hypertro-
+phy (LVH) among patients randomized to NHD (Culleton, 
+2007), while the larger FHN nocturnal study did not (Rocco, 
+2011). The effect of NHD on LV mass may have been attenu-
+ated by preserved residual renal function in the FHN study 
+population. Both studies found improved BP and phos-
+phate control with NHD. Studies evaluating the effects of 
+NHD on patient survival have been observational. As with 
+studies of conventional home HD, NHD is associated with 
+greater survival compared with conventional HD, but resid-
+ual confounding should be considered when interpreting 
+these results.
+In the FHN Nocturnal Trial, procedures to maintain 
+the vascular access were significantly increased with home 
+long, frequent HD compared with  conventional home HD, 
+and there was a trend to increased perceived burden on 
+Daugirdas9781451144291-ch016.indd   318 09/10/14   1:17 am
+319Chapter 16 / Home and Intensive Hemodialysis
+caregivers as well. Finally, patients who received frequent 
+NHD had increased risk of complete loss of residual renal 
+function at 12 months compared to patients assigned to a  
+3-days-per-week schedule. These potential adverse effects 
+should be discussed with patients before starting frequent 
+NHD. The mortality effects are unclear; patients random-
+ized to the six-nights-per-week group had an increased risk 
+of long-term mortality compared with those randomized to 
+conventional HD (Rocco, 2013), but the significant cross-
+over rates and minute sample size preclude definitive inter-
+pretation of these results.
+C. Long-session dialysis given three times per week or every other day. The 
+Tassin experience showed marked improvements in survival, 
+BP , and phosphate control among recipients of thrice-weekly 
+in- center HD lasting 8 hours per session (Charra, 2004). More 
+recently, large dialysis organizations in the United States have 
+provided three-per-week in-center NHD and have reported bet-
+ter survival and physiological variables compared with conven-
+tional center HD; the published experience with every-other-day 
+home HD in Australia and New Zealand has shown similar re-
+sults. However, all of this evidence is observational, with the po-
+tential problem of bias due to patient selection and confounding.
+ VI. CONCLUSIONS AND FUTURE DIRECTIONS. Home dialysis in general, as 
+well as intensified HD regimens are increasing in popularity, par-
+ticularly in high-income countries. Efforts to understand the ben-
+efits and risks of such alternative dialysis prescriptions continue 
+to rely on observational studies, as randomized trials are quite 
+difficult to carry out in this area. Until higher-quality evidence is 
+available to inform decision making, providers would serve their 
+patients well by focusing modality discussions on patients' values 
+and preferences, and the specific physiological considerations 
+described in this chapter.
+References and Selected Readings
+Al-Hejaili F, et al. Nocturnal but not short hours quotidian hemodialysis requires an 
+elevated dialysate calcium concentration. J Am Soc Nephrol. 2003;14:2322–2328.
+Ayus JC, et al. Effects of short daily versus conventional hemodialysis on left ventricular 
+hypertrophy and inflammatory markers: a prospective, controlled study. J Am Soc 
+Nephrol. 2005;16:2778–2788.
+Blagg CR. A brief history of home hemodialysis. Adv Ren Replace Ther. 1996;3:99–105.
+Chan CT, et al. Short-term blood pressure, noradrenergic, and vascular effects of noc-
+turnal home hemodialysis. Hypertension. 2003;42:925–931.
+Charra B, et al. Long thrice weekly hemodialysis: the Tassin experience. Int J Artif Or -
+gans. 2004;27:265–283.
+Chertow GM, et al. ( for the FHN Trial group). In-center hemodialysis six times per 
+week versus three times per week. N Engl J Med. 2010;363:2287–2300.
+Chertow GM, et al.; the FHN Group. Effects of randomization to frequent in-center 
+hemodialysis on long-term mortality: frequent hemodialysis daily trial [abstract 
+FR-PO342]. J Am Soc Nephrol. 2013;24:442A.
+Clark WR, Turk JE. The NxStage system one. Semin Dial. 2004;17:167–170.
+Culleton BF, et al. Effect of frequent nocturnal hemodialysis vs conventional hemo-
+dialysis on left ventricular mass and quality of life: a randomized controlled trial. 
+JAMA. 2007;298:1291–1299.
+Daugirdas9781451144291-ch016.indd   319 09/10/14   1:17 am
+Part II / Blood-Based Therapies
+320
+Daugirdas JT, et al.; the FHN Trial Group. Effect of frequent hemodialysis on residual 
+kidney function. Kidney Int. 2013;83:949–958.
+Depner TA. Daily hemodialysis efficiency: an analysis of solute kinetics. Adv Ren 
+ Replace Ther. 2001;8:227–235.
+Diaz-Buxo JA, Schlaeper C, VanValkenburgh D. Evolution of home hemodialysis moni-
+toring systems. Hemodial Int. 2003;7:353–355.
+Gotch FA. The current place of urea kinetic modelling with respect to different dialysis 
+modalities. Nephrol Dial Transplant. 1998;13(suppl 6):10–14.
+Heidenheim AP , et al. Patient monitoring in the London daily/nocturnal hemodialysis 
+study. Am J Kidney Dis. 2003;42(1 suppl):61–65.
+Hussain SA, et al. Phosphate enriched hemodialysis during pregnancy: two case series. 
+Hemodial Int. 2005;9:147–152.
+Ing TS, et al. Phosphorus-enriched hemodialysates: formulations and clinical use. 
+ Hemodial Int. 2003;7:148–155.
+Muir CA, et al. Buttonhole cannulation and clinical outcomes in a home hemodialysis 
+cohort and systematic review. Clin J Am Soc Nephrol. 2014;9:110–119.
+Leitch R, et al. Nursing issues related to patient selection, vascular access, and educa-
+tion in quotidian hemodialysis. Am J Kidney Dis. 2003;42(1 suppl):56–60.
+Marshall MR, et al. Home hemodialysis and mortality risk in Australian and New 
+ Zealand populations. Am J Kidney Dis. 2011;58(5):782–793.
+McFarlane PA. Reducing hemodialysis costs: conventional and quotidian home hemo-
+dialysis in Canada. Semin Dial. 2004;17:118–124.
+Mucsi I, et al. Control of serum phosphate without any phosphate binders in patients 
+treated with nocturnal hemodialysis. Kidney Int. 1998;53:1399–1404.
+Muir CA, et al. Buttonhole cannulation and clinical outcomes in a home hemodialysis 
+cohort and systematic review. Clin J Am Soc Nephrol. 2014;9:110–119.
+Mustafa RA, et al. Vascular access for intensive maintenance hemodialysis: a system-
+atic review for a Canadian Society of Nephrology clinical practice guideline. Am J 
+Kidney Dis. 2013;62:112–131.
+Nesrallah GE, et al. Staphylococcus aureus  bacteremia and buttonhole cannulation: 
+long-term safety and efficacy of mupirocin prophylaxis. Clin J Am Soc Nephrol . 
+2010;5:1047–1053.
+Nesrallah GE, et al. Canadian Society of Nephrology guidelines for the management 
+of patients with end stage renal disease treated with intensive hemodialysis. Am J 
+Kidney Dis. 2013;62:187–198.
+Pierratos A. Nocturnal home haemodialysis: an update on a 5-year experience. Nephrol 
+Dial Tranplant. 1999;14:2835–2840.
+Pierratos A. Delayed dialyzer reprocessing for home hemodialysis. Home Hemodial Int. 
+2000;4:51–54.
+Rocco MV et al., ( for the FHN Trial Group). The effects of frequent nocturnal home 
+hemodialysis: the frequent hemodialysis network nocturnal trial. Kidney Int. 
+2011;80:1080–1091.
+Rocco MV , et al., the FHN Group. Effects of randomization to frequent nocturnal  
+hemodialysis on long-term mortality: Frequent Hemodialysis Nocturnal Trial  
+[abstract FR-PO345]. J Am Soc Nephrol. 2013;24:443A.
+Sam R, et al. Using disodium monohydrogen phosphate to prepare a phosphate-  
+enriched hemodialysate. Hemodial Int. 2013;17:667–668.
+Suri RS, et al. Daily hemodialysis: a systematic review. Clin J Am Soc Nephrol. 2006;1:  
+33–42.
+Suri RS, et al. Risk of vascular access complications with frequent hemodialysis. J Am 
+Soc Nephrol. 2013;24:498–505.
+Suri RS, et al. A multinational cohort study of in-center daily hemodialysis and patient 
+survival. Kidney Int. 2013;83:300–307.
+Troyanov S, et al. Phosphate addition to hemodiafiltration solutions during continu-
+ous renal replacement therapy. Intensive Care Med. 2004;30:1662–1665.
+Walsh M, et al. A systematic review of the effect of nocturnal hemodialysis on blood 
+pressure, left ventricular hypertrophy, anemia, mineral metabolism, and health-
+related quality-of-life. Kidney Int. 2005;67:1501–1508.
+Web References
+Home dialysis central: http://www.homedialysis.org.
+ISHD home dialysis handbook: http://www.ishdn.net.
+Daugirdas9781451144291-ch016.indd   320 09/10/14   1:17 am

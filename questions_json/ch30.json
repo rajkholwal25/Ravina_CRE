@@ -1,0 +1,677 @@
+{
+  "chapter": 30,
+  "questions": [
+    {
+      "topic": "Psychiatric prevalence",
+      "question": "Approximately what proportion of hospitalized end stage kidney disease (ESKD) patients have an underlying psychiatric disorder?",
+      "options": {
+        "A": "About 10%",
+        "B": "About 30%",
+        "C": "About 50%",
+        "D": "About 75%"
+      },
+      "correct": "A",
+      "explanation": "Approximately 10% of hospitalized ESKD patients have an underlying psychiatric disorder, making A correct. Their hospitalization rates for psychiatric disorders are high relative to other chronically ill patients. The higher figures of 30%, 50%, or 75% overstate the burden; 10% is the chapter's estimate for a diagnosable disorder among the hospitalized. Common problems in this group include depression, dementia and delirium, psychosis, personality and anxiety disorders, and substance abuse, so recognizing psychiatric comorbidity is a routine part of caring for the dialysis inpatient."
+    },
+    {
+      "topic": "Most common problem",
+      "question": "Which psychiatric problem is described as the most common and most important issue in dialysis patients?",
+      "options": {
+        "A": "Psychosis",
+        "B": "Depression",
+        "C": "Substance abuse",
+        "D": "Personality disorder"
+      },
+      "correct": "B",
+      "explanation": "Depression is both the most common and the most important psychiatric problem in dialysis patients, so B is correct. It matters most because it drives noncompliance with the dialysis and/or medication regimen and carries a real risk of suicide, and it is widely underdiagnosed and untreated. Psychosis, substance abuse, and personality disorders (A, C, D) also occur but are less frequent and less central. Because depression is treatable, active screening is emphasized as a core element of the dialysis treatment plan."
+    },
+    {
+      "topic": "DSM-5 duration",
+      "question": "According to DSM-5, over what minimum time period must symptoms be present to diagnose a major depressive disorder?",
+      "options": {
+        "A": "At least 3 days",
+        "B": "At least 1 week",
+        "C": "At least 2 weeks",
+        "D": "At least 1 month"
+      },
+      "correct": "C",
+      "explanation": "DSM-5 requires that qualifying symptoms be present during a period of at least 2 weeks to diagnose major depressive disorder, so C is correct. Shorter windows of 3 days or 1 week (A, B) do not meet the threshold, and 1 month (D) is longer than required. During that 2-week period the patient must have depressed mood nearly every day or loss of interest/pleasure plus additional symptoms. This durational criterion helps distinguish sustained major depression from transient mood changes that are common with the stresses of dialysis."
+    },
+    {
+      "topic": "DSM-5 criteria count",
+      "question": "Beyond depressed mood or loss of interest/pleasure, a DSM-5 diagnosis of major depression requires at least how many additional listed symptoms?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      },
+      "correct": "D",
+      "explanation": "Beyond depressed mood or loss of interest/pleasure nearly every day, DSM-5 requires at least four additional listed symptoms, so D is correct; one, two, or three (A, B, C) are insufficient. The additional symptoms include weight/appetite change, sleep disturbance, psychomotor agitation or retardation, fatigue, worthlessness or guilt, decreased concentration, and recurring thoughts of death or suicide. In dialysis patients several of these overlap with uremia, which is why counting a full four symptoms over two weeks helps avoid overdiagnosis from somatic uremic complaints alone."
+    },
+    {
+      "topic": "Specific depression criterion",
+      "question": "Which DSM-5 depressive symptom is considered probably the most specific in dialysis patients because the others may be caused by uremia itself?",
+      "options": {
+        "A": "Recurring thoughts of death or suicide",
+        "B": "Change in sleep pattern",
+        "C": "Fatigue",
+        "D": "Appetite disturbance"
+      },
+      "correct": "A",
+      "explanation": "Recurring thoughts of death or suicide is probably the most specific DSM-5 criterion in dialysis patients, so A is correct. Symptoms such as change in sleep pattern, fatigue, and appetite disturbance (B, C, D) can be produced by uremia itself, blurring the diagnosis. Because the somatic criteria are confounded by kidney failure, clinicians should weight the cognitive and affective symptoms, particularly suicidal ideation, more heavily. This matters because depression here raises the risk of noncompliance and suicide, and suicidal thinking is the least likely to be a false positive from uremia."
+    },
+    {
+      "topic": "Depression prevalence",
+      "question": "Some investigators estimate that depression occurs in what percentage range of dialysis patients?",
+      "options": {
+        "A": "1%-5%",
+        "B": "10%-50%",
+        "C": "60%-70%",
+        "D": "80%-90%"
+      },
+      "correct": "B",
+      "explanation": "Some investigators estimate that depression occurs in as many as 10% to 50% of dialysis patients, so B is correct. The very low range of 1%-5% (A) understates the burden, while 60%-70% or 80%-90% (C, D) overstate it. The wide 10%-50% range reflects differences in screening tools and cutoffs across studies. This high prevalence, combined with the fact that depression is widely underdiagnosed and untreated, is why routine screening with tools such as the Beck Depression Inventory is recommended in the dialysis population."
+    },
+    {
+      "topic": "Depression screening tools",
+      "question": "Which of the following is a recognized screening tool for depression in dialysis patients?",
+      "options": {
+        "A": "Karnofsky Scale",
+        "B": "SF-36",
+        "C": "Beck Depression Inventory",
+        "D": "KD-QOL"
+      },
+      "correct": "C",
+      "explanation": "The Beck Depression Inventory (BDI) is a recognized screening tool for depression, so C is correct; the Hamilton Rating Scale for Depression is the other. The Karnofsky Scale, SF-36, and KD-QOL (A, B, D) are quality-of-life instruments, not depression screens. Distinguishing depression screens from QOL scales matters clinically because a low quality-of-life score is not the same as a diagnosis of depression. Screening for underlying depression is emphasized as an important element of the dialysis treatment plan given how often it is missed."
+    },
+    {
+      "topic": "BDI interpretation",
+      "question": "In a patient with no underlying medical problems, a Beck Depression Inventory score below 9 suggests what?",
+      "options": {
+        "A": "Severe depression",
+        "B": "Moderate to severe depression",
+        "C": "Mild to moderate depression",
+        "D": "No or minimal depression"
+      },
+      "correct": "D",
+      "explanation": "In patients with no underlying medical problems, a BDI score below 9 suggests no or minimal depression, so D is correct. Higher bands indicate progressively worse disease: 10-18 mild to moderate, 19-29 moderate to severe, and 30 or greater severe, so A, B, and C misassign the low score. These cutoffs apply to medically well patients; in ESKD the recommended thresholds are shifted higher (14-16 or greater) because uremic somatic symptoms inflate scores. Knowing the reference bands prevents both over- and under-diagnosis when using the BDI."
+    },
+    {
+      "topic": "BDI interpretation",
+      "question": "In patients with no underlying medical problems, a BDI score of 30 or greater indicates which level of depression?",
+      "options": {
+        "A": "Severe depression",
+        "B": "Mild to moderate depression",
+        "C": "Minimal depression",
+        "D": "No depression"
+      },
+      "correct": "A",
+      "explanation": "In medically well patients a BDI score of 30 or greater indicates severe depression, so A is correct. Scores of 10-18 indicate mild to moderate and 19-29 moderate to severe depression, so B, C, and D underrate a score of 30. Below 9 suggests no or minimal depression. These general-population bands must be interpreted with caution in ESKD, where the recommended cutoffs for significant disease are higher (14-16 or greater) because uremia mimics several depressive symptoms. A score of 30 nonetheless signals severe depression warranting active treatment."
+    },
+    {
+      "topic": "BDI cutoff in ESKD",
+      "question": "In patients with ESKD, the recommended BDI cutoff scores for identifying significant depression are which of the following?",
+      "options": {
+        "A": "Lower, around 5-7",
+        "B": "Higher, around 14-16 or greater",
+        "C": "Unchanged from the general population",
+        "D": "Only valid above 30"
+      },
+      "correct": "B",
+      "explanation": "In ESKD patients the recommended BDI cutoff scores are higher than in the general population, with scores of about 14-16 or greater indicating significant disease, so B is correct. Lower cutoffs of 5-7 (A) would overdiagnose, using unchanged general thresholds (C) ignores the confounding, and requiring above 30 (D) would miss real disease. The threshold is raised because uremia itself produces symptoms such as fatigue, sleep, and appetite disturbance that inflate scores. Adjusting the cutoff improves the accuracy of depression screening in the dialysis population."
+    },
+    {
+      "topic": "Depression consequences",
+      "question": "Besides suicide risk and poor compliance, depressive affect in dialysis patients has been linked to a higher incidence of which infectious complication?",
+      "options": {
+        "A": "Pneumonia",
+        "B": "Endocarditis",
+        "C": "Peritonitis",
+        "D": "Cellulitis"
+      },
+      "correct": "C",
+      "explanation": "Depressive affect has been linked to a higher incidence of peritonitis, so C is correct; pneumonia, endocarditis, and cellulitis (A, B, D) are not the complication cited. Depression can worsen medical outcomes through several pathways: poor compliance with the dialysis prescription, abnormal immunologic function, anorexia and poor nutritional status, and the increased peritonitis risk. This connection matters especially for peritoneal dialysis patients, in whom nonadherence and impaired immune function can translate directly into access-related infections, underscoring why depression screening is part of the treatment plan."
+    },
+    {
+      "topic": "Depression and mortality",
+      "question": "How is the relationship between depression and mortality in dialysis patients characterized?",
+      "options": {
+        "A": "Definitively proven protective",
+        "B": "No association whatsoever",
+        "C": "Only relevant in peritoneal dialysis",
+        "D": "Controversial, with some studies suggesting increased mortality"
+      },
+      "correct": "D",
+      "explanation": "The relationship between depression and mortality in dialysis patients is controversial, with some studies suggesting increased mortality, so D is correct. It is not definitively protective, universally absent, or limited to peritoneal dialysis (A, B, C). Several studies suggest baseline depressive symptomatology is associated with increased mortality even after multiple medical risk factors are accounted for, but the evidence is not conclusive. Regardless of the mortality debate, depression clearly raises risks of noncompliance, suicide, poor nutrition, and peritonitis, which is why it is treated aggressively."
+    },
+    {
+      "topic": "Suicide rate",
+      "question": "How does the suicide rate of ESKD patients compare with that of the general U.S. population?",
+      "options": {
+        "A": "Higher",
+        "B": "Lower",
+        "C": "The same",
+        "D": "Not measurable"
+      },
+      "correct": "A",
+      "explanation": "The suicide rate in ESKD patients is higher than in the general U.S. population, so A is correct; it is not lower, equal, or unmeasurable (B, C, D). ESKD patients can also display suicidal behavior differently from patients with other chronic illnesses, because they can act through noncompliance or by manipulating access sites. Recognized risk factors include prior mental illness, recent hospitalization, age over 75, male gender, white or Asian race, and alcohol or drug dependence. This elevated risk is a key reason depression is treated as the most important psychiatric problem."
+    },
+    {
+      "topic": "Suicide risk factors",
+      "question": "Which of the following is identified as a risk factor for suicide in ESKD patients?",
+      "options": {
+        "A": "Age younger than 40",
+        "B": "Age greater than 75",
+        "C": "Female gender",
+        "D": "Black race"
+      },
+      "correct": "B",
+      "explanation": "Age greater than 75 is an identified suicide risk factor in ESKD patients, so B is correct. The chapter lists previous history of mental illness, recent hospitalization, age over 75, male (not female) gender, white or Asian (not Black) race, and alcohol or drug dependence, which makes A, C, and D incorrect. ESKD patients can act on suicidal intent uniquely by noncompliance with their regimen or by manipulating dialysis access sites. Knowing these demographic and clinical risk factors helps target screening toward the highest-risk patients on the unit."
+    },
+    {
+      "topic": "Suicide methods",
+      "question": "By what means can ESKD patients more easily attempt or commit suicide compared with other chronically ill patients?",
+      "options": {
+        "A": "Only through prescribed medication overdose",
+        "B": "By refusing all food",
+        "C": "Through noncompliance with their regimen or manipulating dialysis access sites",
+        "D": "Through overdose of erythropoietin"
+      },
+      "correct": "C",
+      "explanation": "ESKD patients can attempt or commit suicide more easily either through noncompliance with their medical regimen or by manipulating their dialysis access sites, so C is correct. This differs from other chronic illnesses and is not limited to prescribed medication overdose, food refusal, or erythropoietin overdose (A, B, D). Because a missed treatment or a deliberately disrupted access can be lethal, apparent nonadherence in a depressed patient must be taken seriously as a possible suicidal act. This unique vulnerability underlies the higher-than-general-population suicide rate in ESKD."
+    },
+    {
+      "topic": "Depression treatment options",
+      "question": "Which of the following is a listed treatment option for depression in ESKD patients?",
+      "options": {
+        "A": "Dialysis withdrawal",
+        "B": "Increased dietary protein",
+        "C": "Phosphate binders",
+        "D": "Electroconvulsive therapy"
+      },
+      "correct": "D",
+      "explanation": "Electroconvulsive therapy is a listed treatment option for depression in ESKD, so D is correct. The chapter names pharmacotherapy, psychotherapy including cognitive behavioral therapy, and electroconvulsive therapy as treatment options; dialysis withdrawal, increased dietary protein, and phosphate binders (A, B, C) are not depression treatments. ECT is specifically reserved for severe refractory depression when there are no contraindications. Data on antidepressants in ESKD are limited because these patients are frequently excluded from large trials, so the full menu of pharmacologic and nonpharmacologic options is important."
+    },
+    {
+      "topic": "Antidepressant data gap",
+      "question": "Why are data on antidepressant effects in ESKD patients limited?",
+      "options": {
+        "A": "These patients are often excluded from many large clinical trials",
+        "B": "Antidepressants are contraindicated in ESKD",
+        "C": "Depression is rare in ESKD",
+        "D": "Antidepressants are never dialyzed"
+      },
+      "correct": "A",
+      "explanation": "Data on antidepressant effects in ESKD are limited because these patients are often excluded from many large clinical trials, so A is correct. Antidepressants are not contraindicated in ESKD, depression is not rare (it affects 10%-50%), and antidepressants are not simply never dialyzed (B, C, D). This exclusion from pivotal trials means clinicians often extrapolate from general-population data and must adjust for altered pharmacokinetics, such as reducing SSRI doses to two-thirds and avoiding renally cleared agents. Awareness of this evidence gap encourages cautious, individualized prescribing."
+    },
+    {
+      "topic": "SSRI trial duration",
+      "question": "SSRIs should be continued for at least how long before deciding whether a therapeutic benefit has been achieved?",
+      "options": {
+        "A": "1-2 days",
+        "B": "4-6 weeks",
+        "C": "3 months",
+        "D": "6 months"
+      },
+      "correct": "B",
+      "explanation": "SSRIs should be continued for at least 4-6 weeks before deciding whether a therapeutic benefit has been achieved, so B is correct; 1-2 days, 3 months, or 6 months (A, C, D) are not the recommended trial length. If efficacy is not achieved after an adequate trial, switching to another antidepressant of the same or a different class is reasonable. SSRIs are favored over TCAs because they cause fewer anticholinergic symptoms and no cardiac conduction abnormalities. Allowing a full 4-6 week trial prevents premature abandonment of a potentially effective drug."
+    },
+    {
+      "topic": "TCA suicide risk",
+      "question": "Tricyclic antidepressants pose a particular suicide risk in dialysis patients because they can cause what if taken in large doses?",
+      "options": {
+        "A": "Seizures",
+        "B": "Hyperkalemia",
+        "C": "Death",
+        "D": "Anemia"
+      },
+      "correct": "C",
+      "explanation": "Tricyclic antidepressants can cause death if taken in large doses and hence pose a potential suicide risk, so C is correct; seizures, hyperkalemia, and anemia (A, B, D) are not the cited lethal mechanism. This is a particular concern in a depressed population already at elevated suicide risk. TCAs also produce more anticholinergic symptoms and cardiac conduction abnormalities than SSRIs. For these reasons SSRIs are generally preferred, though they carry their own cautions such as increased bleeding risk and worsened nausea in dialysis patients."
+    },
+    {
+      "topic": "SSRI bleeding risk",
+      "question": "Why may SSRIs be of particular concern regarding bleeding in ESKD patients?",
+      "options": {
+        "A": "They cause thrombocytopenia",
+        "B": "They cause hemolysis",
+        "C": "They interfere only with warfarin",
+        "D": "There is a potential for increased bleeding, relevant with preexisting qualitative platelet defects from uremia"
+      },
+      "correct": "D",
+      "explanation": "SSRIs carry a potential for increased bleeding, which is relevant in ESKD patients with preexisting qualitative platelet defects from uremia, so D is correct. They do not cause thrombocytopenia or hemolysis, and the concern is not limited to warfarin interaction (A, B, C). Because uremia already impairs platelet function, adding an SSRI can compound bleeding tendency. This does not preclude their use, but it warrants awareness, especially around invasive procedures. It is one of several ESKD-specific cautions, alongside worsened nausea and the recommendation to reduce the dose to two-thirds."
+    },
+    {
+      "topic": "SSRI side effects",
+      "question": "SSRIs may worsen which symptoms that are already common in the dialysis population?",
+      "options": {
+        "A": "Nausea and vomiting",
+        "B": "Diarrhea and cramping",
+        "C": "Cough and dyspnea",
+        "D": "Constipation and bloating"
+      },
+      "correct": "A",
+      "explanation": "SSRIs may worsen nausea and vomiting, symptoms already common in the dialysis population, so A is correct; diarrhea and cramping, cough and dyspnea, or constipation and bloating (B, C, D) are not the highlighted effect. Because uremic and dialysis-related GI symptoms are frequent at baseline, an SSRI can aggravate them and reduce tolerability. This is one reason doses are started conservatively and reduced to two-thirds of usual in ESKD. Balancing GI side effects against antidepressant benefit is part of individualizing therapy in these patients."
+    },
+    {
+      "topic": "SSRI dosing in ESKD",
+      "question": "The dose of an SSRI in patients with ESKD has been recommended to be reduced to what fraction of the usual amount?",
+      "options": {
+        "A": "One-half",
+        "B": "Two-thirds",
+        "C": "One-quarter",
+        "D": "The full usual dose"
+      },
+      "correct": "B",
+      "explanation": "It has been recommended that the SSRI dose in ESKD patients be reduced to two-thirds of the usual amount, so B is correct; one-half, one-quarter, or the full usual dose (A, C, D) are not the stated recommendation. SSRIs are typically cleared by the liver and are highly protein bound, but dose reduction remains advised in this population. Starting lower also mitigates side effects such as worsened nausea and bleeding risk. Fluoxetine at 20 mg daily is the best-studied example and is usually well tolerated."
+    },
+    {
+      "topic": "SSRI hemodynamic benefit",
+      "question": "Through effects on vascular tone, SSRIs may provide which additional benefit in dialysis patients?",
+      "options": {
+        "A": "Raising serum potassium",
+        "B": "Improving anemia",
+        "C": "Reducing postural and intradialytic hypotension",
+        "D": "Lowering interdialytic weight gain"
+      },
+      "correct": "C",
+      "explanation": "Through effects on vascular tone, SSRIs may reduce postural and intradialytic hypotension, so C is correct; they do not raise potassium, improve anemia, or lower interdialytic weight gain (A, B, D). This hemodynamic benefit can be clinically useful in patients prone to symptomatic drops in blood pressure during dialysis. Fluoxetine, the first and best-studied SSRI, is usually well tolerated at 20 mg daily. This favorable effect on vascular tone is an added reason SSRIs are often preferred, alongside their better anticholinergic and cardiac profile than TCAs."
+    },
+    {
+      "topic": "Fluoxetine dosing",
+      "question": "What daily dose of fluoxetine, the first available and best-studied SSRI, is described as usually well tolerated in dialysis patients?",
+      "options": {
+        "A": "5 mg",
+        "B": "100 mg",
+        "C": "60 mg",
+        "D": "20 mg"
+      },
+      "correct": "D",
+      "explanation": "A dose of 20 mg of fluoxetine daily is usually well tolerated in dialysis patients, so D is correct; 5 mg, 100 mg, and 60 mg (A, B, C) are not the cited well-tolerated dose. Fluoxetine is the first available and best-studied SSRI in this family, which also includes paroxetine, sertraline, and citalopram. Data supporting the 20 mg dose are limited to the short term. SSRIs are cleared by the liver and highly protein bound, and overall SSRI dosing in ESKD is recommended at two-thirds of usual."
+    },
+    {
+      "topic": "SNRI caution",
+      "question": "Why should SNRIs such as venlafaxine and bupropion be used with caution in ESKD patients?",
+      "options": {
+        "A": "They are primarily renally excreted",
+        "B": "They are hepatotoxic",
+        "C": "They cause severe hypertension",
+        "D": "They are removed by dialysis"
+      },
+      "correct": "A",
+      "explanation": "SNRIs such as venlafaxine and bupropion should be used with caution in ESKD because these drugs are primarily renally excreted, so A is correct; they are not chiefly hepatotoxic, hypertensive, or dialyzable in this context (B, C, D). Renal excretion means the parent drug or its metabolites accumulate in kidney failure. Bupropion in particular has active metabolites almost completely removed by the kidney, which can accumulate and predispose to seizures. This contrasts with SSRIs, which are hepatically cleared, and is why SNRIs are second-line in this population."
+    },
+    {
+      "topic": "Bupropion risk",
+      "question": "Bupropion has active metabolites removed by the kidney that may accumulate in dialysis patients and predispose them to which complication?",
+      "options": {
+        "A": "Arrhythmia",
+        "B": "Seizures",
+        "C": "Hypotension",
+        "D": "Bleeding"
+      },
+      "correct": "B",
+      "explanation": "Bupropion has active metabolites that are almost completely removed by the kidney, and in dialysis patients these may accumulate and predispose to seizures, so B is correct; arrhythmia, hypotension, and bleeding (A, C, D) are not the cited risk. As an SNRI it is primarily renally handled, so kidney failure allows metabolite buildup. The seizure risk is the key reason SNRIs are used cautiously in ESKD. This distinguishes bupropion from hepatically cleared SSRIs, which are generally preferred, and reinforces careful drug selection based on route of elimination."
+    },
+    {
+      "topic": "MAOIs",
+      "question": "Monoamine oxidase inhibitors should be avoided if possible in ESKD patients because of their potential to cause what?",
+      "options": {
+        "A": "Hypertension",
+        "B": "Seizures",
+        "C": "Hypotension",
+        "D": "Bleeding"
+      },
+      "correct": "C",
+      "explanation": "Monoamine oxidase inhibitors should be avoided if possible in ESKD patients because of their potential to cause hypotension, so C is correct; hypertension, seizures, and bleeding (A, B, D) are not the reason given. MAOIs also carry numerous other side effects. The risk of hypotension is especially problematic in dialysis patients who already experience intradialytic and postural blood pressure drops. This is why MAOIs are among the least preferred antidepressants here, in contrast to SSRIs, which may actually reduce hypotension through effects on vascular tone."
+    },
+    {
+      "topic": "CBT trial",
+      "question": "In a randomized crossover trial of 65 hemodialysis patients, cognitive behavioral therapy produced significant improvements in which measures?",
+      "options": {
+        "A": "Serum albumin and hemoglobin",
+        "B": "Blood pressure and phosphorus",
+        "C": "Kt/V and clearance",
+        "D": "Depression scores on the BDI II and Hamilton Depression Rating Scale"
+      },
+      "correct": "D",
+      "explanation": "In a randomized crossover trial of 65 hemodialysis patients, cognitive behavioral therapy produced significant improvements in depression scores measured by the BDI II and the Hamilton Depression Rating Scale, so D is correct. Serum albumin/hemoglobin, blood pressure/phosphorus, and Kt/V/clearance (A, B, C) were not the primary depression outcomes. CBT is one of several psychotherapy forms (interpersonal, supportive, group) that may help manage psychological distress. Beyond mood scores, the trial also showed improved quality-of-life and reduced interdialytic weight gain, supporting nonpharmacologic treatment as a meaningful option."
+    },
+    {
+      "topic": "CBT additional benefits",
+      "question": "In addition to improving depression and quality-of-life scores, CBT in the crossover trial was associated with a reduction in what?",
+      "options": {
+        "A": "Interdialytic weight gain",
+        "B": "Serum potassium",
+        "C": "Blood pressure",
+        "D": "Dialysis time"
+      },
+      "correct": "A",
+      "explanation": "In the crossover trial, CBT was associated with a reduction in interdialytic weight gain, so A is correct; serum potassium, blood pressure, and dialysis time (B, C, D) were not the cited reductions. Along with lowering interdialytic weight gain, CBT improved depression scores on the BDI II and Hamilton scale and improved quality-of-life scores. The reduction in interdialytic weight gain is clinically meaningful because it reflects better fluid adherence, linking psychological treatment to concrete dialysis outcomes. This supports integrating CBT into care for depressed, nonadherent hemodialysis patients."
+    },
+    {
+      "topic": "Denial as coping",
+      "question": "Denial in dialysis patients is best described as which of the following?",
+      "options": {
+        "A": "A rare psychotic symptom",
+        "B": "A common way of coping with uncomfortable thoughts or feelings about being a dialysis patient",
+        "C": "An indication for antipsychotics",
+        "D": "A contraindication to psychotherapy"
+      },
+      "correct": "B",
+      "explanation": "Denial is common and is a way of coping with uncomfortable thoughts or feelings related to being a dialysis patient, so B is correct; it is not a rare psychotic symptom, an indication for antipsychotics, or a contraindication to psychotherapy (A, C, D). When a patient is noncompliant with treatment, denial may play a part in that behavior. Such patients may benefit from psychiatric interventions but often resist because the implication is that something is wrong with them. Framing therapy as stress management for living with ESKD can ease them into treatment."
+    },
+    {
+      "topic": "Relapse prevention",
+      "question": "What is described as important for decreasing the rate of relapse in depressed dialysis patients?",
+      "options": {
+        "A": "Electroconvulsive therapy alone",
+        "B": "Dose reduction of SSRIs",
+        "C": "Supportive psychotherapy in conjunction with pharmacologic treatment",
+        "D": "Avoiding all psychotherapy"
+      },
+      "correct": "C",
+      "explanation": "Supportive psychotherapy in conjunction with pharmacologic treatment is important for decreasing the rate of relapse, so C is correct; ECT alone, SSRI dose reduction, or avoiding psychotherapy (A, B, D) are not described as relapse prevention. Combining medication with supportive therapy addresses both the biological and psychological dimensions of depression. Other psychotherapies (CBT, interpersonal, group) can also help, and group therapy at the unit has been linked to improved survival. The emphasis on combined treatment reflects that pharmacotherapy alone may not sustain remission in this population."
+    },
+    {
+      "topic": "Group therapy",
+      "question": "An uncontrolled study of group therapy sessions at the dialysis unit found participation was associated with what outcome?",
+      "options": {
+        "A": "Reduced hospitalization only",
+        "B": "Lower blood pressure",
+        "C": "No measurable benefit",
+        "D": "Improved patient survival"
+      },
+      "correct": "D",
+      "explanation": "An uncontrolled study found that participation in group therapy sessions at the dialysis unit was associated with improved patient survival, so D is correct; it was not limited to reduced hospitalization, lower blood pressure, or no benefit (A, B, C). Group therapy is one of several psychotherapy forms that may have a positive impact on psychological distress. Because the study was uncontrolled, the survival association should be interpreted cautiously, but it supports offering group and supportive therapies. Combined with pharmacotherapy, such nonpharmacologic approaches help reduce relapse and improve outcomes."
+    },
+    {
+      "topic": "Electroconvulsive therapy",
+      "question": "Electroconvulsive therapy may be used in dialysis patients for which indication, provided there are no contraindications?",
+      "options": {
+        "A": "Severe refractory depression",
+        "B": "Mild situational anxiety",
+        "C": "Sexual dysfunction",
+        "D": "Sleep disturbance"
+      },
+      "correct": "A",
+      "explanation": "Electroconvulsive therapy may be used for patients with severe refractory depression, provided there are no contraindications, so A is correct; mild situational anxiety, sexual dysfunction, and sleep disturbance (B, C, D) are not indications. ECT is reserved for the most severe cases that have not responded to other treatments. It sits at the end of a treatment ladder that begins with pharmacotherapy and psychotherapy including CBT. Reserving ECT for refractory disease and screening for contraindications reflects its role as a last-line but potentially effective option in ESKD."
+    },
+    {
+      "topic": "Dementia and dialysis",
+      "question": "For patients with progressive dementia, physicians are advised to initiate discussions with the family about what?",
+      "options": {
+        "A": "Increasing dialysis frequency",
+        "B": "Cessation of dialysis",
+        "C": "Transplant listing",
+        "D": "Switching to peritoneal dialysis"
+      },
+      "correct": "B",
+      "explanation": "For patients with progressive dementia, physicians should initiate discussions with the family about cessation of dialysis, so B is correct; increasing frequency, transplant listing, or switching to peritoneal dialysis (A, C, D) are not advised. Neurocognitive disorders are common in ESKD and may stem from uremia or coexisting conditions. As dementia progresses, continued dialysis may no longer serve the patient's interests, making shared discussions about withdrawal appropriate. Advance directives offered at the start of therapy, before capacity is lost, help guide these difficult decisions with the family."
+    },
+    {
+      "topic": "Dialysis withdrawal",
+      "question": "Withdrawal from dialysis is described as relatively common, especially in which patients?",
+      "options": {
+        "A": "Young transplant candidates",
+        "B": "Elderly patients or patients who fail to thrive",
+        "C": "Newly diagnosed patients",
+        "D": "Peritoneal dialysis patients only"
+      },
+      "correct": "B",
+      "explanation": "Withdrawal from dialysis is relatively common, especially in elderly patients or patients who fail to thrive, so B is correct; young transplant candidates, newly diagnosed patients, and peritoneal dialysis patients only (A, C, D) are not the groups emphasized. Withdrawal is an accepted part of end-of-life care in ESKD, particularly when quality of life is poor or dementia is progressing. This is why physicians should offer advance directives at initiation of therapy and use shared decision-making resources such as the Renal Physicians Association guidelines to support these conversations."
+    },
+    {
+      "topic": "Advance directives",
+      "question": "When should advance directives ideally be offered to patients relative to renal replacement therapy?",
+      "options": {
+        "A": "Only after cognitive decline appears",
+        "B": "Only during hospitalization",
+        "C": "At the initiation of renal replacement therapy, before onset of any capacity-impairing disease",
+        "D": "Never, as they are not applicable"
+      },
+      "correct": "C",
+      "explanation": "Advance directives should be offered at the initiation of renal replacement therapy, ideally before the onset of any disease that would impair capacity for decision making, so C is correct. Waiting until cognitive decline appears, until hospitalization, or never offering them (A, B, D) risks losing the patient's own voice in care decisions. Offering directives early preserves autonomy for later choices about withdrawal, which is relatively common in elderly or failing patients. The Renal Physicians Association shared decision-making guidelines are cited as a helpful resource for this planning."
+    },
+    {
+      "topic": "Shared decision making",
+      "question": "Guidelines regarding shared decision making that are cited as a helpful resource are endorsed by which organization?",
+      "options": {
+        "A": "American Psychiatric Association",
+        "B": "American College of Physicians",
+        "C": "National Kidney Foundation",
+        "D": "U.S. Renal Physicians Association"
+      },
+      "correct": "D",
+      "explanation": "The shared decision-making guidelines cited as a helpful resource are endorsed by the U.S. Renal Physicians Association, so D is correct; the American Psychiatric Association, American College of Physicians, and National Kidney Foundation (A, B, C) are not the endorsing body here. These guidelines address withdrawal from dialysis and palliative care and support conversations with patients and families. They are particularly relevant given that dialysis withdrawal is relatively common in elderly and failing patients and that advance directives should be offered at the start of therapy before capacity is impaired."
+    },
+    {
+      "topic": "Anxiety prevalence",
+      "question": "A single-center study of 70 hemodialysis patients reported what prevalence of anxiety disorders?",
+      "options": {
+        "A": "45%",
+        "B": "10%",
+        "C": "25%",
+        "D": "70%"
+      },
+      "correct": "A",
+      "explanation": "A single-center study of 70 hemodialysis patients reported a 45% prevalence of anxiety disorders, so A is correct; 10%, 25%, and 70% (B, C, D) are not the figure cited. Anxiety disorders can be frequent in ESKD and are associated with lower patient perception of quality of life. This high prevalence highlights that anxiety, like depression, is a common and under-recognized burden on the unit. Anxiety states should be treated through psychotherapy and behavioral techniques, with short-acting benzodiazepines reserved for limited use when other measures fail."
+    },
+    {
+      "topic": "Anxiety and QOL",
+      "question": "Anxiety disorders in ESKD patients are associated with what regarding quality of life?",
+      "options": {
+        "A": "Higher patient perception of quality of life",
+        "B": "Lower patient perception of quality of life",
+        "C": "No effect on quality of life",
+        "D": "Improved survival"
+      },
+      "correct": "B",
+      "explanation": "Anxiety disorders in ESKD are associated with lower patient perception of quality of life, so B is correct; they are not linked to higher QOL, no effect, or improved survival (A, C, D). Anxiety can be frequent, with a 45% prevalence in one single-center study of 70 hemodialysis patients. Because anxiety degrades quality of life, it warrants attention alongside depression. First-line management is psychotherapy and behavioral techniques, with short-acting benzodiazepines such as lorazepam or alprazolam used only for limited periods and started at low doses."
+    },
+    {
+      "topic": "Managing hostility",
+      "question": "When hostility or aggression poses a threat of harm, what approach is described as paramount?",
+      "options": {
+        "A": "Immediate discharge from the unit",
+        "B": "Starting antidepressants",
+        "C": "Setting limits or establishing boundaries",
+        "D": "Increasing dialysis dose"
+      },
+      "correct": "C",
+      "explanation": "When hostility or aggression poses a threat of harm to the patient or others, setting limits or establishing boundaries is paramount, so C is correct; immediate discharge, starting antidepressants, or increasing dialysis dose (A, B, D) are not the described priority. Disruptive behavior toward staff occurs in a minority of patients but disturbs the whole unit, so clinicians should try to understand why the patient is angry and explore solutions. Hostility may reflect underlying psychiatric symptoms such as paranoia or delirium, in which case psychiatric consultation should be sought."
+    },
+    {
+      "topic": "Benzodiazepines",
+      "question": "Which short-acting benzodiazepines may be prescribed for limited periods when other measures fail for anxiety?",
+      "options": {
+        "A": "Diazepam or chlordiazepoxide",
+        "B": "Haloperidol or risperidone",
+        "C": "Gabapentin or valproic acid",
+        "D": "Lorazepam or alprazolam"
+      },
+      "correct": "D",
+      "explanation": "Short-acting benzodiazepines such as lorazepam or alprazolam may be prescribed for limited periods when other measures fail for anxiety, so D is correct. Haloperidol/risperidone are antipsychotics, and gabapentin/valproic acid serve other roles (B, C), while diazepam and chlordiazepoxide (A) should be avoided. Lorazepam and alprazolam are metabolized by the liver, but as with SSRIs it is prudent to start at lower doses. Their short action and hepatic metabolism make them safer than long-acting agents in dialysis, though they remain a limited-duration adjunct to psychotherapy and behavioral techniques."
+    },
+    {
+      "topic": "Benzodiazepines to avoid",
+      "question": "The use of diazepam and chlordiazepoxide should be avoided in dialysis patients for what reason?",
+      "options": {
+        "A": "They are metabolized to pharmacologically active metabolites",
+        "B": "They are removed by dialysis",
+        "C": "They cause seizures",
+        "D": "They cause hypertension"
+      },
+      "correct": "A",
+      "explanation": "Diazepam and chlordiazepoxide should be avoided in dialysis patients owing to their metabolism to pharmacologically active metabolites, so A is correct; they are not avoided because of dialysis removal, seizures, or hypertension (B, C, D). Active metabolites can accumulate in kidney failure and prolong sedation. This contrasts with lorazepam and alprazolam, which are short-acting and preferred, though still started at low doses. Barbiturates should also not substitute for benzodiazepines, since long-acting ones are removed by hemodialysis, making drug choice in ESKD heavily dependent on metabolism and clearance."
+    },
+    {
+      "topic": "Haloperidol dosing",
+      "question": "For the acutely agitated dialysis patient, why does haloperidol usually not require dose adjustment?",
+      "options": {
+        "A": "It is removed by dialysis",
+        "B": "It is inactive in uremia",
+        "C": "It is not renally cleared",
+        "D": "It has no active metabolites in urine"
+      },
+      "correct": "C",
+      "explanation": "Haloperidol is not renally cleared, so no dose adjustment is usually necessary in the acutely agitated dialysis patient, making C correct. It is not removed by dialysis, inactive in uremia, or notable simply for lacking urinary active metabolites (A, B, D). This favorable pharmacokinetic profile makes haloperidol a practical choice when antipsychotic control of acute agitation is required. Little is known about atypical antipsychotics such as risperidone or olanzapine in this population, so haloperidol's predictable, adjustment-free dosing is a clinical advantage in the dialysis setting."
+    },
+    {
+      "topic": "Lithium dosing",
+      "question": "Because lithium is cleared by dialysis, when should its dose be given in ESKD patients with bipolar disorder?",
+      "options": {
+        "A": "Before each dialysis treatment",
+        "B": "Only on nondialysis days",
+        "C": "Continuously by infusion",
+        "D": "After each dialysis treatment"
+      },
+      "correct": "D",
+      "explanation": "Because lithium is cleared by dialysis, its dose should be given after each dialysis treatment, so D is correct; before dialysis, only on nondialysis days, or continuous infusion (A, B, C) would be undermined by dialytic removal. ESKD and CKD patients with bipolar disorder who require lithium should have serum levels checked frequently because of its narrow therapeutic window. Dosing after treatment ensures the drug is not immediately removed. This timing principle, driven by dialyzability, mirrors the general lesson that a drug's clearance route dictates its dosing schedule in dialysis."
+    },
+    {
+      "topic": "Valproic acid",
+      "question": "In patients with impaired renal function, free serum levels of valproic acid have been observed to be which of the following?",
+      "options": {
+        "A": "Decreased",
+        "B": "Unchanged",
+        "C": "Undetectable",
+        "D": "Elevated"
+      },
+      "correct": "D",
+      "explanation": "In patients with impaired renal function, free serum levels of valproic acid have been observed to be elevated, so D is correct; decreased, unchanged, or undetectable (A, B, C) are wrong. Valproic acid is a mood stabilizer sometimes used for bipolar disorder, and the elevated free (unbound, active) fraction in renal impairment raises the risk of toxicity even when total levels look acceptable. This is why caution and level monitoring are needed. It parallels lithium management, where altered handling in kidney failure mandates careful dosing and frequent monitoring."
+    },
+    {
+      "topic": "Glucocorticoids and psychosis",
+      "question": "Caution with glucocorticoids is advised in potential transplant patients with a history of psychosis because of the risk of what?",
+      "options": {
+        "A": "Steroid-induced psychosis",
+        "B": "Steroid-induced diabetes",
+        "C": "Steroid-induced hypotension",
+        "D": "Steroid-induced seizures"
+      },
+      "correct": "A",
+      "explanation": "Caution with glucocorticoids is advised in potential transplant patients with a history of psychosis because of the risk of steroid-induced psychosis, so A is correct; steroid-induced diabetes, hypotension, or seizures (B, C, D) are not the cited concern here. In such patients, other steroid-sparing agents should be used if clinically feasible. This matters because transplant immunosuppression often includes corticosteroids, which can precipitate or worsen psychosis in vulnerable individuals. Recognizing a psychiatric history before transplant allows the team to plan an immunosuppressive regimen that minimizes psychiatric risk."
+    },
+    {
+      "topic": "Marital discord",
+      "question": "One study found that what proportion of couples that included an ESKD patient experienced marital discord?",
+      "options": {
+        "A": "Less than 10%",
+        "B": "More than 50%",
+        "C": "About 25%",
+        "D": "Nearly 90%"
+      },
+      "correct": "B",
+      "explanation": "One study found that more than 50% of couples that included an ESKD patient experienced marital discord, so B is correct; less than 10%, about 25%, and nearly 90% (A, C, D) are not the figure cited. Marital conflict can be an important stressor tied to the patient's perception of illness burden and to nonadherence with the dialysis prescription. Marital satisfaction and conflict may be especially salient for female patients, in whom higher satisfaction has been linked to improved survival. This underscores the family context as part of psychosocial assessment."
+    },
+    {
+      "topic": "Marital satisfaction and survival",
+      "question": "Higher levels of marital satisfaction were associated with improved survival in which group?",
+      "options": {
+        "A": "Male ESKD patients only",
+        "B": "Female ESKD patients treated with hemodialysis",
+        "C": "All patients equally",
+        "D": "Peritoneal dialysis patients only"
+      },
+      "correct": "B",
+      "explanation": "Higher levels of marital satisfaction were associated with improved survival in female ESKD patients treated with hemodialysis, so B is correct; not males only, all patients equally, or peritoneal dialysis patients only (A, C, D). Marital satisfaction was not associated with differential outcomes in men, indicating a gender-specific effect. More than 50% of couples including an ESKD patient experienced marital discord, and conflict relates to perceived illness burden and nonadherence. Recognizing that marital relationships may particularly influence outcomes in women can guide psychosocial support efforts."
+    },
+    {
+      "topic": "Sexual dysfunction causes",
+      "question": "The high prevalence of sexual dysfunction in ESKD patients is attributed to multiple factors plus disturbances in which axis?",
+      "options": {
+        "A": "Renin-angiotensin-aldosterone axis",
+        "B": "Hypothalamic-pituitary-thyroid axis",
+        "C": "Hypothalamic-pituitary-adrenal axis",
+        "D": "Hypothalamic-pituitary-gonadal axis"
+      },
+      "correct": "D",
+      "explanation": "The high prevalence of sexual dysfunction in ESKD reflects disturbances in the hypothalamic-pituitary-gonadal axis, so D is correct; the renin-angiotensin-aldosterone, hypothalamic-pituitary-thyroid, and hypothalamic-pituitary-adrenal axes (A, B, C) are not the cited disturbance. Contributing factors also include uremia, neuropathy, autonomic dysfunction, vascular disease, depression, and medications. Problems include decreased libido, erectile dysfunction, menstrual disorders, and infertility. Because sexual dysfunction is common and multifactorial, counseling patients, such as men before starting dialysis, can improve communication and reduce associated depression."
+    },
+    {
+      "topic": "Impotence prevalence",
+      "question": "Impotence is believed to occur in roughly what percentage of men treated with dialysis?",
+      "options": {
+        "A": "70%",
+        "B": "20%",
+        "C": "40%",
+        "D": "95%"
+      },
+      "correct": "A",
+      "explanation": "Impotence is believed to occur in roughly 70% of men treated with dialysis, so A is correct; 20%, 40%, and 95% (B, C, D) are not the cited figure. Because it is so common, men about to initiate dialysis should be counseled regarding the possibility of erectile dysfunction. This anticipatory counseling can lead to better communication with the physician and thereby reduce the likelihood of depression. Sexual dysfunction here is multifactorial, stemming from uremia, neuropathy, autonomic and vascular disease, depression, medications, and hypothalamic-pituitary-gonadal axis disturbances."
+    },
+    {
+      "topic": "Menstrual disorders",
+      "question": "What is the most common menstrual disorder in women with ESKD?",
+      "options": {
+        "A": "Menorrhagia",
+        "B": "Anovulation",
+        "C": "Dysmenorrhea",
+        "D": "Precocious menstruation"
+      },
+      "correct": "B",
+      "explanation": "The most common menstrual disorder in women with ESKD is anovulation, so B is correct; menorrhagia, dysmenorrhea, and precocious menstruation (A, C, D) are not the most common. Irregular menstrual cycles are common after initiation of hemodialysis, and women commonly have disturbances in fertility and menstruation. These reproductive problems reflect the same hypothalamic-pituitary-gonadal axis disturbances and uremic effects that cause sexual dysfunction more broadly. Recognizing anovulation as the predominant disorder is relevant to counseling about fertility, with treatment details covered elsewhere in the text."
+    },
+    {
+      "topic": "Employment",
+      "question": "What proportion of ESKD patients do NOT continue working after beginning renal replacement therapy?",
+      "options": {
+        "A": "Less than one-quarter",
+        "B": "About one-third",
+        "C": "More than half",
+        "D": "Nearly all"
+      },
+      "correct": "C",
+      "explanation": "More than half of ESKD patients do not continue working after beginning renal replacement therapy, so C is correct; less than one-quarter, about one-third, and nearly all (A, B, D) are wrong. Those holding professional occupations may have greater schedule flexibility and are more likely to continue employment. Unemployment can have a significant psychologic impact, possibly contributing to a greater likelihood of depression. This links the socioeconomic burden of dialysis directly to mental health, reinforcing why psychosocial and vocational support are part of comprehensive ESKD care."
+    },
+    {
+      "topic": "Unemployment impact",
+      "question": "Unemployment in ESKD patients may contribute to a greater likelihood of which condition?",
+      "options": {
+        "A": "Psychosis",
+        "B": "Dementia",
+        "C": "Anxiety only",
+        "D": "Depression"
+      },
+      "correct": "D",
+      "explanation": "Unemployment in ESKD patients can have a significant psychologic impact and may contribute to a greater likelihood of depression, so D is correct; psychosis, dementia, and anxiety only (A, B, C) are not the cited consequence. More than half of ESKD patients do not continue working after starting renal replacement therapy, and those in professional roles are more likely to stay employed. Because joblessness feeds into depression, which is the most important psychiatric problem in this population, addressing socioeconomic and vocational issues is a meaningful part of psychosocial care."
+    },
+    {
+      "topic": "Rehabilitation",
+      "question": "Which intervention is described as playing an important role in improving a patient's overall sense of well-being and should be promoted at the dialysis center?",
+      "options": {
+        "A": "Exercise programs",
+        "B": "Bed rest",
+        "C": "Fluid restriction",
+        "D": "Higher protein intake"
+      },
+      "correct": "A",
+      "explanation": "Exercise may play an important role in improving a patient's overall sense of well-being and should be promoted at the dialysis center or during routine visits, so A is correct; bed rest, fluid restriction, and higher protein intake (B, C, D) are not the described rehabilitative measure. Specially designed exercise programs are available for those with physical impairments. Other modalities to consider include stress reduction/relaxation exercises and biofeedback, which have been used successfully, especially in managing disruptive and unstable patients. Rehabilitation thus supports both physical function and psychological well-being."
+    },
+    {
+      "topic": "QOL scales",
+      "question": "Which of the following is a scale used to assess quality of life in ESKD patients?",
+      "options": {
+        "A": "Beck Depression Inventory",
+        "B": "Hamilton Rating Scale",
+        "C": "Kidney Disease Quality-of-Life Scale (KD-QOL)",
+        "D": "PHQ-9"
+      },
+      "correct": "C",
+      "explanation": "The Kidney Disease Quality-of-Life Scale (KD-QOL) is a scale used to assess quality of life in ESKD, so C is correct; the Beck Depression Inventory and Hamilton Rating Scale (A, B) are depression tools, and PHQ-9 (D) is not among those listed. Other QOL scales cited include the SF-36, Illness Effects Questionnaire, Karnofsky Scale, and Satisfaction with Life Scale, all primarily subjective measures. Assessing QOL matters especially when deciding about initiating or withdrawing dialysis, and higher self-rated QOL may correlate with better compliance with the dialysis prescription."
+    },
+    {
+      "topic": "Erythropoietin and QOL",
+      "question": "Therapy with which agent has improved quality of life for dialysis patients?",
+      "options": {
+        "A": "Fluoxetine",
+        "B": "Erythropoietin",
+        "C": "Lithium",
+        "D": "Gabapentin"
+      },
+      "correct": "B",
+      "explanation": "Therapy with erythropoietin has improved quality of life for dialysis patients, so B is correct; fluoxetine, lithium, and gabapentin (A, C, D) are not the agent cited for QOL improvement. ESKD patients with successful renal transplants tend to rate their QOL higher than those with failed transplants or those on dialysis. QOL is assessed with subjective scales such as the SF-36 and KD-QOL and is central to decisions about initiating or withdrawing dialysis. By correcting anemia, erythropoietin improves well-being, illustrating how medical therapy can directly enhance perceived quality of life."
+    }
+  ]
+}

@@ -1,0 +1,665 @@
+{
+  "chapter": 36,
+  "questions": [
+    {
+      "topic": "FGF23 physiology",
+      "question": "Which cells produce FGF23, and what is its main action on the kidney?",
+      "options": {
+        "A": "Osteoblasts; it increases 1-alpha hydroxylase activity",
+        "B": "Parathyroid chief cells; it stimulates calcium reabsorption",
+        "C": "Osteocytes; it stimulates phosphaturia by downregulating sodium-phosphate cotransporters",
+        "D": "Renal tubular cells; it increases phosphorus reabsorption"
+      },
+      "correct": "C",
+      "explanation": "FGF23 is produced by osteocytes, not osteoblasts, parathyroid chief cells, or tubular cells, so options A, B, and D are wrong. It stimulates phosphaturia by decreasing the expression and activity of sodium-phosphate cotransporters in the renal tubules; these normally reabsorb filtered phosphorus, so downregulating them raises per-nephron excretion. FGF23 rises early in CKD as each surviving nephron faces a larger filtered phosphorus load, helping limit phosphorus overload before overt hyperphosphatemia appears."
+    },
+    {
+      "topic": "FGF23 receptor",
+      "question": "FGF23 affects renal tubular cell function by acting on which receptor complex?",
+      "options": {
+        "A": "The calcium-sensing receptor",
+        "B": "The vitamin D receptor complex",
+        "C": "The PTH1 receptor",
+        "D": "The Klotho-FGF receptor complex"
+      },
+      "correct": "D",
+      "explanation": "FGF23 acts on renal tubular cells through a Klotho-FGF receptor complex, so D is correct. It does not signal via the calcium-sensing receptor (A), the vitamin D receptor (B), or the PTH1 receptor (C); those mediate calcium sensing, calcitriol action, and PTH signaling. Klotho is the obligate co-receptor that gives FGF23 its renal tissue specificity. Through this complex FGF23 downregulates sodium-phosphate cotransporters, producing phosphaturia and limiting phosphorus retention as nephron number falls in CKD."
+    },
+    {
+      "topic": "Calcitriol synthesis",
+      "question": "The final activation of vitamin D to calcitriol (1,25-D) occurs primarily by hydroxylation at which position, catalyzed by which enzyme in the renal tubules?",
+      "options": {
+        "A": "24-position by 24-hydroxylase",
+        "B": "1-position by the enzyme 1-alpha hydroxylase",
+        "C": "25-position by the liver enzyme 25-hydroxylase",
+        "D": "7-position by 7-dehydrocholesterol reductase"
+      },
+      "correct": "B",
+      "explanation": "Calcitriol is made in three steps: skin converts 7-hydroxycholesterol to cholecalciferol, the liver hydroxylates the 25-position to form 25-D, and finally the 1-position is hydroxylated to yield 1,25-D. That last step occurs most importantly in the renal tubules via 1-alpha hydroxylase, so B is correct. A (24-hydroxylase) and D (7-dehydrocholesterol reductase) are not the activating step, and C describes the earlier hepatic 25-hydroxylation rather than the final renal activation that produces calcitriol."
+    },
+    {
+      "topic": "Calcitriol actions",
+      "question": "Which of the following is an action of calcitriol on mineral balance?",
+      "options": {
+        "A": "It stimulates the parathyroid gland to make PTH",
+        "B": "It decreases calcium reabsorption in the kidney",
+        "C": "It decreases gut calcium and phosphorus absorption",
+        "D": "It increases gut calcium and phosphorus absorption and suppresses PTH production"
+      },
+      "correct": "D",
+      "explanation": "Calcitriol increases gut calcium and phosphorus absorption, increases renal calcium reabsorption, suppresses parathyroid PTH production, and helps mineralize bone, so D is correct. A is wrong because calcitriol suppresses rather than stimulates PTH, a feedback exploited pharmacologically. B and C are reversed: calcitriol increases, not decreases, renal calcium reabsorption and gut mineral absorption. In early CKD calcitriol falls, cutting gut calcium absorption and driving the hypocalcemia and secondary hyperparathyroidism of advancing disease."
+    },
+    {
+      "topic": "Reduced calcitriol in early CKD",
+      "question": "In early CKD, calcitriol levels fall in part because increased FGF23 has what effect on the kidney?",
+      "options": {
+        "A": "It suppresses the 1-alpha hydroxylase enzyme, blocking conversion of 25-D to 1,25-D",
+        "B": "It increases skin production of cholecalciferol",
+        "C": "It stimulates 1-alpha hydroxylase, increasing 1,25-D",
+        "D": "It increases hepatic 25-hydroxylation"
+      },
+      "correct": "A",
+      "explanation": "In early CKD calcitriol falls by two mechanisms: rising FGF23 suppresses renal 1-alpha hydroxylase, blocking conversion of 25-D to 1,25-D, and reduced functioning renal mass leaves less enzyme, so A is correct. C states the opposite (FGF23 stimulating the enzyme), which is actually PTH's effect, not FGF23's. B and D (skin cholecalciferol, hepatic 25-hydroxylation) are not FGF23-driven. Lower calcitriol reduces gut calcium absorption and is partly compensatory, easing the phosphorus-excretion burden on remaining nephrons."
+    },
+    {
+      "topic": "PTH structure",
+      "question": "Parathyroid hormone is a peptide composed of how many amino acids, and which portion is essential for receptor binding?",
+      "options": {
+        "A": "84 amino acids; the first two amino acids on the N-terminal",
+        "B": "7 amino acids; the mid-region",
+        "C": "120 amino acids; the entire molecule equally",
+        "D": "34 amino acids; the C-terminal end"
+      },
+      "correct": "A",
+      "explanation": "PTH is an 84-amino-acid peptide whose primary receptor binding requires the first two amino acids at the N-terminal, so A is correct. B (7 amino acids, mid-region), C (120 amino acids), and D (34 amino acids, C-terminal) are all wrong. The N-terminus is essential for PTH1 receptor activation, whereas large C-terminal portions are not. This matters clinically because inactive C-terminal fragments accumulate in renal failure and can be detected by assays, confounding PTH measurement in dialysis patients."
+    },
+    {
+      "topic": "PTH secretion stimulus",
+      "question": "What is the main stimulus to PTH secretion, acting via receptors on the parathyroid gland?",
+      "options": {
+        "A": "Hypercalcemia acting on vitamin D receptors",
+        "B": "Low phosphorus acting on Klotho receptors",
+        "C": "Hypocalcemia acting on calcium-sensing receptors",
+        "D": "High calcitriol acting on FGF receptors"
+      },
+      "correct": "C",
+      "explanation": "The main stimulus to PTH secretion is hypocalcemia acting on calcium-sensing receptors on the parathyroid gland, so C is correct. A is wrong twice over, since hypercalcemia suppresses PTH and acts via calcium-sensing rather than vitamin D receptors. B and D invert the physiology. High serum phosphorus and low 1,25-D also stimulate PTH, while 1,25-D and higher calcium suppress it. This calcium-sensing pathway is the target of calcimimetic drugs used to lower PTH in dialysis patients."
+    },
+    {
+      "topic": "PTH and FGF23 opposing effects",
+      "question": "PTH and FGF23 both increase renal phosphorus excretion, but they have opposite effects on which kidney function?",
+      "options": {
+        "A": "The reabsorption of sodium",
+        "B": "The kidney enzyme that makes 1,25-D (1-alpha hydroxylase)",
+        "C": "Glomerular filtration rate",
+        "D": "The secretion of renin"
+      },
+      "correct": "B",
+      "explanation": "Both PTH and FGF23 promote phosphaturia, but they act oppositely on renal 1-alpha hydroxylase, the enzyme that makes 1,25-D: PTH stimulates it while FGF23 suppresses it, so B is correct. A, C, and D (sodium reabsorption, GFR, renin) are not the contrasting action described. This divergence explains why FGF23-driven early CKD lowers calcitriol whereas PTH would raise it. Both hormones reduce phosphorus reabsorption to increase urinary excretion, but their differing effect on calcitriol shapes overall mineral balance."
+    },
+    {
+      "topic": "PTH feedback loop",
+      "question": "The secretion of PTH is inhibited by which substance acting on receptors in the parathyroid gland, a loop exploited pharmacologically?",
+      "options": {
+        "A": "Magnesium",
+        "B": "Phosphorus",
+        "C": "FGF23",
+        "D": "1,25-D (calcitriol)"
+      },
+      "correct": "D",
+      "explanation": "PTH secretion is inhibited by 1,25-D (calcitriol) acting on calcitriol receptors in the parathyroid gland, so D is correct. Magnesium (A) and FGF23 (C) are not the described feedback inhibitor, and phosphorus (B) actually stimulates PTH. This negative feedback is exploited pharmacologically with calcitriol and its analogs (vitamin D receptor activators) to suppress PTH in secondary hyperparathyroidism, though it must be balanced against the hypercalcemia and adynamic bone that follow oversuppression."
+    },
+    {
+      "topic": "Normal serum phosphorus",
+      "question": "What is the stated normal range for serum phosphorus?",
+      "options": {
+        "A": "8.4 to 10.2 mg/dL",
+        "B": "1.0 to 2.5 mg/dL",
+        "C": "5.0 to 7.0 mg/dL",
+        "D": "2.7 to 4.6 mg/dL"
+      },
+      "correct": "D",
+      "explanation": "The stated normal serum phosphorus range is 2.7 to 4.6 mg/dL (0.9-1.5 mmol/L), so D is correct. A (8.4-10.2 mg/dL) is the normal calcium range, not phosphorus, and B and C are not the reference values given. KDIGO advises targeting predialysis phosphorus in the normal range because better control associates with better outcomes, though in practice clinicians commonly accept 3.0-5.5 mg/dL. Hyperphosphatemia drives hyperparathyroidism and vascular calcification, making phosphorus control central to CKD-MBD management."
+    },
+    {
+      "topic": "Phosphorus target in practice",
+      "question": "In clinical practice, most physicians and dietitians strive to maintain predialysis phosphorus in which range?",
+      "options": {
+        "A": "1.0 to 2.5 mg/dL",
+        "B": "3.0 to 5.5 mg/dL",
+        "C": "2.0 to 3.0 mg/dL",
+        "D": "6.0 to 8.0 mg/dL"
+      },
+      "correct": "B",
+      "explanation": "In clinical practice most physicians and dietitians keep predialysis phosphorus between 3.0 and 5.5 mg/dL (1.0-1.8 mmol/L), so B is correct. Although KDIGO advises aiming for the strict normal range of 2.7-4.6 mg/dL, the pragmatic 3.0-5.5 target reflects how hard normal levels are to reach in anuric patients. A and C are too low and D too high. Hyperphosphatemia stimulates hyperparathyroidism and promotes vascular calcification, so this band balances feasibility against those risks."
+    },
+    {
+      "topic": "Hypophosphatemia management",
+      "question": "Phosphorus supplementation (e.g., K Phos Neutral) is indicated in a dialysis patient when the serum phosphorus remains below what level?",
+      "options": {
+        "A": "4.6 mg/dL",
+        "B": "3.0 mg/dL",
+        "C": "5.5 mg/dL",
+        "D": "1.0 mg/dL"
+      },
+      "correct": "B",
+      "explanation": "Phosphorus supplements such as K Phos Neutral are indicated when serum phosphorus stays below 3.0 mg/dL (1.0 mmol/L), so B is correct. 4.6 (A) and 5.5 (C) are within or above the acceptable range and would not prompt supplementation, and 1.0 mg/dL (D) is far too low a trigger. On a conventional thrice-weekly schedule, persistent hypophosphatemia off binders usually reflects poor intake and low protein, so patients should first be counseled to increase dietary protein and phosphorus before adding a supplement."
+    },
+    {
+      "topic": "Dietary phosphorus restriction",
+      "question": "The key dietary target for controlling serum phosphorus is to restrict dietary phosphorus to what daily amount?",
+      "options": {
+        "A": "2,000 to 3,000 mg per day",
+        "B": "800 to 1,200 mg per day",
+        "C": "200 to 400 mg per day",
+        "D": "1,500 to 2,000 mg per day"
+      },
+      "correct": "B",
+      "explanation": "Restricting dietary phosphorus to 800-1,200 mg per day is the key to controlling serum phosphorus, so B is correct. A and D are too high to achieve control, while C (200-400 mg) is unrealistically restrictive and not the stated target. Because phosphorus content tracks protein, restriction must be balanced against nutrition. Inorganic phosphate additives in processed foods are absorbed far more readily than natural food phosphorus, so ongoing education by a knowledgeable dietitian is the best way to establish sound dietary habits."
+    },
+    {
+      "topic": "Phosphorus absorption sources",
+      "question": "Regarding the intestinal absorption of phosphorus from food, which statement is correct?",
+      "options": {
+        "A": "Inorganic phosphate additives are absorbed much more readily, and animal-protein phosphorus is more readily absorbed than plant-protein phosphorus",
+        "B": "Phosphorus is absorbed more readily from plant protein than animal protein",
+        "C": "Inorganic phosphate additives are absorbed less readily than natural food phosphorus",
+        "D": "All dietary phosphorus sources are absorbed equally"
+      },
+      "correct": "A",
+      "explanation": "Inorganic phosphate additives used as preservatives and flavor enhancers in processed foods are absorbed much more readily than phosphorus in natural foods, and phosphorus from animal protein is absorbed more readily than from plant protein, so A is correct. B reverses the animal/plant comparison, C reverses the additive comparison, and D wrongly claims equal absorption. This is why avoiding processed foods with phosphate additives is stressed, and why plant protein sources can be advantageous for phosphorus control."
+    },
+    {
+      "topic": "Phosphorus removal by hemodialysis",
+      "question": "Approximately how much phosphorus does a typical hemodialysis treatment remove, and what most affects its removal?",
+      "options": {
+        "A": "About 100 mg; frequency alone",
+        "B": "About 800 mg; total weekly time on dialysis",
+        "C": "About 2,000 mg; dialyzer blood flow only",
+        "D": "About 300 mg; predialysis serum level"
+      },
+      "correct": "B",
+      "explanation": "Hemodialysis removes about 800 mg of phosphorus per treatment regardless of predialysis serum level, and total weekly time on dialysis is the most important factor affecting removal, so B is correct. The amounts in A (100 mg), C (2,000 mg), and D (300 mg) are wrong, and predialysis level does not govern per-session removal. Because only a fraction of dietary phosphorus is cleared over three weekly sessions, nearly all thrice-weekly patients on a normal diet still require binders to control serum phosphorus."
+    },
+    {
+      "topic": "Intradialytic phosphorus kinetics",
+      "question": "How does intradialysis serum phosphorus behave compared with urea during a dialysis session?",
+      "options": {
+        "A": "It continues to fall like urea throughout the session",
+        "B": "It remains unchanged from start to finish",
+        "C": "After the first hour it stabilizes at a low level and behaves like a middle molecule",
+        "D": "It rises steadily throughout the session"
+      },
+      "correct": "C",
+      "explanation": "After the first hour, intradialysis serum phosphorus stabilizes at a low level and behaves like a middle molecule, so prolonged sessions keep improving removal; C is correct. This differs from urea (A), whose level keeps falling as dialysis is prolonged. B and D misstate the kinetics. Because phosphorus is highest during the first hour, more frequent dialysis also aids removal. This middle-molecule behavior explains why long or frequent nocturnal schedules can strip enough phosphorus to require dialysate supplementation."
+    },
+    {
+      "topic": "Dialysis time and phosphorus",
+      "question": "About how many hours per week of dialysis does the average patient need to keep predialysis phosphorus below 4.5 mg/dL without binders?",
+      "options": {
+        "A": "15-18 hours per week",
+        "B": "10-12 hours per week",
+        "C": "36-40 hours per week",
+        "D": "24-28 hours per week"
+      },
+      "correct": "D",
+      "explanation": "The average patient needs 24-28 hours per week of dialysis to keep predialysis phosphorus below 4.5 mg/dL (1.45 mmol/L) without binders, so D is correct. Conventional thrice-weekly schedules of roughly 12-15 hours (options A/B) fall well short, which is why about 90% of patients need binders; C (36-40 h) overstates it. Because phosphorus behaves as a middle molecule and stabilizes after the first hour, cumulative weekly time, more than any single session, determines whether binder-free control is achievable."
+    },
+    {
+      "topic": "Nocturnal dialysis and phosphorus",
+      "question": "Patients on frequent long nocturnal dialysis with weekly times greater than 24-28 hours typically require what modification?",
+      "options": {
+        "A": "Higher doses of phosphorus binders",
+        "B": "Addition of phosphorus to the dialysis solution to prevent hypophosphatemia",
+        "C": "Removal of all dietary protein",
+        "D": "Addition of aluminum binders"
+      },
+      "correct": "B",
+      "explanation": "Patients on frequent, long nocturnal dialysis with weekly times exceeding 24-28 hours typically require addition of phosphorus to the dialysis solution to prevent hypophosphatemia, so B is correct. With such intensive clearance they usually need less binder, not more (A), and removing dietary protein (C) or adding aluminum binders (D) would be harmful. Because phosphorus behaves as a middle molecule, very long weekly dialysis can remove too much, so dialysate phosphorus supplementation maintains normal serum levels."
+    },
+    {
+      "topic": "Peritoneal dialysis phosphorus removal",
+      "question": "Approximately how much phosphorus does peritoneal dialysis remove daily with a CAPD regimen of four 2-L exchanges?",
+      "options": {
+        "A": "About 800 mg per day",
+        "B": "About 1,500 mg per day",
+        "C": "About 300 mg per day",
+        "D": "About 100 mg per day"
+      },
+      "correct": "C",
+      "explanation": "Peritoneal dialysis removes about 300 mg of phosphorus per day on a standard CAPD regimen of four 2-L exchanges, so C is correct. A (800 mg), B (1,500 mg), and D (100 mg) are wrong; 800 mg is the per-treatment figure for hemodialysis. Because 300 mg/day is far less than the phosphorus absorbed from a normal diet, most PD patients also require phosphorus binders to control serum levels, much like hemodialysis patients on a thrice-weekly schedule."
+    },
+    {
+      "topic": "Residual kidney function",
+      "question": "Patients with what urine volume typically require substantially lower amounts of phosphorus binders?",
+      "options": {
+        "A": "Greater than 500 mL per day",
+        "B": "Any measurable urine output",
+        "C": "Greater than 2,000 mL per day",
+        "D": "Greater than 100 mL per day"
+      },
+      "correct": "A",
+      "explanation": "Patients with urine volumes greater than 500 mL per day typically need substantially lower binder doses and have lower predialysis phosphorus than anuric patients, so A is correct. Any measurable output (B) or thresholds of 2,000 mL (C) or 100 mL (D) are not the stated cutoff. Residual kidney function contributes substantially to phosphorus removal, which is why preserving it lowers both binder burden and serum phosphorus, and why average required binder dose is lower in patients with meaningful residual renal function."
+    },
+    {
+      "topic": "Prevalence of binder use",
+      "question": "Despite dietary restriction and adequate hemodialysis, approximately what percentage of dialysis patients still need oral phosphorus binders?",
+      "options": {
+        "A": "About 90%",
+        "B": "About 25%",
+        "C": "About 10%",
+        "D": "About 50%"
+      },
+      "correct": "A",
+      "explanation": "About 90% of dialysis patients continue to need oral phosphorus binders despite dietary restriction and adequate hemodialysis, so A is correct; 25% (B), 10% (C), and 50% (D) understate this. The reason is that three weekly sessions remove only a fraction of the phosphorus absorbed from diet. Beyond lowering phosphorus, observational data suggest binder use correlates with longer survival and better nutritional status, underscoring their central role alongside diet in managing CKD-mineral bone disorder."
+    },
+    {
+      "topic": "Calcium content of binders",
+      "question": "What is the elemental calcium content by weight of calcium carbonate versus calcium acetate?",
+      "options": {
+        "A": "Both contain 40%",
+        "B": "Both contain 25%",
+        "C": "Calcium carbonate 40%; calcium acetate 25%",
+        "D": "Calcium carbonate 25%; calcium acetate 40%"
+      },
+      "correct": "C",
+      "explanation": "Calcium carbonate contains 40% elemental calcium by weight while calcium acetate contains only 25%, so C is correct. A and B wrongly make them equal, and D reverses the values. On a gram-per-gram basis the two are similarly effective phosphorus binders, but because acetate is only 25% calcium, it delivers less calcium load. This matters because KDIGO caps elemental calcium near 1.5 g/day; acetate lets clinicians bind phosphorus with a smaller calcium burden than carbonate."
+    },
+    {
+      "topic": "Phosphorus binder equivalent dose",
+      "question": "The phosphorus binder equivalent dose (PBED) expresses binding capacity relative to which reference binder, and averages about what value in typical US anuric patients?",
+      "options": {
+        "A": "Relative to sevelamer; about 3 g per day",
+        "B": "Relative to lanthanum; about 10 g per day",
+        "C": "Relative to calcium carbonate; about 6 g per day",
+        "D": "Relative to ferric citrate; about 2 g per day"
+      },
+      "correct": "C",
+      "explanation": "The phosphorus binder equivalent dose is defined relative to the binding capacity of calcium carbonate and averages about 6 g/day in US patients with minimal residual kidney function, so C is correct. The reference is not sevelamer (A), lanthanum (B), or ferric citrate (D). PBED lets clinicians compare or combine different binders on a common scale. Required PBED is lower, around 4-5 g/day, in smaller patients, those with substantial residual renal function, and women, who tend to eat less phosphorus-rich food."
+    },
+    {
+      "topic": "Calcium load with calcium carbonate",
+      "question": "Managing a large anuric patient solely with 6.0 g of calcium carbonate per day would deliver how much elemental calcium?",
+      "options": {
+        "A": "6.0 g per day",
+        "B": "1.5 g per day",
+        "C": "2.4 g per day",
+        "D": "0.5 g per day"
+      },
+      "correct": "C",
+      "explanation": "Because calcium carbonate is 40% calcium, giving 6.0 g/day delivers 0.4 x 6.0 = 2.4 g of elemental calcium per day, so C is correct. 1.5 g (B) is the load from an equivalent PBED of calcium acetate, 0.5 g (D) corresponds to Osvaren, and 6.0 g (A) is the binder weight, not the calcium. This 2.4 g far exceeds the KDIGO limit of about 1.5 g/day of elemental calcium, which is why large anuric patients cannot be managed with calcium carbonate alone and need noncalcium binders."
+    },
+    {
+      "topic": "KDIGO calcium limit",
+      "question": "According to KDIGO recommendations cited in the chapter, elemental calcium ingestion should generally not exceed what amount per day?",
+      "options": {
+        "A": "0.5 g per day",
+        "B": "3.0 g per day",
+        "C": "1.5 g per day",
+        "D": "2.4 g per day"
+      },
+      "correct": "C",
+      "explanation": "KDIGO recommends that elemental calcium ingestion generally not exceed 1.5 g/day, so C is correct; 0.5 (A), 3.0 (B), and 2.4 (D) are wrong, and 2.4 g is what 6 g of calcium carbonate would deliver, exceeding the limit. This cap constrains how far calcium-containing binders can be titrated, because coadministration with active vitamin D predisposes up to 50% of patients to hypercalcemia. It is a key reason clinicians combine calcium-based binders with noncalcium agents to reach phosphorus targets safely."
+    },
+    {
+      "topic": "Osvaren calcium load",
+      "question": "A 6 g per day PBED of Osvaren (magnesium carbonate plus calcium acetate) is associated with a daily calcium load of only how much?",
+      "options": {
+        "A": "0.5 g per day",
+        "B": "0 g per day",
+        "C": "2.4 g per day",
+        "D": "1.5 g per day"
+      },
+      "correct": "A",
+      "explanation": "A 6 g/day PBED of Osvaren (magnesium carbonate plus calcium acetate) delivers only about 0.5 g of calcium per day, so A is correct. This is far below calcium carbonate at 2.4 g (option C) or calcium acetate at 1.5 g (option D) for the same PBED; 0 g (B) applies to calcium-free binders like lanthanum or sevelamer. The low calcium load, plus magnesium's potential anticalcification benefit, makes Osvaren attractive, though it is approved in Europe and not available in the United States."
+    },
+    {
+      "topic": "Magnesium binder benefits",
+      "question": "Which potential beneficial effects are attributed to magnesium-containing phosphorus binders?",
+      "options": {
+        "A": "Magnesium is an anticalcification factor and higher serum magnesium tends to be associated with reduced mortality",
+        "B": "Magnesium increases gut calcium absorption",
+        "C": "Magnesium suppresses FGF23",
+        "D": "Magnesium promotes vascular calcification and raises mortality"
+      },
+      "correct": "A",
+      "explanation": "Magnesium is described as an anticalcification factor that might retard vascular calcification, and mortality tends to be lower in dialysis patients with higher serum magnesium, so A is correct. B, C, and D state opposite or unsupported effects. Magnesium-containing binders such as Osvaren or MagneBind also reduce calcium load. However, these benefits are not firmly proven, and magnesium overload must be watched for, with dialysate magnesium adjusted and dosing limited by serum magnesium levels and by diarrhea."
+    },
+    {
+      "topic": "Vitamin D and calcium binders hypercalcemia",
+      "question": "Coadministration of calcium and active vitamin D preparations predisposes up to what fraction of patients to hypercalcemia?",
+      "options": {
+        "A": "Up to 10%",
+        "B": "Up to 50%",
+        "C": "Up to 25%",
+        "D": "Up to 90%"
+      },
+      "correct": "B",
+      "explanation": "Coadministration of calcium and active vitamin D preparations predisposes up to 50% of patients to hypercalcemia, so B is correct; 10% (A), 25% (C), and 90% (D) are wrong. Active vitamin D increases gut calcium absorption, compounding the load from calcium-based binders. This warrants close monitoring and is a major reason KDIGO caps elemental calcium near 1.5 g/day and limits dialysate calcium to 2.25-2.5 mEq/L, favoring noncalcium binders in patients prone to hypercalcemia or vascular calcification."
+    },
+    {
+      "topic": "Dialysate calcium for binders",
+      "question": "To avoid positive calcium balance when using calcium-containing binders, dialysis solution calcium concentration should be limited to what range?",
+      "options": {
+        "A": "3.0 to 3.5 mEq/L",
+        "B": "1.0 to 1.5 mEq/L",
+        "C": "4.0 to 4.5 mEq/L",
+        "D": "2.25 to 2.5 mEq/L"
+      },
+      "correct": "D",
+      "explanation": "To avoid positive calcium balance when using calcium-containing binders, dialysis solution calcium should be limited to 2.25-2.5 mEq/L (1.12-1.25 mM), so D is correct. Higher baths of 3.0-3.5 (A) or 4.0-4.5 mEq/L (C) drive net calcium gain, while 1.0-1.5 mEq/L (B) is below the recommended range. Keeping dialysate calcium in this band, together with capping oral elemental calcium near 1.5 g/day, prevents the chronically positive calcium balance that suppresses PTH and promotes vascular calcification."
+    },
+    {
+      "topic": "Calcium carbonate solubility",
+      "question": "Calcium carbonate dissociates best in an acidic environment, so its solubility can be inhibited by which medication class?",
+      "options": {
+        "A": "Beta-blockers",
+        "B": "Statins",
+        "C": "Proton pump inhibitors",
+        "D": "Loop diuretics"
+      },
+      "correct": "C",
+      "explanation": "Calcium carbonate dissociates best in an acidic environment, so proton pump inhibitors, which reduce gastric acid, can inhibit its solubility and phosphorus-binding efficacy; C is correct. Beta-blockers (A), statins (B), and loop diuretics (D) do not affect its dissociation. This interaction is relevant because many dialysis patients take PPIs, in which case calcium carbonate may bind phosphorus poorly. Its common side effects include hypercalcemia, constipation, and nausea, and it must be given with meals to act as a binder."
+    },
+    {
+      "topic": "Sevelamer mechanism and dosing",
+      "question": "Sevelamer carbonate traps phosphorus by ion exchange and hydrogen binding; other drugs should be given how relative to sevelamer?",
+      "options": {
+        "A": "3 hours before or 1 hour after sevelamer",
+        "B": "At the same time as sevelamer",
+        "C": "Only intravenously",
+        "D": "1 hour before or 3 hours after sevelamer"
+      },
+      "correct": "D",
+      "explanation": "Other drugs should be given 1 hour before or 3 hours after sevelamer, so D is correct; A reverses the timing and B (same time) risks impaired absorption of coadministered drugs. Sevelamer carbonate is a noncalcium, nonaluminum binder that traps phosphorus by ion exchange and hydrogen binding, started at 800-1,600 mg three times daily with meals and titratable to about 13 g/day. Because it can interfere with the absorption of other medications, spacing doses appropriately preserves their efficacy."
+    },
+    {
+      "topic": "Sevelamer benefits",
+      "question": "Beyond phosphorus binding, sevelamer is noted to have which additional potential effect?",
+      "options": {
+        "A": "Pleiotropic anti-inflammatory effects not completely mediated by LDL reduction",
+        "B": "Suppression of PTH via the calcium-sensing receptor",
+        "C": "Increased serum iron markers",
+        "D": "Increased calcium absorption"
+      },
+      "correct": "A",
+      "explanation": "Sevelamer may have pleiotropic, beneficial anti-inflammatory effects in dialysis patients that are not completely mediated by its LDL cholesterol reduction, so A is correct. B (PTH suppression via the calcium-sensing receptor), C (raising serum iron markers, a feature of ferric citrate), and D (increased calcium absorption) are not attributed to sevelamer, which is calcium-free. Its main side effects are gastrointestinal: nausea, diarrhea, dyspepsia, and constipation. Being calcium-free, it is useful in patients predisposed to hypercalcemia."
+    },
+    {
+      "topic": "Sevelamer and calcium",
+      "question": "Sevelamer use may lead to which electrolyte disturbance that should be corrected?",
+      "options": {
+        "A": "Hyperkalemia, treated with dietary restriction",
+        "B": "Hypermagnesemia, treated with dialysis",
+        "C": "Hypocalcemia, treated with supplemental calcium",
+        "D": "Hypercalcemia, treated with a low-calcium bath"
+      },
+      "correct": "C",
+      "explanation": "Because sevelamer contains no calcium, it may lead to hypocalcemia, which should be treated with supplemental calcium; C is correct. It does not cause hyperkalemia (A), hypermagnesemia (B), or hypercalcemia (D). Its calcium-free profile makes it useful for patients predisposed to hypercalcemia or already at their calcium-supplementation limit, but clinicians must monitor serum calcium and supplement when needed. Its main side effects are gastrointestinal, including nausea, diarrhea, dyspepsia, and constipation."
+    },
+    {
+      "topic": "Lanthanum carbonate",
+      "question": "Lanthanum carbonate binds phosphorus as which type of cation, and how much is absorbed?",
+      "options": {
+        "A": "A trivalent cation; very little is absorbed",
+        "B": "A divalent cation; completely absorbed",
+        "C": "A trivalent cation; completely absorbed with bone toxicity",
+        "D": "A monovalent cation; heavily absorbed"
+      },
+      "correct": "A",
+      "explanation": "Lanthanum is a trivalent cation that binds phosphorus ionically, and very little is absorbed, so A is correct. B (divalent, fully absorbed), C (trivalent but fully absorbed with bone toxicity), and D (monovalent, heavily absorbed) are wrong. To date there is no evidence of toxic accumulation or adverse effects on bone metabolism, with a satisfactory long-term safety profile over 1, 3, and 6 years. It is a noncalcium, nonaluminum binder in chewable form, convenient for large pill burdens but harder for patients with poor dentition."
+    },
+    {
+      "topic": "Lanthanum vs calcium carbonate trial",
+      "question": "In a large European comparator trial of lanthanum carbonate versus calcium carbonate, what was the key difference?",
+      "options": {
+        "A": "Calcium carbonate caused less hypercalcemia",
+        "B": "Lanthanum controlled phosphorus much better",
+        "C": "Lanthanum caused more bone toxicity",
+        "D": "Phosphorus control was similar, but there was significantly lower hypercalcemia with lanthanum"
+      },
+      "correct": "D",
+      "explanation": "In the large European comparator trial, phosphorus control was similar between lanthanum and calcium carbonate, but hypercalcemia was significantly less frequent with lanthanum, so D is correct. A reverses which drug caused less hypercalcemia, B overstates lanthanum's phosphorus control, and C wrongly claims bone toxicity. The lower hypercalcemia risk makes lanthanum particularly useful in patients prone to hypercalcemia, though both lanthanum and sevelamer are notably more expensive than calcium-based binders."
+    },
+    {
+      "topic": "Sucroferric oxyhydroxide",
+      "question": "Sucroferric oxyhydroxide (PA21, Velphoro) differs from ferric citrate in what important way?",
+      "options": {
+        "A": "It is associated with only minimal oral iron absorption",
+        "B": "It contains calcium",
+        "C": "It markedly increases serum iron markers",
+        "D": "It must be given intravenously"
+      },
+      "correct": "A",
+      "explanation": "Sucroferric oxyhydroxide (PA21, Velphoro) is designed to minimize iron absorption and, in contrast to ferric citrate, is associated with only minimal oral iron absorption, so A is correct. It contains no calcium (B) or aluminum, does not markedly raise serum iron markers (C, a feature of ferric citrate), and is an oral 500-mg chewable tablet, not intravenous (D). Its starting dose is 1.5 g/day (3 tablets with meals) with a suggested maximum of 3 g/day, making it an option when iron loading is a concern."
+    },
+    {
+      "topic": "Ferric citrate iron effects",
+      "question": "Patients treated with ferric citrate demonstrated which additional benefits beyond phosphorus control?",
+      "options": {
+        "A": "Improved serum iron measures with reduced need for IV iron and erythropoiesis-stimulating agents",
+        "B": "Lower hemoglobin despite iron loading",
+        "C": "Increased IV iron and ESA requirements",
+        "D": "No change in iron status"
+      },
+      "correct": "A",
+      "explanation": "Ferric citrate improved serum iron measures such as TSAT and ferritin, reduced IV iron requirement by about 50%, and reduced ESA need by about 24% versus non-iron binders while maintaining hemoglobin, so A is correct. B, C, and D contradict these findings. As an iron-based, calcium- and aluminum-free binder, ferric citrate can serve as dual therapy in hyperphosphatemic patients who also need iron repletion. Conversely, where iron loading is a concern, ferric citrate may not be the optimal choice."
+    },
+    {
+      "topic": "Ferric citrate dosing",
+      "question": "Ferric citrate tablets contain 210 mg ferric iron as 1 g ferric citrate and can be titrated to a maximum of what?",
+      "options": {
+        "A": "6 tablets/day (1 g ferric iron/day)",
+        "B": "12 tablets/day (2.5 g ferric iron/day)",
+        "C": "20 tablets/day (4 g ferric iron/day)",
+        "D": "3 tablets/day (0.6 g ferric iron/day)"
+      },
+      "correct": "B",
+      "explanation": "Ferric citrate tablets contain 210 mg ferric iron as 1 g ferric citrate and can be titrated to a maximum of 12 tablets/day, equal to 2.5 g ferric iron/day, so B is correct; A, C, and D give wrong maxima. Because it raises serum iron markers and reduces IV iron and ESA needs, it doubles as iron therapy, but the substantial iron delivery makes it less suitable when iron loading is a concern. Velphoro, by contrast, is the iron binder designed to minimize iron absorption."
+    },
+    {
+      "topic": "Aluminum binders",
+      "question": "Why should aluminum-based phosphorus binders no longer be used chronically?",
+      "options": {
+        "A": "They are ineffective phosphorus binders",
+        "B": "Accumulation of aluminum to toxic levels causes hematologic, neurologic, and bone complications",
+        "C": "They cause severe hypercalcemia",
+        "D": "They markedly raise serum iron"
+      },
+      "correct": "B",
+      "explanation": "Aluminum-based binders should no longer be used chronically because aluminum accumulation to toxic levels causes hematologic, neurologic, and bone complications, so B is correct. They are actually effective binders (A is false), do not cause hypercalcemia (C), and do not raise serum iron (D). They may still be used briefly for severely elevated phosphorus or calcium-phosphorus product in severe hyperparathyroidism, and remain important in developing countries, but citrate co-ingestion sharply increases aluminum absorption and neurotoxicity risk."
+    },
+    {
+      "topic": "Citrate and aluminum",
+      "question": "Co-ingestion of which substance greatly enhances aluminum absorption and can cause acute aluminum neurotoxicity?",
+      "options": {
+        "A": "Citrate (e.g., Shohl's solution, calcium citrate, fruit juices)",
+        "B": "Calcium carbonate",
+        "C": "Magnesium",
+        "D": "Ferric iron"
+      },
+      "correct": "A",
+      "explanation": "Co-ingestion of citrate, found in Shohl's solution, calcium citrate, fruit juices, and Alka-Seltzer, greatly enhances aluminum absorption and can cause acute aluminum neurotoxicity, so A is correct. Calcium carbonate (B), magnesium (C), and ferric iron (D) do not carry this specific interaction. This is a key reason aluminum binders are avoided chronically and why patients with any aluminum exposure must avoid citrate-containing products, which can precipitate dangerous acute rises in absorbed aluminum."
+    },
+    {
+      "topic": "Normal serum calcium",
+      "question": "What is the stated normal range for serum calcium recommended by KDIGO for predialysis total calcium?",
+      "options": {
+        "A": "7.0 to 8.0 mg/dL",
+        "B": "2.7 to 4.6 mg/dL",
+        "C": "8.4 to 10.2 mg/dL",
+        "D": "10.5 to 12.0 mg/dL"
+      },
+      "correct": "C",
+      "explanation": "The normal serum calcium range is 8.4 to 10.2 mg/dL (2.10-2.55 mmol/L), and KDIGO recommends keeping predialysis total calcium within this range, so C is correct. 2.7-4.6 mg/dL (B) is the phosphorus range, while A and D fall outside the reference. There is wide patient variability in the calcium set point. Maintaining calcium in this band, rather than deliberately raising it to the upper limit as once practiced, is now favored to avoid precipitating or worsening vascular calcification."
+    },
+    {
+      "topic": "Corrected calcium",
+      "question": "On average, how much does total calcium fall for every 1.0 g/dL decrease in serum albumin?",
+      "options": {
+        "A": "1.5 mg/dL",
+        "B": "0.2 mg/dL",
+        "C": "2.0 mg/dL",
+        "D": "0.8 mg/dL"
+      },
+      "correct": "D",
+      "explanation": "On average total calcium falls by 0.8 mg/dL for every 1.0 g/dL fall in serum albumin, so D is correct; this factor underlies the corrected calcium equation, total calcium + 0.8 x (4.0 minus albumin). Values 1.5 (A), 0.2 (B, the mmol/L factor), and 2.0 (C) are wrong. Because most protein-bound calcium is bound to albumin, hypoalbuminemia lowers total calcium without necessarily lowering ionized calcium. However, corrected calcium is assay-dependent and no more accurate than total calcium for predicting ionized calcium."
+    },
+    {
+      "topic": "KDIGO and corrected calcium",
+      "question": "What does the chapter recommend regarding albumin-corrected calcium in dialysis practice?",
+      "options": {
+        "A": "Routine use of albumin-corrected calcium is recommended by KDIGO",
+        "B": "Use of total calcium is recommended; KDIGO does not recommend routine albumin-corrected calcium",
+        "C": "Corrected calcium is more accurate than total calcium in all cases",
+        "D": "Ionized calcium should always be measured instead of total"
+      },
+      "correct": "B",
+      "explanation": "In dialysis practice the chapter recommends using total calcium, and unlike older KDOQI guidelines KDIGO does not endorse routine albumin-corrected calcium, so B is correct. A contradicts KDIGO, C is false because corrected calcium is no more accurate than total calcium for predicting ionized calcium and depends on the albumin assay used, and D overstates the role of ionized calcium. Ionized calcium is reserved for cases where the result could change management, keeping routine monitoring simple with total calcium."
+    },
+    {
+      "topic": "Tertiary hyperparathyroidism",
+      "question": "Hypercalcemia arising from a large mass of autonomous parathyroid tissue in the absence of oral calcium or active vitamin D is referred to as what?",
+      "options": {
+        "A": "Adynamic bone disease",
+        "B": "Tertiary hyperparathyroidism",
+        "C": "Osteomalacia",
+        "D": "Secondary hyperparathyroidism"
+      },
+      "correct": "B",
+      "explanation": "Hypercalcemia arising from a large mass of autonomous parathyroid tissue without oral calcium or active vitamin D is called tertiary hyperparathyroidism, so B is correct. Adynamic bone disease (A) and osteomalacia (C) are low-turnover bone lesions, and secondary hyperparathyroidism (D) is the calcium, phosphorus, and vitamin D-driven parathyroid stimulation of CKD that precedes autonomy. Recognizing tertiary disease matters because the autonomous gland no longer responds normally to medical therapy and may require parathyroidectomy."
+    },
+    {
+      "topic": "Dialysate calcium standard",
+      "question": "What dialysis solution calcium concentration is generally recommended for most patients on chronic hemodialysis to maintain neutral calcium balance?",
+      "options": {
+        "A": "4.5 mEq/L",
+        "B": "3.5 mEq/L",
+        "C": "2.5 mEq/L",
+        "D": "1.5 mEq/L"
+      },
+      "correct": "C",
+      "explanation": "Dialysis solution calcium should generally be 2.5 mEq/L (1.25 mM) for most chronic hemodialysis patients, which usually maintains neutral calcium balance, so C is correct. Baths of 4.5 (A) or 3.5 mEq/L (B) create chronically positive calcium balance that suppresses PTH and promotes calcification, while 1.5 mEq/L (D) is below the usual range. A 2.25 mEq/L bath can be used cautiously to control high serum calcium or stimulate PTH, but very low calcium baths risk QTc dispersion, sudden death, and bone demineralization."
+    },
+    {
+      "topic": "Low calcium dialysate risks",
+      "question": "Use of very low calcium dialysis solutions has been linked to which increased risk?",
+      "options": {
+        "A": "Adynamic bone disease",
+        "B": "Vascular calcification and hypercalcemia",
+        "C": "PTH oversuppression",
+        "D": "QTc dispersion and sudden death"
+      },
+      "correct": "D",
+      "explanation": "Very low calcium dialysis solutions have been linked to an increased risk of QTc dispersion and sudden death, so D is correct. Adynamic bone (A), vascular calcification and hypercalcemia (B), and PTH oversuppression (C) are instead associated with a high calcium balance from high-calcium baths or calcium loading. A 2.25 mEq/L bath can cautiously lower chronically high calcium or stimulate PTH in patients with low PTH, but pushing calcium too low can exacerbate hyperparathyroidism, demineralize bone, and provoke arrhythmia."
+    },
+    {
+      "topic": "25-D deficiency",
+      "question": "Serum 25-D reflects vitamin D stores; levels below what threshold warrant treatment with ergocalciferol or cholecalciferol?",
+      "options": {
+        "A": "Below 75 ng/mL",
+        "B": "Below 10 ng/mL",
+        "C": "Below 30 ng/mL",
+        "D": "Below 50 ng/mL"
+      },
+      "correct": "C",
+      "explanation": "Serum 25-D levels above 30 ng/mL (75 nmol/L) are considered normal, while levels below 30 ng/mL warrant treatment with ergocalciferol or cholecalciferol, so C is correct. 75 ng/mL (A) confuses the nmol/L figure, and 10 (B) or 50 ng/mL (D) are not the threshold. 25-D reflects vitamin D stores, which are frequently low in dialysis patients from poor sun exposure and restriction of fortified dairy. Repletion is worthwhile because extrarenal tissues can still make calcitriol for autocrine and paracrine actions."
+    },
+    {
+      "topic": "Black patients and vitamin D",
+      "question": "Why may Black patients not have the frequency and severity of vitamin D deficiency that standard testing suggests?",
+      "options": {
+        "A": "They have lower D-binding protein levels, leading to a higher ratio of free bioactive hormone to bound hormone",
+        "B": "They have higher D-binding protein and lower free hormone",
+        "C": "They convert 25-D to 1,25-D more efficiently",
+        "D": "They absorb more dietary vitamin D"
+      },
+      "correct": "A",
+      "explanation": "Black patients appear to have lower vitamin D-binding protein levels, giving a higher ratio of bioactive free hormone to bound hormone, so standard testing may overstate their deficiency; A is correct. B reverses this, and C and D are not the stated mechanism. Although Black patients have several risk factors for low measured 25-D, including reduced UV-driven skin synthesis and restriction of fortified dairy, the higher free-hormone fraction means the true frequency and severity of deficiency may be less than tests suggest."
+    },
+    {
+      "topic": "Ergocalciferol vs cholecalciferol",
+      "question": "Which statement correctly distinguishes ergocalciferol and cholecalciferol?",
+      "options": {
+        "A": "Both are vitamin D3",
+        "B": "Ergocalciferol is vitamin D3 from animals; cholecalciferol is vitamin D2 from plants",
+        "C": "Ergocalciferol is vitamin D2, a plant-based sterol; cholecalciferol is vitamin D3, derived from animal sources",
+        "D": "Cholecalciferol requires no hepatic hydroxylation"
+      },
+      "correct": "C",
+      "explanation": "Ergocalciferol is a plant-based sterol, vitamin D2, whereas cholecalciferol is derived from animal sources and is vitamin D3, so C is correct. A wrongly makes both D3, B reverses their identities, and D is false because cholecalciferol still requires hepatic 25-hydroxylation and then 1-alpha hydroxylation to become active. Both precursors are hydroxylated by the liver at the 25 position and then at the 1-alpha position to yield an active calcitriol-like compound; most 25-D assays detect both the D2 and D3 forms."
+    },
+    {
+      "topic": "Ergocalciferol dosing",
+      "question": "For 25-D levels below 15 ng/mL, the chapter's commonly prescribed ergocalciferol regimen is which of the following?",
+      "options": {
+        "A": "50,000 IU monthly for 6 months only",
+        "B": "800 IU daily indefinitely",
+        "C": "50,000 IU once and repeat testing",
+        "D": "50,000 IU weekly for 2 to 3 months, then 50,000 IU monthly"
+      },
+      "correct": "D",
+      "explanation": "For 25-D below 15 ng/mL, the authors commonly prescribe 50,000 IU ergocalciferol weekly for 2-3 months, then 50,000 IU monthly, so D is correct. A (monthly for 6 months) is the regimen for the less severe 15-29 ng/mL range, and B (800 IU daily) and C (a single dose) are inadequate for marked deficiency. Dosing should be proportional to the severity of deficiency and to patient size and adiposity, and obese patients generally need larger doses or longer repletion because vitamin D is fat-soluble."
+    },
+    {
+      "topic": "TMV classification",
+      "question": "The TMV system proposed for classifying renal bone disease on biopsy evaluates which three parameters?",
+      "options": {
+        "A": "Thickness, Matrix, Vascularity",
+        "B": "Turnover, Mineralization, and Volume",
+        "C": "Turnover, Metabolism, Viability",
+        "D": "Trabecular, Mineral, Vitamin D"
+      },
+      "correct": "B",
+      "explanation": "The TMV system evaluates Turnover, Mineralization, and Volume from transiliac bone biopsy and is proposed as the best method for classifying renal bone disease, so B is correct. A, C, and D invent parameters not in the system. Turnover is assessed by tetracycline and demeclocycline double labeling of mineralization fronts, mineralization by osteoid volume and lag time, and volume, which is most error-prone because only a single biopsy site is sampled. Aluminum deposition is checked separately with acid solochrome azurine staining."
+    },
+    {
+      "topic": "Bone biopsy labels",
+      "question": "Which fluorescent labels are deposited along lines of mineralization to determine bone formation rate?",
+      "options": {
+        "A": "Solochrome azurine and iron stain",
+        "B": "Technetium and thallium",
+        "C": "Calcitriol and ergocalciferol",
+        "D": "Tetracycline and demeclocycline"
+      },
+      "correct": "D",
+      "explanation": "Tetracycline and demeclocycline are the fluorescent labels deposited along mineralization lines to measure bone formation rate, so D is correct. Solochrome azurine (A) stains for aluminum, technetium (B) is used in bone scanning, and calcitriol and ergocalciferol (C) are vitamin D compounds. Labels given a few days apart, then repeated two to three weeks later, let the bone formation rate be calculated from the distance between the two lines; a wider gap indicates high bone turnover, as seen in osteitis fibrosa."
+    },
+    {
+      "topic": "Osteitis fibrosa",
+      "question": "Osteitis fibrosa occurs when PTH is persistently high and is characterized by what?",
+      "options": {
+        "A": "Aluminum deposition suppressing PTH",
+        "B": "Accelerated bone formation and resorption with increased osteoblast/osteoclast activity and marrow fibrosis",
+        "C": "Large amounts of unmineralized osteoid from vitamin D deficiency",
+        "D": "Reduced osteoblast and osteoclast number with low bone formation"
+      },
+      "correct": "B",
+      "explanation": "Osteitis fibrosa occurs with persistently high PTH and features accelerated bone formation and resorption from an increased number and activity of osteoblasts and osteoclasts, plus increased marrow fibrosis, so B is correct. A (aluminum suppressing PTH) and C (unmineralized osteoid from vitamin D deficiency) describe osteomalacia, and D (reduced cell number, low formation) describes adynamic bone. Severity roughly tracks the degree and duration of PTH elevation; when severe, rapidly laid down woven bone is poorly mineralized and fracture-prone."
+    },
+    {
+      "topic": "Osteitis fibrosa radiology",
+      "question": "The characteristic radiological finding of hyperparathyroidism (osteitis fibrosa) is best seen where?",
+      "options": {
+        "A": "Sclerosis of the femoral head",
+        "B": "Widened growth plates of long bones",
+        "C": "Osteoporosis of the vertebrae",
+        "D": "Subperiosteal bone resorption on the radial side of the second and third phalanges"
+      },
+      "correct": "D",
+      "explanation": "The characteristic finding of hyperparathyroidism is subperiosteal bone resorption, best seen on the radial side of the second and third phalanges, so D is correct. Femoral head sclerosis (A), widened growth plates (B), and vertebral osteoporosis (C) are not the hallmark. Hand films most reliably demonstrate hyperparathyroid changes, including erosion of the distal phalangeal tuft. These findings are absent in mild disease but always present in severe hyperparathyroidism, so routine bone films are not recommended to assess bone disease."
+    },
+    {
+      "topic": "Skull appearance",
+      "question": "Bone resorption of the skull in hyperparathyroidism gives it what characteristic appearance?",
+      "options": {
+        "A": "Salt-and-pepper appearance",
+        "B": "Ground-glass appearance",
+        "C": "Soap-bubble appearance",
+        "D": "Honeycomb appearance"
+      },
+      "correct": "A",
+      "explanation": "Bone resorption of the skull in hyperparathyroidism produces a salt-and-pepper appearance, so A is correct; ground-glass (B), soap-bubble (C), and honeycomb (D) are not the described pattern. This reflects patchy resorption from persistently high PTH, part of the same osteitis fibrosa spectrum seen as subperiosteal resorption on hand films and as osteosclerosis elsewhere. Such radiographic changes appear only in severe hyperparathyroidism, so bone films are not routinely used to assess bone disease in dialysis patients."
+    }
+  ]
+}

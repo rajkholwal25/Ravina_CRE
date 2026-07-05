@@ -1,0 +1,665 @@
+{
+  "chapter": 1,
+  "questions": [
+    {
+      "topic": "CKD definition",
+      "question": "By the US Preventive Health Service definition, chronic kidney disease is present when a patient has decreased kidney function meeting which criterion?",
+      "options": {
+        "A": "Size-adjusted eGFR/1.73 m2 <60 mL/min, or kidney damage persisting at least 3 months",
+        "B": "eGFR/1.73 m2 <90 mL/min for at least 1 month",
+        "C": "Any single elevated serum creatinine",
+        "D": "eGFR/1.73 m2 <30 mL/min regardless of duration"
+      },
+      "correct": "A",
+      "explanation": "The US Preventive Health Service defines CKD as decreased kidney function with size-adjusted eGFR/1.73 m2 below 60 mL/min, or as kidney damage that persists for at least 3 months, so A is correct. B is wrong because the threshold is 60 not 90 mL/min and the required duration is 3 months not 1. A single elevated creatinine (C) cannot establish chronicity, and the 30 mL/min cutoff (D) describes severe disease rather than the general definition. The 3-month persistence requirement is what distinguishes chronic from acute kidney injury."
+    },
+    {
+      "topic": "CKD management framework",
+      "question": "Which of the following is a core component of the overall management approach to a patient with CKD?",
+      "options": {
+        "A": "Immediate dialysis at the time of diagnosis",
+        "B": "Screening, etiologic diagnosis, and staging of CKD severity",
+        "C": "Avoiding all imaging of the kidneys",
+        "D": "Routine nephrectomy to slow progression"
+      },
+      "correct": "B",
+      "explanation": "CKD management is built on screening, etiologic diagnosis, and staging of severity, plus identifying patients at high risk of progression, managing complications, and preparing for transplantation or renal replacement therapy, making B correct. Dialysis is not started at diagnosis (A) but only after staging and complication management. Avoiding imaging (C) is wrong because ultrasound is recommended to detect obstruction, and nephrectomy (D) is not a treatment to slow progression. Staging by eGFR guides the entire management sequence."
+    },
+    {
+      "topic": "CKD risk factors",
+      "question": "A CKD screening program should focus on high-risk patients. Which of the following is a recognized CKD risk factor?",
+      "options": {
+        "A": "Age under 40 years",
+        "B": "Low body weight",
+        "C": "Diabetes mellitus",
+        "D": "Absence of any family history of kidney disease"
+      },
+      "correct": "C",
+      "explanation": "Screening should focus on high-risk patients, and recognized CKD risk factors include diabetes mellitus, hypertension, cardiovascular disease, smoking, obesity, age over 60 years, indigenous racial origin, and family history of CKD, so diabetes (C) is correct. Age under 40 (A) is not a risk factor since risk rises with age over 60. Low body weight (B) is not listed, whereas obesity is, and absence of family history (D) is protective rather than a risk. Diabetes is the leading driver, which is why the ADA sets specific screening schedules."
+    },
+    {
+      "topic": "Diabetic screening timing",
+      "question": "According to ADA recommendations, when should a type 1 diabetic patient first be evaluated for microalbuminuria?",
+      "options": {
+        "A": "At the time of diagnosis",
+        "B": "Only after eGFR falls below 60",
+        "C": "10 years after diagnosis",
+        "D": "5 years after initial evaluation"
+      },
+      "correct": "D",
+      "explanation": "The ADA recommends microalbuminuria evaluation in all type 2 diabetics at the time of diagnosis and in all type 1 diabetics 5 years after initial evaluation, so D is correct for type 1. Testing at diagnosis (A) applies to type 2, not type 1, because type 1 onset is more clearly datable. Tying screening to eGFR below 60 (B) is wrong since screening precedes overt GFR loss, and 10 years (C) is not the recommended interval. Detecting albuminuria early identifies progression and cardiovascular risk before GFR declines."
+    },
+    {
+      "topic": "Albuminuria screening method",
+      "question": "What is described as the most reliable method for detecting albuminuria on screening?",
+      "options": {
+        "A": "An early morning albumin-to-creatinine ratio in a spot urine sample",
+        "B": "A random afternoon dipstick after exercise",
+        "C": "Serum albumin measurement",
+        "D": "A single random 24-hour protein without creatinine"
+      },
+      "correct": "A",
+      "explanation": "Although a urine dipstick can be used, the more reliable screening method is an early morning albumin-to-creatinine ratio on a spot urine sample, making A correct. A random afternoon dipstick after exercise (B) is less reliable and can miss dilute-urine proteinuria. Serum albumin (C) does not measure urinary protein loss, and a single 24-hour protein without creatinine (D) is inconvenient and not the preferred spot method. A morning sample also excludes benign orthostatic proteinuria, which ceases during supine sleep."
+    },
+    {
+      "topic": "Dipstick false negative",
+      "question": "Why can a urine dipstick give a falsely negative result for proteinuria, a problem overcome by the UACR?",
+      "options": {
+        "A": "It reacts only in alkaline urine",
+        "B": "It measures concentration only and can be falsely negative in dilute urine",
+        "C": "It is too sensitive to trace protein",
+        "D": "It detects only albumin bound to creatinine"
+      },
+      "correct": "B",
+      "explanation": "Dipstick tests measure albumin concentration only and can be falsely negative in dilute urine; the UACR overcomes this because dilution affects both albumin and creatinine and the effects cancel out, so B is correct. Reacting only in alkaline urine (A) is wrong, and alkaline urine actually causes false positives. Being too sensitive (C) is backwards since the problem is under-detection, and D misstates the chemistry, as the ratio simply normalizes for concentration. This is why a spot UACR is preferred over dipstick for screening."
+    },
+    {
+      "topic": "Dipstick false negatives",
+      "question": "Which of the following urinary conditions is listed as a cause of a FALSE-NEGATIVE dipstick test for albumin?",
+      "options": {
+        "A": "Presence of blood or semen",
+        "B": "Radiocontrast agents",
+        "C": "Low urine-specific gravity (<1.010)",
+        "D": "Alkaline urine"
+      },
+      "correct": "C",
+      "explanation": "Table 1.1 lists false negatives as low urine specific gravity below 1.010, high salt concentration, acidic urine, and nonalbumin proteinuria, so low specific gravity (C) is correct. Presence of blood or semen (A), radiocontrast agents (B), and alkaline urine (D) are all listed as false positives, not false negatives. A dilute, low-gravity urine underconcentrates albumin below the detection threshold. Recognizing these limitations is why a dipstick result should be confirmed with a quantitative UACR."
+    },
+    {
+      "topic": "UACR categories",
+      "question": "Using the urine albumin-to-creatinine ratio, microalbuminuria is defined as which range?",
+      "options": {
+        "A": "<30 mg/g",
+        "B": ">300 mg/g",
+        "C": ">1,000 mg/g",
+        "D": "30-300 mg/g"
+      },
+      "correct": "D",
+      "explanation": "In milligrams of albumin per gram of creatinine, normoalbuminuria is below 30 mg/g, microalbuminuria is 30-300 mg/g, and macroalbuminuria is above 300 mg/g, so microalbuminuria is 30-300 mg/g (D). Below 30 (A) is normoalbuminuria and above 300 (B) is macroalbuminuria, while above 1,000 (C) is not a defined category. These cutoffs correspond only roughly to milligrams per day and assume 1 g of creatinine is excreted daily; risk is actually continuous and rises even when albumin excretion is below 30 mg per day."
+    },
+    {
+      "topic": "Confirming positive UACR",
+      "question": "How should a positive spot UACR be handled before it is accepted as evidence of CKD?",
+      "options": {
+        "A": "Repeated at least twice over 3 months to exclude acute kidney injury",
+        "B": "Confirmed immediately as CKD on a single test",
+        "C": "Followed by immediate kidney biopsy",
+        "D": "Ignored unless the dipstick is also positive"
+      },
+      "correct": "A",
+      "explanation": "A positive spot UACR should be repeated at least twice over 3 months to exclude acute kidney injury and confirm the result, so A is correct. Confirming CKD on a single test (B) risks mislabeling transient or acute changes. Immediate biopsy (C) is not warranted for an isolated positive ratio, and ignoring it unless the dipstick agrees (D) is wrong because the UACR is the more reliable quantitative test. The 3-month confirmation window matches the chronicity requirement in the CKD definition."
+    },
+    {
+      "topic": "Hyperkalemia in CKD",
+      "question": "Chronic hyperkalemia in CKD is more commonly seen in patients taking which class of medication?",
+      "options": {
+        "A": "Statins",
+        "B": "ACE inhibitors, ARBs, or mineralocorticoid receptor antagonists",
+        "C": "Loop diuretics",
+        "D": "Cholecalciferol supplements"
+      },
+      "correct": "B",
+      "explanation": "Chronic hyperkalemia in CKD is more common in patients taking ACE inhibitors, ARBs, or mineralocorticoid receptor antagonists such as aldosterone antagonists, as well as NSAIDs and trimethoprim, so B is correct. Statins (A) and cholecalciferol supplements (D) do not raise potassium. Loop diuretics (C) actually promote potassium excretion and lower it. Chronic hyperkalemia usually reflects high dietary potassium, especially binge intake of fruits. New GI potassium sorbents may permit wider RAAS-antagonist use despite this risk."
+    },
+    {
+      "topic": "GFR and age",
+      "question": "In healthy adults, how does the body-surface-normalized GFR/1.73 m2 change with age?",
+      "options": {
+        "A": "It rises steadily with age",
+        "B": "It is much higher in women than in men",
+        "C": "It declines with age, averaging about 115 mL/min in young adults",
+        "D": "It stays fixed at 60 mL/min throughout adult life"
+      },
+      "correct": "C",
+      "explanation": "GFR/1.73 m2 is similar in healthy men and women but declines with age, averaging about 115 mL/min in young adults, 100 in the middle-aged, and falling to 90, 80, and 70 mL/min at ages 60, 70, and 80, so C is correct. It does not rise with age (A) nor stay fixed at 60 (D). It is not much higher in women than men (B); when normalized to surface area the sexes are similar. This age-related decline means a single GFR value must always be interpreted in the context of the patient's age."
+    },
+    {
+      "topic": "Creatinine excretion",
+      "question": "Creatinine is produced at a relatively constant rate from muscle creatine and is cleared by the kidney through which mechanisms?",
+      "options": {
+        "A": "Tubular reabsorption only",
+        "B": "Glomerular filtration only",
+        "C": "Tubular secretion only",
+        "D": "Both glomerular filtration and tubular secretion"
+      },
+      "correct": "D",
+      "explanation": "Creatinine is produced at a fairly constant rate from muscle creatine and is excreted by both glomerular filtration and tubular secretion, so D is correct. It is not handled by filtration alone (B), secretion alone (C), or reabsorption (A). Because tubular secretion adds to the filtered creatinine, measured creatinine clearance exceeds true GFR, and this excess grows as GFR falls below 10-15 mL/min. This is why urea and creatinine clearances are averaged to estimate GFR at very low function."
+    },
+    {
+      "topic": "Creatinine-GFR relationship",
+      "question": "A doubling of the serum creatinine corresponds to approximately what change in GFR?",
+      "options": {
+        "A": "A decline in GFR of about 50%",
+        "B": "A decline in GFR of about 10%",
+        "C": "No change in GFR",
+        "D": "An increase in GFR of about 25%"
+      },
+      "correct": "A",
+      "explanation": "The relationship between serum creatinine and GFR is nonlinear, and a doubling of serum creatinine reflects roughly a 50% decline in GFR, so A is correct. A 10% decline (B) or no change (C) badly understates the loss, and creatinine rising cannot mean GFR increases (D). Because the curve is steep, doubling from a low baseline can leave creatinine still within the normal range despite substantial loss of kidney function. This nonlinearity is a key reason serum creatinine alone underestimates early CKD."
+    },
+    {
+      "topic": "Cimetidine effect",
+      "question": "Cimetidine can slightly raise the measured serum creatinine without changing GFR because it does what?",
+      "options": {
+        "A": "Increases muscle creatinine production",
+        "B": "Blocks tubular secretion of creatinine",
+        "C": "Increases glomerular filtration of creatinine",
+        "D": "Interferes directly with the IDMS assay"
+      },
+      "correct": "B",
+      "explanation": "Cimetidine blocks tubular secretion of creatinine, so it slightly raises serum creatinine without any true effect on GFR, making B correct. It does not increase muscle creatinine production (A) or glomerular filtration (C), and it does not interfere directly with the IDMS assay (D). By removing the secretory component, more creatinine is retained in serum even though filtration is unchanged. This illustrates that drugs affecting tubular handling can alter measured creatinine independent of actual renal function."
+    },
+    {
+      "topic": "Creatinine and muscle mass",
+      "question": "A serum creatinine of 1.3 mg/dL can represent a creatinine clearance of about 94 mL/min in a young 80-kg man but only about 28 mL/min in an elderly 50-kg woman. This shows that serum creatinine must be interpreted in the context of what?",
+      "options": {
+        "A": "Urine specific gravity",
+        "B": "Dietary sodium intake",
+        "C": "The patient's muscle mass",
+        "D": "Serum cystatin C level"
+      },
+      "correct": "C",
+      "explanation": "A serum creatinine of 1.3 mg/dL can represent a creatinine clearance of about 94 mL/min in a young 80-kg man but only about 28 mL/min in an elderly 50-kg woman, showing creatinine must be interpreted in the context of muscle mass, so C is correct. It is not primarily about urine specific gravity (A), dietary sodium (B), or cystatin C level (D). Since creatinine derives from muscle, low muscle mass produces low creatinine that masks real GFR loss. Muscle mass varies with age, sex, and body size."
+    },
+    {
+      "topic": "Creatinine in cirrhosis",
+      "question": "In a patient with cirrhosis and ascites, why is estimating renal function from serum creatinine especially difficult?",
+      "options": {
+        "A": "Creatinine is not produced when the liver fails",
+        "B": "The kidneys stop secreting creatinine",
+        "C": "Ascites markedly increases creatinine production",
+        "D": "Low muscle mass lowers creatinine production, and ascites-free weight is hard to determine"
+      },
+      "correct": "D",
+      "explanation": "In cirrhosis with ascites, very low muscle mass gives a low creatinine production rate, and it is hard to determine ascites-free body weight for normalization, so D is correct. Creatinine is still produced despite liver failure (A), and the kidneys continue to secrete it (B). Ascites does not increase creatinine production (C). Consequently a nominally normal creatinine of 0.5-1.0 mg/dL may reflect moderately to markedly impaired renal function. A timed urine collection is more useful than estimating equations in such cachectic patients."
+    },
+    {
+      "topic": "IDMS standardization",
+      "question": "Compared with older assays, serum creatinine values standardized to isotope dilution mass spectrometry (IDMS) tend to be:",
+      "options": {
+        "A": "Lower",
+        "B": "Higher",
+        "C": "Identical",
+        "D": "Unmeasurable"
+      },
+      "correct": "A",
+      "explanation": "Laboratories normalizing creatinine to isotope dilution mass spectrometry (IDMS) produce values that tend to be lower than those from older methods, so A is correct; they are not higher (B), identical (C), or unmeasurable (D). Older assays deviated from true concentrations because of interfering substances in the blood. Because IDMS values run lower, the MDRD equation coefficient was changed from 186 to 175 to compensate. Standardization improves comparability of creatinine-based GFR estimates across laboratories."
+    },
+    {
+      "topic": "Normal creatinine clearance",
+      "question": "Normal creatinine clearance measured by timed collection is approximately which value in an average-size adult man?",
+      "options": {
+        "A": "60 +/- 10 mL/min",
+        "B": "125 +/- 25 mL/min",
+        "C": "95 +/- 20 mL/min",
+        "D": "175 +/- 30 mL/min"
+      },
+      "correct": "B",
+      "explanation": "Normal creatinine clearance by timed collection is about 95 plus or minus 20 mL/min in average-size women and 125 plus or minus 25 mL/min in average-size men, so B is correct for a man. The 95 plus or minus 20 value (C) is the female range, while 60 plus or minus 10 (A) and 175 plus or minus 30 (D) fall outside the normal range. Creatinine clearance exceeds true GFR because of tubular secretion. These reference ranges help judge whether a timed collection is complete and whether measured clearance is normal."
+    },
+    {
+      "topic": "Clearance calculation",
+      "question": "If the per-minute creatinine excretion rate is 1.0 mg/min and the serum creatinine is 1 mg/dL (0.01 mg/mL), what is the creatinine clearance?",
+      "options": {
+        "A": "10 mL/min",
+        "B": "1,000 mL/min",
+        "C": "100 mL/min",
+        "D": "50 mL/min"
+      },
+      "correct": "C",
+      "explanation": "Creatinine clearance equals the per-minute excretion rate divided by the serum concentration: 1.0 mg/min divided by 0.01 mg/mL equals 100 mL/min, so C is correct. The values 10 mL/min (A) and 1,000 mL/min (B) arise from misplacing the decimal when converting 1 mg/dL to 0.01 mg/mL, and 50 mL/min (D) has no basis. The result is the volume of serum cleared of creatinine each minute. Correct unit conversion of serum creatinine from mg/dL to mg/mL is essential to avoid a tenfold error."
+    },
+    {
+      "topic": "Urine collection completeness",
+      "question": "Expected daily creatinine excretion is about 20-25 mg/kg lean body weight in men. A recovered amount well below expected most likely indicates what?",
+      "options": {
+        "A": "Increased tubular secretion",
+        "B": "High dietary meat intake",
+        "C": "Rhabdomyolysis",
+        "D": "An incomplete urine collection"
+      },
+      "correct": "D",
+      "explanation": "Expected daily creatinine excretion is about 15-20 mg/kg lean body weight in women and 20-25 mg/kg in men, so a recovered amount well below expected usually signals an incomplete collection, making D correct. Increased tubular secretion (A) and high dietary meat intake (B) would raise, not lower, measured creatinine, and rhabdomyolysis (C) releases more creatinine. Comparing recovered creatinine with the sex- and weight-based expectation is the standard check on collection adequacy; the Ix equation gives a more exact expected value."
+    },
+    {
+      "topic": "Urea and creatinine clearance",
+      "question": "At very low GFR (below 10-15 mL/min), averaging the urea and creatinine clearances gives a better GFR estimate because:",
+      "options": {
+        "A": "Creatinine clearance overestimates and urea clearance underestimates GFR",
+        "B": "Both clearances equal GFR exactly at low GFR",
+        "C": "Urea clearance always exceeds creatinine clearance",
+        "D": "Urea is secreted while creatinine is reabsorbed"
+      },
+      "correct": "A",
+      "explanation": "Creatinine clearance overestimates GFR because of tubular secretion, whereas urea clearance underestimates GFR because urea is reabsorbed by the tubules, so averaging the two approximates true GFR at very low function, making A correct. They do not both equal GFR exactly (B), and urea clearance is less than, not greater than, creatinine clearance (C). Option D reverses the physiology, since urea is reabsorbed and creatinine is secreted. This averaging is recommended when GFR/1.73 m2 falls below 10-15 mL/min, where secretion dominates creatinine excretion."
+    },
+    {
+      "topic": "Cockcroft-Gault equation",
+      "question": "In the Cockcroft-Gault equation for estimated creatinine clearance, what adjustment is applied when the patient is female?",
+      "options": {
+        "A": "Multiply by 1.21",
+        "B": "Multiply by 0.85",
+        "C": "Multiply by 0.742",
+        "D": "Subtract age from 140 twice"
+      },
+      "correct": "B",
+      "explanation": "The Cockcroft-Gault equation multiplies by 0.85 if the patient is female: (140 minus age) times (0.85 if female) times weight in kg divided by (72 times serum creatinine in mg/dL), so B is correct. The 1.21 factor (A) is the MDRD black-race coefficient and 0.742 (C) is the MDRD female factor, not Cockcroft-Gault, and subtracting age twice (D) is not part of any equation. The 0.85 factor accounts for women's lower muscle mass and thus lower creatinine generation. Cockcroft-Gault estimates creatinine clearance, not GFR."
+    },
+    {
+      "topic": "Estimating equation limits",
+      "question": "In which population are both the Cockcroft-Gault and Ix estimating equations noted to be inaccurate?",
+      "options": {
+        "A": "Young healthy men",
+        "B": "Middle-aged normal-weight adults",
+        "C": "Markedly obese or cachectic patients",
+        "D": "Patients with mild hypertension"
+      },
+      "correct": "C",
+      "explanation": "Neither the Cockcroft-Gault nor the Ix equation is very accurate in markedly obese or cachectic patients, so C is correct. Young healthy men (A), middle-aged normal-weight adults (B), and patients with mild hypertension (D) are within the populations where the equations perform reasonably. Extremes of body composition distort the weight and muscle assumptions built into the equations. For such patients a timed urine collection is preferred, and some suggest adjusting the weight used in the Cockcroft-Gault equation."
+    },
+    {
+      "topic": "MDRD equation",
+      "question": "In the IDMS-standardized MDRD equation, the original coefficient of 186 was replaced by which value?",
+      "options": {
+        "A": "140",
+        "B": "88.5",
+        "C": "0.742",
+        "D": "175"
+      },
+      "correct": "D",
+      "explanation": "In the IDMS-standardized MDRD equation, the original coefficient of 186 was replaced by 175 to account for the slightly lower IDMS-calibrated creatinine values, so D is correct. The value 140 (A) is the Cockcroft-Gault age term, 88.5 (B) is the divisor to convert mcmol/L to mg/dL, and 0.742 (C) is the female multiplier. MDRD reports eGFR normalized per 1.73 m2 and, because it predicts filtration measured by iothalamate, gives lower values than creatinine clearance. Using the right coefficient prevents systematic GFR overestimation."
+    },
+    {
+      "topic": "Vitamin D target level",
+      "question": "Serum 25-D levels in CKD patients should be maintained at least at which level?",
+      "options": {
+        "A": "30 ng/mL (75 nmol/L)",
+        "B": "10 ng/mL",
+        "C": "50 ng/mL",
+        "D": "5 ng/mL"
+      },
+      "correct": "A",
+      "explanation": "Serum 25-D should be maintained at least at 30 ng/mL (75 nmol/L), so A is correct; 10, 50, and 5 ng/mL (B, C, D) are not the stated threshold. CKD patients typically have very low 25-D from limited sun exposure and low dietary intake, and low levels are linked to severe muscle weakness in the elderly. For primary prevention, patients should receive at least 1,000-2,000 IU of cholecalciferol daily, with higher doses sometimes needed. This supplementation level does not affect GI absorption of calcium or phosphorus."
+    },
+    {
+      "topic": "Cystatin C",
+      "question": "An advantage of cystatin C over creatinine for estimating GFR is that cystatin C production is:",
+      "options": {
+        "A": "Increased by tubular secretion",
+        "B": "Not related to muscle mass or dietary meat intake",
+        "C": "Highly dependent on muscle mass",
+        "D": "Dependent on urine flow rate"
+      },
+      "correct": "B",
+      "explanation": "Cystatin C is a 13-kDa protein produced by all cells, filtered by the glomerulus and not reabsorbed, and its production is not related to muscle mass or dietary meat intake, so B is correct. It is not increased by tubular secretion (A), not highly dependent on muscle mass (C), and not tied to urine flow rate (D). Because it avoids the muscle-mass confounder of creatinine, cystatin C-based GFR estimates may correlate better with CKD outcomes in some studies. Its assays are not yet widely standardized, limiting routine use."
+    },
+    {
+      "topic": "Estimating equations in AKI",
+      "question": "Why are creatinine- and cystatin-based estimating equations unreliable in acute kidney injury?",
+      "options": {
+        "A": "They overcorrect for muscle mass",
+        "B": "They cannot be used in hospitalized patients",
+        "C": "They assume steady state and fail when kidney function changes rapidly",
+        "D": "They require a 24-hour urine collection"
+      },
+      "correct": "C",
+      "explanation": "Creatinine- and cystatin-based estimating equations assume steady state and fail when kidney function is changing rapidly, so C is correct. They are not primarily flawed by overcorrecting muscle mass (A), are usable in stable hospitalized patients (B), and do not require a 24-hour collection (D). If both kidneys were removed, serum creatinine or cystatin C would rise over days rather than instantly, so the estimate lags true function. In acute kidney injury a timed urine collection with serum creatinine measured at both ends of the period is needed."
+    },
+    {
+      "topic": "Imaging in CKD",
+      "question": "In a patient newly found to have CKD, which initial study is recommended to look for structural abnormalities or obstruction?",
+      "options": {
+        "A": "Kidney biopsy in all patients",
+        "B": "Renal angiography in all patients",
+        "C": "Cystatin C measurement",
+        "D": "Imaging the kidneys, commonly by ultrasound"
+      },
+      "correct": "D",
+      "explanation": "In a patient newly found to have CKD, the kidneys should be imaged, commonly by ultrasound, to look for structural abnormalities and obstruction, so D is correct. Biopsy in all patients (A) and angiography in all patients (B) are not routine initial steps. Cystatin C (C) estimates function but does not reveal structure or obstruction. Serum electrolytes (Na, K, Cl, HCO3) should also be measured to screen for metabolic acidosis and electrolyte disorders that may hint at the underlying disease. Detecting obstruction matters because it may be reversible."
+    },
+    {
+      "topic": "Reversible CKD cause",
+      "question": "Which of the following is given as an example of a potentially reversible cause of CKD?",
+      "options": {
+        "A": "Chronic bladder neck obstruction from prostatic hypertrophy",
+        "B": "Polycystic kidney disease",
+        "C": "Diabetic nephropathy",
+        "D": "Alport syndrome"
+      },
+      "correct": "A",
+      "explanation": "CKD may be reversible, for example with bilateral renovascular disease or chronic bladder neck obstruction from prostatic hypertrophy, so A is correct. Polycystic kidney disease (B), diabetic nephropathy (C), and Alport syndrome (D) are progressive and not reversible. Identifying the cause matters because relieving obstruction or treating renovascular disease can restore function. The etiology also predicts the tempo of progression and the risk of recurrence in a future kidney allograft, informing later management decisions."
+    },
+    {
+      "topic": "CKD staging thresholds",
+      "question": "In the KDOQI staging system, stages 3, 4, and 5 CKD are defined by GFR falling below which respective values?",
+      "options": {
+        "A": "90, 60, and 30 mL/min",
+        "B": "60, 30, and 15 mL/min",
+        "C": "45, 30, and 15 mL/min",
+        "D": "75, 45, and 20 mL/min"
+      },
+      "correct": "B",
+      "explanation": "Stages 3, 4, and 5 CKD are present by definition when GFR falls below 60, 30, and 15 mL/min respectively, so B is correct. The cutoffs 90/60/30 (A), 45/30/15 (C), and 75/45/20 (D) are wrong. Stages 1 and 2, with eGFR above 60, additionally require evidence of kidney damage. KDIGO further subdivides stage 3 into 3a (45-59) and 3b (30-44) and adds albuminuria to refine prognosis. These GFR thresholds anchor the entire KDOQI staging framework."
+    },
+    {
+      "topic": "Stages 1 and 2 criteria",
+      "question": "For a patient with eGFR/1.73 m2 above 60 mL/min to be classified as stage 1 or 2 CKD, what is additionally required?",
+      "options": {
+        "A": "Age over 60 years",
+        "B": "A single high blood pressure reading",
+        "C": "Evidence of kidney damage such as proteinuria or abnormal imaging",
+        "D": "A positive family history alone"
+      },
+      "correct": "C",
+      "explanation": "With eGFR/1.73 m2 still above 60, stages 1 and 2 require evidence of kidney damage apart from reduced GFR, such as pathologic biopsy changes, proteinuria or an abnormal sediment, or abnormal imaging, so C is correct. Age over 60 (A), a single high blood pressure reading (B), or family history alone (D) do not by themselves establish these stages. Without a damage marker, a GFR above 60 is not CKD. This is why some elderly people with eGFR 45-60 and no damage need not be labeled as having progressive disease."
+    },
+    {
+      "topic": "Preparing for dialysis",
+      "question": "In stage 4 and 5 CKD patients, evidence of failing nutritional status is described as what?",
+      "options": {
+        "A": "A reason to stop monitoring",
+        "B": "Irrelevant to dialysis timing",
+        "C": "An indication to intensify protein restriction",
+        "D": "A key determinant in the decision to begin dialysis therapy"
+      },
+      "correct": "D",
+      "explanation": "In stage 4 and 5 patients, evidence of failing nutritional status is one key determinant in the decision to begin dialysis therapy, so D is correct. It is not a reason to stop monitoring (A), it is highly relevant to dialysis timing (B), and the response is not to intensify protein restriction (C), which could worsen malnutrition. Malnourished patients starting dialysis have poorer survival than well-nourished ones, so nutrition should be followed by clinical parameters and serum albumin with dietitian involvement. Recommended intake is about 0.8 g/kg protein and 30-35 kcal/kg daily."
+    },
+    {
+      "topic": "Smoking and progression",
+      "question": "Beyond being a cardiovascular risk factor, why is smoking cessation emphasized specifically for kidney disease in CKD patients?",
+      "options": {
+        "A": "Smoking accelerates the rate of progression of renal disease",
+        "B": "Smoking directly lowers serum creatinine",
+        "C": "Smoking reduces proteinuria",
+        "D": "Smoking has no renal effect"
+      },
+      "correct": "A",
+      "explanation": "Beyond being a traditional cardiovascular risk factor, smoking accelerates the rate of progression of renal disease, which is why cessation is emphasized specifically for CKD, so A is correct. Smoking does not lower serum creatinine (B) or reduce proteinuria (C), and it clearly does have a renal effect (D). Because the risk factors for CKD progression overlap heavily with cardiovascular risk factors, stopping smoking benefits both the kidneys and the heart. Cessation is a core part of slowing progression alongside blood pressure and glycemic control."
+    },
+    {
+      "topic": "Blood pressure target",
+      "question": "What blood pressure target do KDIGO and KDOQI recommend for all patients with kidney disease, regardless of diabetes or proteinuria?",
+      "options": {
+        "A": "<160/100 mm Hg",
+        "B": "<150/90 mm Hg",
+        "C": "<130/80 mm Hg",
+        "D": "<120/70 mm Hg"
+      },
+      "correct": "C",
+      "explanation": "KDIGO and KDOQI recommend a target below 130/80 mm Hg for all patients with kidney disease, with or without diabetes and regardless of proteinuria, so C is correct. Targets of 160/100 (A) and 150/90 (B) are too high, and 120/70 (D) is not the stated goal. JNC 8 offered a less aggressive target of below 140/90 in patients under age 60 with diabetes and kidney disease, illustrating guideline variation. Whether or not hypertension is present, an ACE inhibitor or ARB is recommended to slow progression in proteinuric CKD."
+    },
+    {
+      "topic": "ACE-I/ARB indication",
+      "question": "In nondiabetic CKD, ACE inhibitor or ARB therapy to slow progression is recommended once proteinuria reaches approximately what threshold?",
+      "options": {
+        "A": "Any trace of microalbuminuria",
+        "B": "Only after dialysis begins",
+        "C": "A spot ratio of >= 30 mg/g",
+        "D": "A spot urine protein-to-creatinine ratio of >= 200 mg/g"
+      },
+      "correct": "D",
+      "explanation": "ACE inhibitor or ARB therapy is recommended in diabetic kidney disease and in nondiabetic CKD with proteinuria, defined as a spot urine protein-to-creatinine ratio of at least 200 mg/g, so D is correct. Any trace of microalbuminuria (A) is below that treatment threshold, therapy is not deferred until dialysis begins (B), and 30 mg/g (C) is the microalbuminuria cutoff, not the RAAS-treatment trigger. ACE-I/ARB use is advised whether or not hypertension is present. Doses can be titrated up to minimize proteinuria while monitoring potassium and creatinine."
+    },
+    {
+      "topic": "Diuretic choice",
+      "question": "When serum creatinine exceeds 1.8 mg/dL (>160 mcmol/L), which diuretic is recommended over a thiazide?",
+      "options": {
+        "A": "A loop diuretic dosed twice daily",
+        "B": "Spironolactone",
+        "C": "Acetazolamide",
+        "D": "No diuretic at all"
+      },
+      "correct": "A",
+      "explanation": "Thiazides are preferred for mild CKD when serum creatinine is below 1.8 mg/dL, but when it exceeds 1.8 mg/dL (above 160 mcmol/L) a loop diuretic given twice daily is recommended because of presumed reduced thiazide efficacy, so A is correct. Spironolactone (B) and acetazolamide (C) are not the recommended substitutes, and withholding all diuretics (D) ignores the need for volume control. Diuretics also enhance the antiproteinuric effect of ACE-I/ARB therapy. Notably, chlorthalidone has still shown efficacy in CKD despite the general thiazide concern."
+    },
+    {
+      "topic": "ACE-I/ARB monitoring",
+      "question": "After starting or up-titrating an ACE inhibitor or ARB in a CKD patient, which parameters should be monitored?",
+      "options": {
+        "A": "Only serum sodium",
+        "B": "Blood pressure, potassium, and creatinine",
+        "C": "Hemoglobin and ferritin only",
+        "D": "Only blood pressure"
+      },
+      "correct": "B",
+      "explanation": "After starting or up-titrating an ACE inhibitor or ARB, blood pressure, potassium, and creatinine should be monitored, so B is correct. Sodium alone (A), hemoglobin and ferritin only (C), or blood pressure only (D) miss the key hazards of hyperkalemia and rising creatinine. These agents lower intraglomerular pressure, which can transiently raise creatinine and retain potassium. Sodium restriction and diuretics increase their antiproteinuric effect, and doses are titrated up to minimize proteinuria under this monitoring after each dose change."
+    },
+    {
+      "topic": "ACE-I/ARB contraindication",
+      "question": "ACE inhibitors and ARBs are contraindicated in which situation?",
+      "options": {
+        "A": "Mild proteinuria",
+        "B": "Type 2 diabetes",
+        "C": "Pregnancy, particularly beyond the first trimester",
+        "D": "An eGFR of 50 mL/min"
+      },
+      "correct": "C",
+      "explanation": "ACE inhibitors and ARBs are contraindicated in pregnancy, particularly beyond the first trimester, and in patients with a history of angioedema, so C is correct. Mild proteinuria (A) and type 2 diabetes (B) are actually indications for these agents, and an eGFR of 50 mL/min (D) does not preclude their use. Fetal exposure beyond the first trimester causes serious harm, which drives the pregnancy contraindication. For an eGFR above 15 mL/min, antihypertensive doses rarely need downward adjustment for impaired renal excretion."
+    },
+    {
+      "topic": "Beta-blockers in CKD",
+      "question": "What is accurate regarding beta-blockers in CKD patients?",
+      "options": {
+        "A": "They are contraindicated after myocardial infarction in CKD",
+        "B": "They have no cardioprotective value in CKD",
+        "C": "They remain first-line antihypertensives per JNC 8",
+        "D": "They are cardioprotective but no longer first-line for hypertension per JNC 8"
+      },
+      "correct": "D",
+      "explanation": "Beta-blockers provide cardioprotection in CKD, with post-myocardial-infarction benefit similar to that in patients with normal renal function, but JNC 8 no longer recommends them as a first-line drug for hypertension, so D is correct. They are not contraindicated after MI in CKD (A), do have cardioprotective value (B), and are not first-line antihypertensives per JNC 8 (C). Aspirin plus beta-blocker cardioprotection after MI is comparable in CKD, though aspirin carries GI bleeding risk in ESKD. Their role is thus cardioprotective rather than primary blood-pressure therapy."
+    },
+    {
+      "topic": "Glycemic target",
+      "question": "What HbA1c goal is stated for glycemic control in diabetic CKD patients, with individualization for those at risk of hypoglycemia?",
+      "options": {
+        "A": "<7.0%",
+        "B": "<8.0%",
+        "C": "<9.0%",
+        "D": "<6.0%"
+      },
+      "correct": "A",
+      "explanation": "The glycemic goal in diabetic CKD is an HbA1c below 7.0%, so A is correct; 8.0%, 9.0%, and 6.0% (B, C, D) are not the stated target. Tight control slows microvascular and macrovascular disease and the progression of renal disease in diabetic CKD. However, the latest ADA guidelines emphasize individualizing the HbA1c threshold in type 2 diabetes, and KDIGO suggests relaxing it in patients at risk of hypoglycemia or with substantial comorbidities. The target thus balances progression benefit against hypoglycemia harm."
+    },
+    {
+      "topic": "KDIGO statin recommendation",
+      "question": "The 2013 KDIGO lipid guidelines recommend a statin (or statin/ezetimibe) for nondialysis CKD patients with eGFR <60 who are of what age?",
+      "options": {
+        "A": ">= 30 years",
+        "B": ">= 50 years",
+        "C": ">= 40 years",
+        "D": ">= 65 years"
+      },
+      "correct": "B",
+      "explanation": "The 2013 KDIGO lipid guidelines recommend a statin or a statin/ezetimibe combination for all nondialysis CKD patients with eGFR below 60 who are aged 50 years or older, so B is correct; 30, 40, and 65 years (A, C, D) are not the threshold. Patients 50 or older with stage 1-2 CKD (eGFR above 60 with damage) should be offered a statin alone, as evidence for adding ezetimibe there is weaker. Younger patients aged 18-49 are treated only with specific risk factors. Statins should not be started routinely in dialysis patients."
+    },
+    {
+      "topic": "Ezetimibe mechanism",
+      "question": "Ezetimibe lowers LDL cholesterol by which mechanism?",
+      "options": {
+        "A": "Inhibiting HMG-CoA reductase",
+        "B": "Blocking PCSK9",
+        "C": "Inhibiting intestinal cholesterol absorption",
+        "D": "Increasing bile acid synthesis"
+      },
+      "correct": "C",
+      "explanation": "Ezetimibe inhibits intestinal cholesterol absorption, lowering LDL cholesterol, triglycerides, and apolipoprotein B while raising HDL cholesterol, so C is correct. It does not inhibit HMG-CoA reductase (A), which is the statin mechanism, nor block PCSK9 (B) or increase bile acid synthesis (D). Like statins it also exerts antiatherogenic, anti-inflammatory, and antioxidant actions. The SHARP trial of simvastatin plus ezetimibe underlies the recommendation to use ezetimibe in nondialysis CKD, though the added benefit of ezetimibe beyond the statin is uncertain."
+    },
+    {
+      "topic": "Protein restriction",
+      "question": "What is described as a reasonable general dietary protein target for patients with CKD?",
+      "options": {
+        "A": "0.3 g/kg per day in all patients",
+        "B": "At least 2 g/kg per day",
+        "C": "About 0.8 g/kg per day",
+        "D": "No restriction at any stage"
+      },
+      "correct": "C",
+      "explanation": "A reasonable general approach is to restrict dietary protein to about 0.8 g/kg per day in all patients with CKD, so C is correct. The values 0.3 g/kg (A) and 2 g/kg (B) are not recommended, and no restriction at all (D) contradicts meta-analyses suggesting benefit. The 2000 KDOQI guidelines suggested 0.6 g/kg for eGFR below 25 mL/min, but Canadian, many European, and recent KDIGO guidelines do not advise going below 0.8 g/kg at any renal function level. Judgment is essential in malnourished patients, since restricting food risks worsening nutrition."
+    },
+    {
+      "topic": "Caloric intake",
+      "question": "What is the recommended caloric intake for CKD patients undergoing dietary protein management?",
+      "options": {
+        "A": "15-20 kcal/kg per day",
+        "B": "45-50 kcal/kg per day",
+        "C": "20-25 kcal/kg per day",
+        "D": "30-35 kcal/kg per day"
+      },
+      "correct": "D",
+      "explanation": "The recommended caloric intake for CKD patients undergoing protein management is 30-35 kcal/kg per day, so D is correct; 15-20 (A), 45-50 (B), and 20-25 kcal/kg (C) are not the target. Adequate calories protect against malnutrition when protein is restricted to about 0.8 g/kg per day. Malnourished patients starting dialysis have poorer survival, so close follow-up with clinical parameters and serum albumin, guided by a dietitian, is essential. Failing nutrition is a key trigger to begin dialysis in stage 4-5 disease."
+    },
+    {
+      "topic": "Anemia etiology",
+      "question": "The anemia of CKD is multifactorial. Which is listed among its most common causes?",
+      "options": {
+        "A": "Erythropoietin deficiency",
+        "B": "Vitamin B12 deficiency",
+        "C": "Thalassemia trait",
+        "D": "Mechanical valve hemolysis"
+      },
+      "correct": "A",
+      "explanation": "The anemia of CKD is multifactorial, and its most common causes are erythropoietin deficiency, iron deficiency, and inflammation, so erythropoietin deficiency (A) is correct. Vitamin B12 deficiency (B), thalassemia trait (C), and mechanical valve hemolysis (D) are not among the listed common causes. As kidney disease advances, both the incidence and prevalence of anemia rise. Contemporary management emphasizes only partial correction using the lowest effective ESA dose together with treating iron deficiency and inflammation."
+    },
+    {
+      "topic": "Anemia overcorrection",
+      "question": "Randomized trials showed that correcting anemia with an ESA to a hemoglobin of 13 g/dL and above was associated with what?",
+      "options": {
+        "A": "A clear reduction in mortality",
+        "B": "No benefit or an increased risk of cardiovascular complications, stroke, and/or death",
+        "C": "Slowed progression to ESKD",
+        "D": "Improved kidney function"
+      },
+      "correct": "B",
+      "explanation": "Randomized trials showed that correcting anemia to a hemoglobin of 13 g/dL and above with an ESA was associated with no benefit or an increased risk of cardiovascular complications, stroke, and death, so B is correct. It did not clearly reduce mortality (A), slow progression to ESKD (C), or improve kidney function (D); indeed correction showed no effect or an increased rate of ESKD. High ESA doses have been linked to adverse events, whether causal or reflecting ESA resistance. This evidence underlies the shift to only partial anemia correction."
+    },
+    {
+      "topic": "ESA initiation threshold",
+      "question": "KDIGO guidelines recommend that erythropoietin therapy generally not be started until the hemoglobin falls below which level?",
+      "options": {
+        "A": "13 g/dL",
+        "B": "12 g/dL",
+        "C": "10 g/dL",
+        "D": "8 g/dL"
+      },
+      "correct": "C",
+      "explanation": "KDIGO recommends not starting erythropoietin therapy until the hemoglobin falls below 10 g/dL, so C is correct; 13, 12, and 8 g/dL (A, B, D) are not the initiation threshold. KDIGO advises maintaining Hb between 9 and 11.5 g/dL, while the US FDA recommends reducing or interrupting ESA if Hb exceeds 11 g/dL, making the effective US goal roughly 9-11 g/dL. A main aim is to reduce the need for blood transfusion, and caution is urged in patients with prior stroke or cancer. Some argue a target of 9 g/dL may be too low."
+    },
+    {
+      "topic": "Short-acting ESA",
+      "question": "Epoetin alfa, a short-acting ESA, has an intravenous half-life of approximately how long?",
+      "options": {
+        "A": "About 25 hours",
+        "B": "About 50 hours",
+        "C": "About 136 hours",
+        "D": "About 8 hours"
+      },
+      "correct": "D",
+      "explanation": "Epoetin alfa is a short-acting ESA with an intravenous half-life of about 8 hours and 16-24 hours when given subcutaneously, so D is correct. About 25 hours (A) and 50 hours (B) describe darbepoetin alfa, and 136 hours (C) is CERA. A typical CKD dose of epoetin alfa is 4,000-6,000 units subcutaneously once weekly. Longer-acting agents are often preferred in nondialysis CKD to reduce injections and office visits, but short-acting ESAs can still be dosed weekly or every two weeks with considerable effect."
+    },
+    {
+      "topic": "Iron deficiency prevalence",
+      "question": "Iron deficiency is present in over what percentage of nondialysis CKD patients and is the most common cause of apparent ESA resistance?",
+      "options": {
+        "A": "Over 40%",
+        "B": "Over 10%",
+        "C": "Over 25%",
+        "D": "Over 75%"
+      },
+      "correct": "A",
+      "explanation": "Iron deficiency is present in over 40% of nondialysis CKD patients and is the most common cause of apparent ESA resistance, so A is correct; over 10%, 25%, and 75% (B, C, D) misstate the figure. Its causes include reduced iron absorption, blood loss from frequent draws or occult GI bleeding, and reduced nutritional intake. Because iron deficiency blunts the ESA response, iron status must be addressed before starting ESA therapy. Oral iron is the preferred initial approach in nondialysis CKD."
+    },
+    {
+      "topic": "Transferrin saturation",
+      "question": "A transferrin saturation (TSAT) below which value indicates low iron availability in CKD?",
+      "options": {
+        "A": "<50%",
+        "B": "<20%",
+        "C": "<40%",
+        "D": "<60%"
+      },
+      "correct": "B",
+      "explanation": "A transferrin saturation below 20% indicates low iron availability in CKD, so B is correct; 50%, 40%, and 60% (A, C, D) are above that threshold. TSAT is calculated as serum iron times 100 divided by total iron binding capacity and is the most common measure of iron bioavailability. A serum ferritin below 100 ng/mL also strongly suggests iron deficiency, though ferritin is an acute-phase reactant and is unreliable when elevated in inflamed CKD patients. Iron therapy without ESA is usually unsuccessful in CKD."
+    },
+    {
+      "topic": "IV iron safety",
+      "question": "Which intravenous iron preparation has been associated with an increased risk of severe anaphylaxis?",
+      "options": {
+        "A": "Iron sucrose",
+        "B": "Ferrous gluconate",
+        "C": "High-molecular-weight iron dextran",
+        "D": "Ferumoxytol"
+      },
+      "correct": "C",
+      "explanation": "High-molecular-weight iron dextran has been associated with an increased risk of severe anaphylaxis, so C is correct. Iron sucrose (A), ferrous gluconate (B), and ferumoxytol (D) are among the low-molecular-weight preparations recommended instead, along with low-molecular-weight dextran. An initial IV iron course typically supplies about 1,000 mg of iron. Intravenous iron is used when patients fail oral iron or have large ongoing losses such as chronic GI bleeding, with iron status monitored every 3 months by TSAT and ferritin."
+    },
+    {
+      "topic": "Phosphorus restriction",
+      "question": "Dietary phosphorus intake in CKD should be restricted to approximately what range?",
+      "options": {
+        "A": "200-400 mg per day",
+        "B": "2,500-3,000 mg per day",
+        "C": "1,500-2,000 mg per day",
+        "D": "800-1,000 mg per day"
+      },
+      "correct": "D",
+      "explanation": "Dietary phosphorus should be restricted to about 800-1,000 mg per day (26-32 mmol per day), so D is correct; 200-400 (A), 2,500-3,000 (B), and 1,500-2,000 mg (C) are not the target. Management includes reviewing the diet for high-phosphorus foods such as dairy products, certain colas, and processed meats, especially phosphorus additives. Hyperphosphatemia is a risk factor for mortality, vascular calcification, and left ventricular hypertrophy and stimulates PTH secretion. Total calcium intake is separately kept near 1,500 mg per day."
+    },
+    {
+      "topic": "PTH target and CKD",
+      "question": "As CKD progresses, the target PTH range increases because:",
+      "options": {
+        "A": "Bone becomes resistant to the actions of PTH",
+        "B": "Bone becomes more sensitive to PTH",
+        "C": "PTH is no longer related to bone disease",
+        "D": "Serum calcium always rises"
+      },
+      "correct": "A",
+      "explanation": "As CKD progresses, bone becomes resistant to the actions of PTH, so the target PTH range increases with advancing disease, making A correct. Bone does not become more sensitive to PTH (B); PTH remains associated with bone disease (C); and serum calcium does not always rise (D). Because of this skeletal resistance, a higher PTH is needed to maintain normal bone turnover, and a dialysis target of 2-9 times normal is proposed. Controlling PTH limits parathyroid gland hypertrophy and the risk of large, nonsuppressible glands."
+    },
+    {
+      "topic": "Cinacalcet mechanism",
+      "question": "Cinacalcet lowers PTH secretion by which mechanism?",
+      "options": {
+        "A": "Inhibiting intestinal phosphate absorption",
+        "B": "Increasing the sensitivity of parathyroid calcium receptors to calcium",
+        "C": "Inhibiting 1-alpha-hydroxylase",
+        "D": "Stimulating erythropoietin release"
+      },
+      "correct": "B",
+      "explanation": "Cinacalcet is a calcimimetic that increases the sensitivity of parathyroid calcium receptors to calcium, thereby decreasing PTH secretion, so B is correct. It does not inhibit intestinal phosphate absorption (A), inhibit 1-alpha-hydroxylase (C), or stimulate erythropoietin release (D). Its main advantage is use when PTH is high alongside high calcium or phosphorus, where active vitamin D sterols would be contraindicated because they raise GI phosphorus absorption. It lowers PTH in stage 3-4 CKD, but US labeling and 2009 KDIGO do not recommend it in nondialysis patients."
+    },
+    {
+      "topic": "Metabolic acidosis treatment",
+      "question": "Sodium bicarbonate is recommended in CKD to maintain the serum bicarbonate at what level, and may slow progression?",
+      "options": {
+        "A": ">= 15 mmol/L",
+        "B": ">= 18 mmol/L",
+        "C": ">= 22 mmol/L",
+        "D": ">= 30 mmol/L"
+      },
+      "correct": "C",
+      "explanation": "Sodium bicarbonate is recommended to keep the serum bicarbonate at or above 22 mmol/L, so C is correct; 15, 18, and 30 mmol/L (A, B, D) are not the target. The usual dose is 0.5-1.0 mmol/kg per day, and alkali therapy has slowed CKD progression in several small randomized trials. Chronic metabolic acidosis increases resorption of bone and is linked to faster CKD progression, which is why correction matters. The acidosis of CKD is usually mild with a normal anion gap until kidney function is severely impaired."
+    }
+  ]
+}

@@ -1,0 +1,665 @@
+{
+ "chapter": 24,
+ "questions": [
+  {
+   "topic": "History of PD in AKI",
+   "question": "Which statement about the historical role of peritoneal dialysis (PD) in acute kidney injury (AKI) is correct?",
+   "options": {
+    "A": "PD only became available after 1970",
+    "B": "PD was never used for AKI before the advent of hemodialysis",
+    "C": "PD was the first successfully used modality of renal replacement therapy in AKI patients",
+    "D": "PD was abandoned entirely and is no longer used anywhere"
+   },
+   "correct": "C",
+   "explanation": "PD was the first successfully used modality of renal replacement therapy in AKI patients, so C is correct. A is wrong because PD predated 1970 rather than appearing after it; B is wrong because PD was used before hemodialysis existed, not after; D is wrong because PD is still used, especially in developing countries. Its use progressively declined after 1970 owing to the greater convenience of acute hemodialysis, but interest has revived and a meta-analysis (Chionh, 2010) suggests outcomes equivalent to HD."
+  },
+  {
+   "topic": "Decline of acute PD",
+   "question": "The progressive decline in the use of acute PD after 1970 was primarily attributed to which factor?",
+   "options": {
+    "A": "Evidence that PD caused higher mortality",
+    "B": "The greater convenience of acute hemodialysis",
+    "C": "A worldwide shortage of dialysate",
+    "D": "Regulatory bans on peritoneal catheters"
+   },
+   "correct": "B",
+   "explanation": "The decline in acute PD after 1970 was driven mainly by the greater convenience of acute hemodialysis, so B is correct. A is wrong because a meta-analysis actually found PD outcomes equivalent to HD, not higher mortality; C and D invent a dialysate shortage and regulatory bans that the chapter never mentions. This convenience-driven shift left PD predominantly practiced in developing countries, where lower cost and minimal infrastructure make it attractive, and recent interest is again growing for selected AKI patients."
+  },
+  {
+   "topic": "Current practice of PD",
+   "question": "Acute PD for AKI is now predominantly practiced in developing countries chiefly because of which reasons?",
+   "options": {
+    "A": "Superior small-solute clearance compared with HD",
+    "B": "Government mandates favoring PD",
+    "C": "The lack of any peritonitis risk",
+    "D": "Its lower cost and minimal infrastructure requirements"
+   },
+   "correct": "D",
+   "explanation": "Acute PD is now predominantly practiced in developing countries because of its lower cost and minimal infrastructure requirements, making D correct. A is wrong because PD does not give superior small-solute clearance to HD; C is wrong because peritonitis remains a real risk of PD; B invents government mandates the chapter does not cite. PD is technically simple, needs no vascular access or expensive equipment, and can be initiated almost anywhere, which explains its role where resources are limited."
+  },
+  {
+   "topic": "Outcomes vs HD",
+   "question": "A meta-analysis comparing PD with hemodialysis for AKI suggested which of the following?",
+   "options": {
+    "A": "Outcomes with PD were equivalent to those with HD",
+    "B": "PD was superior to HD in all outcomes",
+    "C": "PD produced markedly worse survival than HD",
+    "D": "No meaningful comparison could be made"
+   },
+   "correct": "A",
+   "explanation": "A meta-analysis (Chionh, 2010) suggested PD outcomes were equivalent to those with HD, so A is correct. B overstates the data because equivalence, not superiority in all outcomes, was found; C contradicts the finding of markedly worse survival; D is wrong because a meaningful comparison was in fact made. This equivalence, together with PD's technical simplicity and lower cost, underlies renewed interest in using PD for selected AKI patients rather than defaulting to hemodialysis."
+  },
+  {
+   "topic": "Advantages of PD",
+   "question": "Which characteristic of solute and water removal with PD is considered an advantage in AKI?",
+   "options": {
+    "A": "Extremely rapid removal to reverse uremia within minutes",
+    "B": "Gradual removal, with less potential for disequilibrium syndrome and cardiovascular stress",
+    "C": "Complete independence from membrane transport characteristics",
+    "D": "Removal that always exceeds that of extracorporeal techniques"
+   },
+   "correct": "B",
+   "explanation": "Solute and water removal with PD is gradual, reducing disequilibrium syndrome, cardiovascular stress, and abrupt blood pressure drops, so B is correct. A is wrong because PD is slow, not able to reverse uremia within minutes; C is wrong because clearance depends heavily on membrane transport characteristics; D is wrong because extracorporeal techniques remove solute faster. This gradual removal may lessen renal and cardiac ischemia and intracranial fluid shifts, and by avoiding an extracorporeal circuit it reduces proinflammatory blood-membrane contact."
+  },
+  {
+   "topic": "Nonclassical indications",
+   "question": "Besides classical indications, acute PD may also be used to maintain volume control in patients with which condition?",
+   "options": {
+    "A": "Isolated hypertension without fluid overload",
+    "B": "Congestive heart failure functional class IV",
+    "C": "Chronic stable angina",
+    "D": "Mild hyponatremia alone"
+   },
+   "correct": "B",
+   "explanation": "Besides classical indications, acute PD can maintain volume control in congestive heart failure functional class IV, so B is correct. A and C are wrong because isolated hypertension without overload and chronic stable angina are not listed indications; D is wrong because mild hyponatremia alone is not cited. Beyond volume and electrolyte control, the chapter notes acute PD can also treat hyper- or hypothermia and necrotizing pancreatitis by peritoneal lavage, and is used for urgent-start PD in advanced CKD."
+  },
+  {
+   "topic": "Urgent start PD",
+   "question": "The scenario in which advanced CKD presents urgently with uremia or fluid overload and is managed with acute PD is termed what?",
+   "options": {
+    "A": "Salvage PD",
+    "B": "Bridge PD",
+    "C": "Rescue lavage",
+    "D": "Urgent start PD"
+   },
+   "correct": "D",
+   "explanation": "When advanced CKD presents urgently with uremia or fluid overload and is managed with acute PD, this is termed urgent start PD, so D is correct. A, B, and C invent labels (salvage PD, bridge PD, rescue lavage) that the chapter does not use. Urgent start PD requires prompt Tenckhoff placement, willingness to alter practice, an ability to deliver low-volume cycler PD on a ward, and short-notice patient training, all coordinated between ward and PD unit staff."
+  },
+  {
+   "topic": "PD in disasters",
+   "question": "In the setting of natural disasters such as earthquakes, PD can be an important life-saving modality primarily because it does not depend heavily on which resource?",
+   "options": {
+    "A": "Intact peritoneal membranes",
+    "B": "Glucose-containing solutions",
+    "C": "Trained nephrologists",
+    "D": "Power, clean water, and water-treatment facilities"
+   },
+   "correct": "D",
+   "explanation": "In disasters such as earthquakes, PD is life-saving mainly because it does not depend heavily on power, clean water, and water-treatment facilities, so D is correct. A is wrong because an intact peritoneum is still required for PD to work; B and C are wrong because glucose solutions and skilled nephrologists are not the resources spared by disasters. Damaged infrastructure makes power and water treatment challenging, yet PD needs no vascular access, no anticoagulation, and no expensive equipment, making it deployable in these settings."
+  },
+  {
+   "topic": "Contraindications",
+   "question": "Which of the following is a relative contraindication to PD in AKI?",
+   "options": {
+    "A": "Difficult vascular access",
+    "B": "Bleeding diathesis",
+    "C": "Recent abdominal surgery with large abdominal hernias",
+    "D": "Congestive heart failure"
+   },
+   "correct": "C",
+   "explanation": "Recent abdominal surgery with large abdominal hernias is a relative contraindication to PD, so C is correct. A, B, and D are actually advantages or indications: difficult vascular access, bleeding diathesis, and heart failure all favor PD rather than contraindicate it. Other relative contraindications listed include adynamic ileus, intra-abdominal adhesions, peritoneal fibrosis, and peritonitis, all of which compromise the intact peritoneal cavity and adequate peritoneal clearance capacity that PD requires."
+  },
+  {
+   "topic": "Limitations of PD",
+   "question": "For which emergency is PD considered NOT as safe and efficient as extracorporeal blood purification?",
+   "options": {
+    "A": "Mild metabolic acidosis",
+    "B": "Life-threatening hyperkalemia",
+    "C": "Slowly progressive uremia",
+    "D": "Chronic anemia"
+   },
+   "correct": "B",
+   "explanation": "PD is not as safe or efficient as extracorporeal blood purification for life-threatening hyperkalemia, so B is correct. A, C, and D are wrong because mild acidosis, slowly progressive uremia, and chronic anemia are not the emergencies where PD falls short. Because PD volume and solute removal are slow and sometimes unpredictable, it is inferior for emergencies such as acute pulmonary edema, life-threatening hyperkalemia, and drug overdoses, where rapid extracorporeal clearance is preferred."
+  },
+  {
+   "topic": "Adequacy controversy",
+   "question": "The ability of PD to achieve adequate dialysis doses has been most controversial in which type of AKI patient?",
+   "options": {
+    "A": "Hypercatabolic patients",
+    "B": "Pediatric patients",
+    "C": "Patients with heart failure",
+    "D": "Patients with bleeding diathesis"
+   },
+   "correct": "A",
+   "explanation": "The adequacy of PD dosing has been most controversial in hypercatabolic AKI patients, so A is correct. B, C, and D are wrong because pediatric patients, heart failure, and bleeding diathesis are actually groups where PD may offer special benefit, not adequacy concerns. Some authors (Phu, 2002) questioned PD adequacy in hypercatabolic patients, but reports of positive outcomes exist (Chitalia, 2002; Ponce, 2012b), especially when intensive regimens such as high-volume PD are used to raise clearance."
+  },
+  {
+   "topic": "Respiratory effects",
+   "question": "PD raises intra-abdominal pressure, which may cause or worsen respiratory failure. However, which statement best reflects its overall effect on ventilation?",
+   "options": {
+    "A": "PD is the most common cause of ventilation impairment in AKI",
+    "B": "PD should never be used in any patient with respiratory concerns",
+    "C": "Patients on PD generally maintain vital capacity and PD is seldom the cause of ventilation impairment in those without pulmonary disease",
+    "D": "Intra-abdominal pressure has no effect on the diaphragm"
+   },
+   "correct": "C",
+   "explanation": "Patients on PD generally maintain vital capacity and respiratory volume, and PD is seldom the cause of ventilation impairment without pulmonary disease, so C is correct. A is wrong because PD is not the most common cause of ventilation impairment; B overstates by banning PD in any respiratory concern; D is wrong because increased intra-abdominal pressure does impair diaphragm mobilization. Raised intra-abdominal pressure can decrease pulmonary compliance, so PD may worsen existing respiratory failure, but it is rarely the primary cause."
+  },
+  {
+   "topic": "Protein supplementation",
+   "question": "Because associated protein losses may aggravate malnutrition, what daily protein supplementation is recommended for AKI patients on PD?",
+   "options": {
+    "A": "0.5 g/kg per day",
+    "B": "0.8 g/kg per day",
+    "C": "3.0 g/kg per day",
+    "D": "1.5 g/kg per day"
+   },
+   "correct": "D",
+   "explanation": "Because dialysate protein losses may aggravate malnutrition, 1.5 g/kg per day of protein (enteral or parenteral) is recommended for AKI patients on PD, so D is correct. A, B, and C give lower or unrelated doses (0.5, 0.8, 3.0 g/kg) not cited in the chapter. Frequent exchanges can lose 10 to 20 g of protein daily, up to twice that with peritonitis, so supplementation offsets these losses; overall, protein loss should not by itself limit the use of PD in AKI."
+  },
+  {
+   "topic": "Peritoneal access",
+   "question": "Which catheter is described as providing the optimal access for acute PD?",
+   "options": {
+    "A": "A rigid trocar catheter",
+    "B": "An improvised nasogastric tube",
+    "C": "A surgical drain",
+    "D": "A flexible, cuffed Tenckhoff catheter"
+   },
+   "correct": "D",
+   "explanation": "The flexible, cuffed Tenckhoff catheter provides optimal access for acute PD, so D is correct. A is wrong because rigid trocar catheters have more leakage and must be removed in days; B and C describe improvised nasogastric tubes and surgical drains used only when Tenckhoff catheters are unavailable. A single- or double-cuff Tenckhoff, straight or swan neck, can be used in AKI, offering lower leakage, a larger lumen with side holes for better flow, less obstruction, and lower peritonitis risk."
+  },
+  {
+   "topic": "Rigid catheter",
+   "question": "A key limitation of rigid trocar-style PD catheters compared with flexible cuffed catheters is that rigid catheters must be removed after what time frame?",
+   "options": {
+    "A": "2 to 3 weeks",
+    "B": "24 hours",
+    "C": "3 to 5 days",
+    "D": "They can be left in indefinitely"
+   },
+   "correct": "C",
+   "explanation": "Rigid trocar-style catheters must be removed after 3 to 5 days, so C is correct. A and B give incorrect intervals (2 to 3 weeks, 24 hours); D describes flexible cuffed catheters, which by contrast can be left in indefinitely. This durability is a key advantage of the Tenckhoff catheter: if the patient does not recover renal function, the same catheter can transition to chronic dialysis, whereas the rigid catheter's mandatory early removal interrupts dialysis and limits weekly clearance."
+  },
+  {
+   "topic": "Tenckhoff advantages",
+   "question": "Which of the following is an advantage of the Tenckhoff catheter over the rigid catheter?",
+   "options": {
+    "A": "Higher incidence of leakage",
+    "B": "Smaller-diameter lumen for slower flow",
+    "C": "Mandatory removal after each session",
+    "D": "Lower incidence of leakage and decreased incidence of peritonitis"
+   },
+   "correct": "D",
+   "explanation": "Lower incidence of leakage and decreased incidence of peritonitis are advantages of the Tenckhoff over the rigid catheter, so D is correct. A, B, and C describe rigid-catheter drawbacks (more leakage, a smaller lumen with slower flow, and mandatory removal after each session). Additional Tenckhoff advantages include a larger-diameter lumen with side holes giving better dialysate flow rates and less obstruction, plus the ability to be left in indefinitely rather than removed after 3 to 5 days."
+  },
+  {
+   "topic": "Bedside insertion",
+   "question": "The bedside insertion technique for a Tenckhoff catheter practiced by many nephrologists uses which approach?",
+   "options": {
+    "A": "A modified Seldinger approach with a guidewire and peel-away sheath",
+    "B": "Laparoscopic visualization",
+    "C": "Open surgical dissection only",
+    "D": "A rigid trocar without guidewire"
+   },
+   "correct": "A",
+   "explanation": "Bedside Tenckhoff insertion uses a modified Seldinger approach with a guidewire and peel-away sheath, so A is correct. B and C describe laparoscopic or open surgical techniques, preferred when there is prior abdominal surgery; D describes rigid trocar placement without a guidewire. The Seldinger bedside method is practiced by many nephrologists but is a blind procedure, so it should be avoided when possible in patients with a midline surgical scar or history suggesting intra-abdominal adhesions."
+  },
+  {
+   "topic": "PD solutions",
+   "question": "Why are commercially prepared PD solutions considered optimal?",
+   "options": {
+    "A": "They are always cheaper than local mixing",
+    "B": "They minimize risks of mixing errors and contamination and incorporate standardized connectology",
+    "C": "They contain potassium at high concentrations",
+    "D": "They avoid the need for a catheter"
+   },
+   "correct": "B",
+   "explanation": "Commercial PD solutions are optimal because they minimize mixing errors and contamination and incorporate standardized, accepted connectology, so B is correct. A is wrong because they are not always cheaper than local mixing; C is wrong because standard solutions contain no potassium; D is wrong because a catheter is still required. Where commercial fluids are unavailable, locally mixed fluids from physiological IV solutions plus glucose and bicarbonate can be used, but sterile production, mixing, and connection devices are imperative."
+  },
+  {
+   "topic": "Lactate buffer",
+   "question": "Standard PD solutions generally use lactate as a buffer, which is converted to bicarbonate mainly through enzymes in which tissues?",
+   "options": {
+    "A": "Kidney and lung",
+    "B": "Peritoneal membrane only",
+    "C": "Brain and heart",
+    "D": "Liver and muscle via pyruvate dehydrogenase"
+   },
+   "correct": "D",
+   "explanation": "Lactate in standard PD solutions is converted to bicarbonate mainly through liver and muscle pyruvate dehydrogenase enzymes, so D is correct. A, B, and C wrongly assign this conversion to kidney and lung, the peritoneal membrane, or brain and heart. This matters clinically because in critically ill patients with shock, poor tissue perfusion, or liver failure, lactate-to-bicarbonate conversion may be impaired and can aggravate metabolic acidosis, making bicarbonate-based PD solutions preferable in such patients."
+  },
+  {
+   "topic": "Bicarbonate trial",
+   "question": "A small randomized trial comparing lactate- and bicarbonate-based PD in AKI found which result?",
+   "options": {
+    "A": "Bicarbonate solution better corrected acidosis and improved hemodynamic stability, but there was no difference in patient outcomes",
+    "B": "Lactate solution better corrected acidosis",
+    "C": "Bicarbonate solution worsened hemodynamics",
+    "D": "Both solutions failed to correct acidosis"
+   },
+   "correct": "A",
+   "explanation": "The small randomized trial (Thongboonkerd, 2001) found bicarbonate PD gave better correction of acidosis and better hemodynamic stability but no difference in patient outcomes, so A is correct. B is wrong because lactate did not correct acidosis better; C is wrong because bicarbonate improved, not worsened, hemodynamics; D is wrong because acidosis was corrected. Only 20 AKI patients were randomized, so despite the physiologic advantages of bicarbonate, overall patient outcomes were comparable to standard lactate solution."
+  },
+  {
+   "topic": "PD cycler",
+   "question": "An advantage of automating dialysate instillation and removal with a PD cycler is which of the following?",
+   "options": {
+    "A": "It eliminates the need for a Tenckhoff catheter",
+    "B": "It increases nursing time required",
+    "C": "It reduces nursing time and there is some suggestion peritonitis is less likely",
+    "D": "It is always the cheapest option"
+   },
+   "correct": "C",
+   "explanation": "A PD cycler reduces nursing time because all cycles are automatic, and there is some suggestion peritonitis is less likely, so C is correct. A is wrong because a Tenckhoff catheter is still needed; B reverses the effect since cyclers cut, not increase, nursing time; D is wrong because cyclers may be unavailable or too expensive in resource-poor settings. Automated cyclers have been used extensively for AKI, particularly for high-volume PD, and can be set up by trained staff to reduce complications."
+  },
+  {
+   "topic": "Intermittent PD",
+   "question": "In intermittent PD (IPD), patients are typically treated for how long, with what dwell time?",
+   "options": {
+    "A": "48 to 72 hours, with a dwell time of 30 to 60 minutes",
+    "B": "1 week continuously, with a 6-hour dwell",
+    "C": "24 hours only, with a 4-hour dwell",
+    "D": "2 hours, with a 10-minute dwell"
+   },
+   "correct": "A",
+   "explanation": "IPD treats patients for 48 to 72 hours (occasionally longer) with a dwell time of 30 to 60 minutes, so A is correct. B, C, and D give incorrect durations or dwells (a week with 6-hour dwell, 24 hours with 4-hour dwell, 2 hours with 10-minute dwell). IPD is the historically most common AKI technique, using rapid instillation and drainage; because dialysis stops when the catheter is removed, weekly small-solute clearance is limited and may be inadequate in hypercatabolic, critically ill patients."
+  },
+  {
+   "topic": "Continuous equilibrated PD",
+   "question": "Continuous equilibrated PD (CEPD) is most similar to which chronic technique and uses what typical dwell time?",
+   "options": {
+    "A": "Similar to HVPD, with no dwell period",
+    "B": "Similar to hemofiltration, with a 10-minute dwell",
+    "C": "Similar to IPD, with a 30-minute dwell",
+    "D": "Similar to CAPD, with a dwell time of 2 to 6 hours"
+   },
+   "correct": "D",
+   "explanation": "CEPD is similar to CAPD and uses a typical dwell time of 2 to 6 hours, so D is correct. A is wrong because CEPD does have a dwell period unlike a no-dwell technique; B is wrong because it resembles CAPD, not hemofiltration with a 10-minute dwell; C describes IPD with its 30-minute dwell. CEPD can be performed manually or with a cycler, and its small-molecule clearance and fluid removal depend on the frequency and volume of exchanges tailored to the patient's clinical status."
+  },
+  {
+   "topic": "Tidal PD",
+   "question": "In tidal PD (TPD), after an initial large infusion, what portion of the dwell volume is typically drained and then replaced each cycle?",
+   "options": {
+    "A": "10% to 20%",
+    "B": "50% to 75%",
+    "C": "90% to 100%",
+    "D": "None; the fluid remains for the whole session"
+   },
+   "correct": "B",
+   "explanation": "In tidal PD, typically 50% to 75% of the initial dwell volume is drained and replaced with fresh solution each cycle, so B is correct. A, C, and D give incorrect fractions (10 to 20 percent, 90 to 100 percent, or leaving fluid for the whole session). By restoring the initial intraperitoneal volume at each cycle, TPD keeps fluid in constant contact with the membrane; it may yield higher small-solute clearance than CEPD (though not in all studies) and can reduce pain on drainage."
+  },
+  {
+   "topic": "High-volume PD",
+   "question": "In high-volume PD (HVPD), what is the typical range of total PD solution delivered each day?",
+   "options": {
+    "A": "8 to 16 L",
+    "B": "18 to 24 L",
+    "C": "36 to 44 L",
+    "D": "60 to 80 L"
+   },
+   "correct": "C",
+   "explanation": "HVPD delivers 36 to 44 L of total solution daily, so C is correct. A (8 to 16 L) corresponds to CEPD, B (18 to 24 L) is not the HVPD figure, and D (60 to 80 L) exceeds the cited range. HVPD is a continuous modality designed for high small-molecular-weight solute clearance, uses a 30- to 50-minute dwell, and requires an automated cycler and a Tenckhoff catheter. Its efficacy was tested in prospective Brazilian studies of seriously ill AKI patients."
+  },
+  {
+   "topic": "HVPD outcomes",
+   "question": "In prospective Brazilian studies of HVPD in seriously ill AKI patients, what weekly Kt/V was delivered and how did mortality compare with intermittent or extended daily hemodialysis?",
+   "options": {
+    "A": "Weekly Kt/V of 1.0, with much higher mortality",
+    "B": "Weekly Kt/V of about 3.8, with mortality similar to that of intermittent or extended daily hemodialysis",
+    "C": "Weekly Kt/V of 6.0, with much lower mortality",
+    "D": "Weekly Kt/V of 0.5, with no survivors"
+   },
+   "correct": "B",
+   "explanation": "Brazilian HVPD studies delivered a weekly Kt/V of about 3.8, with mortality similar to intermittent or extended daily hemodialysis, so B is correct. A, C, and D give incorrect Kt/V values or outcomes (1.0 with higher mortality, 6.0 with lower mortality, 0.5 with no survivors). The delivered weekly Kt/V was 3.8 plus or minus 0.6 (Gabriel, 2008), and the comparable mortality supports HVPD as an effective alternative to hemodialysis in seriously ill AKI patients where resources allow."
+  },
+  {
+   "topic": "HVPD dose target",
+   "question": "Where resources permit and a cuffed catheter can be placed, HVPD targeting which Kt/V urea is associated with outcomes comparable to daily HD?",
+   "options": {
+    "A": "A daily Kt/V of 0.5 (3.5 weekly)",
+    "B": "A daily Kt/V of 0.1 (0.7 weekly)",
+    "C": "A daily Kt/V of 1.0 (7.0 weekly)",
+    "D": "A daily Kt/V of 0.2 (1.4 weekly)"
+   },
+   "correct": "A",
+   "explanation": "HVPD targeting a Kt/V urea of 0.5 daily (3.5 weekly) gives outcomes comparable to daily HD, so A is correct. B, C, and D give doses (0.1 daily, 1.0 daily, 0.2 daily) that are either too low or higher than needed. Importantly, targeting higher doses than 0.5 daily does not appear to improve outcome (Gabriel, 2008). This applies where resources permit and a cuffed catheter can be placed; for many patients a lower modified-CEPD target may suffice."
+  },
+  {
+   "topic": "Lower dose target",
+   "question": "A review of the literature suggests that for many AKI patients a lower target using a modified CEPD approach may be adequate. What daily/weekly Kt/V is cited?",
+   "options": {
+    "A": "Daily 0.5 (3.5 weekly)",
+    "B": "Daily 0.3 (2.1 weekly)",
+    "C": "Daily 0.8 (5.6 weekly)",
+    "D": "Daily 0.05 (0.35 weekly)"
+   },
+   "correct": "B",
+   "explanation": "A literature review suggests a daily Kt/V of 0.3 (2.1 weekly) with a modified CEPD approach may be adequate for many AKI patients, so B is correct. A is the higher HVPD target of 0.5 daily; C and D give values (0.8 daily, 0.05 daily) not cited. This lower target is especially helpful in developing countries where resources are limited and AKI more often stems from infections, volume contraction, or obstetrical problems rather than complex postsurgical multiorgan failure (Chionh, 2010; Ivarsen, 2013)."
+  },
+  {
+   "topic": "Initial cycle timing",
+   "question": "During the initial 24 hours of therapy, short cycle times of every 1 to 2 hours with dwell volumes of 1.5 or 2 L may be necessary to correct which problems?",
+   "options": {
+    "A": "Hypokalemia and dehydration",
+    "B": "Hyperglycemia only",
+    "C": "Hypernatremia only",
+    "D": "Hyperkalemia, fluid overload, or metabolic acidosis"
+   },
+   "correct": "D",
+   "explanation": "During the first 24 hours, short cycles every 1 to 2 hours with 1.5- or 2-L dwell volumes may be needed to correct hyperkalemia, fluid overload, or metabolic acidosis, so D is correct. A is wrong because PD does not target hypokalemia or dehydration; B and C are too narrow, listing hyperglycemia or hypernatremia alone. These rapid early cycles maximize solute and fluid removal; thereafter cycle time can be lengthened but generally not beyond 4 to 6 hours as the patient stabilizes."
+  },
+  {
+   "topic": "Cycle time limits",
+   "question": "After the initial period, the cycle time can be increased but generally not beyond what limit?",
+   "options": {
+    "A": "30 minutes",
+    "B": "4 to 6 hours",
+    "C": "1 hour",
+    "D": "12 hours"
+   },
+   "correct": "B",
+   "explanation": "After the initial period the cycle time can be increased but generally not beyond 4 to 6 hours, so B is correct. A (30 minutes) and C (1 hour) are shorter than the allowed maximum, and D (12 hours) exceeds it. Short early cycles of 1 to 2 hours maximize small-solute clearance when correcting hyperkalemia, fluid overload, or acidosis; once the patient stabilizes, longer cycles reduce workload while ultrafiltration is further tuned by dextrose concentration and dwell time."
+  },
+  {
+   "topic": "Ultrafiltration control",
+   "question": "Ultrafiltration during acute PD is regulated by which adjustments?",
+   "options": {
+    "A": "Adding potassium and lowering temperature",
+    "B": "Increasing dwell time and adding heparin",
+    "C": "Adjusting the dextrose concentration and shortening the cycler dwell time",
+    "D": "Reducing the exchange volume only"
+   },
+   "correct": "C",
+   "explanation": "Ultrafiltration in acute PD is regulated by adjusting the dextrose concentration and shortening the cycler dwell time, so C is correct. A, B, and D are wrong because adding potassium, lowering temperature, adding heparin, lengthening dwell, or merely cutting exchange volume are not the primary UF controls. Higher dextrose (for example 4.25 percent) drives more fluid removal, while shorter dwells limit reabsorption; available 1.5, 2.5, and 4.25 percent solutions are combined to reach the desired ultrafiltration."
+  },
+  {
+   "topic": "Exchange volume",
+   "question": "The choice of exchange volume in acute PD is dictated primarily by which factor?",
+   "options": {
+    "A": "The dextrose concentration",
+    "B": "The serum potassium level",
+    "C": "The size of the peritoneal cavity",
+    "D": "The type of buffer used"
+   },
+   "correct": "C",
+   "explanation": "Choice of exchange volume is dictated primarily by the size of the peritoneal cavity, so C is correct. A, B, and D are wrong because dextrose concentration, serum potassium, and buffer type do not set the fill volume. An average adult tolerates 2-L exchanges, but volume should be reduced in smaller patients and those with pulmonary disease or abdominal/inguinal hernias; large or very catabolic patients may need 2.5 to 3 L to augment efficiency, and volume should not be cut without good reason since clearance falls."
+  },
+  {
+   "topic": "Inflow time",
+   "question": "Inflow of dialysate by gravity or cycler pump usually requires about how long and at what rate?",
+   "options": {
+    "A": "About 30 minutes at 50 mL/min",
+    "B": "About 5 to 10 minutes at 200 to 300 mL/min",
+    "C": "About 1 minute at 2,000 mL/min",
+    "D": "About 60 minutes at 100 mL/min"
+   },
+   "correct": "B",
+   "explanation": "Inflow of dialysate usually requires about 5 to 10 minutes at 200 to 300 mL/min, so B is correct. A, C, and D give incorrect times or rates (30 minutes at 50 mL/min, 1 minute at 2,000 mL/min, 60 minutes at 100 mL/min). Inflow is by gravity or cycler pump and depends on the volume and, for manual systems, the height of solution above the abdomen. It should be kept minimal to maximize efficiency, though it can be slowed briefly if hypertonic acidic fluid causes pain."
+  },
+  {
+   "topic": "Dwell D/P ratio 1 hour",
+   "question": "With average peritoneal transport and a short exchange, the urea concentration in drained dialysate at 1 hour is approximately what fraction of plasma?",
+   "options": {
+    "A": "50% to 60% (D/P 0.5-0.6)",
+    "B": "10% to 20% (D/P 0.1-0.2)",
+    "C": "90% to 100% (D/P 0.9-1.0)",
+    "D": "30% to 40% (D/P 0.3-0.4)"
+   },
+   "correct": "A",
+   "explanation": "With average peritoneal transport, drained dialysate urea is about 50% to 60% of plasma at 1 hour, giving a D/P ratio of 0.5 to 0.6, so A is correct. B, C, and D give incorrect fractions (0.1 to 0.2, 0.9 to 1.0, 0.3 to 0.4). At an aggressive 2 L/hr exchange rate over 48 L/day, this yields a plasma urea clearance of roughly 24 to 29 L/day or 168 to 202 L/week; longer dwells raise the D/P ratio toward 0.9 at 4 hours but lower total clearance."
+  },
+  {
+   "topic": "Weekly Kt/V example",
+   "question": "For a 70-kg male with a urea volume of distribution of 42 L and a total weekly clearance of 83 L, the approximate weekly Kt/V would be which value?",
+   "options": {
+    "A": "About 0.5",
+    "B": "About 4.0",
+    "C": "About 2.0",
+    "D": "About 6.5"
+   },
+   "correct": "C",
+   "explanation": "For a 70-kg male with a urea volume of distribution of 42 L and 83 L weekly clearance, weekly Kt/V is 83/42, or about 2.0, so C is correct. A (0.5), B (4.0), and D (6.5) do not match this ratio. The 83 L represents the (K x t) term, combining roughly 77 L/week of urea clearance from a 4-hour exchange (D/P 0.9) plus about 6.3 L/week from 1 L/day of ultrafiltration; dividing by V yields the weekly Kt/V."
+  },
+  {
+   "topic": "Outflow time",
+   "question": "Outflow of spent dialysate by gravity usually requires how long?",
+   "options": {
+    "A": "60 to 90 minutes",
+    "B": "1 to 2 minutes",
+    "C": "20 to 30 minutes",
+    "D": "5 minutes"
+   },
+   "correct": "C",
+   "explanation": "Outflow of spent dialysate by gravity usually requires 20 to 30 minutes, so C is correct. A (60 to 90 minutes), B (1 to 2 minutes), and D (5 minutes) fall outside this range. Outflow depends on the volume to be drained, resistance to outflow, and, with manual methods, the height difference between abdomen and drainage bag. The first exchange in large abdomens may retrieve only 1 to 1.5 L due to filling of poorly draining areas, but subsequent drainage usually normalizes."
+  },
+  {
+   "topic": "1.5% dextrose UF",
+   "question": "Standard 1.5% dextrose solution generally exerts enough osmotic force to remove approximately how much fluid per hour with a 2-L, 60-minute exchange?",
+   "options": {
+    "A": "300 to 400 mL/hr",
+    "B": "10 to 20 mL/hr",
+    "C": "500 to 700 mL/hr",
+    "D": "50 to 150 mL/hr"
+   },
+   "correct": "D",
+   "explanation": "Standard 1.5% dextrose typically removes 50 to 150 mL fluid/hr with a 2-L, 60-minute exchange, so D is correct. A (300 to 400 mL/hr) corresponds to 4.25 percent dextrose, while B and C give values outside the cited range. This solution, about 1,360 mg glucose/dL (75 mmol/L), translates into roughly 1.2 to 3.6 L/day of fluid removal and is resumed for all exchanges once the patient is euvolemic, with higher concentrations reserved for greater ultrafiltration needs."
+  },
+  {
+   "topic": "4.25% dextrose UF",
+   "question": "A 4.25% dextrose solution can produce what ultrafiltration rate, and continued use theoretically risks which complication?",
+   "options": {
+    "A": "300 to 400 mL/hr; marked hypernatremia",
+    "B": "50 to 150 mL/hr; hyponatremia",
+    "C": "10 to 20 mL/hr; hyperkalemia",
+    "D": "1,000 mL/hr; hypoglycemia"
+   },
+   "correct": "A",
+   "explanation": "A 4.25% dextrose solution can produce 300 to 400 mL/hr of ultrafiltration and, with continued use, risks marked hypernatremia, so A is correct. B, C, and D pair incorrect rates with wrong complications. This high ultrafiltration may be needed acutely for congestive heart failure or marked volume overload, but sustained use could theoretically remove 7.2 to 9.6 L/day; because PD ultrafiltrate is relatively low in sodium, such large water losses drive hypernatremia, so 1.5 percent is resumed once euvolemic."
+  },
+  {
+   "topic": "Potassium additives",
+   "question": "Standard PD solutions contain no potassium. When should potassium be added, and at what concentration?",
+   "options": {
+    "A": "When serum K is above 6 mM; add 10 mM",
+    "B": "Never, since PD does not remove potassium",
+    "C": "Routinely in every bag; add 8 mM",
+    "D": "When serum K is lower than 4 mM; add K 4.0 to 5 mM to minimize hypokalemia"
+   },
+   "correct": "D",
+   "explanation": "Standard PD solutions contain no potassium, and when serum K is below 4 mM, K 4.0 to 5 mM should be added to minimize hypokalemia, so D is correct. A is wrong because K is not added for elevated levels; B is wrong because acute PD can remove substantial potassium; C is wrong because K is not added routinely to every bag. Potassium losses in acute PD can be high enough to cause serious depletion and cardiovascular instability, so supplementation is targeted to the serum level."
+  },
+  {
+   "topic": "Heparin additive",
+   "question": "Heparin added to PD solution (500 to 1,000 units/L) to prevent fibrin/clot obstruction does not increase bleeding risk for what reason?",
+   "options": {
+    "A": "It is inactivated by dialysate glucose",
+    "B": "It binds to the catheter and never enters the cavity",
+    "C": "It is filtered out before infusion",
+    "D": "It is absorbed minimally through the peritoneum"
+   },
+   "correct": "D",
+   "explanation": "Intraperitoneal heparin does not raise bleeding risk because it is absorbed minimally through the peritoneum, so D is correct. A, B, and C invent mechanisms (inactivation by glucose, catheter binding, filtration before infusion) not in the chapter. Heparin at 500 to 1,000 units/L is added to clear sluggish dialysate flow from fibrin or blood clots, which often follow slight bleeding from catheter insertion or peritoneal irritation, and its minimal peritoneal absorption keeps systemic anticoagulation from occurring."
+  },
+  {
+   "topic": "Insulin additive",
+   "question": "For a diabetic patient undergoing acute PD, supplemental insulin may be required because of what, and by which routes may it be given?",
+   "options": {
+    "A": "Because glucose is absorbed from the dialysis solution; subcutaneously, intravenously, or added to the PD solution",
+    "B": "Because PD removes all insulin; only by intramuscular route",
+    "C": "Because dialysate contains insulin antagonists; only orally",
+    "D": "Because glucose is not absorbed; only intraperitoneally"
+   },
+   "correct": "A",
+   "explanation": "Because glucose is absorbed from the dialysis solution, supplemental insulin may be required for the diabetic patient and can be given subcutaneously, intravenously, or added to the PD solution, so A is correct. B, C, and D contain false claims (PD removes all insulin, dialysate has insulin antagonists, glucose is not absorbed). The high dextrose load can raise blood glucose even in nondiabetic patients, so blood glucose must be monitored closely and the insulin dose tailored to the individual patient."
+  },
+  {
+   "topic": "Antibiotic additive",
+   "question": "Regarding intraperitoneal antibiotics in acute PD, which statement is correct?",
+   "options": {
+    "A": "Antibiotics can never be given intraperitoneally",
+    "B": "IP antibiotics are the preferred route for all systemic infections",
+    "C": "IP administration is an efficient route for treating peritonitis, but antibiotics should generally not be given IP to treat systemic infections",
+    "D": "IP antibiotics are ineffective against peritonitis"
+   },
+   "correct": "C",
+   "explanation": "Intraperitoneal antibiotics are an efficient route to treat peritonitis, but in general antibiotics should not be given IP for systemic infections, so C is correct. A is wrong because IP antibiotics can be used for peritonitis; B is wrong because IP is not preferred for systemic infections; D is wrong because IP antibiotics are effective against peritonitis. Sterile technique is essential when injecting any additive into PD bags to avoid bacterial contamination of the solution and iatrogenic peritonitis."
+  },
+  {
+   "topic": "Kt/V measurement",
+   "question": "To measure delivered dose in acute PD, the D/P urea ratio is multiplied by the total daily dialysate drain volume and divided by which quantity?",
+   "options": {
+    "A": "The patient's weight in kilograms",
+    "B": "The serum creatinine concentration",
+    "C": "The estimated volume of distribution of urea (total body water), e.g., by the Watson equation",
+    "D": "The dextrose concentration"
+   },
+   "correct": "C",
+   "explanation": "Delivered dose is measured by multiplying the D/P urea ratio by the total daily dialysate drain volume and dividing by the estimated urea volume of distribution (total body water), for example by the Watson equation, so C is correct. A, B, and D wrongly substitute weight, serum creatinine, or dextrose concentration. Representative dialysate and plasma urea samples give the D/P ratio; because AKI patients are often fluid loaded, actual urea distribution volume may exceed anthropometric estimates, and multiplying by 7 gives weekly Kt/V."
+  },
+  {
+   "topic": "Mechanical complications",
+   "question": "Progressive intraperitoneal accumulation of dialysate from incomplete drainage, causing discomfort, distention, and even respiratory compromise, is termed what?",
+   "options": {
+    "A": "Overfill",
+    "B": "Ultrafiltration failure",
+    "C": "Encapsulating peritoneal sclerosis",
+    "D": "Tidal retention"
+   },
+   "correct": "A",
+   "explanation": "Progressive intraperitoneal accumulation of dialysate from incomplete drainage is termed overfill, so A is correct. B (ultrafiltration failure), C (encapsulating peritoneal sclerosis), and D (tidal retention) are different or invented entities. Overfill causes discomfort, distention, and even respiratory compromise, and its main cause is catheter-related poor drainage, though intra-abdominal adhesions or bowel distention can contribute. Mechanical problems occur in up to 10 percent of patients, so the drainage cycle should be watched to ensure complete emptying."
+  },
+  {
+   "topic": "Peritonitis timing and rates",
+   "question": "Peritonitis rates during acute PD have ranged from 4% to 41%, occurring most often after what point and with which drainage system?",
+   "options": {
+    "A": "Within the first hour; with closed systems",
+    "B": "After 2 weeks; only with cyclers",
+    "C": "After 48 hours; more common with open- than closed-drainage systems",
+    "D": "Before the first exchange; with any system"
+   },
+   "correct": "C",
+   "explanation": "Peritonitis rates in acute PD have ranged from 4% to 41%, occurring most often after 48 hours and more commonly with open- than closed-drainage systems, so C is correct. A, B, and D give wrong timing or systems (first hour with closed systems, after 2 weeks with cyclers, before the first exchange). Although gram-positive organisms dominate, there is a high incidence of gram-negative and fungal peritonitis, reflecting the severity of illness and predisposing factors such as prolonged use of multiple antibiotics."
+  },
+  {
+   "topic": "Glucose absorption CAPD",
+   "question": "Among patients undergoing CAPD with four exchanges per day, what percentage of the instilled glucose is absorbed?",
+   "options": {
+    "A": "10% to 20%",
+    "B": "35%",
+    "C": "95% to 100%",
+    "D": "60% to 80%"
+   },
+   "correct": "D",
+   "explanation": "In CAPD with four exchanges per day, 60% to 80% of the instilled glucose is absorbed, so D is correct. A (10 to 20 percent) and B (35 percent) understate CAPD absorption, and C (95 to 100 percent) overstates it. Glucose absorption varies with peritoneal membrane permeability and dextrose concentration, and fast transporters absorb glucose more quickly. With more rapid automated exchanges, absorption falls because cycles are more numerous and dwell times shorter, which is why HVPD absorbs far less glucose."
+  },
+  {
+   "topic": "Glucose absorption HVPD",
+   "question": "In a study of 31 AKI patients treated with HVPD, glucose absorption was about what percentage of that instilled?",
+   "options": {
+    "A": "About 35%",
+    "B": "About 60%",
+    "C": "About 80%",
+    "D": "About 5%"
+   },
+   "correct": "A",
+   "explanation": "In the study of 31 AKI patients on HVPD (Goes, 2013), glucose absorption was about 35% of that instilled, so A is correct. B (60 percent), C (80 percent), and D (5 percent) do not match; 60 to 80 percent applies to CAPD, not HVPD. Absorption is lower with HVPD because the higher number of cycles and shorter dwell times reduce glucose uptake. Dialysate glucose absorption should be counted in total energy intake, and with monitoring, glucose was kept between 130 and 170 mg/dL using IV and IP insulin."
+  },
+  {
+   "topic": "Hypernatremia mechanism",
+   "question": "Hypernatremia can develop with frequent hypertonic PD exchanges because the ultrafiltrate has a sodium concentration of approximately what value, owing to the low sieving coefficient for sodium?",
+   "options": {
+    "A": "Approximately 70 mmol/L",
+    "B": "Approximately 140 mmol/L",
+    "C": "Approximately 20 mmol/L",
+    "D": "Approximately 110 mmol/L"
+   },
+   "correct": "A",
+   "explanation": "PD ultrafiltrate has a sodium concentration of approximately 70 mmol/L because of the low sieving coefficient for sodium, so A is correct. B (140), C (20), and D (110) do not match the chapter figure. The low sodium sieving reflects water passage through aquaporin channels, so relatively sodium-poor water is removed; frequent hypertonic exchanges therefore lose more water than sodium and can cause hypernatremia. This is prevented by replacing losses with hypotonic IV fluids or replacing half the losses with 5 percent dextrose water."
+  },
+  {
+   "topic": "Hypoalbuminemia",
+   "question": "With frequent exchanges in acute PD, protein loss via the dialysate can be as high as what amount, increasing further with peritonitis?",
+   "options": {
+    "A": "1 to 2 g per day",
+    "B": "10 to 20 g per day, up to twice that with peritonitis",
+    "C": "50 to 60 g per day",
+    "D": "100 g per day"
+   },
+   "correct": "B",
+   "explanation": "With frequent exchanges in acute PD, dialysate protein loss can reach 10 to 20 g per day, up to twice that with peritonitis, so B is correct. A (1 to 2 g/day) understates the loss, and C and D (50 to 60 or 100 g/day) overstate it. Oral or parenteral hyperalimentation should be considered when malnutrition is a concern, and protein supplementation of 1.5 g/kg per day is recommended; in general, however, protein losses should not by themselves limit the use of PD in AKI patients."
+  },
+  {
+   "topic": "Urgent start infrastructure",
+   "question": "Which of the following is a required component of a successful urgent start PD program?",
+   "options": {
+    "A": "Mandatory use of rigid trocar catheters only",
+    "B": "Prompt access to Tenckhoff catheter placement by a surgeon, nephrologist, or radiologist",
+    "C": "Avoidance of any nephrologist involvement",
+    "D": "A guarantee of no peritonitis"
+   },
+   "correct": "B",
+   "explanation": "A successful urgent start PD program requires prompt access to Tenckhoff catheter placement by a surgeon, nephrologist, or radiologist, so B is correct. A is wrong because rigid trocar catheters are not mandated; C is wrong because nephrologist leadership is essential; D is wrong because no program can guarantee zero peritonitis. Other required components (Ghaffari, 2013a) include willingness to alter practice, an ability to deliver low-volume cycler PD on a ward, and short-notice patient training coordinated between ward and PD unit."
+  },
+  {
+   "topic": "Urgent start training",
+   "question": "To avoid an unacceptably long inpatient admission, an urgent start PD program must have the willingness and ability to do what?",
+   "options": {
+    "A": "Transfer every patient to hemodialysis",
+    "B": "Train the patient in the PD unit on short notice once clinically stabilized",
+    "C": "Keep patients admitted until full renal recovery",
+    "D": "Avoid all outpatient follow-up"
+   },
+   "correct": "B",
+   "explanation": "To avoid an unacceptably long inpatient admission, an urgent start PD program must train the patient in the PD unit on short notice once clinically stabilized, so B is correct. A, C, and D contradict the program's aims by transferring everyone to HD, keeping patients admitted until renal recovery, or avoiding outpatient follow-up. Without short-notice training capacity, patients would wait in hospital for a training slot; success therefore depends on flexibility and cooperation between ward and PD unit staff, led by an enthusiastic nephrologist."
+  },
+  {
+   "topic": "Special benefit patients",
+   "question": "PD may be of special benefit in which selected AKI patients?",
+   "options": {
+    "A": "Only elderly diabetic men",
+    "B": "Only patients with severe pulmonary edema",
+    "C": "Only patients with prior abdominal surgery",
+    "D": "Children, or patients with heart failure, hemodynamic instability, or bleeding diathesis"
+   },
+   "correct": "D",
+   "explanation": "PD may be of special benefit in children or patients with heart failure, hemodynamic instability, or bleeding diathesis, so D is correct. A, B, and C are too narrow or wrong, singling out elderly diabetic men, severe pulmonary edema (where PD is actually less effective), or prior abdominal surgery (a relative contraindication). PD's gradual solute and fluid removal, lack of anticoagulation, and no need for vascular access make it well suited to hemodynamically unstable patients and those at bleeding risk."
+  },
+  {
+   "topic": "Solution warming",
+   "question": "Before infusion, PD solution should be warmed to what temperature to prevent discomfort and hypothermia?",
+   "options": {
+    "A": "37°C",
+    "B": "30°C",
+    "C": "25°C",
+    "D": "42°C"
+   },
+   "correct": "A",
+   "explanation": "PD solution should be warmed to 37 degrees C before infusion to prevent discomfort and hypothermia, so A is correct. B (30), C (25), and D (42) are either too cool to prevent hypothermia or hotter than recommended. Cold dialysate causes discomfort and can lower body temperature, so warming to body temperature improves tolerance. Early inflow pain more often reflects the hypertonic, acidic nature of PD fluid, which usually improves over time or with a slower inflow rate for several exchanges."
+  },
+  {
+   "topic": "IPD adequacy modeling",
+   "question": "Modeling of intermittent PD (IPD) adequacy suggests what about its ability to deliver appropriate dialysis?",
+   "options": {
+    "A": "IPD can deliver appropriate amounts of dialysis in a fairly broad range of circumstances, depending on residual renal function",
+    "B": "IPD can never deliver adequate dialysis",
+    "C": "IPD adequacy is independent of residual renal function",
+    "D": "IPD is always superior to HVPD"
+   },
+   "correct": "A",
+   "explanation": "Modeling suggests IPD can deliver appropriate amounts of dialysis across a fairly broad range of circumstances, depending on residual renal function, so A is correct. B is wrong because IPD can be adequate; C is wrong because adequacy is not independent of residual function; D is wrong because IPD is not always superior to HVPD. Because dialysis stops when the catheter is removed, IPD's weekly small-solute clearance is limited and may be inadequate in hypercatabolic patients, but residual function can make it sufficient (Guest, 2012)."
+  },
+  {
+   "topic": "Resource-poor access",
+   "question": "In resource-poor environments where flexible cuffed catheters are unavailable or too costly, what alternatives are mentioned for peritoneal access?",
+   "options": {
+    "A": "Only central venous catheters",
+    "B": "No PD can be performed at all",
+    "C": "Rigid stylet catheters, or improvised options such as nasogastric tubes or surgical drains",
+    "D": "Only laparoscopically placed catheters"
+   },
+   "correct": "C",
+   "explanation": "In resource-poor settings where flexible cuffed catheters are unavailable or too costly, rigid stylet catheters or improvised nasogastric tubes or surgical drains may be used, so C is correct. A (only central venous catheters), B (no PD possible), and D (only laparoscopic catheters) are wrong. These alternatives allow PD to proceed when Tenckhoff catheters cannot be obtained, though rigid catheters carry more leakage, obstruction, and peritonitis and must be removed after 3 to 5 days, unlike the flexible cuffed Tenckhoff."
+  }
+ ]
+}

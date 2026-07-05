@@ -1,0 +1,790 @@
+408
+In this chapter, solutions and equipment for the various forms of 
+chronic peritoneal dialysis (PD) are described. Apparatus for acute 
+PD is reviewed in Chapter 24.
+ I. CONTINUOUS AMBULATORY PERITONEAL DIALYSIS (CAPD). I n CAPD, di-
+alysis solution is constantly present in the abdomen. The solution 
+is typically changed four times daily, with a range of three to five 
+times, depending on individual patient requirements. Drainage of 
+“spent” dialysate and inflow of fresh dialysis solution are performed 
+manually, using gravity to move fluid into and out of the peritoneal 
+cavity. Technically, PD solution flows into the peritoneal cavity, and 
+dialysate drains out (i.e., the solution does not become dialysate un-
+til  dialysis has occurred, although the term “dialysate” is commonly 
+used for fresh as well as for used or “spent” solution). In this chapter, 
+the term dialysate is used correctly to refer only to PD solution after 
+it has been instilled into the peritoneal space.
+A. Dialysis solutions.  C APD solutions are packaged in clear, flex -
+ible plastic bags, typically made from polyvinyl chloride. Some 
+newer PD solutions are packaged with the different solution 
+components in two-chamber (or three-chamber) bags, which 
+are mixed before infusion into the peritoneal cavity.
+1. Dialysis solution volumes. F or adult patients, CAPD solutions 
+are available in volumes of 1.5, 2.0, 2.25, 2.5, or 3.0 L, de-
+pending on the manufacturer. The commonly used bags are 
+routinely overfilled by about 100 mL to allow for flushing, 
+as will be described in a subsequent section. The standard 
+volume prescribed has been 2.0 L, but 2.5 L is also widely 
+used. Generally, larger volumes are prescribed in order to 
+increase solute clearance, but they may not always be tol-
+erated by patients because of symptoms due to the conse-
+quent increase in intraperitoneal hydrostatic pressure.
+2. Dialysis solution glucose, pH, and glucose degradation products 
+(GDPs). Dextrose (glucose) is the osmotic agent commonly 
+used in CAPD solutions, and preparations containing 
+1.5%, 2.5%, and 4.25% dextrose (as glucose monohydrate, 
+MW 198) are routinely available and are labeled as such in 
+North America. The true anhydrous dextrose or glucose 
+Apparatus for Peritoneal 
+Dialysis
+Olof Heimbürger and Peter G. Blake22
+Daugirdas9781451144291-ch022.indd   408 09/10/14   1:28 am
+Chapter 22 / Apparatus for Peritoneal Dialysis 409
+concentrations (MW 180) in these solutions are 1.36%, 
+2.27%, and 3.86%, respectively, and this is how they are typi-
+cally labeled in Europe. The approximate osmolarities of 
+these solutions are 345, 395, and 484 mOsm/L, respectively.
+The heat sterilization of glucose leads to generation of 
+glucose degradation products (GDPs), which may have toxic 
+effects both on the peritoneal membrane and systemically. 
+Less GDPs are generated when glucose is heat sterilized at low 
+pH, so in order to minimize GDP generation, the pH of stan-
+dard lactate-based PD solutions is kept at about 5.5 during 
+heat sterilization. Lowering pH further would decrease GDPs 
+even more, but would also cause infusion pain in patients. A 
+pH of 5.5 on infusion is normally well tolerated, and solution 
+pH rises rapidly as bicarbonate diffuses into the peritoneal 
+cavity from the plasma. However, some patients complain of 
+pain during inflow. This pain can be relieved by neutralizing 
+the dialysis solution pH with alkali prior to instillation.
+The low pH of PD solution may have adverse ef-
+fects on leukocytes, impairing their ability for phagocy-
+tosis and bacterial killing and may even be harmful to 
+the peritoneal membrane. Therefore, another strategy to 
+reduce GDP generation has been introduced. This is the 
+use of two-  compartment solution bags (Fig. 22.1). In one 
+FIGURE 22.1 Two-compartment PD solution bag to allow delivery of a normal pH   
+solution with low GDPs with or without bicarbonate buffer.
+Dextrose (glucose monohydrate)
+Calcium chloride
+Magnesium chloride
+pH 3.2   
+Sodium bicarbonate
+Sodium lactate
+Sodium chloride
+pH 8.0
+Daugirdas9781451144291-ch022.indd   409 09/10/14   1:28 am
+Part III / Peritoneal Dialysis
+410
+compartment, the glucose is heat sterilized at a very low 
+pH (about 3.2), under which conditions the formation of 
+GDPs is reduced even further. In the other compartment, 
+the rest of the solution is maintained at an alkaline pH dur-
+ing sterilization. At the time of use, the two compartments 
+are allowed to mix, bringing the pH of the resultant com-
+bined solution to normal. The end result, therefore, is a low 
+GDP , normal pH PD solution.
+3. Dialysis solution buffer and pH.  Most commonly marketed PD 
+solutions contain lactate as the bicarbonate-generating 
+base, usually in a 40-mM, or occasionally a 35-mM, con-
+centration. The lactate diffuses across the peritoneal mem-
+brane into the bloodstream and is soon metabolized into 
+bicarbonate. A more direct way to supply bicarbonate is to 
+add it directly to the dialysis solution. However, solutions 
+containing bicarbonate and no CO 2 have a high pH, at 
+which calcium and magnesium precipitate. For this reason, 
+it is not possible to store bicarbonate-buffered solution in 
+a single-bag system. A variation of the two-compartment-
+bag system described earlier to limit generation of GDP can 
+be used to enable inclusion of bicarbonate in PD solution. 
+A solution containing calcium and magnesium, a small 
+amount of acid, and other electrolytes is  put into one of 
+the compartments, and bicarbonate-containing solution is 
+kept in another compartment. At the time of use, the solu-
+tions in the two compartments are mixed together, and the 
+small amount of acid in the calcium/magnesium solution 
+reacts with bicarbonate to generate carbonic acid and CO2, 
+which keeps the pH of the final solution in the physiologic 
+range, at which calcium and magnesium remain in solu-
+tion. The process is very similar to providing bicarbonate 
+dialysis solution for hemodialysis from a two-component 
+set of concentrates.
+Thus, there are at least three commercially available 
+two-bag systems for PD solutions. The Balance solution 
+from Fresenius uses only lactate as the base. The two-bag 
+system is used to limit the formation of GDP by sterilizing 
+the glucose-containing component at low pH. Physioneal, 
+from Baxter, contains both bicarbonate and lactate, and 
+the two-bag system is used both to limit generation of GDP 
+during sterilization and to allow bicarbonate to be used. 
+Bicavera, from Fresenius, contains only bicarbonate and 
+no lactate, and here again, the two-bag system allows use 
+of bicarbonate and also greatly reduced generation of GDP 
+(Table 22.1).
+Because these two-bag system solutions are at physio-
+logic or near-physiologic pH after mixing, and because they 
+contain greatly reduced amounts of GDPs, they are theo-
+retically more biocompatible than standard one-bag solu-
+tions where the pH is about 5.5. The hope was that these 
+biocompatible solutions would lead to better long-term 
+Daugirdas9781451144291-ch022.indd   410 09/10/14   1:28 am
+Chapter 22 / Apparatus for Peritoneal Dialysis 411
+preservation of peritoneal transport function, including 
+ultrafiltration. It was also hoped that they would enhance 
+peritoneal host defenses and thereby decrease peritonitis 
+rates, and that their use would result in lower serum GDP 
+levels and ultimately better preservation of residual renal 
+function, and that all this would translate into improved 
+technique and patient survival on PD.
+There is evidence that each of these dual-bag solu-
+tions is effective in dealing with infusion pain. However, 
+this complication occurs only in fewer than 5% of patients 
+using standard low pH PD solutions. With regard to other 
+more important outcomes, results from randomized con -
+trolled trials have shown inconsistent results. The recent 
+balANZ study showed a significantly lower peritonitis rate 
+with the Balance solution, but this has not been confirmed 
+in other trials, and a meta-analysis has been negative 
+(Johnson, 2012; Cho, 2014). Some trials have shown bet -
+ter preservation of residual renal function but have also 
+shown less effective ultrafiltration, leading to concern that 
+the improved preservation of renal function with this new 
+solution is simply a consequence of hypervolemia (Davies, 
+2013). Randomized studies have not been large enough to 
+allow conclusions about long-term patient or technique 
+survival. These biocompatible solutions are widely used in 
+Europe and in parts of Asia but very little in North 
+ America 
+and elsewhere, partly because of the lack of consistent 
+high-level evidence supporting their use and partly be-
+cause of their higher cost.
+4. Dialysis solution electrolyte concentrations. The electrolyte con-
+centrations of CAPD solutions vary little by manufacturer.
+The standard formulations from the three large interna -
+tional manufacturers are shown in Table 22.1. They contain 
+no potassium, and sodium levels are mostly 
+ 132–134 mM. 
+Higher sodium concentrations would lead to less diffusive
+removal of sodium during dwells. Lower sodium solutions
+have been proposed as a means of augmenting sodium re-
+moval, but would require more 
+ glucose to maintain a given 
+osmolarity.
+With the widespread use of calcium carbonate or cal-
+cium acetate as phosphate binders, PD solutions contain-
+ing 2.0–2.5 mEq/L (1.0–1.25 mM) rather than 3.5  mEq/L 
+(1.75 mM) calcium are increasingly used with the goal 
+of reducing the incidence of the hypercalcemia that is 
+sometimes associated with oral calcium and vitamin D 
+administration. This also protects against adynamic bone 
+disease, which was previously common in PD patients. 
+However, lower calcium PD solutions have been associated 
+with higher plasma parathyroid hormone (PTH) levels. 
+PD solutions typically contain magnesium levels of 1.0 or 
+0.5 mEq/L (0.5 or 0.25 mM), and this can occasionally result 
+in 
+ magnesium depletion.
+Daugirdas9781451144291-ch022.indd   411 09/10/14   1:28 am
+Commonly Available Peritoneal Dialysis Solution Formulations
+22.1
+TABLE
+Manufacturer pH
+Osmotic 
+Agent Na (mM) Ca (mM) Mg (mM) Lactate (mM)
+Bicarbonate 
+(mM) Pouches
+Dianeal
+PD1
+Baxter 5.5 Glucose 132 1.75 0.75 35 0 1
+Dianeal
+PD4
+Baxter 5.5 Glucose 132 1.25 0.25 40 0 1
+Stay safe
+2/4/3
+FMC 5.5 Glucose 134 1.75 0.5 35 0 1
+Stay safe
+17/19/18
+FMC 5.5 Glucose 134 1.25 0.5 35 0 1
+Nutrineal Baxter 6.5 Amino acids 132 1.25 0.25 40 0 1
+Extraneal Baxter 5.5 Icodextrin 132 1.75 0.25 40 0 1
+Physioneal 35 Baxter 7.4 Glucose 132 1.75 0.25 10 25 2
+Physioneal 40 Baxter 7.4 Glucose 132 1.25 0.25 15 25 2
+Balance FMC 7.4 Glucose 134 1.25
+1.75
+0.5 35 2.5 2
+Bicavera FMC 7.4 Glucose 134 1.25
+1.75
+0.5 0 34 2
+These may differ slightly in name and in formulation from region to region.
+All glucose-based solutions are available in three strengths (1.36, 2.27, and 3.86 mg/dL of glucose, equivalent to 1.5, 2.5, and 4.25 mg/dL of dextrose as glucose monohydrate.
+To convert calcium from mmol/L (mM) to mg/dL multiply by 4.
+To convert magnesium from mmol/L (mM) to mg/dL multiply by 2.43.
+FMC, Fresenius Medical Care.
+412
+Daugirdas9781451144291-ch022.indd   412 09/10/14   1:28 am
+Chapter 22 / Apparatus for Peritoneal Dialysis 413
+5. Non-glucose solutions.  Gl ucose  as an osmotic agent in PD 
+has the advantage of being familiar, relatively safe, and in-
+expensive, and also is a source of calories. There is concern, 
+however, that instillation of large amounts of glucose into 
+the peritoneal cavity predisposes patients to hyperglyce -
+mia, dyslipidemia, obesity, and to long-term peritoneal 
+membrane damage, both directly and via GDPs and the for-
+mation of advanced glycosylation end products. Glucose -
+based solutions are not very effective in high transporters, 
+and inadequate ultrafiltration may result. Alternative os -
+motic agents are available.
+a. Icodextrin. T his is a polyglucose solution and is widely 
+used. It is iso-osmolar and induces ultrafiltration by its 
+oncotic effect (Mistry, 1994). Absorption of polyglucose 
+is by the lymphatics and so is much slower compared 
+with glucose. The oncotic effect and the associated ultra-
+filtration are therefore more sustained than with glucose. 
+For this reason, the main indication to use icodextrin is 
+for the long nocturnal dwell in CAPD and for the long day 
+dwell in automated peritoneal dialysis (APD), especially 
+in patients with ultrafiltration failure. It is generally used 
+for just one dwell daily as it is no more effective than glu-
+cose for short dwell times. Icodextrin use is associated 
+with unphysiologic blood levels of maltose and maltot -
+riose, but no associated toxicity has been identified. The 
+increased maltose levels will cause interference with the 
+glucose dehydrogenase pyrroquinolinequinone assay 
+(which reacts with both glucose and maltose) for blood 
+glucose measurements. Therefore, blood glucose should 
+be measured with other methods in patients using ico-
+dextrin. In addition, use of icodextrin is associated with 
+mild translocational hyponatremia ( owing to move -
+ment of sodium-poor fluid from cells to the extracellular 
+fluid). Measured amylase levels can be factitiously low, as 
+a result of interaction between metabolites of icodextrin 
+and commonly used amylase assays.
+Icodextrin has been shown in randomized con -
+trolled trials to improve ultrafiltration and volume status 
+in PD patients, though not convincingly to reduce blood 
+pressure (Davies, 2003). It has also been shown to im-
+prove glycemic control, decrease weight gain, and lessen 
+glucose-induced lipid abnormalities (Cho, 2013; Li, 2013). 
+There is some evidence of better long-term preservation 
+of peritoneal membrane function (Davies, 2005). Disad-
+vantages are its extra cost, occasional skin reactions, and 
+rare sterile peritonitis episodes.
+b. Amino acid–based solutions.  T hese are used for nutritional 
+supplementation as they are largely absorbed by the end 
+of a 4- to 6-hour dwell (Jones, 1998). Studies have shown 
+them to be modestly effective in nutritionally compro-
+mised patients (Lo, 2003). They are reasonably effective 
+Daugirdas9781451144291-ch022.indd   413 09/10/14   1:28 am
+Part III / Peritoneal Dialysis
+414
+osmotically (comparable to the 1.36% glucose solu-
+tion) but can be used only  once daily because in larger 
+amounts they tend to cause acidosis, as well as a rise in 
+the blood urea. These side effects can be addressed with 
+oral alkali therapy and more dialysis, respectively.
+6. Sterility and trace metals.  The preparation of PD solutions is
+carefully regulated to ensure that the final product is bac-
+teriologically safe and has very low concentrations of trace 
+metals.
+7. Dialysis solution temperature. PD solutions are usually warmed 
+to body temperature prior to inflow. They can be instilled at 
+room temperature, but uncomfortable lowering of the body 
+temperature and shivering can result. The best warming
+method is to use a heating pad or special oven. Microwave
+ovens are frequently used, but this is not recommended by
+most manufacturers because “hot spots” may be produced
+during heating, in particular, in the transfer sets. When us-
+ing a microwave oven, great care must be taken to avoid
+overheating of the dialysis solution as this can chemically
+alter the dextrose and may cause discomfort on instillation. 
+Also, accidental boiling of the solution in a confined space
+may cause an explosion. Heating methods that involve im-
+mersing the PD solution container completely in water are
+also not recommended because contamination can result.
+B. Transfer sets.  The PD solution bag is connected to the pa-
+tient’s peritoneal catheter by a length of plastic tubing called a 
+“transfer set” (also sometimes called a “giving set”). There are 
+three major types of transfer sets, each requiring a different 
+method of performing the CAPD exchange. For the purpose 
+of discussion, we will refer to them as the straight transfer set, 
+the Y transfer set, and the double-bag system. Note that some 
+transfer sets are connected to the peritoneal catheter via a 
+short extension or adapter tubing (see what follows).
+1. Straight transfer set. This system is now rarely used because it 
+is associated with high rates of peritonitis. However, a brief 
+description is helpful in understanding how more modern
+systems have evolved.
+a. Design. The straight transfer set is a simple plastic tube.
+One end connects to the peritoneal catheter and the
+other end to the dialysis solution bag. All exchanges are
+performed by making and subsequently breaking the
+connection between the transfer set and the bag. This
+connection typically involves a spike or a Luer lock.
+b. Exchange procedure. Dialysis is performed as follows:
+1. Dialysis solution is instilled by gravity.
+2. The empty bag and transfer set are rolled up and
+stored in a pouch carried on the patient’s body.
+3. Dwell time is typically 4–8 hours.
+4. The bag is unrolled and placed on the floor. The dialy-
+sate is drained into the bag. The bag is then discon-
+nected from the transfer set and discarded.
+Daugirdas9781451144291-ch022.indd   414 09/10/14   1:28 am
+Chapter 22 / Apparatus for Peritoneal Dialysis 415
+5. A n ew bag is attached to the transfer set using a spike 
+or Luer lock.
+6. F resh dialysis solution is instilled.
+Once every several months, the transfer set is 
+changed. Extended-life transfer set tubing allows pa-
+tients to dialyze for 6 months between transfer set 
+changes.
+2. The Y set (F ig. 22.2)
+a. Design. T his is a Y-shaped piece of tubing that is attached 
+by its stem to the patient’s catheter or extension tubing at 
+the time of each solution exchange. During the exchange, 
+the afferent and efferent limbs of the Y are attached to a 
+bag of fresh PD solution and to a drain bag, respectively. In 
+some cases, the drain bag is the empty solution bag that 
+was used in the previous exchange. Most Y sets are not 
+connected directly to the catheter but rather to a short 
+(15–24 cm) adapter or extension tubing inserted between 
+the catheter and the stem of the Y set. This adapter/  
+extension tubing is sometimes confusingly called a trans-
+fer set, but in this chapter that term is reserved for the 
+tubing that connects the solution bag and drain bag to 
+the extension tubing and catheter. The adapter/ extension 
+tubing avoids the need for, and the risk of damage associ-
+ated with, repeated clamping of the catheter.
+b. Exchange procedure
+1. S pike/lock: The fresh bag of PD solution is attached to 
+the afferent limb of the Y set via a spike or Luer lock.
+2. C onnect: The stem of the Y set is connected to the 
+ extension tubing.
+FIGURE 22.2 Y-set system using flush-before-fill. A: A small volume of fresh dialysis 
+solution is drained directly into the drainage bag (either before or just after drainage of 
+the abdomen). This act washes away any air or bacteria that may be present in the affer-
+ent limb of the Y. B: Fresh solution is introduced through the rinsed transfer set. With the 
+pre-attached double-bag system, the purpose of the “flush-before-fill” step is solely to 
+flush out any air in the tubing.
+AB
+Daugirdas9781451144291-ch022.indd   415 09/10/14   1:28 am
+Part III / Peritoneal Dialysis
+416
+3. Drain: The stem and efferent limb of the Y are un-
+clamped, and the spent dialysate is drained from the
+peritoneal cavity into the drain bag.
+4. Flush: With the stem of the Y set clamped, approxi-
+mately 100 mL of fresh solution is flushed from the
+new bag through the afferent limb of the Y into the ef-
+ferent limb and so into the drain bag.
+5. Fill: The efferent limb is clamped and the stem un-
+clamped, and the peritoneal cavity is filled from the
+new bag of PD solution.
+6. Disconnect: The Y set is then disconnected from the
+adapter/extension tubing.
+The Y set was developed to free patients from the 
+requirement to remain attached to the transfer set and 
+empty bag between exchanges. Early studies revealed a 
+more important benefit—a peritonitis rate significantly 
+lower than that with the straight set. This is thought to 
+be due to the flush-before-fill procedure used to prime 
+the tubing. Bacteria that may be introduced during the 
+connection procedure are washed out of the Y set into 
+the empty drainage bag rather than into the patient, as 
+happens with the straight set. Also, because the tubing 
+and bags are disconnected from the patient between 
+exchanges, less mechanical stress may be placed on the 
+catheter exit site and tunnel. This may result in fewer 
+episodes of minor trauma to the catheter exit site and 
+tunnel, and therefore to fewer exit site and tunnel infec-
+tions and associated peritonitis. Because of this lower 
+peritonitis rate and the convenience of allowing the pa-
+tient to disconnect between exchanges, Y-set systems 
+increasingly displaced the straight system as the trans-
+fer set of choice from the mid-1980s onward.
+3. Pre-attached double-bag Y-set systems 
+a. Design. These systems are a variant of the Y set in which
+the solution bag comes preattached to the afferent
+limb of the Y, obviating the need for any spike or Luer
+lock connection. The drain bag is similarly preattached
+to the efferent limb, and the only connection the pa-
+tient needs to make is between the transfer set and the
+adapter/
+ extension tubing. A flush-before-fill step is still
+performed, but the purpose is only to flush out residual
+air and not to prevent peritoneal cavity contamination,
+as this is no longer relevant in the absence of a need to
+make a transfer set–to–solution bag connection.
+These are now by far most popular systems because 
+of their ease of use and because of evidence that they are 
+associated with even lower rates of peritonitis than the 
+standard Y sets (Kiernan, 1995).
+b. Exchange procedure
+1. Connect: The patient connects the new transfer set to 
+the adapter/extension tubing.
+Daugirdas9781451144291-ch022.indd   416 09/10/14   1:28 am
+Chapter 22 / Apparatus for Peritoneal Dialysis 417
+2. Drain: The stem and efferent limb are unclamped, and 
+spent dialysate is drained from the peritoneal cavity
+into the drain bag.
+3. Flush: The stem is clamped, and the afferent limb of
+the Y is opened by breaking a “frangible” in the tubing. 
+Then 100 mL of PD solution is flushed through from
+the fill bag to the drain bag to remove residual air from 
+the tubing.
+4. Fill: The efferent limb is clamped, the stem is un-
+clamped, and fresh PD solution is run into the perito-
+neal cavity.
+5. Disconnect: All limbs are clamped, and the transfer
+set is disconnected from the extension tubing.
+C. Various connectors for PD.  Over the years, a number of con-
+nectors and associated devices have been developed and 
+marketed in an attempt to reduce the possibility of bacterial 
+contamination while making either the catheter–to–transfer 
+set or the transfer set–to–solution bag connections.
+1. Catheter–to–transfer set (or adapter/extension tubing–to–transfer
+set) connection
+a.
+ Catheter connector. Early in the history of CAPD, simple,
+plastic, plug-in connectors were used at the catheter–
+to–transfer set junction. Cracking of the plastic connec-
+tor and accidental disconnection were frequent events
+that often led to peritonitis. A special Luer lock connec -
+tor made of titanium was developed to prevent such
+problems. Titanium was chosen for its light weight and
+resistance to electrolyte-containing solutions. Designed
+for easier handling and a tighter connection, the new
+product functioned very well. Catheter–to–transfer set
+connectors constructed from more durable plastics are
+also available.
+b. Quick connect–disconnect systems.  With the advent of the
+disconnect Y sets and double bags, the need arose for an 
+easy yet sterile connection at the catheter–to–transfer
+set joint (or adapter/extension tubing–to–transfer set
+joint). A number of connector designs for this purpose
+are now available. Typically, they include a “Luer Lock”–
+type mechanism with a recessed orifice and an iodine-
+impregnated cap to minimize the risk of contamination. 
+A more elaborate device is the “Stay Safe” device from
+Fresenius Medical Care, which regulates the fill and
+drain cycles as well as making the connection to the
+adapter tubing.
+2. Transfer set–to–solution bag connection.  With the advent of
+double-bag systems, technologies to facilitate the connec-
+tion between the transfer set and the PD solution bag are
+less relevant. However, some of them are still used, and
+brief mention will be made of them.
+a. Spike-and-port design.  The spike-and-port design is the
+oldest and simplest system used to connect the transfer
+Daugirdas9781451144291-ch022.indd   417 09/10/14   1:28 am
+Part III / Peritoneal Dialysis
+418
+set to the PD solution bag. It is operated by pushing a 
+spike located at the end of the transfer set into a port on 
+the solution bag.
+b. Easy-lock connectors. S piking the solution bag is difficult 
+for many patients because it requires reasonably good 
+vision, depth and sensory perception, and strength. 
+Mistakes can result in contamination and subsequent 
+peritonitis. The spike has thus been replaced in many 
+transfer sets by a Luer lock– or screw-type system, re-
+sulting in easier insertion. A modified form contains a 
+recessed fluid pathway to prevent accidental contami -
+nation, a reservoir that can be filled with an antiseptic 
+solution (e.g., povidone–iodine), and a silicon O-ring to 
+provide a tight seal.
+ II. AUTOMATED PERITONEAL DIALYSIS.  A PD, using a cycler, is now al-
+most as widely used as CAPD across the world, and in some coun-
+tries, including the United States, the majority of PD patients are 
+treated this way. APD is traditionally divided into APD with a 
+day dwell, also known as continuous cycling peritoneal dialysis 
+(CCPD), and “day dry” APD, also known as nocturnal intermittent 
+peritoneal dialysis (NIPD), although the combination of cycler 
+therapy at night with multiple daytime exchanges is also com -
+monly used (see what follows) (Fig. 22.3). In APD with a day dwell, 
+the patient carries PD solution in the abdominal cavity through-
+out the day but performs no exchanges and is not attached to a 
+transfer set. At bedtime, the patient hooks up to the cycler, which 
+drains and refills the abdomen with solution, three or more times 
+in the course of the night. In the morning, the patient, with the 
+last dwell remaining in the abdomen, disconnects from the cycler 
+and is free to go about daily activities. In day dry APD, the patient 
+drains out fully at the end of the cycling period, and so the abdo-
+men is “dry” all day. Because of the absence of a long-duration 
+day dwell, clearances are generally lower on day dry APD, but its 
+use may be indicated if there is good residual renal function or 
+if there are mechanical contraindications to walking about with 
+solution in the abdominal cavity (e.g., leaks, hernias, back pain).
+A. Cyclers. T hese are machines that automatically cycle dialysis 
+solution into and out of the abdominal cavity. Contemporary 
+cyclers are not gravity dependent but instead use hydraulic 
+pumps to deliver the solution from 3-, 5- or 6-L bags to a “fill 
+bag” and from there into the abdomen. The solution in the fill 
+bag is warmed before inflow. With the aid of pressure alarms, 
+clamps, and timers, inflow, dwell, and outflow of solution is 
+regulated and overfilling prevented.
+Recent cycler models are small and light enough to pack 
+in a large suitcase and carry on trips. Advanced design and 
+computer technology make them simple to set up and op -
+erate. The patient typically sets only the start time, volume 
+of solution to be used, dwell volume, and length of dialysis 
+or stop time desired. The cycler calculates the timing of the 
+Daugirdas9781451144291-ch022.indd   418 09/10/14   1:28 am
+Chapter 22 / Apparatus for Peritoneal Dialysis 419
+ exchanges,  measures volume of ultrafiltrate, and optimizes 
+drain and inflow time by measuring flow rates. The cycler 
+changes from drain to fill when flow slows down rather than 
+waiting for a preset time. It also tests to determine whether 
+flow has stopped because of obstruction. Some models incor -
+porate “smart cards, ” which can be used to program the cycler 
+prescription and to record the actual prescription delivered to 
+the patient.
+An extremely useful feature is the ability to draw dialysis 
+solution from a separate solution container for the last instil -
+lation in the morning, called the “last bag option. ” This last 
+FIGURE 22.3 Visual representation of common CAPD, APD, and hybrid prescriptions.
+10 pm 7 am 10 pm
+CYCLER CYCLER
+DRY
+“Day Dry” APD (NIPD)
+10 pm 7 am 10 pm
+CYCLER CYCLER
+APD with Long Day Dwell (CCPD)
+10 pm 7 am 10 pm12 noon
+DRY
+CYCLER CYCLER
+APD with Morning Day Dwell
+APD with Evening Day Dwell
+10 pm 7 am 10 pm5 pm
+DRY
+CYCLER CYCLER
+Daugirdas9781451144291-ch022.indd   419 09/10/14   1:28 am
+Part III / Peritoneal Dialysis
+420
+ inflow, which will be in place throughout the day, may require 
+a higher dextrose concentration than the other exchanges. 
+More often, nowadays, the last bag option is used to deliver an 
+alternative solution such as icodextrin or amino acids for the 
+long day dwell.
+Typically, patients spend 8–10 hours a night cycling. Dwell 
+volumes range from 1.5 to 3.0 L, and the number of  cycles usu-
+ally varies from 3 to 10 per night. It is often possible to use a 
+larger fill volume during APD compared with CAPD because of 
+the lower intraperitoneal pressure in the recumbent position. 
+A larger fill volume will increase clearance as well as ultrafiltra-
+tion (owing to slower glucose absorption). The total amount of 
+fluid used is typically between 8 and 18 L.
+B. Dialysis solution. D ialysis solution for APD is the same as that 
+used for CAPD. Most cyclers are fed by a tube containing a mul-
+tipronged manifold that can attach to as many as eight  dialysis 
+solution bags simultaneously to provide sufficient solution for 
+the night. The total number of bags required, and thus the cost, 
+can be reduced by using larger bags holding 3, 5, or 6 L of dialy-
+sis solution, although lifting these can be a problem for older 
+and frailer patients. Because some cyclers can be fed from two 
+or more bags simultaneously, with appropriate selection of the 
+dextrose concentrations of the solutions being hung, a number 
+of intermediate dextrose concentrations (e.g.,  between those 
+commercially available) can easily be delivered. Low GDP so-
+lutions (both lactate-based and  bicarbonate–lactate-based 
+solutions) are available in large-volume bags suitable for APD, 
+whereas pure bicarbonate solution is not. Amino acids are oc-
+casionally used during APD to provide nutritional support and 
+to reduce glucose exposure. However, the fractional absorp-
+tion of the amino acids in the bag is much lower because of  
+the much shorter cycle duration during APD compared with 
+CAPD. Icodextrin solution is not usually prescribed for deliv-
+ery by cycler, except as a “last bag option. ”
+C. APD connections
+1. Transfer sets. O ne set of plastic tubing serves to interconnect 
+several solution containers to the cycler and to connect the 
+cycler to the patient. Shorter, simpler, and less expensive 
+solution delivery sets are constantly being developed.
+2. Catheter–to–transfer set connection.  T he catheter–to–  transfer 
+set connection must be made every night and broken ev-
+ery morning. Previously, many patients had a standard Luer 
+lock connector at the end of the peritoneal catheter. The 
+procedure for connecting the catheter connector to the 
+transfer set was tedious because it required sterile proce-
+dure and a lengthy antiseptic scrub. This older connector 
+has largely been replaced by new, quick connect– disconnect 
+systems that require no manual disinfection and are there-
+fore much easier to use. Most of these systems also may fit 
+CAPD transfer sets, allowing APD patients to use the CAPD 
+method whenever desired (e.g., when traveling).
+Daugirdas9781451144291-ch022.indd   420 09/10/14   1:28 am
+Chapter 22 / Apparatus for Peritoneal Dialysis 421
+3. Transfer set–to–solution bag connections.  T he standard spike-
+and-port or, more often, Luer lock connections are used to 
+connect the multipronged transfer set to the dialysis solu-
+tion containers. It is ironic that this step, which has largely 
+disappeared from CAPD with the dominance of double 
+bags, has become commonplace again with the growth in 
+use of APD. In order to minimize the risk of contamination, 
+the newer cyclers allow for a flush option after this connec-
+tion has been made. The same connection technologies 
+used to assist CAPD patients with visual impairment, ar -
+thritis, or neuropathy can also assist APD patients in mak -
+ing the transfer set–to–container connections.
+D. T idal peritoneal dialysis (TPD) . T his variant of APD was designed 
+to optimize solute clearance by leaving a significant volume 
+of dialysis solution in the peritoneal cavity throughout the di-
+alysis session. It was thought that this would allow diffusive 
+clearance to continue throughout the cycling period. Initially, 
+the peritoneal cavity is filled with a volume of solution selected 
+to be as large as possible without causing discomfort. The vol-
+ume used depends on patient size and habitus, but is typically 
+2–3 L. When TPD was introduced, a 50 % tidal volume was 
+common; for example, if 2 L is being used, the next fill volume 
+(the tidal volume) is 1 L, the next drain volume is about 1 L, and 
+so on. Clearances with TPD have been disappointing and, with 
+usual solution volumes, are no better than those with similar 
+amounts of solution delivered by conventional cycling. Clear -
+ance benefits may be seen with high-  volume TPD where solu-
+tion volumes are greater than 20 L, but these are not widely 
+used because of high cost and inconvenience. Today, the com-
+monest indications for TPD are to avoid low-drain alarms in 
+patients with poor catheter function, or to avoid drain pain 
+in patients who experience discomfort at the end of the drain 
+phase. With this in mind, cyclers allow individualization of the 
+tidal volume, and most commonly it is set to about 75%–85%. 
+TPD cycles are quite short, usually totaling less than 60 min-
+utes with dwell times for the replacement aliquot being only 
+10–40 minutes. The peritoneal cavity is drained completely at 
+the end of the dialysis session but can also be drained every 
+third or fourth cycle in order to avoid cumulative ultrafiltra-
+tion leading to a progressively greater dwell volume. At the end 
+of the cycler session, a day dwell can be left in or drained with 
+the peritoneal cavity left day dry.
+1. T echnical problems.  C lassical high-volume TPD has a num-
+ber of technical problems, making it difficult to recom -
+mend for routine use. Therefore, mainly low-volume TPD is 
+currently used.
+a. Peritoneal catheter. F or classical high-volume TPD, the perito-
+neal catheter must have excellent inflow and drain charac-
+teristics as flow must be 180–200 mL/min during the drain 
+phase. In contrast, low-volume TPD is often used to avoid 
+alarms from low drain when the catheter function is poor.
+Daugirdas9781451144291-ch022.indd   421 09/10/14   1:28 am
+Part III / Peritoneal Dialysis
+422
+b. Cost. In adults, the advantages of TPD in terms of clear -
+ance are seen only  with 20–30 L of solution per treat -
+ment, and this is very expensive.
+c. Ultrafiltration computations. The ultrafiltration  volume must 
+be calculated and added to the drain volume with each
+exchange; otherwise, the intra-abdominal volume will
+become progressively larger. TPD is best performed with 
+newer cyclers that have been modified so that the out -
+flow volume can be set to trigger a change to dialysate in-
+flow mode. When the preset outflow volume is reached
+(e.g., 1.5 L), the machine switches immediately to inflow
+and infuses a fresh 1.5 L of dialysis solution. This system
+is quite different from that in most early cyclers, in which 
+inflow/outflow cycles were regulated only by preset
+ timers, not by volume.
+d. Overfill. The risk of overfill of the peritoneal cavity
+with consequent symptoms of raised intra-abdominal
+pressure is greater with TPD than conventional APD,
+perhaps because TPD is often used when catheter func-
+tion is suboptimal (Cizman, 2014). Some cyclers have
+safety settings in place to ensure full drainage of the day
+dwell before cycling is initiated, and to ensure ultrafil -
+trate does not progressively accumulate during cycling
+(Blake, 2014).
+III. APD WITH DAYTIME EXCHANGES.  Even APD with a day dwell does
+not provide adequate clearances for some patients once residual 
+renal function is lost. Additional exchanges and day dwells may
+be required. These dwells improve clearance as the typical 14- to
+16-hour, single day dwell in APD does not provide significant ad-
+ditional clearance after the first 4–6 hours. These additional day
+exchanges also improve ultrafiltration as the single day dwell is
+often too long for effective net fluid removal. In fact, in many pa-
+tients, especially higher transporters, a single dextrose day dwell
+can result in significant net fluid resorption. Additional day ex -
+changes can be done manually using standard CAPD transfer
+sets, but this is relatively expensive in terms of solution and tub-
+ing costs, and may be inconvenient for patients.
+An alternative strategy involves using the cycler tubing to 
+deliver the additional exchange(s). The patient returns to the cy-
+cler in the afternoon or evening, reattaches to the transfer set, 
+drains the dialysate that has been in the peritoneal cavity since 
+that morning, and then refills from the large-volume solution 
+bags (3–5 L) that will be used to provide solution for cycling that 
+night. The patient then detaches from the transfer set but is able 
+to reattach to the same tubing later to commence cycling that 
+night. This is made possible by a modification of the transfer 
+set that allows serial connections and disconnections to be per -
+formed or by simply using “caps” to protect the respective end-
+ings of the transfer set and adapter tubing while disconnected. 
+This strategy, which has been described as using the cycler as 
+Daugirdas9781451144291-ch022.indd   422 09/10/14   1:28 am
+Chapter 22 / Apparatus for Peritoneal Dialysis 423
+a “docking station, ” can be easily performed with any of the newer 
+generation of cyclers, and is less costly because no additional 
+transfer set is required and because the solution can be drawn 
+from more economical, large-volume solution bags. It has the ad-
+ditional advantage that it can be set up for the patient in advance 
+by a relative or a helper. However, for the working patient, the 
+requirement to return to the cycler during the noncycling period 
+may be a disadvantage, and in such cases, a manual CAPD-type 
+exchange may be preferred.
+In some patients, a second day dwell is not required for 
+clearance reasons but a single long day dwell leads to net fluid 
+resorption. In these cases, the cycler tubing can be used to drain 
+the day dwell early without any subsequent fill (Fig. 22.3). A com-
+mon alternative strategy in this setting is to use icodextrin solu-
+tion, which maintains an adequate oncotic gradient even during 
+16-hour day dwells.
+References and Selected Readings
+Blake PG. Drain pain, overfill, and how they are connected. Perit Dial Int. 2014;34:  
+342–344.
+Brown EA, et al. Survival of functionally anuric patients on automated peritoneal di-
+alysis: the European APD Outcome Study. J Am Soc Nephrol. 2003;14:2948–2957.
+Cho Y, et al. Impact of icodextrin on clinical outcomes in peritoneal dialysis: a sys-
+tematic review of randomized controlled trials. Nephrol Dial Transplant. 2013;28: 
+1899–1907.
+Cho Y, et al. Biocompatible dialysis fluids for peritoneal dialysis. Cochrane Database 
+Syst Rev. 2014;3:CD007554.
+Cizman B, et al. The occurence of increased intraperitoneal volume events in auto-
+mated peritoneal dialysis in the US: role of programming, patient user actions and 
+ultrafiltration. Perit Dial Int. 2014;34:434–442.
+Davies SJ. Longitudinal membrane function in functionally anuric patients treated 
+with automated peritoneal dialysis: data from EAPOS on the effects of glucose 
+and icodextrin prescription. Kidney Int. 2005;67:1609–1615.
+Davies SJ. What has balANZ taught us about balancing ultrafiltration with membrane 
+preservation? Nephrol Dial Transplant. 2013;28:1971–1974.
+Davies SJ, et al. Icodextrin improves the fluid status of peritoneal dialysis pa-
+tients: results of a double-blind randomized controlled trial. J Am Soc Nephrol . 
+2003;14:2338–2344.
+Feriani M, et al. Individualized bicarbonate concentrations in the peritoneal dialy-
+sis fluid to optimize acid-base status in CAPD patients. Nephrol Dial Transplant. 
+2004;19:195–202.
+Johnson DW , et al. Effects of biocompatible versus standard fluid on peritoneal dialysis 
+outcomes. J Am Soc Nephrol. 2012;23:1097–1107.
+Jones M, et al. Treatment of malnutrition with 1.1% amino acid peritoneal dialysis solu-
+tion: results of a multicenter outpatient study. Am J Kidney Dis. 1998;32:761–767.
+Kiernan L, et al. Comparison of continuous ambulatory peritoneal dialysis-  related 
+infections with different “Y-tubing” exchange systems. J Am Soc Nephrol. 
+1995;5:1835–1838.
+Li PK, et al. Randomized, controlled trial of glucose-sparing peritoneal dialysis in dia-
+betic patients. J Am Soc Nephrol. 2013;24:1889–1900.
+Li PK, et al. Comparison of double-bag and Y-set disconnect systems in continuous 
+ambulatory peritoneal dialysis: a randomized prospective multicenter study. Am 
+J Kidney Dis. 1999;33:535–540.
+Lo WK, et al. A 3-year, prospective, randomized, controlled study on amino acid dialy-
+sate in patients on CAPD. Am J Kidney Dis. 2003;42:173–183.
+Mistry CD, et al. A randomized multicenter clinical trial comparing isosmolar icodex-
+trin with hyperosmolar glucose solutions in CAPD. Kidney Int. 1994;46:496–503.
+Rippe B, et al. Long-term clinical effects of a peritoneal dialysis fluid with less glucose 
+degradation products. Kidney Int. 2001;59:348–357.
+Daugirdas9781451144291-ch022.indd   423 09/10/14   1:28 am
+Part III / Peritoneal Dialysis
+424
+Rodriguez AM, et al. Automated peritoneal dialysis: a Spanish multicentre study. 
+Nephrol Dial Transplant. 1998;13:2335–2340.
+Tranaeus A; for Bicarbonate/Lactate Study Group. A long-term study of a  bicarbonate/
+lactate-based peritoneal dialysis solution—clinical benefits. Perit Dial Int. 
+2000;20:516–523.
+Williams JD, et al. The Euro-Balance Trial: the effect of a new biocompatible peritoneal 
+dialysis fluid (balance) on the peritoneal membrane. Kidney Int. 2004;66:408–418.
+Daugirdas9781451144291-ch022.indd   424 09/10/14   1:28 am

@@ -1,0 +1,665 @@
+{
+ "chapter": 5,
+ "questions": [
+  {
+   "topic": "Dialysate exposure",
+   "question": "Approximately how much dialysis solution is a patient exposed to during a single hemodialysis treatment?",
+   "options": {
+    "A": "120-200 L",
+    "B": "5-10 L",
+    "C": "30-60 L",
+    "D": "400-500 L"
+   },
+   "correct": "A",
+   "explanation": "The correct answer is 120-200 L, the volume of dialysis solution a patient contacts each treatment. This large exposure is the whole reason water purity matters: any small-molecular-weight contaminant in the solution can cross the dialyzer membrane unimpeded, enter the blood, and accumulate in the body because renal excretion is absent. The much smaller volumes (5-10 or 30-60 L) understate the exposure, and 400-500 L overstates it. Clinically, this is why both the chemical and microbiologic purity of dialysate is tightly regulated, since contaminants that would be harmless to a healthy person can injure a dialysis patient."
+  },
+  {
+   "topic": "Aluminum toxicity",
+   "question": "Aluminum contaminating dialysis water is most associated with which set of complications?",
+   "options": {
+    "A": "Hemolytic anemia and pruritus",
+    "B": "Bone disease, dialysis encephalopathy, and anemia",
+    "C": "Ventricular fibrillation and nausea",
+    "D": "Pyrogenic reactions and hypotension"
+   },
+   "correct": "B",
+   "explanation": "Aluminum, added to municipal water as a flocculating agent (aluminum sulfate removes nonfilterable suspended particles), causes bone disease, a progressive and often fatal neurologic deterioration called the dialysis encephalopathy syndrome, and anemia. Option A pairs hemolytic anemia and pruritus, which belong to chloramine/copper-zinc and fluoride respectively; ventricular fibrillation and nausea (C) are fluoride effects; pyrogenic reactions and hypotension (D) reflect endotoxin. Clinically, aluminum highlights why source water must be purified, since a public-health additive harmless to healthy people can be devastating to dialysis patients."
+  },
+  {
+   "topic": "Chloramine toxicity",
+   "question": "Chloramine, added to municipal water to prevent bacterial proliferation, causes which adverse effect in dialysis patients?",
+   "options": {
+    "A": "Bone disease",
+    "B": "Encephalopathy",
+    "C": "Hemolytic anemia",
+    "D": "Ventricular fibrillation"
+   },
+   "correct": "C",
+   "explanation": "Chloramine is added to water to suppress bacterial proliferation and causes hemolytic anemia in dialysis patients. Bone disease and encephalopathy (A and B) are aluminum effects, and ventricular fibrillation (D) results from fluoride. Because chloramine is harder to remove than chlorine and can also permanently damage the RO membrane, this part of the purification process must be monitored extremely closely. The chapter notes that historically some municipalities switched from chlorine to chloramine without notifying dialysis units, triggering outbreaks of hemolytic anemia, which is why total chlorine is checked before each shift."
+  },
+  {
+   "topic": "Copper and zinc",
+   "question": "Copper and zinc leaching from metal pipes and fittings into dialysis water can cause which complication?",
+   "options": {
+    "A": "Encephalopathy",
+    "B": "Ventricular fibrillation",
+    "C": "Bone disease",
+    "D": "Hemolytic anemia"
+   },
+   "correct": "D",
+   "explanation": "Copper and zinc can leach from metal pipes and fittings and cause hemolytic anemia; lead and aluminum can enter the water stream in a similar fashion. Encephalopathy and bone disease (A and C) are aluminum-specific effects, while ventricular fibrillation (B) is caused by fluoride. This is a reminder that contaminants enter not only from municipal additives but also from the distribution hardware itself, which is why the chapter recommends inert materials such as plastics for all components that contact purified water and dialysis solution, avoiding metallic corrosion products."
+  },
+  {
+   "topic": "Algae toxins",
+   "question": "Microcystins that can prove toxic to hemodialysis patients are derived from which source?",
+   "options": {
+    "A": "Blue-green algae",
+    "B": "Deionizer resins",
+    "C": "Aluminum flocculants",
+    "D": "Metal corrosion"
+   },
+   "correct": "A",
+   "explanation": "Microcystins are derived from blue-green algae (cyanobacteria) and can contaminate municipal water supplies, proving toxic to hemodialysis patients. Deionizer resins (B) are a site of bacterial growth rather than a microcystin source; aluminum flocculants (C) cause bone disease and encephalopathy; and metal corrosion (D) releases copper, zinc, and lead. The chapter (citing Carmichael, 2001) stresses that centers should be aware of the potential presence of such toxins, particularly in areas subject to seasonal algae blooms, because standard purification may not fully anticipate these episodic microbial products."
+  },
+  {
+   "topic": "Municipal water assumption",
+   "question": "What assumption should every dialysis facility make about all municipal water supplies?",
+   "options": {
+    "A": "They are already safe for dialysis without treatment",
+    "B": "They contain substances harmful to dialysis patients and require purification before use",
+    "C": "They contain only bacteria, not chemicals",
+    "D": "They never contain chloramine"
+   },
+   "correct": "B",
+   "explanation": "Every facility should assume all municipal water supplies contain substances harmful to dialysis patients and therefore require a purification system before the water is used to prepare dialysis solution. Substances added for public health reasons (aluminum, chloramine, fluoride) are safe for healthy people at municipal concentrations but injure renal failure patients who cannot excrete them. Options A, C, and D are dangerous underestimates: water is never assumed safe, contamination includes both chemicals and microbes, and chloramine is commonly present. This assumption is the foundational safety principle for the entire water treatment cascade."
+  },
+  {
+   "topic": "Standards scope",
+   "question": "The fluid quality standards set maximum levels for which categories of contaminants?",
+   "options": {
+    "A": "Only bacteria and endotoxins",
+    "B": "Only chemicals toxic to hemodialysis patients",
+    "C": "Chemicals toxic to dialysis patients, chemicals toxic to the general population, and bacteria and their endotoxins",
+    "D": "Only heavy metals"
+   },
+   "correct": "C",
+   "explanation": "The ISO standards (adopted by AAMI as US national standards) set maximum levels for three categories: chemicals known to be toxic to hemodialysis patients, chemicals known to be toxic to the general population, and bacteria and their endotoxins. Options A, B, and D each capture only one slice of this scope and are therefore incomplete. The breadth matters because a dialysis patient's massive dialysate exposure and absent renal clearance mean both patient-specific toxins and general population toxins must be controlled, alongside microbiologic purity, to prevent injury."
+  },
+  {
+   "topic": "Product water endotoxin",
+   "question": "What is the recommended maximum endotoxin level for product water used to prepare dialysis solution?",
+   "options": {
+    "A": "<1.0 EU/mL",
+    "B": "<0.03 EU/mL",
+    "C": "<0.5 EU/mL",
+    "D": "<0.25 EU/mL"
+   },
+   "correct": "D",
+   "explanation": "Product water used to prepare dialysis solution should contain less than 0.25 EU/mL of endotoxin (and less than 100 CFU/mL of bacteria). The final dialysis solution limit is higher at 0.5 EU/mL (C), while 0.03 EU/mL (B) is the far stricter ultrapure endotoxin threshold, and 1.0 EU/mL (A) exceeds all limits. Keeping product water below 0.25 EU/mL provides a purity margin so that after mixing with concentrate the final solution stays under 0.5 EU/mL; pyrogenic reactions do not occur when bacteria and endotoxin are held below these limits."
+  },
+  {
+   "topic": "Dialysate microbiology",
+   "question": "What are the maximum allowable bacteria and endotoxin levels for the final dialysis solution?",
+   "options": {
+    "A": "100 CFU/mL and 0.5 EU/mL",
+    "B": "200 CFU/mL and 1.0 EU/mL",
+    "C": "0.1 CFU/mL and 0.03 EU/mL",
+    "D": "100 CFU/mL and 0.25 EU/mL"
+   },
+   "correct": "A",
+   "explanation": "The maximum levels for the final dialysis solution are 100 CFU/mL of bacteria and 0.5 EU/mL of endotoxin; pyrogenic reactions do not occur when levels stay below these limits. Option C (0.1 CFU/mL and 0.03 EU/mL) describes ultrapure dialysate, a much stricter voluntary standard; 0.25 EU/mL (D) is the product-water endotoxin limit; and 200 CFU/mL with 1.0 EU/mL (B) exceeds all standards. Note the bacteria limit is the same (100 CFU/mL) for product water and final solution, but the endotoxin limit is looser for the final solution (0.5 vs 0.25 EU/mL)."
+  },
+  {
+   "topic": "Ultrapure benefits",
+   "question": "Use of ultrapure dialysis solution in observational studies has been linked to all of the following EXCEPT?",
+   "options": {
+    "A": "Reduced plasma C-reactive protein and interleukin-6",
+    "B": "Increased loss of residual renal function",
+    "C": "Improved anemia response to erythropoietin",
+    "D": "Reduced plasma beta2-microglobulin"
+   },
+   "correct": "B",
+   "explanation": "Ultrapure dialysate is associated with a SLOWER loss of residual renal function, not an increased loss, making B the exception. The chapter attributes low endotoxin exposure to a reduced chronic inflammatory response, and observational studies (Susantitaphong, 2013) link ultrapure solution to reduced C-reactive protein and interleukin-6 (A), improved anemia response to erythropoietin with better nutrition and albumin (C), reduced beta2-microglobulin and pentosidine (D), plus lower cardiovascular morbidity. These benefits explain why many authorities favor routine ultrapure use even though not all have been fully confirmed."
+  },
+  {
+   "topic": "Ultrapure indication",
+   "question": "For which therapy is the use of ultrapure dialysis solution considered mandatory rather than merely desirable?",
+   "options": {
+    "A": "Peritoneal dialysis",
+    "B": "Conventional thrice-weekly hemodialysis",
+    "C": "Online hemodiafiltration",
+    "D": "Sodium profiling"
+   },
+   "correct": "C",
+   "explanation": "Ultrapure solution is highly desirable for all hemodialysis but is mandatory for online convective therapies such as online hemodiafiltration, which would otherwise increase transfer of bacterial fragments from the dialysis/replacement solution directly into the blood. Conventional thrice-weekly hemodialysis (B) benefits from but does not strictly require ultrapure solution; peritoneal dialysis (A) does not use this water system the same way; and sodium profiling (D) is a sodium-concentration technique unrelated to microbiologic purity. The mandatory requirement reflects the large convective fluid transfer in hemodiafiltration."
+  },
+  {
+   "topic": "Endotoxin clinical effect",
+   "question": "Endotoxins and bacterial fragments that cross the dialyzer membrane primarily produce which acute effect?",
+   "options": {
+    "A": "Bone disease",
+    "B": "Scaling of machine lines",
+    "C": "Hypertension",
+    "D": "Pyrogenic reactions"
+   },
+   "correct": "D",
+   "explanation": "Endotoxins, endotoxin fragments, and other bacterial products such as short bacterial DNA fragments (some as small as 1,250 Da) can cross dialyzer membranes and enter the bloodstream to produce pyrogenic reactions and other untoward effects. Bone disease (A) is caused by aluminum; scaling of machine lines (B) results from calcium and magnesium precipitation; and hypertension (C) relates to elevated dialysate sodium. Beyond acute pyrogenic reactions, low-level endotoxin also contributes to a chronic inflammatory response, which is the rationale behind ultrapure dialysate."
+  },
+  {
+   "topic": "Pretreatment components",
+   "question": "Which of the following is a typical component of the pretreatment stage of a dialysis water system?",
+   "options": {
+    "A": "Activated carbon filtration",
+    "B": "Solid-phase deionizer",
+    "C": "Reverse osmosis membrane",
+    "D": "Ultraviolet radiation unit"
+   },
+   "correct": "A",
+   "explanation": "Pretreatment usually includes a valve to blend hot and cold water to a constant temperature, preliminary filtration, softening, and filtration through activated carbon; carbon is therefore the pretreatment component here. Reverse osmosis (C) is the primary purification process, not pretreatment, and a deionizer (B) and UV unit (D) are used at or after the primary purification stage to further purify or disinfect. The pretreatment cascade exists to prepare water for optimal operation of the downstream primary purification, protecting the RO membrane from chlorine/chloramine and scaling."
+  },
+  {
+   "topic": "pH correction",
+   "question": "Injection of hydrochloric acid during pretreatment corrects excessive alkalinity because high alkalinity can do what?",
+   "options": {
+    "A": "Dissolve the RO membrane",
+    "B": "Impede chlorine and chloramine removal by carbon and foul RO membranes with calcium/magnesium salts",
+    "C": "Increase bacterial growth in carbon beds",
+    "D": "Raise the conductivity of product water"
+   },
+   "correct": "B",
+   "explanation": "Correction of pH by injecting hydrochloric acid is sometimes needed because excessive alkalinity can impede the ability of carbon beds to remove chlorine and chloramine and can cause fouling of reverse osmosis membranes by calcium and magnesium salts. Alkalinity does not dissolve the RO membrane (A), and the chapter does not attribute increased carbon-bed bacterial growth (C) or raised product-water conductivity (D) to alkalinity. Optimal chloramine removal by carbon may specifically require adjusting the feed water pH, tying this correction to the chloramine-monitoring safety concern."
+  },
+  {
+   "topic": "Softener regeneration",
+   "question": "Water softener resins are regenerated on a routine basis using which solution?",
+   "options": {
+    "A": "Dilute hydrochloric acid",
+    "B": "Sodium bisulfite",
+    "C": "Concentrated sodium chloride brine",
+    "D": "Ozonated water"
+   },
+   "correct": "C",
+   "explanation": "Softener resins are backwashed and regenerated frequently using a concentrated sodium chloride solution (brine). A softener removes calcium and magnesium (and other cations such as iron and manganese) by exchanging them for sodium bound to the resin, protecting the downstream RO membrane from scaling; over time the resin fills with Ca and Mg, and brine restores it by driving Na back onto the resin. Hydrochloric acid (A) is used for pH correction; sodium bisulfite (B) is an alternative chloramine-removal agent; and ozonated water (D) is used for distribution-system disinfection, not softener regeneration."
+  },
+  {
+   "topic": "Chlorine vs chloramine",
+   "question": "Why have many municipalities switched from chlorine to chloramine for suppressing bacterial proliferation?",
+   "options": {
+    "A": "Chloramine is cheaper to produce",
+    "B": "Chlorine damages RO membranes but chloramine does not",
+    "C": "Chloramine is removed more easily by carbon",
+    "D": "Chlorine can combine with organics to form potentially cancer-causing compounds"
+   },
+   "correct": "D",
+   "explanation": "Chlorine can combine with organic substances in the water to form potentially cancer-causing compounds, which is why many municipalities that previously used chlorine switched to chloramine. Option B is false because both chlorine and chloramine can permanently damage the RO membrane, and C is the opposite of the truth: chloramine removal kinetics by carbon are slower, making it harder to remove. Cost (A) is not the stated reason. This switch has a dialysis hazard: chloramine causes hemolytic anemia and is tougher to strip out, so total chlorine must be monitored closely at the carbon beds."
+  },
+  {
+   "topic": "Chloramine removal kinetics",
+   "question": "Compared with chlorine, the kinetics of chloramine removal by carbon are such that?",
+   "options": {
+    "A": "Chloramine removal is slower, so a system adequate for chlorine may not remove chloramine",
+    "B": "Removal rates are identical",
+    "C": "Chloramine is removed faster than chlorine",
+    "D": "Chloramine cannot be removed by carbon at all"
+   },
+   "correct": "A",
+   "explanation": "The kinetics of the reaction through which carbon removes chloramine are slower than those for removing chlorine, so a system that adequately removed chlorine might not adequately remove chloramine. This makes B and C wrong; chloramine can be removed by carbon (so D is wrong), but only with sufficient contact time. The practical consequences are that carbon beds require an empty bed contact time of at least 10 minutes, feed-water pH may need adjustment, and if corrosion inhibitors block chloramine from the carbon surface, alternatives such as sodium bisulfite injection may be needed."
+  },
+  {
+   "topic": "Total chlorine monitoring",
+   "question": "Rather than measuring chlorine and chloramine separately, which value is simpler to monitor when deciding to replace carbon beds?",
+   "options": {
+    "A": "Conductivity",
+    "B": "Total chlorine (the sum of chlorine and chloramine)",
+    "C": "Endotoxin level",
+    "D": "pH"
+   },
+   "correct": "B",
+   "explanation": "Although chlorine and chloramine can be measured separately, it is simpler to measure total chlorine, the sum of the two, and replace exhausted carbon beds based on that value. Conductivity (A) monitors deionizer function, not carbon exhaustion; endotoxin (C) reflects microbiologic purity; and pH (D) relates to feed-water adjustment. When municipal water contains chloramine, total chlorine exiting the primary worker carbon bed is checked before each dialysis shift; if breakthrough appears there, the polisher bed outflow is tested, and breakthrough past the polisher forces treatments to stop immediately."
+  },
+  {
+   "topic": "Chlorine breakthrough response",
+   "question": "If total chlorine breakthrough is detected downstream of the 'polisher' carbon bed, what is the required action?",
+   "options": {
+    "A": "Continue treatments while monitoring closely",
+    "B": "Replace only the worker bed at the end of the shift",
+    "C": "Treatments must cease immediately",
+    "D": "Inject sodium chloride brine"
+   },
+   "correct": "C",
+   "explanation": "If total chlorine breakthrough is noted downstream of the polisher (backup) carbon bed, treatments must cease immediately, because the last line of defense against chloramine has failed and hemolytic anemia is a risk. Continuing with close monitoring (A) is only acceptable when breakthrough is at the worker bed but the polisher outflow remains clean. The two carbon beds run in series so the upstream worker exhausts first and can be replaced while the polisher backs it up. Brine injection (D) regenerates softeners, not carbon beds, and delaying replacement to shift-end (B) is unsafe once the polisher is breached."
+  },
+  {
+   "topic": "Empty bed contact time",
+   "question": "The 'empty bed contact time' for water in a granular activated carbon bed must be at least how long?",
+   "options": {
+    "A": "1 minute",
+    "B": "30 minutes",
+    "C": "5 minutes",
+    "D": "10 minutes"
+   },
+   "correct": "D",
+   "explanation": "The empty bed contact time, the time water spends in contact with the granular activated carbon, must be at least 10 minutes to help ensure adequate removal of chlorine and chloramine. Shorter times (1 or 5 minutes) would not allow the slower chloramine removal kinetics to complete, risking breakthrough and hemolytic anemia, while 30 minutes overstates the requirement. Adequate contact time is supported by regular backwashing, which fluffs the beds and prevents channeling that would reduce efficiency; feed-water pH adjustment can further optimize chloramine removal."
+  },
+  {
+   "topic": "Primary purification",
+   "question": "The primary purification process in a dialysis water system is almost always which method?",
+   "options": {
+    "A": "Reverse osmosis",
+    "B": "Deionization",
+    "C": "Activated carbon adsorption",
+    "D": "Ultraviolet irradiation"
+   },
+   "correct": "A",
+   "explanation": "The primary purification process is almost always reverse osmosis (RO). A filter is normally placed just upstream of the RO membrane to catch any carbon particles and resin beads inadvertently released from the pretreatment system. Activated carbon (C) is a pretreatment step; deionization (B) is usually an alternative or an add-on used to further purify water after RO; and UV irradiation (D) is a supplemental method to destroy bacteria. RO is favored because it removes over 95% of ionic contaminants plus nonionic contaminants as small as glucose and provides an effective barrier against bacteria and endotoxins."
+  },
+  {
+   "topic": "RO removal efficiency",
+   "question": "Reverse osmosis removes more than what percentage of ionic contaminants, along with nonionic contaminants as small as glucose?",
+   "options": {
+    "A": "50%",
+    "B": "95%",
+    "C": "85%",
+    "D": "75%"
+   },
+   "correct": "B",
+   "explanation": "RO removes more than 95% of ionic contaminants as well as nonionic contaminants as small as glucose, and it provides an effective barrier against bacteria and endotoxins. The lower figures (50%, 75%, 85%) understate its capability. RO works by high-pressure filtration through a semipermeable membrane that holds back dissolved solutes. Because of this high efficiency across ionic, nonionic, and microbiologic contaminants, RO often provides water of sufficient quality to prepare dialysis solution without further purification, though deionization may be added for polishing."
+  },
+  {
+   "topic": "Deionization limits",
+   "question": "Which contaminants are NOT removed by a deionizer?",
+   "options": {
+    "A": "Sodium and calcium",
+    "B": "Chloride and fluoride",
+    "C": "Nonionic contaminants, bacteria, and endotoxins",
+    "D": "Aluminum and phosphate"
+   },
+   "correct": "C",
+   "explanation": "Deionizers remove ions by exchange but do not remove nonionic contaminants, bacteria, or endotoxins. Options A, B, and D all name ions (sodium, calcium, aluminum as cations; chloride, fluoride, phosphate as anions) that deionizers do remove. Because deionizer resin presents a large surface area for bacterial growth and all bacteriostatic chlorine/chloramine has already been stripped upstream, bacterial contamination can actually increase in deionizer tanks. For this reason an ultrafilter is usually placed downstream to remove any bacteria or endotoxin, and deionization is typically used to further purify RO product water rather than as a standalone process."
+  },
+  {
+   "topic": "Anionic resin exchange",
+   "question": "Anionic resins in a deionizer exchange hydroxyl ions for which anions?",
+   "options": {
+    "A": "Sodium, calcium, and aluminum",
+    "B": "Magnesium and iron",
+    "C": "Hydrogen and bicarbonate",
+    "D": "Chloride, phosphate, and fluoride"
+   },
+   "correct": "D",
+   "explanation": "Anionic resins contain ammonium groups that exchange hydroxyl ions for anions such as chloride, phosphate, and fluoride. Options A and B list cations (sodium, calcium, aluminum, magnesium, iron), which are handled by the cationic resins that swap hydrogen ions for them. The released hydrogen and hydroxyl ions then combine to form water, so option C is not an anion set the resin removes. A solid-phase deionizer can be configured as two separate beds or a single mixed bed, and its performance is tracked by outflow conductivity, which rises as the resins near exhaustion."
+  },
+  {
+   "topic": "Exhausted deionizer hazard",
+   "question": "Why is a deionizer resin that has become 'exhausted' particularly dangerous if it continues to be used?",
+   "options": {
+    "A": "It rapidly releases the most weakly bound ions back into the water",
+    "B": "It stops exchanging any ions and passes water through unchanged",
+    "C": "It generates chloramine",
+    "D": "It dangerously heats the water"
+   },
+   "correct": "A",
+   "explanation": "An exhausted deionizer resin is not inactive; if it keeps being used it rapidly releases the ions most weakly bound to the resin, with potentially serious adverse consequences. This is far more dangerous than passing water through unchanged (B). The chapter cites the Arnow (1994) outbreak in which failure to remove exhausted deionizer tanks led to patient deaths from massive fluoride release into the dialysis water. Deionizers do not make chloramine (C) or heat water (D). Because of this dump phenomenon, exhausted tanks must be moved offline as soon as rising conductivity appears, and online monitors divert water above 1 mS/cm."
+  },
+  {
+   "topic": "Conductivity diversion limit",
+   "question": "Online monitors on ion exchange tanks divert water away from patients when the outflow conductivity exceeds which value?",
+   "options": {
+    "A": "0.1 mS/cm",
+    "B": "1 mS/cm (a resistivity of 1 MOhm-cm)",
+    "C": "10 mS/cm",
+    "D": "100 mS/cm"
+   },
+   "correct": "B",
+   "explanation": "All ion exchange tanks must be fitted with online monitors that continuously check outflow conductivity and divert that water away from patients if it exceeds 1 mS/cm, equivalent to a resistivity of 1 MOhm-cm. The other values (0.1, 10, 100 mS/cm) are not the threshold. Conductivity rises as resins exhaust and stop removing ions, so this diversion protects patients from the dangerous ion dump of an exhausted deionizer. Some tanks also have warning lights, and it is critical to know whether a given light is normally off (turning on with rising conductivity) or normally on (turning off when monitoring fails)."
+  },
+  {
+   "topic": "Ultraviolet limitation",
+   "question": "A drawback of using ultraviolet radiation to destroy bacteria in treated water is that it may do what?",
+   "options": {
+    "A": "Remove calcium and magnesium",
+    "B": "Increase water conductivity",
+    "C": "Increase the lipopolysaccharide and peptidoglycan content due to bacterial death",
+    "D": "Generate chloramine"
+   },
+   "correct": "C",
+   "explanation": "Although UV radiation destroys bacteria (whether vegetative or sporulated), the process can increase the lipopolysaccharide and peptidoglycan content of the treated water because of the resulting bacterial death, releasing these inflammatory cell-wall fragments. UV does not remove calcium and magnesium (A, that is the softener's job), does not raise conductivity (B), and does not generate chloramine (D). This limitation is why UV is a supplement rather than a substitute for filtration: an ultrafilter is still placed downstream of deionizers to physically remove bacteria and endotoxin that UV killing would otherwise leave behind as fragments."
+  },
+  {
+   "topic": "Deionizer end product",
+   "question": "When the hydrogen and hydroxyl ions released during deionization combine, what do they form?",
+   "options": {
+    "A": "Carbonic acid",
+    "B": "Sodium chloride",
+    "C": "Hydrogen peroxide",
+    "D": "Water"
+   },
+   "correct": "D",
+   "explanation": "The hydrogen ions released by cationic resins (which swap H+ for cations like sodium, calcium, and aluminum) and the hydroxyl ions released by anionic resins (which swap OH- for anions like chloride, phosphate, and fluoride) combine to become water, yielding a product water with very few residual ions. They do not form carbonic acid (A, which arises in dialysate mixing from CO2), sodium chloride (B), or hydrogen peroxide (C). Because so few ions remain, deionizer performance is conveniently monitored by conductivity: the fewer the residual ions, the lower the conductivity of the outflow."
+  },
+  {
+   "topic": "Disinfection frequency",
+   "question": "When chemical germicides are used to disinfect water storage and distribution systems, disinfection is generally performed at least how often?",
+   "options": {
+    "A": "Monthly",
+    "B": "Weekly",
+    "C": "Daily",
+    "D": "Annually"
+   },
+   "correct": "A",
+   "explanation": "When chemical germicides are used, disinfection of water storage and distribution systems is generally performed at least monthly. The schedule is designed to minimize biofilm FORMATION, not to eliminate biofilm after it has formed, because established biofilm is very difficult to remove. Daily or weekly (B, C) overstate the chemical-germicide requirement, and annually (D) would be far too infrequent to prevent bacterial colonization. The distribution loop is built without dead ends or unnecessary branches, and systems that use hot water or ozone can be disinfected more frequently since they need no rinse-out of residual germicide."
+  },
+  {
+   "topic": "Hot water and ozone disinfection",
+   "question": "What is an advantage of distribution systems that can be disinfected with hot water or ozone?",
+   "options": {
+    "A": "They eliminate the need for RO",
+    "B": "They allow more frequent disinfection because no rinsing of residual germicide is needed",
+    "C": "They require less frequent disinfection",
+    "D": "They remove nonionic contaminants"
+   },
+   "correct": "B",
+   "explanation": "Hot water or ozone distribution systems allow MORE frequent disinfection because there is no need to rinse the system free of residual germicide afterward, unlike chemical germicides. They do not eliminate the need for RO (A), do not remove nonionic contaminants (D, which is an RO function), and their benefit is more frequent, not less frequent, disinfection (C). Frequent disinfection is valuable because the goal is to prevent biofilm formation in the storage and distribution system rather than to remove biofilm once established, and cultures and endotoxin tests confirm the schedule's adequacy."
+  },
+  {
+   "topic": "Bicarbonate contamination",
+   "question": "Why are containers used to distribute centrally prepared bicarbonate concentrate disinfected frequently?",
+   "options": {
+    "A": "Bicarbonate precipitates aluminum",
+    "B": "Bicarbonate corrodes plastic",
+    "C": "Bicarbonate concentrate is particularly susceptible to bacterial contamination",
+    "D": "Bicarbonate raises conductivity"
+   },
+   "correct": "C",
+   "explanation": "Bicarbonate concentrates are particularly susceptible to bacterial contamination, so the containers used to distribute centrally prepared concentrate to individual dialysis machines are disinfected frequently. Bicarbonate does not precipitate aluminum (A), corrode plastic (B), or raise conductivity in the way described (D). This microbiologic vulnerability of bicarbonate is also why some machines use dry sodium bicarbonate cartridges instead of liquid concentrate: the dry form obviates bacterial growth in the concentrate and the downstream contamination of the final dialysis solution that liquid bicarbonate would otherwise permit."
+  },
+  {
+   "topic": "Patient monitoring",
+   "question": "As part of water system safety, staff should remain alert for unexplained clusters of which patient reactions?",
+   "options": {
+    "A": "Hypertension and edema",
+    "B": "Hypoglycemia",
+    "C": "Muscle cramps only",
+    "D": "Hemolytic, pyrogenic, or other unusual reactions"
+   },
+   "correct": "D",
+   "explanation": "Beyond monitoring the equipment, staff must monitor the patients themselves, staying alert for unexplained clusters of hemolytic, pyrogenic, or other unusual reactions. Such clusters can be the first sign of a water quality failure: hemolytic reactions suggest chloramine, copper, or zinc, while pyrogenic reactions point to endotoxin. Hypertension and edema (A) relate to fluid and sodium status, hypoglycemia (B) is not a described water-contaminant signal, and limiting vigilance to muscle cramps only (C) would miss the key contamination syndromes. This clinical surveillance complements chemical and microbiologic testing of the water and dialysis fluid."
+  },
+  {
+   "topic": "Conductivity servocontrol",
+   "question": "How does a proportioning machine verify that the ionic composition of the final dialysis solution is correct?",
+   "options": {
+    "A": "By checking conductivity, which is kept in a very tight range",
+    "B": "By measuring endotoxin",
+    "C": "By measuring pH",
+    "D": "By weighing the concentrate"
+   },
+   "correct": "A",
+   "explanation": "The proportioning machine mixes fixed volumes of concentrate with heated purified water (or uses conductivity-based servocontrol) and verifies the ionic composition of the final dialysis solution by checking conductivity, which is kept in a very tight range. Endotoxin (B) reflects microbiologic purity, not ionic composition; pH (C) is buffered by the acid/bicarbonate reaction but is not the composition check; and weighing concentrate (D) is not the method. If conductivity moves outside the target range, an alarm sounds and dialysis stops, so only solution within the correct conductivity window is allowed to pass on to the dialyzer."
+  },
+  {
+   "topic": "Bicarbonate solubility issue",
+   "question": "When making a bicarbonate solution of about 30 mM with a pH near 8.0, what problem occurs?",
+   "options": {
+    "A": "Sodium precipitates out",
+    "B": "Calcium and magnesium precipitate out, reducing their diffusible concentration and causing scaling",
+    "C": "Bicarbonate converts to acetate",
+    "D": "The solution becomes acidic"
+   },
+   "correct": "B",
+   "explanation": "When a bicarbonate solution of about 30 mM is made, the pH is close to 8.0, and at this pH calcium and magnesium precipitate out of solution, reducing their diffusible concentration and contributing to scaling on dialysis machine lines and passages. Sodium does not precipitate (A), bicarbonate does not convert to acetate (C), and the solution is alkaline rather than acidic (D). This precipitation problem is precisely why a bicarbonate-based system uses two concentrates: the low-pH acid concentrate keeps calcium and magnesium dissolved even in concentrated form, and mixing generates CO2 that lowers the final pH to about 7.0-7.4."
+  },
+  {
+   "topic": "Mixing chemistry",
+   "question": "During mixing of the two concentrates, the small amount of acetic acid reacts with an equimolar amount of bicarbonate to generate what, lowering the final pH to about 7.0-7.4?",
+   "options": {
+    "A": "Sodium hydroxide",
+    "B": "Chloramine",
+    "C": "Carbon dioxide, which forms carbonic acid",
+    "D": "Calcium carbonate"
+   },
+   "correct": "C",
+   "explanation": "During mixing, the small amount of acetic acid in the acid concentrate (about 2-4 mM) reacts with an equimolar amount of bicarbonate to generate carbon dioxide; the CO2 forms carbonic acid, which lowers the final bicarbonate solution's pH to approximately 7.0-7.4. At this pH the calcium and magnesium stay dissolved rather than precipitating. The reaction does not produce sodium hydroxide (A), chloramine (B, a water contaminant), or calcium carbonate (D, the scale being avoided). This buffered mixing chemistry is the core of the dual-concentrate design that solves the bicarbonate solubility problem."
+  },
+  {
+   "topic": "Displayed vs actual base",
+   "question": "Why is the actual base content of dialysate often higher than the bicarbonate value shown on the machine monitor?",
+   "options": {
+    "A": "The monitor overestimates bicarbonate",
+    "B": "The monitor includes carbon dioxide",
+    "C": "Citrate is not counted as an acid",
+    "D": "The displayed value ignores acetate (from acetic acid) that generates additional bicarbonate when metabolized"
+   },
+   "correct": "D",
+   "explanation": "The bicarbonate value shown on many machine monitors is only the final bicarbonate concentration and does not account for the acetate produced when acetic acid reacted with an equimolar amount of sodium bicarbonate. That acetate generates additional bicarbonate on an equimolar basis as it is metabolized in the body, so the actual base content is higher than displayed (Kohn, 2012). The monitor does not overestimate bicarbonate (A) or include CO2 (B). With most liquid acid concentrates, the acetate present after mixing is commonly about 4 mM, a clinically meaningful extra source of buffer that is easy to overlook."
+  },
+  {
+   "topic": "Dry bicarbonate cartridge",
+   "question": "What is the main advantage of using a dry sodium bicarbonate cartridge instead of a liquid bicarbonate concentrate?",
+   "options": {
+    "A": "It obviates the problem of bacterial growth in bicarbonate concentrate",
+    "B": "It increases the bicarbonate concentration",
+    "C": "It removes chloramine",
+    "D": "It lowers the shipping cost of acid concentrate"
+   },
+   "correct": "A",
+   "explanation": "Using a dry sodium bicarbonate cartridge in place of a liquid bicarbonate concentrate obviates the problem of bacterial growth in the bicarbonate concentrate and the concern of subsequent contamination of the final dialysis solution. It does not inherently increase the bicarbonate concentration (B), has nothing to do with chloramine removal (C, a carbon-bed function), and is not about acid-concentrate shipping cost (D). The advantage is specifically microbiologic: because liquid bicarbonate concentrate is particularly susceptible to bacterial contamination, keeping the bicarbonate dry until the moment of use eliminates that growth medium."
+  },
+  {
+   "topic": "Sodium diacetate",
+   "question": "Acid concentrates formulated with sodium diacetate typically yield how much acetate in the final dialysate compared with those using acetic acid?",
+   "options": {
+    "A": "Half the concentration",
+    "B": "Twice the concentration (up to 8 mM)",
+    "C": "The same concentration",
+    "D": "Ten times the concentration"
+   },
+   "correct": "B",
+   "explanation": "Sodium diacetate is a compound containing acetic acid plus sodium acetate, so acid concentrates formulated with it typically contain twice the concentration of acetate in the final dialysate compared to those using acetic acid alone, up to about 8 mM. This relatively high acetate (up to 8 mM) must be counted as an additional source of bicarbonate generation, because acetate is metabolized to bicarbonate on an equimolar basis (Kohn, 2012). Half, the same, or ten times (A, C, D) are incorrect. For contrast, dry citric-acid concentrates yield about 0.8 mM citrate plus 0.3 mM acetate, roughly 2.7 mEq/L of base."
+  },
+  {
+   "topic": "Dialysate potassium range",
+   "question": "What is the typical potassium concentration of a standard hemodialysis solution?",
+   "options": {
+    "A": "4-5 mM",
+    "B": "0-1 mM",
+    "C": "2-3 mM",
+    "D": "6-8 mM"
+   },
+   "correct": "C",
+   "explanation": "Per Table 5.1, a standard hemodialysis solution contains potassium at 2-3 mM. The other ranges are outside the standard: 0-1 mM (B) is lower than typical, while 4-5 mM (A) and 6-8 mM (D) are higher than the standard dialysate potassium. Potassium is one of the cations whose concentration can be varied by choosing different acid concentrates or by adding salts to the acid concentrate before use, allowing the prescription to be tailored to a patient's serum potassium. Note that minor changes in potassium can also occur whenever the dialysate bicarbonate level is altered via the proportioning ratio."
+  },
+  {
+   "topic": "Dialysate calcium range",
+   "question": "The calcium concentration of a standard hemodialysis solution is typically in which range?",
+   "options": {
+    "A": "0.25-0.375 mM",
+    "B": "3-8 mM",
+    "C": "2-3 mM",
+    "D": "1.25-1.75 mM (2.5-3.5 mEq/L)"
+   },
+   "correct": "D",
+   "explanation": "Per Table 5.1, a standard hemodialysis solution contains calcium at 1.25-1.75 mM (2.5-3.5 mEq/L). The distractors correspond to other components: 0.25-0.375 mM (A) is the magnesium range, 3-8 mM (B) is the acetate range, and 2-3 mM (C) is the potassium range. Calcium is a cation whose concentration can be adjusted by selecting different acid concentrates or adding salts. Because calcium precipitates at the high pH of a bicarbonate solution, it is carried in the low-pH acid concentrate, and the dual-concentrate mixing keeps the final-solution pH near 7.0-7.4 so calcium stays dissolved and diffusible."
+  },
+  {
+   "topic": "Dialysate bicarbonate range",
+   "question": "The bicarbonate concentration listed for a standard hemodialysis solution is typically in which range?",
+   "options": {
+    "A": "25-35 mM",
+    "B": "5-15 mM",
+    "C": "40-50 mM",
+    "D": "60-70 mM"
+   },
+   "correct": "A",
+   "explanation": "Per Table 5.1, a standard hemodialysis solution contains bicarbonate at 25-35 mM. The other ranges fall outside the standard: 5-15 mM (B) is too low, and 40-50 mM (C) and 60-70 mM (D) are too high. Most dialysis machines allow the bicarbonate level to be varied without changing concentrate by altering the proportioning pump ratio, permitting bicarbonate from 20 to 40 mM. This adjustability is especially useful with more frequent dialysis, when dialyzing nonuremic patients (for example to treat poisoning), or to treat alkalemic patients; remember the true delivered base is also augmented by metabolized acetate."
+  },
+  {
+   "topic": "Dialysate glucose range",
+   "question": "The glucose concentration of a standard hemodialysis solution ranges from?",
+   "options": {
+    "A": "20-30 mM",
+    "B": "0-11 mM",
+    "C": "50-60 mM",
+    "D": "100-110 mM"
+   },
+   "correct": "B",
+   "explanation": "Per Table 5.1, a standard hemodialysis solution contains glucose at 0-11 mM, meaning solutions range from glucose-free up to roughly 11 mM (about 200 mg/dL). The higher ranges of 20-30, 50-60, and 100-110 mM (A, C, D) exceed the standard. Glucose (dextrose) is an optional component that can be carried in the acid concentrate. Because reverse osmosis removes nonionic contaminants as small as glucose, any glucose present in the final solution comes from the concentrate rather than from the source water, and its inclusion helps limit intradialytic hypoglycemia."
+  },
+  {
+   "topic": "Dialysate acetate range",
+   "question": "The acetate concentration listed for a standard hemodialysis solution is typically in which range?",
+   "options": {
+    "A": "0.1-0.5 mM",
+    "B": "10-15 mM",
+    "C": "3-8 mM",
+    "D": "25-35 mM"
+   },
+   "correct": "C",
+   "explanation": "Per Table 5.1, a standard hemodialysis solution contains acetate at 3-8 mM. The distractors are outside this range: 0.1-0.5 mM (A) is too low, 10-15 mM (B) is too high, and 25-35 mM (D) is the bicarbonate range. The acetate (or citrate) is added in the form of acetic acid, sodium diacetate, or citric acid to the acid concentrate, where its hydrogen ion reacts with bicarbonate to form CO2 and establish the buffer system. Clinically important, this acetate is metabolized to bicarbonate on an equimolar basis, so it is an additional source of base beyond the displayed bicarbonate value; sodium diacetate can push acetate to the upper end, near 8 mM."
+  },
+  {
+   "topic": "Sodium profiling risk",
+   "question": "A drawback of increasing the average dialysis solution sodium level is that it may predispose the patient to?",
+   "options": {
+    "A": "Metabolic acidosis",
+    "B": "Hypokalemia",
+    "C": "Hemolytic anemia",
+    "D": "Increased thirst, excessive fluid intake, and hypertension"
+   },
+   "correct": "D",
+   "explanation": "Whenever the average dialysis solution sodium level is increased, it may predispose the patient to increased thirst, excessive fluid intake, and hypertension. Sodium profiling (varying dialysate sodium during a treatment) can reduce intradialytic hypotension and the postdialysis washed-out feeling, but a higher average sodium carries this fluid-and-blood-pressure penalty. Metabolic acidosis (A) relates to buffer, not sodium; hypokalemia (B) relates to dialysate potassium; and hemolytic anemia (C) is a chloramine/copper/zinc effect. The sodium concentration can be varied by choosing different acid concentrates or, in some machines, during the individual treatment itself."
+  },
+  {
+   "topic": "Bicarbonate adjustment side effect",
+   "question": "Altering the dialysate bicarbonate level by changing the proportioning ratio also causes what?",
+   "options": {
+    "A": "Minor changes in calcium, magnesium, and potassium concentrations",
+    "B": "No change in other components",
+    "C": "Large changes in sodium only",
+    "D": "Removal of glucose"
+   },
+   "correct": "A",
+   "explanation": "Because most machines vary the dialysate bicarbonate by altering the proportioning pump ratio rather than switching concentrate, minor changes in calcium, magnesium, and potassium (if present) take place whenever the bicarbonate level is altered. So it is not true that other components are unchanged (B), that only sodium changes largely (C), or that glucose is removed (D). This coupling occurs because shifting the concentrate-to-water proportion inevitably shifts the other constituents of that concentrate slightly. Practitioners should be aware of these small collateral shifts when using the bicarbonate range of 20-40 mM for frequent dialysis, poisoning, or alkalemic patients."
+  },
+  {
+   "topic": "Adjustable bicarbonate uses",
+   "question": "The ability to lower dialysis solution bicarbonate is particularly useful in which situation?",
+   "options": {
+    "A": "Increasing dialyzer reuse",
+    "B": "Treating an alkalemic patient or a nonuremic poisoning patient",
+    "C": "Removing chloramine",
+    "D": "Preventing biofilm"
+   },
+   "correct": "B",
+   "explanation": "Adjustable bicarbonate, achievable by altering the proportioning ratio to give levels from 20 to 40 mM, is particularly useful when more frequent dialysis is employed, when dialyzing nonuremic patients (for example to treat poisoning), and to treat alkalemic patients, where lowering the delivered base avoids worsening alkalemia. Increasing dialyzer reuse (A) is associated with citrate-based acid concentrate, not bicarbonate adjustment; chloramine removal (C) is a carbon-bed function; and biofilm prevention (D) is achieved by disinfection scheduling. Remember that lowering the displayed bicarbonate still leaves the additional base contributed by metabolized acetate."
+  },
+  {
+   "topic": "Machine disinfection",
+   "question": "When are the water inlet lines to dialysis machines disinfected?",
+   "options": {
+    "A": "Only when contamination is detected",
+    "B": "Annually",
+    "C": "At the same time as the water distribution system",
+    "D": "Never, as they are single-use"
+   },
+   "correct": "C",
+   "explanation": "The water inlet lines to the dialysis machines are disinfected at the same time as the water distribution system, ensuring the whole delivery path from purified-water loop to machine is treated together. The machines themselves are disinfected according to the manufacturer's recommendations. Waiting for detected contamination (A) or an annual schedule (B) would be inadequate, and the lines are not single-use (D). Some machines now incorporate a bacteria- and endotoxin-retentive ultrafilter that intercepts dialysis solution just before the dialyzer; these in-machine ultrafilters are disinfected when the machine is disinfected and help routinely produce ultrapure solution."
+  },
+  {
+   "topic": "Concentrate matching",
+   "question": "In units that use more than one brand of dialysis machine, why must the correct concentrate be used for each machine?",
+   "options": {
+    "A": "Different brands use different colors of concentrate",
+    "B": "Concentrate expiration dates differ by brand",
+    "C": "Only one brand can produce ultrapure solution",
+    "D": "Concentrate must be designed for the proportioning ratio of the given machine"
+   },
+   "correct": "D",
+   "explanation": "The concentrate must be designed for the proportioning ratio of the given machine, because the ratio of acid concentrate to base concentrate to water varies by manufacturer. Liquid acid concentrates are available between 35 and 45 times concentrated, with correspondingly different bicarbonate concentrates, so using a mismatched concentrate would yield the wrong final composition. Color coding (A), expiration dates (B), and ultrapure capability (C) are not the reason. In units running more than one brand of machine, matching each machine to its intended concentrate is essential to hit the correct electrolyte and buffer targets and keep conductivity in range."
+  },
+  {
+   "topic": "Deionizer warning lights",
+   "question": "Why is it important to know which type of warning light a deionizer tank uses?",
+   "options": {
+    "A": "Some lights are normally off and turn on when conductivity rises, while others are normally on and turn off when monitoring fails",
+    "B": "The light color indicates the resin type",
+    "C": "The light shows the water temperature",
+    "D": "All lights indicate endotoxin breakthrough"
+   },
+   "correct": "A",
+   "explanation": "It is critical to know the light type because some deionizer lights are normally off and turn ON when the outflow conductivity increases, whereas others are normally on and turn OFF when conductivity monitoring fails. Misreading which convention a tank uses could cause staff to overlook an exhausted resin that is dumping weakly bound ions into the water. The light does not indicate resin type (B), water temperature (C), or endotoxin breakthrough (D). This light works alongside the mandatory online conductivity monitor that diverts water exceeding 1 mS/cm, both safeguards against the ion-dump hazard of an exhausted deionizer."
+  },
+  {
+   "topic": "Dialysate chloride range",
+   "question": "The chloride concentration of a standard hemodialysis solution is typically in which range?",
+   "options": {
+    "A": "50-70 mM",
+    "B": "98-124 mM",
+    "C": "135-145 mM",
+    "D": "150-170 mM"
+   },
+   "correct": "B",
+   "explanation": "Per Table 5.1, a standard hemodialysis solution contains chloride at 98-124 mM. The distractors are outside this range: 50-70 mM (A) is too low, 135-145 mM (C) is actually the sodium range, and 150-170 mM (D) is too high. Chloride is the principal anion of the solution and is supplied largely through the acid concentrate along with sodium, potassium, calcium, and magnesium. It is an ionic constituent, so it contributes to the conductivity that the proportioning machine uses to verify correct composition, and it is one of the anions that a deionizer would remove during water purification."
+  },
+  {
+   "topic": "Standards organizations",
+   "question": "In addition to ISO, which group has developed standards for equipment used to purify water for dialysis?",
+   "options": {
+    "A": "The Centers for Disease Control",
+    "B": "The World Health Organization",
+    "C": "The European Best Practices Group",
+    "D": "The American Heart Association"
+   },
+   "correct": "C",
+   "explanation": "Both the International Organization for Standardization (ISO) and the European Best Practices Group have developed standards for equipment used to purify water for dialysis, designed to maximize patient safety, including chemical purity monitoring of water and dialysis solution. The CDC (A), WHO (B), and American Heart Association (D) are not named as the developers of these equipment standards in the chapter. In the United States, ISO standards were adopted by the Association for the Advancement of Medical Instrumentation as national standards; these frameworks specify daily chloramine checks and high-sensitivity bacterial and endotoxin testing."
+  },
+  {
+   "topic": "Medical Director Toolkit",
+   "question": "In the United States, the Medical Director Toolkit from the Forum of ESRD Networks Medical Advisory Council assists units in meeting the requirements of what?",
+   "options": {
+    "A": "The Clean Water Act",
+    "B": "The European Best Practices Guidelines",
+    "C": "ISO 9001 certification",
+    "D": "The 'Conditions for Coverage'"
+   },
+   "correct": "D",
+   "explanation": "The Medical Director Toolkit, prepared by the Forum of ESRD Networks Medical Advisory Council (DeOreo, 2012), assists US dialysis units in meeting the requirements of the Conditions for Coverage. It details not only monitoring of the various parts of the water system but also the need to comply with required remote alarms, training, and emergency planning. It is not aimed at the Clean Water Act (A), the European Best Practices Guidelines (B, a European framework), or ISO 9001 certification (C). This toolkit operationalizes the chapter's safety-and-monitoring principles into the specific US regulatory compliance that dialysis facilities must satisfy."
+  },
+  {
+   "topic": "Dialysate ultrafilter lifespan",
+   "question": "In-machine dialysate ultrafilters are rated for and replaced based on what?",
+   "options": {
+    "A": "A certain number of treatments or months of operation",
+    "B": "Conductivity readings",
+    "C": "Endotoxin breakthrough only",
+    "D": "Each individual treatment"
+   },
+   "correct": "A",
+   "explanation": "The bacteria- and endotoxin-retentive ultrafilters now built into some dialysis machines are rated for a certain number of treatments or months of operation and are replaced on that basis; they are also disinfected when the dialysis machine is disinfected. They are not swapped per individual treatment (D) or replaced by conductivity readings (B, which track deionizers) or by endotoxin breakthrough alone (C). Positioned to intercept the dialysis solution flow immediately before it reaches the dialyzer, these ultrafilters facilitate the routine preparation of ultrapure dialysis solution, adding a final safeguard against bacteria and endotoxin at the point of use."
+  },
+  {
+   "topic": "Acid concentrate contents",
+   "question": "The 'acid' concentrate in a bicarbonate-based system contains a small amount of acetic or citric acid plus which components?",
+   "options": {
+    "A": "Bicarbonate and glucose only",
+    "B": "Sodium, potassium (as needed), calcium, magnesium, chloride, and optional dextrose",
+    "C": "Only sodium and chloride",
+    "D": "Aluminum sulfate and fluoride"
+   },
+   "correct": "B",
+   "explanation": "The acid concentrate contains a small amount of acetic or citric acid plus sodium, potassium (as needed), calcium, magnesium, chloride, and optional dextrose. It deliberately does NOT contain the bicarbonate (A), which is kept separate, because the acid concentrate's low pH is what keeps calcium and magnesium in solution even in concentrated form. Options C and D are wrong: it is more than just sodium and chloride, and it never contains aluminum sulfate or fluoride, which are water contaminants. Separating these cations in the low-pH acid concentrate from the high-pH bicarbonate concentrate is the dual-concentrate strategy that prevents calcium and magnesium precipitation."
+  },
+  {
+   "topic": "Bicarbonate dominance",
+   "question": "What is true of the buffer base used in almost all dialysis solution today?",
+   "options": {
+    "A": "It is almost all acetate based",
+    "B": "It is almost all citrate based",
+    "C": "It is almost all bicarbonate based, which creates a calcium/magnesium solubility issue",
+    "D": "It uses no buffer at all"
+   },
+   "correct": "C",
+   "explanation": "Almost all dialysis solution used today is bicarbonate based, and this engenders a solubility issue: at the pH near 8.0 of a roughly 30 mM bicarbonate solution, calcium and magnesium precipitate out, reducing their diffusible concentration and causing scaling. It is not predominantly acetate based (A) or citrate based (B), and it certainly uses a buffer (D). The solubility problem is precisely why a dual-concentrate system is required: the low-pH acid concentrate keeps calcium and magnesium dissolved, and mixing the acid and bicarbonate concentrates generates CO2 that brings the final pH to about 7.0-7.4, keeping those cations in solution."
+  }
+ ]
+}

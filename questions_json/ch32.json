@@ -1,0 +1,1217 @@
+{
+ "chapter": 32,
+ "questions": [
+  {
+   "topic": "Diabetic dialysis epidemiology",
+   "question": "What are the two leading causes of death among diabetic patients maintained on dialysis?",
+   "options": {
+    "A": "Cardiovascular disease and infection",
+    "B": "Malignancy and stroke",
+    "C": "Hyperkalemia and gastroparesis",
+    "D": "Hypoglycemia and pulmonary embolism"
+   },
+   "correct": "A",
+   "explanation": "Cardiovascular disease and infection are the two leading causes of death in diabetic dialysis patients, whose morbidity and mortality run substantially higher than nondiabetic counterparts. The chapter notes more than 40% of new U.S. dialysis starts are diabetic and their 3-year survival is only about 50%. Malignancy, stroke, hyperkalemia and hypoglycemia occur but are not the top killers, so B, C and D are wrong. Recognizing the cardiovascular-plus-infection burden explains why meticulous CV and infection prevention is emphasized throughout the chapter."
+  },
+  {
+   "topic": "Dialysis survival rate",
+   "question": "In the United States, the approximate 3-year survival rate of diabetic patients maintained on dialysis is:",
+   "options": {
+    "A": "About 80%",
+    "B": "About 65%",
+    "C": "About 50%",
+    "D": "About 25%"
+   },
+   "correct": "C",
+   "explanation": "The 3-year survival of diabetic patients maintained on dialysis is only about 50% (USRDS 2013), which is why C is correct and the higher figures (80%, 65%) and the too-low 25% are wrong. This poor survival contrasts sharply with the roughly 80% 3-year survival after transplantation, the basis for preferring renal transplantation when no contraindication exists. The grim statistic underscores that diabetic ESKD is a high-mortality condition dominated by cardiovascular disease and infection."
+  },
+  {
+   "topic": "When to initiate dialysis",
+   "question": "The IDEAL randomized controlled trial comparing early versus late initiation of dialysis found:",
+   "options": {
+    "A": "Early initiation markedly improved survival",
+    "B": "No difference in survival between early and late initiation",
+    "C": "Late initiation dramatically reduced mortality",
+    "D": "Benefit only in nondiabetic participants"
+   },
+   "correct": "B",
+   "explanation": "The IDEAL randomized controlled trial found no difference in survival between early and late initiation of dialysis, so B is correct. Earlier guidelines had emphasized starting before frank uremia at an eGFR of about 15 mL/min per 1.73 m2, but IDEAL, in which roughly one-third of participants were diabetic, did not support a survival benefit from early start. Thus claims that early (A) or late (C) initiation markedly changes mortality, or that benefit was confined to nondiabetics (D), are not supported by the trial."
+  },
+  {
+   "topic": "Peritoneal dialysis glucose",
+   "question": "Why can long-term peritoneal dialysis complicate blood sugar control in diabetic patients?",
+   "options": {
+    "A": "It removes all endogenous insulin",
+    "B": "It causes chronic hypoglycemia only",
+    "C": "The large amount of glucose administered via dialysis solution stresses altered glucose homeostasis",
+    "D": "It blocks intestinal glucose absorption entirely"
+   },
+   "correct": "C",
+   "explanation": "Long-term PD complicates blood sugar control because altered glucose homeostasis is stressed further by the large amount of glucose administered via the dialysis solution, making C correct. Glucose absorbed from the abdominal cavity also decreases appetite. PD does not remove endogenous insulin (A) or block intestinal absorption (D); and although hypoglycemia risk is actually lower on PD, it does not cause chronic hypoglycemia only (B). The absorbed glucose load is why PD patients often need more insulin and dietary carbohydrate adjustment."
+  },
+  {
+   "topic": "PD protein requirement",
+   "question": "The recommended daily protein intake for peritoneal dialysis patients is approximately:",
+   "options": {
+    "A": "0.6 g/kg",
+    "B": "0.8 g/kg",
+    "C": "1.2 g/kg",
+    "D": "2.0 g/kg"
+   },
+   "correct": "C",
+   "explanation": "PD patients are advised a higher protein intake of about 1.2 g/kg daily to offset protein losses into the dialysate, making C correct; 0.6 and 0.8 g/kg are typical CKD/HD-oriented figures and 2.0 g/kg is excessive. The chapter notes many PD patients have difficulty ingesting this higher recommended amount, partly because absorbed dialysate glucose blunts appetite. Meeting the protein target matters because diabetic dialysis patients already show wasting and malnutrition, which drive mortality more than modality choice."
+  },
+  {
+   "topic": "Hypoglycemia risk by modality",
+   "question": "Compared with hemodialysis, the incidence and severity of hypoglycemic episodes in CAPD or APD is:",
+   "options": {
+    "A": "Reduced, because of near-constant presence of glucose in the abdomen",
+    "B": "Increased, because of protein loss",
+    "C": "Unchanged",
+    "D": "Reduced, because insulin cannot be absorbed"
+   },
+   "correct": "A",
+   "explanation": "Hypoglycemia is reduced in CAPD or APD compared with HD because of the constant or near-constant presence of glucose in the abdomen, so A is correct. This continuous glucose supply, absorbed from the dialysate, buffers against low glucose. Protein loss (B) worsens nutrition but does not explain the hypoglycemia difference, the risk is not unchanged (C), and insulin can in fact be absorbed intraperitoneally (D). This constant glucose exposure is also why fasting glucose is never truly achieved and blood sugar control can be harder on PD."
+  },
+  {
+   "topic": "Intraperitoneal insulin",
+   "question": "Intraperitoneal administration of insulin in PD patients appears to:",
+   "options": {
+    "A": "Eliminate peritonitis risk entirely",
+    "B": "Slightly increase the risk of peritonitis",
+    "C": "Have no effect on infection risk",
+    "D": "Reduce hepatic steatosis"
+   },
+   "correct": "B",
+   "explanation": "Intraperitoneal insulin appears to slightly increase the risk of peritonitis in PD patients, so B is correct; it does not eliminate (A) or reduce infection risk and is not neutral (C). Though physiologically appealing because it delivers insulin to the liver via the portal vein, IP insulin is now less commonly employed. Beyond peritonitis, its drawbacks include bacterial contamination during injection, higher required doses from losses in spent dialysate, and risks of peritoneal fibroblastic proliferation and hepatic subcapsular steatosis, not reduced steatosis (D)."
+  },
+  {
+   "topic": "Vascular access in diabetics",
+   "question": "In diabetic compared with nondiabetic patients, the survival rates of AV fistulas and grafts are:",
+   "options": {
+    "A": "Substantially higher",
+    "B": "Identical",
+    "C": "Substantially reduced",
+    "D": "Only reduced for grafts, not fistulas"
+   },
+   "correct": "C",
+   "explanation": "Survival rates of both AV fistulas and grafts are substantially reduced in diabetic compared with nondiabetic patients, making C correct; they are not higher (A) or identical (B), and both access types (not just grafts) are affected (D). Coexisting blood vessel disease hinders creation of durable vascular access in diabetics. A small fraction even develop severe hand ischemia after an ipsilateral fistula. These access problems, plus hypotension risk, can leave diabetics receiving a lower delivered dialysis dose (Kt/V)."
+  },
+  {
+   "topic": "Hand ischemia after fistula",
+   "question": "A diabetic patient develops severe hand ischemia with gangrene after creation of an ipsilateral AV fistula. The indicated management is:",
+   "options": {
+    "A": "Continue using the fistula and observe",
+    "B": "Immediate systemic anticoagulation only",
+    "C": "Prompt ligation of the fistula",
+    "D": "Increase dialysis frequency"
+   },
+   "correct": "C",
+   "explanation": "Severe hand ischemia after creation of an ipsilateral AV fistula can progress to gangrene and need for amputation, and prompt ligation of the fistula is indicated, making C correct. Simply continuing to use the fistula (A), giving anticoagulation alone (B), or increasing dialysis frequency (D) would not relieve the limb-threatening steal. Although only a small fraction of diabetics develop this complication, its severity mandates urgent recognition and ligation to preserve the hand."
+  },
+  {
+   "topic": "Intradialytic hypotension",
+   "question": "Diabetic patients are at increased risk for hypotension during hemodialysis primarily because of:",
+   "options": {
+    "A": "Excessive protein loss",
+    "B": "Autonomic nervous system dysfunction or cardiac diastolic dysfunction",
+    "C": "High predialysis potassium",
+    "D": "Icodextrin absorption"
+   },
+   "correct": "B",
+   "explanation": "Diabetic patients are at increased risk for intradialytic hypotension because of autonomic nervous system dysfunction or cardiac diastolic dysfunction, so B is correct. These impair the normal cardiovascular compensation for ultrafiltration-related volume shifts. Protein loss (A), predialysis hyperkalemia (C), and icodextrin absorption (D) are real issues in dialysis but do not explain the hypotension. The resulting hemodynamic instability, together with poor vascular access, can cause diabetics to receive a lesser delivered dose of dialysis than nondiabetics."
+  },
+  {
+   "topic": "Blind diabetics and PD",
+   "question": "Which dialysis modality is considered a better therapeutic choice for blind diabetic patients?",
+   "options": {
+    "A": "APD, because many schedules require only one 'on' and one 'off' procedure daily",
+    "B": "In-center HD exclusively",
+    "C": "CAPD, because it requires no connections",
+    "D": "Nocturnal home HD"
+   },
+   "correct": "A",
+   "explanation": "APD is the better choice for blind diabetic patients because many APD schedules require performing only one 'on' and one 'off' procedure daily, minimizing connections that are hard to do without sight, so A is correct. Even blind diabetics can be trained to do CAPD with only slightly higher peritonitis risk, so CAPD is not preferred here (C), and in-center HD (B) or nocturnal home HD (D) are not the point. Assistive devices exist to help connect solution containers, but APD's minimal manipulations make it best suited."
+  },
+  {
+   "topic": "PD mortality analysis",
+   "question": "In the Vonesh analysis, mortality risk with hemodialysis compared to PD was:",
+   "options": {
+    "A": "Higher in HD for all diabetic subgroups",
+    "B": "Lower in HD for younger diabetics without comorbidity",
+    "C": "Higher in HD among younger diabetics without comorbidity but lower in older comorbid diabetics",
+    "D": "Identical across all subgroups"
+   },
+   "correct": "C",
+   "explanation": "In the Vonesh analysis, mortality risk was higher with HD than PD among younger diabetics with no comorbidity but lower with HD in older diabetics, especially those with comorbidities, making C correct. This nuance refutes options claiming HD is uniformly worse (A) or better for young low-risk patients (B), or that outcomes are identical (D). The chapter stresses these results are affected by selection biases, and that comorbidity and malnutrition influence mortality far more than the modality itself."
+  },
+  {
+   "topic": "Modality and mortality drivers",
+   "question": "According to the chapter, which factors have a much larger effect on dialysis mortality than the dialysis modality itself?",
+   "options": {
+    "A": "Age and sex alone",
+    "B": "Comorbidity and malnutrition",
+    "C": "Dialysate glucose concentration",
+    "D": "Type of vascular access"
+   },
+   "correct": "B",
+   "explanation": "Comorbidity and malnutrition have much larger effects on mortality than the dialysis modality, so B is correct. The chapter makes this point when discussing conflicting HD-versus-PD survival data, noting patient selection biases confound modality comparisons. Age and sex alone (A), dialysate glucose concentration (C), or vascular access type (D) are not identified as the dominant drivers. The practical message is that meticulous management and prevention of cardiovascular and infectious morbidity, not modality choice, offers the greatest survival gains."
+  },
+  {
+   "topic": "Diabetic wasting",
+   "question": "Which of the following is a contributing factor to wasting and malnutrition in diabetic dialysis patients?",
+   "options": {
+    "A": "Excess anabolic hormones",
+    "B": "Chronic inflammation and diabetic gastroparesis",
+    "C": "Reduced protein losses on PD",
+    "D": "Suppressed intercurrent illness"
+   },
+   "correct": "B",
+   "explanation": "Wasting and malnutrition in diabetic dialysis patients arise from chronic inflammation, inadequate food intake, diabetic gastroparesis and enteropathy, and catabolic stress from frequent intercurrent illness, so B is correct. There is no excess of anabolic hormones (A); PD actually increases protein losses rather than reducing them (C); and intercurrent illness is frequent, not suppressed (D). Because these patients are already malnourished, the chapter warns they often need early and intensive nutritional support during serious illness."
+  },
+  {
+   "topic": "Diabetic diet carbohydrates",
+   "question": "The general recommendation for the carbohydrate proportion of a diabetic diet is:",
+   "options": {
+    "A": "10%-20% of intake",
+    "B": "30%-40% of intake",
+    "C": "50%-60% of intake",
+    "D": "70%-80% of intake"
+   },
+   "correct": "C",
+   "explanation": "The general recommendation for a diabetic diet is that 50%-60% of intake be carbohydrates, making C correct; the lower and higher ranges are not the standard recommendation. There is growing interest in even lower-carbohydrate diets for diabetics. In PD patients, the glucose calories absorbed from dialysate (around 400 kcal) should be subtracted from the dietary carbohydrate prescription, and simple sugars and saturated fats should be limited. Balancing carbohydrate intake helps glycemic control without worsening the wasting these patients already face."
+  },
+  {
+   "topic": "PD glucose calorie adjustment",
+   "question": "In PD patients, the glucose calories supplied from the PD regimen (usually around 400 kcal) should be:",
+   "options": {
+    "A": "Added to the dietary carbohydrate prescription",
+    "B": "Subtracted from the dietary carbohydrate prescription",
+    "C": "Ignored in dietary planning",
+    "D": "Doubled in the protein prescription"
+   },
+   "correct": "B",
+   "explanation": "The glucose calories absorbed from the PD regimen, usually around 400 kcal, should be subtracted from the dietary carbohydrate prescription, so B is correct; adding them (A), ignoring them (C), or doubling protein (D) would misestimate intake. Because dialysate glucose is continuously absorbed, it contributes real calories that raise blood sugar and can promote hypertriglyceridemia. Accounting for this absorbed load lets the diabetic PD patient maintain the 50%-60% carbohydrate target without unintended excess."
+  },
+  {
+   "topic": "Dietary AGEs",
+   "question": "Levels of advanced glycosylation end products (AGEs) in food are increased when food is:",
+   "options": {
+    "A": "Boiled at low temperature",
+    "B": "Cooked at high temperature, especially if high in fat",
+    "C": "Refrigerated for prolonged periods",
+    "D": "Consumed raw and low in fat"
+   },
+   "correct": "B",
+   "explanation": "AGE levels are increased in food cooked at high temperature, especially if the food contains a high proportion of fat, so B is correct; boiling at low temperature, refrigeration, or raw low-fat food do not raise AGEs. Dietary AGE ingestion has been linked to adverse lipid profiles, inflammatory markers, higher serum AGEs, and possibly increased access thrombosis in ESKD. Because malnutrition is prevalent, the chapter advises caution with additional restriction, but favors preparation that minimizes AGE formation, such as avoiding deep frying and extensive heating."
+  },
+  {
+   "topic": "Gastroparesis diagnosis",
+   "question": "Before ascribing nausea, vomiting, and early satiety to diabetic gastroparesis alone, which procedure should be performed?",
+   "options": {
+    "A": "Colonoscopy",
+    "B": "Esophagogastroduodenoscopy",
+    "C": "Barium enema",
+    "D": "Abdominal ultrasound"
+   },
+   "correct": "B",
+   "explanation": "Because other treatable conditions cause nausea, vomiting, early satiety and postprandial fullness, an esophagogastroduodenoscopy should be performed before ascribing symptoms to gastroparesis alone, so B is correct. Colonoscopy (A), barium enema (C), or abdominal ultrasound (D) do not evaluate the upper GI tract for those obstructive or mucosal causes. Only after EGD excludes alternatives should scintigraphic gastric emptying, the traditional gold standard, be used to confirm gastroparesis, which in diabetics can cause hypoglycemia alternating with hyperglycemia."
+  },
+  {
+   "topic": "Gastroparesis gold standard",
+   "question": "The traditional gold standard test to establish a diagnosis of gastroparesis is:",
+   "options": {
+    "A": "Scintigraphic measurement of gastric emptying",
+    "B": "Serum gastrin level",
+    "C": "Upper GI endoscopy",
+    "D": "CT of the abdomen"
+   },
+   "correct": "A",
+   "explanation": "The traditional gold standard for diagnosing gastroparesis is scintigraphic measurement of gastric emptying, making A correct. Serum gastrin (B), upper endoscopy (C, used to exclude other causes), and abdominal CT (D) do not quantify emptying. A drawback of scintigraphy is radiation exposure, which limits repeated testing to monitor therapy; this can be overcome with 13C-labeled acetate and octanoic acid breath tests. Establishing the diagnosis matters because gastroparesis produces erratic nutrient absorption and unpredictable glucose swings."
+  },
+  {
+   "topic": "Gastroparesis breath test",
+   "question": "A radiation-free alternative to scintigraphy for monitoring gastroparesis response to therapy uses:",
+   "options": {
+    "A": "Iodine-131 uptake",
+    "B": "13C-labeled acetate and octanoic acid breath tests",
+    "C": "Hydrogen breath testing for lactose",
+    "D": "Urea breath testing"
+   },
+   "correct": "B",
+   "explanation": "13C-labeled acetate and octanoic acid breath tests provide a radiation-free alternative to scintigraphy, allowing repeated monitoring of gastroparesis response to therapy, so B is correct. Iodine-131 uptake (A) is a thyroid test, lactose hydrogen breath testing (C) assesses carbohydrate malabsorption, and urea breath testing (D) detects H. pylori. Because scintigraphy's radiation makes serial testing undesirable, the 13C breath tests are the practical way to follow treatment effect in diabetic gastroparesis."
+  },
+  {
+   "topic": "Gastroparesis pharmacotherapy",
+   "question": "Metoclopramide, often the first drug prescribed for gastroparesis in dialysis patients, is associated with a high incidence of which complication, particularly at higher doses?",
+   "options": {
+    "A": "Lactic acidosis",
+    "B": "Extrapyramidal complications",
+    "C": "Hypoglycemia",
+    "D": "Peritonitis"
+   },
+   "correct": "B",
+   "explanation": "Metoclopramide, usually the first prokinetic prescribed for gastroparesis, is associated with a high incidence of extrapyramidal complications in dialysis patients, particularly at higher doses, so B is correct. It is not linked to lactic acidosis (A), hypoglycemia (C), or peritonitis (D). It is started low (5 mg before meals) with small increments until results appear, and its effects are often temporary. Alternatives such as domperidone, motilin agonists, or ondansetron may be tried when metoclopramide fails or causes extrapyramidal effects."
+  },
+  {
+   "topic": "Diabetic enteropathy",
+   "question": "Severe diabetic enteropathy with diarrhea from bacterial overgrowth can be treated with a trial of:",
+   "options": {
+    "A": "Loperamide alone at 50 mg daily",
+    "B": "Broad-spectrum antimicrobials such as doxycycline",
+    "C": "Metoclopramide",
+    "D": "Insulin infusion"
+   },
+   "correct": "B",
+   "explanation": "Severe diabetic enteropathy with diarrhea from intestinal bacterial overgrowth can be treated with a trial of broad-spectrum antimicrobials such as doxycycline (50 or 100 mg daily), making B correct. Loperamide is dosed up to 10 mg daily, not 50 mg, so A is wrong; metoclopramide (C) treats gastroparesis, not overgrowth, and insulin infusion (D) is unrelated. Diabetic enteropathy results from enteric nervous system impairment causing disordered small-bowel and colonic motility; the resulting diarrhea can cause debilitation, poor intake, and hypoglycemia."
+  },
+  {
+   "topic": "Insulin resistance in uremia",
+   "question": "In uremic patients, the primary site of insulin resistance is thought to be:",
+   "options": {
+    "A": "The liver, via increased glucose production",
+    "B": "Skeletal muscle, probably via a postreceptor defect",
+    "C": "Adipose tissue lipolysis",
+    "D": "The pancreatic beta cell"
+   },
+   "correct": "B",
+   "explanation": "In uremia the primary site of insulin resistance is skeletal muscle, probably via a postreceptor defect, making B correct. The literature indicates hepatic glucose production and uptake are normal in uremia (so A is wrong), and the pancreatic beta cell (D) shows reduced secretion but is not the resistance site; adipose lipolysis (C) is not implicated. Insulin resistance occurs in almost all uremic patients and produces hyperglycemia, yet many insulin actions such as potassium uptake and inhibition of proteolysis are preserved."
+  },
+  {
+   "topic": "Preserved insulin actions",
+   "question": "Which insulin actions are maintained (preserved) in renal failure?",
+   "options": {
+    "A": "Hepatic glucose output suppression only",
+    "B": "Potassium uptake by cells and inhibition of proteolysis",
+    "C": "Lipogenesis exclusively",
+    "D": "None of insulin's actions are preserved"
+   },
+   "correct": "B",
+   "explanation": "Many insulin actions are maintained in renal failure, including potassium uptake by cells and inhibition of proteolysis, making B correct. It is not merely hepatic glucose suppression (A) or lipogenesis alone (C), and it is untrue that no actions are preserved (D). The preserved potassium-lowering action is clinically important because insulin is used to treat hyperkalemia, and preserved antiproteolysis matters given the wasting these patients face. Meanwhile insulin resistance predominates in skeletal muscle via a postreceptor defect."
+  },
+  {
+   "topic": "Renal insulin handling",
+   "question": "Of insulin cleared by the healthy kidney, roughly what proportion is cleared via glomerular filtration versus peritubular extraction?",
+   "options": {
+    "A": "60% by glomerular filtration and 40% by peritubular extraction",
+    "B": "40% by glomerular filtration and 60% by peritubular extraction",
+    "C": "90% by glomerular filtration and 10% by extraction",
+    "D": "50% by each route"
+   },
+   "correct": "A",
+   "explanation": "In the healthy kidney insulin is freely filtered, with 60% cleared via glomerular filtration and 40% by extraction from peritubular vessels, making A correct; the reversed and other splits are wrong. Less than 1% of filtered insulin is excreted unchanged in the urine. The kidney is pivotal in insulin metabolism, degrading roughly 6-8 units daily. As renal mass declines, insulin catabolism falls and circulating insulin half-life is prolonged, which is why exogenous insulin doses must be reduced in kidney disease."
+  },
+  {
+   "topic": "Daily renal insulin degradation",
+   "question": "Approximately how much insulin is degraded by the kidney each day, and what fraction of daily pancreatic production does this represent?",
+   "options": {
+    "A": "1-2 units, about 5%",
+    "B": "6-8 units, about 25%",
+    "C": "15-20 units, about 50%",
+    "D": "30 units, about 75%"
+   },
+   "correct": "B",
+   "explanation": "About 6-8 units of insulin are degraded by the kidney each day, roughly 25% of the pancreas's daily insulin production, making B correct; the other figures are too low or too high. Renal insulin metabolism is even enhanced in diabetics on exogenous insulin because injected insulin bypasses the liver and enters the systemic circulation directly. With declining renal mass, this degradation falls and insulin's half-life lengthens, so smaller insulin doses are needed and hypoglycemia risk rises."
+  },
+  {
+   "topic": "Insulin half-life in CKD",
+   "question": "In renal failure, the half-life of circulating insulin is:",
+   "options": {
+    "A": "Shortened due to increased renal clearance",
+    "B": "Prolonged due to decreased renal mass and reduced catabolism",
+    "C": "Unchanged",
+    "D": "Prolonged only in PD patients"
+   },
+   "correct": "B",
+   "explanation": "In renal failure the rate of insulin catabolism falls because of decreased renal mass, so the half-life of circulating insulin is prolonged, making B correct; it is not shortened (A) or unchanged (C), and the prolongation is not limited to PD patients (D). Reduced hepatic insulin metabolism also contributes. Because insulin lingers longer, exogenous doses are intensified and prolonged, which is why diabetic dialysis patients need smaller-than-usual doses and are prone to hypoglycemia. These abnormalities are only partially corrected by maintenance dialysis."
+  },
+  {
+   "topic": "Glucose tolerance test",
+   "question": "Why can the glucose tolerance test not be used to diagnose diabetes in dialysis patients?",
+   "options": {
+    "A": "Serum glucose falls too rapidly in all dialysis patients",
+    "B": "The glucose rise is greater and more prolonged than normal in all dialysis patients due to uremia-induced insulin resistance",
+    "C": "Dialysis removes all administered glucose",
+    "D": "Fasting glucose is always elevated"
+   },
+   "correct": "B",
+   "explanation": "The glucose tolerance test cannot diagnose diabetes in dialysis patients because uremia-induced insulin resistance makes the serum glucose rise greater and more prolonged than normal in all dialysis patients, so B is correct. Glucose does not fall too rapidly (A), dialysis does not remove all administered glucose (C), and fasting glucose is actually normal in nondiabetic HD patients so it is not always elevated (D). In HD patients a high fasting glucose does suggest diabetes, but the provoked GTT response is uninterpretable."
+  },
+  {
+   "topic": "Fasting glucose in PD",
+   "question": "In PD patients without peritonitis, the 'fasting' serum glucose rarely exceeds which value, even with 4.25% dextrose solution?",
+   "options": {
+    "A": "100 mg/dL (5.6 mmol/L)",
+    "B": "160 mg/dL (8.9 mmol/L)",
+    "C": "250 mg/dL (13.9 mmol/L)",
+    "D": "400 mg/dL (22 mmol/L)"
+   },
+   "correct": "B",
+   "explanation": "In PD patients a true fasting state is never achieved because of constant glucose absorption, and without peritonitis the 'fasting' serum glucose rarely exceeds 160 mg/dL (8.9 mmol/L) even with 4.25% dextrose solution, making B correct. Higher values suggest the patient has diabetes. This is why the lower 100 mg/dL (A) and higher 250 or 400 mg/dL thresholds (C, D) are wrong. Note that in icodextrin users, glucose dehydrogenase-based analyzers can spuriously overestimate glucose, a separate measurement pitfall."
+  },
+  {
+   "topic": "Icodextrin glucose measurement",
+   "question": "In CAPD patients using icodextrin, serum glucose may be spuriously overestimated by auto-analyzers using which method?",
+   "options": {
+    "A": "Hexokinase method",
+    "B": "Glucose oxidase method",
+    "C": "Glucose dehydrogenase method",
+    "D": "Immunoassay method"
+   },
+   "correct": "C",
+   "explanation": "In CAPD patients using icodextrin, serum glucose may be spuriously overestimated by auto-analyzers that use the glucose dehydrogenase method, making C correct; the hexokinase (A), glucose oxidase (B), and immunoassay (D) methods are not the culprit cited. Icodextrin and maltose in PD solutions can interfere with certain glucose self-monitoring methods, causing falsely elevated readings that could prompt inappropriate insulin therapy and dangerous hypoglycemia. Awareness of the assay method used is therefore essential in icodextrin-treated patients."
+  },
+  {
+   "topic": "Increased insulin sensitivity",
+   "question": "In diabetic dialysis patients on exogenous insulin, why should smaller-than-usual doses be given?",
+   "options": {
+    "A": "Insulin resistance completely resolves",
+    "B": "Reduced insulin catabolism overrides insulin resistance, intensifying and prolonging insulin effect",
+    "C": "Insulin is rapidly removed by dialysis",
+    "D": "Endogenous insulin production increases"
+   },
+   "correct": "B",
+   "explanation": "In diabetic dialysis patients on exogenous insulin, the importance of reduced insulin catabolism overrides the impact of insulin resistance, so the insulin effect is intensified and prolonged and smaller-than-usual doses should be given, making B correct. Insulin resistance does not fully resolve (A), dialysis does not rapidly clear insulin to require more (C), and endogenous production does not increase (D). Even a modest IV bolus, such as 15 units of regular insulin, can cause severe hypoglycemia, and long-acting insulins like NPH and glargine can also provoke it."
+  },
+  {
+   "topic": "Severe hyperglycemia presentation",
+   "question": "The absence of the 'safety valve' effect of glycosuria in anuric dialysis patients may result in:",
+   "options": {
+    "A": "Severe hyperglycemia with serum glucose exceeding 1,000 mg/dL",
+    "B": "Protection against any hyperglycemia",
+    "C": "Marked hyperosmolar coma from osmotic diuresis",
+    "D": "Persistent hypoglycemia"
+   },
+   "correct": "A",
+   "explanation": "Absence of the glycosuria 'safety valve' in anuric patients can allow severe hyperglycemia with serum glucose exceeding 1,000 mg/dL (56 mmol/L), making A correct. Renal failure does not protect against hyperglycemia (B) and does not cause persistent hypoglycemia (D). Marked hyperosmolar coma from osmotic diuresis (C) is actually unusual here because there is no water loss from osmotic diuresis. Indeed extreme hyperglycemia is often asymptomatic in dialysis patients, though thirst, weight gain, pulmonary edema, or coma can occur."
+  },
+  {
+   "topic": "Hyperglycemia management",
+   "question": "Management of severe hyperglycemia in dialysis patients differs from that in patients without renal failure in that:",
+   "options": {
+    "A": "Large amounts of fluid are essential",
+    "B": "Administration of large amounts of fluid is unnecessary and generally contraindicated",
+    "C": "Insulin should be withheld",
+    "D": "Potassium supplementation is always required"
+   },
+   "correct": "B",
+   "explanation": "Management of severe hyperglycemia in dialysis patients differs from that in patients without renal failure in that large amounts of fluid are unnecessary and generally contraindicated, making B correct. Because there is no osmotic diuresis and thus no large water loss, aggressive fluid replacement (A) risks volume overload and pulmonary edema. Insulin should not be withheld (C); it is often the only treatment needed since it corrects the clinical and laboratory abnormalities. Potassium supplementation is not routinely required (D); hyperkalemia is more the concern."
+  },
+  {
+   "topic": "Low-dose insulin infusion",
+   "question": "A recommended starting rate for a continuous low-dose regular insulin infusion to manage severe hyperglycemia in a dialysis patient is:",
+   "options": {
+    "A": "0.5 units/hr",
+    "B": "2 units/hr",
+    "C": "10 units/hr",
+    "D": "20 units/hr"
+   },
+   "correct": "B",
+   "explanation": "Severe hyperglycemia can be managed with a continuous infusion of low-dose regular insulin starting at 2 units/hr, making B correct; the other rates are too low or dangerously high. Serum glucose and potassium should be measured every 2-3 hours, and electrocardiography performed if severe hyperkalemia is present. Large fluid loads are unnecessary and contraindicated. Emergency dialysis may be needed if there is severe pulmonary edema or life-threatening hyperkalemia, but insulin alone often corrects the metabolic abnormalities."
+  },
+  {
+   "topic": "Hypoglycemia contributors",
+   "question": "Which factor contributes to hypoglycemia risk in dialysis patients through impaired counterregulation?",
+   "options": {
+    "A": "Increased renal gluconeogenesis",
+    "B": "Impaired epinephrine release due to autonomic neuropathy",
+    "C": "Enhanced hepatic insulin metabolism",
+    "D": "Increased caloric intake"
+   },
+   "correct": "B",
+   "explanation": "Impaired release of the counterregulatory hormone epinephrine due to the autonomic neuropathy of renal failure contributes to hypoglycemia, making B correct. Renal gluconeogenesis is reduced, not increased (A), hepatic insulin metabolism is decreased, not enhanced (C), and caloric intake is often decreased from anorexia, not increased (D). Other contributors include decreased insulin clearance, decreased metabolism of drugs like alcohol and propranolol, hypoglycemic unawareness, and gastroparesis. Avoiding hypoglycemia is often the rate-limiting step in achieving good control."
+  },
+  {
+   "topic": "Dialysate glucose target",
+   "question": "To prevent severe hypoglycemia during or after HD, the dialysate for diabetic patients should contain glucose at about:",
+   "options": {
+    "A": "0 mg/dL (glucose-free)",
+    "B": "45 mg/dL (2.5 mM)",
+    "C": "90 mg/dL (5 mM)",
+    "D": "300 mg/dL (17 mM)"
+   },
+   "correct": "C",
+   "explanation": "In diabetic patients the HD solution should always contain about 90 mg/dL (5 mM) glucose, making C correct; a glucose-free bath (A) can cause severe hypoglycemia during or soon after HD, and 45 mg/dL (B) is too low while 300 mg/dL (D) is excessive. Adding glucose to the dialysate prevents the hypoglycemia that would otherwise result from dialytic glucose removal. Higher dialysate glucose of 200 mg/dL increases hyperglycemia frequency without protecting against hypoglycemia any better than the 90 mg/dL option."
+  },
+  {
+   "topic": "Higher dialysate glucose",
+   "question": "Using a higher dialysate glucose of 200 mg/dL (11 mM) in HD, compared with 90 mg/dL, may:",
+   "options": {
+    "A": "Increase hyperglycemia frequency without better protection against hypoglycemia",
+    "B": "Eliminate all hypoglycemia risk",
+    "C": "Have no effect on glucose levels",
+    "D": "Reliably prevent hyperglycemia"
+   },
+   "correct": "A",
+   "explanation": "A higher dialysate glucose of 200 mg/dL (11 mM), compared with 90 mg/dL, may increase the frequency of hyperglycemia without protecting against hypoglycemic episodes any better, making A correct. It does not eliminate hypoglycemia risk (B), it clearly affects glucose levels (C), and it does not reliably prevent hyperglycemia (D). The recommended 90 mg/dL (5 mM) dialysate glucose adequately prevents the severe hypoglycemia that a glucose-free bath causes, so raising it further offers no benefit and may worsen glycemic swings."
+  },
+  {
+   "topic": "Glycemic targets",
+   "question": "Reasonable glycemic control for a diabetic patient on chronic dialysis is generally considered to be a fasting glucose below 140 mg/dL, a 1-hour postprandial value below 200 mg/dL, and an HbA1c of:",
+   "options": {
+    "A": "Less than 6%",
+    "B": "Between 7% and 8%",
+    "C": "Between 9% and 10%",
+    "D": "Greater than 10%"
+   },
+   "correct": "B",
+   "explanation": "Reasonable glycemic control on chronic dialysis is a fasting glucose below 140 mg/dL, a 1-hour postprandial value below 200 mg/dL, and an HbA1c between 7% and 8%, making B correct; targets below 6% or above 9% are not recommended. However, the optimal HbA1c for the best outcome in dialysis patients has not been established, and large studies show no clear survival benefit from tighter control but a much higher hypoglycemia risk. HbA1c can also be misleading here because ESAs and iron lower it."
+  },
+  {
+   "topic": "Glycemic control and survival",
+   "question": "Several large studies of glycemic control and survival in diabetic dialysis patients found:",
+   "options": {
+    "A": "Strict control clearly improves survival with no added risk",
+    "B": "No significant correlation between glycemic control and survival, but a much higher hypoglycemia risk with stricter control",
+    "C": "Looser control improves survival",
+    "D": "Glycemic control has no effect on hypoglycemia risk"
+   },
+   "correct": "B",
+   "explanation": "Several large studies found no significant correlation between glycemic control and survival, yet a much higher risk of hypoglycemia with stricter glycemic control, making B correct. There is no proven survival benefit from strict control with no added risk (A), looser control does not improve survival (C), and glycemic control clearly does affect hypoglycemia risk (D). Because avoiding hypoglycemia is often the rate-limiting step, aggressive targets are discouraged; the HbA1c associated with best outcome remains unestablished in this population."
+  },
+  {
+   "topic": "HbA1c limitations",
+   "question": "HbA1c may be inaccurate (falsely reduced) in dialysis patients because of:",
+   "options": {
+    "A": "Administration of erythropoiesis-stimulating agents (ESAs) and iron",
+    "B": "High serum albumin",
+    "C": "Use of glipizide",
+    "D": "Increased red cell lifespan"
+   },
+   "correct": "A",
+   "explanation": "HbA1c can be falsely reduced by administration of erythropoiesis-stimulating agents (ESAs) and iron, making A correct. High albumin (B), glipizide use (C), and increased red cell lifespan (D) are not the cited causes; in fact ESA therapy shortens the exposure of hemoglobin to glucose by promoting young red cells. Because of this limitation, glycated albumin has been suggested as a more accurate marker since it is independent of the hemoglobin level, though that test is not readily available."
+  },
+  {
+   "topic": "Glycated albumin",
+   "question": "Glycated albumin has been suggested to more accurately assess glycemic control in dialysis patients because it:",
+   "options": {
+    "A": "Is affected by the hemoglobin level",
+    "B": "Is not affected by the hemoglobin level",
+    "C": "Is removed by dialysis",
+    "D": "Requires no laboratory equipment"
+   },
+   "correct": "B",
+   "explanation": "Glycated albumin is not affected by the hemoglobin level, so it has been suggested to more accurately assess glycemic control in dialysis patients, making B correct. HbA1c, by contrast, can be reduced by ESAs and iron and is affected by hemoglobin, so option A describes the wrong property. Glycated albumin is not primarily removed by dialysis (C) and does require laboratory equipment (D). Its main practical drawback is that the test is not readily available, limiting routine use despite its theoretical advantage."
+  },
+  {
+   "topic": "Insulin dose adjustment by GFR",
+   "question": "According to the Snyder recommendations, when the GFR is less than 10 mL/min, the insulin dose should be:",
+   "options": {
+    "A": "Not adjusted",
+    "B": "Reduced by 25%",
+    "C": "Reduced by 50%",
+    "D": "Increased by 25%"
+   },
+   "correct": "C",
+   "explanation": "Per the Snyder recommendations, insulin should be reduced by 50% when GFR is less than 10 mL/min, making C correct. No adjustment is needed above 50 mL/min, and a 25% reduction applies at GFR 10-50 mL/min, so options A, B, and D misstate the graded scheme. These reductions reflect the prolonged insulin half-life from decreased renal catabolism as kidney function falls. Applying them helps prevent the intensified, prolonged insulin action and hypoglycemia that otherwise threaten patients with advanced kidney disease."
+  },
+  {
+   "topic": "Insulin dosing example",
+   "question": "For a 70-kg ESKD patient dosed at 0.3 units/kg total daily insulin, the total daily dose and its typical basal (glargine) split are approximately:",
+   "options": {
+    "A": "42 units total, 21 units basal",
+    "B": "21 units total, 10 units basal",
+    "C": "14 units total, 7 units basal",
+    "D": "10 units total, 5 units basal"
+   },
+   "correct": "B",
+   "explanation": "For a 70-kg ESKD patient dosed at 0.3 units/kg, the total daily insulin is 70 x 0.3 = 21 units, of which about half (10 units) is given as once-daily basal glargine, making B correct. The 42-unit figure (A) corresponds to the un-reduced 0.6 units/kg, while 14 and 10 total (C, D) are too low. The remaining roughly 11 units are given as rapid-acting insulin over three meals (3-4 units each). The 0.3 units/kg reflects a 50% reduction from a typical 0.6 units/kg dose for ESKD."
+  },
+  {
+   "topic": "NPH regimen split",
+   "question": "When using NPH plus rapid-acting insulin for a total daily dose of 21 units, how is the NPH portion typically distributed?",
+   "options": {
+    "A": "All 21 units as NPH at bedtime",
+    "B": "Two-thirds (14 units) as NPH, with 9 units at breakfast and 5 units at bedtime",
+    "C": "Half as NPH given once at lunch",
+    "D": "One-third as NPH given at dinner"
+   },
+   "correct": "B",
+   "explanation": "When using NPH plus rapid-acting insulin for a 21-unit total daily dose, two-thirds (14 units) is given as NPH, with 9 units at breakfast and 5 units at bedtime, making B correct. The non-NPH remainder (7 units) is rapid-acting insulin, 3 units at breakfast and 4 units at dinner; a lunchtime dose is unnecessary because the morning NPH peaks then. Options giving all NPH at bedtime (A), half at lunch (C), or one-third at dinner (D) do not match the recommended split."
+  },
+  {
+   "topic": "Mealtime insulin timing",
+   "question": "Taking mealtime insulin just after the meal rather than before is considered safer because it:",
+   "options": {
+    "A": "Increases insulin potency",
+    "B": "Allows the dose to be reduced if the entire meal is not eaten",
+    "C": "Prevents all hyperglycemia",
+    "D": "Eliminates the need for basal insulin"
+   },
+   "correct": "B",
+   "explanation": "Taking mealtime insulin just after the meal rather than before is safer because it allows the dose to be reduced if the entire meal is not eaten, making B correct. For example, if only 50% of the meal is eaten, only 50% of the dose is taken. It does not increase insulin potency (A), does not prevent all hyperglycemia (C), and does not eliminate the need for basal insulin (D). This matching of dose to intake helps prevent hypoglycemia, especially in patients with unpredictable appetite or gastroparesis."
+  },
+  {
+   "topic": "Home glucose monitoring",
+   "question": "Patients receiving insulin therapy at home should monitor their glucose at least:",
+   "options": {
+    "A": "Once weekly",
+    "B": "Once daily at noon",
+    "C": "Twice daily, in the morning and at bedtime",
+    "D": "Only on dialysis days"
+   },
+   "correct": "C",
+   "explanation": "Patients receiving insulin therapy at home should monitor glucose at least twice daily, in the morning and at bedtime, making C correct; weekly (A), single midday (B), or dialysis-day-only (D) monitoring is inadequate. Close monitoring guides individualized dose adjustments. A reasonable correction dose is about 1 extra unit for every 50 mg/dL above the patient's target (for example a target of 150 mg/dL). Frequent self-monitoring is essential given the narrow margin between control and hypoglycemia in these patients."
+  },
+  {
+   "topic": "HD effect on insulin sensitivity",
+   "question": "Hemodialysis has been shown to affect glucose handling by:",
+   "options": {
+    "A": "Worsening tissue insulin sensitivity",
+    "B": "Improving both tissue sensitivity to insulin and insulin secretory response to glucose",
+    "C": "Abolishing endogenous insulin secretion",
+    "D": "Having no measurable effect"
+   },
+   "correct": "B",
+   "explanation": "Hemodialysis improves both tissue sensitivity to insulin and the insulin secretory response to glucose, making B correct; it does not worsen sensitivity (A), abolish endogenous secretion (C), or have no effect (D). The mechanism is unknown but improved acid-base status may contribute. Because HD simultaneously improves tissue sensitivity and hepatic insulin metabolism, the net insulin requirement is unpredictable when dialysis begins, so careful observation is essential. Insulin timing is also adjusted around dialysis when meal times shift."
+  },
+  {
+   "topic": "PD glucose absorption",
+   "question": "A 1.5% dextrose PD solution provides a glucose concentration of about 1,364 mg/dL, which relative to plasma is:",
+   "options": {
+    "A": "Well below plasma glucose",
+    "B": "Equal to plasma glucose",
+    "C": "Well above plasma glucose",
+    "D": "Only relevant with icodextrin"
+   },
+   "correct": "C",
+   "explanation": "A 1.5% dextrose PD solution provides a glucose concentration of about 1,364 mg/dL, well above that of plasma, making C correct. The calculation adjusts glucose monohydrate (MW 198) to glucose (MW 180): 1,500 x 180/198 = 1,364 mg (76 mmol/L). Because this far exceeds plasma glucose, glucose is absorbed from the dialysate, increasing the need for blood glucose-lowering therapy. Options calling it below (A) or equal to (B) plasma glucose, or icodextrin-specific (D), misread the concentration gradient driving absorption."
+  },
+  {
+   "topic": "Intraperitoneal insulin route",
+   "question": "A physiologic advantage of intraperitoneal insulin administration is that it:",
+   "options": {
+    "A": "Bypasses the portal circulation",
+    "B": "Supplies insulin to the liver via the portal vein, mimicking pancreatic insulin delivery",
+    "C": "Reduces total insulin dose requirements",
+    "D": "Prevents bacterial contamination"
+   },
+   "correct": "B",
+   "explanation": "A physiologic advantage of intraperitoneal insulin is that it supplies insulin to the liver via the portal vein, mimicking how pancreatic insulin reaches the liver, making B correct; it does not bypass the portal circulation (A). It also provides continuous or near-continuous insulin presence and eliminates injections. It does not reduce total insulin requirements (C); doses are actually higher due to losses in spent dialysate. And it increases rather than prevents bacterial contamination and peritonitis risk (D), which is why IP insulin is now used only rarely."
+  },
+  {
+   "topic": "Intraperitoneal insulin risks",
+   "question": "Which is a concern with intraperitoneal insulin administration?",
+   "options": {
+    "A": "Reduced total insulin requirement",
+    "B": "Risk of peritoneal fibroblastic proliferation and hepatic subcapsular steatosis",
+    "C": "Complete elimination of injection needs without any downside",
+    "D": "Decreased peritonitis risk"
+   },
+   "correct": "B",
+   "explanation": "Concerns with intraperitoneal insulin include the risk of peritoneal fibroblastic proliferation and hepatic subcapsular steatosis, making B correct. It does not reduce total insulin requirement (A); higher doses are needed because insulin is lost in spent dialysate. It does not eliminate injections without downside (C), and it increases rather than decreases peritonitis risk (D) through bacterial contamination during injection into the bags. These disadvantages, especially the fibrosis and steatosis risk, explain why IP insulin is now rarely employed despite its physiologic appeal."
+  },
+  {
+   "topic": "IP insulin needle",
+   "question": "If intraperitoneal insulin is used, it is recommended to inject the full dose using:",
+   "options": {
+    "A": "A short 0.5-cm insulin needle",
+    "B": "A long 3.8-cm (1.5 in) needle to avoid trapping insulin in the infusion port",
+    "C": "An indwelling arterial line",
+    "D": "The peritoneal catheter side arm only"
+   },
+   "correct": "B",
+   "explanation": "If intraperitoneal insulin is used, a long 3.8-cm (1.5 in) needle is recommended to ensure the full dose is injected into the dialysis solution container rather than being trapped in the infusion port, making B correct. A short needle (A) risks depositing insulin in the port, giving an inadequate dose; an arterial line (C) or the catheter side arm (D) are not the route. After injection the solution container should be inverted several times to ensure proper mixing of insulin throughout the dialysate."
+  },
+  {
+   "topic": "Insulin pump and HD",
+   "question": "For a fragile type 1 diabetic on a continuous subcutaneous insulin infusion pump, a recommended approach around HD is to:",
+   "options": {
+    "A": "Increase the infusion rate during dialysis",
+    "B": "Shut off the infusion about 1 hour before HD and resume shortly after the session",
+    "C": "Remove the pump permanently",
+    "D": "Give a bolus at the start of dialysis"
+   },
+   "correct": "B",
+   "explanation": "For a fragile type 1 diabetic on a continuous subcutaneous insulin infusion pump, the recommended approach is to shut off the infusion about 1 hour before HD and resume shortly after the session is completed, making B correct. Increasing the rate during dialysis (A) or bolusing at the start (D) would risk hypoglycemia given HD's improvement in insulin sensitivity, and the pump need not be removed permanently (C). Pump therapy is chosen precisely because frequent hypoglycemia is a problem, so peri-dialysis suspension adds a safety margin."
+  },
+  {
+   "topic": "Oral agent utilization",
+   "question": "In a 2010 survey of U.S. dialysis patients with diabetes receiving glycemic therapy, which agents made up the great majority of oral agents used?",
+   "options": {
+    "A": "Metformin and acarbose",
+    "B": "Sulfonylureas or thiazolidinediones",
+    "C": "DPP-4 inhibitors and GLP-1 agonists",
+    "D": "SGLT-2 inhibitors and meglitinides"
+   },
+   "correct": "B",
+   "explanation": "In a 2010 survey of U.S. dialysis patients with diabetes, the great majority of oral agents used were either sulfonylureas or thiazolidinediones, making B correct. Metformin is avoided in dialysis (A), and the newer DPP-4 inhibitors, GLP-1 agonists, SGLT-2 inhibitors, and meglitinides (C, D) were less commonly used at that time. Overall, 80% of patients received some glycemic therapy: most on insulin alone, some on insulin plus an oral agent, and about a quarter on an oral agent only. Practice may shift as experience with newer agents grows."
+  },
+  {
+   "topic": "Sulfonylurea mechanism",
+   "question": "Sulfonylureas lower blood glucose by:",
+   "options": {
+    "A": "Inhibiting intestinal glucose absorption",
+    "B": "Binding the sulfonylurea receptor to close potassium channels, triggering calcium influx and insulin release",
+    "C": "Increasing urinary glucose excretion",
+    "D": "Directly inhibiting hepatic gluconeogenesis via mitochondria"
+   },
+   "correct": "B",
+   "explanation": "Sulfonylureas bind the sulfonylurea receptor, part of the potassium channel on pancreatic beta cells, causing channel closure and membrane depolarization, which opens voltage-gated calcium channels; the calcium influx triggers release of preformed insulin, making B correct. They do not inhibit intestinal glucose absorption (A, that is alpha-glucosidase inhibitors), increase urinary glucose excretion (C, SGLT-2 inhibitors), or act on hepatic mitochondria (D, metformin). Because they require preformed endogenous insulin, they lose efficacy in long-standing diabetics who produce little."
+  },
+  {
+   "topic": "Sulfonylurea of choice",
+   "question": "Which sulfonylurea is considered the agent of choice in dialysis patients, and why?",
+   "options": {
+    "A": "Glyburide, because it has active renally excreted metabolites",
+    "B": "Glimepiride, because of its long half-life",
+    "C": "Glipizide, because its metabolite has little hypoglycemic activity and a short half-life",
+    "D": "Chlorpropamide, a first-generation agent"
+   },
+   "correct": "C",
+   "explanation": "Glipizide is the sulfonylurea of choice in dialysis patients because its metabolite has little or no hypoglycemic activity and a short half-life of 2-4 hours, making C correct, even though glipizide's renal excretion is high (80%-85%). Glyburide (A) and glimepiride (B) have active, renally excreted metabolites with long half-lives and are not recommended in ESKD; chlorpropamide (D) is an obsolete first-generation agent. All second-generation sulfonylureas undergo hepatic metabolism with variable renal excretion, but glipizide's inactive short-lived metabolite makes it safest."
+  },
+  {
+   "topic": "Glyburide in ESKD",
+   "question": "Glyburide and glimepiride are not recommended in ESKD patients because they:",
+   "options": {
+    "A": "Have active metabolites with long half-lives that are renally excreted",
+    "B": "Are removed too rapidly by dialysis",
+    "C": "Cause lactic acidosis",
+    "D": "Have no hypoglycemic effect"
+   },
+   "correct": "A",
+   "explanation": "Glyburide and glimepiride are not recommended in ESKD because they have active metabolites with relatively long half-lives that are renally excreted, making A correct. They are not removed too rapidly by dialysis (B), do not cause lactic acidosis (C, that is metformin), and clearly retain hypoglycemic effect (D). In renal failure these active metabolites accumulate and cause prolonged, dangerous hypoglycemia. This contrasts with glipizide, whose metabolite has little hypoglycemic activity and a short half-life, making it the preferred sulfonylurea in dialysis."
+  },
+  {
+   "topic": "Sulfonylurea limitation",
+   "question": "A conceptual reason sulfonylureas are suboptimal in long-standing ESKD diabetics is that their mechanism:",
+   "options": {
+    "A": "Requires normal kidney function to work",
+    "B": "Presupposes the patient still produces some endogenous insulin, which many long-term diabetics do not",
+    "C": "Depends on urinary glucose excretion",
+    "D": "Is blocked by dialysate glucose"
+   },
+   "correct": "B",
+   "explanation": "Sulfonylureas facilitate insulin release, which presupposes the patient still produces some endogenous insulin, making B correct; their action does not require normal kidney function (A), urinary glucose excretion (C), or depend on dialysate glucose (D). Endogenous insulin, assessed by C-peptide, is highest in recently diagnosed diabetes and declines with disease duration. Since most dialysis patients have had diabetes a long time and may make little or no insulin, they often cannot respond to sulfonylureas, a key conceptual limitation of this class in ESKD."
+  },
+  {
+   "topic": "Metformin mechanism",
+   "question": "Metformin lowers glucose primarily by:",
+   "options": {
+    "A": "Stimulating pancreatic insulin secretion",
+    "B": "Acutely decreasing hepatic glucose production by transiently inhibiting the mitochondrial respiratory chain",
+    "C": "Blocking renal glucose reabsorption",
+    "D": "Delaying gastric emptying"
+   },
+   "correct": "B",
+   "explanation": "Metformin acutely decreases hepatic glucose production by transiently inhibiting the respiratory enzyme chain in mitochondria, making B correct; it does not stimulate insulin secretion (A, sulfonylureas), block renal glucose reabsorption (C, SGLT-2 inhibitors), or delay gastric emptying (D, GLP-1 agonists/pramlintide). Metformin's advantages include a very low incidence of hypoglycemia, weight loss instead of gain, and favorable lipid effects. However, its rare complication of life-threatening lactic acidosis, worsened by reduced renal function, precludes use in dialysis patients."
+  },
+  {
+   "topic": "Metformin in dialysis",
+   "question": "Metformin should not be used in dialysis patients primarily because of the risk of:",
+   "options": {
+    "A": "Weight gain and edema",
+    "B": "Life-threatening lactic acidosis, as it is renally excreted unchanged and accumulates",
+    "C": "Hypoglycemic coma from insulin release",
+    "D": "Bladder cancer"
+   },
+   "correct": "B",
+   "explanation": "Metformin should not be used in dialysis patients mainly because of the risk of life-threatening lactic acidosis; it is not metabolized and about 90% is excreted as active drug by the kidneys, so it accumulates when renal function falls, making B correct. It causes weight loss rather than gain (A), has a very low hypoglycemia risk so hypoglycemic coma is not the issue (C), and bladder cancer (D) is a pioglitazone concern. Plasma metformin levels rise substantially with reduced creatinine clearance, raising acidosis risk in comorbid patients."
+  },
+  {
+   "topic": "Metformin label warning",
+   "question": "The U.S. drug label warns against metformin use when serum creatinine exceeds:",
+   "options": {
+    "A": "1.5 mg/dL in males or 1.4 mg/dL in females",
+    "B": "2.5 mg/dL in both sexes",
+    "C": "0.8 mg/dL in males or 0.6 mg/dL in females",
+    "D": "3.0 mg/dL in males"
+   },
+   "correct": "A",
+   "explanation": "The U.S. metformin label warns against use when serum creatinine exceeds 1.5 mg/dL (130 micromol/L) in males or 1.4 mg/dL (124 micromol/L) in females, making A correct; the other thresholds are incorrect. Some studies suggest metformin can be used with relative safety down to a GFR of about 45 mL/min, so the creatinine-based label is debated. Regardless, metformin should not be used in dialysis patients because it is renally excreted unchanged and accumulates, raising the risk of rare but life-threatening lactic acidosis."
+  },
+  {
+   "topic": "Alpha-glucosidase inhibitors",
+   "question": "Acarbose and miglitol lower postprandial glucose by:",
+   "options": {
+    "A": "Competitively and reversibly inhibiting gut enzymes that break oligosaccharides into simple sugars",
+    "B": "Stimulating endogenous insulin secretion",
+    "C": "Increasing renal glucose excretion",
+    "D": "Inhibiting DPP-4"
+   },
+   "correct": "A",
+   "explanation": "Acarbose and miglitol are alpha-glucosidase inhibitors that competitively and reversibly inhibit gut enzymes mediating the intestinal breakdown of oligosaccharides into simple sugars, thereby limiting their absorption, making A correct. They do not stimulate endogenous insulin secretion (B), increase renal glucose excretion (C), or inhibit DPP-4 (D). Because postprandial glucose surges are blunted without stimulating insulin, their hypoglycemia risk is relatively low. However, plasma levels of acarbose, its metabolites, and miglitol rise in renal impairment."
+  },
+  {
+   "topic": "Alpha-glucosidase inhibitors in ESKD",
+   "question": "Regarding acarbose and miglitol in dialysis patients, the chapter states that:",
+   "options": {
+    "A": "Both are preferred agents",
+    "B": "Neither has been well studied when eGFR is below 25 mL/min, and their use is not recommended in dialysis",
+    "C": "Only miglitol is safe in dialysis",
+    "D": "They require no dose adjustment"
+   },
+   "correct": "B",
+   "explanation": "Neither acarbose nor miglitol has been well studied when eGFR is below 25 mL/min per 1.73 m2, and their use is generally not recommended in dialysis patients, making B correct; they are not preferred agents (A), miglitol is not established as safe in dialysis (C), and they are not simply used unadjusted (D). In reduced renal function, plasma levels of acarbose and its metabolites increase, and miglitol, which is absorbed more than acarbose and excreted unchanged in urine, also accumulates, making both problematic in advanced kidney disease."
+  },
+  {
+   "topic": "PPAR-gamma agonist action",
+   "question": "PPAR-gamma agonists such as pioglitazone and rosiglitazone lower glucose by:",
+   "options": {
+    "A": "Increasing urinary glucose loss",
+    "B": "Sensitizing target tissues to insulin, increasing glucose uptake in muscle and fat, and decreasing hepatic glucose production",
+    "C": "Stimulating insulin secretion from beta cells",
+    "D": "Inhibiting intestinal carbohydrate digestion"
+   },
+   "correct": "B",
+   "explanation": "PPAR-gamma agonists such as pioglitazone and rosiglitazone sensitize target tissues to insulin, increase glucose uptake in muscle and adipose tissue, and decrease hepatic glucose production, making B correct. They do not increase urinary glucose loss (A, SGLT-2 inhibitors), stimulate beta-cell insulin secretion (C, sulfonylureas), or inhibit intestinal carbohydrate digestion (D, alpha-glucosidase inhibitors). They may also have beneficial anti-inflammatory, vascular, and hypolipidemic effects, but both agents can cause sodium and water retention leading to edema and heart failure."
+  },
+  {
+   "topic": "Pioglitazone in HD",
+   "question": "Regarding pioglitazone dosing in hemodialysis patients:",
+   "options": {
+    "A": "It must be reduced by 50%",
+    "B": "It requires no dose reduction and has been found safe and effective",
+    "C": "It is contraindicated in all HD patients",
+    "D": "It must be given only after dialysis"
+   },
+   "correct": "B",
+   "explanation": "Pioglitazone is metabolized primarily by the liver, requires no dose reduction, and was found safe and effective as monotherapy and add-on therapy in HD patients studied up to 96 weeks, making B correct. It does not need a 50% reduction (A), is not contraindicated in all HD patients (C), and need not be timed around dialysis (D). Its hepatic clearance explains the lack of renal dose adjustment. The main caution is its association with bladder cancer, plus the thiazolidinedione class risks of fluid retention, edema, and heart failure."
+  },
+  {
+   "topic": "Pioglitazone warning",
+   "question": "Pioglitazone carries a specific warning regarding an association with:",
+   "options": {
+    "A": "Bladder cancer",
+    "B": "Medullary thyroid carcinoma",
+    "C": "Pancreatitis",
+    "D": "Lactic acidosis"
+   },
+   "correct": "A",
+   "explanation": "Pioglitazone carries a specific warning regarding an association with bladder cancer, making A correct; medullary thyroid carcinoma (B) applies to GLP-1 agonists, pancreatitis (C) to incretins, and lactic acidosis (D) to metformin. In the U.S. the label advises avoiding pioglitazone in patients with active bladder cancer and weighing risks versus benefits before initiating it in those with a history of bladder cancer. Despite this concern, pioglitazone needs no renal dose reduction and was safe and effective in HD patients over long-term study."
+  },
+  {
+   "topic": "Rosiglitazone cardiovascular risk",
+   "question": "In 2007, rosiglitazone use was restricted in the United States after data linked it to:",
+   "options": {
+    "A": "Increased risk of myocardial infarction and cardiovascular death",
+    "B": "Bladder cancer",
+    "C": "Severe hypoglycemia",
+    "D": "Lactic acidosis"
+   },
+   "correct": "A",
+   "explanation": "In 2007 a review of available data linked rosiglitazone with an increased risk of myocardial infarction and cardiovascular death, restricting its U.S. use, making A correct; bladder cancer (B) is a pioglitazone concern, and severe hypoglycemia (C) and lactic acidosis (D) are not the issue. The FDA partially lifted the restriction in November 2013, but rosiglitazone remained suspended in Europe and other countries. Like pioglitazone, it is hepatically metabolized and needs no renal dose adjustment, but its cardiovascular signal limits its use."
+  },
+  {
+   "topic": "Thiazolidinedione side effects",
+   "question": "Both pioglitazone and rosiglitazone have been associated with weight gain, edema, and congestive heart failure, thought to be due to:",
+   "options": {
+    "A": "Increased renal retention of sodium and water",
+    "B": "Direct myocardial toxicity from lactate",
+    "C": "Hypoglycemia-induced fluid shifts",
+    "D": "Protein loss into dialysate"
+   },
+   "correct": "A",
+   "explanation": "Both pioglitazone and rosiglitazone have been associated with weight gain, edema, and congestive heart failure, thought to result from increased renal retention of sodium and water, making A correct. The mechanism is not direct myocardial lactate toxicity (B), hypoglycemia-induced fluid shifts (C), or protein loss into dialysate (D). Because of this fluid retention, thiazolidinediones may cause fluid overload in CKD patients not yet on dialysis. Acute myopathy has also been reported when glitazones are given together with fibrates."
+  },
+  {
+   "topic": "Repaglinide pharmacology",
+   "question": "Repaglinide, a meglitinide, differs from sulfonylureas in that it:",
+   "options": {
+    "A": "Has a much shorter duration of action and is eliminated almost entirely by hepatic metabolism",
+    "B": "Is entirely renally excreted as active drug",
+    "C": "Does not act as an insulin secretagogue",
+    "D": "Cannot cause hypoglycemia at all"
+   },
+   "correct": "A",
+   "explanation": "Repaglinide, a meglitinide, differs from sulfonylureas in that it has a much shorter duration of action (half-life 1-1.5 hours) and is eliminated almost entirely by hepatic metabolism with biliary or fecal excretion, only about 8% appearing in urine, making A correct. It is not renally excreted as active drug (B), it is an insulin secretagogue like the sulfonylureas (C), and it can cause hypoglycemia, though somewhat less (D). It is not contraindicated in renal disease but should be started low (0.5 mg) and titrated cautiously."
+  },
+  {
+   "topic": "Nateglinide in dialysis",
+   "question": "In contrast to repaglinide, nateglinide should be avoided or used with greatest caution in dialysis patients because it is:",
+   "options": {
+    "A": "90% excreted by the kidney, primarily as active metabolites",
+    "B": "Not an insulin secretagogue",
+    "C": "Removed entirely by dialysis",
+    "D": "Only available intravenously"
+   },
+   "correct": "A",
+   "explanation": "In contrast to repaglinide, nateglinide is 90% excreted by the kidney, primarily as active metabolites, so its use in dialysis should be avoided or done with the greatest caution, making A correct. It is an insulin secretagogue (B is wrong), and it is not simply removed by dialysis (C) or IV-only (D). Because its active metabolites accumulate in renal failure, the hypoglycemia risk is high, unlike repaglinide, which is mainly hepatically cleared and therefore usable with caution in renal disease."
+  },
+  {
+   "topic": "GLP-1 agonist actions",
+   "question": "GLP-1 receptor agonists produce their glucose-lowering effects that are glucose-dependent, meaning the effects on insulin and glucagon:",
+   "options": {
+    "A": "Occur only in the presence of hyperglycemia, giving little hypoglycemic risk as monotherapy",
+    "B": "Occur continuously regardless of glucose level",
+    "C": "Cause frequent severe hypoglycemia",
+    "D": "Require intact renal function"
+   },
+   "correct": "A",
+   "explanation": "GLP-1 receptor agonist effects on insulin and glucagon are glucose-dependent, occurring only in the presence of hyperglycemia, which gives little hypoglycemic risk as monotherapy, making A correct. The effects are not continuous regardless of glucose (B), do not cause frequent severe hypoglycemia (C), and do not require intact renal function to occur (D). GLP-1 also delays gastric emptying and inhibits appetite, producing weight loss. Because natural GLP-1 is degraded by DPP-4, these degradation-resistant agonists and DPP-4 inhibitors both exploit the incretin pathway."
+  },
+  {
+   "topic": "Exenatide in ESKD",
+   "question": "Exenatide, which is excreted mainly by the kidneys, is not recommended for patients with eGFR below:",
+   "options": {
+    "A": "60 mL/min per 1.73 m2",
+    "B": "45 mL/min per 1.73 m2",
+    "C": "30 mL/min per 1.73 m2",
+    "D": "15 mL/min per 1.73 m2"
+   },
+   "correct": "C",
+   "explanation": "Exenatide is excreted mainly by the kidneys and its half-life increases with declining renal function, so it is not recommended for eGFR below 30 mL/min per 1.73 m2, making C correct; the higher thresholds are incorrect. It was well tolerated in mild-to-moderate renal insufficiency without dose adjustment but not in ESKD due to nausea and vomiting. It also carries warnings for medullary thyroid carcinoma and MEN type 2 and a possible link to pancreatitis, so caution extends to kidney transplant recipients as well."
+  },
+  {
+   "topic": "Incretin thyroid warning",
+   "question": "Both exenatide and liraglutide are contraindicated in patients with a personal or family history of:",
+   "options": {
+    "A": "Bladder cancer",
+    "B": "Medullary thyroid carcinoma and MEN type 2",
+    "C": "Lactic acidosis",
+    "D": "Pancreatic pseudocyst"
+   },
+   "correct": "B",
+   "explanation": "Both exenatide and liraglutide are contraindicated in patients with a personal or family history of medullary thyroid carcinoma and in those with multiple endocrine neoplasia syndrome type 2, making B correct; bladder cancer (A) is a pioglitazone concern, lactic acidosis (C) is metformin, and pancreatic pseudocyst (D) is not the warning. Exenatide caused increased thyroid C-cell tumors in rats at clinically relevant exposures; whether it does so in humans is unknown, but the class carries this precaution along with a possible association with pancreatitis."
+  },
+  {
+   "topic": "Liraglutide renal handling",
+   "question": "In contrast to exenatide, liraglutide's pharmacokinetics are little altered by kidney disease because only about what fraction is renally excreted?",
+   "options": {
+    "A": "About 6% (as metabolites)",
+    "B": "About 40%",
+    "C": "About 63%",
+    "D": "About 90%"
+   },
+   "correct": "A",
+   "explanation": "In contrast to exenatide, only about 6% of liraglutide (as metabolites) is excreted by the kidneys, so its pharmacokinetics are little altered by kidney disease, making A correct; the larger fractions listed apply to other drugs. No dose adjustment is required in U.S. labeling, but liraglutide should be used cautiously in advanced kidney impairment because experience is limited and nausea is increased at eGFR below 60. Like exenatide, it carries warnings regarding medullary thyroid carcinoma, MEN type 2, and pancreatitis."
+  },
+  {
+   "topic": "DPP-4 inhibitor mechanism",
+   "question": "DPP-4 inhibitors lower glucose by:",
+   "options": {
+    "A": "Inhibiting the enzyme that rapidly degrades endogenous incretin hormones such as GLP-1",
+    "B": "Directly binding the sulfonylurea receptor",
+    "C": "Increasing urinary glucose excretion",
+    "D": "Inhibiting mitochondrial respiration in the liver"
+   },
+   "correct": "A",
+   "explanation": "DPP-4 inhibitors lower glucose by inhibiting the enzyme DPP-4, which rapidly degrades endogenous incretin hormones such as GLP-1, making A correct. They do not bind the sulfonylurea receptor (B), increase urinary glucose excretion (C, SGLT-2 inhibitors), or inhibit hepatic mitochondrial respiration (D, metformin). By protecting endogenous GLP-1, they enhance insulin secretion, suppress glucagon, delay gastric emptying, and decrease appetite in a glucose-dependent way, giving low hypoglycemia risk. The four available agents differ mainly in their renal handling and dosing."
+  },
+  {
+   "topic": "Sitagliptin dosing in dialysis",
+   "question": "The recommended sitagliptin dose for a patient on dialysis (eGFR below 30 mL/min per 1.73 m2) is:",
+   "options": {
+    "A": "100 mg daily",
+    "B": "50 mg daily",
+    "C": "25 mg daily",
+    "D": "Contraindicated"
+   },
+   "correct": "C",
+   "explanation": "Because 75%-80% of sitagliptin is excreted unchanged in the urine and levels rise markedly with declining renal function, the dose is reduced to 25 mg daily for eGFR below 30 mL/min per 1.73 m2 or dialysis, making C correct. The 100-mg dose is for eGFR above 50, and 50 mg for eGFR 30-50, so A and B apply to better renal function; it is not contraindicated (D). At the reduced dose, sitagliptin was as effective as glipizide with less severe hypoglycemia, and only a small fraction is removed by HD."
+  },
+  {
+   "topic": "Sitagliptin vs glipizide",
+   "question": "In dialysis patients, sitagliptin compared with glipizide provided similar glycemic control but with:",
+   "options": {
+    "A": "More severe hypoglycemia",
+    "B": "Less severe hypoglycemia",
+    "C": "Identical hypoglycemia rates",
+    "D": "No glycemic benefit"
+   },
+   "correct": "B",
+   "explanation": "In dialysis patients, sitagliptin provided glycemic control similar to glipizide but with less severe hypoglycemia (0% vs 7.7%), making B correct; it did not cause more hypoglycemia (A), identical rates (C), or lack glycemic benefit (D). An earlier study similarly found hypoglycemia in only 4.6% of sitagliptin-treated patients versus 23% with glipizide. This favorable safety profile, combined with dose reduction to 25 mg in dialysis and minimal HD removal, makes DPP-4 inhibitors attractive alternatives to sulfonylureas in this population."
+  },
+  {
+   "topic": "Sitagliptin and HD timing",
+   "question": "Because only a small fraction of sitagliptin is removed by HD (about 13% and 4% for HD at 4 or 48 hours postdose), sitagliptin:",
+   "options": {
+    "A": "Must always be given after dialysis",
+    "B": "Can be administered without regard to the timing of HD",
+    "C": "Must be held on dialysis days",
+    "D": "Requires a supplemental dose after each session"
+   },
+   "correct": "B",
+   "explanation": "Only a small fraction of sitagliptin is removed by HD (about 13% and 4% for dialysis started 4 or 48 hours postdose), so it can be administered without regard to the timing of HD, making B correct. It need not be given only after dialysis (A), held on dialysis days (C), or supplemented after sessions (D). This contrasts with saxagliptin, of which about 23% is removed by 4 hours of HD and which should therefore be dosed after dialysis. Sitagliptin's dose is still reduced to 25 mg daily in dialysis patients."
+  },
+  {
+   "topic": "Saxagliptin and HD timing",
+   "question": "Because approximately 23% of saxagliptin is removed by 4 hours of HD, it should be:",
+   "options": {
+    "A": "Given after dialysis sessions",
+    "B": "Given before dialysis sessions",
+    "C": "Avoided entirely in HD",
+    "D": "Doubled on dialysis days"
+   },
+   "correct": "A",
+   "explanation": "Because approximately 23% of saxagliptin is removed by 4 hours of HD, it should be given after dialysis sessions, making A correct; giving it before (B), avoiding it entirely (C), or doubling it (D) are not advised. Saxagliptin has an active metabolite, 5-hydroxy saxagliptin, whose levels rise with renal impairment more than the parent drug, so the dose is reduced to 2.5 mg daily for lower eGFR. In ESKD, saxagliptin was no better than placebo for glycemic control, with similar hypoglycemia rates between groups."
+  },
+  {
+   "topic": "Linagliptin renal handling",
+   "question": "Which DPP-4 inhibitor does not require dose adjustment in renal disease because its elimination is not kidney-dependent?",
+   "options": {
+    "A": "Sitagliptin",
+    "B": "Saxagliptin",
+    "C": "Linagliptin",
+    "D": "Alogliptin"
+   },
+   "correct": "C",
+   "explanation": "Linagliptin does not require dose adjustment in renal disease because its elimination is not kidney-dependent; renal excretion of unchanged drug is less than 7%, making C correct. Sitagliptin (A), saxagliptin (B), and alogliptin (D) all need renal dose reduction because they are substantially renally cleared. Because the degree of renal impairment does not affect linagliptin concentrations, its 5-mg daily dose is unchanged across kidney function, although experience in advanced renal disease remains limited. This distinguishes it within the DPP-4 inhibitor class."
+  },
+  {
+   "topic": "Alogliptin dosing",
+   "question": "For a patient on hemodialysis (eGFR below 30 mL/min per 1.73 m2), the alogliptin dose should be reduced to:",
+   "options": {
+    "A": "The full 25 mg/day",
+    "B": "12.5 mg/day",
+    "C": "6.25 mg/day",
+    "D": "Discontinued"
+   },
+   "correct": "C",
+   "explanation": "For a patient on HD (eGFR below 30 mL/min per 1.73 m2), alogliptin should be reduced by three-quarters to 6.25 mg/day, making C correct. The full 25 mg (A) is for normal function, and 12.5 mg (B) is the half-dose used for eGFR 30-50 mL/min; it is not discontinued (D). About 63% of alogliptin is excreted unchanged by the kidney, with only 10%-20% hepatically metabolized to compounds of little activity, which is why substantial renal dose reduction is required in advanced kidney disease and dialysis."
+  },
+  {
+   "topic": "Incretin pancreatic safety",
+   "question": "The FDA and EMA parallel review of incretin-based medications and pancreatitis/pancreatic cancer concluded that:",
+   "options": {
+    "A": "A strong causal link was confirmed",
+    "B": "Assertions of a causal association were inconsistent with their review",
+    "C": "Only exenatide caused pancreatitis",
+    "D": "The drugs should be withdrawn"
+   },
+   "correct": "B",
+   "explanation": "The FDA and EMA, reviewing nonclinical, clinical trial, and epidemiologic data in parallel, agreed and published that assertions of a causal association between incretin-based medications and pancreatitis or pancreatic cancer were inconsistent with their review, making B correct. They did not confirm a strong causal link (A), single out exenatide (C), or recommend withdrawal (D). This addressed a pancreatic safety signal raised about the incretin class (both DPP-4 inhibitors and GLP-1 agonists), though these drugs still carry individual precautions."
+  },
+  {
+   "topic": "SGLT-2 inhibitors",
+   "question": "SGLT-2 inhibitors such as canagliflozin and dapagliflozin are not effective in patients with severe renal impairment because they:",
+   "options": {
+    "A": "Are removed by dialysis",
+    "B": "Depend on a urine-mediated mechanism, lowering the renal glucose threshold to increase urinary glucose excretion",
+    "C": "Require intact pancreatic beta-cell function",
+    "D": "Are metabolized only by the liver"
+   },
+   "correct": "B",
+   "explanation": "SGLT-2 inhibitors such as canagliflozin and dapagliflozin lower the renal threshold for glucose and cause an osmotic diuresis by increasing urinary glucose excretion, so their urine-dependent mechanism fails in severe renal impairment, making B correct. They are not primarily removed by dialysis (A), do not require intact beta-cell function (C), and are not solely hepatically metabolized (D). Because they depend on filtering and excreting glucose in urine, they are ineffective when GFR is severely reduced, which is why they are avoided in advanced kidney disease."
+  },
+  {
+   "topic": "Canagliflozin and eGFR",
+   "question": "Canagliflozin should be avoided when the eGFR falls below:",
+   "options": {
+    "A": "60 mL/min per 1.73 m2",
+    "B": "45 mL/min per 1.73 m2",
+    "C": "30 mL/min per 1.73 m2",
+    "D": "15 mL/min per 1.73 m2"
+   },
+   "correct": "B",
+   "explanation": "Canagliflozin should be avoided when eGFR falls below 45 mL/min per 1.73 m2, making B correct; at eGFR 45 to below 60 the dose is limited to 100 mg. The 60, 30, and 15 mL/min thresholds are incorrect. Because SGLT-2 inhibitors work by increasing urinary glucose excretion and lowering the renal glucose threshold, their efficacy depends on adequate filtration, so they lose effect and are not used in severe renal impairment. This urine-dependent mechanism is the fundamental reason for the eGFR-based restriction."
+  },
+  {
+   "topic": "Pramlintide",
+   "question": "Pramlintide, a synthetic analog of human amylin, lowers glucose by:",
+   "options": {
+    "A": "Preventing the postprandial rise in glucagon, increasing satiety, and slowing gastric emptying",
+    "B": "Stimulating insulin secretion directly",
+    "C": "Blocking renal glucose reabsorption",
+    "D": "Inhibiting DPP-4"
+   },
+   "correct": "A",
+   "explanation": "Pramlintide, a synthetic analog of human amylin, prevents the postprandial rise in glucagon, increases satiety (thereby decreasing caloric intake), and slows gastric emptying, making A correct. It does not stimulate insulin secretion directly (B), block renal glucose reabsorption (C), or inhibit DPP-4 (D). Amylin is co-secreted with insulin by pancreatic beta cells in response to food. Pramlintide is metabolized mainly by the kidney to an active metabolite; no dose adjustment is needed down to eGFR 20, but there are few or no data in dialysis patients."
+  },
+  {
+   "topic": "Hyperkalemia causes",
+   "question": "Which mechanism contributes to hyperkalemia in diabetic HD patients?",
+   "options": {
+    "A": "Insulin excess driving potassium into cells",
+    "B": "Aldosterone deficiency impairing colonic and residual renal potassium excretion",
+    "C": "Metabolic alkalosis",
+    "D": "Increased renal potassium clearance"
+   },
+   "correct": "B",
+   "explanation": "Aldosterone deficiency, which impairs colonic and residual renal potassium excretion, contributes to hyperkalemia in diabetic HD patients, making B correct. Insulin deficiency and resistance impair cellular potassium uptake (so A, insulin excess, is wrong), and the driving acid-base disturbance is metabolic acidosis, not alkalosis (C), which promotes proton-potassium exchange out of cells. Renal potassium clearance is reduced, not increased (D). Additional causes include hyperglycemia-induced cellular shifts, hyperkalemia-causing drugs, and dietary potassium excess."
+  },
+  {
+   "topic": "Hyperkalemia by modality",
+   "question": "Severe hyperkalemia is found much less frequently in diabetic patients maintained on:",
+   "options": {
+    "A": "Hemodialysis",
+    "B": "Peritoneal dialysis",
+    "C": "Nocturnal HD",
+    "D": "Home HD"
+   },
+   "correct": "B",
+   "explanation": "Severe hyperkalemia is much less frequently found in diabetic patients maintained on peritoneal dialysis than on hemodialysis, making B correct; nocturnal and home HD (C, D) are still HD variants without this advantage. PD's continuous clearance and better serum potassium control reduce severe hyperkalemia. In HD patients, hyperkalemia is common due to insulin deficiency/resistance, aldosterone deficiency, metabolic acidosis, hyperglycemic cellular shifts, drugs, and dietary excess. Treatment otherwise does not differ from the general dialysis population."
+  },
+  {
+   "topic": "Diabetic hypertension type",
+   "question": "Most diabetic dialysis patients have hypertension that is characterized as:",
+   "options": {
+    "A": "Renin-dependent and resistant to fluid removal",
+    "B": "Volume-sensitive, controllable by sodium/fluid restriction and removal of excess extracellular fluid",
+    "C": "Purely neurogenic",
+    "D": "Unresponsive to dialysis"
+   },
+   "correct": "B",
+   "explanation": "Most diabetic dialysis patients have volume-sensitive hypertension that can be controlled by appropriate sodium and fluid restriction and by dialytic removal of excess extracellular fluid, making B correct. It is generally not renin-dependent and resistant to fluid removal (A), purely neurogenic (C), or unresponsive to dialysis (D). Controlling blood pressure is important to prevent cardiovascular sequelae and deterioration of vision. Because hypertension also accelerates diabetic retinopathy, achieving euvolemia through sodium/fluid management is central to care."
+  },
+  {
+   "topic": "CABG outcomes",
+   "question": "Despite continuously improving coronary artery bypass grafting outcomes in dialysis patients, mortality rates compared with non-ESKD patients remain approximately:",
+   "options": {
+    "A": "Equal",
+    "B": "Twofold higher",
+    "C": "Almost threefold higher",
+    "D": "Tenfold higher"
+   },
+   "correct": "C",
+   "explanation": "Despite continuously improving CABG outcomes in dialysis patients, mortality rates remain almost threefold higher compared with non-ESKD patients, making C correct; they are not equal (A), twofold (B), or tenfold (D). This reflects the heavy cardiovascular burden in diabetic ESKD, where cardiovascular disease is a leading cause of death. The persistently elevated surgical mortality underscores why aggressive management and prevention of cardiovascular morbidity, rather than modality choice, offers the greatest opportunity to improve survival in this population."
+  },
+  {
+   "topic": "Peripheral vascular disease",
+   "question": "To minimize the very high amputation rate among diabetic dialysis patients, the chapter emphasizes:",
+   "options": {
+    "A": "Prophylactic bilateral amputation",
+    "B": "Frequent foot examination by a podiatrist with care focused on preventing ulcer development",
+    "C": "Routine arterial bypass surgery in all patients",
+    "D": "Avoiding all weight-bearing activity"
+   },
+   "correct": "B",
+   "explanation": "To minimize the very high amputation rate among diabetic dialysis patients, the chapter emphasizes frequent examination of the feet by a podiatrist, with regular care focused on preventing ulcer development, making B correct. It does not advocate prophylactic amputation (A), routine bypass surgery in all patients (C), or avoiding all weight-bearing activity (D). Diabetic dialysis patients have a very high rate of amputation, so preventive foot care that stops ulcers before they progress is the key strategy to reduce limb loss."
+  },
+  {
+   "topic": "Cerebrovascular disease and aspirin",
+   "question": "Regarding aspirin use in diabetic dialysis patients for stroke prevention:",
+   "options": {
+    "A": "Its benefit is proven and it is strongly recommended",
+    "B": "Its benefit is unknown in this group, and it theoretically increases the risk of intraocular hemorrhage",
+    "C": "It is contraindicated because it lowers glucose",
+    "D": "It reliably prevents calciphylaxis"
+   },
+   "correct": "B",
+   "explanation": "Although aspirin reduces stroke risk in nonuremic patients, its benefit in diabetic dialysis patients is unknown, and it theoretically increases the risk of intraocular hemorrhage, making B correct. Its benefit is not proven or strongly recommended here (A), it is not contraindicated for lowering glucose (C, aspirin does not do that), and it does not prevent calciphylaxis (D). Stroke incidence is higher in diabetic dialysis patients, but the intraocular bleeding risk is a special concern given their frequent proliferative retinopathy."
+  },
+  {
+   "topic": "Coumarin risks",
+   "question": "In diabetic dialysis patients, coumarin anticoagulants carry increased risk of bleeding as well as additional risks of:",
+   "options": {
+    "A": "Vascular calcification and calciphylaxis",
+    "B": "Lactic acidosis",
+    "C": "Medullary thyroid cancer",
+    "D": "Bladder cancer"
+   },
+   "correct": "A",
+   "explanation": "Coumarin anticoagulants increase bleeding risk in diabetic dialysis patients more than in nonuremic diabetics and carry additional risks of vascular calcification and calciphylaxis, making A correct; lactic acidosis (B), medullary thyroid cancer (C), and bladder cancer (D) are unrelated to coumarins. These extra risks, alongside the theoretical intraocular hemorrhage risk of aspirin, make antithrombotic therapy decisions in this population particularly cautious. Both agents illustrate that stroke and cardiovascular prevention strategies proven in nonuremic patients may not translate to diabetic ESKD."
+  },
+  {
+   "topic": "Retinopathy in type 1",
+   "question": "Retinopathy is present in almost all type 1 diabetic patients with ESKD; therefore, if the retinal exam is entirely normal, one should:",
+   "options": {
+    "A": "Assume rapid retinopathy will still develop",
+    "B": "Seek another cause of the kidney disease",
+    "C": "Immediately begin laser therapy",
+    "D": "Stop dialysis"
+   },
+   "correct": "B",
+   "explanation": "Retinopathy is present in almost all type 1 diabetic patients with ESKD, so if the retinal examination (including fluorescein angiography) is entirely normal, another cause of kidney disease should be sought, making B correct. One should not assume retinopathy will still develop (A), begin laser therapy without disease (C), or stop dialysis (D). Because retinopathy so reliably accompanies diabetic nephropathy in type 1 diabetes, its absence casts doubt on diabetes as the cause of the renal failure and prompts further evaluation."
+  },
+  {
+   "topic": "Retinopathy and renal lesions",
+   "question": "In type 2 diabetics, the presence of severe retinopathy correlates with which biopsy finding, indicating more severe renal lesions?",
+   "options": {
+    "A": "Minimal change lesions",
+    "B": "Kimmelstiel-Wilson nodules (nodular sclerosis)",
+    "C": "Membranous deposits",
+    "D": "Normal glomeruli"
+   },
+   "correct": "B",
+   "explanation": "In type 2 diabetics, severe retinopathy correlated closely with Kimmelstiel-Wilson nodules (nodular sclerosis) on biopsy, making B correct; those without retinopathy had mesangial sclerosis but not nodular sclerosis. Minimal change lesions (A), membranous deposits (C), and normal glomeruli (D) are not the correlated findings. Thus the presence of retinopathy increases the likelihood of more severe renal lesions. The type 2 picture is less clear-cut than type 1, since one study found retinopathy in only 56% of biopsy-proven diabetic glomerulosclerosis."
+  },
+  {
+   "topic": "Hypertension and retinopathy",
+   "question": "Hypertension affects diabetic retinopathy by:",
+   "options": {
+    "A": "Slowing its progression",
+    "B": "Accelerating its progression and possibly causing retinal and vitreous hemorrhage",
+    "C": "Having no effect",
+    "D": "Reversing proliferative changes"
+   },
+   "correct": "B",
+   "explanation": "Hypertension accelerates the progression of diabetic retinopathy and may itself cause retinal and vitreous hemorrhage, making B correct; it does not slow progression (A), have no effect (C), or reverse proliferative changes (D). Hypertensive vascular events, such as branch retinal vein occlusion at arteriovenous crossings, can cause sudden vision loss, and control of hypertension may prevent these. Because hypertension is present in the majority of dialysis patients, blood pressure control is a vital component of preserving vision in diabetic retinopathy."
+  },
+  {
+   "topic": "Proliferative retinopathy treatment",
+   "question": "Discovery of proliferative diabetic retinopathy is an indication for:",
+   "options": {
+    "A": "Laser treatment (photocoagulation)",
+    "B": "Immediate enucleation",
+    "C": "Systemic corticosteroids",
+    "D": "Discontinuing dialysis"
+   },
+   "correct": "A",
+   "explanation": "Discovery of proliferative diabetic retinopathy, characterized by intense proliferation of new retinal vessels driven by local hypoxia, is an indication for laser treatment (photocoagulation), making A correct. Laser decreases the risk of retinal detachment and the retina's oxygen demand by destroying nonessential retina. Enucleation (B), systemic corticosteroids (C), and stopping dialysis (D) are not indicated. Vitrectomy and microsurgery can restore vision in one-third to one-half of patients with vitreous hemorrhage, and anti-VEGF agents are an emerging role."
+  },
+  {
+   "topic": "Band keratopathy",
+   "question": "Band keratopathy (corneal-conjunctival calcification) in dialysis patients is associated with:",
+   "options": {
+    "A": "Uncontrolled hyperphosphatemia",
+    "B": "Chronic hypoglycemia",
+    "C": "Iron overload",
+    "D": "Vitamin C deficiency"
+   },
+   "correct": "A",
+   "explanation": "Band keratopathy (corneal-conjunctival calcification) in dialysis patients is associated with uncontrolled hyperphosphatemia, making A correct; it is not caused by hypoglycemia (B), iron overload (C), or vitamin C deficiency (D). Calcium phosphate deposits can irritate the conjunctiva and produce a 'red-eye syndrome.' Refractory cases have been treated with superficial keratectomy or chelation using local EDTA. Band keratopathy affects both diabetic and nondiabetic dialysis patients, reflecting disordered mineral metabolism rather than glycemic control."
+  },
+  {
+   "topic": "Impotence",
+   "question": "Impotence, which is common in diabetic dialysis patients, is attributed to:",
+   "options": {
+    "A": "Autonomic neuropathy and peripheral vascular disease plus usual uremic causes",
+    "B": "Excess endogenous insulin",
+    "C": "Hyperphosphatemia alone",
+    "D": "Dialysate glucose absorption"
+   },
+   "correct": "A",
+   "explanation": "Impotence in diabetic dialysis patients is attributed to autonomic neuropathy and peripheral vascular disease associated with diabetes, as well as the usual uremic causes, making A correct. It is not due to excess endogenous insulin (B), hyperphosphatemia alone (C), or dialysate glucose absorption (D). This multifactorial etiology reflects the systemic vascular and neuropathic damage of diabetes compounded by uremia. Recognizing these overlapping mechanisms is important because impotence is common and contributes to reduced quality of life in this population."
+  },
+  {
+   "topic": "Transplantation preference",
+   "question": "In diabetic ESKD patients without contraindication, the preferred method of managing ESKD is:",
+   "options": {
+    "A": "Long-term hemodialysis",
+    "B": "Long-term peritoneal dialysis",
+    "C": "Renal transplantation, because of improved survival",
+    "D": "Conservative care alone"
+   },
+   "correct": "C",
+   "explanation": "In diabetic patients without contraindication, renal transplantation is the preferred method of managing ESKD because of improved survival, roughly 80% 3-year survival with transplantation versus about 50% on dialysis, making C correct. Long-term HD (A), long-term PD (B), and conservative care (D) all carry worse survival. Among predialysis candidates, preemptive transplantation is preferred over starting dialysis first, and living-donor kidneys are preferred to deceased-donor kidneys. Extended donor kidneys can expand access to successful transplantation for these patients."
+  },
+  {
+   "topic": "Pretransplant cardiac screening",
+   "question": "For pretransplant workup in some diabetic patients, particularly those not yet on dialysis (to avoid contrast nephropathy risk), an acceptable screening test if negative may be:",
+   "options": {
+    "A": "Screening coronary angiography in all cases",
+    "B": "Dobutamine stress echocardiography",
+    "C": "Chest radiograph alone",
+    "D": "Resting electrocardiogram only"
+   },
+   "correct": "B",
+   "explanation": "For pretransplant workup, screening dobutamine stress echocardiography, if negative, may be sufficient in some patients, especially those not yet on dialysis in whom contrast nephropathy is a risk, making B correct. Screening coronary angiography is sometimes necessary but not required in all cases (A), and a chest radiograph (C) or resting ECG alone (D) is inadequate for cardiac risk assessment. Avoiding contrast in patients with residual renal function is the specific reason a negative noninvasive stress test can substitute for angiography."
+  },
+  {
+   "topic": "Bone disease",
+   "question": "Which type of renal bone disease is common among diabetic patients with ESKD?",
+   "options": {
+    "A": "Osteitis fibrosa cystica",
+    "B": "Adynamic bone disease",
+    "C": "Osteomalacia from aluminum",
+    "D": "Paget disease"
+   },
+   "correct": "B",
+   "explanation": "Adynamic bone disease is common among diabetic patients with ESKD, making B correct; osteitis fibrosa cystica (A), aluminum osteomalacia (C), and Paget disease (D) are not the characteristic lesion cited for this group. This low-turnover bone disorder reflects the mineral and bone metabolism disturbances seen in diabetic dialysis patients and is addressed further in the renal osteodystrophy chapter. Recognizing the predominance of adynamic bone disease guides appropriate management of bone and mineral disorders in diabetic ESKD."
+  },
+  {
+   "topic": "Anemia response",
+   "question": "The response to erythropoietin in anemic diabetic patients treated with either HD or PD is described as:",
+   "options": {
+    "A": "Poor and resistant",
+    "B": "Satisfactory",
+    "C": "Contraindicated",
+    "D": "Effective only in HD"
+   },
+   "correct": "B",
+   "explanation": "The response to erythropoietin is satisfactory for anemic diabetic patients treated with either HD or PD, making B correct; it is not poor and resistant (A), contraindicated (C), or effective only in HD (D). This means diabetic dialysis patients respond to erythropoiesis-stimulating agents much like nondiabetic patients, so anemia can be managed effectively regardless of modality. Note that ESA and iron therapy can lower HbA1c, a relevant caveat when interpreting glycemic control in these patients."
+  }
+ ]
+}

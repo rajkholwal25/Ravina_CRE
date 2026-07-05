@@ -1,0 +1,372 @@
+483
+Fluid overload in peritoneal dialysis (PD) patients can manifest as 
+generalized edema, pulmonary edema, and hypertension. It con -
+tributes to left ventricular hypertrophy and is a major contributor 
+to cardiovascular disease, the leading cause of death in all dialysis 
+patients. It is also associated with hypoalbuminemia, malnutrition, 
+inflammation, and atherosclerosis (Demirci, 2011); and it is a signifi-
+cant cause of technique failure, especially in long-term PD patients 
+(Woodrow, 2011).
+ I. ASSESSMENT OF FLUID ST ATUS. This is based primarily on clinical 
+examination, which gives at best a crude estimation. The target 
+body weight or “dry weight” for PD is that weight which gives a 
+well-tolerated normotensive, edema-free state, and, just as in he-
+modialysis, it is determined by trial and error. Since PD patients 
+tend to be seen less frequently than those on hemodialysis, there 
+is a risk that this process will be more protracted and less well 
+done. It requires frequent clinical reassessment of patients.
+Alternative methods of assessing volume status include 
+bioimpedance, serum levels of brain natriuretic peptide (BNP), 
+and ultrasound of the inferior cava or of the lungs. Bioimpedance 
+analysis can be done with relatively simple devices and involves 
+attachment of electrodes and application of low-voltage cur -
+rents. This allows extracellular and intracellular fluid volumes 
+to be estimated. It is being used clinically in some centers but 
+without high-grade evidence to justify it (John, 2010). Serum BNP 
+levels are in clinical use and are predictive of patient outcomes, 
+but do not reliably distinguish fluid overload from cardiac injury 
+(Granja, 2007; Wang, 2007).
+ II. MECHANISMS OF FLUID OVERLOAD.  Fluid overload in a PD patient 
+may reflect any combination of inappropriate prescription, non -
+compliance, loss of residual renal function, mechanical prob-
+lems, and peritoneal membrane dysfunction. Awareness that any 
+one factor alone may not explain an individual PD patient’s vol-
+ume overload is important  and one should avoid thoughtlessly 
+attributing all fluid overload to membrane-related ultrafiltration 
+failure (UFF).
+Volume Status and Fluid 
+Overload in Peritoneal 
+Dialysis
+Neil Boudville and Peter G. Blake
+26
+Daugirdas9781451144291-ch026.indd   483 09/10/14   1:31 am
+Part III / Peritoneal Dialysis
+484
+ III. DIAGNOSIS OF PERITONEAL MEMBRANE DYSFUNCTION AND ULTRAFIL-
+TRATION FAILURE. UFF is defined as fluid overload in association 
+with an ultrafiltration volume <400 mL in a modified peritoneal 
+equilibration test (PET) (Ho-dac-Pannakeet, 1997). The modified 
+PET uses a 4.25% dialysate dwell instead of the usual 2.5% bag 
+used in the standard PET (described in Chapter 21). UFF should 
+not be diagnosed if the ultrafiltration volume exceeds 400 mL or 
+if there is no clinical evidence of significant volume overload.  UFF 
+should not be diagnosed until catheter malfunction and leaks have 
+been excluded. An ultrafiltration volume >400 mL in the modified 
+PET implies normal peritoneal membrane function, and if fluid 
+overload is present, closer attention needs to be paid to nonmem-
+brane causes as listed in Table 26.1.
+If UFF is diagnosed, the next step is to review the solute trans-
+port characteristics of the patient using the results of the modified 
+4.25% PET (or the standard PET as the results are very similar).
+A. High transporter with UFF (type I).  In this situation, the dialysate 
+dextrose concentration falls quickly after infusion because of 
+rapid absorption, resulting in loss of the concentration gradi -
+ent that drives fluid removal. This is the most common cause 
+and is often called type I UFF. It typically develops after 3 or 
+more years on PD. It is believed to reflect an increase in the 
+effective peritoneal surface area consequent to the increased 
+membrane vascularity that occurs with time on PD. This occurs 
+to a greater extent in some patients than in others. The con -
+tribution of interstitial fibrosis and resultant thickening of the 
+membrane is increasingly recognized (Davies, 2005). Causes of 
+type I UFF include cumulative exposure of the membrane to 
+high glucose loads (Davies, 2001) and perhaps to other bioin-
+compatible features of PD solutions, including low pH, lactate, 
+and toxic glucose degradation products. Other causes may be 
+related to cumulative episodes of peritonitis or to systemic 
+inflammation seen in uremia generally. Type I UFF may also 
+occur transiently in some patients with acute peritonitis who 
+have a temporary increase in transport status during and after 
+the episode owing to acute inflammation of the membrane.
+Inappropriate bag selection
+Inappropriate prescription for membrane transport status
+Long, dextrose-containing daytime or nocturnal dwells
+Failure to optimize APD regimen for transport status
+Failure to use icodextrin-containing solutions
+Noncompliance with PD prescription
+Noncompliance with salt and water restriction
+Loss of residual renal function
+Abdominal leak
+Catheter malfunction
+Poor blood glucose control
+Peritoneal membrane dysfunction
+Causes of Fluid Overload in PD Patients
+26.1
+TABLE
+Daugirdas9781451144291-ch026.indd   484 09/10/14   1:31 am
+Chapter 26 / Volume Status and Fluid Overload in Peritoneal Dialysis 485
+B. Low transporter with UFF (type II).  This group of patients has re-
+duced small solute clearance and reduced fluid removal. This 
+is also called type II UFF and is much less common. It reflects 
+decreased membrane surface area and is most often due to 
+adhesions and scarring after a severe peritonitis or other 
+ intra-abdominal complication. It is difficult to maintain these 
+patients on PD unless they have significant residual renal 
+function.
+C. UFF with transport in the normal range (usually high-average and low-
+average transporters).  Careful consideration once again should 
+be made to exclude mechanical causes for poor fluid removal 
+in this group.
+1. Increased lymphatic absorption of peritoneal fluid is the
+cause in some patients and this is called type III UFF. 
+ Lymphatic absorption can be quantified by measuring the
+disappearance rate of dextran 70 from the peritoneal cavity, 
+but this is rarely done in clinical practice, and the diagnosis 
+tends to be one of exclusion.
+2. Aquaporin deficiency. A similar pattern can be seen with the
+interesting but rarer condition of aquaporin deficiency.
+This can be diagnosed by measuring the change in dialysate 
+sodium concentration after 30–60 minutes of a 2-L dialysis 
+dwell with 4.25%, dextrose compared with a 2-L dwell using 
+1.5%, dextrose. Why does the dialysate sodium fall during
+the early part of a dwell? When dialysate glucose levels are
+high, osmotically driven UF occurs primarily via aquaporin 
+channels, which transport water but not sodium. The result 
+is an early lowering in the dialysate sodium concentration
+by 5–10 mmol/L with a 4.25% glucose dwell. This leads to
+a sodium gradient between blood and dialysate, and so-
+dium diffusion brings the dialysate sodium level up again
+as the dwell proceeds (Fig. 21.7). If aquaporin-mediated
+water transport is impaired, the initial fall in dialysate so -
+dium will not occur with 4.25% dwells and there will be a
+<5 mmol/L difference between the dialysate sodium levels 
+at 30–60 minutes with the 4.25% dwell compared with the
+1.5% dwell (Smit, 2004; Ni, 2006).
+I V. PREVENTION AND MANAGEMENT OF FLUID OVERLOAD.  Often, mul -
+tiple causes of volume overload coexist in an individual PD
+patient. For example, there may be some UFF but also excess
+dietary salt intake or poor glucose control. Optimal manage-
+ment may therefore require multiple therapeutic and preventive 
+strategies.
+A. General measures
+1. Sodium restriction. It is important that patients receive edu -
+cation on sodium and fluid restriction, especially when
+residual renal function declines. An intake of <100 mmol
+(2.3  g) of sodium per day is recommended for those with
+difficult hypertension or volume control problems (Ates,
+2001).
+Daugirdas9781451144291-ch026.indd   485 09/10/14   1:31 am
+Part III / Peritoneal Dialysis
+486
+2. Patient education on when to use higher -strength glucose  solutions.   
+Patients are usually taught to choose or titrate PD solu-
+tion dextrose concentrations in order to achieve target 
+body weight. Underuse of hypertonic solutions may con -
+tribute to fluid overload. However, regular selection of 
+high- concentration dextrose solutions should not be the 
+preferred method of fluid volume control over sodium re-
+striction. Overuse of the high-concentration dextrose solu-
+tions may adversely affect peritoneal membrane function, 
+increasing glucose absorption, worsening  blood sugar and 
+lipid control, and promoting obesity.
+3. Frequent clinical assessment.  Patients need to be assessed 
+regularly and have their target weight reviewed. In PD pa-
+tients, there is an early tendency to weight gain, likely due 
+to glucose absorption, and so target weight may need to be 
+adjusted to avoid excess use of hypertonic glucose in an at-
+tempt to reach an unrealistic weight. Later in the course of 
+PD, as urine volume declines there is an increased rate of 
+fluid overload, and the clinician needs to be aware of this 
+and intervene accordingly. No single test is reliable to de-
+tect this, and clinical examination plus trial and error re -
+mains the best approach.
+4. Good blood sugar control.  This will help maintain the glucose 
+concentration gradient across the peritoneal membrane 
+required for fluid removal.
+5. Preserv ing residual renal function.  This is important for both 
+clearance and fluid removal. There is clinical trial evidence 
+in PD patients that angiotensin-converting enzyme inhibi -
+tors and angiotensin receptor blockers preserve residual re-
+nal function, in terms of both clearance and urine volume. 
+Use of high-dose loop diuretics in patients with residual re-
+nal function, with or without metolazone, will also increase 
+urine volume and sodium and fluid removal. Avoidance of 
+nephrotoxins and intravascular depletion both serve to 
+protect residual renal function. Biocompatible PD solu-
+tions based on multipouched bag technology have low glu-
+cose degradation product content, and some randomized 
+trials suggest that these are associated with better preser -
+vation of residual renal function (Johnson, 2012); however, 
+there is a concern that this is, at least partly, mediated by 
+less ultrafiltration with these solutions (Blake, 2012).
+6. Abdominal leaks. See Chapter 28.
+7. Catheter malfunction. See Chapter 23.
+8. Preservation of peritoneal membrane function.  Reduction in epi-
+sodes of peritonitis and avoidance of excessive exposure to 
+high-dextrose-concentration PD fluid will help to preserve 
+long-term peritoneal membrane function. Randomized tri-
+als looking at “biocompatible” PD solutions with low glu-
+cose degradation product levels have not shown evidence 
+that these solutions preserve membrane function better 
+than when conventional PD solutions are used.
+Daugirdas9781451144291-ch026.indd   486 09/10/14   1:31 am
+Chapter 26 / Volume Status and Fluid Overload in Peritoneal Dialysis 487
+B. Management of UFF
+1. High transport status (UFF type I). Short dwell times are required
+to maintain the dialysate dextrose concentration gradient
+and so automated peritoneal dialysis (APD), programmed
+for short 1–1.5 hour dwells, may be best. Long-duration
+dextrose-containing dwells in continuous ambulatory peri-
+toneal dialysis (CAPD) and APD must be avoided. In APD,
+short dextrose day dwells can be used. However, icodextrin
+is a more attractive approach for long dwells in both CAPD
+and APD.
+a. Icodextrin. This is a carbohydrate polymer used instead of
+dextrose, to produce a concentration gradient for ultrafil-
+tration. It is not absorbed across the membrane, although
+it does slowly get taken up in the lymphatics. Accordingly,
+a concentration gradient is maintained throughout a long
+dwell, allowing ongoing ultrafiltration. Icodextrin is ideal
+for the 14–16-hour day dwell in APD and for the long noc-
+turnal dwell in CAPD. Use of icodextrin has been shown
+to improve volume status (Davies, 2003) and to prolong
+technique survival substantially in patients with UFF and
+high transport status (Takatori, 2011). Its use has also been 
+shown to reduce the extracellular fluid–to–intracellular
+fluid ratio as measured by bioimpedance (Woodrow, 2004). 
+b. Resting the peritoneum. There have been documented cases 
+of improved peritoneal membrane function in type I UFF 
+following a temporary cessation of PD. The mechanism
+for this is unclear but may involve resolution of increased 
+vascularity with time off PD.
+2. UFF with low transport status. These patients are unlikely to do 
+much better on APD or with icodextrin. Generally, transfer
+to hemodialysis is required.
+3. UFF with average transport status.  There is no specific method
+to either reduce lymphatic absorption or to correct im -
+paired aquaporin function. Generally, this type of UFF
+is managed by salt and water restriction, diuretics, and
+general measures to increase total ultrafiltration to com -
+pensate for the volume reabsorbed. This approach may in -
+clude shortening dwell times and using icodextrin for long
+dwells. Icodextrin may be particularly useful in aquaporin
+deficiency as the ultrafiltration it induces occurs almost ex-
+clusively via nonaquaporin channels (La Milia, 2006).
+ V. GLUCOSE-SPARING STRATEGIES. At the level of the peritoneal mem -
+brane, there has been evidence from laboratory studies that hy -
+pertonic glucose exposure leads to neovascularization of the 
+membrane and a pattern analogous to UFF with high transport 
+status. Clinical studies have now shown that long-term PD patients 
+exposed to more hypertonic glucose are more likely to develop 
+high transport characteristics than those who receive less glucose 
+(Davies, 2001). Systemically, glucose loading may also be harmful 
+as detailed in Chapter 29. This has led to a greater emphasis on 
+Daugirdas9781451144291-ch026.indd   487 09/10/14   1:31 am
+Part III / Peritoneal Dialysis
+488
+strategies to minimize glucose exposure. Essentially, this involves 
+the use of less hypertonic glucose (Johnson, 2012; Li, 2013). At first, 
+such an approach might be expected to lead to less ultrafiltration 
+and to a greater risk of fluid overload. It is possible, however, to 
+find a balance between glucose sparing and volume control. Effec-
+tive glucose-sparing strategies include salt and water restriction, 
+the use of loop diuretics to maintain volume, and the use of renin 
+angiotensin system inhibitors to preserve residual renal function. 
+Icodextrin allows the reduction of daily glucose exposure, and 
+there are studies suggesting more stable long-term membrane 
+function with this solution (Davies, 2005). Intraperitoneal amino 
+acids can also be substituted for one daily dextrose dwell.
+ VI. HYPERTENSION AND HYPOTENSION IN PD
+A. Hypertension. P D was initially advocated as providing bet -
+ter blood pressure control than hemodialysis because of its 
+continuous nature. This was certainly demonstrated in early 
+reports on PD populations. More recently, it has been dem-
+onstrated that antihypertensive medication requirements 
+increase with duration on PD, especially when residual renal 
+function is lost (Ortega, 2011).
+1. Sodium removal and hypertension using APD. Sodium removal is 
+a little less in APD because the short duration of the cycled 
+dwells means that dialysate is drained while sodium levels 
+are still low due to sodium sieving and before sodium diffu-
+sion has had a chance to correct this (Rodriguez-Carmona, 
+2004). Concerns have been raised, but studies to date have 
+not consistently shown a difference in blood pressure con-
+trol between patients on CAPD and APD (Boudville, 2007).
+2. Management. This should focus initially on volume control. 
+Antihypertensives, other than cardioprotective agents, 
+should only be introduced if this approach has been unsuc-
+cessful. Preference should be given to agents that have a 
+beneficial effect on urine volume or residual renal function, 
+such as loop diuretics, angiotensin-converting enzyme in-
+hibitors, and angiotensin receptor blockers. The choice of 
+agent in many patients may be driven by coexisting medi-
+cal conditions such as ischemic heart disease.
+B. Hypotension. H ypotension is not uncommon in PD populations, 
+with one cohort study (Malliara, 2002) detecting it in 13% of 
+patients. The cause of hypotension is sometimes unclear, but 
+approximately 20% of cases are secondary to heart failure. An 
+additional 40% may be due to hypovolemia, and it is impor -
+tant to recognize this as hypotension in these patients  typi -
+cally responds to volume repletion and residual renal function 
+may improve as well. Patients with hypotension due to cardiac 
+causes and cases in which no cause can  be identified have a 
+poor prognosis, with a high early mortality rate. Agents such 
+as midodrine and fludrocortisone have been used but with 
+no proven long-term benefit. New onset hypotension may, of 
+course, represent developing sepsis or acute cardiac injury.
+Daugirdas9781451144291-ch026.indd   488 09/10/14   1:31 am
+Chapter 26 / Volume Status and Fluid Overload in Peritoneal Dialysis 489
+References and Suggested Readings
+Ates K, et al. Effect of fluid and sodium removal on mortality in peritoneal dialysis 
+patients. Kidney Int. 2001;60:767–776.
+Blake PG. Balance about balANZ. Perit Dial Int. 2012;32:493–496.
+Boudville NC, et al. Blood pressure, volume, and sodium control in an automated peri-
+toneal dialysis population. Perit Dial Int. 2007;27:537–543.
+Davies SJ, et al. Peritoneal glucose exposure and changes in membrane solute trans-
+port with time on peritoneal dialysis. J Am Soc Nephrol. 2001;12:1046–1051.
+Davies SJ, et al. Icodextrin improves the fluid status of peritoneal dialysis pa-
+tients: results of a double-blind randomized controlled trial. J Am Soc Nephrol . 
+2003;14:2338–2344.
+Davies SJ, et al. Longitudinal membrane function in functionally anuric patients 
+treated with APD: data from EAPOS on the effects of glucose and icodextrin pre-
+scription. Kidney Int. 2005;67:1609–1615.
+Demirci MS, et al. Relation between malnutrition inflammation atherosclerosis and 
+volume status: the usefulness of bioimpedance in peritoneal dialysis patients. 
+Nephrol Dial Transplant. 2011;26:1708–1716.
+Granja CA, et al. Brain natriuretic peptide and impedance cardiography to assess vol-
+ume status in peritoneal dialysis patients. Adv Perit Dial. 2007;23:155–160.
+Ho-dac-Pannakeet MM, et al. Analysis of ultrafiltration failure in peritoneal dialysis 
+patients by means of standard peritoneal permeability analysis. Perit Dial Int. 
+1997;17:144–150.
+John B, et al. Plasma volume, albumin and fluid status in peritoneal dialysis patients. 
+Clin J Am Soc Nephrol. 2010;5:1463–1470.
+Johnson DW , et al. Effects of biocompatible versus standard fluid on peritoneal dialysis 
+outcomes. J Am Soc Nephrol. 2012;23:1097–1107.
+La Milia V . Sodium kinetics in peritoneal dialysis: from theory to clinical practice. G Ital 
+Nefrol. 2006;23:37–48.
+Lee JA, et al. Association between serum n-terminal pro-brain natriuretic peptide con-
+centration and left ventricular dysfunction and extracellular water in continuous 
+ambulatory peritoneal dialysis patients. Perit Dial Int. 2006;26:360–365.
+Li PK, et al. Effects of an angiotensin-converting enzyme inhibitor on residual renal 
+function in patients receiving peritoneal dialysis: a randomized, controlled study. 
+Ann Int Med. 2003;139:105–112.
+Li PK, et al. Randomized controlled trial of glucose-sparing peritoneal dialysis in 
+ diabetic patients. J Am Soc Nephrol. 2013;24:1889–1900.
+Malliara M, et al. Hypotension in patients on chronic peritoneal dialysis: etiology, 
+ management, and outcome. Adv Perit Dial. 2002;18:49–54.
+Mujais S, et al. Evaluation and management of ultrafiltration problems in peritoneal di-
+alysis. International Society for Peritoneal Dialysis Ad Hoc Committee on Ultrafil-
+tration Management in Peritoneal Dialysis. Perit Dial Int. 2000;20(suppl 4):S5–S21.
+Ni J, et al. Aquaporin-1 plays an essential role in water permeability and ultrafiltration 
+during peritoneal dialysis. Kidney Int. 2006;69:1518–1525.
+Ortega LM, Materson BJ. Hypertension in peritoneal dialysis patients: epidemiology, 
+pathogenesis and treatment. J Am Soc Hypertens. 2011;5:128–136.
+Paunuccio V , et al. Chest ultrasound and hidden lung congestion in peritoneal dialysis 
+patients. Nephrol Dial Transplant. 2012;27:3601–3605.
+Rodriguez-Carmona A, et al. Compared time profiles of ultrafiltration, sodium removal 
+and renal function in CAPD and APD patients. Am J Kidney Dis. 2004;44:132–145.
+Sharma AP , Blake PG. Should fluid removal be used as an index of adequacy in PD? 
+Perit Dial Int. 2003;23:107–108.
+Smit W , et al. Quantification of free water transport in peritoneal dialysis. Kidney Int. 
+2004;66:849–854.
+Takatori Y, et al. Icodextrin increases technique survival rate in peritoneal dialysis pa-
+tients with diabetic nephropathy by improving body fluid management: a random-
+ized controlled trial. Clin J Am Soc Nephrol. 2011;6:1337–1344.
+Wang AY, et al. N-terminal pro-brain natriuretic peptide: an independent risk predictor 
+of cardiovascular congestion, mortality, and adverse cardiovascular outcomes in 
+chronic peritoneal dialysis patients. J Am Soc Nephrol. 2007;18:321–330.
+Woodrow G. Volume status in peritoneal dialysis patients. Perit Dial Int. 2011;31  
+(suppl 2):S77–S82.
+Woodrow G, et al. Abnormalities of body composition in peritoneal dialysis patients. 
+Perit Dial Int. 2004;24:169–175.
+Daugirdas9781451144291-ch026.indd   489 09/10/14   1:31 am

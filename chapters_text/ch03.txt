@@ -1,0 +1,1530 @@
+34
+Physiologic Principles 
+and Urea Kinetic 
+Modeling
+John T. Daugirdas
+3
+Dialysis is a process whereby the solute composition of a solution, 
+A, is altered by exposing solution A to a second solution, B, through 
+a semipermeable membrane. Conceptually, one can view the semi -
+permeable membrane as a sheet perforated by holes or pores. Water 
+molecules and low-molecular-weight solutes in the two solutions can 
+pass through the membrane pores and intermingle, but larger sol-
+utes (such as proteins) cannot pass through the semipermeable bar -
+rier, and the quantities of high-molecular-weight solutes on either 
+side of the membrane will remain unchanged.
+ I. MECHANISMS OF SOLUTE TRANSPORT. S olutes that can pass through 
+the membrane pores are transported by two different mecha -
+nisms: diffusion and ultrafiltration (convection).
+A. Diffusion. T he movement of solutes by diffusion is the result of 
+random molecular motion. The larger the molecular weight 
+of a solute, the slower will be its rate of transport across a 
+semipermeable membrane. Small molecules, moving about at 
+high velocity, will collide with the membrane often, and their 
+rate of diffusive transport through the membrane will be high. 
+Large molecules, even those that can fit easily through the 
+membrane pores, will diffuse through the membrane slowly 
+because they will be moving about at low velocity and collid-
+ing with the membrane infrequently (Fig. 3.1).
+B. Ultrafiltration. T he second mechanism of solute transport 
+across semipermeable membranes is ultrafiltration (convec -
+tive transport). Water molecules are extremely small and can 
+pass through all semipermeable membranes. Ultrafiltration 
+occurs when water driven by either a hydrostatic or an osmotic 
+force is pushed through the membrane (Fig. 3.1). Those sol-
+utes that can pass easily through the membrane pores are 
+swept along with the water (a process called “solvent drag”). 
+The water being pushed through the membrane is accompa-
+nied by such solutes at close to their original concentrations. 
+Analogous processes are wind sweeping along leaves and dust 
+as it blows and current in the ocean moving both small and 
+large fish as it flows. Larger solutes, especially those that are 
+Daugirdas9781451144291-ch003.indd   34 11/10/14   3:02 pm
+35Chapter 3 / Physiologic Principles and Urea Kinetic Modeling
+larger than the membrane pores, are held back. For such large 
+solutes, the membrane acts as a sieve.
+1. Hydrostatic ultrafiltration
+a. Transmembrane pressure.  During hemodialysis, water
+(along with small solutes) moves from the blood to dialy-
+sate in the dialyzer as a result of a hydrostatic pressure
+gradient between the blood and dialysate compart -
+ments. The rate of ultrafiltration will depend on the total 
+pressure difference across the membrane (calculated as
+the pressure in the blood compartment minus the pres-
+sure in the dialysate compartment).
+b. Ultrafiltration coefficient (K UF). The permeability of dialyzer
+membranes to water, though high, can vary considerably 
+and is a function of membrane thickness and pore size.
+The permeability of a membrane to water is indicated
+by its ultrafiltration coefficient, K
+UF. KUF is defined as the 
+number of milliliters of fluid per hour that will be trans-
+ferred across the membrane per mm Hg pressure gradi-
+ent across the membrane.
+2. Osmotic ultrafiltration. Osmotic ultrafiltration is described in
+Chapter 21.
+3. Purpose of ultrafiltration. Ultrafiltration during dialysis is per-
+formed for the purpose of removing water accumulated
+FIGURE 3.1 The processes of diffusion (top) and ultrafiltration (bottom). As shown, in 
+both processes, low-molecular-weight solutes can cross the semipermeable membrane, 
+whereas larger solutes are held back.
+A
+AA
+AB
+BB
+B
+MembraneMembrane
+MembraneMembrane
+t = 0 t = equilibrium
+t = 0 t = later
+Diffusion
+Ultrafiltration
+Daugirdas9781451144291-ch003.indd   35 11/10/14   3:02 pm
+Part II / Blood-Based Therapies
+36
+either by ingestion of fluid or by metabolism of food during 
+the interdialytic period. Typically, a patient being dialyzed 
+thrice weekly will gain 1–4 kg of weight between treatments 
+(most of it water), which will need to be removed during a 
+3–4-hour period of dialysis. Patients with acute fluid over -
+load may need more rapid fluid removal. Thus, the clinical 
+need for ultrafiltration usually ranges from 0.5 to 1.2 L/hr.
+4. Use of ultrafiltration to enhance solute clearance
+a. Hemofiltration and hemodiafiltration.  Whereas diffusive re -
+moval of a solute depends on its size, all ultrafiltered
+solutes below the membrane pore size are removed
+at approximately the same rate. This principle has led
+to use of a technique called hemofiltration, whereby a
+large amount of ultrafiltration (more than is required
+to remove excessive fluid) is coupled with infusion of a
+replacement fluid in order to remove solutes. Although
+hemodialysis and hemofiltration often show comparable
+removal of small solutes such as urea (MW 60), hemofil-
+tration can effect much higher removal of larger, poorly
+diffusible solutes, such as inulin (MW 5,200). Sometimes 
+hemodialysis and hemofiltration are combined. The pro-
+cedure is then called hemodiafiltration.
+C. Removal of protein-bound compounds.  The normal kidney detoxi-
+fies protein-bound organic acids and bases. Being protein 
+bound, they are filtered to only a small extent and so bypass 
+the glomerulus (Sirich, 2013). However, in the peritubular 
+capillary network, these substances are removed from albu-
+min and are taken up by proximal tubular cells. Then they are 
+secreted into the tubular lumen, to be excreted in the urine. 
+Other protein-bound compounds (bound to albumin and 
+small proteins) are filtered in the glomerulus along with their 
+carrier proteins. In the proximal tubule, the filtered proteins 
+are catabolized along with their bound compounds.
+The plasma concentration of such protein-bound sub-
+stances is markedly elevated in dialysis patients (Sirich, 
+2013), but the association between high blood levels of these 
+compounds and mortality is not completely clear (Melamed, 
+2013). Removal of protein-bound compounds by hemodialysis 
+depends on the percentage of the “free” fraction of the com-
+pound in plasma (the fraction that is exposed to dialysis). Also, 
+removal depends on how quickly the free fraction is replen-
+ished by the protein-bound pool. Substances that are tightly 
+bound to proteins with a low free fraction in the plasma will 
+be removed to a small extent by conventional hemodialysis.
+II. SOLUTE REMOVAL FROM THE PERSPECTIVE OF THE DIALYZER.  In clini-
+cal use, the box containing two solutions in Figure 3.1 becomes
+the dialyzer, containing blood and dialysis solution. The latter
+consists of highly purified water to which sodium, potassium,
+calcium, magnesium, chloride, bicarbonate, and dextrose have
+been added. The low-molecular-weight waste products that
+Daugirdas9781451144291-ch003.indd   36 11/10/14   3:02 pm
+37Chapter 3 / Physiologic Principles and Urea Kinetic Modeling
+accumulate in uremic blood are absent from the dialysis solution. 
+When uremic blood is exposed to dialysis solution, the flux rate 
+of these waste solutes from blood to dialysate is initially much 
+greater than the back-flux from dialysate to blood. Eventually, if 
+the blood and dialysate were left in static contact with each other 
+via the membrane, the concentration of permeable waste prod-
+ucts in the dialysate would become equal to that in the blood, 
+and no further net removal of waste products would occur. 
+Transport back and forth across the membrane would continue, 
+but the rates of transport and back-transport would be equal. In 
+practice, during dialysis, concentration equilibrium is prevented, 
+and the concentration gradient between blood and dialysate is 
+maximized, by continuously refilling the dialysate compartment 
+with fresh dialysis solution and by replacing dialyzed blood with 
+undialyzed blood. Normally, the direction of dialysis solution flow 
+is opposite to the direction of blood flow (Fig. 3.2). The purpose 
+of “countercurrent” flow is to maximize the concentration differ-
+ence of waste products between blood and dialysate in all parts of 
+the dialyzer.
+A. Extraction ratio. Figure 3.3 shows a schematic of a dialyzer and 
+its effects on the serum urea nitrogen (SUN) concentration of 
+blood entering and leaving the dialyzer. The extraction ratio is 
+the percentage reduction of urea (or any other solute) across 
+the dialyzer. In the case shown, with blood flow rate (Q
+B) of 
+400 mL/min, the inlet SUN (blood urea nitrogen) is 100 mg/dL 
+and the outlet concentration is 40 mg/dL; hence, the extraction 
+FIGURE 3.2 A dialyzer with blood flowing in one direction and dialysis solution flowing 
+in the opposite direction. Hydrostatic pressure across the membrane (and ultrafiltration) is 
+adjusted by varying the resistance to inflow of dialysis solution.
+Adjustable 
+inﬂow 
+resistance 
+Membrane 
+Dialysate 
+pump 
+Blood 
+Dialysate 
+0 –100 
+–200 
+–300 
+0 
+–100 +100 
+Daugirdas9781451144291-ch003.indd   37 11/10/14   3:02 pm
+Part II / Blood-Based Therapies
+38
+ratio is 60% (100 − 40)/100. The extraction ratio is not affected 
+by the inlet SUN level. Under the same conditions, if the inlet 
+SUN were 200 mg/dL, the outlet SUN would be 80, and if the 
+inlet SUN were 10, the outlet SUN would be 4.
+The extraction ratio is affected by the rate of blood flow 
+through the dialyzer (Fig. 3.4). If blood flow rate were reduced 
+from 400 to 200 mL/min, the outlet SUN would decrease 
+from 40 to 12 mg/dL. If blood flow rate were reduced to 1 
+mL/min, the outlet SUN would be very low, about 1 mg/dL,  
+and if a very high rate of blood flow were used, 20 L/min, the 
+outlet SUN would increase to about 97 mg/dL. The faster the 
+blood flows through the dialyzer, the less time it spends in 
+the filter. The dialyzer blood compartment volume is about 
+100 mL, so at a flow rate of 400 mL/min, the blood is spend-
+FIGURE 3.3 The dialyzer extraction ratio for urea as a function of inlet and outlet urea 
+concentration.
+FIGURE 3.4 Effect of blood flow rate on the outlet SUN.
+SUN  100 mg/dL SUN  40 mg/dL
+QB  400 mL/min
+200
+?
+1
+20,000
+12 mg/dL
+01 mg/dL
+97 mg/dL
+What is the effect of QB on ER?
+The higher the QB, the lower the ER
+The lower the QB, the higher the ER
+Daugirdas9781451144291-ch003.indd   38 11/10/14   3:02 pm
+39Chapter 3 / Physiologic Principles and Urea Kinetic Modeling
+ing about 15   seconds in the dialyzer. On reducing the flow 
+to 200 mL/min, the transit time doubles, to 30 seconds, and 
+because of this, the blood has more time to be “cleaned, ” and 
+the SUN in the blood exiting the dialyzer is only 12 mg/dL. 
+On reducing flow to 1 mL/min, the blood would spend a full 
+100 minutes in the dialyzer, and the outlet blood would have 
+a very low concentration of urea nitrogen. On the other hand, 
+at a very rapid flow rate, much higher than could be achieved 
+in practice, say 20,000 mL/min, the blood would spend only 
+0.3 seconds in the dialyzer. Still, the outlet SUN would be 
+lower than the inlet and might be about 97 mg/dL. In effect, 
+the dialyzer is a “washing machine, ” and the less time the 
+blood spends in the machine, the lower the percentage of 
+waste products removed from a given volume of blood.
+B. Concept of clearance.  As shown in Figure 3.5, the blood exiting 
+the dialyzer can be considered in one of two ways. One can con-
+sider the entire volume and the percentage reduction of solute 
+in that volume, or one can separate out the flow exiting the 
+dialyzer into two streams—in the first stream, the concentra-
+tion of solute will be the same as the inlet concentration, and 
+in the second stream, all urea nitrogen will have been removed. 
+One can think of an extraction ratio or reduction in SUN of 60% 
+for the combined outlet stream, or one can consider that 60% 
+of the fluid flowing through the dialyzer has been completely 
+cleared of urea. If we mix the unchanged stream with the 
+cleared stream, the concentration of urea nitrogen in the mixed 
+stream will be reduced by 60% relative to that in the dialyzer 
+FIGURE 3.5 Concept of dialyzer clearance. The blood exiting the dialyzer can be looked 
+at in two ways: (1) as one outlet stream where the solute concentration has been reduced 
+by 60% (from 100 to 40 mg/dL) or (2) as two substreams: in one substream the solute 
+concentration is unchanged, and in the other substream the solute has been completely 
+removed. The flow rate of the cleared substream is the dialyzer “clearance” and is equal 
+to the extraction ratio multiplied by the blood flow rate.
+Inlet  SUN = 
+100 mg/dL Outlet  SUN = 40 mg/dL
+QB = 400 mL/min Single outlet stream
+Two substreams
+QB = 400 mL/min 
+SUN = 40 mg/dL
+QB = 160 mL/min
+SUN = 100 mg/dL
+QB = 240 mL/min
+SUN = 0 mg/dL60% of flow
+100% of flow
+40% of flow
+QB = 400 mL/min
+100 mg/dL
+Daugirdas9781451144291-ch003.indd   39 11/10/14   3:02 pm
+Part II / Blood-Based Therapies
+40
+inlet. One can calculate what the relative flow rates of the un-
+changed stream and the cleared stream would need to be to 
+achieve mass balance. In this case, the flow rate of the cleared 
+stream is simply 60% of the inlet flow rate. If the inlet flow rate 
+is 400 mL/min, the flow rate of the cleared stream would be 
+0.60 × 400 = 240 mL/min, and the flow rate of the unchanged 
+stream would be 160 mL/min. Thus, a dialyzer extraction ratio 
+of 60% translates into a dialyzer clearance of 0.6 × blood inflow 
+rate (QB), or 240 mL/min. Clearance is usually abbreviated as 
+“K” or “KD. ” Flow rate is abbreviated as “Q, ” and blood flow rate 
+is abbreviated as “QB, ” and dialysate flow rate as “QD.”
+1. Effect of dialyzer blood flow rate on clearance.  W e now can look 
+at the effects of blood flow (Q B) on dialyzer clearance ( KD). 
+From Table 3.1, we see that when blood flow is very low, 
+50 mL/min, the blood in the dialyzer is cleaned very well, 
+due to a long residence time in the dialyzer, and the outlet 
+SUN is only 1 mg/dL, with an extraction ratio of 99%. How-
+ever, the amount of blood cleared is limited by the flow rate 
+of 50 mL/min; although 99% of the blood is cleared, 99% of 
+50 mL/min is a low number. When the blood flow rate is 
+increased, the blood is only partially cleared of urea due to 
+less time spent in the dialyzer, but even though the extrac-
+tion ratio falls as blood flow rate is increased, the volume 
+of blood cleared of urea nitrogen keeps increasing as the 
+blood flow rate is increased. Ultimately, when blood flow 
+rate is very high, 20 L/min, the clearance in this particular 
+example is 600 mL/min, even though only 3% of the inlet 
+SUN is removed.
+2. The K0A, mass transfer area coefficient.  I f the extraction ratio 
+remained constant at 60%, a doubling of the blood flow rate 
+would double the clearance. However, removal efficiency 
+falls at higher blood flow rates, and so the clearance does 
+not increase with Q B in a 1:1 ratio. Ultimately, at very high 
+blood flow rate, the clearance will plateau. The theoretical 
+maximum clearance of a dialyzer ( for a given solute) at in-
+finite blood and dialysate flow rates is called the K 0A and 
+has units of mL/min. For the dialyzer in Table 3.1, the K 0A 
+is close to 600 mL/min. The K 0A also has a physical aspect. 
+It is the multiple of two quantities: K 0, the permeability 
+QB (mL/min) Outlet SUN (mg/dL) Extraction Ratio (ER, %) KD (ER 3 QB)
+50 1 99 50
+200 12 88 176
+400 40 60 240
+500 48 52 260
+20,000 97 3 600
+Effect of dialyzer blood flow rate on extraction ratio 
+and clearance (inlet SUN = 100 mg/dL)3.1
+TABLE
+Daugirdas9781451144291-ch003.indd   40 11/10/14   3:02 pm
+41Chapter 3 / Physiologic Principles and Urea Kinetic Modeling
+coefficient of the dialyzer membrane for a given solute, and 
+A, the total effective surface area of the membrane in the 
+dialyzer. Doubling the surface area of the membrane in a 
+dialyzer will roughly double the K 0A. Two dialyzers of the 
+same surface area do not necessarily have the same K 0A, 
+as the K 0 values of the membranes used in those dialyzers 
+can be markedly different. The K0 can be increased by mak-
+ing the membrane thinner, by adjusting its porosity, and by 
+optimizing the fluid path of dialysate in the dialyzer using 
+spacer yarns and other features.
+Figure 3.6 shows the relationship between blood flow 
+rate ( QB) on the horizontal axis and expected dialyzer 
+clearance ( KD) on the vertical axis. Each isopleth (curved 
+line) represents a different efficiency dialyzer, where dia -
+lyzer efficiency is expressed as dialyzer K 0A. The values of 
+K0A in Figure 3.6 range from 300 to 1,600 mL/min. Most 
+dialyzers in common use today for adults have K 0A values 
+of 800–1,600. This figure shows that as the blood flow is 
+FIGURE 3.6 Relationship between blood flow rate (QB) and dialyzer blood water urea 
+clearance (K) as a function of dialyzer efficiency (K0A). Each isopleth (curved line) rep-
+resents a different dialyzer having a different K0A value. To use the nomogram, find the 
+blood flow rate on the horizontal axis, then move up to the dialyzer K0A being used, and 
+read of the expected dialyzer urea clearance on the vertical axis. Theoretical clearance 
+values have been adjusted to more closely reflect expected values in vivo.
+100
+120
+140
+160
+180
+200
+220
+240
+260
+280
+300
+320
+340
+200 250 300 350 400 450 500
+Expected in vivo urea clearance (Kd, mL/min)
+True Whole Blood flow rate (Qb, mL/min)
+1600
+1400
+1200
+1000
+800
+700
+600
+500
+400
+K0A
+Daugirdas9781451144291-ch003.indd   41 11/10/14   3:02 pm
+Part II / Blood-Based Therapies
+42
+increased, the clearance increases, but the increase tends 
+to level off. You can see that when QB is low (~200 mL/
+min), dialyzers in the 800–1,600-mL/min K 0A range have 
+similar clearances. This is because at this low blood flow 
+rate, they are each extracting almost all of the urea in 
+the blood entering the dialyzer. The benefits of a “high-
+efficiency” (high K
+0A) dialyzer become apparent primarily 
+when the blood flow rate is high. Then the larger dialyzers 
+with thinner, more efficient membranes are able to keep 
+the extraction rate high, maximizing the increase in dia-
+lyzer clearance.
+3. Calculating the solute removal rate.  For a situation where a
+uniform solution is running through the dialyzer, one can
+calculate the removal rate (in mg/min or mmol/min) of a
+given solute. For example, if the inlet SUN is 1 mg/mL and
+we are clearing 240 mL/min of blood of urea, then we are
+removing 240 mg/min of urea nitrogen from the patient.
+4. Effect of erythrocytes.  In the concept of clearance described
+earlier, the blood was treated as a simple fluid. However,
+this is not the case. At a hematocrit of 30%, a blood flow
+of 400 mL/min is really a plasma flow rate of 280 mL/
+min and an erythrocyte flow rate of 120 mL/min. What is
+measured at the dialyzer inlet and outlet are the plasma
+levels of a given waste product. For urea, the presence of
+erythrocytes is not a major problem because urea diffuses 
+into and out of erythrocytes quickly. For example, if the
+outlet plasma urea nitrogen level is 40 mg/dL, the urea
+concentration in erythrocytes will have been reduced to
+about that level also. For creatinine and phosphorus and
+many other solutes, the problem is more complex because 
+these substances do not equilibrate quickly between
+plasma and erythrocytes. In fact, very little creatinine or
+phosphorus is removed from red blood cells during pas -
+sage through the dialyzer. When calculating the removal
+rate of creatinine or phosphorus in mg/min or mmol/min, 
+one needs to use the plasma flow rate instead of the blood 
+flow rate.
+5. Effect of blood water.  As noted, urea is dissolved in erythro -
+cytes and plasma water and is removed from both during
+passage through the dialyzer. Approximately 93% of plasma 
+is water (depending on its protein concentration), and
+about 72% of an erythrocyte is water. Some urea associates 
+with the nonwater portion of erythrocytes. On average,
+urea is dissolved in a volume that is about 86% of the blood. 
+The correction for blood water becomes important when
+using the dialyzer clearance to compute how much urea is
+being removed during a dialysis session.
+For solutes like creatinine and phosphorus that are 
+removed from the plasma compartment only passage 
+through the dialyzer, the volume of removal is about 93% of 
+Daugirdas9781451144291-ch003.indd   42 11/10/14   3:02 pm
+43Chapter 3 / Physiologic Principles and Urea Kinetic Modeling
+the plasma flow rate. Increasing the hematocrit (e.g., from 
+20% to 40%) causes only a trivial reduction of the blood wa-
+ter urea clearance but will be associated with a noticeable 
+reduction in the clearance of creatinine or phosphorus, due 
+to the effect of hematocrit on the plasma flow rate.
+6. Effect of dialysis solution flow rate.  Dialyzer clearance of urea 
+(and other solutes) depends on the dialysis solution flow 
+rate as well. A faster dialysis solution flow rate increases 
+the efficiency of diffusion of urea from blood to dialysate 
+although the effect is usually modest. The usual dialysis so-
+lution flow rate is 500 mL/min. A flow rate of 800 mL/min 
+will increase urea clearance by about 5%–8% when a high-
+efficiency dialyzer is used and when the blood flow rate is 
+greater than 350 mL/min. On the other hand, in some daily, 
+nocturnal, or intensive care unit (ICU)–based applications, 
+dialysate flow rate is markedly lower than 500 mL/min. 
+Such a reduced dialysate flow rate can cause substantial 
+reduction in dialyzer clearance. The optimum dialysis solu-
+tion flow rate is 1.5–2.0 times the blood flow rate. Above 
+that, the increase in efficiency is quite small, especially with 
+some of the newer dialyzers where the dialysis solution 
+flow path has been optimized.
+7. Effect of molecular weight on diffusive clearance.  B ecause high-
+molecular-weight solutes move slowly through solutions, 
+they diffuse poorly through the membrane. As a result, the 
+extraction ratio for molecules larger than urea will be less 
+than that of urea; plus, to calculate clearance, this lower ex-
+traction ratio must be multiplied by the plasma flow rate, 
+and not the blood flow rate.
+8. V ery large molecules.  V ery large molecules, such as β 2-
+microglobulin (MW 11,800), cannot get through the pores of 
+standard (low-flux) dialysis membranes at all. Thus, dialyzer 
+clearance of β2-microglobulin will be zero! “High-flux” mem-
+branes have pores of sufficient size to pass this large molecule. 
+Also, some dialysis membranes remove β2-microglobulin by 
+adsorption.
+9. Dialyzer efficiency versus flux.  W hen we speak of dialyzer ef-
+ficiency, we refer primarily to the ability of a dialyzer to 
+remove small solutes. The dialyzer efficiency is best rep-
+resented by the K 0A for urea. The flux of a dialyzer refers 
+to its ability to remove very large molecules such as β 2-
+microglobulin. There is no single measure in common use 
+to specify the flux of a dialyzer, though water permeabil-
+ity (KUF) can be used. Usually high-flux dialyzers will have 
+a water permeability greater than 15–20 mL/hr per mm 
+Hg. One can have a small, low-efficiency (K 0A = 400 mL/
+min) dialyzer (e.g., for use in children) that is high flux, or 
+a high-efficiency dialyzer (K0A = 1,200 mL/min) that is low 
+flux and that removes urea very well but that removes no 
+β2-microglobulin.
+Daugirdas9781451144291-ch003.indd   43 11/10/14   3:02 pm
+Part II / Blood-Based Therapies
+44
+III. SOLUTE REMOVAL FROM THE PATIENT PERSPECTIVE
+A. Importance of urea. Measurement of solute removal during hemo-
+dialysis focuses on urea. Urea is manufactured by the liver from 
+amino acid nitrogen via ammonia and is the principal way in 
+which nitrogenous waste products are excreted from the body. 
+Urea is a small molecule, with a molecular weight of 60 Da. It 
+is only slightly toxic. Urea generation occurs in proportion to 
+protein breakdown as reflected in the protein nitrogen appear-
+ance (PNA) rate. In stable patients, the PNA is proportional to 
+dietary protein intake. Using a mathematical model known as 
+urea kinetics, one can compute both the rate of removal and 
+production of urea. The extent of urea removal gives us a mea-
+sure of the adequacy of dialysis, and the amount of urea nitro-
+gen generation gives an estimate of dietary protein intake.
+B. The weekly serum urea nitrogen profile.  As a result of dialysis, the 
+predialysis SUN level is typically reduced by about 70% so that 
+postdialysis SUN is 30% of the predialysis value. During the 
+subsequent interdialytic period (assuming a thrice-weekly di -
+alysis schedule), the SUN will rise to almost the same level as 
+that seen prior to the first treatment. The result is a sawtooth 
+pattern. The time-averaged (TAC) SUN level can be computed 
+mathematically as the area under the sawtooth curve divided 
+by time. Both the predialysis SUN and TAC SUN levels reflect 
+the balance between urea production and removal. For a given 
+level of dialysis therapy, predialysis SUN and TAC SUN will rise 
+if urea nitrogen generation ( g) is increased and will fall if g is 
+decreased. Also, for any given rate of urea nitrogen generation, 
+predialysis SUN and TAC SUN levels will rise if the amount 
+of dialysis is decreased or will fall if the amount of dialysis is 
+increased.
+C. Pitfalls in targeting a predialysis SUN or TAC SUN.  Early attempts 
+to model dialysis adequacy focused on predialysis SUN or on 
+the TAC SUN. Therapy was thought to be adequate as long as 
+predialysis or TAC SUN was appropriately low. However, low 
+predialysis or TAC SUN levels were found to be associated with 
+a high mortality rate and were found to most often reflect in-
+adequate protein intake rather than adequate dialysis.
+D. Indices of urea removal
+1. Urea reduction ratio (URR). The current primary measure of di-
+alysis adequacy is the treatment-related URR. This is com -
+puted as follows: Assume that predialysis SUN is 60 mg/dL
+and postdialysis SUN is 18 mg/dL. The relative reduction
+in SUN (or urea) level is (60 − 18)/60 = 42/60 = 0.70. By
+convention, URR is expressed as a percentage, so the value
+of the URR in this example would be 70%.
+SI units:  Assume that predialysis serum urea is 
+21 mmol/L and postdialysis is 6.4 mmol/L. The relative reduc-
+tion in SUN (or urea) level is (21 − 6.4)/21 = 14.6/21 = 0.70.
+2. Kt/V urea. The Kt/V urea was popularized by Gotch and
+Sargent in their reanalysis of the National Cooperative Di-
+alysis Study (1985). In that study, a urea Kt/V value <0.8 was 
+Daugirdas9781451144291-ch003.indd   44 11/10/14   3:02 pm
+45Chapter 3 / Physiologic Principles and Urea Kinetic Modeling
+found to be associated with a high likelihood of morbidity 
+and/or treatment failure, while a Kt/V >1.0 was associated 
+with a good outcome. Largely because of this study, guide-
+lines groups have recommended a minimum Kt/V value of 
+at least 1.2 for hemodialysis patients being dialyzed three 
+times per week.
+The Kt/V urea is a dimensionless ratio representing 
+volume of plasma cleared of urea ( Kt) divided by the urea 
+distribution volume (V). K is the dialyzer blood water urea 
+clearance (L/hr), t is dialysis session length (hours, hr), and 
+V is the distribution volume of urea (liters, L), which is close 
+to total body water.
+K 3 t = L/hr 3 hr = L
+V = L
+(K 3 t)/V = L/L = dimensionless ratio
+If we deliver a Kt/V of 1.0, this implies that K × t, or the total 
+volume of blood cleared during the dialysis session, is equal 
+to V, the urea distribution volume.
+3. How URR is related to Kt/V. To understand this best, consider
+Figures 3.7 through 3.14. In a fishtank analogy (Fig. 3.7), if one 
+removes a fish from a 40-L tank, drains half (20 L) of the vol-
+ume and replaces the drained fluid with 20L of clean 
+ water, 
+the replaced and cleared volume can be thought of as Kt. The 
+volume of the tank is 40 L, so the Kt /V is 20/40 or 0.5. The 
+fish waste reduction ratio will be 50% after the 20 L of clean 
+FIGURE 3.7 Fractional clearance of 50% (Kt/V = 0.5) in a fish tank model with the fish 
+removed during cleaning. Note the fish waste reduction ratio is 50%, equal to the Kt/V.
+a. Remove fish
+Tank V = 40 L
+How is Kt /V related to the
+“fish waste” reduction ratio?
+Amount cleared (Kt ) = 20 L
+Tank V =  40 L
+Kt/V = 20/40 = 0.5
+After stirring:
+Fish waste reduction ratio
+50%
+d. Replace fish
+b. Remove 20 L 20 L
+unchanged
+20 L
+clean water
+Fish waste
+reduction ratio = ?
+c. Add 20 L cleaned
+water back to tank.
+Daugirdas9781451144291-ch003.indd   45 11/10/14   3:02 pm
+Part II / Blood-Based Therapies
+46
+water is mixed with 20 L of uncleaned water. In this situa-
+tion, Kt/V = fish waste reduction ratio = 0.5. In Figure 3.8, 
+we clean the tank more completely. On removing the fish, 
+the entire 40 L (V) is drained and replaced with clean water. 
+Then the fish is replaced. In this case, the cleared volume is 
+40 L, V = 40 L, and Kt /V = 40/40 = 1.0, and the fish waste 
+FIGURE 3.8 Fractional clearance of 100% (Kt/V = 1.0) in a fish tank model with the fish 
+removed during cleaning. The fish waste reduction ratio is 100%, equal to the Kt/V.
+a. Remove fish
+Tank V = 40 L
+How is Kt /V related to the
+“fish waste” reduction ratio?
+Amount cleared (Kt ) = 40 L
+Tank V =  40 L
+Kt/V = 40/40 = 1.0
+After stirring:
+Fish waste reduction ratio 100%
+d. Replace fish
+b. Remove 40 L
+40 L
+clean water
+c. Add 40 L cleaned
+   water back to tank.
+FIGURE 3.9 Fractional clearance of 100% (Kt/V = 1.0) in a fish tank model with the 
+fish left in place during tank cleaning. In this situation, the fish waste reduction ratio is 
+only 63%.
+a. DO NOT take out fish
+Tank V = 40 L
+Amount cleared (Kt ) = 40 L
+Tank V =  40 L
+Kt/V = 40/40 = 1.0
+BUT:
+Fish waste reduction ratio
+63% instead of 100%
+b. Remove 1 L
+c. Replace with 1 L clean water
+    DO THIS 40 TIMES.
+Daugirdas9781451144291-ch003.indd   46 11/10/14   3:02 pm
+47Chapter 3 / Physiologic Principles and Urea Kinetic Modeling
+reduction ratio is 100%. In this model, a Kt/V of 1.0 is a “per-
+fect” dialysis or cleaning; one that cannot be improved upon.
+A markedly different situation is shown in Figure 3.9. 
+In this case, the cleaning takes place without removing the 
+fish from the tank. With a 1-L cup, one removes 1 L of dirty 
+water and replaces it with 1 L of clean water. Taking out only 
+a small volume at a time keeps the fish happy and  allows it 
+to stay in the tank during cleaning. If one does this 40 times, 
+then a total of 40 L (40 × 1 L) will have been “cleared, ” and 
+the Kt will be 40. As the V is also 40, the Kt /V will again be 
+40/40, or 1.0. However, in this situation, the fish waste re-
+duction ratio will be only 63% instead of 100%. Why is this? 
+With each 1-L remove/replace cycle, the concentration of 
+fish waste in the tank gets reduced so that the subsequent 
+1-L remove/replace cycle removes less fish waste than the 
+cycle before. The progressive dilution of fish waste in the 
+tank during this cleaning process reduces the efficiency of 
+the process, and in this case, a Kt /V of 1.0 is no longer a 
+perfect cleaning, and substantial fish waste remains in the 
+tank at the end.
+Figures 3.10 and 3.11 show this in a more formal sense. 
+In Figure 3.10, we show a situation analogous to Figure 3.7, 
+where the fish has been removed from the tank during 
+cleaning. Here we consider a source tank containing 40 L, 
+and a “perfect” dialyzer, such that the outlet SUN is always 
+zero. The starting UN concentration in the source tank is 
+80 mg/dL. In Figure 3.10, the cleaning process is discontin-
+uous. Cleaned fluid is collected in a separate holding tank, 
+and the UN concentration of the cleaned fluid is zero. If one 
+runs 20 L through this ideal dialyzer, then Kt  is 20, and on 
+adding this cleaned fluid back to the source tank, the URR 
+will be 50%. If one runs 40 L through the ideal dialyzer, then 
+the Kt volume is 40 L; on adding this completely cleaned 
+fluid back to the source tank, the URR will be 100%. The 
+bottom panel of Figure 3.10 shows a graph of the relation-
+ship between URR and Kt/V and it is simply URR = Kt/V. 
+The middle panel shows the concentration of UN in the 
+fluid entering the dialyzer from the source tank as dialysis 
+progresses. The inlet SUN stays at 80 mg/dL throughout the 
+dialysis, making this process extremely efficient.
+Figure 3.11 shows the situation similar to when the fish 
+remains in the tank. In this situation, the UN concentration 
+of the fluid exiting the dialyzer is still zero, but the dialyzer 
+outlet fluid is routed back to the source tank. This results in 
+a continuous dilution of the UN concentration in the source 
+tank as dialysis progresses, and the inlet UN of the dialyzer 
+over time decreases as shown in the middle panel. The sys-
+tem with continuous fluid return is far less efficient than 
+when fluid is kept in a holding tank until the end of dialy-
+sis. With this new arrangement, even after running all 40 L 
+through our ideal dialyzer (Kt /V = 1.0), even though the 
+Daugirdas9781451144291-ch003.indd   47 11/10/14   3:02 pm
+Part II / Blood-Based Therapies
+48
+FIGURE 3.10 A: A fixed-volume model of urea removal (no urea generation) in which 
+fluid from the dialyzer is routed to a holding tank and is mixed with the source “body” 
+tank only at the end of dialysis. In this cartoon, blood flow rate is equal to dialyzer clear-
+ance as we are assuming a perfect dialyzer. B: The dialyzer inlet SUN (i.e., blood urea 
+nitrogen) remains constant (80 mg/dL [~28 mmol/L] in this example) throughout dialysis. 
+C: In this model, Kt/V = URR and Kt/V = 1.0 represents a perfect dialysis (all toxins 
+removed).  (Reproduced from Daugirdas JT. Urea kinetic modeling tutorial. Hypertens Dial 
+Clin Nephrol. Available at: http://www.hdcn.com.)
+V = 40 L
+SUN = 80
+SUN = 0
+100 (35.7)
+90 (32.1)
+80 ( 28.6)
+70 (25.0)
+60 (21.4)
+50 (17.9)
+40 (14.3)
+30 (10.7)
+20 (7.1)
+10 (3.6)
+0 (0.0)
+0.00 0.25 0.50 0.75 1.00 1.25 1.50 1.75 2.00
+Inlet SUN
+Kt/V
+1.00
+0.75
+0.63
+0.50
+0.25
+0.00
+0.00 0.25 0.50 0.75 1.00 1.25 1.50 1.75 2.00
+Kt/V
+URR  (1  –  Post-SUN/Pre-SUN)
+mg/dL (mmol/L)
+K t
+A
+B
+C
+Daugirdas9781451144291-ch003.indd   48 11/10/14   3:02 pm
+49Chapter 3 / Physiologic Principles and Urea Kinetic Modeling
+FIGURE 3.11 A: Another fixed-volume model, except this time the dialyzer outlet fluid is 
+continually returned to the source tank throughout dialysis. As shown in B, the inlet SUN 
+now falls exponentially during dialysis, reducing dialysis efficiency. C: With continuous 
+outlet return, a URR of only 0.63 is reached when the total tank volume (V) is passed 
+through the dialyzer, making Kt/V = 1.0.  (Reproduced from Daugirdas JT. Urea kinetic 
+modeling. Hypertens Dial Clin Nephrol. Available at: http://www.hdcn.com.)
+V  =  40 L
+SUN = 80, 70, 60, ...
+SUN = 0
+100 (35.7)
+90 (32.1)
+80 (28.6)
+70 (25.0)
+60 (21.4)
+50 (17.9)
+40 (14.3)
+30 (10.7)
+20 (7.1)
+10 (3.6)
+0 (0.0)
+0.00 0.25 0.50 0.75 1.00 1.25 1.50 1.75 2.00
+Kt/V
+Inlet SUN
+1.00
+0.75
+0.63
+0.50
+0.25
+0.00
+0.00 0.25 0.50 0.75 1.00 1.25 1.50 1.75 2.00
+Kt/V
+URR  (1 –  Post-SUN / Pre-SUN)
+mg/dL (mmol/L)
+K t
+A
+B
+C
+Daugirdas9781451144291-ch003.indd   49 11/10/14   3:02 pm
+Part II / Blood-Based Therapies
+50
+outlet SUN has been zero, there still will be urea left in the 
+tank. The bottom panel in Figure 3.11 shows the relation-
+ship between URR and Kt/V. Similar to the fishtank analogy, 
+when Kt/V is 1.0, the URR will be 0.63. Even if we run all 40 L 
+through a second (Kt/V = 2.0) and a third (Kt/V = 3.0) time, 
+the postdialysis SUN still will not be zero and the URR still 
+will not be 100%. Because of this dilution factor, long dialy-
+sis sessions become progressively less efficient in removing 
+small-molecular-weight solutes as the session continues.
+4. Effect of urea generation. I n Figure 3.12, we are back to cleaning 
+the fishtank. If one removes 40 L, one liter at a time × 40, and 
+we do this quickly, the fish waste reduction ratio will be 63%, 
+as discussed earlier. However, if we clean the tank slowly, 
+while we are cleaning the tank, the fish in the tank contin-
+ues to generate waste. If the “dialysis” or fish tank cleaning 
+takes 2 hours, we expect a fish waste reduction ratio of 63%, 
+but find instead a reduction ratio of only 61.5%, due to the 
+additional waste added to the tank by the fish during the 
+2-hour cleaning period. Similarly, if the cleaning takes 4 or 
+8 hours, a Kt/V of 1.0 will result in a waste reduction ratio of 
+only 60% or 57%, respectively. Finally, if the 40 L is replaced 
+very slowly, over 24 hours, then we have a continuous renal 
+replacement type of treatment, where a Kt/V of 1.0 per day 
+results in a waste reduction ratio of close to 0%. This means 
+that although URR and Kt/V are mathematically related, one 
+needs to take the length of the dialysis session into account.
+5. Additional Kt/V associated with volume removal. Kt/V by conven-
+tion is based on the postdialysis value for V. Commonly dur-
+ing dialysis, some fluid is removed, such that postdialysis 
+V will be several liters lower than the starting value. Along 
+with fluid volume reduction, some wastes are removed, 
+and this removal is not reflected by a change in concentra-
+tion. To understand this better, consider the extreme case 
+shown in Figure 3.13. Here we start with a fishtank that has 
+FIGURE 3.12 Effect of dialysis session length on the relationship between Kt/V and 
+URR. Due to continued production of fish waste (e.g., urea generation) during the removal 
+ process, the URR for any given Kt/V decreases as the session length increases.
+Effect of urea generation
+on Kt/V vs. URR
+(fish making waste while tank is being cleaned)
+•  If you replace 40 × 1 L, expected URR is 63%
+•  If you do this quickly, URR = 63%
+•  Over 2 hours: URR ∼61.5%
+•  Over 4 hours: URR ∼60%
+•  Over 8 hours: URR ∼57%
+•  Continously (CRRT): URR = 0%
+Daugirdas9781451144291-ch003.indd   50 11/10/14   3:02 pm
+51Chapter 3 / Physiologic Principles and Urea Kinetic Modeling
+a volume of 80 L. We simply drain 40 L and do not replace 
+any fluid. We have “cleared” (Kt ) 40 L, and the postdialysis 
+volume of the fishtank now is 40 L, so Kt /V is 40/40 = 1.0, 
+but the waste reduction ratio is zero. Thus, in the course of 
+volume reduction, we always get some additional Kt/V that 
+is not reflected in the waste reduction ratio.
+6. Quantification of the effects of urea generation and volume removal.  
+Figure 3.14 shows a nomogram that plots the relationship 
+between Kt/V and URR, adjusting for urea generation and 
+also volume removal. The dotted line is the same as the line 
+in Figure 3.11C. Remember, a Kt/V of 1.0 was associated 
+with a URR of 63%. With a 3.5–4.0-hour dialysis treatment, 
+the URR will be reduced by about 0.03 due to urea genera-
+tion; thus, because of urea generation, a Kt/V of 1.0 typically 
+is reflected by a URR of around 60% (instead of 63%). The 
+additional lines to the right and below the first solid curved 
+line represent the relationship between URR and Kt/V when 
+substantial fluid is removed. The heavy black line shows the 
+relationship when 3% of body weight is removed, and the re-
+maining two lines show the relationship when fluid removal 
+is 6% or 9% of body weight, respectively. A 3%-weight loss 
+(2.1 kg in a 70 kg patient) might be thought of as typical. We 
+can read off the URR corresponding to a Kt/V of 1.2 by mov-
+ing up from 1.2 on the horizontal axis to the heavy black iso-
+pleth (curved line), and then moving left to the vertical axis. 
+FIGURE 3.13 Effect of volume reduction on the relation between Kt/V and URR. Urea (or 
+fish waste) removed in the process of volume contraction will not be reflected in the URR. 
+Kt/V is calculated based on the postdialysis value for V.
+a. DO NOT take out fish
+Initial tank V = 80 L
+Final tank V = 40 L
+Amount cleared (Kt ) = 40 L
+Final Tank V =  40 L
+Kt/V = 40/40 = 1.0
+BUT:
+Fish waste reduction ratio
+0% instead of 63%
+b. Remove 40 L
+c. Do not replace anything
+Daugirdas9781451144291-ch003.indd   51 11/10/14   3:02 pm
+Part II / Blood-Based Therapies
+52
+The intersection of 1.2 with the 0.03 isopleth corresponds 
+to a URR of 65%. This is why guidelines recommending a 
+minimum Kt/V of 1.2 also recommend a URR of at least 65%. 
+However, the relationship between Kt/V and URR is not en-
+tirely fixed. If one is removing 9% of body weight during di-
+alysis, a URR of 65% translates to a Kt/V of 1.4, with the extra 
+0.2 Kt/V units coming from waste product removal that is 
+not reflected in a concentration change. Similarly, one can 
+achieve a Kt/V of 1.2 in patients with a 9% fluid removal rate 
+with a URR of only 58%. Other points of interest correspond-
+ing to a URR of 75% are also shown on the graph. When URR 
+is 75%, Kt/V will be 1.5, 1.6, 1.7, or 1.8 when fluid removal is 
+0%, 3%, 6%, or 9% of body weight, respectively.
+Equations have been developed that can approxi-
+mately translate URR to Kt/V by adjusting for the session 
+length (urea generation) and fractional volume removal. 
+One such equation (Daugirdas, 1995) is what follows:
+Kt/V = −ln(R − 0.008 3 t) + (4 − 3.5 3 R) 3 0.55 UF/V
+where ln is the natural logarithm, R is the ratio of postdi-
+alysis to predialysis SUN, t is the session length (in hours), 
+FIGURE 3.14 Actual relationship between Kt/V and URR, taking into account urea gen-
+eration and the effects of volume contraction. We now see that a Kt/V of 1.0 corresponds 
+to a URR of 0.60 instead of 0.63, due to urea generation. In fact, depending on how much 
+fluid is removed as a percentage of the body weight, a Kt/V of 1.0 can be attained with 
+URR values as low as 0.52, with an average URR of 0.57 (heavy line represents the usual 
+UF/W of 3%). A URR of 75% can correspond to a Kt/V of 1.5 in a patient with no fluid 
+removal, or to a Kt/V of 1.7 in a patient from whom 6% of body weight is being removed.  
+(Reproduced from Daugirdas JT. Urea kinetic modeling. Hypertens Dial Clin Nephrol. 
+Available at: http://www.hdcn.com.)
+EFFECT OF FLUID REMOVAL (UF/W) on URR vs. Kt/V
+6% of body weight removed (4 L in 70 kg)     extra 0.15 – 0.2 Kt/V
+URR (%)
+0.60
+UF/W
+g = 00.
+0
+0.03
+0.06
+0.09
+0.63
+1.9 1.8 1.7 1.6 1.5 1.4 1.3 1.2 1.1 1.0 0.9 0.8 0.7 0.6 0.5
+0.40
+0.45
+0.50
+0.55
+0.65
+0.70
+0.75
+0.80
+0.85
+Approximate Kt/V
+Daugirdas9781451144291-ch003.indd   52 11/10/14   3:02 pm
+53Chapter 3 / Physiologic Principles and Urea Kinetic Modeling
+UF is the volume of fluid removed during dialysis (in  liters), 
+and V is the postdialysis urea distribution volume (in 
+ liters). The 0.008 × t term adjusts the post-/pre-SUN ratio, 
+R, for urea generation and is a function of session length. 
+For nonstandard dialysis schedules or blood draw dates, 
+the 0.008 urea generation term can be optimized further 
+(Daugirdas, 2013). The second adjustment term accounts 
+for added Kt/V due to reduction in postdialysis V. If V is not 
+known, an anthropometric estimate can be used or V can 
+be assumed to be 55% of the postdialysis weight (W). The 
+expression then simplifies to
+Kt/V = −ln(R − 0.008 3 t) + (4 − 3.5 3 R) 3 UF/W
+This is the equation that was used to generate the curves in 
+Figure 13.14. Thus, both the URR and Kt/V are mathemati -
+cally linked, and both are determined primarily from the pre- 
+and postdialysis SUN levels. However, the Kt/V also takes into 
+account ultrafiltration and urea generation. Neither is supe-
+rior to the other as a measure of outcome.
+7. Multipool models, urea inbound, and rebound.  The model shown
+in Figure 3.11 assumes that urea is contained in a single
+body compartment. This assumption leads to a monoex -
+ponential decline in the SUN during dialysis, as per hollow
+circles in Figure 3.11B, and to a minimal rebound after di-
+alysis has been discontinued. In fact, the SUN profile during 
+dialysis deviates from the decrease shown in Figure 3.11B,
+usually being lower than expected (Fig. 3.15). Immediately
+after stopping dialysis, SUN rebounds to levels that cannot
+be explained on the basis of postdialysis urea generation
+(Fig. 3.15). These observations suggest that urea is being se-
+questered somewhere during dialysis. Because urea is being 
+removed from a smaller apparent volume during the early
+part of dialysis, the SUN during the initial part of dialysis
+falls more quickly than expected. We have designated this
+unexpected early fall in SUN during the early stages of a dial-
+ysis session as urea inbound. Toward the end of dialysis, as
+a concentration gradient develops between the sequestered 
+compartment and the accessible compartment, the fall in
+SUN slows. After dialysis is complete, continued movement 
+of urea from the sequestered to the accessible compartment 
+causes the postdialysis urea rebound (Fig. 3.15).
+a. Regional blood flow model. Urea sequestration during dialy-
+sis was initially explained as being due to difficulties in re-
+moving urea from cells. It has now been shown that urea 
+is sequestered during dialysis in tissues, primarily muscle, 
+that contain a high percentage of total body water, and
+hence urea, but receive a low percentage of the cardiac
+output. Because of the low ratio of blood flow through
+these tissues to their urea content, the transfer rate of
+urea from these tissues to the dialyzer by way of the cen-
+tral blood circulation is slow, causing urea sequestration.
+Daugirdas9781451144291-ch003.indd   53 11/10/14   3:02 pm
+Part II / Blood-Based Therapies
+54
+FIGURE 3.15 The effects of urea sequestration on the intradialytic fall in SUN (urea in-
+bound) and the postdialysis increase in SUN (rebound). When there is sequestration, the 
+intradialytic SUN level falls more quickly than expected (inbound) due to initial removal 
+from a smaller apparent space. However, after dialysis is complete, continued entry of 
+urea from the sequestered space to the proximal space causes urea rebound to occur.  
+(Reproduced from Daugirdas JT. Urea kinetic modeling. Hypertens Dial Clin Nephrol. 
+Available at: http://www.hdcn.com.)
+Pre Post
+1 Pool
+2 Pool
+Pre
+EQ
+Post
+Post
+Inbound
+Rebound
+SUN
+Dialysis
+Time
+b. Implications of urea inbound and rebound on measures of ad-
+equacy. The amount of urea removed during dialysis is
+dependent on the time-averaged dialyzer inlet urea con-
+centration during the treatment. If there is sequestra-
+tion, the time-averaged concentration will be lower than 
+that estimated from the pre- and postdialysis values by a 
+single-pool model, and as a result, the single-pool model 
+will overestimate the amount of urea removal.
+c. The concept of equilibrated  Kt/V (eKt/V). After dialysis,
+urea diffuses back from sequestered tissue sites into the
+blood to cause a postdialysis rebound, which is largely
+complete by 30–60 minutes. One can measure the post -
+dialysis SUN at this time and compute a “true” or equili-
+brated URR, which will be less than the URR based on
+Daugirdas9781451144291-ch003.indd   54 11/10/14   3:02 pm
+55Chapter 3 / Physiologic Principles and Urea Kinetic Modeling
+an immediate postdialysis sample. The equilibrated URR 
+can be translated into an equilibrated Kt/V.
+The amount of urea rebound depends on the in-
+tensity or rate of dialysis that was given relative to body 
+size. The rate of dialysis can be expressed as the number 
+of Kt/V units per hour, or (Kt/V) divided by t in hours. 
+Based on urea modeling, a formula modified from one 
+suggested by Tatersall (1996) can be used to predict the 
+amount of rebound based on the rate of dialysis:
+eKt/V = spKt/V 3 Td/(Td + 30.7)
+where eKt/V and spKt/V are equilibrated and single-pool 
+Kt/V, respectively, and Td is the dialysis session length in 
+minutes. The 30.7 is a time constant. The constant that 
+we recommend, 30.7 minutes, is based on data from the 
+HEMO study (Daugirdas, 2009, 2013) and is slightly dif-
+ferent from the value of 35 minutes originally suggested 
+by Tattersall. Using this equation, one can calculate the 
+eKt/V values corresponding to a spKt/V of 1.2 delivered 
+over 6, 3, or 2 hours.
+spKt/V t (hr) spKt/V per hour Rebound eKt/V
+1.2 6 0.2 0.09 1.11
+1.2 3 0.4 0.17 1.03
+1.2 2 0.6 0.24 0.96
+As is evident from the table, eKt/V can be significantly 
+less than spKt/V, especially during short dialysis treat -
+ments. Perhaps for this reason, the European Best 
+Practices guidelines set their minimum recommended 
+dialysis Kt/V of 1.2 in terms of eKt/V rather than spKt/V.
+I V. ACCESS RECIRCULATION. Normally blood flow through an AV access 
+averages about 1 L / min. The blood pump, which normally routes 
+a portion of this flow through the dialyzer, usually is set to take a
+flow of 350–500 mL/min. Because flow through the vascular ac-
+cess normally exceeds the demand of the blood pump, usually all
+of the blood coming into the blood pump is coming from the ac-
+cess upstream to the needle insertion site. The urea concentration 
+of blood entering the dialyzer is the same as that in the upstream 
+access, and there is no access recirculation (assuming, of course,
+that the access needles have not been placed too close to one an-
+other, and that the arterial and venous needle positions have not
+been inadvertently reversed). In a failing AV graft or fistula, flow
+through the access can decrease markedly, to 350–500 mL/min or 
+slower. In such circumstances, part of the flow leaving the dialyzer 
+reverses flow through the access and reenters the dialyzer. Then
+the dialyzer inlet blood becomes admixed, or “diluted, ” with dia-
+lyzer outlet blood. This phenomenon is called access recirculation.
+Daugirdas9781451144291-ch003.indd   55 11/10/14   3:02 pm
+Part II / Blood-Based Therapies
+56
+A. Impact of access recirculation on dialysis adequacy . W hen access 
+recirculation occurs, the urea concentration in the blood en-
+tering the dialyzer may be reduced by 5%–40% or more. The 
+amount of urea removed in the dialyzer is equal to the vol-
+ume of blood cleared × dialyzer inflow urea concentration. 
+Although dialyzer clearance remains unchanged, the amount 
+of urea removed is reduced because the concentration of urea 
+entering the dialyzer inlet is reduced. In patients with access 
+recirculation, if blood at the end of dialysis is drawn from the 
+dialyzer inlet blood line, the urea level in this blood will be 
+lower than that in the patient’s upstream blood. Hence, the ap-
+parent postdialysis SUN will be artifactually low, and the URR 
+and, consequently, the spKt/V both will be overestimated.
+B. A voiding the impact of access recirculation on URR or sp Kt/V by slow-
+ing the blood flow or by stopping dialysate flow at the end of dialysis prior 
+to blood sampling.  To ensure that blood being sampled reflects 
+patient blood, one needs to slow the blood pump to a flow rate 
+(e.g., 100 mL/min) that is assuredly below the access flow rate 
+for a short period of time (10–20 seconds). Lowering the blood 
+flow stops the backward flow of blood from the dialyzer outlet 
+to inlet and now all blood entering the arterial needle is up-
+stream blood. The length of the slow-flow period depends on 
+the dead space between the tip of the arterial needle and the 
+sampling port (usually about 9 mL in most adult blood lines). 
+A 10–20-  second period of 100 mL/min flow should be suffi-
+cient to allow the column of nonadmixed blood to reach the 
+sampling port in most blood lines. Postdialysis blood should 
+always be drawn after a short slow-flow period for this reason. 
+Merely stopping the blood pump prior to drawing the sample 
+at the end of dialysis does not prevent this problem, as the ad-
+mixed blood in the inlet blood line is simply “frozen” in place. 
+A sample taken from the inlet blood line after stopping the 
+pump still reflects admixed blood.
+Another clever method of avoiding this problem is to just shut 
+off the dialysate flow for 3 minutes at the end of dialysis (or 
+put dialysate flow into bypass) while letting the blood flow go 
+full tilt. After 3 minutes, the SUN level in the blood leaving the 
+dialyzer is similar to that going in, and so the inlet SUN level 
+now reflects the SUN level in the patient’s blood (see the 2006 
+National Kidney Foundation’s [NKF] Kidney Disease Outcome 
+Quality Initiative [KDOQI] adequacy guidelines).
+ V. CARDIOPULMONARY RECIRCULATION. A  recirculation can be defined 
+broadly to occur whenever blood leaving the dialyzer outlet re-
+turns to the inlet without first having traversed the peripheral 
+urea-rich tissues. In access recirculation, the recirculation oc-
+curs via the short access segment between the venous and ar -
+terial needles. Cardiopulmonary recirculation occurs through 
+the heart and lungs (which contain negligible amounts of urea) 
+when the dialyzer is fed from the arterial circulation (e.g., via an 
+AV access). During dialysis, cleared blood from the dialyzer outlet 
+Daugirdas9781451144291-ch003.indd   56 11/10/14   3:02 pm
+57Chapter 3 / Physiologic Principles and Urea Kinetic Modeling
+returns to the heart. In the aorta, the cleared blood is partitioned; 
+some of it gets routed to the nonaccess arteries that lead it to 
+the tissues to pick up more urea, but a fraction goes directly back 
+through the access to the dialyzer without having traversed a pe-
+ripheral capillary bed. When a dialyzer is fed from a venous ac-
+cess, cardiopulmonary recirculation cannot occur. Although an 
+AV urea gradient is still present, all of the blood leaving the dia-
+lyzer must go through the peripheral capillary bed before it sees 
+the dialyzer again.
+A. Impact of cardiopulmonary recirculation on dialysis adequacy.  Dur-
+ing dialysis using either an AV or a venous access, there is an 
+AV gradient for urea that is established. With an AV access, 
+the dialyzer “rides” the arterial intradialytic urea nitrogen 
+concentration curve, which is 5%–10% lower than the venous 
+intradialytic urea nitrogen concentration curve. Hence, di -
+alysis with an AV access is inherently less efficient (by about 
+5%–10%) than that using a venous access. This effect usually is 
+outweighed by the higher blood flow rates achievable with AV 
+access and the avoidance of venous catheter-related access 
+recirculation.
+VI. MODELING OF UREA DISTRIBUTION VOLUME.  Urea modeling can be
+used to determine the patient’s apparent urea space, V.  This is
+done using the “how many marbles in the box?” method. If one
+removes a certain number of marbles from a box, one can de-
+termine the size of the box if one also knows the concentration
+change. For example, if removal of 50 marbles causes a concen-
+tration change of 50%, we know that there was originally 100 mar-
+bles in the box, and if the starting concentration is 10 marbles/L, 
+we can calculate that the volume of the box must be 10 L. If re-
+moval of 50 marbles causes a concentration change of only 5%,
+we know that the starting number of marbles must have been
+1,000, and with an initial concentration of 10 marbles/L, the start-
+ing volume must have been 100 L.
+A urea modeling program first has to calculate how many 
+“marbles, ” that is, how much urea, was removed. The program 
+calculates the dialyzer clearance ( from dialyzer K
+0A and from 
+the blood, and dialysate flow rates), and from the session length 
+it calculates the volume of blood cleared (Kt)  during the entire 
+dialysis session. Next, it computes a urea concentration curve 
+during dialysis based on either a single-pool or a double-pool 
+model, as per Figure 3.15. From this it can compute an average 
+urea concentration during dialysis. The amount of urea removed 
+is then simply the dialyzer clearance ×  time ×  average dialyzer 
+inlet urea concentration. Next, the program knows the concen-
+tration change, because predialysis and postdialysis SUN are 
+measured and the laboratory values are put into the program. 
+So now the program knows how many marbles were removed 
+plus the concentration change, and from this information it can 
+calculate the “size of the box, ” V , which is the urea distribution 
+volume.
+Daugirdas9781451144291-ch003.indd   57 11/10/14   3:02 pm
+Part II / Blood-Based Therapies
+58
+In general, we know that V approximates about 90% of the 
+total body water volume. When following patients, one should 
+always look at the modeled volume to see if it makes sense. We 
+know that total body water is about 50%– 60% of body weight. An 
+anthropometric estimate (Watson or Hume Weyers) of V can also 
+be used (see Appendix B). The modeled volume should be within 
+about 25% of the anthropometric value for V.
+A more powerful use of V is to follow the modeled value over 
+time. Although values for V have a substantial variation from 
+treatment to treatment, a large change in V may reflect an error in 
+blood sampling technique, an unrecorded change in the amount 
+of dialysis (K × t) given, or the presence of access recirculation.
+A. V much smaller than usual. I n this case, the URR is higher than ex -
+pected, as is the Kt/V. Because the modeling program is told that 
+K and t have not changed, the high Kt/V causes the program to 
+conclude that the patient must have shrunk, and a smaller than 
+usual value for V is calculated. Most often, if the V is reduced by 
+about 100%, the problem is that the postdialysis blood sample 
+was drawn from the dialyzer outlet line instead of the inlet.
+B. V much larger than normal.  I n this scenario, the URR and Kt/V 
+are lower than expected, and so the program concludes that 
+if K and t  are unchanged, then the patient must have some-
+how expanded to account for such a low Kt/V. In fact, the real 
+problem is that either K  or t  is actually lower than recorded. 
+The most common problems causing this are treatment inter-
+ruption ( full duration of dialysis session not given), lowering 
+of the blood flow rate due to technical problems (K lower than 
+expected), or some sort of dialyzer performance problem 
+resulting in reduced dialyzer clearance. Access recirculation 
+can also cause an apparent increase in V  because effective 
+clearance is reduced because of dilution of urea at the dialyzer 
+blood inlet. One caveat: The effects of access recirculation on 
+V will only be seen if blood is drawn properly (e.g., after a slow-
+flow period). If blood drawn postdialysis is admixed with blood 
+from the dialyzer outlet, then the URR will be artifactually 
+increased. The expected lowering of URR due to access recir -
+culation then may not be seen, and modeled V may not change.
+ VII. UREA NITROGEN GENERATION RATE (g) AND THE nPNA. O ne of the ben-
+efits of urea modeling is that the generation rate of urea nitrogen 
+(g) and the nPNA can be estimated. The way a computer modeling 
+program does this is shown in Figure 3.16. From a pre- and post -
+dialysis SUN and from other information regarding the dialysis 
+session, an initial estimate of patient urea distribution volume is 
+made, as described earlier. The program then puts in various es-
+timates for urea nitrogen generation (g) and generates a separate 
+sawtooth weekly SUN curve corresponding to each guess. Higher 
+values of g will result in higher sawtooth curves. The program then 
+looks to see which curve matches the actual measured predialysis 
+SUN level. The level of g (and nPNA) corresponding to this curve is 
+then chosen as the estimated value for that particular patient.
+Daugirdas9781451144291-ch003.indd   58 11/10/14   3:02 pm
+59Chapter 3 / Physiologic Principles and Urea Kinetic Modeling
+The clinical utility of g or nPNA is somewhat debatable. 
+nPNA is not a very robust predictor of mortality (once serum 
+albumin and creatinine are controlled for). Generally, outcome 
+is poor when nPNA is low, as this usually reflects poor dietary 
+intake. Before one can make the assumption that a low nPNA re-
+flects a low dietary protein intake, one needs to make sure that 
+other sources of urea loss such as residual renal clearance have 
+been properly accounted for. Rarely, a patient will have a low 
+nPNA because he or she is improving markedly, and much of the 
+dietary protein intake is being used for anabolism; in this happy 
+but unusual circumstance, the urea nitrogen is going into build-
+ing tissue and is not “appearing” in the blood. A high nPNA is not 
+always a good thing, as it may be due to tissue breakdown (i.e., to 
+hypercatabolism).
+ VIII. RESIDUAL RENAL FUNCTION.  Residual renal function has been
+shown to be of great survival benefit in dialysis patients, and its
+impact in peritoneal dialysis patients appears to be greater than
+that of peritoneal clearance.
+In dialysis patients, residual kidney clearance can be ap-
+proximated as the average of the creatinine and urea clearances.
+Urea clearance (K
+ru) underestimates the glomerular filtration
+rate (GFR) due to proximal tubular urea reabsorption, whereas
+FIGURE 3.16 How a urea kinetic modeling program determines the PNA rate. From the 
+pre- and postdialysis SUN, the session length, and volume reduction, and an estimate 
+of dialyzer clearance, the patient V is estimated. Then various values of urea generation 
+(which corresponds tightly to nPNA) are plugged in, and weekly sawtooth SUN patterns 
+are generated. The nPNA is assumed to be that value that generates a curve where the 
+sawtooth peak for the day of the week when modeling values are drawn matches the 
+laboratory value.
+How is nPNA computed in HD?
+• Depends on pre-SUN
+• Computer estimates patient V, then generates multiple weekly
+SUN profiles for different values of nPNA (g )
+Mon
+Wed
+Mon
+Fri
+Actual pre-SUNPre
+Pre
+Post Post Post
+Pre
+nPNA = 1.0
+nPNA = 1.2
+nPNA = 0.8
+Daugirdas9781451144291-ch003.indd   59 11/10/14   3:02 pm
+Part II / Blood-Based Therapies
+60
+creatinine clearance (Krc) overestimates GFR because of tubular 
+secretion. It is well established that ESRD patients with substan-
+tial residual renal function (Kr) live longer, and so it is important 
+to attempt to preserve residual function and to minimize poten -
+tial injury to the end-stage kidney (e.g., by avoiding nephrotoxic 
+drugs and by minimizing intradialytic hypotension).
+A. Measuring the Kru. For this, one needs to collect all urine dur -
+ing a 24-hour period of the interdialytic interval. Usually, the 
+patient starts the collection 24 hours before coming to the 
+dialysis unit and then reports to the unit with the urine con-
+tainer and gives a sample of blood to measure the SUN. If the 
+patient is receiving a usual amount of dialysis (three times 
+a week only!), and if the collection interval is 24 hours prior 
+to dialysis, one can assume that the average serum urea level 
+during the collection will be about 86% (prior to a midweek 
+session) or 90% (prior to a first-of-week session)  of the pre-
+dialysis SUN (Daugirdas, unpublished observations). The K
+ru 
+calculation is then:
+Kru = UUN
+SUN  3 urine flow rate (mL/min)
+where UUN is the urine urea nitrogen concentration.
+The units for the UUN and SUN do not matter, but they 
+must be the same, as they cancel each other out. Typically, Kru 
+values of 0–8 mL/min will be obtained.
+Problem: If urine flow rate is 0.33 mL/min, or 20 mL/hr, 
+over 24 hours one would collect 480 mL of urine. Assume that 
+the urine urea concentration is about 800 mg/dL (285 mmol/L) 
+and that the collection was during the 24-hour interval imme-
+diately preceding a first-of-week dialysis session. Predialysis 
+SUN for that dialysis is 56 mg/dL (20 mmol/L). What is the K
+ru?
+Solution in mg/dL units: First, compute the estimated 
+mean SUN during the 24-hour collection interval. As discussed 
+earlier, the estimated mean SUN during the collection period 
+is 90% of the predialysis SUN, or 0.9 × 56 = 50 mg/dL. So K
+ru = 
+(800 mg/dL × 0.33 mL/min)/50 mg/dL = 5.3 mL/min.
+Solution in SI units: First, compute the estimated mean 
+SUN during the 24-hour collection interval. As discussed earlier, 
+the estimated mean SUN during the collection period is 90% of 
+the predialysis SUN, or 0.9 × 20 = 18 mmol/L. So K
+ru = (0.285 
+mmol/mL × 0.33 mL/min)/0.018 mmol/mL = 5.3 mL/min.
+IX. STANDARD Kt/V UREA. The so-called “standard” Kt /V urea grew
+out of two desires: (1) to come up with a measure of hemodialysis 
+adequacy that was not dependent on number of treatments per
+week and (2) to have a measure where the minimum dose for he-
+modialysis would be similar to the minimum dose for peritoneal
+dialysis.
+A. Casino Lopez EKRU. One can compute the equivalent urea clear-
+ance for any given dialysis regimen using the same principle as 
+computing a creatinine clearance: For creatinine, if one knows 
+Daugirdas9781451144291-ch003.indd   60 11/10/14   3:02 pm
+61Chapter 3 / Physiologic Principles and Urea Kinetic Modeling
+the per minute generation rate ( from a 24-hour urine collec-
+tion) and the mean plasma level, one can compute clearance 
+as a ratio of the two.
+Crcl = UV
+P
+where Cr cl is creatinine clearance, UV  is the urine flow rate 
+multiplied by the urine creatinine concentration, and P is the 
+mean plasma concentration of creatinine during the collection 
+period. From the timed urine collection one knows how much 
+creatinine is being generated per minute, and if we know the 
+plasma concentration during the collection period, we know 
+how much plasma is being cleared to remove the amount of 
+creatinine that is being generated to maintain steady state.
+This type of calculation was adapted to hemodialysis and 
+urea removal by Casino and Lopez (1996). As discussed earlier 
+and as shown in Figure 3.16, a urea modeling program can ob-
+tain a value for urea generation rate for any dialysis schedule, 
+assuming steady state. The same modeling program can then 
+calculate the time-averaged concentration of SUN (TAC) for 
+the week. Once g and TAC are known, an equivalent urea clear-
+ance (EKRU) can be calculated for any dialysis regimen, similar 
+to creatinine clearance as follows:
+EKRU = g
+TAC
+If one uses this approach to calculate an EKRU correspond -
+ing to a three-times-per-week dialysis schedule with spKt/V of 
+1.2, the EKRU turns out to be about 11 mL/min. Theoretically, 
+one can take any hemodialysis prescription, compute g and 
+TAC using a modeling program, and then convert it to EKRU 
+in mL/min. This EKRU value theoretically can be added to the 
+measured residual renal urea clearance. The resulting EKRU 
+can be expressed either in mL/min or in liters per week. When 
+expressed as liters per week, EKRU can be thought of as a (K × 
+t) term, or volume of plasma cleared during the week, and this 
+can then be normalized to V to calculate a weekly equivalent 
+Kt/V urea.
+Problem: In a patient with V = 35 L, EKRU is 11 mL/min. 
+What is the equivalent weekly Kt/V urea?
+Solution: 11 mL/min × 10,080 min per week divided by 
+1,000 to convert milliliters to liters gives a weekly volume of 
+plasma cleared of 110 L per week. This is the K × t term of Kt/V. 
+Dividing by V = 35, we get weekly Kt/V urea = 3.14.
+B. Standard Kt/V urea. O ne problem with the EKRU metric was that 
+the minimum spKt/V of 1.2 given three times per week seemed 
+to translate into a weekly equivalent Kt/V urea of 3.14, substan-
+tially higher than the weekly Kt/V urea of around 2.0 needed 
+in peritoneal dialysis patients. To fix this problem, Keshaviah, 
+and later Gotch, proposed a “peak concentration hypothesis. ” 
+Daugirdas9781451144291-ch003.indd   61 11/10/14   3:02 pm
+Part II / Blood-Based Therapies
+62
+They  surmised that one difference between PD and hemo-
+dialysis is that in the latter there are peaks of urea and other 
+uremic toxins. They also noticed that for a three-times-per-
+week schedule, the average peak concentration of urea was 
+about one-third higher than the time-averaged concentration. 
+Accordingly, they suggested dividing g  by the mean weekly 
+predialysis SUN level instead of by the time-averaged urea 
+level (Fig. 3.17). Dividing by the higher mean predialysis value 
+resulted in lowering the new measure of dialysis adequacy 
+by about one-third. For a standard three-times-per-week HD 
+regimen with a spKt/V of 1.2, the new equivalent clearance was 
+about 7 mL/min versus 11 mL/min with EKRU, and the weekly 
+equivalent Kt/V using the new measure, termed “standard 
+Kt/V” by Gotch, was 2.0, similar to that for peritoneal dialysis.
+1. Sequestered solute and standard  Kt/V. I t has been pointed 
+out by Depner that standard Kt/V might be thought of as 
+modeling a solute other than urea. The solute represent -
+ing standard Kt/V would be easily removed by dialysis, 
+but would be highly sequestered, with a very high postdi-
+alysis rebound. The mean predialysis level of such a highly 
+sequestered solute would be similar to its time-averaged 
+value. Removal of such a highly sequestered solute would 
+be markedly improved by increasing dialysis frequency. If 
+one looks at the relationship between standard Kt /V and 
+dialysis frequency (Fig. 3.18), it is clear that standard Kt /V 
+can only be increased above 3.0 or so if dialysis frequency is 
+more than three times per week.
+2. Calculating the dialysis-related standard  Kt/V in clinical prac-
+tice. T his can be done using a urea kinetics modeling program. 
+An open source version of a formal urea kinetic modeling pro-
+gram is available at http://ureakinetics.org (Daugirdas, 2009). 
+FIGURE 3.17 How standard Kt/V is calculated. The urea generation rate is determined 
+along with the nPNA as in Figure 3.16, and then this figure is divided by the average 
+predialysis SUN level.
+•  Devised to make HD and PD match
+What is “standard” Kt/V?
+•  Divide g by mean pre-SUN instead of by TAC SUN
+•  Resulting equivalent weekly Kt/V is about 1/3 lower
+Mon
+Wed Fri
+Mon
+Mean pre-SUN
+TAC SUN
+Daugirdas9781451144291-ch003.indd   62 11/10/14   3:02 pm
+63Chapter 3 / Physiologic Principles and Urea Kinetic Modeling
+Dialysis-related standard Kt/V can also be computed using a 
+simplified equation developed by the FHN group of investiga-
+tors (Daugirdas, 2010) as described in Appendix C.
+3. Adding the residual renal urea clearance to standard  Kt/V 
+urea.  D irect addition of residual renal urea clearance to 
+standard Kt/V is problematic, as the standard Kt /V is an 
+artificial construct. Some people do this, some do not. One 
+needs to calculate the dialysis component of standard Kt/V 
+and express it as mL/min format by multiplying by V and 
+dividing by the number of minutes in a week. Then one 
+can add residual renal urea clearance. After the residual 
+renal clearance has been added, one can convert back to a 
+weekly value (Daugirdas, 2010).
+C. Issues relating to normalizing by  V. Normalizing Kt to V is conve -
+nient and makes sense, because urea is distributed in total 
+body water and its generation rate is proportional to V. How -
+ever, because V represents largely muscle mass, it is not en-
+tirely clear that someone with 10% more muscle needs 10% 
+more dialysis. Dosing dialysis by Kt/V may result in lower 
+doses of dialysis for smaller people, including women and chil-
+dren (Daugirdas, 2014). An alternative approach is to scale the 
+FIGURE 3.18 Standard Kt/V as a function of treatment Kt/V (single pool) and number of 
+treatments per week (shown on the right). This is the modeled standard Kt/V, using a dia-
+lyzer clearance of 220 mL/min in a patient with a V of 40 L. As shown, it is difficult to get 
+to a standard Kt/V greater than 3.0 with a three-times-per-week schedule. Dialysis times 
+ranged from 30 to 450 min. 
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+0.4 0.6 0.8 1 1.2 1.4 1.6 1.8 2 2.2 2.4
+Standard Kt/V (per week)
+Single-pool Kt/V per session
+7
+6
+5
+4
+3
+2
+Daugirdas9781451144291-ch003.indd   63 11/10/14   3:02 pm
+Part II / Blood-Based Therapies
+64
+dialysis dose (K × t) to body surface area. This will result in rel-
+atively more dialysis for smaller people, women and children, 
+and relatively less dialysis for larger patients. Some observa -
+tional data support use of such an alternative, body surface 
+area scaling approach (Lowrie, 2005). These scaling issues 
+are discussed more completely in a recent review (Daugirdas, 
+2014). See Appendix C for a method of calculating surface-area 
+normalized standard Kt/V.
+ X. MACHINE-ESTIMATED MEASURES OF HEMODIALYSIS ADEQUACY
+A. Estimating dialyzer clearance by pulsing dialysate with sodium and 
+analyzing resulting changes in dialysate conductivity. Measuring ad-
+equacy using urea is time consuming and involves the use of 
+needles, exposure of staff and patient to blood, and consider -
+able effort in processing and analyzing blood samples. One al-
+ternative approach is to measure the clearance of the dialyzer 
+online by causing a step increase in dialysate sodium and then 
+measuring the conductivity of the dialysate flowing into the 
+dialyzer and comparing this to the dialysate exiting the dia-
+lyzer over a short period of time. Many of the technical issues 
+have been solved, and dialyzer conductivity-based clearances 
+reflect in vivo dialyzer urea clearances quite well. An advan-
+tage of this method is that clearances can be computed mul-
+tiple times throughout a dialysis session. One disadvantage is 
+that conductivity-based clearances measure what happens in 
+terms of dialyzer clearance, but not what happens in the pa-
+tient. See Gotch (2004) and McIntyre (2003) for a more com-
+plete discussion of these issues.
+B. UV absorbance of spent dialysate.  Another approach to machine-
+measured hemodialysis adequacy is to monitor the ultraviolet 
+(UV) light absorbance of spent dialysate. UV light absorption 
+at selected wavelengths corresponds to dialysate concentra-
+tion of uric acid, and other small-molecular-weight solutes. 
+Analysis of the spent dialysate UV absorption curve over time 
+mirrors what goes on in the blood, and the ratio of the early 
+and late dialysate UV absorption mirrors the predialysis and 
+postdialysis SUN. From this the Kt /V of a treatment can be 
+computed as it progresses, and the information reflects what 
+is happening in the patient (Uhlin, 2006).
+References and Suggested Readings
+Casino FG, Lopez T. The equivalent renal urea clearance. A new parameter to assess 
+dialysis dose. Nephrol Dial Transplant. 1996;11:1574–1581.
+Daugirdas JT. Simplified equations for monitoring Kt/V, PCRn, eKt/V, and ePCRn. Adv 
+Ren Replace Ther. 1995;2:295–304.
+Daugirdas JT. Dialysis dosing for chronic hemodialysis: beyond Kt/V . Semin Dial. 
+2014;27:98–107.
+Daugirdas JT, Schneditz D. Overestimation of hemodialysis dose depends on dialysis 
+efficiency by regional blood flow but not by conventional two pool urea kinetic 
+analysis. ASAIO J. 1995;41:M719–M724.
+Daugirdas JT, et al; for the Hemodialysis Study Group. Factors that affect postdialysis 
+rebound in serum urea concentration, including the rate of dialysis: results from 
+the HEMO Study. J Am Soc Nephrol. 2004;15:194–203.
+Daugirdas9781451144291-ch003.indd   64 11/10/14   3:02 pm
+65Chapter 3 / Physiologic Principles and Urea Kinetic Modeling
+Daugirdas JT, et al. Solute-solver: a Web-based tool for modeling urea kinetics for 
+a broad range of hemodialysis schedules in multiple patients. Am J Kidney Dis. 
+2009;54:798–809.
+Daugirdas JT, et al; Frequent Hemodialysis Network Trial Group. Standard Kt/V urea: 
+a method of calculation that includes effects of fluid removal and residual kidney 
+clearance. Kidney Int. 2010;77:637–644.
+Daugirdas JT, et al; FHN Trial Group. Improved equation for estimating single-pool 
+Kt/V at higher dialysis frequencies. Nephrol Dial Transplant. 2013;28:2156–2160.
+Depner TA, Daugirdas JT. Equations for normalized protein catabolic rate based 
+on two-point modeling of hemodialysis urea kinetics. J Am Soc Nephrol. 1996;7:  
+780–785.
+Depner TA, et al. Dialyzer performance in the HEMO study: in vivo K 0A and true 
+blood flow determined from a model of cross-dialyzer urea extraction. ASAIO J . 
+2004;50:85–93.
+Gotch FA. Evolution of the single-pool urea kinetic model [abstract]. Semin Dial . 
+2001;14(4):252–256.
+Gotch FA, et al. Mechanisms determining the ratio of conductivity clearance to urea 
+clearance. Kidney Int Suppl. 2004;(89):S3–S24.
+Leypoldt JK, Jaber BL, Zimmerman DL. Predicting treatment dose for novel therapies 
+using urea standard Kt/V. Semin Dial. 2004;17:142–145.
+Leypoldt JK, et al. Hemodialyzer mass transfer-area coefficients for urea increase 
+at high dialysate flow rates. The Hemodialysis (HEMO) study. Kidney Int. 
+1997;51:2013–2017.
+Lowrie EG, et al. The online measurement of hemodialysis dose (Kt): clinical outcome 
+as a function of body surface area. Kidney Int. 2005;68(3):1344–1354.
+Melamed ML, et al. Retained organic solutes, patient characteristics and all-cause and 
+cardiovascular mortality in hemodialysis: results from the retained organic solutes 
+and clinical outcomes (ROSCO) investigators. BMC Nephrol. 2013;14:134.
+McIntyre CW , et al. Assessment of haemodialysis adequacy by ionic dialysance: 
+ intra-patient variability of delivered treatment. Nephrol Dial Transplant. 
+2003;18:559–563.
+Schneditz D, et al. Cardiopulmonary recirculation during dialysis. Kidney Int. 
+1992;42:1450.
+Sirich TL, et al. Numerous protein-bound solutes are cleared by the kidney with high 
+efficiency. Kidney Int. 2013;84:585–590.
+Tattersall JE, et al. The post-hemodialysis rebound: predicting and quantifying its effect 
+on Kt/V . Kidney Int. 1996;50:2094–2102.
+Uhlin F, et al. Dialysis dose (Kt/V) and clearance variation sensitivity using measure-
+ment of ultraviolet-absorbance (on-line), blood urea, dialysate urea and ionic 
+ dialysance. Nephrol Dial Transplant. 2006;21:2225–2231.
+Web References
+KDOQI Hemodialysis Adequacy guidelines 2006. http://www.kidney.org.
+Urea kinetic modeling calculators. http://www.ureakinetics.org.
+Urea kinetic modeling channel. http://www.hdcn.com/ch/adeq/.
+Daugirdas9781451144291-ch003.indd   65 11/10/14   3:02 pm

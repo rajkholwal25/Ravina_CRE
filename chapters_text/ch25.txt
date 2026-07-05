@@ -1,0 +1,953 @@
+464
+25
+The prescription of chronic peritoneal dialysis involves a number of 
+elements. Initially, there is the choice of peritoneal dialysis modality 
+between continuous ambulatory peritoneal dialysis (CAPD) and cy -
+cler or automated peritoneal dialysis (APD) and their variants. Then 
+there is the selection of a specific prescription based on clearance, 
+ultrafiltration, and nutritional/metabolic requirements. The term 
+“adequacy” is often used in this context and usually refers specifi-
+cally to the quantity of clearance delivered but can also be used in a 
+broader sense to reflect the quality of the dialysis prescription as a 
+whole. Please review Chapter 21 (Physiology) and 22 (Equipment) at 
+this time, as many concepts discussed in those chapters will not be 
+repeated here.
+ I. CHOICE OF A P ErItOnEAl D IAlysIs (PD) trEAtMEnt MODA lIty 
+ (Table 25.1, Fig. 25.1)
+A. Modalities of peritoneal dialysis therapy
+1. CAPD. The simplicity of CAPD, the ease of doing it at home, 
+its relatively low cost, and the associated freedom from 
+dialysis machinery have combined to make it historically 
+the most popular chronic peritoneal dialysis modality. 
+It provides continuous therapy and a steady physiologic 
+state. Control of body fluid volume can usually be achieved, 
+and normalization of blood pressure is possible in most 
+patients.
+The principal disadvantage of CAPD for many patients 
+is the requirement for multiple procedural sessions (usu -
+ally four per day), each taking up 30–40 minutes of patient 
+time. While these can be done away from home, the require-
+ment for sterility and access to supplies usually means that 
+the patient returns home, and so this may constrain daily 
+activities somewhat. Frequency of procedures may also be 
+an issue where relatives or other caregivers are carrying out 
+the exchanges for the patient. Other factors are limitations 
+on dwell volumes due to increased intraperitoneal pressure 
+and a limited range of solute clearance. Episodes of perito-
+nitis occurring as often as once every 12 months were a sig-
+nificant disadvantage in the past; however, with improved 
+Adequacy of Peritoneal 
+Dialysis and Chronic 
+Peritoneal Dialysis 
+Prescription
+Peter G. Blake and John t. Daugirdas
+Daugirdas9781451144291-ch025.indd   464 09/10/14   1:30 am
+Chapter 25 / Adequacy of Peritoneal Dialysis 465
+CAPD
+APD with  
+Day Dwell
+APD without  
+Day Dwell
+PD solution used (L/wk) 56–72 70–120 84–120
+Dialysis time (hr/wk) 168 168 70
+Time on machine (hr/wk) 0 63–70 63–70
+Number of procedures/wk 28 14 14
+Kt/V urea/wk 1.5–2.4 1.5–2.6 1.2–2.0
+CrCl (L/wk) 40–70 40–70 25–50
+Comparison of Typical CAPD and APD Prescriptions
+25.1
+TABLE
+CAPD
+APD with 1 Day Dwell
+10 p.m. 10 p.m.7 a.m.
+Day Dry APD
+10 p.m. 7 a.m. 12 p.m. 5 p.m. 10 p.m.
+10 p.m. 10 p.m.7 a.m.
+APD with 2 Day Dwells
+10 p.m. 10 p.m.7 a.m. 6 p.m.
+APD with Short Day Dwell (Evening)
+10 p.m. 10 p.m.7 a.m. 6 p.m.
+FIGUrE 25.1 Diagrammatic representation of various CAPD and APD prescriptions.
+Daugirdas9781451144291-ch025.indd   465 09/10/14   1:30 am
+Part III / Peritoneal Dialysis
+466
+transfer sets and connecting devices, such occurrences have 
+been markedly reduced and successful programs report 
+rates of one peritonitis episode every 3 years or fewer.
+2. APD. This has become very popular over the past  10–15 years 
+and, in many wealthier countries, is being used in the ma-
+jority of peritoneal dialysis patients. The main advantage of
+APD, compared with CAPD, is the lesser number of on–off
+procedures required each day—typically two versus four for
+CAPD—and none during the daytime. All connections and
+preparation of equipment usually take place in the privacy of 
+the home so that psychological adjustment is facilitated and
+patient fatigue and “burnout” may be reduced. APD is an at-
+tractive treatment option for active individuals who would be 
+inconvenienced by the interruptions in daily routine that
+are required with CAPD. APD is also the therapy of choice
+for most patients who require assistance in carrying out
+their dialysis (e.g., children, the dependent elderly, and
+nursing home residents).
+The main disadvantages of APD relative to CAPD 
+are the need for a cycler, the greater cost, and the slightly 
+greater complexity.
+APD has classically been divided into APD with a day 
+dwell, often called continuous cycling peritoneal dialysis 
+(CCPD), and day dry APD (Fig. 25.1), often called nocturnal 
+intermittent peritoneal dialysis (NIPD). These modalities 
+have already been described in Chapters 21 and 22.
+An alternative form of APD is tidal peritoneal dialysis 
+(TPD). This modality uses an initial fill volume followed by 
+partial drainage at periodic intervals 
+ (Fernando, 2006). The 
+principal purpose of TPD was to enhance clearance of small 
+solutes by avoiding the normal loss of dialysis time associ-
+ated with inflow and drainage. In terms of clearance, the 
+advantage of TPD over standard APD is not seen unless very 
+large quantities of dialysis solution are used. The main use 
+of TPD nowadays is to minimize drain pain during night -
+time cycling. The main disadvantage of high-volume TPD 
+is increased cost and complexity, and it is not widely used.
+B. CAPD or APD: Which modality to choose? This decision should take 
+into consideration both patient preferences and the need to 
+provide a medically optimal peritoneal dialysis prescription. 
+Patient preferences may be based on lifestyle, employment, 
+place of residence, ability to perform the various modalities of 
+PD, comfort with cycler technology, and the degree of family 
+and social support. In the past, peritoneal transport status and 
+its influence on clearance and fluid removal were thought to 
+be critical in choosing between CAPD and the different types 
+of APD, but there is now an increasing sense that these aspects 
+were overstated and that lifestyle factors should be given more 
+emphasis.
+APD was previously thought to be better than CAPD 
+for managing volume status. However, the phenomenon of 
+Daugirdas9781451144291-ch025.indd   466 09/10/14   1:30 am
+Chapter 25 / Adequacy of Peritoneal Dialysis 467
+sodium sieving (see Chapter 26) is more apparent with the 
+short-cycled dwell times of APD, and this, along with the risk 
+of net fluid resorption with long day dwells, has led to concerns 
+about adequacy of sodium removal with APD. One recent study 
+suggests less salt removal and a higher prevalence of systolic 
+hypertension with APD than with CAPD, but this was not a 
+randomized trial, and there is no consensus that these findings 
+are generalizable (Rodriguez-Carmona, 2004). Salt and water 
+removal require close attention on both CAPD and APD, but 
+there is insufficient evidence to justify it being a factor in initial 
+modality selection.
+Risk of peritonitis is another medical factor that may arise 
+when deciding between CAPD and the variants of APD. One 
+randomized trial done over two decades ago showed less peri-
+tonitis on APD, but both modalities have changed since then, 
+and there is now no consensus that one or the other is more 
+likely to predispose to peritonitis.
+A third consideration is cost. CAPD generally is cheaper 
+than APD. Dialysis programs have to deal with financial con-
+straints, and in some settings, patients may have to bear some 
+or all of the costs.
+ II. CHOICE OF A PrEsCrIPtIOn
+A. Clearance targets
+1. Weekly Kt/V urea. Clearance targets in PD are set in terms of 
+weekly urea clearance ( Kt) normalized to the patient’s es -
+timated urea distribution volume ( V). Current guidelines 
+aim for a Kt/V urea target of at least 1.7. Previously, this tar-
+get had been set higher, at 2.0 or even greater for noncon-
+tinuous forms of PD, but the guidelines were lowered based 
+on further trial evidence, and in particular, the randomized 
+ADEMEX study (Paniagua, 2002), which found no differ -
+ence in outcomes between patients assigned to receive 
+a higher versus a lower dose of PD. In the ADEMEX trial, 
+the average weekly Kt/V was 2.1 in the patients assigned 
+to more dialysis, compared to 1.6 in the lower-dose group. 
+Current guidelines do not set different targets for continu-
+ous and noncontinuous forms of PD (e.g., day dry APD), nor 
+do they set different targets based on peritoneal transport 
+status. A similar trial from Hong Kong (Lo, 2003) also failed 
+to find a benefit of higher doses of PD.
+2. W eekly creatinine clearance (CrCl) per 1.73 m 2. Previous guide -
+lines also set a weekly CrCl target in addition to the Kt/V 
+urea target. The creatinine target was normalized to 1.73 m2 
+body surface area and was in the range of 60/1.73 m 2 L per 
+week. The idea of setting a separate creatinine target was 
+to model a uremic toxin that had slightly higher molecular 
+weight than urea (113 vs. 60 Da) and that was not so rapidly 
+removed by diffusion. Most current guidelines no longer 
+recommend a minimum level of weekly CrCl as such tar -
+gets have not been shown to be of any additional value over 
+Daugirdas9781451144291-ch025.indd   467 09/10/14   1:30 am
+Part III / Peritoneal Dialysis
+468
+Kt/V targets. However, they do reflect clearance of slightly 
+larger molecules than urea, and so European, but not US, 
+guidelines suggest an additional CrCl target of 45/1.73 m
+2 L 
+per week (Dombros, 2005).
+3. should residual kidney function be counted in the adequacy
+ target? Greater residual renal clearance has repeatedly
+been shown to be associated with superior patient sur -
+vival; in fact, it has been difficult to show a similar survival 
+effect for peritoneal clearance, at least within the range
+of prescriptions in typical clinical use (Churchill, 1995).
+Some have suggested that the weekly Kt/V urea target of
+1.7 should be met by peritoneal clearance alone and that
+residual renal clearance should be treated as a precious bo-
+nus. KDOQI, Canadian, and European guidelines, however, 
+all recommend that peritoneal and renal Kt/V can be added 
+to achieve the target.
+4. same Kt / V target for CAPD and APD.  The previous idea that
+target clearances for APD should be higher than those for
+CAPD because APD is somewhat more intermittent is now 
+thought to be unjustified and to introduce unnecessary
+complexity.
+B. Measurement of clearance  (Table 25.2). Clearance in peritoneal 
+dialysis can be measured in terms of Kt/V urea and addition -
+ally as CrCl/1.73 m 2. Both clearances comprise a peritoneal 
+and a residual kidney component. Residual kidney function 
+lasts longer in PD than in hemodialysis and accounts for a 
+greater proportion of total clearance.
+Kt/V:
+Kt = Total Kt = peritoneal Kt + renal Kt
+Peritoneal Kt = 24-hr dialysate urea nitrogen content/serum urea nitrogen
+Renal Kt = 24-hr urine urea nitrogen content/serum urea nitrogen
+V (by Watson formula):
+V = 2.447 – 0.09516 A + 0.1704 H + 0.3362 W (in males)
+V = –2.097 + 0.1069 H + 0.2466 W (in females)
+where A = age (y); H = height (cm), and W = weight (kg)
+a
+CrCl:
+CrCl = total CrCl corrected for 1.73 m
+2 BSA
+Total CrCl = peritoneal CrCl + renal CrCl
+Peritoneal CrCl = 24-hr dialysate creatinine content/serum creatinine
+Renal CrCl
+b = 0.5 (24-hr urine creatinine content/serum creatinine + 24-hr urine 
+urea nitrogen content/serum urea nitrogen)
+B
+sA (DuBois formula):
+BSA (m2) = 0.007184 × W0.425 × H0.725
+where BSA = body surface area (m2), W = weight (kg)a and H = height (cm)
+a Anthropometric (median standard or ideal body weight as per Appendix B) instead of actual body 
+weight may be used for calculation of V or BSA.
+b For PD adequacy purposes, renal “CrCl” is the average of the urinary creatinine and urea 
+ creatinine clearances.
+Formulas for Calculating Clearance Indices  
+in Peritoneal Dialysis25.2
+TABLE
+Daugirdas9781451144291-ch025.indd   468 09/10/14   1:30 am
+Chapter 25 / Adequacy of Peritoneal Dialysis 469
+1. Measurement of weekly Kt / V urea. Peritoneal Kt/V is calculated 
+by performance of a 24-hour collection of dialysate efflu-
+ent and measurement of its urea content. This is then di -
+vided by the average plasma urea level for the same  24-hour 
+ period to give a clearance term, Kt  (Table 25.3). The timing 
+of the plasma urea sample is not critical in CAPD because it 
+is relatively constant at all times. In APD, blood urea is not 
+quite so constant throughout the day; ideally, therefore, it is 
+best to take a measurement in the middle of the noncycling 
+daytime period, which is typically between 1:00 p.m. and 
+1. A 50-year-old man weighing 66 kg has no residual renal function. He is on 
+CAPD with four 2.5-L exchanges daily, and his net UF is 1.5 L. His V by the 
+Watson formula is 36 L, and his BSA by the DuBois formula is 1.66 m2. Serum 
+urea nitrogen is 70 mg/dL (25 mmol/L), and serum creatinine is 10 mg/dL (884 
+mcmol/L). The urea nitrogen and creatinine (after correction for glucose) levels 
+in the 24-hr dialysate collection are 63 mg/dL (22.5 mmol/L) and 6.5 mg/dL (575 
+mcmol/L), respectively. Calculate his Kt/V and CrCl.
+Kt urea/d = 24-hr drain volume × D/P urea = 11.5 L × 63/70 = 10.35 L/d.  
+Daily Kt/V = 10.35 L/36 L = 0.288
+Weekly Kt/V = 0.288 × 7 = 2.02
+Creatinine clearance per day = 24-hr drain volume × D/P creatinine = 11.5 L × 
+6.5/10 = 7.48 L/d. Corrected for 1.73 m2 BSA = 7.48 × 1.73/1.66 = 7.80 L/d. Weekly 
+CrCl/1.73 m2 = 7.8 × 7 = 55 L/wk.
+2. A 48-year-old woman on APD weighs 63 kg and does five 2.4-L cycles nightly 
+plus a 6-hr 2-L day dwell. Her V by Watson is 32 L, and her BSA by DuBois 
+is 1.60 m2. Her 24-hr dialysate drain volume is 15 L, indicating 1 L net UF. Her 
+pooled dialysate collection has a urea nitrogen level of 48 mg/dL (17.1 mmol/L) 
+and a creatinine level (after correction for glucose) of 4.5 mg/dL (398 mcmol/L). 
+Her mid-afternoon serum urea nitrogen is 65 mg/dL (23.2 mmol/L), and serum 
+creatinine is 9 mg/dL (796 mcmol/L). Her urinary urea and creatinine clearance 
+are 2 and 4 mL/min, respectively.
+Calculate her total weekly Kt/V and creatinine clearance.
+Peritoneal Kt = daily drain volume × D/P urea = 15 L × 48/65 = 11.1 L. 
+Peritoneal Kt/V = 11.1 L/32 L = 0.35/d = 2.45/wk.
+Renal urea clearance = renal Kt urea = 2 mL/min = 20 L/wk.  
+renal Kt/V = 20/32 = 0.63/wk.
+total Kt/V = peritoneal plus renal Kt/V = 2.45 + 0.63 = 3.08/wk
+Peritoneal creatinine clearance = daily drain volume × D/P creatinine = 15 L × 
+4.5/9 = 7.5 L. Corrected for 1.73 m2 BSA = 7.5 × 1.73/1.60 = 8.1 L/d = 57 L/wk.
+renal creatinine clearance (for this purpose) = mean of renal urea and renal 
+creatinine clearance = mean of 2 and 4 mL/min = 3 mL/min = 30 L/wk. Corrected 
+for 1.73 m2 BSA = 30 × 1.73/1.60 = 32.4 L/wk.
+total creatinine clearance/1.73 m2 = 57 + 32.4 = 89.4 L/wk.
+D/P , dialysate/plasma; UF, ultrafiltration.
+Examples of Clearance Calculations in CAPD and APD
+25.3
+TABLE
+Daugirdas9781451144291-ch025.indd   469 09/10/14   1:30 am
+Part III / Peritoneal Dialysis
+470
+5:00 p.m. and is thought to represent approximately the av-
+erage blood urea levels for the day.
+Residual renal Kt  urea is calculated in the same way 
+using a 24-hour collection of urine. The two (peritoneal and 
+renal) Kt terms are then combined to give total Kt  per day, 
+and this value is normalized to V, which represents total 
+body water. It is recommended that V be estimated using 
+one of the standard formulas for total body water, such as 
+those of Watson or of Hume–Weyers. These are based on 
+patient age, sex, height, and weight (Table 25.2). This then 
+gives a daily value for Kt/V urea, which then needs to be 
+multiplied by 7 to give a weekly value. In the calculation of 
+V, normalization of Kt  to the patient’s ideal  or standard  V 
+(calculated using the ideal or standard body weight as de-
+scribed in Appendix B) rather than actual V (calculated 
+from actual body weight) is recommended. This makes it 
+easier to achieve targets in obese patients and is appropri-
+ate, in that most do not believe that clearance requirements 
+should rise in proportion to body fat. Conversely, wasted 
+malnourished patients will require more dialysis to achieve 
+targets if clearance is corrected to their standard or ideal 
+body  weight. These weights are calculated from anthro -
+pometric values, as described in Appendix B, and then the 
+standard or ideal body weight value should be used in the 
+Watson equation to calculate the value for an adjusted V.
+2. Measurement of weekly CrCl/1.73 m2. The measurement of CrCl 
+is similar to that of Kt/V (Tables 25.2 and 25.3). Again, the 
+peritoneal component is calculated by measuring the cre -
+atinine content of a 24-hour collection of dialysate effluent, 
+and this is then divided by the serum creatinine. The way 
+that renal CrCl is added to the peritoneal component dif -
+fers from the procedure for Kt/V urea. Residual renal CrCl is 
+known to markedly overestimate true glomerular filtration 
+rate in most patients; therefore, it is conventional to add 
+the average of the urinary urea and creatinine clearances 
+to the peritoneal clearance to give the total CrCl. The to-
+tal daily “creatinine clearance” is then normalized to 1.73 
+m2 body surface area (BSA), with BSA estimated using the 
+formula of DuBois or Gehan and George (see Appendix B). 
+This daily clearance value is then multiplied by 7 to give a 
+weekly CrCl/1.73 m 2. Normalization to standard or ideal 
+body weight can be done in the same way as for Kt/V urea, 
+where the weight from Appendix B  is used to calculate an 
+adjusted BSA value.
+a. Analytical problem in measuring creatinine in glucose-containing 
+dialysate. The high glucose levels found in dialysate arti-
+factually elevate the measurement of creatinine in some 
+biochemical assays, and each laboratory should make a 
+correction for this based on its own experience. This may 
+be done by spiking unused bags of dialysis solution con-
+taining various dextrose concentrations with a known 
+Daugirdas9781451144291-ch025.indd   470 09/10/14   1:30 am
+Chapter 25 / Adequacy of Peritoneal Dialysis 471
+amount of creatinine and then performing the assay, 
+ enabling derivation of the appropriate correction factor.
+3. Frequency of measurements.  It is recommended by KDOQI 
+that in peritoneal dialysis patients Kt/V urea should be 
+measured within 1 month of initiating peritoneal dialysis 
+and every 4 months subsequently, as well as after every 
+significant change in the peritoneal dialysis prescription 
+or in the patient’s clinical status. Urinary clearance should 
+be measured every 2 months if an incremental approach 
+to peritoneal dialysis is being used. Some will find these 
+requirements unduly onerous, and a compromise in more 
+stable patients who have been achieving their targets 
+would be to measure clearances every 6 months.
+C. Determinants of clearance (Table 25.4). The total weekly Kt/V urea 
+achieved on standard peritoneal dialysis prescriptions typi -
+cally ranges from as little as 1.2 to as much as 3.0 a week. Simi-
+larly, CrCl/1.73 m2 can range from as little as 30 L per week to 
+as much as 150 L per week. The major source of this variation 
+is residual kidney function.
+1. residual kidney function. This can easily account for as much 
+as 50% of total clearance at the initiation of peritoneal 
+dialysis. There is some evidence from randomized con -
+trolled trials that residual renal function can be preserved 
+in patients on CAPD by treatment with angiotensin-  con-
+verting enzyme inhibitors or angiotensin receptor block -
+ers (Li,  2003b). It is always wise to minimize exposure to 
+potentially nephrotoxic agents, including aminoglycosides, 
+radiocontrast dyes, and nonsteroidal anti-  inflammatory 
+drugs. Episodes of volume depletion should be avoided. It 
+has been suggested that preservation of residual function 
+1. nonprescription factors:
+Residual renal function
+Body size
+Peritoneal transport characteristics
+2. Prescription factors:
+a. CAPD:
+Dwell volume
+Frequency of exchanges
+Tonicity of dialysis solution
+b. APD:
+Number of day dwells
+Volume of day dwells
+Tonicity of day dwells
+Time on cycler
+Cycle frequency
+Cycler dwell volumes
+Tonicity of cycler solution
+Factors Determining Clearance Peritoneal Dialysis Patients
+25.4
+TABLE
+Daugirdas9781451144291-ch025.indd   471 09/10/14   1:30 am
+Part III / Peritoneal Dialysis
+472
+is better on CAPD than on APD, but this is not a consistent 
+finding.
+2. Peritoneal transport status.  This is an important determi -
+nant of clearances, especially in APD, where the short-
+duration cycles limit solute equilibration between plasma 
+and dialysate to a greater degree than is the case for the 
+longer- duration dwells in CAPD (Blake, 1996). Peritoneal 
+transport is measured by the peritoneal equilibration test 
+(PET), as discussed in Chapter 21. In general, low trans-
+porters achieve greater clearances with high-volume, long-
+duration dwells, whereas high transporters do well with 
+short-duration dwells. However, these differences are less 
+pronounced for urea as compared to creatinine because 
+the lower molecular weight of urea leads to relatively rapid 
+diffusion, even in low transporters. Transport status is now 
+recognized as a determinant of patient and technique sur -
+vival on CAPD, with low transporters doing best despite 
+clearances that tend to be lower than those that their high-
+transport counterparts achieve. It is likely that this is partly 
+due to the importance of ultrafiltration and its interaction 
+with cardiovascular morbidity.
+3. Body size.  Given that clearance indices are normalized to 
+BSA or total body water, this is an important determinant. 
+When standard or ideal body weight, rather than actual 
+body weight, is used to calculate an adjusted V and an ad -
+justed BSA, the impact of current weight will be lessened . 
+While large body size makes it harder to achieve higher 
+clearance targets, there is controversy about whether 
+larger patients have worse outcomes.
+D. Prescription strategies to achieve clearance targets in chronic  peritoneal 
+dialysis
+1. CAPD. The typical initial CAPD prescription continues to be 
+4 × 2 L daily. Some centers will start with 4 × 2.5 L in larger 
+patients, especially if residual renal function is low. Some 
+use 3 × 2 L if patients are small or residual renal function is 
+substantial. In Hong Kong, where mean body weight is less 
+than in Western countries, good results have been reported 
+using 3 × 2 L initially in almost all patients. When icodex -
+trin is available, some centers use it routinely for the noc-
+turnal dwell, but it is more expensive, and others use it only 
+in high transporters or in patients in whom fluid resorption 
+at night becomes a clinical problem.
+If a clearance measurement is unexpectedly low, it 
+should be repeated as there is significant variation and 
+ potential for error. If clearance targets are not being 
+achieved, a prescription change needs to be considered. 
+The choice of strategy should take into account the incre-
+ment in clearance required, the patient’s transport status, 
+volume and nutritional/metabolic considerations, and, 
+perhaps most importantly, the likely effect on lifestyle 
+for the patient and his or her caregivers , as a disruptive 
+Daugirdas9781451144291-ch025.indd   472 09/10/14   1:30 am
+Chapter 25 / Adequacy of Peritoneal Dialysis 473
+prescription may lead to noncompliance or burnout and 
+consequent technique failure. To increase peritoneal Kt/V  
+in CAPD patients, there are three options (Table 25.4): in-
+crease the dwell volumes, increase the frequency of daily ex-
+changes, and/or increase dialysis solution tonicity, thereby 
+augmenting ultrafiltration.
+a. Increasing the dwell volumes.  This increases clearance
+because the total volume of solution delivered daily
+rises and the larger dwell volume leads to only a small
+decrease in urea and creatinine equilibration. In larger
+patients, for example, a switch from 4 × 2 L to 4 × 2.5
+L CAPD involves a 25% increase in instilled volume and
+will typically raise peritoneal Kt/V by 18% to 20%. How-
+ever, in smaller patients, and especially when 3-L dwell
+volumes are used, there may be greater falloff in equili-
+bration and the percentage of increase in clearance is
+reduced. To achieve clearance targets in larger (>75 kg)
+anuric patients, typically at least 2.5-L dwell volumes
+are required (Virga, 2014). Some programs prefer to
+initiate such patients on larger dwell volumes to begin
+with, whereas others use 2-L volumes until residual renal 
+function fades and then make the switch. The main dis-
+advantage of increasing dwell  volumes is that some pa-
+tients may complain of back pain, abdominal distention, 
+and even shortness of breath. This can be minimized if
+the increased volumes are introduced at the time of ini-
+tiation of peritoneal dialysis, before the patient becomes 
+accustomed to smaller volumes. Studies show only a
+small increase in the risk of hernias and leaks with the
+associated rise in intraperitoneal pressure. This rise in
+pressure may also impair ultrafiltration somewhat, but
+this effect is partly offset by the longer persistence of the 
+glucose osmotic gradient when higher volumes are used.
+b. Increasing the frequency of daily exchanges.  Most CAPD pa-
+tients do four exchanges daily. Increasing the number of
+exchanges from four to five per day generally does not
+have a major effect on urea equilibration, which remains 
+at approximately 85% to 90% in patients with average
+transport characteristics. This will not be the case if pa-
+tients do not ensure that the five daily exchanges are well 
+spaced, with at least a 4-hour dwell time for each. There
+will be a noticeable drop in creatinine concentration
+in the drained effluent because the equilibration curve
+for creatinine is typically still rising 4 hours after the
+dwell commences. Thus, increasing the frequency of ex -
+changes is less effective than increasing dwell volumes,
+especially where CrCl is concerned.
+An additional disadvantage of increasing the fre-
+quency of exchanges to five daily is that it may interfere 
+with a patient’s lifestyle and lead to noncompliance or 
+burnout. Also, use of five exchanges per day is 25% more 
+Daugirdas9781451144291-ch025.indd   473 09/10/14   1:30 am
+Part III / Peritoneal Dialysis
+474
+costly than four per day, whereas 2.5-L bags of dialysis 
+solution are not usually much more expensive than the 
+2.0-L size.
+c. Increasing the tonicity of the dialysis solutions.  This strategy
+increases both ultrafiltration and clearance. It is used in
+some centers, but there are increasing concerns that it
+may lead to a higher incidence of hyperglycemia, hyper -
+lipidemia, obesity, and long-term peritoneal membrane
+damage.
+2. APD. The initial APD prescription is quite variable across
+centers. A typical starting volume is 10 or 12 L daily but
+some use 15 L, especially in larger patients. Typical cycler
+time is 8–10 hours, and dwell volumes on the cycler in the
+daytime are usually 2 L or, in larger patients, 2.5 L.
+Some start with a day dry prescription if the patient 
+has good residual renal function and/or is small. Others 
+use a day dwell from the start but may shorten the duration 
+of the dwell to avoid fluid resorption, especially in higher 
+transporters, and then either leave the patient “dry” for 
+part of the day or add a second dwell. If icodextrin is avail-
+able, some centers will use it routinely for the day dwell 
+while others will prescribe it only in high transporters or 
+in patients who have fluid resorption problems and/or in 
+those in whom there are metabolic concerns about excess 
+glucose absorption, for example, diabetic or obese patients.
+Peritoneal clearance in APD can be increased using a 
+number of different strategies (Table 25.4) (Durand, 2003). 
+In order of usefulness, these are as follows:
+a. Introduction of a day dwell. In day dry patients, the best way 
+to increase clearance is to add a day dwell. This raises
+both Kt/V and CrCl, but the effect on CrCl is greater be-
+cause creatinine equilibration is more dependent on lon-
+ger dwell times. Typically, adding a day dwell to a day dry 
+APD patient will increase daily peritoneal Kt/V and CrCl
+by 25% to 50%, and so this is very cost-effective (Blake,
+1996). Further increases in clearance can be achieved
+by adding a second or even a third day dwell, although
+this is less likely to be required with present more mod-
+est Kt/V urea clearance targets. These added exchanges
+can be done using the docking-station approach or, if it
+suits the patient better, using manual CAPD tubing in
+the conventional way. Day dwell volumes can be titrated 
+to maximize clearance while minimizing mechanical
+symptoms. This strategy does have the disadvantages of
+requiring the patient to do more procedures and to have 
+fluid in the peritoneal cavity for at least part of the day.
+b. Increasing frequency of cycles.  In general, doing more fre-
+quent cycles with APD increases clearances because it
+maximizes the concentration gradient between blood
+and dialysate (Perez, 2000; Demetriou, 2006). However,
+when the number of cycles exceeds 6–9 per 9-hour
+Daugirdas9781451144291-ch025.indd   474 09/10/14   1:30 am
+Chapter 25 / Adequacy of Peritoneal Dialysis 475
+treatment, a large proportion of the dialysis session 
+is spent draining and filling, and further increment in 
+clearance becomes minimal. The benefit of more fre-
+quent cycles tends to be higher in high transporters and 
+is higher for urea than for creatinine. It may also be influ-
+enced by catheter function. Maintaining a small amount 
+of dialysate in the peritoneum constantly (i.e., using tidal 
+PD) can be used to help support clearance during rapid 
+cycling.
+c. Increase dwell volumes on cycler . This increases clearance 
+in APD, just as in CAPD. Because patients are supine 
+during cycling, they can usually tolerate larger dwell vol-
+umes more easily. Greater clearances will be achieved if 
+the same total amount of dialysis solution is delivered in 
+a smaller number of aliquots (i.e., 4 × 2.5 L per session 
+is better than 5 × 2 L per session) though the increase is 
+modest.
+d. time on cycler. In general, the longer the time the patient 
+spends on APD, the better the clearance because indi-
+vidual dwell times are longer, allowing more complete 
+equilibration between dialysate and blood.
+e. Increasing dialysis solution tonicity . As in CAPD, clearance 
+can be augmented in APD by increasing daytime or night-
+time ultrafiltration, but concerns about glucose-related 
+complications limit the usefulness of this approach.
+E. Incremental versus maximal prescription.  There are two distinct 
+approaches to prescription of peritoneal dialysis when clear -
+ance targets are being considered. The incremental approach, 
+which is particularly suitable when dialysis is being initiated 
+early, suggests that peritoneal dialysis should be used to make 
+up the difference between residual renal clearances and tar -
+geted clearances (Viglino, 2008). Thus, patients may initially 
+require only two or three CAPD exchanges daily or a low-
+volume, day dry APD prescription or even a day-per-week-off 
+dialysis. The alternative is the so-called maximal approach in 
+which patients are at the outset given a sufficient prescrip-
+tion to meet their targets with peritoneal dialysis alone. This 
+approach considers residual renal function as a temporary 
+ bonus that inevitably deteriorates with time.
+The advantages of the incremental approach are that it is 
+initially less costly and less onerous for the patient, and it may 
+decrease total glucose exposure and risk of peritonitis, insofar 
+as fewer procedures are required. A disadvantage is that it re-
+quires regular monitoring of residual function to ensure that 
+the total clearance achieved does not fall below target levels.
+F. Empirical versus modeled approach.  Another decision when pre-
+scribing peritoneal dialysis is whether to use commercially 
+available software programs for modeling appropriate pre-
+scriptions or whether to proceed in an empirical manner. 
+The modeled approach involves collecting patient anthropo -
+metric data, measuring peritoneal transport with a PET, and 
+Daugirdas9781451144291-ch025.indd   475 09/10/14   1:30 am
+Part III / Peritoneal Dialysis
+476
+quantifying residual renal function. It also typically involves 
+collection of 24-hour dialysate effluent to make particular cal-
+culations about peritoneal fluid removal and absorption. The 
+computer program uses the data to predict, with reasonable 
+accuracy, the clearances that will be achieved with various po-
+tential prescriptions. The program can also suggest appropri-
+ate prescriptions to achieve the desired clearances. With this 
+approach, the actual clearances still have to be measured as 
+there is sometimes a discrepancy between the modeled and 
+actual clearances achieved.
+The alternative approach is empirical, in which the phy -
+sician uses the knowledge of the patient’s size, residual renal 
+function, and peritoneal transport status to choose a reason -
+able prescription. This is then tested, clearances are assessed, 
+and the prescription is adjusted if necessary. The modeled 
+approach has the advantage that it may involve less trial and 
+error and so results in earlier identification of an appropriate 
+prescription for the patient, with consequent decreases in cost 
+as well as inconvenience to the patient. The empirical method 
+has a theoretical advantage that it focuses the physician’s at -
+tention on the patient rather than on purely numerical data. 
+In practice, a combination of both approaches is frequently 
+used, with the modeled approach being of particular use in 
+complex cases and in patients on APD.
+G. Prescription pitfalls in peritoneal dialysis.  There are a number of 
+common pitfalls that physicians face in attempting to achieve 
+adequate clearances and fluid removal on peritoneal dialysis.
+1. loss of residual renal function.  A common problem is that re-
+sidual renal function is not monitored closely enough and
+drops to a very low level without the physician being aware. 
+Thus, the patient is left on an inadequate prescription for a 
+significant period of time. This is best avoided by measur -
+ing residual clearance every 2–3 months or by adopting a
+maximal prescription approach that gives sufficient perito-
+neal clearance independent of residual function.
+2. noncompliance. A chronic peritoneal dialysis patient may
+sometimes appear uremic or have unexpectedly high
+levels of urea and potassium in blood despite measured
+clearances that exceed recommended targets. A strong
+possibility here is noncompliance. On the day that collec-
+tions are performed, the patient is fully compliant with the 
+prescription and appears to have excellent clearances. On
+other days, however, the patient is omitting exchanges or
+shortening time on the cycler. There is no single test that
+identifies this particular problem, and a high index of
+suspicion is required. Serial measurements of 24-hour di-
+alysate plus urinary creatinine excretion may help identify
+the problem. Patients in whom the total creatinine excre -
+tion has increased in comparison with a baseline value
+should be suspected of noncompliance. The rationale here
+is that on the day of the collection, creatinine that has
+Daugirdas9781451144291-ch025.indd   476 09/10/14   1:30 am
+Chapter 25 / Adequacy of Peritoneal Dialysis 477
+accumulated on previous noncompliant days is being dia-
+lyzed out, giving an artificially high value. The alternative 
+explanation for an increase in total creatinine excretion is 
+a gain in lean body mass, but this does not often occur in 
+chronic dialysis patients. There are a number of patterns of 
+noncompliance in peritoneal dialysis patients that should 
+be borne in mind (Bernardini, 2000). These include:
+a. Skipping CAPD exchanges
+b. Inadequate spacing of CAPD exchanges
+c. Reducing the dwell volume of CAPD exchanges by flush-
+ing fresh dialysis solution directly into the drain bag
+d. Skipping cycler treatments
+e. Shortening of cycler time in APD
+f. Skipping or shortening day dwells in APD
+3. High serum creatinine despite good clearances.  This is a com-
+mon scenario. The patient has a Kt/V urea above 1.7 per 
+week, but the serum creatinine is over 12–16 mg/dL (about 
+1,000–1,500 mcmol/L). There are a number of possibilities 
+here. One is noncompliance with the prescription. If this 
+is the case, blood urea and potassium may also be high. A 
+second possibility is that this is an example of discordance 
+between Kt/V, which is high, and CrCl, which is low. This 
+is most often seen once residual renal function fades away 
+in low-transport patients or in those on APD with no day 
+dwell. This can be confirmed by measuring the CrCl. The 
+third possibility, also common, is that the serum creatinine 
+is markedly elevated, not because of particularly low clear-
+ance, but rather because of high creatinine generation, in -
+dicating a higher percentage of lean body mass. This can 
+be demonstrated by measuring CrCl and showing it to be 
+at or above 45–50 L per week per 1.73 m 2 and by show -
+ing that percentage of lean body mass is high relative to 
+what might be predicted. Such patients are not necessarily 
+overtly muscular and indeed may be somewhat thin. Iden-
+tification of this situation is helpful because patients with 
+high creatinine generation or percentage of lean body mass 
+have a good prognosis on PD, and it would be a mistake 
+for the elevated serum creatinine to trigger a diagnosis of 
+inadequate clearance and a switch to hemodialysis.
+4. Day dry APD in anuric patients. Some patients, even when their 
+residual function is lost, can achieve a Kt/V urea above 
+1.7 per week with prescriptions that leave them “dry” for 
+all or most of the day. Such patients are typically smaller 
+in body size and are high or high-average transporters. 
+This creates a concern because while Kt/V is above tar -
+get, middle-  molecule clearance in the absence of residual 
+function is dependent on dialysis time and so, while not 
+routinely measured, will be low. There is no recommended 
+target for middle-molecule clearance in either peritoneal 
+or hemodialysis and no high-level clinical evidence that 
+middle-molecule clearance is important. However, there 
+Daugirdas9781451144291-ch025.indd   477 09/10/14   1:30 am
+Part III / Peritoneal Dialysis
+478
+has always been a viewpoint that it may matter and that 
+middle-molecule clearance may be better in CAPD or APD 
+with day dwells because they are continuous modalities 
+compared to day dry APD. There is no definite answer to 
+this question, but it should at least be kept in mind when 
+prescribing “day dry” APD in anuric patients.
+5. Inappropriate switch from CAPD to APD.  It is sometimes pre-
+sumed that APD is a panacea for inadequate dialysis on
+CAPD, but the problem can actually become worse on APD 
+if prescriptions are inappropriate. This is especially true in
+low transporters, who are unlikely to achieve higher clear -
+ances on APD than on CAPD, unless two day dwells are pre-
+scribed. Also, a patient who has the same Kt/V urea after a
+switch from CAPD to APD will have a lower CrCl.
+6. Inadequate attention to fluid removal. Fluid removal is frequently 
+neglected in prescriptions for peritoneal dialysis. Prescrip -
+tions that yield good clearances may not give sufficient ul-
+trafiltration to control volume status and keep the patient
+free from hypertension. This is particularly true in high and 
+high-average transporters, especially if long dwells which
+result in net fluid resorption are used. The use of icodextrin 
+for the long dwell in both CAPD and APD and the prescrip-
+tion of short day dwells in APD are two strategies that may 
+be useful.
+III. GlUCOsE-sPArInG strAtEGIEs. In the past decade, there has been
+increasing concern about the harmful consequences of expo -
+sure to the hypertonic glucose in peritoneal dialysis solutions
+(Holmes, 2006). There is strong evidence that cumulative glucose 
+exposure leads to deterioration in membrane function with a
+decline in ultrafiltration. There is also awareness that systemic
+absorption of glucose may aggravate or induce hyperglycemia,
+hyperinsulinemia, obesity, and hyperlipidemia. Glucose-sparing
+strategies can be divided into the following categories:
+A. General strategies. These are approaches to lessen the need for
+high amounts of ultrafiltration and so for hypertonic glucose. 
+They include (1) salt and water restriction; (2) prescription of 
+high-dose loop diuretics to maintain higher urine volumes; 
+(3) any intervention that preserves residual renal function 
+ (angiotensin-converting enzyme inhibitors or angiotensin re -
+ceptor blockers, avoidance of nephrotoxic medications, con -
+trast exposure, and volume depletion); and (4) revising target 
+weight upward to avoid inappropriate use of hypertonic glucose 
+when body weight gain occurs due to increase in body fat mass.
+B. non-glucose dialysis solution strategies. These involve the substitu-
+tion of dialysis solutions containing icodextrin or amino acids 
+for those containing glucose (Paniagua, 2009; Li, 2013).
+While avoidance of hypertonic glucose is central to 
+glucose-sparing strategies, a balance needs to be kept be-
+tween minimizing excess glucose exposure and avoiding 
+ hypervolemia.
+Daugirdas9781451144291-ch025.indd   478 09/10/14   1:30 am
+Chapter 25 / Adequacy of Peritoneal Dialysis 479
+I V. nUtrItIOnAl I ssUEs I n PE rItOnEAl DIA lysIs. Nutritional status in
+peritoneal dialysis patients has been repeatedly shown to predict 
+patient survival and other outcomes. It is recommended that in-
+dicators of nutrition be routinely monitored to identify high-risk
+patients and target them for appropriate interventions.
+A. nutritional indices
+1. normalized protein nitrogen appearance (nP nA). This is easily
+measured using the same 24-hour collections of dialysate
+and urine as are used to calculate Kt/V. The rationale is
+that, in steady state, nitrogen excretion is proportional to
+protein intake. A variety of formulas have been derived to
+estimate nPNA from nitrogen and protein excretion. One
+reliable formula is that developed by Bergström (1998) (see 
+Table 25.5 for formula and sample calculation). Previously,
+PNA estimates were normalized to actual body weight, but 
+this can lead to misleadingly high nPNA values in wasted
+malnourished patients and to inappropriately low values in 
+obese patients (Harty, 1994). Normalization to desirable or
+ideal weight based on anthropometric tables is now pre-
+ferred. Recommended target nPNA for peritoneal dialysis
+patients is 1.2 g/kg per day, but this may be unnecessarily
+Bergström formulas:
+1. PNA (g/d) = 20.1 + 7.5 UNA (g/d)
+or
+2.
+ PNA (g/d) = 15.1 + 6.95 UNA (g/d) + dialysate protein losses (g/d)
+UNA (g/d) = urinary urea losses (g/d) + dialysate urea losses (g/d)
+Use formula (1) if dialysate protein losses are unknown and formula (2) if they are 
+known.
+Normalization of PNA to body weight gives nPNA. Actual body weight, if used, can 
+give a misleadingly high value in malnourished patients and a misleadingly low one 
+in obese patients.
+Normalization to standard body weight based on anthropometric tables is 
+preferable.
+Example:
+A 60-kg man on CAPD 4 × 2.5 L daily has 24-hr dialysate effluent volume of 12 L 
+which contains 58.3 mg/dL urea nitrogen so that total content = 12 × 58.3 ×  
+10 = 7,000 mg = 7 g of urea nitrogen.
+The 24-hr urine has a 500-mL volume and contains 560 mg/dL = 2,800 mg = 2.8 g 
+of urea nitrogen.
+Total UNA = 7 + 2.8 = 9.8 g/d.
+Dialysate protein losses are measured at 8 g/d.
+Thus;
+PNA = 15.1 + 6.95 (9.8) + 8 = 91.2 g/d.
+nPNA based on actual weight = 91.2/60 = 1.52 g/kg/d.
+Patient has lost weight, however, and anthropometric tables suggest that his 
+standard weight is 72 kg.
+nPNA based on this weight is 91.2/72 = 1.27 g/kg/d
+UNA, urea nitrogen appearance; PNA, protein nitrogen appearance.
+Calculation of Normalized Protein Nitrogen Appearance 
+with Example25.5
+TABLE
+Daugirdas9781451144291-ch025.indd   479 09/10/14   1:30 am
+Part III / Peritoneal Dialysis
+480
+high for many patients who often can achieve nitrogen bal-
+ance at lower intakes. A falling nPNA or a level less than 
+0.8 g/kg per day should be a cause for concern, especially if 
+accompanied by other evidence of poor nutrition.
+2. Caloric intake.  This is sometimes neglected in dialysis pa-
+tients because it cannot be as easily measured as protein 
+intake. In peritoneal dialysis, caloric intake is a combina -
+tion of dietary intake plus calories in the glucose absorbed 
+from the dialysis solution.
+The suggested target is 35 kcal/kg per day; typically, 
+10% to 30% of this will come from dialysis solution glucose, 
+with the exact amount absorbed depending on solution to-
+nicity, dwell time, and volume of solution used, as well as 
+on the patient’s PET characteristics, which influence the 
+percentage of instilled glucose absorbed. Measurement 
+of energy intake requires dietary assessment plus quan-
+tification of the glucose absorbed. The latter can be cal-
+culated directly by subtracting the amount of glucose in 
+the effluent from the amount present in the source dialysis 
+solution.
+3. serum albumin. This is one of the strongest predictors of pa-
+tient survival on peritoneal dialysis. Serum albumin in this 
+population is much more than a nutritional marker, as it is 
+influenced by peritoneal transport status, which influences 
+dialysate albumin losses, and by the presence of systemic 
+illness or inflammation, as judged by the serum levels of 
+acute-phase reactants such as C-reactive protein (Yeun, 
+1997). Compared with the above factors, dietary protein 
+intake has only a minor effect on serum albumin.
+4. subjective global assessment ( sGA). This simple clinical tool 
+is easily done at the bedside, promotes history taking 
+and physical examination, and has been shown to predict 
+patient outcome. The subjective global assessment is de-
+scribed in detail in Chapter 31.
+5. Creatinine excretion. The total creatinine content measured 
+in the same 24-hour urine and dialysate collections done to 
+calculate clearance can be used to estimate lean body mass 
+(Keshaviah, 1995). These estimates of creatinine excretion 
+are predictive of patient outcome, and a low or falling value 
+identifies a patient who is at risk.
+B. treatment of malnutrition. This is reviewed in detail in Chapter 31.
+1. Amino acid–containing dialysis solution.  Intraperitoneal amino 
+acids have long been studied and are available in many 
+countries, though not in the United States. They are typi-
+cally administered as one 2-L dwell given during the day-
+time either on CAPD or on APD, using the “last bag option. ” 
+About 85% of the amino acid content of the bag will be 
+absorbed if it is left in place for 6 hours. Food should be 
+ingested at the time of the dwell to maximize utilization 
+of the absorbed amino acids. This strategy does improve 
+nitrogen balance but there is little evidence of a dramatic 
+Daugirdas9781451144291-ch025.indd   480 09/10/14   1:30 am
+Chapter 25 / Adequacy of Peritoneal Dialysis 481
+effect on important clinical outcomes. The best random -
+ized study to date suggests that intraperitoneal amino ac -
+ids are associated with better long-term maintenance of 
+nutritional indices, particularly in women, but no study has 
+been large enough to detect any beneficial effect on quality 
+or quantity of life (Li, 2003a).
+references and suggested readings
+Bergström J, et al. Calculation of the protein equivalent of total nitrogen appearance 
+from urea appearance: which formulas should be used? Perit Dial Int. 1998;18:  
+467–473.
+Bernardini J, et al. Pattern of noncompliance with dialysis exchanges in peritoneal di-
+alysis patients. Am J Kidney Dis. 2000;35:1104–1110.
+Blake PG, et al. Recommended clinical practices for maximizing peritoneal clearances. 
+Perit Dial Int. 1996;16:448–456.
+Blake PG, et al; CSN Workgroup on Peritoneal Dialysis Adequacy. Clinical practice 
+guidelines and recommendations on peritoneal dialysis adequacy 2011. Perit Dial 
+Int. 2011;31:218–239.
+Churchill DN, et al. Adequacy of dialysis and nutrition in continuous peritoneal dialy-
+sis [The CANUSA study]. J Am Soc Nephrol. 1995;7:198–207.
+De Fijter CW , et al. Clinical efficacy and morbidity associated with CCPD rather than 
+CAPD. Ann Intern Med. 1994;120:264–271.
+Demetriou D, et al. Adequacy of automated peritoneal dialysis with and without man-
+ual daytime exchange. Kidney Int. 2006;70:1649–1655.
+Diaz-Buxo JA. Enhancement of peritoneal dialysis: the “PD Plus” concept. Am J Kidney 
+Dis. 1996;27:92–98.
+Dombros N, et al. European Best Practice Guidelines for Peritoneal Dialysis. 7. Ad-
+equacy of peritoneal dialysis. Nephrol Dial Transplant. 2005;20(suppl 9):24–27.
+Durand PY. APD schedules and clinical results. Contrib Nephrol. 2003;140:272–277.
+Fernando SK, et al. Tidal PD: its role in the current practice of peritoneal dialysis. Kid-
+ney Int Suppl. 2006;103:S91–S95.
+Guest S. Intermittent peritoneal dialysis: urea kinetic modeling and implications of 
+residual kidney function. Perit Dial Int. 2012;32:142–148.
+Harty JC, et al. The normalized protein catabolic rate is a flawed marker of nutrition in 
+CAPD patients. Kidney Int. 1994;45:103–109.
+Holmes C, et al. Glucose sparing in peritoneal dialysis: implications and metrics. Kid -
+ney Int Suppl. 2006;103:S104–S109.
+Johansen KL, et al. Anabolic effects of nandrolone decanoate in patients receiving di-
+alysis: a randomized controlled trial. JAMA. 1999;281:1275–1281.
+Keshaviah PR, et al. The peak concentration hypothesis: a urea kinetic approach to 
+comparing the adequacy of continuous ambulatory peritoneal dialysis and hemo-
+dialysis. Perit Dial Int. 1989;9:257–260.
+Keshaviah PR, et al. Lean body mass estimation by creatinine kinetics. J Am Soc 
+Nephrol. 1995;4:1475–1485.
+Li FK, et al. A 3 year prospective randomized controlled study on amino acid dialysate 
+in patients on CAPD. Am J Kidney Dis. 2003a;42:173–183.
+Li PK, et al. Effects of an ACEI on residual renal function in patients receiving CAPD: a 
+randomized controlled trial. Ann Intern Med. 2003b;139:105–112.
+Li PK, et al. Randomized controlled trial of glucose sparing peritoneal dialysis in dia-
+betic patients. J Am Soc Nephrol. 2013;24:1889–1900.
+Lo WK, et al. Effect of Kt/V on survival and clinical outcome in CAPD patients in a 
+randomized prospective study. Kidney Int. 2003;64:649–656.
+Paniagua R, et al. Effect of increased peritoneal clearance on mortality rates in peri-
+toneal dialysis: ADEMEX, a prospective randomized controlled trial. J Am Soc 
+Nephrol. 2002;13:1307–1320.
+Paniagua R, et al. Icodextrin improves fluid and metabolic management in high and 
+high-average transport patients. Perit Dial Int. 2009;29:42–32.
+Paniagua R, et al. Ultrafiltration and dialysis adequacy with various daily schedules of 
+dialysis fluids. Perit Dial Int. 2012;32:545–551.
+Perez RA, et al. What is the optimal frequency of cycling in APD? Perit Dial Int. 
+2000;20:548–556.
+Daugirdas9781451144291-ch025.indd   481 09/10/14   1:30 am
+Part III / Peritoneal Dialysis
+482
+Sarkar S, et al. Tolerance of large exchange volumes by peritoneal dialysis patients. Am 
+J Kidney Dis. 1999;33:1136–1141.
+Rodriguez-Carmona A, et al. Compared time profiles of ultrafiltration, sodium re-
+moval and renal function in incident CAPD and APD patients. Am J Kidney Dis. 
+2004;44:132–145.
+Viglino G, et al. Incremental peritoneal dialysis: effects on the choice of dialysis mo-
+dality, residual renal function and adequacy. Kidney Int Suppl. 2008;108:S52–S55.
+Virga G, et al. A load volume suitable for reaching dialysis adequacy targets in anuric 
+patients on 4-exchange CAPD. J Nephrol. 2014;27:209–215.
+Woodrow G, et al. Comparison of icodextrin and glucose solutions for daytime dwell 
+in APD. Nephrol Dial Transplant. 1999;14:1530–1535.
+Yeun JY, et al. Acute phase proteins and peritoneal dialysate albumin loss are the main 
+determinants of serum albumin in peritoneal dialysis patients. Am J Kidney Dis. 
+1997;30:923–927.
+Daugirdas9781451144291-ch025.indd   482 09/10/14   1:30 am

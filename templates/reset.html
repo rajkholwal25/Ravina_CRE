@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Reset password — Dialysis Quiz</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body class="auth-body">
+  <div class="auth-card">
+    <div class="auth-brand"><span class="logo">🩺</span></div>
+    <h1 class="auth-title">Set a new password</h1>
+    <p class="auth-sub">Choose a new password for your account.</p>
+    <form id="resetForm" class="auth-form">
+      <input type="hidden" id="token" value="{{ token }}">
+      <label class="field">New password
+        <input type="password" id="password" placeholder="At least 6 characters" required minlength="6" autocomplete="new-password">
+      </label>
+      <label class="field">Confirm password
+        <input type="password" id="password2" placeholder="Re-enter password" required minlength="6" autocomplete="new-password">
+      </label>
+      <div id="msg" class="auth-msg hidden"></div>
+      <button type="submit" class="primary big" id="submitBtn">Update password →</button>
+    </form>
+    <p class="auth-switch"><a href="{{ url_for('login_page') }}">Back to log in</a></p>
+  </div>
+<script>
+const $ = (s) => document.querySelector(s);
+const msg = $("#msg");
+function showMsg(t, ok) { msg.textContent = t; msg.className = "auth-msg " + (ok ? "ok" : "err"); }
+$("#resetForm").addEventListener("submit", async (e) => {
+  e.preventDefault();
+  if ($("#password").value !== $("#password2").value) { showMsg("Passwords do not match.", false); return; }
+  const btn = $("#submitBtn"); btn.disabled = true;
+  msg.className = "auth-msg hidden";
+  try {
+    const r = await fetch("/api/reset", {
+      method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ token: $("#token").value, password: $("#password").value }),
+    });
+    const data = await r.json();
+    if (r.ok) { showMsg((data.message || "Password updated.") + " Redirecting…", true); setTimeout(() => location.href = "/login", 1400); }
+    else { showMsg(data.error || "Could not reset password.", false); btn.disabled = false; }
+  } catch (err) { showMsg("Network error.", false); btn.disabled = false; }
+});
+</script>
+</body>
+</html>

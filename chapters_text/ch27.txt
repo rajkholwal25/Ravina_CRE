@@ -1,0 +1,1213 @@
+490
+ I. PERITONITIS
+A. Incidence. Peritonitis remains the Achilles’ heel of peritoneal 
+dialysis (PD). Peritonitis is a “contributing factor” to 16% of 
+deaths on PD. Furthermore, it is the most common cause of 
+treatment failure, accounting for nearly 30% of the cases. The 
+overall incidence of peritonitis in continuous ambulatory 
+peritoneal dialysis (CAPD) patients during the 1980s and early 
+1990s averaged 1.1–1.3 episodes per patient-year in the United 
+States. With improved patient training, PD delivery systems, 
+and prophylactic measures, the rate of peritonitis has fallen 
+worldwide. Many centers now report a peritonitis rate of 0.2 
+to 0.6 episodes per patient-year at risk, or 1 episode per 20–60 
+patient-months of PD (Piraino, 2011). The introduction of 
+Y-set and double-bag disconnect systems has substantially 
+reduced the incidence of peritonitis, particularly episodes 
+caused by gram-positive organisms (Monteon, 1998; Li, 2002). 
+The same flush-before-fill methodology used in CAPD Y sets 
+can also be used effectively in automated peritoneal dialysis 
+(APD). Peritonitis rates with APD and CAPD are not gener -
+ally different. Patients on APD going “dry” during the day 
+(i.e., no daytime dwell) may have a decreased risk of infection 
+compared with those with a day dwell. The current Interna-
+tional Society for  Peritoneal Dialysis recommendations on 
+PD-related infections (Piraino, 2011) state that every program 
+should monitor infection rates, ideally once a month, but, at a 
+minimum, on a yearly basis.
+B. Pathogenesis
+1. Pathways of infection
+a. Intraluminal. Peritonitis occurs most often because of
+errors in technique in making or breaking a transfer
+set–to-bag or catheter-to–transfer set connection. This
+allows bacteria to gain access to the peritoneal cavity via 
+the catheter lumen. Typically, the organisms involved are 
+coagulase-negative staphylococci or diphtheroids.
+b. Periluminal. Bacteria present on the skin surface can enter 
+the peritoneal cavity via the peritoneal catheter tract.
+Peritonitis and Exit-Site 
+Infection
+Cheuk-Chun Szeto, Philip K.-T. Li, and 
+David J. Leehey
+27
+Daugirdas9781451144291-ch027.indd   490 09/10/14   1:34 am
+Chapter 27 / Peritonitis and Exit-Site Infection 491
+Typically, the organisms involved are  Staphylococcus 
+aureus or Pseudomonas aeruginosa.
+c. Bowel source. Bacteria of intestinal origin can enter the
+peritoneal cavity by migrating across the bowel wall.
+This is the usual mechanism of peritonitis episodes
+associated with diarrheal states and/or instrumenta-
+tion of the colon, and may also be seen with strangulated 
+ hernia. Typical organisms involved are Escherichia coli
+and Klebsiella sp.
+d. Hematogenous. Less commonly, peritonitis is due to
+ bacteria that have seeded the peritoneum from a distant 
+site by way of the bloodstream. Typical organisms here
+are streptococci and staphylococci.
+e. Transvaginal. This is uncommon, but ascending infection 
+may occur from the vagina via the uterine tubes into the 
+peritoneum. Some Candida peritonitis may occur by this
+route.
+2. Role of host defenses.  The peritoneal leukocytes are critical
+in combating bacteria that have entered the peritoneal
+space by any of the routes already mentioned. A number of 
+factors are now known to alter their efficacy in phagocytiz-
+ing and killing invading bacteria.
+a. Dialysis solution pH and osmolality.  Standard PD solutions
+have a pH around 5 and an osmolality ranging from 1.3
+to 1.8 times that of normal plasma, depending on the
+glucose concentration used. These unphysiologic condi-
+tions may inhibit the ability of peritoneal leukocytes to
+phagocytize and kill bacteria. High osmolality, low pH,
+and the presence of the lactate anion combine to cause
+inhibition of superoxide. There is now some evidence
+that newer normal pH, “biocompatible” solutions may
+reduce the peritonitis rate, but this has not been a con-
+sistent finding among published studies (Cho, 2014).
+b. Peritoneal dialysis solution calcium levels.  The antimicro -
+bial actions of peritoneal macrophages are enhanced by
+both calcium and cholecalciferol. Use of active vitamin
+D has been reported to reduce the rate of peritonitis
+ (Kerschbaum, 2013). Use of a 1.25-mM (2.5-mEq/L) cal-
+cium concentration in PD solution has gained popularity 
+as it may improve adynamic bone disease and reduce vas-
+cular calcification. An increased risk of Staphylococcus 
+epidermidis peritonitis has been reported with the use
+of low-calcium dialysis solutions (Piraino, 1992), but no
+subsequent confirmatory reports have been published.
+C. Etiology. Using appropriate culture techniques, an organism 
+can be isolated from the peritoneal fluid in over 90% of cases 
+in which symptoms and signs of peritonitis and an elevated 
+peritoneal fluid neutrophil count are present. The responsible 
+pathogen is usually a bacterium, but fungal peritonitis occurs 
+occasionally (Table 27.1).
+Daugirdas9781451144291-ch027.indd   491 09/10/14   1:34 am
+Part III / Peritoneal Dialysis
+492
+Frequency of Organisms Isolated in Patients with Peritonitis
+27.1
+TABLE
+Organisms Identified Percentage(%)
+Gram-positive organisms 40–50
+S. aureus
+Coagulase-negative staphylococcal species
+11–12
+12–30
+Gram-negative organisms 20–30
+Pseudomonas sp.
+E. coli
+12–15
+6–10
+Fungi 2–4
+Mycobacterium ~1
+Polymicrobial growth ~10
+Culture-negative ~15
+D. Diagnosis. A t least two of the following three findings should 
+be present: (a) symptoms and signs of peritoneal inflamma -
+tion, (b) cloudy peritoneal fluid with an elevated peritoneal 
+fluid cell count (>100/mcL) due predominantly (>50%) to 
+neutrophils, and (c) demonstration of bacteria in the perito-
+neal effluent by Gram stain or culture.
+1. Symptoms and signs. T he most common symptom is abdomi -
+nal pain, but this is sometimes very mild. Others are nausea, 
+vomiting, and diarrhea (Table 27.2). Sometimes, especially 
+in the elderly, the only symptoms are a relatively sudden 
+loss of residual renal function and postural hypotension. 
+On the other hand, abdominal pain can be present in di-
+alysis patients owing to nonperitonitis-related abdominal 
+causes; in those starting dialysis after a failed transplant in 
+whom steroid treatment has been stopped, abdominal pain 
+due to adrenal insufficiency should be considered.
+2. Peritoneal fluid
+a. Cloudiness of the fluid.  T he peritoneal fluid generally 
+becomes cloudy when the cell count exceeds 50–100/
+mcL (50–100 × 10 6/L). In most patients, sudden onset 
+of cloudy fluid with appropriate abdominal symptoms 
+is sufficient evidence of peritonitis to warrant initiation 
+of antimicrobial therapy. However, cloudy peritoneal 
+fluid may be due to other factors (e.g., fibrin, blood, or, 
+rarely, malignancy or chyle) rather than to an increase 
+in the white blood cell (WBC) count. Occasionally, fluid 
+drained after a prolonged dwell period (such as after the 
+daytime dwell in APD patients) appears cloudy in the 
+absence of peritonitis. Conversely, a relatively translu -
+cent peritoneal fluid does not completely exclude peri -
+tonitis. Cloudy fluid has been reported with the use of 
+calcium channel blockers, presumably because they 
+Daugirdas9781451144291-ch027.indd   492 09/10/14   1:34 am
+Chapter 27 / Peritonitis and Exit-Site Infection 493
+increase triglyceride concentration in the peritoneal 
+fluid (Ram, 2012).
+b. Importance of performing a differential count of peritoneal fluid
+cells. Peritonitis is usually associated with an increase
+in the absolute number and percentage of neutrophils
+in the peritoneal fluid. On some occasions, a high peri-
+toneal fluid cell count causing cloudy fluid will be pres-
+ent owing to an increase in the number of peritoneal
+fluid monocytes or eosinophils (see what follows). Most 
+such cases are not associated with peritonitis and do
+not require antimicrobial treatment. For this reason,
+one should perform a differential cell count on the peri -
+toneal fluid sample. Prior to counting, the fluid is spun
+in a special centrifuge (e.g., Cytospin, Shandon, Inc.,
+Pittsburgh, PA) and the sediment colored with Wright
+stain.
+c. Obtaining the specimen
+1. CAPD patients. After disconnecting the drain bag full of 
+peritoneal effluent, the bag is inverted several times
+to mix its contents. A sample (7 mL) is aspirated from 
+the port of the drain bag and transferred to a tube con-
+taining ethylenediamine tetraacetic acid (EDTA).
+2. APD patients.  A representative cell count can be
+obtained easily from the daytime dwell by first drain -
+ing the abdomen and taking the sample from the
+drainage bag. In those who are “day dry, ” there may be
+some residual fluid present in the abdomen at the time
+the patient is seen. In these cases, the peritoneal fluid
+sample can be obtained directly via the peritoneal
+catheter. After careful cleaning of the catheter with
+Symptoms and Signs of Peritonitis
+27.2
+TABLE
+Percentage(%)
+Symptoms
+Abdominal pain
+Nausea and vomiting
+Feverish sensation
+Chills
+Constipation or diarrhea
+95
+30
+30
+20
+15
+Signs
+Cloudy peritoneal fluid
+Abdominal tenderness
+Rebound tenderness
+Increased temperature
+Blood leukocytosis
+99
+80
+10–50
+a
+33
+25
+a Highly variable, depending on the severity of infection and the amount of time elapsed between 
+onset and medical evaluation.
+Daugirdas9781451144291-ch027.indd   493 09/10/14   1:34 am
+Part III / Peritoneal Dialysis
+494
+povidone–iodine, a syringe is attached using meticu-
+lous sterile technique, and 2–3 mL of fluid in the 
+catheter lumen is withdrawn and discarded. The peri-
+toneal fluid sample (7 mL) is then withdrawn from the 
+catheter using a second syringe. The sample is injected 
+into a tube containing EDTA. If insufficient fluid is 
+obtained in this manner, one can infuse 1 L or more 
+of dialysis solution and drain the abdomen, obtain -
+ing a sample from the effluent. Although the absolute 
+peritoneal fluid cell count will be lower in this diluted 
+specimen, the differential count will be similar to that 
+in a sample obtained directly via the catheter.
+3. Storage time. M orphologic identification of the various 
+cell types can become quite difficult in effluent sam-
+ples stored for more than 3–5 hours prior to injection 
+into the EDTA-containing sample tube.
+d. Peritoneal fluid cell counts in peritonitis.  T he absolute peri -
+toneal fluid cell count in CAPD patients is usually <50 
+and often <10 cells/mcL. In “day dry” APD patients, 
+the normal cell count may be much higher, especially 
+in specimens taken directly via the catheter when the 
+peritoneal fluid volume is small. Normally, the perito -
+neal white cells are mainly mononuclear (monocytes, 
+macrophages, and occasional lymphocytes), and the 
+percentage of neutrophils does not exceed 15%. A value 
+>50% suggests peritonitis, while a value >35% should 
+raise suspicion. The percentage of neutrophils is raised 
+in fungal and even tuberculous peritonitis as well as in 
+the more common bacterial peritonitis.
+The percentage of neutrophils in the peritoneal fluid 
+is occasionally elevated in the absence of peritonitis—
+in patients with infectious diarrhea or active colitis (or 
+appendicitis or diverticulitis), in those with pelvic inflam-
+matory disease, and in women who are menstruating or 
+ovulating or who have recently had a pelvic examination.
+e. Peritoneal fluid monocytosis.  I f there is persistent perito -
+neal fluid monocytosis or lymphocytosis, tuberculous 
+peritonitis should be considered. Peritoneal fluid mono -
+cytosis may also occur in conjunction with peritoneal 
+fluid eosinophilia.
+f. Peritoneal fluid eosinophilia.  T he peritoneal fluid eosino -
+phil count may become elevated in PD patients, caus-
+ing cloudy fluid and leading to a suspicion of peritonitis 
+(Humayun, 1981). Usually, the peritoneal fluid mono-
+cyte count is also elevated. Peritoneal fluid eosinophilia 
+occurs most often soon after peritoneal catheter inser -
+tion. It may be seen in the sterile peritonitis that can 
+occasionally occur in those patients who have initiated 
+treatment with icodextrin PD solution. The irritant effect 
+of peritoneal air (e.g., introduced at time of laparotomy) 
+and possibly of plasticizers leached into the peritoneum 
+Daugirdas9781451144291-ch027.indd   494 09/10/14   1:34 am
+Chapter 27 / Peritonitis and Exit-Site Infection 495
+from PD solution containers and tubings is another sus -
+pected cause. In such cases, the eosinophilia most often 
+resolves spontaneously within 2–6 weeks. Peritoneal 
+fluid eosinophilia can also occur uncommonly during 
+the treatment phase of peritonitis. There have been sev-
+eral case reports of its occurrence in association with 
+fungal and parasitic infections of the peritoneum.
+g. Culture of peritoneal fluid. T he incidence of positive perito-
+neal fluid cultures in patients suspected of having peri-
+tonitis depends on culture technique. Culture-negative 
+peritonitis should not be >20% of episodes.
+1. Storage. P eritoneal fluid should be cultured promptly; 
+however, infected fluid kept at room temperature 
+or refrigerated for a period often grows pathogenic 
+organisms on subsequent culture. If immediate deliv-
+ery to the laboratory is not possible, the inoculated 
+culture bottles should ideally be incubated at 37°C.
+2. Sample volume.  T he volume of peritoneal fluid sent 
+for culture should be at least 50 mL as larger volumes 
+increase the likelihood of a positive culture.
+3. Sample preparation.  T he aliquot is centrifuged (e.g., 
+at 3,000 g for 15 minutes) to concentrate the organ-
+isms. The supernatant is decanted off, and the pellet 
+resuspended in 3–5 mL of sterile saline and inocu-
+lated into standard blood culture media (aerobic and 
+anaerobic). Rapid culture techniques (e.g., Septi-chek, 
+BACTEC) may be utilized.
+4. Yield of positive cultures.  S eventy to ninety percent of 
+dialysate samples taken from patients with clinical 
+peritonitis yield positive cultures for a specific organ-
+ism within 24–48 hours. More time may be needed for 
+more fastidious organisms.
+5. Improving culture yield.  T his may be done by hypotonic 
+lysis. The centrifuged sediment is resuspended in 100 
+mL of sterile water to induce lysis of its cellular ele-
+ments. This may lead to release of bacteria from neu-
+trophils and increase the chance of a positive culture, 
+even in patients who have already received antibiotics.
+6. Incidence of false-positive results. W ith very sensitive cul-
+ture techniques, about 7% of cultures may be positive 
+in patients without clinical peritonitis. The signifi-
+cance of this is unclear.
+h. Gram stain.  G ram stain of the peritoneal fluid sediment 
+is useful but positive in less than half of cases of culture-
+proven peritonitis. Gram stain is also useful for making 
+the diagnosis of fungal peritonitis. Staining with fluores-
+cent acridine orange dye has been reported to increase 
+the visibility of bacterial organisms.
+i. Necessity of performing blood cultures.  R outine blood cul -
+tures are not necessary unless a patient appears septic 
+or an acute surgical abdominal condition is suspected.
+Daugirdas9781451144291-ch027.indd   495 09/10/14   1:34 am
+Part III / Peritoneal Dialysis
+496
+E. Treatment
+1. Initial management
+a. Choice of antimicrobial therapy.  Empiric antibiotics must
+cover both gram-positive and gram-negative organisms.
+Vancomycin or a first-generation cephalosporin such as
+cefazolin or cephalothin is used in combination with an
+antibiotic such as ceftazidime or an aminoglycoside. In
+general, a center-specific selection of empiric therapy,
+dependent on the local history of sensitivities of organ -
+isms causing peritonitis, is recommended.
+1. Gram-positive. First-generation cephalosporins (e.g.,
+cefazolin) are often preferred to vancomycin because
+of the emergence of vancomycin-resistant organ-
+isms. Intraperitoneal (IP) cefazolin can be conve -
+niently administered in a single daily dose of 15 mg/
+kg, although a 25% increase in dose is recommended
+in patients with substantial residual renal function
+(Manley, 1999). Alternatives to vancomycin include
+nafcillin and clindamycin. Vancomycin can be used
+as first-line treatment or reserved for patients har -
+boring β-lactam–resistant organisms, especially
+ methicillin-resistant S. aureus  (MRSA), or with peni-
+cillin/cephalosporin allergy. Ciprofloxacin alone is
+not recommended for gram-positive infections.
+2. Gram-negative or indeterminate. Gram stain is usually not 
+diagnostic, and so gram-negative organisms need to
+be covered by a third-generation cephalosporin or
+aminoglycoside. In theory, aminoglycosides should
+be avoided if possible in patients with residual renal
+function because of their nephrotoxicity (Shemin,
+1999), although short courses of aminoglycosides
+probably do not harm residual renal function (Lui,
+2005). Aminoglycosides may be used in patients with-
+out residual renal function, although one still must be 
+wary of otovestibular toxicity. Table 27.3 lists sample
+prescriptions based on the use of cefazolin in combi-
+nation with ceftazidime.
+b. Delivery methods and schedules for antimicrobial drugs
+1. IP versus oral (PO) or intravenous (IV) antimicrobial therapy. IP
+administration of antibiotics is preferred to IV or PO
+dosing for treating peritonitis. IV antibiotics, how -
+ever, should be used when there is clinical evidence of 
+ systemic sepsis.
+2. The loading dose.  A loading dose of antimicrobials is
+usually given IP when CAPD is the treatment  modality 
+(Table 27.4). If a patient appears toxic, an IV load-
+ing dose should be used. For aminoglycosides, the
+IV loading dose is usually gentamicin or tobramycin
+1.5 mg/kg or amikacin 5 mg/kg. If a patient is in sub-
+stantial pain and cannot tolerate the usual exchange
+Daugirdas9781451144291-ch027.indd   496 09/10/14   1:34 am
+Chapter 27 / Peritonitis and Exit-Site Infection 497
+Sample Prescriptions for Initial Treatment of Peritonitis with 
+Unknown Organism Type27.3
+TABLE
+CAPD (continuous dosing method)
+1. Drain abdomen and obtain cell count and culture from drainage bag. Change 
+the transfer set.
+2. Loading dose: Infuse 2-L dialysis solution containing 1,000 mg ceftazidime, 1,000 
+mg cefazolin, and 1,000 units heparin.
+3. Allow to dwell 3–4 hr. In patients who appear septic, administer loading doses 
+IV rather than IP.
+4. Continue regular CAPD schedule, using normal exchange volume if tolerated. 
+Add 125 mg/L ceftazidime, 125 mg/L cefazolin, and 500–1,000 units/L heparin to 
+each dialysis solution bag.
+CAPD (intermittent dosing method)
+1. Drain abdomen and obtain cell count and culture from drainage bag. Change 
+the transfer set.
+2. Loading dose: same as the continuous dosing method.
+3. Continue regular CAPD schedule, using normal exchange volume if tolerated. 
+Administer ceftazidime 1,000 mg and cefazolin 1,000 mg into each nocturnal 
+exchange. If fibrin or blood in dialysate, add heparin to every exchange.
+APD: see text.
+volume, the IP loading dose can be administered in a 
+smaller volume of dialysis solution (e.g., 1 L). For APD 
+patients, the loading dose can be given IV , but it can 
+also be instilled via a peritoneal dwell that is then left 
+in place for at least 4–6 hours.
+3. Maintenance antimicrobial dose.  A fter the loading dose 
+has been given, a CAPD or APD schedule is continued, 
+with maintenance doses of antimicrobials added to 
+each exchange (Table 27.4). Some centers switch APD 
+patients to CAPD, but this is not routine. Maintenance 
+antibiotics in CAPD patients can be administered as 
+an intermittent dose once daily. For patients on an 
+APD schedule, antibiotics can be administered con -
+veniently in the daytime dwell. For patients on a day 
+dry APD schedule, temporary conversion to a CAPD 
+regimen may be considered because of ease of anti-
+biotic administration, or, alternatively, a low-volume 
+daytime dwell (e.g., 1 L) could be temporarily added. 
+Because of increased cycler clearance of antibiotics, 
+doses need to be higher in patients who remain on 
+APD during the treatment of peritonitis (Manley  and 
+Bailie, 2002). (Examples are given in Table 27.5.)
+4. Antimicrobial dosing guidelines.  Suggested loading and 
+maintenance doses for a number of antimicrobial 
+drugs are listed in Table 27.4. For maintenance doses 
+added to the dialysis solution, continuous and inter -
+mittent dosing of antibiotics are equally efficacious. 
+For continuous dosing, the same dose of antibiotic 
+is added to each dialysis solution bag. Alternatively, 
+Daugirdas9781451144291-ch027.indd   497 09/10/14   1:34 am
+Part III / Peritoneal Dialysis
+498
+Loading and Maintenance Doses of Antimicrobials for 
+ Peritonitis (CAPD)a
+27.4
+TABLE
+Intermittent  
+(per  exchange, once daily)
+Continuous  
+(mg/L, all exchanges)
+Aminoglycosides
+Amikacin 2 mg/kg LD 25, MD 12
+Gentamicin, netilmicin, 
+or tobramycin
+0.6 mg/kg LD 8, MD 4
+Cephalosporins
+Cefazolin, cephalothin,  
+or cephradine
+15 mg/kg LD 500, MD 125
+Cefepime 1,000 mg LD 500, MD 125
+Ceftazidime 1,000–1,500 mg LD 500, MD 125
+Penicillins
+Ampicillin, oxacillin,  
+or nafcillin
+ND MD 125
+Amoxicillin ND LD 250–500, MD 50
+Penicillin G ND LD 50,000 units, MD 
+25,000 units
+Quinolones
+Ciprofloxacin ND LD 50, MD 25
+Others
+Vancomycin 15–30 mg/kg every 5–7 d LD 1,000, MD 25
+Daptomycin ND LD 100, MD 20
+Linezolid Oral 200–300 mg q. d.
+Antifungals
+Fluconazole 200 mg IP every 24–48 hr
+Amphotericin NA 1.5
+Combinations
+Ampicillin–Sulbactam 2 g every 12 hr LD 1,000, MD 100
+Trimethoprim–
+Sulfamethoxazole
+160 mg/800 mg oral twice daily
+Imipenem–Cilastin 1 g b. i. d. LD 250, MD 50
+b. i. d., two times per day; LD, loading dose in mg; MD, maintenance dose in mg; NA, not 
+ applicable; ND, no data.
+a Dosing of drugs with renal clearance in patients with residual renal function (defined as >100 mL 
+per day urine output): dose should be empirically increased by 25%.
+Adapted from Li et al. Peritoneal dialysis related infections recommendations: 2010 update.  
+Perit Dial Int. 2010;30:393–423.
+Daugirdas9781451144291-ch027.indd   498 09/10/14   1:34 am
+Chapter 27 / Peritonitis and Exit-Site Infection 499
+a larger dose is added to one bag only, every 12 or 24 
+hours (or, in the case of vancomycin, every 4–5 days). 
+A  randomized trial in children showed that inter -
+mittent vancomycin was as effective as continuous 
+vancomycin (Schaefer, 1999). Single daily dosing of 
+aminoglycosides has several advantages, including 
+ease of administration, increased efficacy, and poten -
+tially less toxicity. Increased bacterial killing rates 
+associated with prolonged postantibiotic effect are 
+obtained using once-daily dosing. However, trough 
+concentrations of antibiotic (i.e., 24 hours after a 
+dose) will be low, and the exact duration of the post -
+antibiotic effect is unknown, which has led to some 
+concern about the advisability of this type of regimen, 
+especially in patients with residual renal function 
+(Low, 1996).
+There has been interest in once-daily cephalo-
+sporin dosing. Cefazolin at 1–2 g IP daily has been 
+tried (Lai, 1997; Troidle, 1997). However, IP cephalo-
+sporin levels may fall below the minimum inhibitory 
+concentration (MIC) of most organisms. As there is 
+no postantibiotic effect with cephalosporins, in con-
+trast to aminoglycosides, there is some concern that 
+once-daily dosing may lead to more treatment failures 
+than intermittent dosing (Fielding, 2002). In general, 
+continuous dosing of cephalosporins is preferred, but 
+intermittent dosing is also widely used.
+5. Stability of antibiotics in dialysate.  V ancomycin, amino -
+glycosides, and cephalosporins can be mixed in the 
+same dialysis solution bag; however, aminoglycosides 
+are incompatible with penicillins. Vancomycin (25 
+mg/L) is stable for 28 days in dialysis solution stored 
+at room temperature, although high ambient temper-
+atures will reduce the duration of stability. Gentamicin 
+Intermittent Dosing of Antibiotics in Automated Peritoneal 
+Dialysis (APD)27.5
+TABLE
+Drug IP dose
+Vancomycin Loading dose 30 mg/kg IP in long dwell, repeat dosing 15 mg/
+kg IP in long dwell every 3–5 d (aim to keep serum trough 
+levels above 15 mcg/mL)
+Cefazolin 20 mg/kg IP every day, in long day dwell
+Tobramycin Loading dose 1.5 mg/kg IP in long dwell, then 0.5 mg/kg IP 
+each day in long dwell
+Fluconazole 200 mg IP in one exchange per d every 24–48 hr
+Cefepime 1 g IP in one exchange per d
+Adapted from Li et al. Peritoneal dialysisrelated infections recommendations: 2010 update (2010).
+Daugirdas9781451144291-ch027.indd   499 09/10/14   1:34 am
+Part III / Peritoneal Dialysis
+500
+(8 mg/L) is stable for 14 days, but the duration of sta-
+bility is reduced by the admixture of heparin. Cefazo -
+lin (500 mg/L) is stable for at least 8 days at room 
+temperature or for 14 days if refrigerated; addition 
+of heparin does not impair stability. Ceftazidime is 
+less stable; concentrations of 125 mg/L are stable for 
+4 days at room temperature or 7 days if refrigerated, 
+and concentrations of 200 mg/L are stable for 10 days 
+if refrigerated.
+c. Heparin. P eritonitis is often associated with formation 
+of fibrinous clots in the peritoneal fluid, and the risk of 
+catheter obstruction is high. Most centers add heparin 
+(500–1,000 units/L) to the dialysis solution until perito-
+nitis resolves and fibrinous clots are no longer visible in 
+the effluent.
+d. Nystatin. Si nce the majority of fungal peritonitis episodes 
+are preceded by courses of antibiotics, fungal prophy-
+laxis during antibiotic therapy may prevent some cases 
+of Candida peritonitis in programs that have high rates 
+of fungal peritonitis. A number of studies have examined 
+the use of oral nystatin prophylaxis, given during antibi-
+otic therapy, to prevent fungal peritonitis, and the results 
+are mixed. We believe nystatin prophylaxis should be 
+considered in programs with high baseline rates of fun-
+gal peritonitis.
+e. Alterations in schedule for CAPD and APD. C APD patients can 
+generally continue their normal schedule of exchanges, 
+unless ultrafiltration becomes inadequate. Some cen -
+ters prefer to treat moderate-to-severe peritonitis in 
+both CAPD and APD patients for the initial 24–48 hours 
+with a series of 3–4 hour exchanges containing antibi-
+otics administered via a cycler. In APD patients with 
+mild-to-moderate peritonitis, the usual APD schedule 
+can be continued unchanged with antibiotics admin-
+istered either continuously (added to all exchanges) or 
+intermittently (added only to the daytime dwell). Some 
+convert the patient to CAPD but this may be a problem 
+for patients, especially if they are being treated at home. 
+Doses of antimicrobials for those who remain on APD 
+are provided in Table 27.5. The decision to hospitalize a 
+patient depends on a variety of factors, including patient 
+reliability, severity of peritonitis, and the treatment 
+schedule chosen. In most centers, the majority of cases 
+are now managed as outpatients.
+f. Consideration of secondary peritonitis.  I n a small but sig-
+nificant proportion of patients with peritonitis, a seri -
+ous, underlying intra-abdominal disease process (e.g., 
+perforated peptic ulcer, pancreatitis, appendicitis, or 
+diverticulitis) may be present. The presence of peritoneal 
+fluid in the abdomen may mask the local tenderness 
+commonly associated with some of these conditions. If 
+Daugirdas9781451144291-ch027.indd   500 09/10/14   1:34 am
+Chapter 27 / Peritonitis and Exit-Site Infection 501
+there is any suspicion of an underlying intra-abdominal 
+disease process, a chest radiograph should be obtained. 
+The presence of free IP air on upright chest radiograph 
+is an unusual finding in CAPD patients, provided recent 
+laparotomy or transfer set change has not been per -
+formed, and may suggest the presence of a perforated 
+viscus. However, free IP air may occur more commonly 
+in patients being treated with cyclers.
+g. Amylase and lipase. I n a dialysis patient suspected of hav-
+ing pancreatitis, the finding of a serum total amylase 
+value in excess of three times the upper limit of normal 
+suggests that pancreatitis is present. Very severe pancre-
+atitis can be present in dialysis patients with only slight, 
+and therefore nondiagnostic, elevations in the serum 
+total amylase level. The peritoneal fluid amylase con -
+centration, easily obtainable in patients receiving PD, is 
+not a sensitive indicator of pancreatitis because the peri-
+toneal fluid amylase levels can be only slightly elevated 
+in the presence of severe pancreatitis. Nevertheless, an 
+effluent amylase level >100 units/dL is suggestive of 
+pancreatitis or some other intra-abdominal catastrophe.
+Serum lipase activity is elevated (as high as twice the 
+upper limit of normal) in about 50% of dialysis patients. 
+In PD patients using icodextrin-based PD solutions, mea-
+surement of lipase is superior to amylase for diagnosis of 
+acute pancreatitis.
+h. Consequence of changes in peritoneal permeability . During 
+peritonitis, the permeability of the peritoneum to water, 
+glucose, and proteins is increased. Rapid glucose absorp-
+tion from the dialysis solution reduces the amount of 
+ultrafiltration and can result in fluid overload. Higher 
+dialysis solution glucose levels and shorter dwell times 
+may be needed to maintain adequate ultrafiltration. 
+Because glucose absorption is more rapid during perito-
+nitis, hyperglycemia may result and can be severe in dia-
+betic patients unless glucose values are monitored and 
+insulin doses titrated. Protein losses during peritonitis 
+are temporarily increased.
+i. Constipation. C onstipation is a common complaint dur -
+ing peritonitis episodes, and constipation may itself be 
+a risk factor for developing peritonitis, in addition to its 
+impact on poor drainage of instilled dialysate. If consti-
+pation is present, calcium-containing phosphate bind -
+ers, which can cause or worsen constipation, should be 
+temporarily discontinued.
+2. Initial management of peritoneal contamination without peritoni -
+tis. A fter bacterial contamination of the peritoneal cav-
+ity, the incubation period for most organisms is about 
+12–48 hours. If a break in sterile technique has occurred, 
+it is advisable to institute antimicrobial therapy promptly 
+in order to prevent peritonitis. The transfer set should be 
+Daugirdas9781451144291-ch027.indd   501 09/10/14   1:34 am
+Part III / Peritoneal Dialysis
+502
+changed, and the peritoneal cavity flushed with dialysis so-
+lution containing an antistaphylococcal antibiotic. A short 
+(1- to 2-day) course of oral antimicrobial therapy (e.g., cip-
+rofloxacin) may also be given. However, there is no docu-
+mentation that these procedures are effective in preventing 
+peritonitis.
+3. Change in management of peritonitis based on patient course and
+initial culture results.  With effective treatment, the patient
+should begin to improve clinically within 12–48 hours,
+and the total cell count and percentage of neutrophils in
+the peritoneal fluid should begin to decrease. Often visual
+inspection of the effluent will suffice, but if there is no im-
+provement within 48 hours, repeat cell count and culture
+are necessary. Isolation of causative bacteria and determi-
+nation of their antimicrobial sensitivity can generally be
+obtained within 2–3 days. Longer growth periods may be
+needed for certain fastidious organisms (e.g., gentamicin- 
+and methicillin-resistant S. aureus ). A single organism is
+isolated in 70%–90% of cases (Table 27.1).
+a. Gram-positive organism cultured. If S. aureus, S. epidermidis, 
+or a Streptococcus sp. is identified, then continued ther -
+apy with a single antimicrobial agent is recommended.
+If an aminoglycoside was given initially, it can now be
+stopped. Many S. epidermidis–like organisms reported to 
+be resistant to first-generation cephalosporins are sensi-
+tive to the levels achieved in the peritoneal cavity. Thus,
+if the patient is clinically responding to treatment, there
+is usually no need to change the antibiotic regimen. If an 
+Enterococcus sp. is cultured, ampicillin or vancomycin
+plus an aminoglycoside is generally employed, unless
+sensitivity testing indicates vancomycin resistance,
+in which case linezolid or quinupristin/dalfopristin is
+needed.
+1. Duration of therapy. For coagulase-negative Staphylococ-
+cus and Enterococcus  peritonitis, if patient improve -
+ment is prompt, antimicrobial therapy should be
+continued for a total of 14 days. S. aureus  peritonitis
+requires antimicrobials for 3 weeks, and rifampin
+could be considered an adjunct for the prevention
+of relapse or repeat S. aureus  peritonitis. Rifampin
+induces cytochrome P450 (CYP3A4), which should be
+kept in mind when the patient is taking other medi-
+cations metabolized by this pathway. S. aureus  peri -
+tonitis with concurrent exit-site or tunnel infection is
+unlikely to respond to antibiotic therapy without cath-
+eter removal.
+2. Nasal carriage and S. aureus infection.  Patients who
+develop S. aureus  peritonitis are usually nasal car -
+riers of this organism. Eradication of nasal carriage
+may help prevent further peritoneal infections by
+this bacterium. This can be accomplished with
+Daugirdas9781451144291-ch027.indd   502 09/10/14   1:34 am
+Chapter 27 / Peritonitis and Exit-Site Infection 503
+intranasal mupirocin (bid for 5 days every 4 weeks) or 
+oral rifampin (300 mg bid for 5 days every 3 months). 
+Resistance to mupirocin and rifampin is increasingly 
+common. Eradication of the carrier state should be 
+documented by repeating appropriate cultures after 
+antibacterial treatment.
+b. Gram-negative organism cultured.  Recovery of a gram-
+negative organism, even in a patient who is improving
+clinically, has several important implications: (a) gram-
+negative infections (especially Pseudomonas sp.) are hard 
+to eradicate, and the risk of relapsing peritonitis is high,
+(b) gram-negative peritonitis may be a sign of unsus-
+pected intra-abdominal pathology, and (c) prolonged
+treatment with aminoglycosides carries the risk of oto-
+vestibular toxicity.
+If a single, non-Pseudomonas sp. is recovered, the peri-
+tonitis can usually be treated by continuation of the ini -
+tial IP third-generation cephalosporin or aminoglycoside 
+alone, or by another single appropriate antibiotic, although 
+some centers prefer to use two agents. If a Pseudomonas sp. 
+is recovered, two antibiotics are mandatory. Usually, the 
+IP aminoglycoside should be continued with the addition 
+of a third-generation cephalosporin administered IP or a 
+semisynthetic penicillin with anti-Pseudomonas  activity 
+(e.g., piperacillin) administered IV . Semisynthetic penicil-
+lins can inactivate aminoglycosides in vitro, and IP coad-
+ministration should be avoided. Other alternatives are 
+ciprofloxacin (or another quinolone), aztreonam, imipe-
+nem, and trimethoprim–
+ sulfamethoxazole. Pseudomonas 
+peritonitis requires catheter removal in up to two-thirds 
+of cases (Bunke, 1995). Fluoroquinolones (such as cipro-
+floxacin and ofloxacin) have the advantage that effective 
+dialysate levels can usually be achieved after PO dosing; 
+their concurrent administration with phosphate-binding 
+antacids should be avoided to ensure adequate absorption 
+from the gastrointestinal tract.
+1. Duration of therapy.  In uncomplicated cases, duration
+of therapy for gram-negative peritonitis is at least 2
+and preferably 3 weeks. If the peritoneal catheter is
+removed, appropriate antibiotics should be continued 
+(either PO or IV) for another 2 weeks, especially with
+Pseudomonas.
+2. IP aminoglycoside toxicity.  To treat gram-negative peri-
+tonitis, a prolonged course (2 weeks) of aminoglyco-
+sides may be required. In the usual dosing strategy
+(after the loading dose), 4–6 mg/L of gentamicin,
+tobramycin, or netilmicin is added to the PD solution. 
+This results in constant serum drug levels, which may 
+cause otovestibular toxicity. Adding a higher dose
+to a single bag only every 24 hours (e.g., 20 mg/L of
+gentamicin or tobramycin) avoids constant serum
+Daugirdas9781451144291-ch027.indd   503 09/10/14   1:34 am
+Part III / Peritoneal Dialysis
+504
+levels above 2 mg/L and may reduce the toxicity of IP 
+aminoglycosides.
+3. Alternative agents.  M any gram-negative organisms are 
+sensitive to aztreonam, newer cephalosporins, qui-
+nolones, imipenem, or the semisynthetic penicillins. 
+Use of these alternative agents should be considered 
+both initially and when prolonged therapy of gram-
+negative peritonitis is required.
+4. Infection with Stenotrophomonas (formerly Xanthomonas) 
+sp. T he major risk factor for infection with Stenotro -
+phomonas maltophilia is the previous use of broad-
+spectrum antibiotics. These are usually very resistant 
+organisms. Medical therapy requires two antibiot -
+ics, usually including cotrimoxazole, and must be 
+extended to a minimum of 3–4 weeks, and catheter 
+removal is usually required (Szeto, 1997).
+c. Polymicrobial peritonitis. I n general, peritonitis due to mul -
+tiple gram-positive organisms will respond to antibiotic 
+therapy. About 60% of these infections resolve without 
+catheter removal (Szeto, 2002b).
+In contrast, if multiple enteric organisms are grown, 
+particularly in association with anaerobic bacteria, the 
+presence of an intra-abdominal abscess or a perforated 
+abdominal viscus must be considered. Perforated diver -
+ticulum, tubo-ovarian abscess, cholecystitis, appen-
+dicitis, perforated ulcer, and pancreatitis must all be 
+included in the differential diagnosis. The risk of mor -
+tality is increased (Kern, 2002). Initial management can 
+be accomplished by triple-antibiotic therapy aimed at 
+gram-positive, gram-negative, and anaerobic organisms. 
+Use of an IP aminoglycoside, IP vancomycin, and PO or 
+IV metronidazole is usual. A surgical evaluation should 
+be obtained, and management must be individualized.
+d. Culture-negative peritonitis. I f the culture results are nega-
+tive at 24 hours, then the most likely explanation is that a 
+bacterial infection was present but that the responsible 
+organisms failed to grow in the culture sample. Some-
+times, growth appears only after 5–7 days, and  cultures 
+should be incubated for this length of time. Manage-
+ment depends on whether the patient is improving 
+clinically. Although the current ISPD recommendation 
+is to  continue both of the initial antibiotics for a full 
+14 days (Li, 2010), many authorities recommend discon-
+tinuing the gram-negative coverage (i.e., ceftazidime or 
+aminoglycoside) after 3 days if the patient is improv-
+ing. Patients with culture-negative peritonitis who do 
+not improve should be recultured using special culture 
+techniques to look for unusual organisms such as yeast, 
+mycobacteria, and fungi. If a dialysis program has a rate 
+of culture-negative peritonitis >20%, the culture meth-
+ods should be reviewed.
+Daugirdas9781451144291-ch027.indd   504 09/10/14   1:34 am
+Chapter 27 / Peritonitis and Exit-Site Infection 505
+Infection with Mycobacterium tuberculosis  or with 
+nontuberculous mycobacteria sometimes presents as 
+culture-negative peritonitis. When mycobacterial perito-
+nitis is suspected, special attention must be paid to cul-
+ture techniques. Diagnostic sensitivity can  be improved 
+by culturing the sediment after centrifugation of a large 
+volume of effluent (50–100 mL) using a solid medium 
+(such as Lowenstein–Jensen agar) and a fluid medium 
+(Septi-chek, BACTEC, etc.). Catheter removal is often 
+required but is not mandatory provided prompt therapy 
+is given. This consists of a multiple-drug regimen (usually 
+isoniazid, rifampin, ofloxacin, and pyrazinamide). Strep-
+tomycin and ethambutol are generally not recommended 
+in dialysis patients.
+e. Fungal peritonitis.  F ungal peritonitis is a serious compli -
+cation and should be strongly suspected after recent 
+antibiotic treatment for bacterial peritonitis. Other pre-
+disposing factors to fungal peritonitis include diabetes 
+mellitus, immunosuppression (e.g., immunosuppressive 
+therapy, HIV infection), and malnutrition, especially a 
+low serum albumin level. Candida  is the most prevalent 
+species cultured, but many types of fungi can be respon-
+sible. The ISPD recommendation is prompt removal of 
+the catheter as soon as fungi are identified by gram stain 
+or culture (Li, 2010), together with treatment for at least 
+10 days with antifungal agents. The patient is then main-
+tained on hemodialysis. In some patients, a new catheter 
+can be inserted 4–6 weeks later, provided that  at least 
+1 week has elapsed since all clinical evidence of peritoni-
+tis has subsided.
+In an attempt to limit adhesion formation, in addi-
+tion to catheter removal, prolonged oral administration 
+of antifungal drugs, such as flucytosine, miconazole, flu-
+conazole, ketoconazole, itraconazole, or voriconazole, 
+has been employed. Voriconazole or posaconazole is 
+an alternative to amphotericin B when filamentous 
+fungi have been cultured, but neither of them can be 
+used alone for Candida  peritonitis (even with catheter 
+removal). The recommended dosages of these agents are 
+the same as for patients with normal renal function, with 
+the exception of flucytosine, for which the dosage must 
+be reduced (see Chapter 35). The unavailability of oral flu-
+cytosine in many countries and the high price of many 
+new antifungal agents may affect local practice.
+4. Refractory peritonitis and indications for catheter removal.  Refrac-
+tory peritonitis is defined as failure of peritonitis to clear 
+after 5 days of appropriate antibiotics. Catheter removal is 
+indicated in order to reduce patient morbidity and preserve 
+the peritoneal membrane. Ultrasound, computed tomogra-
+phy, or gallium scan is indicated if an intra-abdominal ab-
+scess is suspected, since in such cases surgical exploration 
+Daugirdas9781451144291-ch027.indd   505 09/10/14   1:34 am
+Part III / Peritoneal Dialysis
+506
+and drainage may be needed at the time of or after cath-
+eter removal. In general, it is preferable to remove the PD 
+catheter in patients who do not respond to antimicrobials 
+rather than subject the patient to a long period of exposure 
+to antibiotics, with increased risk of superinfection and 
+morbidity, and of damage to the peritoneal membrane. 
+After catheter removal, the safe time interval before a new 
+catheter can be inserted is controversial and probably de-
+pends on the severity of the peritonitis and whether fungal 
+peritonitis or tunnel infection was present. A conservative 
+approach is to wait 4–6 weeks. Resumption of PD is pos-
+sible in approximately one-half of patients, but may neces-
+sitate a change in dialysis prescription to achieve adequate 
+dialysis and ultrafiltration (Szeto, 2002a).
+5. Relapsing, recurrent, and repeat peritonitis.  R elapsing peritoni -
+tis is defined as peritonitis with the same organism within 4 
+weeks of stopping antimicrobial therapy; S. epidermidis  or 
+a gram-negative organism is usually involved, but relapsing 
+culture-negative peritonitis is also common. In the case of 
+relapsing gram-negative peritonitis, catheter removal, with 
+or without surgical exploration, should be strongly consid-
+ered, especially in cases of Pseudomonas  infection. If it is 
+decided to treat the patient medically, either the aminogly-
+coside dose should be administered intermittently or an 
+alternative agent should be employed. With less serious in-
+fections, it may be possible to insert a new catheter, simul-
+taneous with the removal of the old one, obviating the need 
+for hemodialysis. The new catheter should be inserted well 
+away from the old exit site. This approach has been particu-
+larly useful in the management of relapsing peritonitis due 
+to coagulase-negative staphylococci.
+Recent studies suggest that relapsing and recurrent 
+peritonitis episodes are caused by a different spectrum of 
+bacteria, and probably represent two distinct clinical enti-
+ties (Szeto, 2009). Notably, recurrent peritonitis episodes 
+had a worse prognosis than relapsing ones. Although repeat 
+peritonitis episodes generally have a satisfactory response 
+to antibiotic, they have a substantial risk of developing 
+further relapsing or repeat peritonitis (Szeto, 2011b) with 
+treatments of relapsing, recurrent, or repeat peritonitis.
+a. Fibrinolytic enzymes.  S treptokinase and urokinase have 
+been used by some investigators in the treatment of 
+refractory or relapsing peritonitis. These agents are used 
+in an attempt to release bacteria entrapped in fibrin 
+within the peritoneum or along the catheter, thus making 
+it possible to eradicate the infection. Controlled studies 
+have not proved this approach to be effective compared 
+with catheter removal and replacement  (Williams, 1989).
+6. Peritonitis with catheter obstruction . Ca theter obstruction of-
+ten accompanies peritonitis. Management is discussed in 
+Chapter 23.
+Daugirdas9781451144291-ch027.indd   506 09/10/14   1:34 am
+Chapter 27 / Peritonitis and Exit-Site Infection 507
+7. Prophylactic antibiotic use.  Prophylactic antibiotic use does
+not prevent peritonitis; this is probably true even for pa-
+tients with exit-site infections. However, short-term pro-
+phylactic systemic antibiotics may be beneficial in the
+following settings: (a) before catheter placement (vanco-
+mycin or cefazolin); (b) to prevent bacteremia during inva-
+sive procedures, such as dental procedures (amoxicillin 2 g) 
+or colonoscopy, colonoscopic polypectomy, hysteroscopy,
+or cholecystectomy (ampicillin plus an aminoglycoside);
+and (c) after an accidental contamination.
+8. Prevention. The use of prophylactic antibiotic has been dis-
+cussed above. Spiking of dialysis bags is a high-risk proce-
+dure for contamination of the system; the “flush before fill” 
+reduces the risk of contamination. Double-cuffed catheters 
+may provide an added barrier to periluminal movement of
+S. aureus into the peritoneum, and they are clearly superior 
+to single-cuffed catheters in decreasing the risk of perito-
+nitis. No particular catheter has been definitively shown to 
+be better than the standard silicon double-cuff catheter for 
+the prevention of peritonitis.
+A number of perioperative measures may help to re-
+duce the incidence of peritonitis (Crabtree, 2005). Skin exit 
+site should be directed downward or laterally. Subcutane-
+ous tunnel incision should not exceed the diameter of the 
+dialysis catheter. The subcutaneous cuff should be posi-
+tioned 2 to 3 cm from the exit site. Exit site should be the 
+smallest hole possible that provides catheter exit. There 
+should be no sutures anchoring the catheter at the exit site.
+Hypokalemia is associated with an increased risk of en-
+teric peritonitis, and therefore if present, should be treated. 
+There is an association between both severe constipation 
+and enteritis and peritonitis owing to enteric organisms. It 
+is logical to treat any bacterial enteritis if present. A recent 
+observational study suggests that lactulose treatment may 
+reduce the risk of peritonitis (Afsar, 2010).
+Training methods have a substantial influence on the 
+risk of PD infections, and training should follow standard 
+guidelines (Bernardini, 2006); each PD program should 
+consult the standard ISPD guidelines to prepare the trainer 
+and develop a specific curriculum. Each program must also 
+decide when and how often to routinely retrain patients; 
+there is no published study in this area. Retraining should 
+be considered following peritonitis or catheter infection, as 
+well as following change in dexterity, vision, or mental acu-
+ity. After each peritonitis episode, it is prudent to perform a 
+root cause analysis to determine etiology so that interven-
+tions can be planned to prevent future episodes.
+II. EXIT-SITE AND TUNNEL INFECTION.  Approximately one-fifth of peri-
+tonitis episodes are temporally associated with exit-site and tun-
+nel infections (Piraino, 2005). Purulent drainage from the exit
+Daugirdas9781451144291-ch027.indd   507 09/10/14   1:34 am
+Part III / Peritoneal Dialysis
+508
+site generally indicates the presence of infection, while erythema 
+alone may or may not represent infection.
+A. Incidence. The incidence of exit-site infections is approxi-
+mately 1 episode every 24–48 patient-months. Patients 
+with previous infections tend to have a higher frequency of 
+occurrence.
+B. Etiology and pathogenesis.  Exit-site infections are predomi-
+nantly due to S. aureus  and P. aeruginosa. S. epidermidis is the 
+causative organism in <20% of patients. Approximately 45% 
+of patients are nasal carriers of S. aureus , and nasal carriage 
+is associated with exit-site infection and peritonitis (Luzar, 
+1990a, 1990b). Eradication of the carrier state is helpful in  
+effective management.
+C. Therapy. Treatment is dependent on whether there is ery -
+thema alone, or erythema along with purulent drainage. For 
+erythema alone, topical treatment with hypertonic saline, 
+hydrogen peroxide, or mupirocin 2% ointment is usually suf-
+ficient. Mupirocin ointment should not be used with polyure-
+thane catheters (e.g., many catheters made by Vas-Cath or the 
+Cruz catheter from Corpak) because the polyethylene glycol 
+in mupirocin ointment will degrade the polyurethane and 
+destroy the catheter. Ciprofloxacin otologic solution can be 
+used with polyurethane catheters, but efficacy in treating exit-
+site infection is unknown (Montenegro, 2000).
+Treatment is more problematic when there is exit-site in-
+fection with purulent drainage; such infection may extend into 
+the subcutaneous tunnel and be evident only on ultrasound 
+examination of the catheter tract (Vychytil, 1999). Therapy 
+should be based on the results of gram stain and culture. The 
+gram stain of exit-site drainage and microbiologic culture find-
+ings can guide initial therapy. If gram-positive organisms are 
+found, a cephalosporin or an antistaphylococcal penicillin PO 
+is first-line treatment. If no improvement occurs after 1 week 
+despite appropriate treatment based on culture and sensitivity, 
+rifampin 600 mg per day PO may be added. If the infection has 
+not resolved in 2 weeks, a surgical approach (deroofing, outer-
+cuff shaving, or catheter removal) may be required. If tunnel 
+infection is present, early cuff excision in combination with an-
+tibiotic administration results in a substantial rate of catheter 
+salvage (Suh, 1997), although catheter removal is sometimes 
+required, especially when there is coexisting peritonitis.
+If gram-negative organisms are present, treatment 
+should be based on sensitivity results. Oral quinolones are 
+useful, though care must be taken to avoid ingestion of mul-
+tivalent cations (calcium, iron, zinc, antacids) within 2 hours 
+of drug ingestion. With more serious pseudomonal infec-
+tions, IP ceftazidime or aminoglycoside may be necessary. 
+Regardless, antibiotic therapy must be continued until the 
+exit site appears entirely normal. Two weeks is the minimum 
+length of treatment time, and treatment for 3 weeks is prob-
+ably necessary for exit-site infections caused by P. aeruginosa . 
+Daugirdas9781451144291-ch027.indd   508 09/10/14   1:34 am
+Chapter 27 / Peritonitis and Exit-Site Infection 509
+Catheter removal should be considered at an early time point 
+for exit-site infections caused by P. aeruginosa  or if there is 
+tunnel infection; replacement with a new catheter at a dif-
+ferent site as a single procedure is often feasible. Table 27.6 
+lists appropriate oral antimicrobial doses for the treatment 
+of exit-site infections.
+D. Prevention. A ntibiotic protocols against S. aureus  nasal carriage 
+are effective in reducing the risk of S. aureus  catheter infec -
+tions. Protocols used include rifampin (600 mg PO for 5 days), 
+mupirocin (2% ointment twice daily for 5 days every 4 weeks), 
+and trimethoprim–sulfamethoxazole (one single-strength 
+tablet three times weekly). In a randomized controlled trial, 
+rifampin 600 mg PO for 5 days given every 3 months was effec-
+tive in decreasing catheter infections (Zimmerman, 1991). In a 
+multicenter randomized trial (Mupirocin Study Group, 1996), 
+use of nasal mupirocin in the regimen stated above in S. aureus 
+Oral Antimicrobial Doses for Exit-Site and Tunnel Infections
+27.6
+TABLE
+Amoxicillin 250–500 mg b.i.d.
+Cephalexin 500 mg b.i.d.
+Ciprofloxacin 250–500 mg b.i.d.
+Clarithromycin 250–500 mg b.i.d.
+Dicloxacillin 250–500 mg b.i.d.
+Fluconazole 200 mg once daily
+Flucloxacillin 500 mg b.i.d.
+Flucytosine 2-g load, then 1 g PO, q.day
+Isoniazid 300 mg once daily
+Linezolid 600 mg b.i.d.
+Metronidazole 400 mg b.i.d. for <50 kg
+400–500 t.i.d. for >50 kg
+Ofloxacin 400 mg first day, then 200 mg once daily
+Pyrazinamide 35 mg/kg per day (given as b.i.d. or once 
+daily)
+Rifampin 450 mg once daily for <50 kg
+600 mg once daily for >50 kg
+Trimethoprim/sulfamethoxazole 80/400 mg once daily
+b.i.d., two times per day; PO, orally; t.i.d., three times per day.
+Reproduced from Piraino B, et al. Peritoneal dialysis-related infections recommendations:  
+2005 update. Perit Dial Int. 2005;25:107–131.
+Daugirdas9781451144291-ch027.indd   509 09/10/14   1:34 am
+Part III / Peritoneal Dialysis
+510
+nasal carriers resulted in a significant decline in exit-site infec-
+tions from this organism; however, the overall incidence of 
+exit-site infections was not decreased because of an increase 
+in gram-negative infections, and rates of tunnel infection and 
+peritonitis were not affected.
+Prevention of catheter infections (and thus peritonitis) is 
+the primary goal of exit-site care. There are sufficient data to 
+support the use of exit-site antibiotic cream (either mupirocin 
+or gentamicin) in all patients. In two clinical trials, mupirocin 
+ointment applied daily to the exit site decreased the rate of both 
+exit-site infections and peritonitis in comparison with a histor-
+ical control group (Bernardini, 1996; Thodis, 1998). In another 
+study (Bernardini, 2005), gentamicin cream was as effective 
+as mupirocin in preventing S. aureus  infections and reduced 
+P. aeruginosa and other gram-negative catheter infections. Peri-
+tonitis, particularly that caused by gram-negative organisms, 
+was reduced by 35%. Because of its efficacy against both gram-
+positive and gram-negative infections, daily gentamicin cream 
+at the exit site has been advocated as the prophylaxis of choice 
+for PD patients. However, the risk of aminoglycoside resistance 
+after prolonged usage has not been assessed.
+Whether the incidence of exit-site infections is lower 
+with double-cuff catheters is somewhat controversial (Nessim, 
+2010; Segal, 2013). The method of catheter placement may be 
+important. Leaving the catheter embedded subcutaneously for 
+several weeks after placement (see Chapter 23) and then exte-
+riorizing it prior to use may reduce the rate of exit-site infec-
+tion. Use of chlorhexidine versus povidone–iodine solution is 
+associated with a significant decrease in exit-site infections in 
+children (Jones, 1995). Polyhexanide solution also appears to 
+be better than povidone–iodine (Núñez-Moral, 2014). 
+References and Suggested Readings
+Afsar B, et al. Regular lactulose use is associated with lower peritonitis rates: an obser-
+vational study. Perit Dial Int. 2010;30:243–246.
+Ballinger AE, et al. Treatment for peritoneal dialysis-associated peritonitis. Cochrane 
+Database Syst Rev. 2014;26:CD005284.
+Bernardini J, Price V , Figueiredo A; International Society for Peritoneal Dialysis (ISPD) 
+Nursing Liaison Committee. Peritoneal dialysis patient training, 2006. Perit Dial 
+Int. 2006;26:625–632.
+Bernardini J, et al. A randomized trial of Staphylococcus aureus  prophylaxis in 
+ peritoneal dialysis patients: mupirocin calcium ointment 2% applied to the exit 
+site versus cyclic oral rifampin. Am J Kidney Dis. 1996;27:695–700.
+Bernardini J, et al. Randomized, double-blind trial of antibiotic exit site cream for 
+prevention of exit site infection in peritoneal dialysis patients. J Am Soc Nephrol. 
+2005;16:539–545.
+Bunke M, et al. Pseudomonas peritonitis in peritoneal dialysis patients: the Network 9 
+Peritonitis Study. Am J Kidney Dis. 1995;25:769–774.
+Cho Y, Johnson DW . Peritoneal dialysis-related peritonitis: towards improving 
+ evidence, practices, and outcomes. Am J Kidney Dis. 2014;64:278–289.
+Cho Y, et al. Biocompatible dialysis fluids for peritoneal dialysis. Cochrane Database 
+Syst Rev. 2014;27:CD007554.
+Choi P , et al. Peritoneal dialysis catheter removal for acute peritonitis: a retrospective 
+analysis of factors associated with catheter removal and prolonged postoperative 
+hospitalization. Am J Kidney Dis. 2004;43:103–111.
+Daugirdas9781451144291-ch027.indd   510 09/10/14   1:34 am
+Chapter 27 / Peritonitis and Exit-Site Infection 511
+Crabtree JH, et al. A laparoscopic method for optimal peritoneal dialysis access. Am 
+Surg. 2005;71:135–143.
+Daugirdas JT, et al. Induction of peritoneal fluid eosinophilia and/or monocytosis by 
+intraperitoneal air injection. Am J Nephrol. 1987;7:116–120.
+Elamin S, et al. Low sensitivity of the exit site scoring system in detecting exit site 
+ infections in peritoneal dialysis patients. Clin Nephrol. 2014;81:100–104.
+Fielding RE, et al. Treatment and outcome of peritonitis in automated peritoneal dialy-
+sis, using a once-daily cefazolin-based regimen. Perit Dial Int. 2002;22:345–349.
+Gadallah M, et al. Role of preoperative antibiotic prophylaxis in preventing postop-
+erative peritonitis in newly placed peritoneal dialysis catheters. Am J Kidney Dis. 
+2000;36:1014–1019.
+Humayun HM, et al. Peritoneal fluid eosinophilia in patients undergoing maintenance 
+peritoneal dialysis. Arch Intern Med. 1981;141:1172–1173.
+Jones LL, et al. The impact of exit-site care and catheter design on the incidence of 
+catheter-related infections. Adv Perit Dial. 1995;11:302–305.
+Kern EO, et al. Abdominal catastrophe revisited: the risk and outcome of enteric 
+ peritoneal contamination. Perit Dial Int. 2002;22:323–324.
+Kerschbaum J, et al. Treatment with oral active vitamin D is associated with decreased 
+risk of peritonitis and improved survival in patients on peritoneal dialysis. PLoS 
+One. 2013;8:e67836.
+Lai MN, et al. Intraperitoneal once-daily dosing of cefazolin and gentamicin for 
+ treating CAPD peritonitis. Perit Dial Int. 1997;17:87–89.
+Li PK, et al. Use of intraperitoneal cefepime as monotherapy in treatment of CAPD 
+peritonitis. Perit Dial Int. 2000;20:232–234.
+Li PK, et al. Comparison of clinical outcome and ease of handling in two double-bag 
+systems in continuous ambulatory peritoneal dialysis—a prospective randomized 
+controlled multi-center study. Am J Kidney Dis. 2002;40:373–380.
+Li PK, et al. Peritoneal dialysis-related infections recommendations: 2010 update. Perit 
+Dial Int. 2010;30:393–423.
+Li PK, et al. Infectious complications in dialysis—epidemiology and outcomes. Nat Rev 
+Nephrol. 2012;8:77–88.
+Low CL, et al. Pharmacokinetics on once-daily IP gentamicin in CAPD patients. Perit 
+Dial Int. 1996;16:379–384.
+Lui SL, et al. Cefazolin plus netilmicin versus cefazolin plus ceftazidime for treating 
+CAPD peritonitis: effect on residual renal function. Kidney Int. 2005;68:2375–2380.
+Luzar MA, et al. Exit-site care and exit-site infection in continuous ambulatory peri-
+toneal dialysis (CAPD): results of a randomized multicenter trial. Perit Dial Int. 
+1990a;10:25–29.
+Luzar MA, et al. Staphylococcus aureus nasal carriage and infection in patients on con-
+tinuous ambulatory peritoneal dialysis. N Engl J Med. 1990b;322:505–509.
+Manley HJ, et al. Pharmacokinetics of intermittent intraperitoneal cefazolin in 
+ continuous ambulatory peritoneal dialysis patients. Perit Dial Int. 1999;19:  
+67–70.
+Manley HJ, Bailie GR. Treatment of peritonitis in APD: pharmacokinetic principles. 
+Semin Dial. 2002;15:418–21.
+Montenegro J, et al. Exit-site care with ciprofloxacin otologic solution prevents 
+polyurethane catheter infection in peritoneal dialysis patients. Perit Dial Int. 
+2000;20:209–214.
+Monteon F, et al. Prevention of peritonitis with disconnect systems in CAPD: a ran-
+domized controlled trial. The Mexican Nephrology Collaborative Study Group. 
+Kidney Int. 1998;54:2123–2138.
+Mupirocin Study Group. Nasal mupirocin prevents Staphylococcus aureus  exit-site 
+infection during peritoneal dialysis. J Am Soc Nephrol. 1996;7:2403–2408.
+Nessim SJ, Bargman JM, Jassal SV . Relationship between double-cuff versus  single-cuff 
+peritoneal dialysis catheters and risk of peritonitis. Nephrol Dial Transplant. 
+2010;25:2310–2314.
+Núñez-Moral M, et al. Exit-site infection of peritoneal catheter is reduced by the use 
+of polyhexanide: results of a prospective randomized trial. Perit Dial Int. 2014;34: 
+271–277.
+Piraino B, et al. A five-year study of the microbiologic results of exit site infections 
+and peritonitis in continuous ambulatory peritoneal dialysis. Am J Kidney Dis. 
+1987;4:281–286.
+Piraino B, et al. Increased risk of Staphylococcus epidermidis  peritonitis in patients 
+on dialysate containing 1.25 mmol/L calcium. Am J Kidney Dis. 1992;19:371–374.
+Daugirdas9781451144291-ch027.indd   511 09/10/14   1:34 am
+Part III / Peritoneal Dialysis
+512
+Piraino B, et al. Peritoneal dialysis-related infections recommendations: 2005 update. 
+Perit Dial Int. 2005;25:107–131.
+Piraino B, et al. ISPD position statement on reducing the risks of peritoneal dialysis-
+related infections. Perit Dial Int. 2011;31:614–630.
+Ram R, et al. Cloudy peritoneal fluid attributable to non-dihydropyridine calcium 
+channel blocker. Perit Dial Int. 2012;32:110–111.
+Schaefer F, et al. Intermittent versus continuous intraperitoneal glycopeptide/  
+ceftazidime treatment in children with peritoneal  dialysis-associated peritonitis. 
+The Mid-European Pediatric Peritoneal Dialysis Study Group (MEPPS). J Am Soc 
+Nephrol. 1999;10:136–45.
+Segal JH, Messana JM. Prevention of peritonitis in peritoneal dialysis. Semin Dial. 
+2013;26:494–502.
+Shemin D, et al. Effect of aminoglycoside use on residual renal function in peritoneal 
+dialysis patients. Am J Kidney Dis. 1999;34:14–20.
+Suh H, et al. Persistent exit-site/tunnel infection and subcutaneous cuff removal in PD 
+patients. Adv Perit Dial. 1997;13:233–236.
+Szeto CC, et al. Xanthomonas maltophilia peritonitis in uremic patients receiving 
+ continuous ambulatory peritoneal dialysis. Am J Kidney Dis. 1997;29:91–96.
+Szeto CC, et al. Feasibility of resuming peritoneal dialysis after severe peritonitis and 
+Tenckhoff catheter removal. J Am Soc Nephrol. 2002a;13:1040–1045.
+Szeto CC, et al. Conservative management of polymicrobial peritonitis complicat-
+ing peritoneal dialysis—a series of 140 consecutive cases. Am J Med. 2002b;113:  
+728–733.
+Szeto CC, et al. Recurrent and relapsing peritonitis: causative organisms and response 
+to treatment. Am J Kidney Dis. 2009;54:702–710.
+Szeto CC, et al. Persistent symptomatic intra-abdominal collection after catheter 
+removal for PD-related peritonitis. Perit Dial Int. 2011a;31:34–38.
+Szeto CC, et al. Repeat peritonitis in peritoneal dialysis: retrospective review of 181 
+consecutive cases. Clin J Am Soc Nephrol. 2011b;6:827–833.
+Thodis E, et al. Decrease in Staphylococcus aureus  exit-site infections and peritonitis 
+in CAPD patients by local application of mupirocin ointment at the catheter exit 
+site. Perit Dial Int. 1998;18:261–270.
+Troidle L, et al. Two gram intraperitoneal cefazolin for the treatment of peritonitis. 
+Perit Dial Int. 1997;17(suppl 1):S40.
+Vychytil A, et al. Ultrasonography of the catheter tunnel in peritoneal dialysis patients: 
+what are the indications? Am J Kidney Dis. 1999;33:722–727.
+Williams AJ, et al. Tenckhoff catheter replacement or intraperitoneal urokinase: a ran-
+domized trial in the management of recurrent continuous ambulatory peritoneal 
+dialysis (CAPD) peritonitis. Perit Dial Int. 1989;9:65–67.
+Yu AW , et al. Neutrophilic intracellular acidosis induced by conventional lactate-  
+containing peritoneal dialysis solutions. Int J Artif Organs. 1992;15:661–665.
+Zimmerman SW , et al. Randomized controlled trial of prophylactic rifampin for 
+ wwperitoneal dialysis-related infections. Am J Kidney Dis. 1991;18:225–231.
+Daugirdas9781451144291-ch027.indd   512 09/10/14   1:34 am

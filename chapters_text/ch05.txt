@@ -1,0 +1,533 @@
+89
+Dialysis Water 
+and Dialysate
+Richard A. Ward and Todd S. Ing5
+ I. PRODUCT WATER FOR HEMODIALYSIS.  Patients are exposed to 
+120−200 L of dialysis solution during each dialysis treatment. 
+Any small molecular weight contaminants in the dialysis solu-
+tion can enter the blood unimpeded and accumulate in the body 
+in the absence of renal excretion. Therefore, the chemical and 
+microbiologic purity of dialysis solution is important if patient 
+injury is to be avoided. Dialysis solution is prepared from puri-
+fied water (product water) and concentrates, the latter contain -
+ing the electrolytes necessary to provide dialysis solution of the 
+prescribed composition. Most concentrates are obtained from 
+commercial sources and their purity is subject to regulatory over-
+sight. The purity of the water used to prepare dialysis solution or 
+to reconstitute concentrates from powder at a dialysis facility, is 
+the responsibility of the dialysis facility.
+A. Water contaminants harmful to dialysis patients.  Some substances 
+added to municipal water supplies for public health reasons 
+pose no threat to healthy individuals at the concentrations 
+used, but can cause injury to renal failure patients if these sub-
+stances are allowed to remain in the water used for dialysis. 
+Therefore, all municipal water supplies should be assumed 
+to contain substances harmful to dialysis patients, and all di -
+alysis facilities require a system for purifying municipal water 
+before it is used to prepare dialysis solution. What follows is 
+a short list of the most common offending substances. Please 
+refer to Suggested Readings for a more complete discussion of 
+these and other contaminants.
+1. Aluminum. This is added to water as a flocculating agent by 
+many municipal water suppliers (aluminum sulfate is used 
+to remove nonfilterable suspended particles). Aluminum
+causes bone disease, a progressive and often fatal neuro-
+logic deterioration known as the dialysis encephalopathy
+syndrome, and anemia.
+2. Chloramine. This is added to water to prevent bacterial pro-
+liferation. Chloramine causes hemolytic anemia.
+3. Fluoride. This is added to water supplies to reduce tooth
+ decay. Large amounts of fluoride can elute into water from 
+Daugirdas9781451144291-ch005.indd   89 09/10/14   1:05 am
+Part II / Blood-Based Therapies
+90
+an exhausted deionizer and cause severe pruritus, nausea, 
+and fatal ventricular fibrillation.
+4. Copper and zinc.  These can leach from metal pipes and fit -
+tings and cause hemolytic anemia. Lead and aluminum can 
+enter the water stream in a similar fashion.
+5. Bacteria and endotoxin. The water used to prepare dialysis so-
+lution and the final dialysis solution are both susceptible to 
+microbiologic contamination by bacteria and their endo -
+toxins. Endotoxins, endotoxin fragments, and other bacte-
+rial products, such as short bacterial DNA fragments, some 
+of which can be as small as 1,250 Da, can cross dialyzer
+membranes and enter the bloodstream to produce pyro-
+genic reactions and other untoward effects. The substances 
+added to municipal water to suppress bacterial prolifera -
+tion are removed by a dialysis facility’s water purification
+system, increasing the importance of preventing bacterial
+growth in the purified water.
+6. Toxins from blue-green algae.  Contamination of municipal
+ water supplies by other microbial products, such as micro-
+cystins derived from blue-green algae, can also prove toxic
+to hemodialysis patients (Carmichael, 2001). Dialysis cen-
+ters should be aware of the potential presence of such tox -
+ins, particularly in areas subject to seasonal algae blooms.
+B. Water and dialysis solution quality requirements
+1. Fluid quality standards.  The International Organization for
+Standardization (ISO) has developed minimum standards
+for the purity of the water used to prepare dialysis solution 
+and the purity of the final dialysis solution. These standards 
+have been adopted by the Association for the Advancement 
+of Medical Instrumentation as national standards for the
+United States and are also followed by regulatory organiza-
+tions in many other countries. The standards set maximum 
+levels for chemicals known to be toxic to hemodialysis pa -
+tients, for chemicals known to be toxic to the general popu-
+lation, and for bacteria and their endotoxins.
+Current recommendations are that product water 
+used to prepare dialysis solution should contain <100 
+colony-forming units (CFU)/mL of bacteria and <0.25 
+endotoxin units (EU)/mL of endotoxin. The maximum 
+levels for the final dialysis solution are 100 CFU/mL and 
+0.5 EU/mL, respectively. Pyrogenic reactions do not occur 
+when levels of bacteria and endotoxins in the dialysis solu-
+tion are maintained below these limits.
+2. Ultrapure dialysis solution.  Low levels of endotoxins and en-
+dotoxin fragments in dialysis solution, while not causing
+pyrogenic reactions, may contribute to a chronic inflam-
+matory response that may be associated with long-term
+morbidity in dialysis patients. In observational studies,
+the use of so-called “ultrapure” dialysis solution, which
+is characterized by a bacteria level below 0.1 CFU/
+mL and endotoxin level below 0.03 EU/mL, has been
+Daugirdas9781451144291-ch005.indd   90 09/10/14   1:05 am
+Chapter 5 / Dialysis Water and Dialysate 91
+linked to reduced plasma levels of C-reactive protein and 
+ interleukin-6, an improved response of anemia to erythro-
+poietin therapy, better nutrition as evidenced by increases 
+in plasma albumin value, and higher estimated dry body 
+weight, midarm muscle circumference, and urea nitrogen 
+appearance rate. Ultrapure dialysis solution has also been 
+associated with reduced plasma levels of β2-microglobulin 
+and pentosidine (a surrogate marker of carbonyl stress), a 
+slower loss of residual renal function, and lower cardiovas-
+cular morbidity (Susantitaphong, 2013).
+Although not all of the above benefits have been fully 
+confirmed, many authorities believe that ultrapure dialysis 
+solution should be used routinely. While use of ultrapure 
+dialysis solution is highly desirable for hemodialysis, it is 
+mandatory for online convective therapies such as online 
+hemodiafiltration (see Chapter 17), which would other -
+wise increase transfer of bacterial fragments from dialysis/ 
+replacement solution to the blood.
+C. Methods of purifying water for hemodialysis. S ystems used to purify 
+water for dialysis consist of three parts: pretreatment, primary 
+purification, and distribution to the point of use.
+1. Pretreatment. T hese components usually include a valve 
+to blend hot and cold water to a constant temperature, 
+some form of preliminary filtration, softening, and filtra -
+tion through activated carbon. This cascade is designed 
+to prepare the water for optimal operation of the primary 
+purification process. Correction of pH (using injection of 
+hydrochloric acid) is sometimes needed to correct exces-
+sive alkalinity, which can impede the ability of carbon beds 
+to remove chlorine and chloramine and can cause fouling 
+of reverse osmosis (RO) membranes by calcium and mag-
+nesium salts.
+a. W ater softener.  A wa ter softener is used to remove cal-
+cium and magnesium from water by exchange for so-
+dium bound ionically to a resin bed. The resin exchanges 
+Na+ ions for Ca++ and Mg++ as well as for other cations 
+such as iron and manganese. The water softener protects 
+the downstream RO membrane from scaling by calcium 
+and magnesium in the source water. Such mineral scale 
+can foul an RO membrane quickly. Water softener resins 
+need to be backwashed and regenerated frequently on a 
+routine basis using a concentrated sodium chloride solu-
+tion (brine). During backwash, water is drawn into the 
+softener in a reverse direction to wash and fluff the resin, 
+and then the brine solution is introduced to regenerate 
+the resin, replacing the recently bound Ca ++ and Mg ++ 
+ions with Na+ ions.
+b. Carbon. A ctivated carbon is utilized to remove chlorine 
+and chloramine, which are not removed by RO. Carbon 
+also removes other small organic compounds that may 
+be in the water. Chlorine can combine with organic 
+Daugirdas9781451144291-ch005.indd   91 09/10/14   1:05 am
+Part II / Blood-Based Therapies
+92
+substances in the water to form potentially cancer-  
+causing compounds. As a consequence, many municipal-
+ities that previously used chlorine to suppress bacterial 
+proliferation have changed over to using chloramine. 
+The kinetics of the reaction through which carbon re-
+moves chloramine from water are slower than those for 
+the removal of chlorine so that systems that adequately 
+removed chlorine might not adequately remove chlora -
+mine. Chlorine or chloramine can permanently damage 
+the downstream RO membrane. Importantly, chloramine 
+can cause hemolytic anemia, and so this part of the wa-
+ter purification process needs to be monitored extremely 
+closely. In the past, some municipalities did not notify 
+dialysis units of the change from chlorine to chloramine 
+in the water supply, and outbreaks of hemolytic anemia 
+have been reported in the course of such changeovers.
+Because of the critical need to remove chloramine 
+and related organics, the water stream is run through 
+two carbon beds in series. The upstream “worker” car -
+bon bed will become exhausted first. The downstream or 
+“polisher” carbon bed is used as a backup. This strategy 
+permits sequential replacement as the upstream carbon 
+bed becomes exhausted. Any exhausted carbon bed tank 
+needs to be replaced as soon as possible. Although the 
+levels of chlorine and chloramine can be determined 
+separately, it is simpler to measure total chlorine—the 
+sum of chlorine and chloramine—and replace exhausted 
+carbon beds based on that measurement. If the mu-
+nicipal water contains chloramine, the total chlorine 
+level in the water exiting the primary “worker” carbon 
+bed needs to be checked before each dialysis shift. If 
+breakthrough is noted, the total chlorine level should 
+be checked downstream of the “polisher” bed. If no 
+breakthrough is noted at that point, treatments can be 
+continued while closely monitoring the outflow from 
+the downstream “polisher” carbon bed. If total chlorine 
+breakthrough is noted downstream of the “polisher” bed, 
+treatments must cease immediately.
+One critical aspect to proper functioning of granu-
+lar activated carbon beds is the contact time of the water 
+with the carbon. This “empty bed contact time” must be 
+at least 10 min, to help ensure removal of chlorine and 
+chloramine. Regular backwashing of the carbon beds with 
+water fluffs the beds and prevents the formation of chan-
+nels in the carbon, which reduce their efficiency. Optimal 
+removal of chloramine by carbon may require adjustment 
+of the pH of the feed water. Even with pH adjustment, 
+carbon may provide inadequate removal of chloramine 
+if the water contains corrosion inhibitors or other sub -
+stances that prevent chloramine molecules from reach -
+ing the surface of the carbon. In those situations it may 
+Daugirdas9781451144291-ch005.indd   92 09/10/14   1:05 am
+Chapter 5 / Dialysis Water and Dialysate 93
+be necessary to use alternative methods of chloramine 
+removal such as injection of sodium bisulfite.
+2. Primary purification process.  T he primary purification pro -
+cess is almost always RO. A filter is normally placed just up-
+stream of the RO membrane to catch any carbon particles 
+and resin beads that may have been inadvertently released 
+from the pretreatment system.
+a. Reverse osmosis. T his is achieved by high pressure filtra-
+tion of water (using a powerful pump) through a semi-
+permeable membrane that will hold back dissolved 
+solutes. RO will remove more than 95% of ionic contami-
+nants and nonionic contaminants as small as glucose. In 
+addition, it provides an effective barrier against bacteria 
+and endotoxins. In many cases, RO will provide water of 
+sufficient quality for the preparation of dialysis solution 
+without further purification.
+b. Deionization. D eionization may be used as an alternative 
+to RO, but is more frequently used to further purify water 
+following processing by RO. Deionizers do not remove 
+nonionic contaminants, bacteria, or endotoxins. A solid-
+phase deionizer contains both cationic and anionic res -
+ins. These can be configured as either two beds (one for 
+the cationic resin and the other for the anionic resin) or 
+as a single bed containing a mixture of both resins. Cat -
+ionic resins contain sulfuric groups and these exchange 
+hydrogen ions for other cations such as sodium, calcium, 
+and aluminum. Anionic resins contain ammonium 
+groups, which exchange hydroxyl ions for other anions 
+such as chloride, phosphate, and fluoride. The hydrogen 
+and hydroxyl ions released during the exchange process 
+then combine to become water, resulting in a product 
+water that contains very few residual ions.
+Deionizer function is monitored by checking the 
+conductivity of the outflow water; the fewer the ions 
+that remain in the water, the lower the conductivity. 
+When the resins in a deionizer tank have exchanged all 
+their available hydrogen and hydroxyl ions for cations 
+and anions from the water, its capacity to remove ions 
+is “exhausted. ” The conductivity of the outflow water 
+increases following exhaustion, signaling that the tank 
+needs to be replaced. It is important to know that an 
+“exhausted” deionizer resin is not inactive, but will rap-
+idly release the ions that are most weakly bound to the 
+resin if it continues to be used, with potentially serious 
+adverse consequences for the patient. For example, fail -
+ure to remove exhausted deionizer tanks led to patient 
+deaths following the release of massive amounts of fluo-
+ride into the dialysis water (Arnow, 1994). For this rea-
+son, it is important to move exhausted deionizer tanks 
+offline as soon as evidence of increased conductivity 
+appears. All ion exchange tanks are required to be fitted 
+Daugirdas9781451144291-ch005.indd   93 09/10/14   1:05 am
+Part II / Blood-Based Therapies
+94
+with online monitors that continuously monitor the con-
+ductivity of the outflow water and divert that water away 
+from the patients should it exceed 1 mS/cm (a resistivity 
+of 1 MΩ-cm). Additionally, some tanks also have a light 
+that is normally off, and then turns on when the outflow 
+conductivity increases, or a light that is normally on, 
+and which turns off when conductivity monitoring fails.  
+If there is a light, it is very important to know which 
+type it is.
+The resin of deionizers presents a large surface 
+area for bacterial proliferation. Since all bacteriostatic 
+substances such as chlorine and chloramine will have 
+been removed from the water by the time it reaches a 
+deionizer, the level of bacterial contamination of the 
+water flowing through deionizer tanks is subject to in-
+crease. For this reason, an ultrafilter usually is placed 
+downstream to the deionizer to remove any bacteria or 
+endotoxin that may have accumulated from the deion-
+izer tanks. Some centers also prefer to destroy bacteria 
+(whether in a vegetative or a sporulated state) with ultra-
+violet radiation. However, the UV process can increase 
+the lipopolysaccharide and peptidoglycan content of the 
+treated water due to bacterial death.
+3. Distribution of purified water.  Purified water intended for the
+preparation of dialysis solution must be distributed to the
+individual dialysis machines to produce dialysis solution
+that remains free of contaminants. Chemical contaminants 
+are avoided by using inert materials, such as plastics, for
+all components that contact the purified water and dialysis 
+solution. Microbiologic contamination is avoided by using
+appropriately designed and constructed piping systems
+in combination with regular disinfection. The water dis-
+tribution system is configured in a loop without multiple
+branches or dead ends. If the distribution system includes
+a storage tank (ideally, the use of a storage tank should be
+avoided), the tank is of the minimum required size, has a
+tight-fitting lid, and is designed for ease of disinfection.
+Water storage and distribution systems are disin -
+fected on a regular schedule to prevent bacterial coloniza -
+tion of the system and minimize the formation of biofilm, 
+which, once established, is very difficult to remove. When 
+chemical germicides are used, disinfection is generally per-
+formed at least monthly. The disinfection schedule should 
+be designed to minimize biofilm formation in the storage 
+and distribution system, not to eliminate biofilm after it 
+has formed. Distribution systems are now available that 
+can be disinfected with hot water or ozone. These systems 
+allow more frequent disinfection because there is no need 
+to rinse the system free of residual germicide. Water and di-
+alysis solution cultures and endotoxin tests are performed 
+to demonstrate the adequacy of the disinfection schedule.
+Daugirdas9781451144291-ch005.indd   94 09/10/14   1:05 am
+Chapter 5 / Dialysis Water and Dialysate 95
+4. Bicarbonate concentrate mixing and distribution systems.  These
+include containers used to distribute centrally prepared
+concentrate to individual dialysis machines, which are dis-
+infected frequently because bicarbonate concentrates are
+particularly susceptible to bacterial contamination.
+D. Safety standards and monitoring.  Careful procedures and docu-
+mentation of the functioning of each part of the water supply 
+system must be done. Both ISO and the European Best Prac-
+tices Group have developed standards for equipment used to 
+purify water for dialysis that are designed to maximize patient 
+safety. These include chemical purity monitoring of water and 
+dialysis solution. Chloramine levels are checked for at least 
+daily. Absence of other chronic toxic components from the 
+feed water must be verified on a regular basis. Both water and 
+dialysis fluid must be checked using high-sensitivity methods 
+for bacterial growth and presence of endotoxin. Finally, the 
+patients themselves must be monitored, being always alert for 
+evidence of unexplained clusters of hemolytic, pyrogenic, or 
+other unusual reactions.
+In the United States, the Forum of ESRD Networks Medi-
+cal Advisory Council has prepared a Medical Director Toolkit 
+to assist dialysis units in meeting the requirement of the “Con-
+ditions for Coverage” (DeOreo, 2012). This document details 
+not only monitoring of various parts of the water system but 
+also the need to comply with required remote alarms, training, 
+and planning in the event of emergencies.
+II. DIALYSIS SOLUTION PREPARATION
+A. Proportioning machines.  To reduce bulk and shipping costs,
+dialysis fluid is manufactured in concentrated form and 
+machines proportion it with water before delivering it to 
+the dialyzer. The dialysis machine incorporates pumps and 
+one-way valve systems that make the final dialysis solution 
+by taking fixed volumes of dialysate concentrates and mix -
+ing them with a fixed volume of heated purified water, or by 
+using conductivity-based servocontrol systems to mix the 
+concentrates and water. As discussed in the previous chapter, 
+the ionic composition of the final dialysis solution is checked 
+by conductivity, which is kept in a very tight range. As long 
+as the solution remains in the target conductivity range, the 
+dialysis solution is allowed to pass on to the dialyzer. If con-
+ductivity gets outside the range, an alarm sounds and dialysis 
+stops.
+B. Dual-concentrate system for bicarbonate-based solutions.  Almost all 
+dialysis solution used today is bicarbonate based, and this en-
+genders a solubility issue. When making a bicarbonate solu-
+tion of about 30 mM, the pH will be close to 8.0. At this pH, 
+calcium and magnesium will precipitate out from solution, 
+reducing their diffusible concentration and also contributing 
+to scaling on dialysis machine lines and passages. To circum-
+vent the problem of calcium and magnesium precipitation, 
+Daugirdas9781451144291-ch005.indd   95 09/10/14   1:05 am
+Part II / Blood-Based Therapies
+96
+a  b icarbonate-based dialysis solution–generating system 
+ utilizes two concentrates: a “bicarbonate” concentrate and an 
+“acid” concentrate. The “acid” concentrate contains a small 
+amount of acetic or citric acid plus sodium, potassium (as 
+needed), calcium, magnesium, chloride, and dextrose (op-
+tional). The low pH of the acid concentrate keeps the calcium 
+and magnesium in solution, even in concentrated form.
+Specially designed double proportioning systems mix the 
+two concentrates sequentially with purified water to make the 
+final dialysis solution. During mixing, the small amount of ace-
+tic acid in the “acid” concentrate (about 2–4 mM) reacts with 
+an equimolar amount of bicarbonate in the “bicarbonate” con-
+centrate to generate carbon dioxide. The carbon dioxide gen-
+erated forms carbonic acid, which lowers the pH of the final 
+bicarbonate-containing solution to approximately 7.0–7.4. At 
+this pH range, the calcium and magnesium in the product 
+dialysis solution remain dissolved. The ratio of “acid” concen-
+trate to “base” concentrate to water in the various proportion-
+ing systems available depends on the machine manufacturer. 
+Liquid “acid” concentrates are available between 35 times and 
+45 times concentrated, and the corresponding liquid “bicar -
+bonate” concentrates are also concentrated differently. In units 
+using more than one brand of dialysis machine, it is important 
+to use concentrate designed for the proportioning ratio of a 
+given machine.
+The bicarbonate level shown on the monitor of many 
+dialysis machines that allow for adjusting dialysis solution 
+ bicarbonate by altering the concentrate proportioning ratio 
+is the final bicarbonate concentration and does not take into 
+account the acetate of sodium acetate that was produced 
+from reaction of acetic acid with an equimolar amount of so-
+dium  bicarbonate. This acetate will generate bicarbonate as 
+it is metabolized in the body on an equimolar basis. Thus, the 
+actual base content of the dialysate used will be higher than 
+that shown on the monitor (Kohn, 2012). With most liquid acid 
+concentrates containing acetic acid, the amount of acetic acid, 
+and hence that of acetate present in the product dialysate after 
+mixing commonly is about 4 mM.
+C. Dry concentrates
+1. Bicarbonate. I n some machines, a cartridge containing dry 
+sodium bicarbonate is used in place of a liquid  “bicarbonate” 
+concentrate. Use of dry bicarbonate cartridges obviates the 
+problem of bacterial growth in “bicarbonate” concentrate 
+and the concern of subsequent contamination of the final 
+dialysis solutions.
+2. Acid (citric acid or sodium diacetate). W hile acetic acid is a liq-
+uid, dry “acid” concentrates can be made using either citric 
+acid or sodium diacetate. The low concentration of citrate 
+generated in citric acid–based dialysis solution may che-
+late plasma calcium that is adjacent to the dialysis mem-
+brane, impeding coagulation, improving dialyzer clearance 
+slightly, and increasing the dialyzer reuse number. In dry 
+Daugirdas9781451144291-ch005.indd   96 09/10/14   1:05 am
+Chapter 5 / Dialysis Water and Dialysate 97
+acid concentrates containing citric acid (0.8 mM) plus 
+a small amount (0.3 mM) of acetic acid, after mixing, the di-
+alysis solution will contain 0.8 mM citrate (2.4 mEq/L) and 
+0.3 mM acetate, yielding about 2.7 mEq/L of 
+ bicarbonate- 
+generating base. 
+Sodium diacetate is a compound containing acetic 
+acid and sodium acetate. Acid concentrates formulated 
+with sodium diacetate typically contain twice the concen-
+tration of acetate in the final dialysate compared to those 
+using acetic acid. It is important to take this relatively high 
+concentration of acetate (up to 8 mM) into account as an 
+additional source of bicarbonate-generation (Kohn, 2012).
+D. Final dialysis solution composition. The composition range of typi-
+cally used dialysis solutions is given in Table 5.1. The concen-
+trations of sodium, potassium, and calcium can be varied by 
+choosing different “acid” concentrates or by adding salts of 
+these cations to the appropriate “acid” concentrates prior to 
+use. In addition, some dialysis machines allow the concentra-
+tion of sodium in the dialysis solution to be varied during the 
+course of an individual treatment—a practice known as so-
+dium profiling. Sodium profiling may help reduce the tendency 
+to intradialytic hypotension and the postdialysis washed-out 
+feeling in some patients, but whenever the average dialysis 
+solution sodium level is increased, this may predispose to in-
+creased thirst, excessive fluid intake, and hypertension (see 
+Chapter 12). Most dialysis machines allow the bicarbonate 
+level to be varied without changing to a different concentrate 
+by altering the proportioning pump ratio. This allows use of 
+dialysis solution bicarbonate levels from 20 to 40 mM, and 
+such a feature is particularly useful when more frequent di-
+alysis is employed, when dialyzing nonuremic patients (e.g., to 
+treat poisoning) or to treat alkalemic patients. Minor changes 
+Composition of a Standard Hemodialysis Solution
+5.1
+TABLE
+Component Concentration (mM)
+Sodium 135–145
+Potassium 2–3
+Calcium 1.25–1.75
+(2.5–3.5 mEq/L)
+Magnesium 0.25–0.375
+(0.5–0.75 mEq/L)
+Chloride 98–124
+Acetate
+a 3–8
+Citratea 0.8–1.0 (2.4–3.0 mEq/L)
+Bicarbonate 25–35
+Glucose 0–11
+pCO2 40–110 (mm Hg)
+pH 7.1–7.3 (units)
+a The acetate or citrate is added in the form of acetic acid, sodium diacetate, or citric acid to the 
+“acid concentrate.” When mixed with the “bicarbonate concentrate,” the hydrogen ion from either 
+of these acids reacts with bicarbonate to form CO2 (i.e., carbonic acid) to establish a buffer system.
+Daugirdas9781451144291-ch005.indd   97 09/10/14   1:05 am
+Part II / Blood-Based Therapies
+98
+in calcium, magnesium, and potassium (if present) will take 
+place whenever dialysate bicarbonate level is altered.
+E. Disinfection of dialysis machines. Dialysis machines are disinfected 
+according to the manufacturer’s recommendations. The water 
+inlet lines to the dialysis machines are disinfected at the same 
+time as the water distribution system. Dialysis machines are 
+now available that incorporate a bacteria- and endotoxin-
+retentive ultrafilter located in the dialysis machine itself. This 
+filter intercepts the dialysis solution flow immediately before 
+it is passed to the dialyzer. These dialysate ultrafilters, which 
+are rated for a certain number of treatments or months of 
+operation, are disinfected when the dialysis machine is dis-
+infected. Such ultrafilters facilitate the routine preparation of 
+“ultrapure dialysis solutions. ”
+References and Suggested Readings
+Arnow PM, et al. An outbreak of fatal fluoride intoxication in a long-term hemodialysis 
+unit. Ann Intern Med. 1994;121:339–344.
+Association for the Advancement of Medical Instrumentation. Quality of Dialysis Fluid 
+for Hemodialysis and Related Therapies, ANSI/AAMI/ISO 11663:2009.  Arlington, VA: 
+Association for the Advancement of Medical Instrumentation; 2009.
+Association for the Advancement of Medical Instrumentation. Water for Hemodialysis 
+and Related Therapies, ANSI/AAMI/ISO 13959:2009. Arlington, VA: Association for 
+the Advancement of Medical Instrumentation; 2009.
+Association for the Advancement of Medical Instrumentation. Water Treatment Equip-
+ment for Hemodialysis and Related Therapies, ANSI/AAMI/ISO 26722:2009. Arling -
+ton, VA: Association for the Advancement of Medical Instrumentation; 2009.
+Association for the Advancement of Medical Instrumentation. Guidance for the Prepa-
+ration and Quality Management of Fluids for Hemodialysis and Related Therapies, 
+ANSI/AAMI/ISO 23500:2011 . Arlington, VA: Association for the Advancement of 
+Medical Instrumentation; 2011.
+Canaud B, et al. Microbiologic purity of dialysate: rationale and technical aspects. 
+Blood Purif. 2000;18:200–213.
+Carmichael WW , et al. Human fatalities from cyanobacteria; chemical and biological 
+evidence for cyanotoxins. Environ Health Perspect 2001;109:663–668.
+Damasiewicz MJ, Polkinghorne KR, Kerr PG. Water quality in conventional and home 
+haemodialysis. Nat Rev Nephrol. 2012;8:725–734.
+DeOreo P , et al. Medical Director Toolkit. Developed by the Forum of ESRD Networks’ 
+Medical Advisory Council (MAC). 2012. http://esrdnetworks.org/mac-toolkits/
+download/medical-director-toolkit-2/medical-director-toolkit/at_download/
+file. Accessed July 27, 2014.
+European Renal Association—European Dialysis and Transplantation Association. 
+ European best practice guidelines for haemodialysis, section IV—dialysis fluid 
+purity. Nephrol Dial Transplant. 2002;17(suppl 7):45–62.
+Kohn OF, Kjellstrand CM, Ing TS. Dual-concentrate bicarbonate-based hemodialysis: 
+Know your buffers. Artif Organs. 2012;36:765–768.
+Ledebo I. Ultrapure dialysis fluid—direct and indirect benefits in dialysis therapy. Blood 
+Purif. 2004;22(suppl 2):20–25.
+Sam R, et al. Composition and clinical use of hemodialysates. Hemodial Int. 2006;10:15–28.
+Schindler R, et al. Short bacterial DNA fragments: detection in dialysate and induction 
+of cytokines. J Am Soc Nephrol. 2004;15:3207–3214.
+Susantitaphong P , Riella C, Jaber BL. Effect of ultrapure dialysate on markers of 
+ inflammation, oxidative stress, nutrition and anemia parameters: a meta-analysis. 
+Nephrol Dial Transplant. 2013;28:438–446.
+Ward DM. Chloramine removal from water used in hemodialysis. Adv Ren Replac Ther. 
+1996;3:337–347.
+Ward RA. Ultrapure dialysate. Semin Dial. 2004;17:489–497.
+Ward RA. Dialysis water as a determinant of the adequacy of dialysis. Semin Nephrol. 
+2005;25:102–110.
+Daugirdas9781451144291-ch005.indd   98 09/10/14   1:05 am

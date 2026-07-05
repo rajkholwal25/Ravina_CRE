@@ -1,0 +1,665 @@
+{
+ "chapter": 18,
+ "questions": [
+  {
+   "topic": "Apheresis definition",
+   "question": "Therapeutic apheresis is best defined as a group of extracorporeal procedures that use blood separation technology to accomplish which of the following?",
+   "options": {
+    "A": "Remove abnormal blood cells and/or plasma constituents",
+    "B": "Diffuse small solutes across a semipermeable membrane against dialysate",
+    "C": "Provide continuous renal replacement in critically ill patients",
+    "D": "Deliver ultrafiltration to correct volume overload only"
+   },
+   "correct": "A",
+   "explanation": "Therapeutic apheresis is a group of extracorporeal procedures that use blood separation technology to remove abnormal blood cells and/or plasma constituents, making A correct. B describes diffusive dialysis, C describes CRRT, and D describes isolated ultrafiltration. The defining feature is separating and removing a blood element: plasma (plasmapheresis) or specific cells (leukapheresis, erythrocytapheresis, thrombocytapheresis). In plasma exchange, large volumes of plasma are removed and replaced with FFP or albumin in saline."
+  },
+  {
+   "topic": "Apheresis terminology",
+   "question": "The specific term for the therapeutic procedure in which large quantities of plasma are removed and replaced with fresh frozen plasma or albumin solutions is:",
+   "options": {
+    "A": "Leukapheresis",
+    "B": "Therapeutic plasma exchange (plasmapheresis)",
+    "C": "Erythrocytapheresis",
+    "D": "Thrombocytapheresis"
+   },
+   "correct": "B",
+   "explanation": "Plasmapheresis, or therapeutic plasma exchange, specifically removes large quantities of plasma and replaces it with FFP or albumin solutions in normal saline, so B is correct. Leukapheresis (A), erythrocytapheresis (C), and thrombocytapheresis (D) name removal of white cells, red cells, and platelets. Each term pairs the suffix -apheresis with the element removed, and only plasma exchange routinely requires a colloid replacement fluid to maintain hemodynamic stability."
+  },
+  {
+   "topic": "TPE mechanism",
+   "question": "According to the described mechanisms, the major mode of action by which therapeutic plasma exchange exerts its benefit is:",
+   "options": {
+    "A": "Correction of anemia by red cell replacement",
+    "B": "Restoration of normal acid-base balance",
+    "C": "Rapid depletion of specific disease-associated factors",
+    "D": "Enhancement of renal clearance of small solutes"
+   },
+   "correct": "C",
+   "explanation": "The major mode of action of TPE is rapid depletion of specific disease-associated factors such as pathogenic antibodies, monoclonal proteins, and immune complexes, so C is correct. It does not correct anemia (A), acid-base status (B), or enhance renal solute clearance (D). Additional effects include removal of high-molecular-weight inflammatory proteins (intact C3, C4, fibrinogen, cytokines) and immunomodulation, but rapid factor depletion is primary. Because immunoglobulin half-lives are long, drugs alone cannot lower levels quickly."
+  },
+  {
+   "topic": "TTP mechanism",
+   "question": "In thrombotic thrombocytopenic purpura, the principal beneficial mechanism of therapeutic plasma exchange is thought to be:",
+   "options": {
+    "A": "Removal of monoclonal paraprotein",
+    "B": "Depletion of complement C3 and C4",
+    "C": "Improvement of reticuloendothelial function",
+    "D": "Infusion of normal plasma to replace a deficient plasma component"
+   },
+   "correct": "D",
+   "explanation": "In TTP the principal beneficial mechanism is infusion of normal plasma that replaces a deficient plasma component, namely the ADAMTS13 von Willebrand factor-cleaving protease, so D is correct. Removing paraprotein (A), depleting complement (B), or improving reticuloendothelial function (C) are general TPE effects, not the key one in TTP. FFP is used as replacement because it supplies the missing factor, and a meta-analysis shows plasmapheresis with FFP is the most effective approach in TTP."
+  },
+  {
+   "topic": "Adjunctive therapy",
+   "question": "Why should therapy for most diseases treated by plasmapheresis almost always include concomitant immunosuppression?",
+   "options": {
+    "A": "To reduce the resynthesis rate of pathologic antibodies and modulate cell-mediated immunity",
+    "B": "To prevent citrate-induced hypocalcemia during treatment",
+    "C": "To increase the intravascular half-life of immunoglobulins",
+    "D": "To eliminate the need for replacement fluid"
+   },
+   "correct": "A",
+   "explanation": "Because most diseases treated by plasmapheresis are immunologic, therapy should almost always add immunosuppression (high-dose corticosteroids, cytotoxic drugs, biologics) to reduce resynthesis of pathologic antibodies and modulate cell-mediated immunity, making A correct. It is not aimed at citrate hypocalcemia (B), does not raise immunoglobulin half-life (C), and does not remove the need for replacement fluid (D). Without it, autoantibodies rapidly resynthesize because immunoglobulin half-lives are long (IgG about 21 days)."
+  },
+  {
+   "topic": "Immunoglobulin half-life",
+   "question": "The relatively long plasma half-life that provides the basic rationale for removing pathogenic IgG autoantibodies by extracorporeal means is approximately:",
+   "options": {
+    "A": "5 days",
+    "B": "21 days",
+    "C": "36 hours",
+    "D": "7 days"
+   },
+   "correct": "B",
+   "explanation": "IgG has a plasma half-life approaching 21 days, so long that even complete blockade of production cannot lower a pathogenic autoantibody for at least several weeks; this is the basic rationale for extracorporeal removal, making B correct. 5 days (A) is IgM, 36 hours (C) approximates clotting factors, and 7 days (D) is the upper IgA range. Because IgG is mainly extravascular with this long half-life, it is treated every other day to allow redistribution into the vascular space."
+  },
+  {
+   "topic": "IgM half-life",
+   "question": "The approximate plasma half-life of IgM is:",
+   "options": {
+    "A": "21 days",
+    "B": "14 days",
+    "C": "5 days",
+    "D": "30 days"
+   },
+   "correct": "C",
+   "explanation": "IgM has a plasma half-life approaching 5 days, much shorter than IgG's roughly 21 days, so C is correct. 21 days (A) is IgG, and 14 (B) or 30 (D) are not given. Because IgM synthesis is faster and IgM is distributed predominantly intravascularly, daily TPE is warranted when removing IgM antibodies or paraproteins. Both the shorter half-life and the intravascular distribution favor more frequent, extended exchange schedules for IgM compared with IgG."
+  },
+  {
+   "topic": "Equilibration rate",
+   "question": "The intravascular-to-extravascular equilibration rate of immunoglobulins that permits modeling their removal by single-compartment first-order kinetics is approximately:",
+   "options": {
+    "A": "10%-15% per hour",
+    "B": "20%-25% per hour",
+    "C": "5% per hour",
+    "D": "1%-2% per hour"
+   },
+   "correct": "D",
+   "explanation": "Immunoglobulins equilibrate from the intravascular to the extravascular space at only about 1%-2% per hour, slow enough that removal can be modeled with single-compartment first-order kinetics based on the intravascular space, so D is correct. The higher figures in A, B, and C (including 5%) overstate it. Extravascular-to-intravascular return may be somewhat faster, governed by lymphatic flow, but overall slow equilibration underlies the exponential reduction-ratio relationship and the practice of exchanging 1-1.5 plasma volumes."
+  },
+  {
+   "topic": "Reduction ratio",
+   "question": "When the volume of plasma exchanged equals one estimated plasma volume (Ve/Vp = 1.0), the macromolecule reduction ratio is approximately:",
+   "options": {
+    "A": "63%",
+    "B": "39%",
+    "C": "86%",
+    "D": "95%"
+   },
+   "correct": "A",
+   "explanation": "For Ve/Vp = 1.0, MRR = 100 x (1 - e^-1) = 63%, so A is correct. A value of 39% (B) corresponds to Ve/Vp of 0.5, 86% to 2.0, and 95% to 3.0. The largest single decrement comes from removing the first plasma volume; subsequent volumes are progressively less effective and are further diluted by exchange fluid. This diminishing return is exactly why a typical session exchanges only about 1.0-1.5 plasma-volume equivalents rather than more."
+  },
+  {
+   "topic": "Exchange volume",
+   "question": "Because effectiveness falls off after the first plasma volume is removed, a typical plasmapheresis session usually exchanges how many plasma volume equivalents?",
+   "options": {
+    "A": "0.25-0.5",
+    "B": "1.0-1.5",
+    "C": "3.0-3.5",
+    "D": "4.0-5.0"
+   },
+   "correct": "B",
+   "explanation": "Usually 1.0-1.5 plasma-volume equivalents (Ve/Vp) are exchanged per session because effectiveness falls off after the first plasma volume is removed; further removal is progressively less effective and is diluted by exchange fluid, so B is correct. 0.25-0.5 (A) under-treats, while 3.0-3.5 (C) and 4.0-5.0 (D) waste replacement fluid for marginal gain, since the MRR rises only from 63% at Ve/Vp 1.0 to 95% at 3.0. Kinetics thus favor the 1.0-1.5 range."
+  },
+  {
+   "topic": "Reaccumulation",
+   "question": "After removal of a macromolecule, its vascular concentration reaccumulates from which two sources?",
+   "options": {
+    "A": "Renal reabsorption and hepatic release",
+    "B": "Intestinal absorption and bone marrow output",
+    "C": "Redistribution from the extravascular space and further endogenous synthesis",
+    "D": "Citrate metabolism and albumin catabolism"
+   },
+   "correct": "C",
+   "explanation": "After removal, the vascular concentration of a macromolecule reaccumulates from two sources: redistribution from the extravascular space (via lymphatic drainage and capillary diffusion from the interstitium) and further endogenous synthesis, making C correct. Renal/hepatic (A), intestinal/marrow (B), and citrate/albumin (D) mechanisms are wrong. Endogenous synthesis is documented in Goodpasture syndrome, where intertreatment anti-GBM rises are too rapid for simple re-equilibration, justifying repeated exchanges plus immunosuppression."
+  },
+  {
+   "topic": "Treatment frequency",
+   "question": "Compared with an IgG autoantibody, an offending IgM paraprotein generally warrants which plasmapheresis schedule?",
+   "options": {
+    "A": "Every-other-day exchange to allow IgM redistribution",
+    "B": "Weekly exchange because IgM synthesis is slow",
+    "C": "A single exchange because IgM is fully extravascular",
+    "D": "Daily exchange because IgM is predominantly intravascular with higher synthesis"
+   },
+   "correct": "D",
+   "explanation": "IgM is predominantly intravascular and has a higher endogenous synthesis rate, so daily TPE is warranted when it is the offending macromolecule, making D correct. Every-other-day exchange (A) suits IgG, which is mainly extravascular and needs time to redistribute. IgM synthesis is not slow (B), and IgM is intravascular rather than fully extravascular (C). Matching exchange frequency to the target macromolecule's distribution and synthesis rate is central to rational, individualized TPE prescribing."
+  },
+  {
+   "topic": "Plasma volume estimate",
+   "question": "A useful rule-of-thumb estimate of plasma volume in a patient with a normal hematocrit is approximately:",
+   "options": {
+    "A": "35 mL/kg of lean body weight",
+    "B": "60 mL/kg of lean body weight",
+    "C": "20 mL/kg of total body weight",
+    "D": "80 mL/kg of lean body weight"
+   },
+   "correct": "A",
+   "explanation": "A useful rule of thumb is that plasma volume is about 35-40 mL/kg of lean body weight, with 35 mL/kg applied to patients with a normal hematocrit and 40 mL/kg to those with a below-normal hematocrit, so A is correct for a normal Hct. 60 (B) and 80 (D) mL/kg overestimate, and 20 mL/kg of total body weight (C) uses the wrong basis. Lean body weight must be used, especially in obese patients, to avoid dangerously large exchange volumes."
+  },
+  {
+   "topic": "Plasma volume calculation",
+   "question": "Using the rule of thumb, the estimated plasma volume for a 70-kg patient with a normal hematocrit of 45% is:",
+   "options": {
+    "A": "1,400 mL",
+    "B": "2,800 mL",
+    "C": "4,200 mL",
+    "D": "5,600 mL"
+   },
+   "correct": "B",
+   "explanation": "In the chapter's worked example, a 70-kg patient with a normal hematocrit of 45% has plasma volume Vp = 70 x 40 = 2,800 mL, so B is correct. 1,400 mL (A) equals 0.5 Vp, 4,200 mL (C) equals 1.5 Vp, and 5,600 mL (D) equals 2.0 Vp in the reduction-ratio table. This 2,800-mL plasma volume anchors the Ve/Vp table linking exchanged volume to the macromolecule reduction ratio, and estimates should use lean body weight."
+  },
+  {
+   "topic": "Volume in obesity",
+   "question": "When applying predicted plasma-volume equations, why must lean body weight be used rather than actual weight in obese patients?",
+   "options": {
+    "A": "Because obese patients have higher hematocrits",
+    "B": "Because citrate metabolism depends on fat mass",
+    "C": "To avoid unnecessary and dangerously large volume exchanges",
+    "D": "Because albumin distributes only in fat tissue"
+   },
+   "correct": "C",
+   "explanation": "The predicted blood/plasma-volume equations, of the form Vp = (1 - Hct)(b + cW), are derived using lean body weight W, so lean body mass must be substituted for actual weight in obese patients to avoid unnecessary and dangerously large volume exchanges, making C correct. Obese patients do not have higher hematocrits (A), citrate metabolism does not depend on fat mass (B), and albumin does not distribute only in fat tissue (D). Using actual weight would overestimate plasma volume and overtreat."
+  },
+  {
+   "topic": "Centrifugation capability",
+   "question": "A distinct capability of centrifugation blood cell separators, which membrane plasma separators lack, is the ability to perform:",
+   "options": {
+    "A": "Cascade filtration",
+    "B": "Anticoagulation with heparin",
+    "C": "Bicarbonate dialysis",
+    "D": "Cytapheresis (selective cell removal)"
+   },
+   "correct": "D",
+   "explanation": "Centrifugation blood cell separators can perform cytapheresis (leukapheresis, erythrocytapheresis, thrombocytapheresis) in addition to plasmapheresis, a capability membrane separators lack, so D is correct. Cascade filtration (A) is actually an adaptation of membrane plasma separation, heparin (B) is the MPS anticoagulant while centrifuges require citrate, and bicarbonate dialysis (C) is unrelated. This selective cell-removal capability is why centrifugal devices dominate US therapeutic apheresis and blood banking."
+  },
+  {
+   "topic": "Continuous vs intermittent",
+   "question": "Continuous-flow centrifugal devices are preferred over intermittent-flow devices for therapeutic apheresis mainly because they have:",
+   "options": {
+    "A": "A larger extracorporeal blood volume",
+    "B": "Smaller extracorporeal blood volume, shorter procedure time, and lower anticoagulant need",
+    "C": "The ability to use a single-needle access only",
+    "D": "No requirement for any anticoagulation"
+   },
+   "correct": "B",
+   "explanation": "Continuous-flow centrifugal devices are preferred because of their smaller extracorporeal blood volume, significantly shorter procedure time, and lesser anticoagulant requirement, making B correct. They need two venous accesses or a dual-lumen catheter, not single-needle access (C); intermittent-flow devices use single-needle access. Anticoagulation is still required (D is wrong), and their extracorporeal volume is smaller, not larger (A is wrong). Intermittent-flow Haemonetics devices are now rarely used therapeutically."
+  },
+  {
+   "topic": "Centrifugal layering",
+   "question": "During centrifugal apheresis, the blood components layer such that:",
+   "options": {
+    "A": "Plasma moves to the outside and red cells stay innermost",
+    "B": "Platelets form the outermost layer",
+    "C": "Red cells move to the outside and plasma (lightest) remains innermost",
+    "D": "White cells move to the outermost layer"
+   },
+   "correct": "C",
+   "explanation": "During centrifugation, red blood cells (densest) move to the outside of the spinning container while plasma, the lightest component, remains innermost, with platelets and white cells layered between them, so C is correct. Options A, B, and D misplace the layers. Any layer can be collected, discarded, or reinfused through strategically placed sampling ports. This density-based separation is precisely what allows centrifugal devices to perform selective cytapheresis as well as plasma exchange."
+  },
+  {
+   "topic": "Membrane pore size",
+   "question": "Membranes used for membrane plasma separation typically have a molecular-weight cutoff of about 3 million daltons, which is sufficient to allow passage of:",
+   "options": {
+    "A": "Red blood cells",
+    "B": "Platelets",
+    "C": "White blood cells",
+    "D": "Immune complexes (MW about 1 million)"
+   },
+   "correct": "D",
+   "explanation": "A molecular-weight cutoff of about 3 million daltons is large enough to allow passage of immune complexes (MW about 1 million) while retaining the formed elements of blood, so D is correct; red cells (A), platelets (B), and white cells (C) are held back. The pores let plasma constituents through but hold back cells. This large cutoff, much greater than a dialysis membrane, is what permits plasma removal, and protein sieving coefficients are 0.8-0.9."
+  },
+  {
+   "topic": "Sieving coefficient",
+   "question": "For a membrane plasma separator, the sieving coefficient for albumin, immunoglobulins, C3, C4, fibrinogen, cholesterol, and triglycerides is approximately:",
+   "options": {
+    "A": "0.8-0.9",
+    "B": "0.1-0.2",
+    "C": "0.3-0.4",
+    "D": "1.5-2.0"
+   },
+   "correct": "A",
+   "explanation": "The membrane plasma separator has a sieving coefficient (filtrate-to-blood concentration ratio) between 0.8 and 0.9 for albumin, IgG, IgA, IgM, C3, C4, fibrinogen, cholesterol, and triglycerides, measured at a blood flow of 100 mL/min and TMP of 40 mm Hg, so A is correct. Values of 0.1-0.4 (B, C) would mean poor passage, and greater than 1.0 (D) is impossible since the ratio maxes at 1.0. Near-unity sieving means these constituents cross almost freely."
+  },
+  {
+   "topic": "MPS blood flow",
+   "question": "The ideal blood flow rate for membrane plasma separation with a hollow-fiber device is usually:",
+   "options": {
+    "A": "20-40 mL/min",
+    "B": "100-150 mL/min",
+    "C": "250-300 mL/min",
+    "D": "400-500 mL/min"
+   },
+   "correct": "B",
+   "explanation": "The ideal blood flow rate for hollow-fiber membrane plasma separation is usually 100-150 mL/min, with flow needing to exceed 50 mL/min to avoid clotting, so B is correct. 20-40 mL/min (A) risks clotting, and 250-500 mL/min (C, D) are excessive. At a blood flow of 100 mL/min a plasma removal rate of 30-50 mL/min is expected, so a typical 2,800-mL exchange takes under 2 hours. These high flows require central venous access, unlike centrifugal devices."
+  },
+  {
+   "topic": "MPS transmembrane pressure",
+   "question": "During membrane plasma separation, transmembrane pressure must be kept below 500 mm Hg specifically to avoid:",
+   "options": {
+    "A": "Air embolism",
+    "B": "Citrate toxicity",
+    "C": "Hemolysis",
+    "D": "Complement activation"
+   },
+   "correct": "C",
+   "explanation": "Membrane plasma separation must be performed at low transmembrane pressure, below 500 mm Hg, specifically to avoid hemolysis, so C is correct. Air embolism (A), citrate toxicity (B), and complement activation (D) are not the reason for the TMP limit. Excessive TMP forces cells against the pores and lyses them; combined with keeping blood flow above 50 mL/min to prevent clotting, low TMP keeps the procedure safe. Protein sieving remains 0.8-0.9 at a TMP of 40 mm Hg."
+  },
+  {
+   "topic": "MPS limitations",
+   "question": "Membrane plasma separation is considered unsuitable for which of the following conditions?",
+   "options": {
+    "A": "Guillain-Barre syndrome",
+    "B": "Myasthenia gravis",
+    "C": "Anti-GBM disease",
+    "D": "Hyperviscosity syndrome from paraproteinemia and cryoglobulinemia"
+   },
+   "correct": "D",
+   "explanation": "Membrane plasma separation is inefficient at removing very large macromolecules, so it is unsuitable for hyperviscosity syndrome from paraproteinemia (most often Waldenstrom macroglobulinemia) and for cryoglobulinemia, making D correct. Guillain-Barre (A), myasthenia gravis (B), and anti-GBM disease (C) involve smaller antibodies and are readily treated by MPS. For cryoglobulinemia a centrifugation device is preferred because cryoglobulins can block the plasma filter as they cool and precipitate."
+  },
+  {
+   "topic": "Plasma vs ultrafiltrate",
+   "question": "Why does removing plasma pose a higher cardiovascular risk than removing an equal volume of ultrafiltrate during dialysis?",
+   "options": {
+    "A": "Removing plasma reduces the vascular refilling rate, so extravascular fluid cannot buffer the volume loss as readily",
+    "B": "Plasma removal causes immediate hemolysis",
+    "C": "Plasma removal raises the transmembrane pressure uncontrollably",
+    "D": "Plasma removal always causes citrate toxicity"
+   },
+   "correct": "A",
+   "explanation": "When water (ultrafiltrate) is removed, extravascular fluid diffuses in to buffer the volume loss, but when plasma is removed the vascular refilling rate is reduced, so the compartment cannot refill as readily, giving a higher cardiovascular risk; A is correct. It is not immediate hemolysis (B), uncontrolled TMP (C), or citrate toxicity (D). This physiologic difference is why dedicated MPS equipment, not simply a dialyzer run without dialysate, must be used to assure patient safety."
+  },
+  {
+   "topic": "Vascular access",
+   "question": "Which statement about vascular access requirements is correct?",
+   "options": {
+    "A": "MPS can be run from a small peripheral vein at 40 mL/min",
+    "B": "Centrifugal devices (Qb 40-50 mL/min) can often use a large peripheral vein, while MPS typically needs central access",
+    "C": "Swan-Ganz catheters reliably provide adequate flow for plasmapheresis",
+    "D": "Both techniques require an arteriovenous fistula for every treatment"
+   },
+   "correct": "B",
+   "explanation": "Centrifugal devices need only about 40-50 mL/min, often obtainable from a large peripheral (antecubital) vein, whereas MPS requires 100-150 mL/min and thus central venous access, best via a large-bore dual-lumen catheter, making B correct. MPS cannot run peripherally at 40 mL/min (A). Swan-Ganz and triple-lumen catheters almost never provide adequate flow (C), though they may suffice for blood return. An AV fistula or graft is for chronic access, not every treatment (D)."
+  },
+  {
+   "topic": "Citrate and arrhythmia",
+   "question": "Citrate infusion can generate life-threatening arrhythmia, particularly when blood is returned centrally, because citrate causes:",
+   "options": {
+    "A": "A rise in serum potassium",
+    "B": "A rise in total serum calcium",
+    "C": "An acute reduction in plasma ionized calcium near the AV node",
+    "D": "Immediate metabolic acidosis"
+   },
+   "correct": "C",
+   "explanation": "Citrate chelates calcium, acutely lowering plasma ionized calcium while total serum calcium stays normal; this affects the cardiac conduction system and is dangerous when blood is returned centrally near the AV node, risking life-threatening arrhythmia, so C is correct. It does not raise potassium (A) or total calcium (B), nor cause immediate acidosis (D); citrate actually tends toward alkalosis. Cardiac rhythm should be monitored and blood warmed when processed blood is returned centrally."
+  },
+  {
+   "topic": "Heparin dosing",
+   "question": "Heparin doses may need to be increased during high plasma-filtration-rate procedures because heparin:",
+   "options": {
+    "A": "Is inactivated by albumin replacement fluid",
+    "B": "Is chelated by citrate in the circuit",
+    "C": "Binds irreversibly to the membrane surface",
+    "D": "Has a sieving coefficient of 1.0, so a high filtration rate increases its net removal"
+   },
+   "correct": "D",
+   "explanation": "Heparin has a sieving coefficient of 1.0, so a high plasma filtration rate increases its net removal and doses may need to be raised, making D correct. Doses also rise in low-hematocrit patients because of an increased volume of distribution. It is not albumin inactivation (A), citrate chelation (B), or irreversible membrane binding (C). Heparin sensitivity and half-life vary greatly between patients, requiring individual dose adjustment; filtration/membrane devices use heparin."
+  },
+  {
+   "topic": "Citrate formulation",
+   "question": "Anticoagulant citrate dextrose Formula A (ACD-A) contains which concentrations?",
+   "options": {
+    "A": "2.2 g/dL sodium citrate and 0.73 g/dL citric acid",
+    "B": "1.32 g/dL sodium citrate and 0.44 g/dL citric acid",
+    "C": "5 g/dL sodium citrate and 1 g/dL citric acid",
+    "D": "0.9 g/dL sodium citrate and 0.5 g/dL citric acid"
+   },
+   "correct": "A",
+   "explanation": "Anticoagulant citrate dextrose Formula A (ACD-A) contains 2.2 g/dL sodium citrate and 0.73 g/dL citric acid, so A is correct. Formula B (option B) contains the more dilute 1.32 g/dL sodium citrate and 0.44 g/dL citric acid, while C and D are fabricated concentrations. ACD-A is the standard for all continuous-flow centrifugal devices. Citrate chelates calcium, a necessary coagulation cofactor, inhibiting thrombus formation and platelet aggregation without systemic anticoagulation."
+  },
+  {
+   "topic": "Citrate for devices",
+   "question": "Which anticoagulant citrate dextrose formulation is used for all continuous-flow centrifugal devices?",
+   "options": {
+    "A": "ACD-B",
+    "B": "ACD-A",
+    "C": "Regional heparin only",
+    "D": "Trisodium citrate 4%"
+   },
+   "correct": "B",
+   "explanation": "ACD-A is the anticoagulant citrate dextrose formulation used for all continuous-flow centrifugal devices, so B is correct. ACD-B (A) is the more dilute formula at 1.32 g/dL sodium citrate. Regional heparin (C) is used with filtration/membrane devices, not centrifuges. Trisodium citrate 4% (D) is not the specified agent. Citrate works by chelating ionized calcium; because it is metabolized rapidly, its infusion rate must not exceed the body's metabolic capacity to avoid hypocalcemia."
+  },
+  {
+   "topic": "Hypocalcemia signs",
+   "question": "Early symptoms and signs of citrate-induced low ionized calcium during apheresis include:",
+   "options": {
+    "A": "Hyperkalemic weakness",
+    "B": "Sudden hypertension and flushing",
+    "C": "Perioral and acral paresthesias, shivering, and twitching",
+    "D": "Bradycardia with warm dry skin"
+   },
+   "correct": "C",
+   "explanation": "Low ionized calcium from citrate produces perioral and acral paresthesias, shivering, light-headedness, twitching, and tremors, potentially progressing to carpopedal spasm, tetany, and laryngospasm, so C is correct. It is not hyperkalemic weakness (A), hypertension with flushing (B), or bradycardia with warm dry skin (D). Symptoms are accentuated by hyperventilation-induced alkalosis. Prevention includes limiting the citrate delivery rate and giving calcium, either oral calcium carbonate or IV calcium gluconate."
+  },
+  {
+   "topic": "ECG effect",
+   "question": "A reduction in ionized calcium during citrate anticoagulation lengthens the plateau phase of myocardial depolarization, which is seen on the ECG as:",
+   "options": {
+    "A": "Shortened PR interval",
+    "B": "Peaked T waves",
+    "C": "Widened QRS complex",
+    "D": "Prolongation of the QT interval"
+   },
+   "correct": "D",
+   "explanation": "Reduced ionized calcium lengthens the plateau phase of myocardial depolarization, manifested electrocardiographically as prolongation of the QT interval, so D is correct. It is not a shortened PR interval (A), peaked T waves (B, which suggest hyperkalemia), or a widened QRS (C). Very high citrate with correspondingly low ionized calcium can depress myocardial contractility and rarely provoke fatal arrhythmia. This cardiac effect is why rhythm is monitored, especially with central blood return near the AV node."
+  },
+  {
+   "topic": "Calcium supplementation",
+   "question": "One recommended method to prevent low ionized calcium during citrate anticoagulation is to infuse 10% calcium gluconate continuously in a proportion of:",
+   "options": {
+    "A": "10 mL of calcium gluconate per liter of replacement fluid",
+    "B": "100 mL of calcium gluconate per liter of replacement fluid",
+    "C": "1 mL of calcium gluconate per liter of replacement fluid",
+    "D": "50 mL of calcium gluconate per liter of replacement fluid"
+   },
+   "correct": "A",
+   "explanation": "One recommended method is continuous IV 10% calcium gluconate infused at 10 mL per liter of replacement fluid (Weinstein), so A is correct. 100 mL (B), 1 mL (C), and 50 mL (D) misstate the ratio. Alternatively, oral calcium carbonate 500-mg (5-mmol) tablets may be given every 30 minutes, plus IV calcium boluses whenever hypocalcemic symptoms appear. Limiting the rate of citrate delivery by keeping blood flow modest is the other main preventive measure."
+  },
+  {
+   "topic": "FFP citrate content",
+   "question": "When FFP is used as replacement fluid, the total citrate reinfusion calculation must account for the fact that FFP contains up to:",
+   "options": {
+    "A": "2% citrate by volume",
+    "B": "14% citrate by volume",
+    "C": "30% citrate by volume",
+    "D": "50% citrate by volume"
+   },
+   "correct": "B",
+   "explanation": "FFP contains up to 14% citrate by volume, so when FFP is the replacement fluid its citrate load must be added to any infused anticoagulant citrate when calculating the total citrate reinfusion rate, making B correct. 2% (A), 30% (C), and 50% (D) are wrong. This extra citrate increases the risk of low-ionized-calcium reactions, especially in patients with liver or renal insufficiency who metabolize citrate poorly, warranting cautious infusion rates and calcium supplementation."
+  },
+  {
+   "topic": "Citrate alkalosis",
+   "question": "Metabolic alkalosis can rarely develop during citrate anticoagulation because sodium citrate is metabolized to:",
+   "options": {
+    "A": "Lactate",
+    "B": "Chloride",
+    "C": "Bicarbonate",
+    "D": "Ketoacids"
+   },
+   "correct": "C",
+   "explanation": "Sodium citrate is metabolized to bicarbonate, so infusion of large amounts can rarely cause metabolic alkalosis, making C correct. It is not lactate (A), chloride (B), or ketoacids (D). Patients with liver disease have impaired citrate metabolism, so acid-base status during citrate anticoagulation should be monitored with special care. The same impaired metabolism also predisposes to citrate accumulation and the more common problem of low ionized calcium during apheresis."
+  },
+  {
+   "topic": "FFP indications",
+   "question": "A recognized specific indication for using FFP rather than albumin as replacement fluid during plasma exchange is:",
+   "options": {
+    "A": "Anti-GBM disease without lung hemorrhage",
+    "B": "Uncomplicated myasthenia gravis",
+    "C": "Hyperviscosity from Waldenstrom macroglobulinemia",
+    "D": "A preexisting hemostatic defect or pretreatment fibrinogen below 125 mg/dL"
+   },
+   "correct": "D",
+   "explanation": "A recognized specific indication for FFP rather than albumin is a preexisting hemostatic defect or a low pretreatment fibrinogen below 125 mg/dL, along with TTP/HUS and patients at risk of bleeding such as those pre- or post-surgery, so D is correct. Anti-GBM without lung hemorrhage (A) and uncomplicated myasthenia (B) use albumin, and hyperviscosity from Waldenstrom (C) uses albumin as well. Otherwise albumin is preferred because FFP carries allergic, infectious, and citrate-load risks."
+  },
+  {
+   "topic": "IgA deficiency reaction",
+   "question": "Anaphylaxis during FFP replacement can result from infusing IgA-containing FFP into a patient with:",
+   "options": {
+    "A": "Selective IgA deficiency",
+    "B": "Complement C3 deficiency",
+    "C": "Factor VIII deficiency",
+    "D": "Antithrombin III deficiency"
+   },
+   "correct": "A",
+   "explanation": "Anaphylaxis during FFP replacement can result from infusing IgA-containing FFP into a patient with selective IgA deficiency, whose anti-IgA antibodies react, so A is correct. It is not C3 (B), factor VIII (C), or antithrombin III (D) deficiency. Another FFP anaphylaxis mechanism is passive transfer of leukoagglutinins causing noncardiogenic pulmonary edema. For sensitized patients, measuring anti-IgA titers and premedicating with a steroid, antihistamine, and H2 blocker are advised."
+  },
+  {
+   "topic": "Albumin dilution error",
+   "question": "When preparing 5% albumin from more concentrated solutions, the correct diluent is 0.9% saline; using water instead has caused:",
+   "options": {
+    "A": "Hyperkalemia and metabolic acidosis",
+    "B": "Severe hyponatremia and hemolysis",
+    "C": "Hypercalcemia and alkalosis",
+    "D": "Air embolism and thrombocytopenia"
+   },
+   "correct": "B",
+   "explanation": "Using water instead of 0.9% saline to dilute concentrated albumin has caused severe hyponatremia and hemolysis (Steinmuller), so B is correct. It is not hyperkalemia and acidosis (A), hypercalcemia and alkalosis (C), or air embolism and thrombocytopenia (D). When preparing 5% albumin from more concentrated solutions, 0.9% saline must be the diluent. HSA is otherwise very safe, with adverse reactions about 1 in 6,600 infusions, and heat treatment prevents viral transmission."
+  },
+  {
+   "topic": "Crystalloid economy",
+   "question": "To reduce albumin cost when the exchange equals one plasma volume and the patient is not hypoalbuminemic, one economical approach is to:",
+   "options": {
+    "A": "Replace the entire volume with FFP",
+    "B": "Use only 50% replacement volume",
+    "C": "Replace the initial 20%-30% of removed plasma with crystalloid, then use 5% albumin",
+    "D": "Give 25% albumin diluted in water"
+   },
+   "correct": "C",
+   "explanation": "When exchange equals one plasma volume and the patient is not hypoalbuminemic, an economical approach is to replace the initial 20%-30% of removed plasma with crystalloid such as 0.9% saline, then substitute 5% albumin, yielding a final albumin near 3.5 g/dL, enough oncotic pressure to avoid hypotension, so C is correct. Full FFP (A) is unnecessary and risky, 50% replacement (B) contracts volume, and 25% albumin in water (D) causes hemolysis. Avoid this in hyperviscosity, neurologic disease, or other hypotension."
+  },
+  {
+   "topic": "Albumin safety",
+   "question": "The estimated incidence of an adverse reaction of any kind to purified human serum albumin used in TPE is about:",
+   "options": {
+    "A": "1 in 100 infusions",
+    "B": "1 in 30,000 infusions",
+    "C": "1 in 600 infusions",
+    "D": "1 in 6,600 infusions"
+   },
+   "correct": "D",
+   "explanation": "Adverse reactions of any kind to purified human serum albumin occur in about 1 in 6,600 infusions, so D is correct. Severe, potentially life-threatening reactions occur in about 1 in 30,000 infusions (option B is that severe-reaction figure). 1 in 100 (A) and 1 in 600 (C) greatly overstate the risk. HSA is heat-treated during processing so it does not transmit viral disease, giving it an excellent overall safety record and making it the favored replacement fluid in TPE."
+  },
+  {
+   "topic": "Replacement volume",
+   "question": "The replacement volume during plasmapheresis may be adjusted downward, but generally should not fall below what proportion of the removed volume?",
+   "options": {
+    "A": "85%",
+    "B": "50%",
+    "C": "70%",
+    "D": "25%"
+   },
+   "correct": "A",
+   "explanation": "The replacement volume can be adjusted from 100% of the removed volume down to but not below about 85%, so A is correct. Lower replacement such as 50% (B), 70% (C), or 25% (D) is generally not recommended because it can contract the intravascular volume and cause hemodynamic instability. The amount depends on the patient's volume status, but hypo-replacement is avoided; colloid replacement (albumin or FFP) is essential to maintain oncotic pressure and hemodynamic stability during exchange."
+  },
+  {
+   "topic": "Complication rate",
+   "question": "The overall complication rate for plasma exchange ranges from about 4% to 25%, with an average of approximately:",
+   "options": {
+    "A": "1%",
+    "B": "10%",
+    "C": "30%",
+    "D": "50%"
+   },
+   "correct": "B",
+   "explanation": "Complications range from 4% to 25% of treatments, averaging about 10%, so B is correct. Minimal reactions (about 5%: urticaria, paresthesias, nausea, dizziness, leg cramps) and moderate reactions (5%-10%: hypotension, chest pain, ventricular ectopy) are usually brief and without sequelae; severe events occur in fewer than 3%, mainly FFP-related anaphylactoid reactions. 1% (A) understates and 30% or 50% (C, D) overstate the average. The estimated mortality is 3-6 per 10,000 procedures."
+  },
+  {
+   "topic": "Mortality",
+   "question": "The estimated mortality rate associated with plasmapheresis is approximately:",
+   "options": {
+    "A": "1 per 100 procedures",
+    "B": "1 per 1,000 procedures",
+    "C": "3-6 per 10,000 procedures",
+    "D": "3-6 per 100 procedures"
+   },
+   "correct": "C",
+   "explanation": "The estimated mortality rate associated with plasmapheresis is 3-6 per 10,000 procedures, so C is correct. Most deaths involve FFP-associated anaphylaxis, pulmonary embolism, and vascular perforation. 1 per 100 (A) and 3-6 per 100 (D) hugely overstate the risk, and 1 per 1,000 (B) is off. The overall complication rate averages about 10%, but severe events are under 3%. This low mortality supports a favorable safety profile when complications are anticipated and managed."
+  },
+  {
+   "topic": "Coagulation effects",
+   "question": "After a single plasma exchange, the serum fibrinogen level typically falls by approximately:",
+   "options": {
+    "A": "20%",
+    "B": "40%",
+    "C": "50%",
+    "D": "80%"
+   },
+   "correct": "D",
+   "explanation": "After a single plasma exchange, serum fibrinogen typically falls by about 80%, so D is correct; prothrombin and many other clotting factors fall by roughly 50%-70%, and the PTT usually increases by about 100% (doubles). 20% (A), 40% (B), and 50% (C) understate the fibrinogen drop. Recovery is biphasic: at 24 hours fibrinogen is about 50% and antithrombin III about 85% of baseline, both needing 48-72 hours to recover fully, so caution is needed with closely spaced exchanges."
+  },
+  {
+   "topic": "Clotting factor recovery",
+   "question": "Which statement about coagulation after plasma exchange is correct?",
+   "options": {
+    "A": "The half-life for most clotting factors is about 24-36 hours, so single exchanges spaced over a day rarely cause bleeding",
+    "B": "Coagulation factors never recover after a single exchange",
+    "C": "Fibrinogen fully recovers within 2 hours",
+    "D": "Factor X returns to 100% within 4 hours of treatment"
+   },
+   "correct": "A",
+   "explanation": "The half-life of most clotting factors is about 24-36 hours, so bleeding from factor depletion is unlikely after only one or two exchanges performed more than a day apart, making A correct. Factors do recover (B is wrong); fibrinogen needs 48-72 hours, not 2 hours (C); and factor X is only about 30% of baseline at 24 hours, not 100% at 4 hours (D). Recovery is biphasic, and with multiple closely spaced treatments it is advisable to replace 2 units of FFP at the end of each."
+  },
+  {
+   "topic": "ACE inhibitors",
+   "question": "Atypical anaphylactoid reactions in patients on ACE inhibitors during apheresis are attributed to endogenous bradykinin release; ideally, short-acting ACE inhibitors should be held for how long before treatment?",
+   "options": {
+    "A": "1 hour",
+    "B": "24 hours (short-acting), 48 hours (long-acting)",
+    "C": "1 week",
+    "D": "They never need to be held"
+   },
+   "correct": "B",
+   "explanation": "Short-acting ACE inhibitors should be held for 24 hours and long-acting agents for 48 hours before exchange with membrane devices, so B is correct. Negatively charged membranes or filters plus prekallikrein-activating factor in albumin trigger endogenous bradykinin release, causing atypical anaphylactoid reactions. 1 hour (A) and 1 week (C) are wrong, and they do need to be held (D). This is especially relevant to LDL affinity apheresis with negatively charged adsorber surfaces."
+  },
+  {
+   "topic": "Hypokalemia",
+   "question": "When albumin in saline is used as replacement, serum potassium can fall about 25% postapheresis; this risk is reduced by:",
+   "options": {
+    "A": "Adding calcium gluconate to the replacement fluid",
+    "B": "Reducing the exchange volume to 50%",
+    "C": "Adding 4 mmol of potassium to each liter of replacement solution",
+    "D": "Switching to FFP replacement"
+   },
+   "correct": "C",
+   "explanation": "When albumin in saline is used as the replacement solution, serum potassium can fall about 25% in the immediate postapheresis period; adding 4 mmol of potassium to each liter of replacement solution reduces this risk, so C is correct. Calcium gluconate (A) addresses hypocalcemia, not potassium; reducing exchange volume (B) or switching to FFP (D) are not the recommended fixes. Albumin-crystalloid replacement lacks potassium, so simple supplementation prevents the transient hypokalemia."
+  },
+  {
+   "topic": "Drug removal",
+   "question": "Drugs most significantly cleared by plasma exchange, and thus potentially needing supplemental dosing, share which pharmacokinetic profile?",
+   "options": {
+    "A": "Large volume of distribution and minimal protein binding",
+    "B": "Rapid renal excretion and low lipid solubility",
+    "C": "Zero-order elimination kinetics",
+    "D": "Small volume of distribution and extensive protein binding"
+   },
+   "correct": "D",
+   "explanation": "Drugs significantly cleared by plasma exchange are those with a small volume of distribution and extensive protein binding, since these stay largely in plasma, so D is correct. A large Vd with minimal binding (A), rapid renal excretion (B), and zero-order kinetics (C) do not predict removal. Salicylates, azathioprine, and tobramycin should be supplemented, whereas prednisone, digoxin, cyclosporine, ceftriaxone, ceftazidime, valproic acid, and phenobarbital need not be. Give scheduled medications right after the procedure."
+  },
+  {
+   "topic": "ASFA categories",
+   "question": "In the ASFA evidence-based classification, a Category I designation means that apheresis is:",
+   "options": {
+    "A": "Accepted as first-line therapy for the disorder",
+    "B": "Accepted only as second-line therapy after first-line failure",
+    "C": "Of unestablished optimal role, decided case by case",
+    "D": "Demonstrated to be ineffective or harmful"
+   },
+   "correct": "A",
+   "explanation": "In the ASFA evidence-based system, Category I means apheresis is accepted as first-line therapy for that disorder, so A is correct. Category II is second-line therapy, usually after first-line failure (B); Category III has an unestablished, individualized role (C); and Category IV includes disorders where published evidence shows apheresis to be ineffective or harmful (D). ASFA grades both the recommendation category and the quality of supporting evidence to guide clinical decision-making."
+  },
+  {
+   "topic": "Anti-GBM regimen",
+   "question": "In the large long-term anti-GBM disease series, patients received plasma exchange of about 50 mL/kg (roughly 1.5 plasma volumes) for how long?",
+   "options": {
+    "A": "3 consecutive days",
+    "B": "14 consecutive days, or until anti-GBM antibodies became undetectable",
+    "C": "Once weekly for 3 months",
+    "D": "A single exchange only"
+   },
+   "correct": "B",
+   "explanation": "In the largest long-term anti-GBM series, patients received exchange of 50 mL/kg (about 1.5 plasma volumes) for 14 consecutive days, or until anti-GBM antibody levels became undetectable, so B is correct. Three days (A), weekly for 3 months (C), and a single exchange (D) are inadequate. Early treatment is critical: response is best when creatinine is below 500 mcmol/L (5.7 mg/dL); nearly all such patients recovered kidney function versus only 8% already on dialysis. Replace with 5% albumin, using FFP for the last liter if there is lung hemorrhage or recent biopsy."
+  },
+  {
+   "topic": "TTP pathophysiology",
+   "question": "In thrombotic thrombocytopenic purpura, the underlying abnormality may be a genetic deficiency of, or autoantibodies against, which protein?",
+   "options": {
+    "A": "Complement factor H",
+    "B": "Factor VIII",
+    "C": "The von Willebrand factor-cleaving protease (ADAMTS13)",
+    "D": "Antithrombin III"
+   },
+   "correct": "C",
+   "explanation": "In TTP there may be genetic deficiency of, or autoantibodies against, the von Willebrand factor-cleaving protease ADAMTS13, so C is correct. Complement factor H (A) relates to atypical HUS, while factor VIII (B) and antithrombin III (D) are unrelated. Plasmapheresis both replaces normal plasma components (supplying ADAMTS13) and removes autoantibodies when present. Daily exchange of at least 1 plasma volume (1.5 for the first three treatments) with FFP is given for 7-10 days until platelets normalize and LDH falls below 400 IU/L."
+  },
+  {
+   "topic": "Eculizumab",
+   "question": "Eculizumab, which has shown encouraging results in diarrhea-negative (atypical) HUS, is a monoclonal antibody directed against:",
+   "options": {
+    "A": "ADAMTS13",
+    "B": "Apoprotein B100",
+    "C": "Tumor necrosis factor alpha",
+    "D": "Complement C5, inhibiting membrane attack complex formation"
+   },
+   "correct": "D",
+   "explanation": "Eculizumab is a monoclonal antibody against complement C5 that inhibits formation of the membrane attack complex, so D is correct. It does not target ADAMTS13 (A), apoprotein B100 (B), or TNF-alpha (C). It has shown encouraging results in diarrhea-negative (atypical) HUS and in the European diarrhea-positive HUS outbreak. Atypical HUS often stems from defects in or autoantibodies to complement regulators, providing the rationale for C5 blockade used alongside or instead of plasma exchange."
+  },
+  {
+   "topic": "Cryoglobulinemia",
+   "question": "When performing plasma exchange for cryoglobulinemia, which practice is recommended?",
+   "options": {
+    "A": "Warm the 5% albumin replacement fluid, and often prefer a centrifugation device",
+    "B": "Use cold albumin to precipitate cryoglobulins in the circuit",
+    "C": "Always use membrane separation because it is most efficient",
+    "D": "Replace with FFP as the sole fluid"
+   },
+   "correct": "A",
+   "explanation": "For cryoglobulinemia, the 5% albumin replacement fluid must be warmed to avoid precipitation of circulating cryoglobulins, and a centrifugation device is often preferred because cryoglobulins can block a plasma filter as they cool and precipitate, so A is correct. Cold albumin (B) and membrane separation (C) risk clogging, and FFP as the sole fluid (D) is not indicated. A typical regimen is exchange of 1 plasma volume for 7 days (or alternate days for 2-3 weeks), with immunosuppression and antivirals if hepatitis C is present."
+  },
+  {
+   "topic": "ANCA vasculitis",
+   "question": "The MEPEX study of ANCA-associated vasculitis demonstrated better renal recovery with plasmapheresis versus pulse methylprednisolone in patients with a serum creatinine above:",
+   "options": {
+    "A": "250 mcmol/L (2.8 mg/dL)",
+    "B": "500 mcmol/L (5.7 mg/dL)",
+    "C": "150 mcmol/L (1.7 mg/dL)",
+    "D": "800 mcmol/L (9 mg/dL)"
+   },
+   "correct": "B",
+   "explanation": "The MEPEX study demonstrated better recovery of renal function with plasmapheresis than with pulse methylprednisolone in ANCA-associated vasculitis patients whose serum creatinine exceeded 500 mcmol/L (5.7 mg/dL), so B is correct. A smaller study suggested benefit above 250 mcmol/L (2.8 mg/dL, option A), but MEPEX's threshold is 500; 150 (C) and 800 (D) are not the study cutoffs. Based on MEPEX, the recommended regimen is daily exchange of 1.5 plasma volumes for 7 days, with FFP for the last liter if there is pulmonary hemorrhage or recent renal biopsy."
+  },
+  {
+   "topic": "LDL apheresis",
+   "question": "In the FDA-approved Liposorber system for LDL apheresis, selective removal of Apo-B-containing lipoproteins is achieved by adsorption columns that use:",
+   "options": {
+    "A": "Staphylococcal protein A",
+    "B": "Heparin precipitation at pH 5.12",
+    "C": "Negatively charged dextran sulfate that binds positively charged Apo-B lipoproteins",
+    "D": "Immobilized blood group trisaccharide antigen"
+   },
+   "correct": "C",
+   "explanation": "In the Liposorber system, plasma passes through dextran sulfate-based immunoadsorption columns; dextran sulfate is a negatively charged molecule that binds the positively charged Apo-B-containing lipoproteins (LDL, VLDL, Lp[a]) with high affinity, so C is correct. Staphylococcal protein A (A) binds IgG, heparin precipitation at pH 5.12 (B) describes the H.E.L.P. system, and immobilized blood-group trisaccharide (D) is the Glycosorb ABO column. Heparin anticoagulation is used, a 1.5 plasma volume gives 73%-83% LDL reduction, and because the adsorber surface promotes bradykinin release, ACE inhibitors are contraindicated while ARBs may be used."
+  },
+  {
+   "topic": "Photopheresis",
+   "question": "In extracorporeal photopheresis for cutaneous T-cell lymphoma, the collected white cell product is treated with 8-methoxypsoralen and then:",
+   "options": {
+    "A": "Exposed to ultraviolet-A light, which activates 8-MOP to cross-link DNA and induce T-cell apoptosis",
+    "B": "Passed through a dextran sulfate column",
+    "C": "Heated to 45 degrees C to denature the cells",
+    "D": "Adsorbed onto a staphylococcal protein A column"
+   },
+   "correct": "A",
+   "explanation": "In extracorporeal photopheresis, centrifugation collects white blood cells, which are then injected with 8-methoxypsoralen (8-MOP) and exposed to a controlled dose of ultraviolet-A light; UV-A activates 8-MOP to cross-link DNA, inducing apoptosis in T-cells and modifying dendritic cells to shift the immune balance toward tolerance via T-regulatory cells, so A is correct. It is not a dextran sulfate column (B), heating to 45 degrees C (C), or a staphylococcal protein A column (D). ECP was developed for cutaneous T-cell lymphoma (Sezary syndrome) and is also used for graft-versus-host disease and transplant rejection, with heparin anticoagulation."
+  }
+ ]
+}

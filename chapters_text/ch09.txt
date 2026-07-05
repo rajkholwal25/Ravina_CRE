@@ -1,0 +1,820 @@
+155
+Venous Catheter 
+Infections and Other 
+Complications
+Loay Salman, Arif Asif, 
+and  Michael Allon
+The main problems associated with venous catheters are infection, 
+poor flow, thrombosis, and central venous stenosis.
+ I. INFECTION. Despite the best practices detailed in Chapter 7 
+ (Table 7.3), infections do occur with venous catheters, and at a rate 
+substantially higher than with arteriovenous (AV) fistulas. Infec-
+tion is the leading cause of catheter loss and increases morbidity 
+and mortality. Most often, infection results from contamination 
+of the catheter connectors or from lumen contamination during 
+dialysis or from infused solutions. Infection also may arise from 
+the migration of the patient’s own skin flora through the puncture 
+site and onto the outer catheter surface. Catheters can sometimes 
+become colonized from more remote sites during bacteremia.
+A. Exit-site infection  can be diagnosed when there is erythema, 
+discharge, crusting, and tenderness at the skin exit site, but 
+no tunnel tenderness or purulence. Treatment with topical 
+antibiotic cream and oral antibiotics may be sufficient. These 
+infections can be prevented by meticulous exit-site care. The 
+patient should be investigated for nasal carriage of Staphylo -
+coccus and if present, treated with intranasal mupirocin cream 
+(half tube twice a day to each nostril for 5 days) to prevent fu-
+ture infections. With exit-site infection, the  catheter must be 
+removed if systemic signs of infection develop (leukocytosis or 
+temperature >38°C), if pus can be expressed from the track of 
+the catheter, or if the infection persists or recurs after an initial 
+course of antibiotics. If blood cultures are positive, then the 
+catheter should be removed.
+B. Tunnel infection  is infection along the subcutaneous tunnel 
+extending proximal to the cuff toward the insertion site and 
+venotomy. Typically, there is marked tenderness, swelling, and 
+erythema along the catheter tract in association with purulent 
+drainage from the exit site. This can result in systemic bactere-
+mia. In the presence of drainage or signs of systemic infection, 
+the catheter should be removed immediately and antibiotic 
+therapy prescribed.
+C. Catheter-related bloodstream infection (CRBSI) . Patients present 
+with signs and symptoms of systemic infection, which may 
+9
+Daugirdas9781451144291-ch009.indd   155 09/10/14   1:08 am
+Part II / Blood-Based Therapies
+156
+range from minimal to severe. Milder cases present with fe-
+ver or chills, whereas more severe cases exhibit hemodynamic 
+instability. Patients may develop septic symptoms after ini -
+tiation of dialysis, suggesting systemic release of bacteria 
+and/or endotoxin from the catheter. There can be signs of 
+metastatic infection, including endocarditis, osteomyelitis, 
+epidural abscess, and septic arthritis. Gram-positive organ-
+isms are the causative organisms in the majority of cases, but 
+gram- negative infections occur in a very sizeable minority. 
+For details on how to treat CRBSI in dialysis patients, caregiv-
+ers can refer to valuable information available on the dialysis 
+section of the U.S. Centers of Disease Control (CDC) website 
+(http://www.cdc.gov/dialysis), the NKF KDOQI 2006 vascular 
+access guidelines (NKF, 2006), the European Renal Best Prac-
+tices (ERBP) access guidelines (Tordoir, 2007), the Infectious 
+Disease  Society of North America (IDSA) guidelines update 
+for management of CRBSI (Mermel, 2009), and the ERBP com-
+mentary on the IDSA guidelines (Vanholder, 2010). Treatment 
+algorithms and tips from the IDSA are reproduced in Figure 9.1  
+and Tables 9.1 and  9.2, and key recommendations from the 
+ERBP are shown in Figure 9.2.
+ The principles of CRBSI management in dialysis patients are 
+different from the infectious disease guidelines for treatment 
+of infection in short-term central venous catheters. In hemo-
+dialysis, the venous catheter is a lifeline that sometimes can 
+be replaced only with great difficulty. Thus, the guidelines in-
+clude a variety of catheter salvage maneuvers, which involve 
+use of antibiotic-containing catheter locks or replacing the in-
+fected catheter with a new catheter in the same location over a 
+guidewire. However, these catheter salvage techniques should 
+be used only in limited, defined circumstances. If a patient’s 
+condition worsens after a relatively short trial of catheter 
+ salvage, the catheter must be removed to minimize the risk of 
+spreading the infection to body organs.
+1. Blood and catheter tip cultures . I n working up a suspected 
+CRBSI, cultures can be obtained from the catheter hub, 
+from a peripheral vein, or from the blood lines during di -
+alysis treatment. The IDSA recommendations are to take 
+blood cultures from a catheter hub and from a peripheral 
+vein and, when a catheter has been removed because of 
+suspicion of infection, to also culture the distal 5 cm of 
+its tip. One is looking for both blood cultures or for both 
+the blood culture and a catheter tip culture to be positive 
+with the same organism to confirm a diagnosis of CRBSI. 
+When taking cultures from the skin or from a catheter 
+hub, the IDSA recommends cleaning and sterilizing the 
+area with alcoholic chlorhexidine rather than povidone-
+iodine, and allowing the antiseptic to dry before sampling; 
+this avoids contamination of the cultured material with 
+liquid antiseptic. The IDSA guidelines recognize that ob-
+taining blood from the dialysis bloodline is an acceptable 
+Daugirdas9781451144291-ch009.indd   156 09/10/14   1:08 am
+157Chapter 9 / Venous Catheter Infections and Other Complications
+FIGURE 9.1 Pathway for treatment of cuffed hemodialysis catheter infections according to the Infectious Disease Society of America, 2009 Update. HD, hemodialysis; CVC, central 
+venous (dialysis) catheter; TEE, transesophageal echocardiography. (Reproduced with permission from Mermel LA, et al. Clinical practice guidelines for the diagnosis and manage-
+ment of intravascular catheter-related infection: 2009 update by the Infectious Diseases Society of America. Clin Infect Dis. 2009;49:1–45.)
+Obtain blood cultures from catheter and peripheral vein or
+bloodline if peripheral vein not feasible
+Tunneled HD catheter
+with suspected CRBSI
+Empiric antibiotics (Table 9.1)
++ Antibiotic lock (Table 9.3)
+Coagulase-
+negative
+staphylococcus
+Gram-negative
+bacilli
+Staphylococcus
+aureus
+Candida
+albicans
+Stop
+antibiotics
+Remove CVC
+Administer
+antibiotics
+Resolution of bacteremia/fungemia
+and fever in 2–3 d
+Persistent bacteremia/
+fungemia and feverNegative blood cultures
+Antibiotics x 10–14 d
+Retain CVC, continue
+antibiotic lock
+OR
+Guidewire
+CVC exchange
+Antibiotic 10–14 d
+Retain CVC, continue
+antibiotic lock
+OR
+Guidewire
+CVC exchange
+Guidewire CVC
+exchange
+Administer antifungal
+therapy for 14 d
+after the first negative
+blood culture
+Administer
+antibiotics x 4–6 wk
+look for metastatic
+infections
+(thrombosis,
+endocarditis)
+Remove CVC
+AND
+antibiotic x 3 wk
+if TEE is negative
+Daugirdas9781451144291-ch009.indd   157 09/10/14   1:08 am
+Part II / Blood-Based Therapies
+158
+Empirical Antibiotic Dosing Pending Culture Results
+Vancomycin plus empirical gram-negative rod coverage based on local 
+antibiogram data
+OR
+Vancomycin plus gentamicin
+Typical doses: (Doses need to be adjusted for residual renal function and for 
+enhanced dialytic removal in case of frequent or extended dialysis, very high 
+efficiency, high-flux treatments, or hemodiafiltration. Monitor predialysis trough 
+levels if possible
+(Cefazolin may be used in place of vancomycin in units with a low prevalence of 
+methicillin-resistant staphylococci)
+Vancomycin: 20-mg/kg loading dose infused during the last hour of the dialysis 
+session, and then 500 mg during the last 30 min of each subsequent dialysis 
+session
+Gentamicin (or tobramycin): 1 mg/kg, not to exceed 100 mg after each dialysis 
+session
+Ceftazidime: 1 g iv after each dialysis session
+Cefazolin: 20 mg/kg iv after each dialysis session
+For Candida Infection
+An echinocandin (caspofungin 70 mg iv loading dose followed by 50 mg iv daily; 
+intravenous micafungin 100 mg iv daily; or anidulafungin 200 mg iv loading dose, 
+followed by 100 mg iv daily); fluconazole (200 mg orally daily); or amphotericin B
+Antibiotic Dosing for Patients Who Are Undergoing 
+Hemodialysis9.1
+TABLE
+iv, intravenous.
+Adapted from Mermel LA, et al. Clinical practice guidelines for the diagnosis and management of 
+intravascular catheter-related infection: 2009 update by the Infectious Diseases Society of America. 
+Clin Infect Dis. 2009;49:1–45, with permission.
+substitute for peripheral blood cultures in many hemodi -
+alysis patients.
+ The ERBP ad hoc advisory recommendations are similar to 
+what the IDSA recommends. They too, recognize the dif-
+ficulties in obtaining cultures from peripheral veins in he -
+modialysis patients, and believe that a practical alternative 
+is to simply draw blood cultures from the dialysis circuit. 
+Blood from the circuit during dialysis probably represents 
+peripheral blood rather than localized catheter blood, and 
+so a positive blood culture drawn from the bloodline may 
+reflect a source of bacteremia other than at the catheter. 
+The ERBP group suggests that the best way to deal with this 
+possibility is by evaluating clinical history, examination, 
+imaging, and targeted laboratory testing, including urine 
+culture if possible.
+2. Indications for immediate catheter removal . I f there is evidence 
+of septic thrombosis, endocarditis, or osteomyelitis, or of 
+severe sepsis with hypotension, then the dialysis catheter 
+needs to be removed immediately. The same recommenda-
+tion generally holds for tunnel infection with fever. Dialysis 
+should be continued with a temporary catheter inserted at 
+a different location.
+Daugirdas9781451144291-ch009.indd   158 09/10/14   1:08 am
+159Chapter 9 / Venous Catheter Infections and Other Complications
+Blood and Catheter Cultures
+Peripheral blood samples should be obtained for culture from vessels that are not 
+intended for future use in creating a dialysis fistula (e.g., hand veins).
+When a peripheral blood sample cannot be obtained, blood samples may be 
+drawn during hemodialysis from bloodlines connected to the dialysis catheter.
+In patients with suspected CRBSI for whom blood cultures have been obtained 
+and for whom antibiotic therapy has been initiated, antibiotic therapy can be 
+discontinued if both sets of blood cultures have negative results and no other 
+source of infection is identified.
+When a peripheral blood sample cannot be obtained, no other catheter is in 
+place from which to obtain an additional blood sample, there is no drainage from 
+the insertion site available for culture, and there is no clinical evidence for an 
+alternate source of infection, then positive results of culture performed on a blood 
+sample obtained from a catheter should lead to continuation of antimicrobial 
+therapy for possible CRBSI in a symptomatic hemodialysis patient.
+Catheter Removal, Change, and Salvage with Antimicrobial Lock
+The infected catheter should always be removed for patients with hemodialysis 
+CRBSI due to S. aureus, Pseudomonas sp., or Candida sp. and a temporary 
+(nontunneled catheter) should be inserted into another anatomical site. If 
+absolutely no alternative sites are available for catheter insertion, then exchange 
+the infected catheter over a guidewire.
+When a hemodialysis catheter is removed for CRBSI, a long-term hemodialysis 
+catheter can be placed once blood cultures with negative results are obtained.
+For hemodialysis CRBSI due to other pathogens (e.g., gram-negative bacilli other 
+than Pseudomonas sp. or coagulase-negative staphylococci), a patient can initiate 
+empirical intravenous antibiotic therapy without immediate catheter removal. If 
+the symptoms persist or if there is evidence of a metastatic infection, the catheter 
+should be removed. If the symptoms that prompted initiation of antibiotic therapy 
+(fever, chills, hemodynamic instability, or altered mental status) resolve within 2–3 
+d and there is no metastatic infection, then the infected catheter can be exchanged 
+over a guidewire for a new, long-term hemodialysis catheter.
+Alternatively, for patients for whom catheter removal is not indicated (i.e., 
+those with resolution of symptoms and bacteremia within 2–3 d after initiation of 
+systemic antibiotics and an absence of metastatic infection), the catheter can 
+be retained, and an antibiotic lock can be used as adjunctive therapy after each 
+dialysis session for 10–14 d.
+Antibiotic Therapy
+Empirical antibiotic therapy should include vancomycin and coverage for 
+gram-negative bacilli, based on the local antibiogram (e.g., third-generation 
+cephalosporin, carbapenem, or beta-lactam/beta-lactamase combination)
+Patients who receive empirical vancomycin and who are found to have CRBSI 
+due to methicillin-susceptible S. aureus should be switched to cefazolin. For 
+cefazolin, use a dosage of 20 mg/kg (actual body weight), rounded to the nearest 
+500-mg increment, after dialysis.
+A 4–6-wk antibiotic course should be administered if there is persistent 
+bacteremia or fungemia (i.e., 172 hr in duration) after hemodialysis catheter removal 
+or for patients with endocarditis or suppurative thrombophlebitis, and 6–8 wk of 
+therapy should be administered for the treatment of osteomyelitis in adults.
+Patients receiving dialysis who have CRBSI due to vancomycin-resistant 
+enterococci can be treated with either daptomycin (6 mg/kg after each dialysis 
+session) or oral linezolid (600 mg every 12 hr).
+Unique Aspects of Managing Patients Receiving Hemodialy-
+sis through Catheters for Whom Catheter-Related Infection 
+Is Suspected or Proven9.2
+TABLE
+(continued )
+Daugirdas9781451144291-ch009.indd   159 09/10/14   1:08 am
+Part II / Blood-Based Therapies
+160
+Antibiotic Locks
+Antibiotic lock is indicated for patients with CRBSI involving long-term catheters 
+with no signs of exit-site or tunnel infection for whom catheter salvage is the goal.
+For CRBSI, antibiotic lock should not be used alone; instead, it should be 
+used in conjunction with systemic antimicrobial therapy, with both regimens 
+administered for 7–14 d.
+Dwell times for antibiotic lock solutions should generally not exceed 48 hr 
+before reinstallation of lock solution; preferably, reinstallation should take place 
+every 24 hr for ambulatory patients with femoral catheters. However, for patients 
+who are undergoing hemodialysis, the lock solution can be renewed after every 
+dialysis session.
+Catheter removal is recommended for CRBSI due to S. aureus and Candida sp., 
+instead of treatment with antibiotic lock and catheter retention, unless there are 
+unusual extenuating circumstances (e.g., no alternative catheter insertion site).
+For patients with multiple positive catheter-drawn blood cultures that grow 
+coagulase-negative staphylococci or gram-negative bacilli and concurrent 
+negative peripheral blood cultures, antibiotic lock therapy can be given without 
+systemic therapy for 10–14 d.
+For vancomycin, the concentration should be at least 1000 times higher than 
+the MIC of the microorganism involved.
+At this time, there are insufficient data to recommend an ethanol lock for the 
+treatment of CRBSI.
+Follow-up Cultures
+It is not necessary to confirm negative culture results before guidewire exchange 
+of a catheter for a patient with hemodialysis-related CRBSI if the patient is 
+asymptomatic.
+Surveillance blood cultures should be obtained 1 wk after completion of an 
+antibiotic course for CRBSI if the catheter has been retained. If the blood cultures 
+have positive results, the catheter should be removed, and a new, long-term 
+dialysis catheter should be placed after additional blood cultures are obtained that 
+have negative results.
+Reproduced from: Mermel LA, et al. Clinical practice guidelines for the diagnosis and manage-
+ment of intravascular catheter-related infection: 2009 update by the Infectious Diseases Society of 
+America. Clin Infect Dis. 2009;49:1–45.
+9.2
+TABLE Unique Aspects of Managing Patients Receiving Hemodialy-
+sis through Catheters for Whom Catheter-Related Infection 
+Is Suspected or Proven (continued)
+3. Choice of antibiotic . Gram-positive organisms, primarily
+Staphylococcus spp., are the most common, but gram-
+negative organisms may be isolated in up to 40% of cases.
+Broad-spectrum antibiotic therapy should be started im-
+mediately after drawing cultures. Dialysis units should
+keep a database of all CRBSI, including causative organ-
+isms, their susceptibility, and response to therapy, as this
+information is extremely valuable in guiding antibiotic
+therapy for new cases. If methicillin-resistant Staphylo -
+coccus is known to be common in the local hemodialysis
+population, the initial therapy should include vancomycin, 
+rather than a first-generation cephalosporin. Adequate em-
+piric gram-negative coverage can be provided with either
+an aminoglycoside or a third-generation cephalosporin.
+However, aminoglycosides may cause ototoxicity in up to
+Daugirdas9781451144291-ch009.indd   160 09/10/14   1:08 am
+161Chapter 9 / Venous Catheter Infections and Other Complications
+20% of hemodialysis patients. If treatment was begun for 
+methicillin-resistant Staphylococcus and the culture shows 
+a methicillin-sensitive organism, the treatment should be 
+changed to cefazolin or a similar antibiotic.
+4. Dose of antibiotic . It is practical to use antibiotics that can
+be given at the end of each dialysis session and maintain 
+desired blood levels during the interdialytic interval. Some 
+initial doses are given in Tables 9.1 and 9.2 ( from the IDSA, 
+Mermel, 2009). However, these doses may need to be in-
+creased in patients with substantial residual kidney func -
+tion or those receiving intensive dialysis treatments such as 
+frequent dialysis, high-intensity hemodiafiltration, or con -
+tinuous renal replacement therapy. Where possible, predi -
+alysis trough drug levels should be monitored, but this is 
+usually practical only in the inpatient setting. The strategy 
+of dosing antibiotics in hemodialysis and patients under -
+going continuous 
+ renal replacement therapy  is discussed 
+in more detail in  Chapters 15 and 35, and detailed dosing 
+regimens can be found in Mermel (2009).
+FIGURE 9.2 Pathway for treatment of cuffed hemodialysis catheter infections  according 
+to the European Best Practices Group, 2010 Update. (Adapted with permission from 
+Vanholder R, et al. Catheter-related blood stream infections (CRBSI): a European view. 
+Nephrol Dial Transplant. 2010;25:1753–1756.)
+Suspected catheter infection
+Start systemic antibiotics
+(see Table 9.1)
+Immediate catheter removal
+impossible or contraindicated
+If guidewire replacement
+undesirable or impossible
+Repeat at 72 hr and check for
+persistence of clinical signs
+Repetitive blood cultures 1 wk after
+completion of antibiotic cure
+If positive: remove
+catheter
+Maintain catheter in place
+(salvage) coupled to antibiotic
+lock in catheter (Table 9.3)
+Exchange catheter over
+guidewire after 3 d of
+successful antibiotic treatment
+-   Infection with S. aureus, P. aeruginosa,
+    multiresistant organisms or fungi
+-   Metastatic infection
+       -   Endocarditis
+       -   Osteomyelitis
+-   Sepsis
+-   Tunnel infection with fever
+-   Infection with germs other than S. aureus,
+    P. aeruginosa, multiresistant organisms
+    or fungi
+-   No metastatic infection
+-   No sepsis
+-   No tunnel infection
+Tunnel infection
+without fever
+First choice:
+removel of catheter and
+culturing of catheter tip (see C.I)
+If infection does not resolve
+Exit-site infection without fever: try local
+antibiotic application
+Daugirdas9781451144291-ch009.indd   161 09/10/14   1:08 am
+Part II / Blood-Based Therapies
+162
+5. Duration of treatment and course . Antibiotics should be dis-
+continued promptly if the original blood cultures had no
+growth and the patient’s symptoms are consistent with
+absence of infection. In the event of positive cultures, the
+initially chosen antibiotic regimen should be adjusted once 
+bacterial sensitivities are available. A 2–3-week course of
+systemic antibiotics is adequate in uncomplicated cases of 
+catheter-related bacteremia. A longer course (4–8 weeks) is 
+indicated if there is a metastatic infection, such as endocar-
+ditis or osteomyelitis (see Figure 9.1 and Table 9.2).
+6. Catheter removal and exchange over a guidewire. From an infec-
+tious disease perspective, the catheter is always best re-
+moved whenever a CRSBI occurs, regardless of the causal
+organism. However, since the patient will continue to re -
+quire dialysis support, placement of a temporary catheter
+becomes necessary. Thus, the decision to remove the cath-
+eter should be individualized on the basis of the severity of 
+sepsis and availability of alternative venous access sites. If
+the patient is clinically septic and unstable despite admin-
+istration of systemic antibiotics, the catheter should be re-
+moved as soon as possible. Attempts to maintain the same 
+catheter by treating through the infection have not been
+successful, with a success rate of <30% and with the risk
+of metastatic infections. However, several studies support
+the use of guidewire exchange in patients whose symptoms 
+resolve within 2–3 days of initiating intravenous antibiot -
+ics, reporting a 70%–80% catheter salvage and cure. Thus,
+removing the infected catheter (and with it presumably the 
+biofilm harboring the bacteria) and replacing it with a new 
+catheter through the same venotomy preserves the venous 
+access site while curing the infection. Guidewire replace -
+ment should be done only if the symptoms that prompted
+initiation of antibiotic treatment have resolved over a pe -
+riod of 2–3 days of initial antibiotic therapy and there is no 
+evidence of metastatic infection.
+a. Catheter infection with  Staphylococcus aureus , Pseudo-
+monas sp., or  Candida sp. When the initial infection
+is with one of these organisms, both the IDSA and ERBP
+recommend removal of the catheter as soon as this is
+known. Exchange of the catheter over a guidewire or at -
+tempts at catheter lock salvage (see what follows) are not 
+recommended with these infecting organisms unless ex-
+tenuating circumstances are present.
+7. Antibiotic locks to treat established catheter infection . Another
+approach to treatment of patients with catheter-related
+bacteremia is to instill a concentrated antibiotic lock into
+the catheter lumen at the end of each dialysis session, as
+an adjunct to systemic antibiotics (Table 9.3). The antibiotic 
+lock is used only for the duration of systemic antibiotics, af-
+ter which a standard heparin or citrate lock is resumed. In
+about two-thirds of cases, the antibiotic lock successfully
+Daugirdas9781451144291-ch009.indd   162 09/10/14   1:08 am
+163Chapter 9 / Venous Catheter Infections and Other Complications
+sterilizes the catheter biofilm, thereby permitting success -
+ful treatment of the bacteremia while salvaging the infected 
+catheter. In the remaining one-third of cases, the patient has 
+persistent fever or positive surveillance cultures, in which 
+case prompt catheter replacement is indicated. The antibi-
+otic lock protocol is most commonly successful in catheter-
+related bacteremia due to Staphylococcus epidermidis (75%) 
+or gram-negative infections (87%), and less often successful 
+in S. aureus infections (40%) (Allon, 2004; Poole, 2004), for 
+which it is not recommended. There is a large amount of 
+leakage from the solution instilled into a catheter lock over 
+24 hours (Sungur, 2007; Schilcher, 2014). For this reason, the 
+concentration of antibiotic in the lock must be substantially 
+higher than the minimal inhibitory concentration of the or-
+ganism being targeted. Usually, the lock solution also con-
+tains either 2,500 or 5,000 IU/mL heparin or is mixed with 
+4% sodium citrate. Some commonly used antibiotic lock 
+concentrations are shown in Table 9.3.
+8. Follow-up blood cultures . Surveillance blood cultures nor -
+mally are obtained after 72 hours of treatment, depend-
+ing on the patient’s clinical course. Also, it is important to 
+obtain follow-up blood cultures 1 week after the planned 
+treatment course has finished to confirm that there has not 
+been a recurrence of infection.
+D. Complications of CRBSI. Delay in therapy or prolonged attempts 
+to salvage an infected cuffed catheter can lead to serious com-
+plications, including endocarditis, osteomyelitis, suppurative 
+thrombophlebitis, and spinal epidural abscess. The last is 
+a rare but serious neurologic complication in hemodialysis 
+Amikacin 25 mg/mL
+Amphotericin B 2.5 mg/mL
+Ampicillin 10 mg/mL
+Cefazolin 5 mg/mL
+Cefazolin 5 mg/mL plus gentamicin 1 mg/mL
+Ceftazidime 5 mg/mL
+Ciprofloxacin 0.2 mg/mL
+Daptomycin 5 mg/mL
+Linezolid 1 mg/mL
+Gentamicin 1 mg/mL
+Gentamicin 1 mg/mL plus vancomycin 2.5 mg/mL
+Vancomycin 2.5–5.0 mg/mL
+b
+Some Antimicrobial Concentrations in Lock Solutionsa
+9.3
+TABLE
+aThese can be mixed with heparin, 2,500 or 5,000 IU/mL, or with 4% citrate.
+bVancomycin at 20 mg/mL showed signs of incompatibility with 4% sodium citrate.
+Mermel LA, et al. Clinical practice guidelines for the diagnosis and management of intravascular 
+catheter-related infection: 2009 update by the Infectious Diseases Society of America. Clin Infect 
+Dis. 2009;49:1–45; Joshi AJ, Hart PD. Antibiotic catheter locks in the treatment of tunneled he-
+modialysis catheter-related blood stream infection. Semin Dial. 2013;26:223–226; Dotson B, et al. 
+Physical compatibility of 4% sodium citrate with selected antimicrobial agents. Am J Health Syst 
+Pharm. 2010;67:1195–1198.
+Daugirdas9781451144291-ch009.indd   163 09/10/14   1:08 am
+Part II / Blood-Based Therapies
+164
+patients. In one series, 50% of cases of spinal epidural abscess 
+were associated with attempted salvage of an infected cuffed 
+venous catheter (Kovalik, 1996). Presenting complaints are fe-
+ver, backache, local spinal tenderness, leg pain and weakness, 
+sphincter dysfunction, paresis, and/or paralysis. For diagno-
+sis, magnetic resonance imaging appears to be less sensitive 
+than computed tomography–myelography. Plain computed 
+tomographic scanning without myelography has low sensi-
+tivity and can give misleading results (e.g., disc protrusion). 
+Early (immediate) decompressive surgery is usually  advised, 
+although rarely patients can be successfully treated with anti-
+biotics only.
+Endocarditis should be suspected in patients in whom fever 
+and bacteremia persist despite appropriate antibiotics and 
+catheter removal. This complication is seen most commonly 
+in the setting of S. aureus bacteremia. Signs include develop -
+ment of symptomatic heart failure and a new heart murmur. 
+A transthoracic or transesophageal echocardiogram confirms 
+the presence of valvular vegetations and insufficiency.
+E. Aspirin. A spirin treatment has been reported to be associated 
+with a reduced incidence of S. aureus–related CRBSI (Sed-
+lacek, 2007). Prior aspirin use also has been associated with 
+reduced symptoms of infection and size of vegetations on car-
+diovascular implantable electronic devices (Habib, 2013). This 
+finding needs to be confirmed, and use of aspirin to limit in-
+fection incidence in tunneled venous catheters is not recom-
+mended by guideline groups at this time.
+ II. POOR CATHETER FLOW (CATHETER DYSFUNCTION) . Ca theter dysfunc-
+tion can be defined as a failure to deliver a blood flow rate of at 
+least 300 mL/min at a prepump pressure that is less negative than 
+−250 mm Hg. Associated problems are inability to aspirate blood 
+freely from the catheter lumens, and frequent pressure alarms 
+not responsive to patient repositioning or catheter flushing.
+A. Initial (early) dysfunction. Re cently placed catheters can have poor 
+flow due to a kink, compression within the catheter tunnel from 
+edema, malposition with the catheter having been inserted into 
+the azygous or hemiazygous veins, or improper tip placement 
+(Figure 9.3). A chest x-ray is valuable in evaluation. Tunnel 
+edema usually subsides within 24 hours. Presence of a kink or 
+a malpositioned tip requires replacement of the catheter using 
+a different tunnel or a different length of the catheter. It is also 
+important to have an insertion site in the lower part of the neck 
+close to the clavicle; a high insertion site in the neck can cause 
+the catheter to become “positional, ” with blood flow changing 
+with the position of the neck. Eventually, the catheter tips move 
+up with neck movement, leading to poor blood flow. An exit site 
+close to the breast tissue can also pull the tip of the catheter 
+high into the superior  vena cava. Exposed cuff or tunnel due  
+to traction on the line or erosion of tissue increases risk of 
+ malfunction and infection. These catheters require exchange.  
+Daugirdas9781451144291-ch009.indd   164 09/10/14   1:08 am
+165Chapter 9 / Venous Catheter Infections and Other Complications
+If the tunnel is eroded or infected, a new tunnel or new place-
+ment site is required. Left internal jugular catheters have a 
+higher incidence of dysfunction than those inserted on the right 
+side (Engstrom, 2013) for reasons not entirely clear but prob-
+ably related to the twisty course required to reach the opening 
+to the right atrium.
+1. Alteplase protocols. Sometimes, early dysfunction can be due 
+to intracatheter thrombosis. A short (1 hour) or prolonged 
+(overnight) instillation of tissue plasminogen activator 
+(tPA) is usually effective in treating luminal thrombosis in 
+the short term, although long-term catheter survival is not 
+very good . Several tPA protocols have been described (Sa-
+vader, 2001; Clase, 2001) (Table 9.4). Short protocols do not 
+necessarily perform better than dwell protocols (Vercaigne, 
+2012). For a detailed description of various alteplase proto-
+cols, see BC Renal Agency (2011).
+B. Late dysfunction . Late dysfunction is due usually to formation 
+of a fibrin sleeve (Figure 9.4) or a mural thrombus. Almost all 
+catheters inserted into a central vein develop a fibrin sleeve 
+within a week or two of insertion. Such fibrin sleeves are ini-
+tially clinically silent until they obstruct the ports at the distal 
+end of the catheter. Generally, saline infuses into a port, but 
+aspiration is difficult, producing a so-called “ball-valve” effect. 
+FIGURE 9.3 Kink: Left internal jugular venous catheter with a kink.
+Daugirdas9781451144291-ch009.indd   165 09/10/14   1:08 am
+Part II / Blood-Based Therapies
+166
+Fibrin sleeves may serve as a nidus for infection. The use of 
+warfarin or other anticoagulants on a chronic basis has not 
+been shown to reduce  fibrin sleeve or catheter thrombus for -
+mation (Mokrzycki, 2001).
+1. T reatment of fibrin sheath . T he presence of a fibrin sheath is 
+usually determined at the time of catheter exchange using 
+radiocontrast material administered through the venous 
+port of the old catheter (Figure 9.4). The condition is usu-
+ally treated with an angioplasty balloon catheter inserted 
+on a guidewire through the catheter tunnel. The balloon 
+catheter is passed into the lumen of the fibrin sheath and 
+is then  inflated to disrupt the fibroepithelial sheath. An 
+8-mm diameter balloon usually is sufficient to accomplish 
+this task. Disruption of the sheath is then confirmed by a 
+repeat radiocontrast injection after the new catheter has 
+been inserted. The balloon angioplasty technique results 
+in restoration of catheter blood flow rates sufficient for 
+ dialysis in the great majority of patients (Rasmussen, 2010; 
+Shanaah, 2013).
+C. Recurrent catheter dysfunction. A  substantial minority of patients 
+with dysfunctional catheters treated by catheter replacement 
+Catheter Lock and Aspirate Technique
+Alteplase (1 mg/mL): Infuse 2 mg or volume of catheter into each catheter lumen 
+as needed. For catheter lumen volumes >2 mL, after 2 mL of tPA is injected, inject 
+sufficient normal saline to fill the catheter. For example, a 40-cm catheter with 2.6 
+mL volume per lumen: alteplase 2 mL injected (1 mg/mL), then 0.6 mL normal saline.
+After initial administration, let the thrombolytic dwell for 30 min and then 
+aspirate. If there is no blood return, let the thrombolytic dwell for another 30 min. If 
+there is still no blood return, repeat the dose and aspirate again at 30 and 60 min.
+If a catheter is “occluded” and the thrombolytic cannot be injected, connect 
+a three-way stopcock to the occluded catheter hub, and with a 20-mL nonfilled 
+syringe aspirate on the catheter. The remaining port of the three-way stopcock 
+should have the volume of thrombolytic in a syringe. With negative pressure on the 
+catheter, turn the stopcock so it is now open to the catheter and the thrombolytic. 
+The negative pressure will be transferred to the thrombolytic syringe, aspirating its 
+contents into the catheter.
+Infusion Technique
+When the dwell technique is unsuccessful, attempt a short-term infusion.
+Begin by loading the catheter with tPA 2 mL per lumen. The concentration of 
+tPA is 1 mg/mL. Once loaded, an infusion of tPA, 1 mg per lumen per hour, is run 
+for 2–4 hr and then rechecked.
+The amount of thrombolytic utilized with infusion is probably not of 
+sufficient amount to cause bleeding complications, but absolute and relative 
+contraindications should be considered, and then risk versus benefit.
+Locking catheters as well as biweekly or monthly instillations of thrombolytics 
+have reportedly reduced catheter occlusions.
+Dosing of Tissue Plasminogen Activator (tPA) for Occluded 
+Catheters9.4
+TABLE
+For additional thrombolytic protocols, see Lok (2006) and BC Renal Agency (2011).
+Adapted with permission from www.venousaccess.com.
+Daugirdas9781451144291-ch009.indd   166 09/10/14   1:08 am
+167Chapter 9 / Venous Catheter Infections and Other Complications
+FIGURE 9.4 Fibrin sheath: left internal jugular venous catheter with fibrin sheath 
+that extends beyond the catheter tip that has been retracted.
+Daugirdas9781451144291-ch009.indd   167 09/10/14   1:08 am
+Part II / Blood-Based Therapies
+168
+and balloon angioplasty will develop recurrent catheter dys -
+function. Such patients will require multiple catheter replace-
+ments (Rasmussen, 2010). There is no ideal solution for such 
+patients. Use of anticoagulants has not been shown to help, 
+and the best resolution is conversion to an AV access where 
+possible.
+III. THROMBOSIS
+A. Intraluminal thrombosis . Catheter thrombosis is commonly
+treated by instillation of tPA for 1 hour or longer. Some com-
+monly used protocols are given in Table 9.4. Mechanical 
+brushing of thrombus has been suggested, but is unpopular. 
+Prophylactic oral anticoagulation with warfarin does not im-
+prove catheter patency unless therapeutic levels of anticoagu-
+lation with high INR are achieved, and this can be associated 
+with bleeding complications. Moreover, the fear of calciphy -
+laxis and skin necrosis with warfarin therapy tends to limit its 
+use in dialysis patients.
+B. Central vein or intracardiac thrombosis  can occur  in association 
+with large, indwelling catheters, and these can rarely result in 
+embolic complications. Intra-atrial thrombi need prolonged 
+systemic anticoagulation ( for 6 months or longer) and follow-
+up for resolution.
+C. Embolic complications . Large clots adherent to the end of the 
+catheter or to the vessel wall can be clinically silent or can give 
+rise to embolic events. Large mural thrombi can progress to 
+stenosis and central vein thrombosis. Treatment options for 
+a ball thrombus or a catheter-associated right atrial throm-
+bus include simple catheter removal, systemic or catheter-
+assisted fibrinolytic therapy, and, rarely, thoracotomy with 
+thrombectomy.
+I V. CENTRAL VENOUS STENOSIS
+A. Causes. Central venous stenosis arises from endothelial in -
+jury at the sites of catheter–endothelial contact through the 
+release of a variety of growth factors. The incidence increases 
+with the use of stiff, nonsilicone catheters; with the use of the 
+subclavian approach (presumably because of higher angular 
+stresses on the catheter in the subclavian position); and in 
+patients with previous catheter-related infections. Risk fac-
+tors include a history of multiple catheter insertion (including 
+small and large venous catheters as well as peripherally in-
+serted central catheters, so-called PICC lines) and prolonged 
+duration of such catheters. Collateral vessels usually develop 
+but may not be adequate to relieve extremity edema.
+B. Presentation and diagnosis . Stenosis or occlusion of the sub-
+clavian vein, brachiocephalic vein, or superior vena cava 
+usually presents with venous hypertension (swelling of the 
+breast, shoulder, neck, and face) or vascular access dysfunc-
+tion (high venous pressure on dialysis, inadequate dialysis and 
+prolonged bleeding). A stenosis may be asymptomatic and 
+Daugirdas9781451144291-ch009.indd   168 09/10/14   1:08 am
+169Chapter 9 / Venous Catheter Infections and Other Complications
+clinically silent until unmasked by the creation of an AV fistula. 
+Thrombosis of the AV access may result. Occlusion of multiple 
+central veins in the chest can result in the  development of su-
+perior vena cava syndrome. Careful history and examination 
+will often reveal multiple central venous catheter scars in such 
+patients. There may be presence of a cardiac rhythm device. 
+Multiple collateral blood vessels are visible on examination.
+C. T reatment . L igation of the vascular access produces the most 
+rapid improvement but sacrifices the access. Initial antico -
+agulation (with heparin followed by warfarin) and elevation of 
+the upper extremity on the involved side may ameliorate the 
+symptoms and signs if thrombosis is present. More definitive 
+therapy usually is required: Balloon angioplasty has been used 
+for stenosis, but the lesion tends to recur. Stent placement 
+combined with angioplasty (Figure 9.5) is indicated in elastic 
+(easily distensible) central vein lesions or if a dilated stenosis 
+recurs within a 3-month period. However, stent placement 
+rarely solves the problem long term, because stenosis can re-
+occur around the stent. Stenosis in the subclavian vein some-
+times can be relieved by an axillary vein to internal jugular 
+vein bypass.
+FIGURE 9.5 Central vein stent: left brachiocephalic vein occlusion after angioplasty and 
+stent placement.
+Daugirdas9781451144291-ch009.indd   169 09/10/14   1:08 am
+Part II / Blood-Based Therapies
+170
+ V. CATHETER ADHESION. Over the long term, indwelling catheters can 
+develop adhesions to venous or atrial endothelium. Adherence 
+should be suspected when an attempt to remove the catheter in-
+duces severe pain or requires significant traction. The heart or 
+mediastinum may be pulled to one side when visualized under 
+fluoroscopy. Removal of adhered catheters is a challenge and can 
+require invasive techniques, including laser dissection or open 
+surgical removal. Some novel closed maneuvers have been re-
+ported to be successful (Hong, 2011).
+VI. PORT CLAMP FRACTURE. It is not uncommon to see a fractured port 
+or clamp on a tunneled dialysis catheter. This can lead to suction 
+of air or inability to double lock the port after dialysis, with an
+increased risk of bleeding (Amin, 2011). Often, one can replace
+one or both ports or clamps using replacement kits for specific
+catheters without having to change the entire catheter. If there
+has been port fracture with air suction, there is a higher risk of in-
+fection, and at the time of repair, prophylactic antibiotics should 
+be given after drawing blood cultures.
+References and Suggested Readings
+Abad CL, Pulia MS, Safdar N. Does the nose know? An update on MRSA decoloniza-
+tion strategies. Curr Infect Dis Rep. 2013;15:455–464.
+Allon M. Dialysis catheter-related bacteremia: Treatment and prophylaxis. Am J Kidney 
+Dis. 2004;44:779–791.
+Amin P , et al. Broken clamp on a cuffed tunneled catheter—are all catheters equal? 
+Semin Dial. 2011;24:104–106.
+Asif A, et al. Transvenous cardiac implantable electronic devices and hemodialysis 
+catheters: recommendations to curtail a potentially lethal combination. Semin 
+Dial. 2012;25:582–586.
+BC Renal Agency. Alteplase use for occluded hemodialysis catheters. Vascular Ac-
+cess Guideline. Approved July 24, 2006; Updated March 4, 2011. http://www  
+.bcrenalagency.ca/sites/default/files/documents/files/Use-of-Alteplase-FINAL-
+March-4-2011.pdf. Accessed May 26, 2014.
+Clase CM, et al. Thrombolysis for restoration of patency to haemodialysis central 
+ venous catheters: a systematic review. J Thromb Thrombolysis. 2001;11:127–36.
+Dotson B, et al. Physical compatibility of 4% sodium citrate with selected antimicrobial 
+agents. Am J Health Syst Pharm. 2010;67:1195–1198.
+Engstrom BI, et al. Tunneled internal jugular hemodialysis catheters: impact of lat -
+erality and tip position on catheter dysfunction and infection rates. J Vasc Interv 
+Radiol. 2013;24:1295–1302.
+Habib A, et al; for the Mayo Cardiovascular Infections Study Group. Impact of prior 
+aspirin therapy on clinical manifestations of cardiovascular implantable electronic 
+device infections. Europace. 2013;15:227–235.
+Hickson LJ, et al. Clinical presentation and outcomes of cardiovascular implantable elec-
+tronic device infections in hemodialysis patients. Am J Kidney Dis. 2014;64:104–110.
+Hong JH. A breakthrough technique for the removal of a hemodialysis catheter stuck 
+in the central vein: endoluminal balloon dilatation of the stuck catheter. J Vasc 
+Access. 2011;12:381–384.
+Hwang HS, et al. Comparison of the palindrome vs. step-tip tunneled hemodialysis 
+catheter: a prospective randomized trial. Semin Dial. 2012;25:587–591.
+Joshi AJ, Hart PD. Antibiotic catheter locks in the treatment of tunneled hemodialysis 
+catheter-related blood stream infection. Semin Dial. 2013;26:223–226.
+Kovalik EC, et al. A clustering of epidural abscesses in chronic hemodialysis 
+ patients: 
+risks of salvaging access catheters in cases of infection. J Am Soc Nephrol. 
+1996;7:2264–2267.
+Daugirdas9781451144291-ch009.indd   170 09/10/14   1:08 am
+171Chapter 9 / Venous Catheter Infections and Other Complications
+Lok CE, et al. Trisodium citrate 4% - an alternative to heparin capping of haemodialysis 
+catheters. Nephrol Dial Transplant. 2007;22:477–483.
+Mandolfo S, et al. Hemodialysis tunneled central venous catheters: five-year outcome 
+analysis. J Vasc Access. 2014 Apr 25. doi:10.5301/jva.5000236.
+Maya ID, et al. Does the heparin lock concentration affect hemodialysis catheter 
+ patency? Clin J Am Soc Nephrol. 2010;5:1458–1462.
+Mermel LA, et al. Clinical practice guidelines for the diagnosis and management of 
+intravascular catheter-related infection: 2009 update by the Infectious Diseases 
+Society of America. Clin Infect Dis. 2009;49:1–45.
+Mokrzycki MH, et al. A randomized trial of minidose warfarin for the prevention of  
+late malfunction in tunneled, cuffed hemodialysis  catheters. Kidney Int. 2001;  
+59:1935–1942.
+Poole CV , et al. Treatment of catheter-related bacteremia with an antibiotic lock 
+ protocol: effect of bacterial pathogen. Nephrol Dial Transplant. 2004;19:1237–1244.
+Quaretti P , et al. A refinement of Hong’s technique for the removal of stuck dialysis 
+catheters: an easy solution to a complex problem. J Vasc Access. 2014;15:183–188.
+Rasmussen RL. The catheter-challenged patient and the need to recognize the recur -
+rently dysfunctional tunneled dialysis catheter. Semin Dial. 2010;23:648–652.
+Sabry AA, et al. The level of C-reactive protein in chronic hemodialysis patients: a 
+comparative study between patients with noninfected catheters and arteriove -
+nous fistula in two large Gulf hemodialysis centers. Hemodial Int. 2014 ;18:674–679.
+Savader SJ, et al.  Treatment of hemodialysis catheter-associated fibrin sheaths by rt-PA 
+infusion: critical analysis of 124 procedures. J Vasc Interv Radiol. 2001;12:711–5.
+Schiller B, et al. Spurious hyperphosphatemia in patients on hemodialysis with cath-
+eters. Am J Kidney Dis. 2008;52:617–620.
+Schilcher G, et al. Loss of antimicrobial effect of trisodium citrate due to ‘lock’ spillage 
+from haemodialysis catheters. Nephrol Dial Transplant. 2014;29:914–919.
+Sedlacek M, et al.  Aspirin treatment is associated with a significantly decreased risk of 
+Staphylococcus aureus bacteremia in hemodialysis patients with tunneled cath-
+eters. Am J Kidney Dis. 2007;49:401–8.
+Shanaah A, Brier M, Dwyer A. Fibrin sheath and its relation to subsequent events after 
+tunneled dialysis catheter exchange. Semin Dial. 2013;26:733–737.
+Sungur M, et al. Exit of catheter lock solutions from double lumen acute haemodialysis 
+catheters—an in vitro study. Nephrol Dial Transplant. 2007;22:3533–3537.
+Tordoir J, et al. EBPG on Vascular Access. Nephrol Dial Transplant. 2007;22 Suppl 2:  
+ii88–117.
+Vanholder R, et al. Catheter-related blood stream infections (CRBSI): a European view. 
+Nephrol Dial Transplant. 2010;25:1753–1756.
+Vercaigne LM, et al. Alteplase for blood flow restoration in hemodialysis catheters: a 
+multicenter, randomized, prospective study comparing “dwell” versus “push” ad-
+ministration. Clin Nephrol. 2012;78:287–296.
+Wang AY, et al. Anticoagulant therapies for the prevention of intravascular cath-
+eters malfunction in patients undergoing haemodialysis: systematic review and 
+meta-analysis of randomized, controlled trials. Nephrol Dial Transplant. 2013;28:  
+2875–2888.
+Yaseen O, et al. Comparison of alteplase (tissue plasminogen activator) high-dose vs. 
+low-dose protocol in restoring hemodialysis catheter function: the ALTE-DOSE 
+study. Hemodial Int. 2013;17:434–440.
+Daugirdas9781451144291-ch009.indd   171 09/10/14   1:08 am

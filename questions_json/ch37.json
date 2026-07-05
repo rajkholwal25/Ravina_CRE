@@ -1,0 +1,665 @@
+{
+  "chapter": 37,
+  "questions": [
+    {
+      "topic": "Acute dialysis indications",
+      "question": "In the setting of critical illness, what degree of fluid overload may be an independent indication for acute renal replacement therapy in a child?",
+      "options": {
+        "A": "Greater than 20% of body weight",
+        "B": "Greater than 5% of body weight",
+        "C": "Greater than 10% of body weight",
+        "D": "Greater than 30% of body weight"
+      },
+      "correct": "A",
+      "explanation": "The correct answer is greater than 20% of body weight: the chapter lists fluid overload exceeding 20% of body weight in the setting of critical illness as an independent indication for acute renal replacement therapy, on top of the usual indications like oliguric renal failure and refractory volume overload. The other thresholds (5%, 10%, 30%) are distractors not cited as the independent trigger; 5% is instead the level of intradialytic fluid removal linked to hypotension. Clinically, this reflects that accumulated fluid itself, not just uremia, drives mortality in critically ill children, so quantifying percent overload guides timing of dialysis."
+    },
+    {
+      "topic": "BUN thresholds by age",
+      "question": "Which BUN level is described as potentially dangerous and possibly warranting dialysis in an infant?",
+      "options": {
+        "A": "150 mg/dL",
+        "B": "35-50 mg/dL",
+        "C": "75-100 mg/dL",
+        "D": "120-140 mg/dL"
+      },
+      "correct": "B",
+      "explanation": "A BUN of 35-50 mg/dL (12-18 mmol/L) is potentially dangerous in an infant, which is why B is correct. The chapter contrasts this with an adolescent, where a BUN as high as 150 mg/dL (54 mmol/L) may be needed before dialysis is warranted. Thus 150 mg/dL (option A) applies to older children, not infants, and the intermediate values (75-100, 120-140) are not the stated infant threshold. The key teaching point is that the BUN level prompting concern varies with age: small children tolerate far less azotemia, so the same absolute number carries very different risk across the pediatric weight range."
+    },
+    {
+      "topic": "Acute PD advantages",
+      "question": "Which of the following is a stated advantage of acute peritoneal dialysis in infants and young children?",
+      "options": {
+        "A": "It rapidly corrects severe hyperammonemia",
+        "B": "It provides predictable, rapid ultrafiltration in heart failure",
+        "C": "It requires sophisticated equipment",
+        "D": "It avoids the need for vascular access, blood priming, and anticoagulation"
+      },
+      "correct": "D",
+      "explanation": "Acute PD's stated advantage is that it avoids the need for vascular access, blood priming, and anticoagulation (D), and does not require sophisticated equipment or technical expertise, with hemodynamic instability being uncommon. It does NOT rapidly correct severe hyperammonemia (A) or provide predictable rapid ultrafiltration in heart failure (B); the chapter specifically says severe hyperammonemia, hyperphosphatemia or hyperkalemia often need faster correction by hemodialysis, and that PD ultrafiltration is often unpredictable. C is the opposite of a benefit. These features make PD attractive in small infants where access and hemodynamic stability are problematic."
+    },
+    {
+      "topic": "Acute PD after cardiac surgery",
+      "question": "Acute peritoneal dialysis is frequently used as adjunctive therapy to manage fluid overload in infants after which procedure?",
+      "options": {
+        "A": "Cardiac surgery with cardiopulmonary bypass",
+        "B": "Liver transplantation",
+        "C": "Bone marrow transplantation",
+        "D": "Repair of gastroschisis"
+      },
+      "correct": "A",
+      "explanation": "Continuous PD is frequently used as adjunctive therapy to manage fluid overload in infants after cardiac surgery with cardiopulmonary bypass, making A correct. The chapter names this specific setting; liver transplant, bone marrow transplant, and gastroschisis repair are not cited (and gastroschisis is actually a contraindication to PD because it is an intra-abdominal process). The rationale is that post-bypass infants develop fluid overload and low cardiac output, and continuous PD provides gentle, efficient clearance and volume control without needing vascular access or anticoagulation in these fragile patients."
+    },
+    {
+      "topic": "Dialy-Nate set",
+      "question": "The Dialy-Nate set is a useful alternative for acute PD when a cycler is unavailable or when what fill volume is desired?",
+      "options": {
+        "A": "Fill volumes < 500 mL",
+        "B": "Fill volumes > 1,000 mL",
+        "C": "Fill volumes < 150 mL",
+        "D": "Fill volumes of 30-50 mL/kg"
+      },
+      "correct": "C",
+      "explanation": "The Dialy-Nate set is the safe alternative when a cycler is unavailable or when fill volumes < 150 mL are desirable (C). It connects a dialysate bag to a closed circuit with a buretrol (in-line graduated cylinder) and a drainage/measurement line, allowing closed-circuit, low-volume, manual continuous PD in infants and very small children. Options A, B, and D name incorrect volumes; the defining feature is the very small sub-150 mL fill, not larger volumes or a per-kg dose. The closed system avoids repeatedly opening the catheter, reducing peritonitis risk during acute PD."
+    },
+    {
+      "topic": "Acute PD exchange volumes",
+      "question": "In acute PD, exchange volumes may be targeted at what range in infants?",
+      "options": {
+        "A": "10-20 mL/kg",
+        "B": "60-80 mL/kg",
+        "C": "100-120 mL/kg",
+        "D": "30-50 mL/kg"
+      },
+      "correct": "D",
+      "explanation": "Exchange volumes in acute PD may be targeted at 30-50 mL/kg in infants (D) and up to 1,100 mL/m2 in older children. Immediately after catheter placement it is prudent to limit to half or less of this to avoid leakage, which predisposes to peritonitis. The other ranges (10-20, 60-80, 100-120 mL/kg) are not the stated infant target. Note that hourly exchanges at these volumes may cause obligate ultrafiltration even with 1.5% dextrose, so enteral or parenteral fluid may be needed to prevent volume depletion and prolongation of acute renal failure."
+    },
+    {
+      "topic": "Acute hemodialysis indications",
+      "question": "Acute hemodialysis is preferred over PD when there is an intra-abdominal process. Which of the following is listed as such a contraindication to PD?",
+      "options": {
+        "A": "Gastroschisis",
+        "B": "Ventriculoperitoneal shunt",
+        "C": "Ureterostomy",
+        "D": "Myelomeningocele"
+      },
+      "correct": "A",
+      "explanation": "Gastroschisis is the listed intra-abdominal contraindication to PD (A), favoring acute hemodialysis. The chapter states PD is contraindicated by intra-abdominal processes including recent abdominal surgery, diaphragmatic hernia, omphalocele, or gastroschisis, or by respiratory limitation. A ventriculoperitoneal shunt (B) is only a former relative contraindication that data show can be managed; ureterostomy (C) increases infection risk but is not absolute; myelomeningocele (D) relates instead to preferring a thigh graft for HD access. So hemodialysis is chosen when the abdomen cannot be safely used or when rapid solute clearance is paramount."
+    },
+    {
+      "topic": "Acute HD seizure risk",
+      "question": "In acute hemodialysis of small children, overly rapid osmolar shifts could precipitate which complication reportedly more common than in adults?",
+      "options": {
+        "A": "Peritonitis",
+        "B": "Seizures",
+        "C": "Hyperkalemia",
+        "D": "Metabolic alkalosis"
+      },
+      "correct": "B",
+      "explanation": "Overly rapid osmolar shifts in acute hemodialysis of small children could precipitate seizures (B), which are reportedly more common in children than in adults. Small patient size allows efficient, rapid solute clearance (helpful for ammonia) but must be approached cautiously for this reason. Peritonitis (A) is a PD complication, hyperkalemia (C) and metabolic alkalosis (D) are not the osmolar-shift risk described. This is the pediatric manifestation of the disequilibrium syndrome, which is why initial urea clearance is limited to about 3 mL/min per kg and early treatments are kept short."
+    },
+    {
+      "topic": "CRRT phosphorus clearance",
+      "question": "Continuous therapies are frequently employed in tumor lysis syndrome in children partly because they permit better clearance of which substance than intermittent HD or PD?",
+      "options": {
+        "A": "Potassium",
+        "B": "Ammonia",
+        "C": "Phosphorus",
+        "D": "Urea"
+      },
+      "correct": "C",
+      "explanation": "Continuous therapies permit better phosphorus clearance than intermittent hemodialysis or PD (C), which is why they are frequently employed in tumor lysis syndrome in children with Burkitt lymphoma or acute lymphoblastic leukemia. Potassium (A), ammonia (B), and urea (D) are cleared, but the specific advantage the chapter cites for tumor lysis is continuous, sustained phosphorus removal to prevent rebound hyperphosphatemia. Because CRRT runs continuously, it matches the ongoing release of intracellular phosphate, uric acid, and potassium from lysing tumor cells better than short intermittent sessions."
+    },
+    {
+      "topic": "CRRT and fluid overload",
+      "question": "In children with acute kidney injury receiving CRRT, fluid overload is recognized as what?",
+      "options": {
+        "A": "A benign finding requiring no intervention",
+        "B": "A protective factor against seizures",
+        "C": "An indication to switch to PD",
+        "D": "An independent risk factor for mortality"
+      },
+      "correct": "D",
+      "explanation": "Fluid overload is recognized as an independent risk factor for mortality in children with AKI receiving CRRT (D), so ultrafiltration is adjusted to address it. It is therefore neither benign (A) nor protective (B), and it does not mandate switching to PD (C). This insight comes from prospective registry data on pediatric CRRT. The clinical implication is proactive fluid management: rather than tolerating accumulated fluid, clinicians deliberately titrate ultrafiltration on continuous therapy because the degree of fluid overload correlates directly with worse outcomes in critically ill children."
+    },
+    {
+      "topic": "CRRT modality preference",
+      "question": "Compared with older CAVH reports, most centers have found which CRRT approach to maintain circuit patency longer and perform more reliably?",
+      "options": {
+        "A": "Pump-driven venovenous treatments",
+        "B": "Arteriovenous hemofiltration",
+        "C": "Gravity-driven exchanges",
+        "D": "Manual continuous PD"
+      },
+      "correct": "A",
+      "explanation": "Most centers have found pump-driven venovenous treatments to perform more reliably and to maintain circuit patency longer than the older arteriovenous hemofiltration (CAVH) reports, so A is correct. Arteriovenous hemofiltration (B) is the older, less reliable approach being contrasted; gravity-driven exchanges (C) and manual continuous PD (D) are not the CRRT comparison here. The advantage of pump-driven venovenous circuits is controlled blood flow independent of the child's blood pressure, which is critical because maintaining adequate flow in small vessels is often the limiting factor in pediatric CRRT."
+    },
+    {
+      "topic": "CRRT circuit priming threshold",
+      "question": "In CRRT, a blood or albumin prime should be used if the circuit volume exceeds what fraction of the patient's estimated blood volume?",
+      "options": {
+        "A": "5%",
+        "B": "20%",
+        "C": "10%",
+        "D": "30%"
+      },
+      "correct": "C",
+      "explanation": "A blood or albumin prime is used when the circuit volume exceeds 10% of the patient's estimated blood volume (C). Below that fraction the extracorporeal volume is tolerated without priming; 5%, 20%, and 30% are distractors. The same 10% rule (equivalently >8 mL/kg) applies to chronic hemodialysis blood lines. This matters because in a very small child the fixed circuit volume can represent a large share of total blood volume, and connecting to a clear (crystalloid) prime would cause acute hypovolemia and hemodynamic instability, hence the warmed blood or albumin prime."
+    },
+    {
+      "topic": "Zero balance ultrafiltration",
+      "question": "Zero balance ultrafiltration has been proposed in blood-primed CRRT circuits for what purpose?",
+      "options": {
+        "A": "To increase phosphorus clearance",
+        "B": "To warm the blood circuit",
+        "C": "To prevent citrate accumulation",
+        "D": "To bring blood prime electrolytes close to physiologic values and avoid instability at initiation"
+      },
+      "correct": "D",
+      "explanation": "Zero balance ultrafiltration is proposed to bring the electrolyte concentrations in the blood prime close to physiologic values, which might avoid instability at initiation (D). Blood-prime electrolyte concentrations and pH are far from normal, and many infants experience hemodynamic instability when connected. It is not aimed at phosphorus clearance (A), warming the circuit (B), or preventing citrate accumulation (C). By ultrafiltering the prime and replacing with balanced solution before connecting the patient, the prime is normalized so the infant is not suddenly exposed to abnormal potassium, calcium, and acid-base values at the start of therapy."
+    },
+    {
+      "topic": "SCUF ultrafiltration rates",
+      "question": "Ultrafiltration rates during slow continuous ultrafiltration (SCUF) without replacement fluid in infants and small children may be as low as what?",
+      "options": {
+        "A": "5-30 mL/hr",
+        "B": "100-600 mL/hr",
+        "C": "50-150 mL/min",
+        "D": "200-350 mL/min"
+      },
+      "correct": "A",
+      "explanation": "SCUF (slow continuous ultrafiltration) without replacement fluid uses rates as low as 5-30 mL/hr in infants and small children (A), whereas rates as high as 100-600 mL/hr are used with replacement fluid (C-HF). The other options give much larger volumes or blood-flow-range numbers, not ultrafiltration rates. The teaching point is scale: ultrafiltration must be titrated in tiny increments in small children, and larger children can tolerate rates approaching those of adults. Precise volumetric or weight-based control is essential because compounded errors over days could be dramatic in a small anuric patient."
+    },
+    {
+      "topic": "CRRT citrate anticoagulation",
+      "question": "Because citrate infusion rate is scaled to circuit blood flow (relatively large in small children), prolonged citrate use may result in what?",
+      "options": {
+        "A": "Metabolic acidosis",
+        "B": "Hyperkalemia",
+        "C": "Citrate lock with persistently low ionized calcium",
+        "D": "Hypernatremia"
+      },
+      "correct": "C",
+      "explanation": "Prolonged citrate anticoagulation may result in citrate lock, that is persistently low ionized calcium despite calcium infusion (C). Because the citrate infusion rate is scaled to circuit blood flow, which is relatively large in small children, citrate can accumulate after prolonged therapy. Metabolic acidosis (A) is not the cited result; in fact the fixed-bicarbonate replacement plus citrate combination tends toward metabolic ALKALOSIS after several days. Hyperkalemia (B) and hypernatremia (D) are not described. Monitoring ionized calcium and acid-base status is essential during prolonged pediatric citrate CRRT."
+    },
+    {
+      "topic": "CRRT anticoagulation in small infants",
+      "question": "In reported series, infants under what weight are more often anticoagulated with heparin rather than citrate during CRRT?",
+      "options": {
+        "A": "< 3 kg",
+        "B": "< 10 kg",
+        "C": "< 15 kg",
+        "D": "< 5 kg"
+      },
+      "correct": "D",
+      "explanation": "In reported series, infants under 5 kg are more often anticoagulated with heparin rather than citrate during CRRT (D). Heparin doses in infants are actually larger than those reported for adults, and activated clotting times (ACTs) are recommended for monitoring. The 3, 10, and 15 kg thresholds are distractors. This preference reflects the citrate accumulation risk (citrate lock) when the citrate rate scales to the relatively large circuit blood flow in the smallest patients; note also that circuit life is significantly shorter when pediatric patients are run without any anticoagulation."
+    },
+    {
+      "topic": "Pediatric CRRT catheters",
+      "question": "For a neonate requiring extracorporeal renal replacement therapy, which catheter/access is listed as appropriate?",
+      "options": {
+        "A": "9.0 F dual lumen in internal jugular",
+        "B": "5.0 F umbilical vein catheter (UVC)",
+        "C": "11.5 F dual lumen in subclavian",
+        "D": "14 F precurved internal jugular catheter"
+      },
+      "correct": "B",
+      "explanation": "For a neonate, a 5.0 F umbilical vein catheter (UVC) placed at the umbilicus is an appropriate access (B), per the pediatric catheter table. The larger dual-lumen options (9.0 F, 11.5 F, 14 F precurved) are sized for older, heavier children (16-30 kg or >30 kg), not neonates. In neonates a catheter can be advanced into the vena cava through a still-patent umbilical vessel and left for several weeks. Single-lumen catheters are often more appropriate than dual-lumen ones in the smallest infants because vessel size limits the catheter diameter that can be placed."
+    },
+    {
+      "topic": "Chronic dialysis subtle indications",
+      "question": "Which of the following is described as a subtle indication of uremia signaling the appropriate time to begin chronic dialysis in a child?",
+      "options": {
+        "A": "Isolated hypertension",
+        "B": "Elevated alkaline phosphatase",
+        "C": "Resumption of napping and diminished energy",
+        "D": "Metabolic alkalosis"
+      },
+      "correct": "C",
+      "explanation": "Subtle indications of uremia include resumption of napping and diminished energy such as less vigorous play (C), along with anorexia with absence of expected weight gain and inattentiveness at school or failure to attain developmental milestones. Because anemia, acidosis, hyperparathyroidism, and growth delay are now managed medically, nephrologists must watch for these soft signs to time chronic dialysis. Isolated hypertension (A), elevated alkaline phosphatase (B), and metabolic alkalosis (D) are not the listed subtle uremic cues; there is no consensus GFR threshold, so clinical judgment based on these signs guides initiation."
+    },
+    {
+      "topic": "PET in young children",
+      "question": "Very young children tend to fall into which PET transport category, an effect corrected by testing at fill volumes of 1,000-1,100 mL/m2?",
+      "options": {
+        "A": "Low transport",
+        "B": "Low-average transport",
+        "C": "Nontransport",
+        "D": "High or high-average transport"
+      },
+      "correct": "D",
+      "explanation": "Very young children tend to fall in the high or high-average transport category on PET (D), an effect that is largely a consequence of their large peritoneal surface area relative to body size rather than a true membrane difference, and it can be corrected by testing at fill volumes of 1,000-1,100 mL/m2. Low, low-average, and nontransport categories are therefore incorrect. Adolescents show PET results more typical of adults. Recognizing this apparent high transport matters because it favors automated short-dwell PD, and standardizing the fill volume to body surface area prevents overestimating true membrane permeability."
+    },
+    {
+      "topic": "PD glucose absorption",
+      "question": "Enhanced glucose absorption in small children on PD tends to limit ultrafiltration during what type of dwell?",
+      "options": {
+        "A": "Long dwells",
+        "B": "Short dwells",
+        "C": "Tidal dwells",
+        "D": "Empty periods"
+      },
+      "correct": "A",
+      "explanation": "Enhanced glucose absorption limits ultrafiltration during long dwells (A). In small children, rapid glucose uptake produces relatively rapid osmotic equilibrium between dialysate and plasma, so the glucose osmotic gradient dissipates and fluid removal falls off over a long dwell. Short dwells (B) instead exploit the gradient before it dissipates, which is why automated short-dwell PD is preferred in young children. Tidal dwells (C) and empty periods (D) are not the answer. This is also why some children become obese from absorbed dialysate glucose and occasionally need higher glucose concentrations or shorter dwells."
+    },
+    {
+      "topic": "PD complications - S. aureus",
+      "question": "Regarding eradication of nasal Staphylococcus aureus carriage, what have studies shown in children?",
+      "options": {
+        "A": "Studies in children have shown no benefit",
+        "B": "It decreases exit site infection and peritonitis, as in adults",
+        "C": "It increases the risk of peritonitis",
+        "D": "It is contraindicated in children"
+      },
+      "correct": "A",
+      "explanation": "Studies in children have shown no benefit from eradicating nasal Staphylococcus aureus carriage (A). While in adults eradication decreases exit site infection and peritonitis, this benefit has not been demonstrated in children, so B (which describes the adult finding) is wrong for the pediatric question. It does not increase peritonitis risk (C) nor is it contraindicated (D). This is clinically important because children already have a higher peritonitis rate than adults, and it cautions against simply extrapolating adult infection-prevention strategies to the pediatric PD population."
+    },
+    {
+      "topic": "PD solution calcium",
+      "question": "Which calcium concentrations are used in lactate-based PD solutions, depending on desired calcium balance and phosphorus binder use?",
+      "options": {
+        "A": "0.5 mM and 1.0 mM",
+        "B": "1.25 mM and 1.75 mM",
+        "C": "2.5 mM and 3.5 mM",
+        "D": "1.5 mM and 4.25 mM"
+      },
+      "correct": "B",
+      "explanation": "Lactate-based PD solutions use calcium concentrations of 1.25 mM and 1.75 mM (B), chosen according to the desired calcium balance and the type and amount of phosphorus binder in use. The other pairs (0.5/1.0, 2.5/3.5, 1.5/4.25 mM) are not the available calcium options; 1.5% and 4.25% are actually dextrose, not calcium, concentrations. The lower 1.25 mM calcium is generally selected when calcium-based binders or vitamin D risk positive calcium balance, whereas 1.75 mM may be used when a higher calcium influx is desired, allowing the prescription to be tailored to bone-mineral management."
+    },
+    {
+      "topic": "PD solution dextrose",
+      "question": "Which standard dextrose concentrations are utilized in PD solutions depending on ultrafiltration needs?",
+      "options": {
+        "A": "1.0%, 2.0%, and 3.0%",
+        "B": "2.5%, 5.0%, and 7.5%",
+        "C": "1.5%, 2.5%, and 4.25%",
+        "D": "0.5%, 1.25%, and 1.75%"
+      },
+      "correct": "C",
+      "explanation": "Standard PD dextrose concentrations are 1.5%, 2.5%, and 4.25% (C), selected according to the need for ultrafiltration, with higher dextrose giving a stronger osmotic gradient and more fluid removal. The other option sets are not the standard concentrations. In small children, enhanced glucose absorption occasionally warrants a higher glucose concentration to maintain ultrafiltration, though short-dwell dialysis is usually preferred instead. Excessive glucose absorption also contributes to obesity and adverse lipid effects, so the lowest effective concentration is generally favored."
+    },
+    {
+      "topic": "Icodextrin in children",
+      "question": "Icodextrin-containing solutions have been used in children for long dwells for what purpose?",
+      "options": {
+        "A": "To increase potassium clearance",
+        "B": "To provide amino acid supplementation",
+        "C": "To warm the dialysate",
+        "D": "To limit peritoneal glucose exposure"
+      },
+      "correct": "D",
+      "explanation": "Icodextrin-containing solutions have been used in children for long dwells to limit peritoneal glucose exposure (D). Icodextrin is a glucose polymer that provides sustained ultrafiltration by colloid osmosis over long dwells without the rapid glucose absorption of dextrose solutions, reducing total glucose load. It is not used to increase potassium clearance (A), for amino-acid supplementation (B, which is a separate amino-acid PD solution), or to warm dialysate (C). Limiting glucose exposure is valuable because absorbed dialysate glucose contributes to obesity, adverse lipids, and increased cardiovascular risk in children on PD."
+    },
+    {
+      "topic": "PD catheter type",
+      "question": "Which PD catheter is most commonly placed in children, and what design features reduce peritonitis rates per NAPRTCS data?",
+      "options": {
+        "A": "Curled Tenckhoff with straight tunnel; double-cuffed with downward-oriented exit site",
+        "B": "Straight Tenckhoff with upward exit; single cuff",
+        "C": "Toronto-Western with lateral exit; no cuff",
+        "D": "Swan-neck with upward exit; single cuff"
+      },
+      "correct": "A",
+      "explanation": "The most commonly placed catheter in children is a curled Tenckhoff with a straight tunnel, and NAPRTCS data suggest double-cuffed catheters with downward-oriented exit sites reduce peritonitis rates (A). Straight Tenckhoff with an upward exit and single cuff (B), Toronto-Western with no cuff (C), and swan-neck with upward exit (D) are not the favored configuration. The downward (caudal) exit site facilitates drainage and minimizes exit-site infection, and the second cuff adds a barrier to bacterial tracking, both important because children have a higher peritonitis rate than adults."
+    },
+    {
+      "topic": "CAPD fill volumes",
+      "question": "Most children can tolerate CAPD fill volumes of approximately what, once the catheter exit site is well healed?",
+      "options": {
+        "A": "10-20 mL/kg or 300-500 mL/m2",
+        "B": "40-50 mL/kg or 800-1,100 mL/m2",
+        "C": "60-70 mL/kg or 1,500 mL/m2",
+        "D": "100 mL/kg or 2,000 mL/m2"
+      },
+      "correct": "B",
+      "explanation": "Most children tolerate CAPD fill volumes of 40-50 mL/kg or 800-1,100 mL/m2 (B) without discomfort or leakage once the exit site is well healed, though assessment of intraperitoneal pressure may be needed. The smaller ranges (10-20 mL/kg) are too low, and 60-70 or 100 mL/kg risk overfilling. Scaling to body surface area (mL/m2) is preferred in children because it better reflects peritoneal surface area than weight alone. Larger fill volumes improve clearance per exchange but must be balanced against comfort, leakage risk in a fresh catheter, and respiratory compromise."
+    },
+    {
+      "topic": "CAPD adequacy target",
+      "question": "What is the NKF KDOQI (2006 update) recommended weekly Kt/V-urea target for adequate CAPD in children?",
+      "options": {
+        "A": "1.2 per week",
+        "B": "2.4 per week",
+        "C": "1.8 per week",
+        "D": "1.4 per week"
+      },
+      "correct": "C",
+      "explanation": "The NKF KDOQI 2006 update recommends a weekly Kt/V-urea of 1.8 for adequate CAPD in children (C). If residual renal function contributes to this clearance it must be measured regularly, and the same 1.8 target applies to CCPD and NIPD. The other values (1.2, 2.4, 1.4) are distractors; 1.2 is the adult minimum single-pool Kt/V for hemodialysis, not the pediatric PD target. Outcome data specifically defining adequate pediatric clearance are not available, so this consensus target guides prescription, with effluent and urine collections used to confirm delivery."
+    },
+    {
+      "topic": "PD residual function assumption",
+      "question": "Patients unable to perform urine collections should be assumed to have what, to avoid inadvertent underdialysis?",
+      "options": {
+        "A": "No residual GFR",
+        "B": "High peritoneal transport",
+        "C": "Full residual GFR",
+        "D": "Adequate clearance"
+      },
+      "correct": "A",
+      "explanation": "Patients unable to perform urine collections should be assumed to have no residual GFR (A), to avoid inadvertent underdialysis. Crediting unmeasured residual function toward the weekly Kt/V-urea target of 1.8 would risk overestimating total clearance and delivering too little dialysis as native kidney function silently declines. Assuming high transport (B), full residual GFR (C), or adequate clearance (D) would all lead to underdosing. This conservative assumption ensures the prescribed peritoneal dose alone meets the target, which is why regular dialysate and urine collections are recommended when collections are feasible."
+    },
+    {
+      "topic": "APD modalities",
+      "question": "Which APD form is performed without a daytime dwell?",
+      "options": {
+        "A": "Continuous cycling peritoneal dialysis (CCPD)",
+        "B": "Nightly intermittent peritoneal dialysis (NIPD)",
+        "C": "Tidal dialysis",
+        "D": "Continuous ambulatory peritoneal dialysis (CAPD)"
+      },
+      "correct": "B",
+      "explanation": "NIPD (nightly intermittent peritoneal dialysis) is performed without a daytime dwell (B), whereas CCPD (A) includes a daytime dwell. Tidal dialysis (C) is a fluid-management variant, and CAPD (D) is continuous manual dialysis, not a cycler modality defined by absence of a day dwell. NIPD may improve nutritional intake and reduce hernia risk by leaving the abdomen empty during the day, but clearance is likely adequate only in patients with high or high-average transport or residual renal function, since the daytime dwell of CCPD is what improves middle-molecule clearance."
+    },
+    {
+      "topic": "APD prescription parameters",
+      "question": "The initial APD prescription, guided by PET transport characteristics, typically ranges from how many exchanges per night?",
+      "options": {
+        "A": "One to two",
+        "B": "Ten to twelve",
+        "C": "Four to eight",
+        "D": "Fifteen to twenty"
+      },
+      "correct": "C",
+      "explanation": "The initial APD prescription, guided by PET transport characteristics, typically ranges from four to eight exchanges per night (C) with dwell times of 45 minutes to 2 hours. One to two exchanges (A) would be inadequate clearance, and ten to twelve or fifteen to twenty (B, D) exceed the usual starting range. High and high-average transporters benefit from more, shorter exchanges to exploit the osmotic gradient before it dissipates, while low-average transporters may need a midday exchange. Dialysate and urine collections then confirm the delivered dose and are repeated whenever the prescription changes."
+    },
+    {
+      "topic": "Tidal dialysis caution",
+      "question": "Why is tidal dialysis considered unwise in infants?",
+      "options": {
+        "A": "It causes hyperammonemia",
+        "B": "It requires vascular access",
+        "C": "It cannot achieve adequate Kt/V",
+        "D": "Risk of overfilling the abdomen with respiratory compromise when the child cannot alert caregivers"
+      },
+      "correct": "D",
+      "explanation": "Tidal dialysis is unwise in infants because of the risk of overfilling the abdomen with respiratory compromise when the child cannot alert caregivers to distress (D). Tidal therapy keeps a reservoir of fluid in the peritoneum between exchanges, and an infant who cannot communicate could develop dangerous abdominal distension and impaired ventilation unnoticed. It does not cause hyperammonemia (A) or require vascular access (B), and inadequate Kt/V (C) is not the stated reason. In older children tidal dialysis can actually help by enhancing clearance and reducing painful complete drains."
+    },
+    {
+      "topic": "Chronic HD candidates",
+      "question": "Which patients are described as appropriate candidates for hemodialysis rather than PD?",
+      "options": {
+        "A": "Large adolescents with low-permeability peritoneal membranes who cannot achieve adequate PD clearance",
+        "B": "Small infants after cardiac surgery",
+        "C": "Children with high-average transport and residual function",
+        "D": "Toddlers with formula intolerance"
+      },
+      "correct": "A",
+      "explanation": "Large adolescents with low-permeability peritoneal membranes who cannot achieve adequate PD clearance without a burdensome schedule are appropriate candidates for hemodialysis (A). Small infants after cardiac surgery (B) are typically managed with PD, children with high-average transport and residual function (C) do well on PD, and toddlers with formula intolerance (D) is a nutritional issue, not a modality indication. The principle is that when the peritoneal membrane cannot deliver adequate solute clearance, or when families cannot provide reliable home care, hemodialysis becomes the appropriate modality despite its access challenges."
+    },
+    {
+      "topic": "HD fistula creation",
+      "question": "In older children, a common arteriovenous fistula for vascular access involves which vessels?",
+      "options": {
+        "A": "Radial artery and cephalic vein in the nondominant arm",
+        "B": "Femoral artery and femoral vein",
+        "C": "Brachial artery and basilic vein in the dominant arm",
+        "D": "Umbilical artery and vein"
+      },
+      "correct": "A",
+      "explanation": "A fistula between the radial artery and cephalic vein in the nondominant arm with an end-to-side anastomosis is the common access in older children (A). Femoral vessels (B) are used for temporary catheters, not a standard fistula; the brachial-basilic in the dominant arm (C) is not the described configuration; and umbilical vessels (D) are neonatal catheter routes. When vessels are too small for a fistula, a PTFE (GoreTex) graft is placed between an extremity artery and vein. A conservative, planned access strategy is critical given the lifelong need for renal replacement therapy."
+    },
+    {
+      "topic": "HD initial urea clearance",
+      "question": "In a child with advanced uremia, what initial urea clearance is prudent to avoid symptomatic disequilibrium?",
+      "options": {
+        "A": "1 mL/min per kg",
+        "B": "3 mL/min per kg",
+        "C": "5 mL/min per kg",
+        "D": "8 mL/min per kg"
+      },
+      "correct": "B",
+      "explanation": "An initial urea clearance of 3 mL/min per kg is prudent in advanced uremia (B) to avoid symptomatic disequilibrium; higher urea removal rates are usually tolerated after the first few treatments. Rates of 1 mL/min per kg (A) would be unnecessarily low, while 5 or 8 mL/min per kg (C, D) risk overly rapid osmolar shifts and seizures, which are more common in children than adults. This cautious dosing, achieved by choosing an appropriately sized dialyzer and limited blood flow, is the core strategy for preventing disequilibrium during hemodialysis initiation in very uremic children."
+    },
+    {
+      "topic": "HD blood flow limits",
+      "question": "Because of higher venous resistance in small vessels, blood flow in small children is typically limited to what range?",
+      "options": {
+        "A": "200-350 mL/min",
+        "B": "300-500 mL/min",
+        "C": "10-25 mL/min",
+        "D": "50-150 mL/min"
+      },
+      "correct": "D",
+      "explanation": "Blood flow in small children is typically limited to 50-150 mL/min (D), rising to 200-350 mL/min in older children, because smaller vessels create higher venous resistance than in adults, which eventually limits flow. Small catheters often further limit flow to 25-100 mL/min due to limited arterial inflow. So 200-350 mL/min (A) applies to older children, and 300-500 mL/min (B) exceeds pediatric ranges. This flow limitation directly constrains achievable urea clearance and is a major reason vascular access is the limiting factor in small-child hemodialysis."
+    },
+    {
+      "topic": "HD dialysis solution",
+      "question": "Why is bicarbonate dialysis solution standard for pediatric hemodialysis rather than acetate?",
+      "options": {
+        "A": "It provides better middle molecule clearance",
+        "B": "It reduces heparin requirements",
+        "C": "It provides better hemodynamic stability and fewer symptoms, since small muscle mass cannot metabolize a large acetate load",
+        "D": "It prevents hypervitaminosis A"
+      },
+      "correct": "C",
+      "explanation": "Bicarbonate dialysis solution is standard because small muscle mass cannot metabolize a large acetate load quickly, and bicarbonate provides better hemodynamic stability and fewer intradialytic symptoms (C). It is not chosen for middle-molecule clearance (A), heparin reduction (B), or preventing hypervitaminosis A (D, a nutritional vitamin issue). Acetate requires conversion to bicarbonate in muscle and other tissues; children with limited muscle mass metabolize it too slowly, leading to acetate accumulation and intradialytic instability. Bicarbonate delivery avoids this, improving tolerance of dialysis in small patients."
+    },
+    {
+      "topic": "HD session duration",
+      "question": "With conditioning and distraction, most children can tolerate hemodialysis sessions lasting how long?",
+      "options": {
+        "A": "30-60 minutes",
+        "B": "1-2 hours",
+        "C": "5-6 hours",
+        "D": "2-4 hours"
+      },
+      "correct": "D",
+      "explanation": "With conditioning and distraction, most children can tolerate hemodialysis sessions lasting 2-4 hours (D). Very short sessions of 30-60 minutes or 1-2 hours (A, B) generally cannot deliver adequate clearance for a chronic prescription, while 5-6 hours (C) is longer than the usual pediatric session. Early treatments may be kept shorter and slower when the patient is very uremic to prevent disequilibrium, but once a stable chronic prescription is reached, more efficient clearance is tolerated and fluid removal becomes the main cause of intradialytic symptoms. Play therapy and tutoring help children tolerate these sessions."
+    },
+    {
+      "topic": "HD heparin loading dose",
+      "question": "What is the usual initial heparin loading dosage for hemodialysis in children, with higher doses for those under 15 kg?",
+      "options": {
+        "A": "1-5 units/kg",
+        "B": "10-20 units/kg",
+        "C": "50-100 units/kg",
+        "D": "150-300 units/kg"
+      },
+      "correct": "B",
+      "explanation": "The usual initial heparin loading dosage for pediatric hemodialysis is 10-20 units/kg (B), with higher dosages for infants and children weighing under 15 kg. Doses of 1-5 units/kg (A) are too low, and 50-100 or 150-300 units/kg (C, D) are far higher than the stated loading dose. The maintenance infusion for the first 20-30 minutes runs about 0.3-0.5 units/kg/min, adjusted by ACT, aiming to prolong clotting to roughly 150% of baseline (125% for low-dose protocols). Smaller children, where blood flow is low relative to dialyzer size, are more prone to clotting."
+    },
+    {
+      "topic": "HD adequacy target for children",
+      "question": "While the KDOQI 2006 adult minimum is spKt/V of 1.2, what minimum spKt/V is suggested as appropriate for children?",
+      "options": {
+        "A": "0.8-1.0",
+        "B": "1.2-1.3",
+        "C": "2.0-2.2",
+        "D": "1.4-1.5"
+      },
+      "correct": "D",
+      "explanation": "A minimum spKt/V of 1.4-1.5 is suggested as appropriate for children (D), higher than the adult minimum single-pool Kt/V of 1.2, and is easily achievable in practice. Values of 0.8-1.0 or 1.2-1.3 (A, B) would be too low, and 2.0-2.2 (C) exceeds the recommended minimum. The higher pediatric target reflects greater postdialysis urea rebound in small patients receiving efficient clearance, meaning single-pool modeling overestimates delivered dose; scaling dialysis to the high surface-area-to-body-water ratio of small children would demand even higher doses, so erring toward more therapy is prudent."
+    },
+    {
+      "topic": "Disequilibrium prevention",
+      "question": "Which prophylactic measure and dose is used to help prevent disequilibrium syndrome during hemodialysis in children?",
+      "options": {
+        "A": "Albumin 5 g/kg before dialysis",
+        "B": "Mannitol 0.5-1.0 g/kg during the session",
+        "C": "Sodium bicarbonate 2 mmol/kg",
+        "D": "Heparin 50 units/kg"
+      },
+      "correct": "B",
+      "explanation": "Prophylactic mannitol 0.5-1.0 g/kg during the session is used to help prevent disequilibrium syndrome (B), alongside keeping dialysate sodium at or slightly above plasma level. Albumin 5 g/kg (A) is far above the 0.5-1.5 g/kg used for hypoalbuminemic hypotension and is not a disequilibrium measure; sodium bicarbonate 2 mmol/kg (C) and heparin 50 units/kg (D) are not the described prophylaxis. Mannitol raises plasma osmolality to counter the rapid fall in blood urea that would otherwise drive water into the brain, reducing the seizures that occur more often in children than adults."
+    },
+    {
+      "topic": "Intradialytic hypotension",
+      "question": "Intradialytic hypotension and cramping are common with fluid removal exceeding what percentage of body weight?",
+      "options": {
+        "A": "1% of body weight",
+        "B": "10% of body weight",
+        "C": "5% of body weight",
+        "D": "20% of body weight"
+      },
+      "correct": "C",
+      "explanation": "Intradialytic hypotension and cramping are common with fluid removal exceeding 5% of body weight (C). The other percentages (1%, 10%, 20%) are distractors; note 20% of body weight is instead the fluid-overload level that can be an independent indication for dialysis. Because blood pressure is normally lower in children than adults, there is a narrower margin to hypotension, and infants may fall precipitously with no warning and no ability to communicate distress. When large fluid removal is needed, isolated ultrafiltration, lower dialysate temperature, albumin, or extra weekly treatments make it more tolerable."
+    },
+    {
+      "topic": "Hypothermia during ultrafiltration",
+      "question": "During isolated ultrafiltration without circulating warmed dialysis solution, the extracorporeal circuit functions as what?",
+      "options": {
+        "A": "A heat source",
+        "B": "An insulator maintaining body temperature",
+        "C": "A blood warmer",
+        "D": "A radiator, cooling the blood and the child"
+      },
+      "correct": "D",
+      "explanation": "During isolated ultrafiltration without circulating warmed dialysis solution, the extracorporeal circuit functions as a radiator, cooling the blood and the child (D). It is not a heat source (A), an insulator (B), or a blood warmer (C); a blood warmer is a separate in-line device sometimes added. Because dialysate normally warms the blood as it passes the dialyzer, removing that warm solution during isolated ultrafiltration leaves the exposed extracorporeal blood to lose heat to the environment. Body temperature must therefore be monitored throughout dialysis, especially during isolated ultrafiltration, to detect hypothermia."
+    },
+    {
+      "topic": "Nutrition - infant energy",
+      "question": "For infants on dialysis, the estimated energy requirement (EER) is approximately what?",
+      "options": {
+        "A": "50 kcal/kg per day",
+        "B": "100 kcal/kg per day",
+        "C": "75 kcal/kg per day",
+        "D": "150 kcal/kg per day"
+      },
+      "correct": "B",
+      "explanation": "For infants on dialysis, the estimated energy requirement (EER) is approximately 100 kcal/kg per day (B). Lower values like 50 or 75 kcal/kg (A, C) would risk undernutrition and growth failure, while 150 kcal/kg (D) exceeds the recommendation, and increasing energy much above the EER is generally not beneficial. Recommended energy intake should match the EER of nonuremic peers of the same age. Because such high intakes are hard to achieve orally, supplementation and gavage feeding are standard practice in infants to avoid undernutrition and support growth through ESKD."
+    },
+    {
+      "topic": "Nutrition - vitamins",
+      "question": "Why should fat-soluble vitamins, particularly vitamin A, not be supplemented in children on dialysis?",
+      "options": {
+        "A": "They cause hyperkalemia",
+        "B": "They interfere with erythropoietin",
+        "C": "Clearance of vitamin A metabolites is impaired, risking hypervitaminosis A",
+        "D": "They cause premature epiphyseal closure"
+      },
+      "correct": "C",
+      "explanation": "Fat-soluble vitamins, particularly vitamin A, should not be supplemented because clearance of vitamin A metabolites is impaired, risking hypervitaminosis A (C). An appropriate multivitamin that does not contain vitamin A must be selected, while water-soluble vitamins ARE routinely supplemented in children on PD or hemodialysis. Fat-soluble vitamins do not cause hyperkalemia (A), interfere with erythropoietin (B), or cause premature epiphyseal closure (D, which is an androgen effect). The impaired renal clearance means fat-soluble vitamins accumulate, so standard multivitamins containing vitamin A are inappropriate in pediatric ESKD."
+    },
+    {
+      "topic": "Nutrition - anuric infant fluid",
+      "question": "Daily fluid intake in an anuric infant on hemodialysis should be limited to what?",
+      "options": {
+        "A": "400-500 mL/m2",
+        "B": "100-200 mL/m2",
+        "C": "800-1,000 mL/m2",
+        "D": "1,100 mL/m2"
+      },
+      "correct": "A",
+      "explanation": "Daily fluid intake in an anuric infant on hemodialysis should be limited to 400-500 mL/m2 (A), with concentrated, appropriately supplemented formula to meet nutritional goals. Larger allowances such as 800-1,000 or 1,100 mL/m2 (C, D) would cause volume overload in an anuric infant, and 100-200 mL/m2 (B) is more restrictive than stated. In contrast, polyuric infants need supplemental fluid and sodium to maintain volume and permit growth. The challenge is meeting the high energy and protein needs of infants within a tight fluid limit, hence the emphasis on concentrated formula."
+    },
+    {
+      "topic": "Erythropoietin dosing",
+      "question": "Erythropoietin dosage per kilogram in very young children is often what compared with adults?",
+      "options": {
+        "A": "Lower, at 50-100 units/kg per week",
+        "B": "Higher, at 150-300 units/kg per week",
+        "C": "The same as adults",
+        "D": "Only given if iron replete"
+      },
+      "correct": "B",
+      "explanation": "Erythropoietin dosage per kilogram is often higher in very young children, at 150-300 units/kg per week (B), than in adults. A lower 50-100 units/kg dose (A) understates the pediatric requirement, and it is not simply the same as adults (C). Iron replete status is important but erythropoietin is not withheld solely on that basis (D). Children on hemodialysis are anemic more often than adults and have lower hemoglobin at initiation, but respond well to erythropoietin. Iron deficiency and repeated peritonitis blunt the response, so iron supplementation is usually necessary alongside."
+    },
+    {
+      "topic": "Androgen therapy contraindication",
+      "question": "Why is androgen therapy contraindicated in prepubertal children with anemia?",
+      "options": {
+        "A": "It causes hypervitaminosis A",
+        "B": "It worsens hyperphosphatemia",
+        "C": "It leads to premature closure of epiphyses",
+        "D": "It causes disequilibrium syndrome"
+      },
+      "correct": "C",
+      "explanation": "Androgen therapy is contraindicated in prepubertal children because it leads to premature closure of the epiphyses (C). It is not associated with hypervitaminosis A (A, a fat-soluble vitamin issue), worsening hyperphosphatemia (B), or disequilibrium syndrome (D). Androgens, rarely used even in adults for anemia, would accelerate skeletal maturation and fuse the growth plates prematurely, permanently compromising final height in a growing child. Because growth is a central goal of pediatric ESKD care, erythropoietin rather than androgens is the appropriate agent for anemia in these patients."
+    },
+    {
+      "topic": "Growth hormone dosing",
+      "question": "What is the usual dosage of recombinant human growth hormone (rhGH) in children on chronic dialysis?",
+      "options": {
+        "A": "0.5 mg/kg per day or 100 IU/m2 per week",
+        "B": "0.05 mg/kg per day or 30 IU/m2 per week",
+        "C": "0.005 mg/kg per day or 10 IU/m2 per week",
+        "D": "1.0 mg/kg per day or 300 IU/m2 per week"
+      },
+      "correct": "B",
+      "explanation": "The usual rhGH dosage is 0.05 mg/kg per day or 30 IU/m2 per week (B), given as a nightly subcutaneous injection, though other dosing strategies exist. The higher and lower options (0.5 mg/kg, 0.005 mg/kg, 1.0 mg/kg) are distractors an order of magnitude off. rhGH increases growth rate in children on chronic dialysis, although less effectively than in nondialysis CKD. Because slipped capital femoral epiphyses and worsening metabolic bone disease can occur, secondary hyperparathyroidism should be controlled before starting, and therapy is often paused at transplantation."
+    },
+    {
+      "topic": "Growth hormone complications",
+      "question": "Which complication may occur with rhGH therapy, making it important to control secondary hyperparathyroidism before starting?",
+      "options": {
+        "A": "Hypervitaminosis A",
+        "B": "Citrate lock",
+        "C": "Disequilibrium syndrome",
+        "D": "Slipped capital femoral epiphyses and worsening metabolic bone disease"
+      },
+      "correct": "D",
+      "explanation": "Slipped capital femoral epiphyses and worsening of metabolic bone disease may occur with rhGH (D), which is why secondary hyperparathyroidism should be controlled before initiating therapy. Hypervitaminosis A (A) is a fat-soluble vitamin problem, citrate lock (B) is a CRRT anticoagulation issue, and disequilibrium syndrome (C) is a hemodialysis complication, none related to growth hormone. rhGH accelerates growth-plate activity, so uncontrolled hyperparathyroid bone disease increases the risk of epiphyseal slippage; optimizing bone-mineral status first makes rhGH safer while still improving growth velocity."
+    },
+    {
+      "topic": "Acidosis target",
+      "question": "Oral sodium bicarbonate or citrate therapy is used in children to maintain a serum bicarbonate concentration of at least what?",
+      "options": {
+        "A": "≥ 15 mmol/L",
+        "B": "≥ 18 mmol/L",
+        "C": "≥ 22 mmol/L",
+        "D": "≥ 28 mmol/L"
+      },
+      "correct": "C",
+      "explanation": "Oral sodium bicarbonate or citrate therapy, or higher dialysate bicarbonate, is used to maintain a serum bicarbonate concentration of at least 22 mmol/L (C). Lower targets of 15 or 18 mmol/L (A, B) would leave chronic acidosis untreated, and 28 mmol/L (D) exceeds the stated goal. Chronic metabolic acidosis impairs growth by affecting bone mineralization through the growth hormone/IGF-1 axis and exerts a catabolic effect on lean body mass, so correcting it supports growth. This is especially important because acidosis is common in pediatric ESKD, more so on hemodialysis than PD."
+    },
+    {
+      "topic": "Acidosis by modality",
+      "question": "Metabolic acidosis in children with ESKD is described as more problematic in which group?",
+      "options": {
+        "A": "Those receiving hemodialysis than those on PD",
+        "B": "Those on PD than those on hemodialysis",
+        "C": "Infants on gavage feeding only",
+        "D": "Those with residual renal function"
+      },
+      "correct": "A",
+      "explanation": "Metabolic acidosis is more problematic in children receiving hemodialysis than in those treated with PD (A). PD delivers a continuous buffer (lactate or bicarbonate) across dwells, whereas intermittent hemodialysis corrects acidosis only during sessions, allowing interdialytic reaccumulation. It is therefore not worse on PD (B), nor limited to gavage-fed infants (C) or defined by residual function (D). Because chronic acidosis impairs growth via the GH/IGF-1 axis and is catabolic to lean mass, hemodialysis patients more often need oral bicarbonate or citrate or higher dialysate bicarbonate to reach a serum bicarbonate of at least 22 mmol/L."
+    },
+    {
+      "topic": "Phosphate binders",
+      "question": "Why is sevelamer described as a good choice as a phosphate binder even in infants and young children?",
+      "options": {
+        "A": "It is the cheapest binder available",
+        "B": "It improves growth hormone response",
+        "C": "Greater awareness of the risks of calcium overload and recognition of early cardiac calcification",
+        "D": "It does not require dosing adjustments"
+      },
+      "correct": "C",
+      "explanation": "Sevelamer is a good choice even in infants and young children because of greater awareness of the risks of calcium overload and recognition of early cardiac calcification in adolescents and young adults with ESKD (C). It is not chosen for being cheapest (A), improving growth hormone response (B), or avoiding dose adjustments (D). Calcium carbonate and calcium acetate have long been used, but non-calcium sevelamer avoids adding to calcium load and vascular calcification risk. Sevelamer is available in powder and calcium acetate in liquid, formulations that facilitate dosing in the youngest patients."
+    },
+    {
+      "topic": "Aluminum binders",
+      "question": "Why should aluminum-containing phosphate binders be avoided in infants and young children with CKD?",
+      "options": {
+        "A": "Because of bone and neurotoxicity",
+        "B": "Because they cause hyperphosphatemia",
+        "C": "Because they impair erythropoietin response",
+        "D": "Because they cause premature epiphyseal closure"
+      },
+      "correct": "A",
+      "explanation": "Aluminum-containing phosphate binders should be avoided in infants and young children with CKD because of bone and neurotoxicity (A). They are effective phosphate binders, so the reason is not that they cause hyperphosphatemia (B); nor do they impair erythropoietin response (C) or cause premature epiphyseal closure (D, an androgen effect). Aluminum accumulates in the setting of impaired renal clearance and deposits in bone and the nervous system, causing osteomalacia and encephalopathy that are especially harmful to a developing child. Calcium-based binders, sevelamer, and other agents are used instead."
+    },
+    {
+      "topic": "Iron deficiency in small patients",
+      "question": "What is an important cause of iron deficiency in very small hemodialysis patients, especially with more than three treatments per week?",
+      "options": {
+        "A": "Impaired vitamin A clearance",
+        "B": "Blood loss in the hemodialysis circuit",
+        "C": "Excessive glucose absorption",
+        "D": "Androgen therapy"
+      },
+      "correct": "B",
+      "explanation": "Blood loss in the hemodialysis circuit is an important cause of iron deficiency in very small patients, especially when more than three treatments per week are prescribed (B). Impaired vitamin A clearance (A), excessive glucose absorption (C), and androgen therapy (D) are unrelated to iron balance. Each hemodialysis session leaves some residual blood in the extracorporeal circuit, and in a small child this recurring loss is proportionally large; frequent treatments (four to five per week are sometimes needed for fluid control) magnify it. Iron supplementation, oral or intravenous, is therefore usually necessary in pediatric ESKD."
+    },
+    {
+      "topic": "Hypertension in PD",
+      "question": "High blood pressure in children undergoing PD is usually the result of what?",
+      "options": {
+        "A": "Excessive erythropoietin dosing",
+        "B": "Overuse of phosphate binders",
+        "C": "Hypoalbuminemia",
+        "D": "Incorrect dialysate glucose concentrations chosen at home with excessive sodium and fluid intake"
+      },
+      "correct": "D",
+      "explanation": "Hypertension in children undergoing PD is usually the result of incorrect dialysate glucose concentrations chosen at home coupled with excessive sodium and fluid intake (D), and is usually managed with dietary counseling, parent education, and close home monitoring of weight and blood pressure. It is not typically from excessive erythropoietin (A), overuse of phosphate binders (B), or hypoalbuminemia (C). Because families select the glucose strength for each exchange at home, choosing too weak a solution leads to inadequate ultrafiltration and volume-dependent hypertension, making education and volume control the first-line remedy."
+    }
+  ]
+}

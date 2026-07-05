@@ -1,0 +1,1001 @@
+{
+  "chapter": 28,
+  "questions": [
+    {
+      "topic": "Intra-abdominal pressure",
+      "question": "What are the two principal determinants of the magnitude of intra-abdominal pressure (IAP) during a peritoneal dialysis dwell?",
+      "options": {
+        "A": "Dialysate glucose concentration and dwell time",
+        "B": "Dialysate volume and the patient's body position",
+        "C": "Catheter tip location and abdominal wall thickness",
+        "D": "Peritonitis history and ultrafiltration rate"
+      },
+      "correct": "B",
+      "explanation": "The magnitude of intra-abdominal pressure (IAP) during a dwell is set principally by two factors: the dialysate volume instilled and the patient's position during the dwell, so B is correct. Larger fill volumes and more upright postures both drive pressure higher. Dialysate glucose and dwell time (A) govern ultrafiltration, not mechanical pressure; catheter tip location or wall thickness (C) and peritonitis history or UF rate (D) are not principal determinants. Because raised IAP causes hernias, leaks, and hydrothorax, these two levers are what clinicians manipulate to limit mechanical complications."
+    },
+    {
+      "topic": "Intra-abdominal pressure",
+      "question": "Which body position is associated with the LOWEST intra-abdominal pressure for a given dialysate volume?",
+      "options": {
+        "A": "Supine",
+        "B": "Sitting",
+        "C": "Standing",
+        "D": "Prone with legs flexed"
+      },
+      "correct": "A",
+      "explanation": "For any given dialysate volume, the supine position generates the lowest IAP, so A is correct; sitting produces the highest and standing is intermediate. This relationship is why supine automated PD is repeatedly recommended to protect hernia repairs and to manage leaks, hydrothorax, and back pain. Options B, C, and D are wrong because upright and semi-upright postures add gravitational load to the abdominal contents and raise pressure. Grasping the supine-lowest, sitting-highest rule explains most of the positional advice throughout this chapter."
+    },
+    {
+      "topic": "Intra-abdominal pressure",
+      "question": "Which body position generates the HIGHEST intra-abdominal pressure for a given dialysate volume?",
+      "options": {
+        "A": "Supine",
+        "B": "Lateral decubitus",
+        "C": "Sitting",
+        "D": "Trendelenburg"
+      },
+      "correct": "C",
+      "explanation": "Sitting produces the highest IAP for a given dialysate volume, so C is correct, while supine yields the lowest. Higher pressure while seated increases the risk of hernia formation, abdominal wall and pericatheter leaks, and fluid tracking to the pleura or genitals. Supine (A), lateral decubitus (B), and Trendelenburg (D) all keep pressure lower than sitting. This is the mechanistic basis for advising low-volume supine APD after surgical repairs and for leaks, since it minimizes the driving pressure behind these complications."
+    },
+    {
+      "topic": "Intra-abdominal pressure",
+      "question": "Which of the following transiently increases intra-abdominal pressure in a PD patient?",
+      "options": {
+        "A": "Sleeping supine",
+        "B": "Coughing, bending, or straining at stool",
+        "C": "Draining the abdomen fully",
+        "D": "Fasting overnight"
+      },
+      "correct": "B",
+      "explanation": "Actions such as coughing, bending, or straining at stool transiently raise IAP, so B is correct. These Valsalva-type maneuvers momentarily spike abdominal pressure and predispose to hernia formation and leaks. Sleeping supine (A) and full drainage (C) actually lower IAP, and fasting (D) has no direct pressure effect. Because these transient surges add to the baseline pressure from dialysate volume and posture, patients are counseled to avoid isometric straining and to manage constipation, reducing the repetitive pressure loads that produce mechanical complications."
+    },
+    {
+      "topic": "Hernia incidence",
+      "question": "It has been suggested that what proportion of peritoneal dialysis patients may develop a hernia at some time on therapy?",
+      "options": {
+        "A": "1%-3%",
+        "B": "5%-8%",
+        "C": "10%-20%",
+        "D": "30%-40%"
+      },
+      "correct": "C",
+      "explanation": "It has been suggested that as many as 10%-20% of PD patients may develop a hernia at some time on therapy, so C is correct. Exact figures are hard to establish because hernias can be asymptomatic and missed on cursory examination. The lower ranges in A and B understate the true burden, and 30%-40% (D) overstates it. This substantial prevalence reflects the chronic elevation of IAP from instilled dialysate plus risk factors like large volumes, straining, obesity, and abdominal wall deconditioning, making hernia surveillance an important part of PD care."
+    },
+    {
+      "topic": "Hernia risk factors",
+      "question": "Which of the following is listed as a potential risk factor for hernia formation in PD patients?",
+      "options": {
+        "A": "Low dialysate volumes",
+        "B": "Multiparity",
+        "C": "Chronic dehydration",
+        "D": "Hypoalbuminemia"
+      },
+      "correct": "B",
+      "explanation": "Multiparity is listed as a potential risk factor for hernia formation, so B is correct. Table 28.1 factors include large dialysate volumes, sitting, isometric exercise, Valsalva (coughing/straining), recent abdominal surgery, pericatheter leak or hematoma, obesity, deconditioning, congenital anatomical defects, and multiparity. Low dialysate volumes (A) reduce rather than raise risk; dehydration (C) and hypoalbuminemia (D) are not listed. The common thread is anything that raises abdominal wall tension or weakens the wall, which combined with dialysate-induced IAP predisposes to herniation."
+    },
+    {
+      "topic": "Hernia risk factors",
+      "question": "How does deconditioning of the abdominal wall musculature predispose to hernia formation?",
+      "options": {
+        "A": "It decreases intra-abdominal pressure",
+        "B": "It increases wall tension",
+        "C": "It thickens the peritoneal membrane",
+        "D": "It reduces dialysate absorption"
+      },
+      "correct": "B",
+      "explanation": "Deconditioning of the abdominal wall musculature increases wall tension, which predisposes to hernia formation, so B is correct. Weak, poorly conditioned muscle transmits more tension to fascial weak points under the load of instilled dialysate. It does not lower IAP (A), thicken the peritoneal membrane (C), or reduce dialysate absorption (D). This is why abdominal and back strengthening exercises are encouraged where feasible: better-conditioned musculature distributes and resists the pressure of the dwell, protecting against both hernias and dialysate-related back pain."
+    },
+    {
+      "topic": "Indirect inguinal hernia",
+      "question": "Indirect inguinal hernias in PD patients result from bowel and/or dialysate tracking through which structure?",
+      "options": {
+        "A": "The umbilical ring",
+        "B": "A patent processus vaginalis",
+        "C": "The foramen of Morgagni",
+        "D": "The linea semilunaris"
+      },
+      "correct": "B",
+      "explanation": "Indirect inguinal hernias arise when bowel and/or dialysate tracks through a processus vaginalis that has remained patent instead of obliterating normally, so B is correct. The other structures are wrong routes: the umbilical ring (A) produces umbilical hernias, the foramen of Morgagni (C) a diaphragmatic type, and the linea semilunaris (D) a Spigelian hernia. Because the patent processus provides a direct conduit to the scrotum, dialysate can produce scrotal fullness and hydrocele, which is why genital scanning is emphasized when imaging inguinal hernias."
+    },
+    {
+      "topic": "Indirect inguinal hernia",
+      "question": "Indirect inguinal hernias are much more common in which group?",
+      "options": {
+        "A": "Females",
+        "B": "Males",
+        "C": "Elderly women",
+        "D": "Anuric patients"
+      },
+      "correct": "B",
+      "explanation": "Indirect inguinal hernia via a patent processus vaginalis is much more common in males, so B is correct. The processus vaginalis accompanies testicular descent and, when it fails to obliterate, provides the tracking path for bowel or dialysate into the scrotum. Females (A), elderly women (C), and anuric patients (D) are not the predominant group. This male predominance and the anatomy explain why scrotal fullness with hydrocele features prominently in the differential and why CT scanning of the genitalia is important in these patients."
+    },
+    {
+      "topic": "Indirect inguinal hernia",
+      "question": "In boys with a patent processus vaginalis causing inguinal hernia, why is bilateral repair recommended?",
+      "options": {
+        "A": "Because the catheter always damages both sides",
+        "B": "Because the contralateral processus vaginalis is very likely also patent",
+        "C": "Because unilateral repair increases IAP",
+        "D": "Because dialysate always tracks bilaterally"
+      },
+      "correct": "B",
+      "explanation": "In boys, if one processus vaginalis is patent (causing an inguinal hernia), the contralateral side is very likely patent as well, so repair should be done bilaterally, making B correct. This reflects the shared developmental process of processus obliteration. Catheter damage (A), IAP effects of unilateral repair (C), and obligatory bilateral tracking (D) are not the reason. Recognizing the high probability of a contralateral patent processus prevents a missed second hernia and a second operation, an important pediatric surgical principle in this population."
+    },
+    {
+      "topic": "Hernia diagnosis",
+      "question": "To make an occult hernia more obvious on physical examination, the patient should be asked to do what?",
+      "options": {
+        "A": "Lie supine and relax",
+        "B": "Stand and bear down",
+        "C": "Perform a Valsalva while supine only",
+        "D": "Drain all dialysate first"
+      },
+      "correct": "B",
+      "explanation": "Having the patient stand and bear down increases IAP and makes an occult hernia more obvious, so B is correct. Many hernias are clinically occult and can be missed if the patient is examined only supine and relaxed (A, C). Draining dialysate first (D) would lower IAP and hide the hernia. By deliberately raising abdominal pressure during the exam, a previously reducible or hidden defect becomes palpable, improving detection before complications like incarceration or strangulation develop."
+    },
+    {
+      "topic": "Pericatheter hernia",
+      "question": "Pericatheter hernias must be differentiated from masses caused by which of the following?",
+      "options": {
+        "A": "Lipoma, cyst, or lymph node",
+        "B": "Hematoma, seroma, or abscess",
+        "C": "Tumor, granuloma, or fistula",
+        "D": "Aneurysm, varix, or bursa"
+      },
+      "correct": "B",
+      "explanation": "Pericatheter hernias must be differentiated from masses caused by a hematoma, seroma, or abscess, so B is correct. These fluid collections can mimic a hernia around the catheter but differ in management. The distractors (lipoma/cyst/node, tumor/granuloma/fistula, aneurysm/varix/bursa) are not the collections specifically named in the chapter. Ultrasonography is the key tool here because it distinguishes a solid-appearing hernia from these fluid collections, guiding whether surgical repair versus drainage or antibiotics is appropriate."
+    },
+    {
+      "topic": "Hernia imaging",
+      "question": "Which imaging modality can distinguish a solid-appearing hernia from fluid collections such as a seroma or abscess?",
+      "options": {
+        "A": "Plain radiography",
+        "B": "Ultrasonography",
+        "C": "Positron emission tomography",
+        "D": "Fluoroscopy"
+      },
+      "correct": "B",
+      "explanation": "Ultrasonography can distinguish a solid-appearing hernia from fluid collections such as hematoma, seroma, or abscess, so B is correct. Its ability to characterize solid versus fluid content makes it the practical first-line tool for a pericatheter mass. Plain radiography (A) and fluoroscopy (D) lack this soft-tissue discrimination, and PET (C) is not used for this purpose. Correctly separating a hernia from a seroma or abscess directs management toward surgical repair versus drainage or antibiotics, avoiding inappropriate intervention."
+    },
+    {
+      "topic": "Scrotal fullness differential",
+      "question": "The scrotal fullness of an indirect inguinal hernia has in its differential diagnosis which of the following?",
+      "options": {
+        "A": "Hydrocele",
+        "B": "Femoral hernia",
+        "C": "Umbilical hernia",
+        "D": "Cystocele"
+      },
+      "correct": "A",
+      "explanation": "The scrotal fullness of an indirect inguinal hernia has hydrocele in its differential diagnosis, so A is correct. Hydrocele results from fluid/dialysate entering the scrotum through a patent processus vaginalis, and intrinsic scrotal or testicular pathology is also considered. Femoral hernia (B), umbilical hernia (C), and cystocele (D) do not present as scrotal fullness. Distinguishing hernia from hydrocele matters because dye-assisted CT with genital scanning can show whether dialysate is tracking via the processus vaginalis or along the anterior abdominal wall."
+    },
+    {
+      "topic": "Dye-assisted CT",
+      "question": "In dye-assisted CT for delineating a hernia, how much Omnipaque 300 is added to a 2-L bag of dialysate?",
+      "options": {
+        "A": "20 mL",
+        "B": "50 mL",
+        "C": "100 mL",
+        "D": "250 mL"
+      },
+      "correct": "C",
+      "explanation": "For dye-assisted CT to delineate a hernia, 100 mL of Omnipaque 300 is added to a 2-L bag of dialysate and instilled into the peritoneal cavity, so C is correct. The smaller volumes (A, B) and larger volume (D) do not match the described protocol. After instillation the patient stays active and ambulatory for 2 hours to drive dye into the hernia sacs before scanning. This technique delineates anterior abdominal wall hernias from isolated leaks and clarifies the route of scrotal edema when genitalia are included in the scan."
+    },
+    {
+      "topic": "Dye-assisted CT",
+      "question": "After instilling the dye-containing dialysate for a hernia CT, what should the patient do for the next 2 hours?",
+      "options": {
+        "A": "Remain strictly supine and still",
+        "B": "Be as active and ambulatory as possible",
+        "C": "Fast completely",
+        "D": "Perform continuous thoracentesis"
+      },
+      "correct": "B",
+      "explanation": "After instilling the dye-containing dialysate, the patient should be as active and ambulatory as possible for the next 2 hours, so B is correct. Ambulation raises IAP and facilitates entry of dye into the hernia sacs before CT scanning. Staying supine and still (A) would keep pressure low and limit dye tracking, defeating the study; fasting (C) and thoracentesis (D) are irrelevant. This deliberate use of raised IAP to fill the defects is what makes dye-assisted CT sensitive for otherwise occult hernias and leaks."
+    },
+    {
+      "topic": "Hernia imaging",
+      "question": "For inguinal hernia CT evaluation, why is it important that the genitalia be scanned?",
+      "options": {
+        "A": "To measure testicular volume",
+        "B": "To determine whether scrotal edema is from a patent processus vaginalis or from anterior abdominal wall tracking",
+        "C": "To exclude testicular tumor",
+        "D": "To assess sperm count"
+      },
+      "correct": "B",
+      "explanation": "Scanning the genitalia during inguinal hernia CT allows the study to indicate whether scrotal edema results from fluid tracking along a patent processus vaginalis or along the anterior abdominal wall, so B is correct. This distinction determines treatment: a processus vaginalis leak can be repaired surgically, whereas an anterior wall route may require catheter replacement. Measuring testicular volume (A), excluding tumor (C), or assessing sperm count (D) are not the purpose. Identifying the leakage route is the whole reason genital scanning is emphasized."
+    },
+    {
+      "topic": "MRI in leaks",
+      "question": "On magnetic resonance imaging used to diagnose abdominal wall and genital leaks, how does the dialysate appear?",
+      "options": {
+        "A": "Dark black",
+        "B": "Bright white",
+        "C": "Speckled gray",
+        "D": "Invisible"
+      },
+      "correct": "B",
+      "explanation": "On MRI used to diagnose abdominal wall and genital leaks, the dialysate itself looks bright white, so B is correct. This bright signal lets the fluid be traced through tissue planes. MRI is particularly useful in patients allergic to conventional radiologic dye, offering an alternative to contrast CT. Dark black (A), speckled gray (C), or invisible (D) do not describe the dialysate appearance. Recognizing dialysate as bright white on MRI is what makes the modality valuable for delineating leaks without iodinated contrast."
+    },
+    {
+      "topic": "Hernia treatment",
+      "question": "Which hernias pose the GREATEST risk of incarceration or strangulation of bowel?",
+      "options": {
+        "A": "Small hernias, especially umbilical hernias",
+        "B": "Large ventral hernias",
+        "C": "Direct inguinal hernias",
+        "D": "Femoral hernias only"
+      },
+      "correct": "A",
+      "explanation": "Small hernias, especially umbilical hernias, pose the greatest risk of incarceration or strangulation of bowel, so A is correct, and they should be repaired surgically. The tight, narrow neck of a small defect can trap and compromise bowel more readily than the wide neck of a large ventral hernia (B). Direct inguinal (C) and femoral (D) hernias are not singled out as the highest risk here. This is why patients are warned to seek urgent care if a hernia stops being reducible or becomes tender."
+    },
+    {
+      "topic": "Hernia and peritonitis",
+      "question": "Any PD patient presenting with peritonitis should be examined for what condition that can cause transmural bacterial leakage?",
+      "options": {
+        "A": "A large reducible ventral hernia",
+        "B": "Small strangulated hernias",
+        "C": "Pericatheter seroma",
+        "D": "Hydrothorax"
+      },
+      "correct": "B",
+      "explanation": "Any PD patient presenting with peritonitis should be examined for small strangulated hernias, because these can cause transmural leakage of bacteria and peritonitis, so B is correct. A strangulated small hernia compromises the bowel wall, allowing enteric organisms to translocate into the peritoneum. A large reducible hernia (A), pericatheter seroma (C), and hydrothorax (D) do not carry this mechanism. Recognizing this link ensures that a treatable surgical source of peritonitis is not missed while attention is focused only on the catheter."
+    },
+    {
+      "topic": "Uterine prolapse",
+      "question": "Uterine prolapse in a PD patient can sometimes be managed initially with which of the following?",
+      "options": {
+        "A": "A pessary",
+        "B": "A truss",
+        "C": "Immediate hemodialysis",
+        "D": "Tamoxifen"
+      },
+      "correct": "A",
+      "explanation": "Uterine prolapse, which is not really a hernia, can sometimes be managed with a pessary, so A is correct, though ultimately hysterectomy may be necessary. A truss or corset (B) is used for abdominal wall hernias, not prolapse; immediate hemodialysis (C) and tamoxifen (D) are unrelated. Managing prolapse with a pessary allows continued PD while raised IAP from dwells is addressed, but definitive surgery may follow if conservative support fails, reflecting the gynecologic complications that raised IAP can produce."
+    },
+    {
+      "topic": "Post-hernia repair",
+      "question": "If a patient has significant residual renal function (about 10 mL/min or more), what postoperative strategy may be possible after hernia repair?",
+      "options": {
+        "A": "Immediately resume full-volume CAPD",
+        "B": "Stop dialysis for a week, then recommence with small volumes (e.g., 1 L)",
+        "C": "Double the dialysate volume to speed healing",
+        "D": "Switch permanently to hemodialysis"
+      },
+      "correct": "B",
+      "explanation": "With significant residual renal function of about 10 mL/min or more, it may be possible to stop dialysis for a week after hernia repair, then recommence with small volumes such as 1 L, so B is correct. Keeping IAP low facilitates wound healing. Immediately resuming full-volume CAPD (A) or doubling volumes (C) would stress the repair, and permanent hemodialysis (D) is not required. The patient must be watched for uremic symptoms or hyperkalemia during the dialysis-free interval, since residual function must cover clearance."
+    },
+    {
+      "topic": "Post-hernia repair",
+      "question": "How does automated peritoneal dialysis (APD) help protect a fresh hernia repair?",
+      "options": {
+        "A": "It uses higher dialysate volumes",
+        "B": "It allows the patient to dialyze supine and hence with lower IAP",
+        "C": "It eliminates the need for a catheter",
+        "D": "It removes bacteria more efficiently"
+      },
+      "correct": "B",
+      "explanation": "If APD is available, the patient can dialyze supine and hence with lower IAP, protecting a fresh hernia repair, so B is correct. The benefit is positional: supine dialysis minimizes the pressure that would stress the healing wound. APD does not use higher volumes (A), eliminate the catheter (C), or clear bacteria more efficiently (D). This is the same low-IAP principle applied throughout the chapter, using supine positioning and small volumes to keep mechanical stress off repairs, leaks, and the diaphragm."
+    },
+    {
+      "topic": "Post-hernia repair",
+      "question": "If a PD patient with little or no renal function is switched to hemodialysis after hernia repair, wound healing is generally allowed to progress for approximately how long?",
+      "options": {
+        "A": "1-2 days",
+        "B": "3-5 days",
+        "C": "2-3 weeks",
+        "D": "2-3 months"
+      },
+      "correct": "C",
+      "explanation": "If a PD patient with little or no renal function is switched to hemodialysis after hernia repair, wound healing is allowed to progress for about 2-3 weeks, so C is correct. This interim hemodialysis keeps the abdomen dry so the repair can consolidate before PD resumes. The shorter intervals (A, B) give insufficient healing time, and 2-3 months (D) is far longer than described. For patients lacking residual function to stop dialysis entirely, temporary hemodialysis is the alternative that best combines adequate clearance with a low-IAP healing environment."
+    },
+    {
+      "topic": "Recurrent hernia",
+      "question": "Which of the following is an option for a patient with recurrent hernias?",
+      "options": {
+        "A": "Increasing dwell volumes",
+        "B": "More frequent dialysis exchanges with lower volumes",
+        "C": "Prolonged sitting dwells",
+        "D": "Adding tamoxifen"
+      },
+      "correct": "B",
+      "explanation": "Options for a patient with recurrent hernias include more frequent dialysis exchanges with lower volumes, so B is correct, alongside reducing strenuous activity or transferring to hemodialysis. Increasing dwell volumes (A) and prolonged sitting dwells (C) would raise IAP and worsen recurrence; tamoxifen (D) is an EPS agent, not a hernia treatment. The unifying strategy is lowering the pressure load on the abdominal wall, achieved by smaller more frequent exchanges, supine dialysis, and activity modification to prevent the hernia from recurring."
+    },
+    {
+      "topic": "Hernia mechanical support",
+      "question": "If a patient is too ill or refuses surgery for a hernia, mechanical support can be provided with what?",
+      "options": {
+        "A": "A corset or truss",
+        "B": "A pessary",
+        "C": "A compression stocking",
+        "D": "An abdominal binder with heating"
+      },
+      "correct": "A",
+      "explanation": "If a patient is too ill or refuses surgery, mechanical support of the hernia can be provided with a corset or truss, so A is correct. These external supports contain the hernia when operative repair is not feasible. A pessary (B) is for uterine prolapse, and compression stockings or binders with heat (C, D) are not the described supports. Patients managed this way must still be warned about the symptoms of incarceration and strangulation, since mechanical support does not remove the underlying risk of bowel compromise."
+    },
+    {
+      "topic": "Abdominal wall leak",
+      "question": "Compared with hernias, abdominal wall and pericatheter leaks are generally which of the following?",
+      "options": {
+        "A": "More common",
+        "B": "Equally common",
+        "C": "Less common",
+        "D": "Never seen in APD"
+      },
+      "correct": "C",
+      "explanation": "The precise incidence is unknown, but abdominal wall and pericatheter leaks are less common than hernias, so C is correct. They share similar risk factors to hernias (raised IAP, straining), and poor surgical technique can contribute to pericatheter leaks. They are not more common (A) or equally common (B), and they are certainly not confined to non-APD patients (D). Knowing that leaks are less frequent but share the same pressure-driven mechanism helps clinicians consider them when returns are low or the abdomen is boggy."
+    },
+    {
+      "topic": "Pericatheter leak",
+      "question": "Which factor may play a role in the development of a pericatheter leak?",
+      "options": {
+        "A": "High dialysate potassium",
+        "B": "Poor surgical technique",
+        "C": "Excessive residual renal function",
+        "D": "Low body weight"
+      },
+      "correct": "B",
+      "explanation": "Poor surgical technique may play a role in the development of pericatheter leak, so B is correct. Pericatheter leak typically occurs as a postoperative complication of catheter implantation, and careful implantation reduces its likelihood. High dialysate potassium (A), excessive residual renal function (C), and low body weight (D) are not implicated. Because implantation technique matters, persistent leaks are managed by removing and reinserting the catheter at another site with special care, reinforcing that the surgical placement itself is a modifiable factor."
+    },
+    {
+      "topic": "Abdominal wall leak",
+      "question": "An abdominal wall leak may be clinically mistaken for which of the following?",
+      "options": {
+        "A": "Peritonitis",
+        "B": "Ultrafiltration failure",
+        "C": "Catheter migration",
+        "D": "Hydrothorax"
+      },
+      "correct": "B",
+      "explanation": "An abdominal wall leak may be mistaken for ultrafiltration failure, so B is correct, because dialysate accumulating in the abdominal wall tissues makes returns less than the instilled volume. This mimics true UF failure where clearance across the membrane is inadequate. It is not typically confused with peritonitis (A), catheter migration (C), or hydrothorax (D) in this context. The clue is that weight rises as fluid pools in the wall, and the diagnosis is confirmed by the clinical picture and contrast CT rather than assuming membrane failure."
+    },
+    {
+      "topic": "Abdominal wall leak",
+      "question": "Which combination of findings should prompt suspicion of an abdominal wall leak?",
+      "options": {
+        "A": "Increased effluent volumes and generalized edema",
+        "B": "Decreased effluent volumes, weight gain, protuberant abdomen, and absence of generalized edema",
+        "C": "Fever, abdominal pain, and cloudy effluent",
+        "D": "Right-sided pleural effusion and dyspnea"
+      },
+      "correct": "B",
+      "explanation": "An abdominal wall leak should be suspected with decreased effluent volumes, weight gain, a protuberant abdomen, and absence of generalized edema, so B is correct. Dialysate pooling in the wall reduces drained volume and adds weight without the systemic edema of fluid overload. Increased effluent with generalized edema (A), infective features (C), and right pleural effusion with dyspnea (D) point elsewhere. This specific constellation, especially the localized rather than generalized swelling, distinguishes a wall leak from ultrafiltration failure or volume overload."
+    },
+    {
+      "topic": "Abdominal wall leak",
+      "question": "On examination of a suspected abdominal wall leak, the abdominal wall itself may have what appearance?",
+      "options": {
+        "A": "Tense and rigid",
+        "B": "A boggy look with deep impressions from waist bands and tubing",
+        "C": "Erythematous and warm",
+        "D": "Completely normal in all cases"
+      },
+      "correct": "B",
+      "explanation": "On examination the abdominal wall may have a boggy look, with deep impressions made by waist bands and dialysate tubing, so B is correct. This softened, fluid-infiltrated appearance reflects dialysate dissecting through the wall tissues. A tense rigid wall (A) or erythematous warm wall (C) suggests other pathology, and it is not always normal (D). Examining the standing patient can reveal asymmetry, and the characteristic boggy, indented wall is a bedside sign that helps identify the leak before confirmatory contrast CT imaging."
+    },
+    {
+      "topic": "Pericatheter leak",
+      "question": "Pericatheter leak is usually diagnosed by which finding?",
+      "options": {
+        "A": "Cloudy effluent",
+        "B": "Wetness (dialysate) on the exit-site dressing",
+        "C": "Right pleural effusion",
+        "D": "Scrotal edema"
+      },
+      "correct": "B",
+      "explanation": "Pericatheter leak is usually diagnosed by wetness (dialysate) on the exit-site dressing, so B is correct. Fluid escaping alongside the catheter appears as dampness at the exit site. Cloudy effluent (A) suggests peritonitis, a right pleural effusion (C) suggests hydrothorax, and scrotal edema (D) suggests a genital leak. The wet dressing is the simplest clue, and it can be confirmed at the bedside by testing the fluid with a urine dipstick for glucose and definitively by contrast CT scanning."
+    },
+    {
+      "topic": "Pericatheter leak",
+      "question": "A urine dipstick placed on fluid from a suspected pericatheter leak will test strongly positive for what?",
+      "options": {
+        "A": "Protein",
+        "B": "Blood",
+        "C": "Glucose",
+        "D": "Nitrites"
+      },
+      "correct": "C",
+      "explanation": "A urine dipstick placed on fluid from a suspected pericatheter leak will test strongly positive for glucose, so C is correct, because dialysate contains a high glucose concentration. This quick bedside test confirms that the wetness is dialysate rather than serous fluid or urine. Protein (A), blood (B), and nitrites (D) are not the diagnostic marker here. The strongly positive glucose result, together with wetness on the exit-site dressing, supports the diagnosis, which can then be proven with contrast CT if needed."
+    },
+    {
+      "topic": "Pericatheter leak treatment",
+      "question": "When a pericatheter leak occurs, PD should be stopped and the patient drained for at least how long?",
+      "options": {
+        "A": "6-12 hours",
+        "B": "24-48 hours",
+        "C": "1 week",
+        "D": "2-3 weeks"
+      },
+      "correct": "B",
+      "explanation": "When a pericatheter leak occurs, PD should be stopped and the patient drained for at least 24-48 hours, so B is correct. The longer PD is withheld, the greater the chance the leak seals itself. Shorter intervals (A) give less opportunity to seal, and a week or 2-3 weeks (C, D) exceeds what is described as the minimum. If necessary the patient can receive hemodialysis and resume PD several days later; in most cases the leak seals spontaneously, and antibiotics are not needed unless infection is evident."
+    },
+    {
+      "topic": "Pericatheter leak treatment",
+      "question": "If a pericatheter leak persists despite stopping PD, what is the recommended next step?",
+      "options": {
+        "A": "Increase dialysate volume",
+        "B": "Remove and reinsert the catheter at another site with careful implantation",
+        "C": "Start tamoxifen",
+        "D": "Perform pleurodesis"
+      },
+      "correct": "B",
+      "explanation": "If a pericatheter leak persists despite stopping PD, the catheter should be removed and reinserted at another site with special care in implantation, so B is correct. Persistent leakage indicates the tract will not seal, and a fresh, carefully placed catheter is the solution. Increasing volume (A) would worsen the leak, tamoxifen (C) treats EPS, and pleurodesis (D) treats hydrothorax. Because poor surgical technique contributes to pericatheter leaks, meticulous reimplantation at a new site addresses the underlying cause."
+    },
+    {
+      "topic": "Pericatheter leak",
+      "question": "Regarding antibiotic prophylaxis for a pericatheter leak, which statement is correct?",
+      "options": {
+        "A": "It is always required",
+        "B": "It is not usually necessary unless there are obvious signs of infection",
+        "C": "It should be given intraperitoneally for 2 weeks",
+        "D": "It is only needed in children"
+      },
+      "correct": "B",
+      "explanation": "Antibiotic prophylaxis is not usually necessary for a pericatheter leak unless there are obvious signs of infection, so B is correct. A simple leak is a mechanical, not infectious, problem, so routine antibiotics add little. It is therefore not always required (A), not given intraperitoneally for two weeks (C), and not limited to children (D). Antibiotics are reserved for cases showing clear infective signs, keeping management focused on draining the abdomen and letting the tract seal rather than on empiric antimicrobial therapy."
+    },
+    {
+      "topic": "Abdominal wall leak",
+      "question": "In contrast to pericatheter leaks (which are typically postoperative), abdominal wall leaks can do what?",
+      "options": {
+        "A": "Only occur late",
+        "B": "Occur early or late",
+        "C": "Only occur during peritonitis",
+        "D": "Never seal without surgery"
+      },
+      "correct": "B",
+      "explanation": "In contrast to pericatheter leaks, which are typically postoperative, abdominal wall leaks can occur early or late, so B is correct. Their timing is not restricted to the immediate post-implantation period. They do not occur only late (A), only during peritonitis (C), and can indeed seal without surgery (D). Supine APD often allows the accumulated dialysate to resolve, and if wall integrity is disrupted the patient is converted to day-dry APD or hemodialysis, sometimes with the defect healing enough to resume CAPD."
+    },
+    {
+      "topic": "Genital edema pathogenesis",
+      "question": "By which TWO routes can dialysate reach the genitalia to cause genital edema?",
+      "options": {
+        "A": "Lymphatic drainage and venous congestion",
+        "B": "A patent processus vaginalis and a defect in the abdominal wall (often near the catheter tract)",
+        "C": "Retrograde ureteral flow and femoral canal",
+        "D": "The inguinal lymph nodes and spermatic cord veins"
+      },
+      "correct": "B",
+      "explanation": "Dialysate reaches the genitalia by two routes: down a patent processus vaginalis to the tunica vaginalis (causing hydrocele or scrotal wall edema), or through a defect in the abdominal wall often associated with the catheter tract, so B is correct. Lymphatic/venous (A), retrograde ureteral or femoral (C), and inguinal node/spermatic vein (D) routes are not the described mechanisms. Distinguishing these two pathways with CT peritoneography matters because a processus leak is repaired surgically while an anterior wall leak may need catheter replacement."
+    },
+    {
+      "topic": "Genital edema diagnosis",
+      "question": "Which investigation should be performed to distinguish which route has caused genital swelling in a PD patient?",
+      "options": {
+        "A": "Doppler ultrasound of the testes",
+        "B": "CT peritoneography",
+        "C": "Plain abdominal radiograph",
+        "D": "Serum tumor markers"
+      },
+      "correct": "B",
+      "explanation": "CT peritoneography should be performed to distinguish which route has caused genital swelling, so B is correct, separating an anterior abdominal wall leak from a patent processus vaginalis. This distinction directs treatment. Doppler ultrasound of the testes (A) assesses vascular/testicular pathology, a plain radiograph (C) lacks the needed detail, and tumor markers (D) are irrelevant. Alternatively, technetium-labeled albumin colloid injected into the dialysate can trace leakage by scintigraphy, but CT peritoneography is the primary route-defining study."
+    },
+    {
+      "topic": "Genital edema diagnosis",
+      "question": "As an alternative to CT peritoneography for genital edema, how much technetium-labeled albumin colloid can be injected into the dialysate to trace leakage by scintigraphy?",
+      "options": {
+        "A": "0.5-1 mCi",
+        "B": "3-5 mCi",
+        "C": "10-15 mCi",
+        "D": "20 mCi"
+      },
+      "correct": "B",
+      "explanation": "As an alternative to CT peritoneography, 3-5 mCi of technetium-labeled albumin colloid can be injected into the dialysate and infused, tracing the route of leakage by scintigraphy, so B is correct. The other doses (A, C, D) do not match the chapter. This nuclear technique, with the patient ambulatory to raise IAP, follows the tracer to reveal whether genital swelling arises via the anterior abdominal wall or the processus vaginalis, guiding whether surgical repair or catheter replacement is the appropriate treatment."
+    },
+    {
+      "topic": "Genital edema treatment",
+      "question": "Which supportive measures are helpful in the treatment of genital edema after stopping PD?",
+      "options": {
+        "A": "Ambulation and heat",
+        "B": "Bed rest and scrotal elevation",
+        "C": "Prone positioning and compression",
+        "D": "High-volume upright dwells"
+      },
+      "correct": "B",
+      "explanation": "After stopping PD, bed rest and scrotal elevation are helpful supportive measures for genital edema, so B is correct. These reduce gravitational pooling and allow reabsorption. Ambulation and heat (A), prone positioning with compression (C), and high-volume upright dwells (D) would worsen or fail to relieve the swelling. Temporary supine low-volume APD can often continue dialysis without causing reaccumulation of genital edema, and hemodialysis can be used temporarily if needed, all aimed at keeping IAP and gravitational tracking to a minimum."
+    },
+    {
+      "topic": "Genital edema treatment",
+      "question": "For genital edema caused by leakage through the anterior abdominal wall (rather than a patent processus vaginalis), what may be required?",
+      "options": {
+        "A": "Surgical repair of the processus vaginalis",
+        "B": "Replacement of the catheter",
+        "C": "Pleurodesis",
+        "D": "Corticosteroids"
+      },
+      "correct": "B",
+      "explanation": "For genital edema caused by leakage through the anterior abdominal wall rather than a patent processus vaginalis, replacement of the catheter may be required, so B is correct. The anterior wall route is often related to the catheter tract, so a new catheter addresses it. Surgical repair of the processus vaginalis (A) applies to the other route, while pleurodesis (C) and corticosteroids (D) treat hydrothorax and EPS respectively. This is why CT peritoneography is done first, to identify the route and thus the correct intervention."
+    },
+    {
+      "topic": "Hydrothorax",
+      "question": "Hydrothorax in PD refers to a pleural effusion arising from what mechanism?",
+      "options": {
+        "A": "Fluid overload and heart failure",
+        "B": "Dialysate traveling from the peritoneal to the pleural cavity under raised IAP",
+        "C": "Infection tracking up the catheter",
+        "D": "Malignant seeding of the pleura"
+      },
+      "correct": "B",
+      "explanation": "Under raised IAP, dialysate can travel from the peritoneal cavity to the pleural cavity, producing a pleural effusion composed of dialysis effluent termed hydrothorax, so B is correct. The driving force is pressure across diaphragmatic defects, not heart failure (A), catheter infection (C), or malignancy (D). Because the movement is pressure-driven, management centers on lowering IAP through supine, low-volume dialysis or stopping PD, and the diagnosis is supported by a very high glucose level in the pleural fluid."
+    },
+    {
+      "topic": "Hydrothorax etiology",
+      "question": "A hydrothorax occurring with the very first dialysis exchange most likely reflects which type of diaphragmatic defect?",
+      "options": {
+        "A": "Acquired",
+        "B": "Congenital",
+        "C": "Traumatic",
+        "D": "Infectious"
+      },
+      "correct": "B",
+      "explanation": "A hydrothorax occurring with the very first dialysis exchange most likely reflects a congenital diaphragmatic defect, so B is correct, because a pre-existing opening allows immediate passage of dialysate. Acquired defects (A) instead cause late hydrothorax. Traumatic (C) and infectious (D) mechanisms are not the described categories. Recognizing that timing distinguishes congenital from acquired defects helps interpret why some patients present with breathlessness at the very start of PD while others develop the complication only after prolonged therapy."
+    },
+    {
+      "topic": "Hydrothorax laterality",
+      "question": "Hydrothorax in PD occurs almost exclusively on which side, and why?",
+      "options": {
+        "A": "Left, because the left diaphragm is thinner",
+        "B": "Right, because the left hemidiaphragm is mostly covered by the heart and pericardium",
+        "C": "Bilaterally in equal frequency",
+        "D": "Left, because of the position of the liver"
+      },
+      "correct": "B",
+      "explanation": "Hydrothorax occurs almost exclusively on the right side, probably because the left hemidiaphragm is mostly covered by the heart and pericardium, so B is correct. This anatomical shielding limits left-sided diaphragmatic transit of dialysate. It is not left-sided from a thinner diaphragm (A) or liver position (D), nor is it bilateral in equal frequency (C). The strong right-sided predominance is a useful clue: a new right pleural effusion in a PD patient, especially with dyspnea at the start of therapy, should raise suspicion for hydrothorax."
+    },
+    {
+      "topic": "Hydrothorax diagnosis",
+      "question": "Acute shortness of breath at the beginning of PD therapy should suggest which diagnosis?",
+      "options": {
+        "A": "Pulmonary embolism",
+        "B": "Hydrothorax",
+        "C": "Pericatheter leak",
+        "D": "Overfill only"
+      },
+      "correct": "B",
+      "explanation": "Acute shortness of breath at the beginning of PD therapy should suggest hydrothorax, so B is correct. Dialysate crossing a diaphragmatic defect into the pleural space can cause sudden breathlessness as the effusion forms. Pulmonary embolism (A), pericatheter leak (C), and overfill alone (D) are less specific to this presentation. Because the effusion is dialysate, the most diagnostic finding is a very high pleural fluid glucose, and thoracentesis can both confirm the diagnosis and relieve symptoms while PD is stopped."
+    },
+    {
+      "topic": "Hydrothorax diagnosis",
+      "question": "What is the most diagnostic feature of the pleural fluid in hydrothorax, although it is often not found?",
+      "options": {
+        "A": "A very high glucose level",
+        "B": "A very high leukocyte count",
+        "C": "A very low pH",
+        "D": "A high lactate dehydrogenase"
+      },
+      "correct": "A",
+      "explanation": "The most diagnostic feature of the pleural fluid in hydrothorax is a very high glucose level, although it is often not found, so A is correct. The high glucose reflects the dialysate origin of the effusion. A high leukocyte count (B) is nonspecific, and low pH (C) or high LDH (D) are not the described marker; the fluid is otherwise typically transudative with variable leukocytes. Measuring pleural glucose during thoracentesis is the key confirmatory test, though its frequent absence means radionuclide or CT dye studies may also be needed."
+    },
+    {
+      "topic": "Hydrothorax diagnosis",
+      "question": "In radionuclide scanning for hydrothorax, why should the patient remain ambulatory while the labeled tracer dwells?",
+      "options": {
+        "A": "To speed tracer clearance",
+        "B": "To increase IAP and flux of tracer into the pleural cavity",
+        "C": "To reduce radiation exposure",
+        "D": "To prevent catheter migration"
+      },
+      "correct": "B",
+      "explanation": "In radionuclide scanning for hydrothorax, the patient should remain ambulatory while the labeled tracer dwells to increase IAP and flux of tracer into the pleural cavity, so B is correct. Higher pressure drives the labeled dialysate across the diaphragmatic defect, improving detection. It is not to speed clearance (A), reduce radiation (C), or prevent migration (D). Posterior views are taken at 0, 10, 20, and 30 minutes with an anterior view at 30 minutes, and ambulation ensures enough pressure for the tracer to reach the pleural space."
+    },
+    {
+      "topic": "Hydrothorax diagnosis",
+      "question": "In technetium scanning for hydrothorax, when may late views be necessary?",
+      "options": {
+        "A": "If tracer movement into the pleural cavity is not detected in earlier shots (at 2-3 hours)",
+        "B": "Always at 24 hours",
+        "C": "Only in children",
+        "D": "Only if thoracentesis is negative"
+      },
+      "correct": "A",
+      "explanation": "In technetium scanning for hydrothorax, late views at 2-3 hours may be necessary if tracer movement into the pleural cavity is not detected in earlier shots, so A is correct. Slow transit across the diaphragmatic defect can delay tracer appearance, so delayed imaging improves sensitivity. It is not always at 24 hours (B), limited to children (C), or contingent on a negative thoracentesis (D). Keeping the patient ambulatory raises IAP to promote flux, and the delayed views capture cases where early gamma-camera images are falsely negative."
+    },
+    {
+      "topic": "Hydrothorax treatment",
+      "question": "Rarely, the dialysate acts as an irritant in the pleural cavity, causing pleurodesis, so that PD can be resumed after approximately how long?",
+      "options": {
+        "A": "24 hours",
+        "B": "3-4 days",
+        "C": "1-2 weeks",
+        "D": "2-3 months"
+      },
+      "correct": "C",
+      "explanation": "Rarely, the dialysate itself acts as an irritant in the pleural cavity causing pleurodesis, so that PD can be resumed 1-2 weeks later, making C correct. This inadvertent chemical pleurodesis can obliterate the space that allowed the effusion. The shorter intervals (A, B) and 2-3 months (D) do not match the chapter. More often, definitive treatment involves deliberate pleurodesis (talc, oxytetracycline, autologous blood, or aprotonin-fibrin glue) or surgical repair of the hemidiaphragm, with low-IAP supine APD sometimes allowing PD to continue without recurrence."
+    },
+    {
+      "topic": "Hydrothorax treatment",
+      "question": "Because fluid movement into the pleural space is pressure-driven, which position is helpful in managing hydrothorax?",
+      "options": {
+        "A": "Upright sitting",
+        "B": "Supine",
+        "C": "Prone",
+        "D": "Left lateral decubitus"
+      },
+      "correct": "B",
+      "explanation": "Because movement of fluid into the pleural space is pressure-driven, keeping the patient supine is helpful in managing hydrothorax, so B is correct. The supine position lowers IAP and reduces the gradient pushing dialysate across the diaphragm. Upright sitting (A) raises pressure and worsens transit, and prone (C) or left lateral decubitus (D) are not the recommended positions. Combined with small volumes, supine APD can sometimes be continued without recurrence, applying the same low-IAP principle used for hernias, leaks, and back pain."
+    },
+    {
+      "topic": "Hydrothorax surgery",
+      "question": "Which of the following is listed as a surgical/pleurodesis option for treating hydrothorax?",
+      "options": {
+        "A": "Talc",
+        "B": "Bleomycin",
+        "C": "Doxycycline gel",
+        "D": "Silver nitrate"
+      },
+      "correct": "A",
+      "explanation": "Talc is a listed pleurodesis option for treating hydrothorax, so A is correct. Table 28.3 surgical options include pleurodesis with talc, oxytetracycline, autologous blood, or aprotonin-fibrin glue, plus repair of the hemidiaphragm by oversewing defects or reinforcing with patches. Bleomycin (B), doxycycline gel (C), and silver nitrate (D) are not among the listed agents. Pleurodesis obliterates the pleural space so dialysate can no longer accumulate, offering definitive control when low-IAP dialysis alone fails to prevent recurrent hydrothorax."
+    },
+    {
+      "topic": "Breathing mechanics",
+      "question": "How is pulmonary function affected by peritoneal dialysis?",
+      "options": {
+        "A": "It is markedly worsened in all patients",
+        "B": "It is unchanged except for a mildly decreased functional residual capacity",
+        "C": "It is improved by increasing total lung capacity",
+        "D": "It causes permanent hypoxemia"
+      },
+      "correct": "B",
+      "explanation": "Pulmonary function is unchanged with PD except for a mildly decreased functional residual capacity, so B is correct. Arterial oxygenation decreases only slightly and transiently at the start of CAPD. PD does not markedly worsen function in all patients (A), improve total lung capacity (C), or cause permanent hypoxemia (D). The overall message is reassuring: despite raising IAP and pushing on the diaphragm, PD has minimal, largely transient effects on lung mechanics, which is why it is generally tolerated even by patients with lung disease."
+    },
+    {
+      "topic": "Breathing mechanics",
+      "question": "What is the effect of peritoneal dialysis on patients with obstructive pulmonary disease?",
+      "options": {
+        "A": "It significantly worsens their respiratory symptoms",
+        "B": "It does not worsen symptoms and the tonic diaphragmatic stretch may facilitate breathing mechanics",
+        "C": "It causes bronchospasm",
+        "D": "It is absolutely contraindicated"
+      },
+      "correct": "B",
+      "explanation": "PD does not worsen respiratory symptoms in patients with obstructive pulmonary disease, and the tonic diaphragmatic stretch from raised IAP may actually facilitate breathing mechanics, so B is correct. Rather than harming these patients, the stretch on the diaphragm can improve its mechanical advantage. It does not significantly worsen symptoms (A), cause bronchospasm (C), or make PD contraindicated (D). This reassures clinicians that obstructive lung disease is not a barrier to PD, and the raised IAP that causes other complications can be mechanically beneficial for breathing here."
+    },
+    {
+      "topic": "Back pain",
+      "question": "What is the mechanism of back pain related to dialysate in the peritoneal cavity?",
+      "options": {
+        "A": "Direct nerve root compression by the catheter",
+        "B": "Raised IAP and forward shift of the center of gravity producing lordotic stress on the lumbar spine",
+        "C": "Hypocalcemia-induced muscle spasm",
+        "D": "Uremic neuropathy"
+      },
+      "correct": "B",
+      "explanation": "Dialysate in the peritoneal cavity raises IAP and swings the body's center of gravity forward, producing lordotic stress on the lumbar vertebrae and paraspinal muscles, so B is correct. This altered spinal mechanics, worsened by lax abdominal musculature, can exacerbate sciatica or posterior facet symptoms. It is not catheter nerve compression (A), hypocalcemic spasm (C), or uremic neuropathy (D). Understanding the postural mechanism explains why supine APD, which removes the lordotic load, is the key treatment for dialysate-related back pain."
+    },
+    {
+      "topic": "Back pain treatment",
+      "question": "Why is supine APD with a small or no day dwell advisable for PD patients with back pain?",
+      "options": {
+        "A": "It increases dialysate clearance",
+        "B": "Dialyzing supine removes the lordotic stress on the lumbar spine",
+        "C": "It strengthens the abdominal muscles",
+        "D": "It raises IAP for better breathing"
+      },
+      "correct": "B",
+      "explanation": "Supine APD with a small or no day dwell is advisable for PD patients with back pain because dialyzing supine removes the lordotic stress on the lumbar spine, so B is correct. Lying flat eliminates the forward shift in center of gravity that dialysate produces when upright. It does not primarily increase clearance (A), strengthen abdominal muscles (C), or raise IAP for breathing (D). Along with bed rest, analgesia, and smaller more frequent exchanges, supine dialysis directly addresses the postural mechanism causing the pain."
+    },
+    {
+      "topic": "Overfill definition",
+      "question": "Overfill in PD is defined as acute symptoms of raised IAP associated with a high dwell-volume to fill-volume ratio, becoming significant especially when the ratio exceeds what value?",
+      "options": {
+        "A": "1.2",
+        "B": "1.5",
+        "C": "2.0",
+        "D": "3.5"
+      },
+      "correct": "C",
+      "explanation": "Overfill is acute symptoms of raised IAP associated with a high dwell-volume to fill-volume ratio, becoming significant especially when the ratio exceeds 2.0, so C is correct. The example is a 4-L end-dwell volume in a patient with a 2-L fill volume. The lower ratios (A, B) do not define significant overfill, and 3.5 (D) is beyond the stated threshold. Symptoms include acute abdominal discomfort or shortness of breath, and the ratio quantifies how much excess volume is stressing the abdomen."
+    },
+    {
+      "topic": "Overfill mechanism",
+      "question": "Most episodes of overfill result from what situation?",
+      "options": {
+        "A": "Excessive ultrafiltration alone",
+        "B": "Infusing dialysis solution without adequate drainage of the previous dwell volume",
+        "C": "Using hypertonic solutions",
+        "D": "Congenital diaphragmatic defects"
+      },
+      "correct": "B",
+      "explanation": "Most overfill episodes result from infusing dialysis solution without adequate drainage of the previous dwell volume, so B is correct. This is often related to poor catheter outflow function and may be accidental, with a large ultrafiltrate volume also contributing. Excessive ultrafiltration alone (A), hypertonic solutions (C), and congenital diaphragmatic defects (D) are not the primary cause. Because inadequate drainage is central, newer cyclers make it harder to start cycling without fully draining the day dwell and include precautions to drain cumulative ultrafiltrate."
+    },
+    {
+      "topic": "Overfill risk groups",
+      "question": "Significant overfill is more common in which of the following?",
+      "options": {
+        "A": "Elderly CAPD patients only",
+        "B": "Children and patients on APD, especially with tidal prescriptions and disabled minimum-drain alarms",
+        "C": "Anuric patients on hemodialysis",
+        "D": "Patients with high residual renal function"
+      },
+      "correct": "B",
+      "explanation": "Significant overfill is more common in children, in patients on APD (especially with tidal prescriptions), and in those with minimum-drain alarms turned off, so B is correct. Smaller body size and machine-driven cycling with tidal modes increase susceptibility, and disabled drain alarms remove a safeguard. It is not confined to elderly CAPD patients (A), anuric hemodialysis patients (C), or those with high residual function (D). Recognizing these high-risk settings guides prevention, since newer cyclers add precautions to ensure complete drainage before refilling."
+    },
+    {
+      "topic": "Overfill outcome",
+      "question": "Which statement about overfill outcomes is correct?",
+      "options": {
+        "A": "Asymptomatic episodes never occur",
+        "B": "Rarely, deaths have been associated with severe overfill",
+        "C": "It only causes constipation",
+        "D": "It always requires surgery"
+      },
+      "correct": "B",
+      "explanation": "Rarely, deaths have been associated with severe overfill, so B is correct, while asymptomatic overfill episodes are probably quite common. This spectrum ranges from frequent silent events to rare fatal outcomes. Asymptomatic episodes do occur (A), overfill causes acute raised-IAP symptoms rather than only constipation (C), and it does not always require surgery (D). The recognition that severe overfill can be fatal is why cycler safeguards, minimum-drain alarms, and complete drainage of the day dwell are emphasized in modern APD prescriptions."
+    },
+    {
+      "topic": "EPS incidence",
+      "question": "Encapsulating peritoneal sclerosis (EPS) is a rare but devastating complication of long-term PD reported to occur in what proportion of patients?",
+      "options": {
+        "A": "1%-3%",
+        "B": "5%-10%",
+        "C": "10%-20%",
+        "D": "Less than 0.1%"
+      },
+      "correct": "A",
+      "explanation": "Encapsulating peritoneal sclerosis (EPS) is a rare but devastating complication of long-term PD reported to occur in 1%-3% of patients, so A is correct. Despite its low incidence, its severity makes it clinically important. The higher ranges (B, C) overstate it and less than 0.1% (D) understates it. EPS features an early inflammatory phase and a later sclerosing phase in which a fibrotic cocoon encapsulates the small bowel, with duration of PD therapy being the strongest risk factor for its development."
+    },
+    {
+      "topic": "EPS inflammatory phase",
+      "question": "The early inflammatory phase of EPS is characterized by which combination of features?",
+      "options": {
+        "A": "Fever, cloudy effluent, and hypertension",
+        "B": "Vague abdominal discomfort, change to rapid transport status, bloody effluent, erythropoietin-resistant anemia, and elevated C-reactive protein",
+        "C": "Weight gain, edema, and hypoglycemia",
+        "D": "Right pleural effusion and dyspnea"
+      },
+      "correct": "B",
+      "explanation": "The early inflammatory phase of EPS is characterized by vague abdominal discomfort, a change to rapid transport status, bloody effluent, and signs of inflammation including erythropoietin-resistant anemia and elevated C-reactive protein, so B is correct. This constellation, not fever with hypertension (A), weight gain with hypoglycemia (C), or a pleural effusion (D), signals early EPS. Recognizing these subtle inflammatory features in a long-term PD patient is important because the therapeutic window with corticosteroids is better during this phase than after extensive scarring."
+    },
+    {
+      "topic": "EPS transport status",
+      "question": "During the inflammatory phase of EPS, the peritoneal membrane transport status typically changes to what?",
+      "options": {
+        "A": "Slow transport",
+        "B": "Rapid transport",
+        "C": "Average transport unchanged",
+        "D": "No measurable transport"
+      },
+      "correct": "B",
+      "explanation": "During the inflammatory phase of EPS, the peritoneal membrane transport status typically changes to rapid transport, so B is correct. The inflamed membrane transports solutes faster, often accompanied by bloody effluent and inflammatory markers. It does not become slow (A), remain average and unchanged (C), or lose measurable transport (D). This shift to rapid transport, together with erythropoietin-resistant anemia and elevated CRP, helps flag early EPS in a long-term PD patient before progression to the sclerosing, bowel-encapsulating phase."
+    },
+    {
+      "topic": "EPS sclerosing phase",
+      "question": "The sclerosing phase of EPS is characterized by a fibrotic cocoon encapsulating the small bowel, and the patient typically shows what?",
+      "options": {
+        "A": "Weight gain and polyuria",
+        "B": "Weight loss and recurrent bowel obstruction",
+        "C": "Massive ascites and jaundice",
+        "D": "Improved ultrafiltration"
+      },
+      "correct": "B",
+      "explanation": "In the sclerosing phase of EPS a fibrotic cocoon slowly encapsulates the small bowel, and the patient typically shows weight loss and recurrent bowel obstruction, so B is correct. The encasing fibrosis impairs bowel function, producing obstruction and nutritional decline. Weight gain with polyuria (A), massive ascites with jaundice (C), and improved ultrafiltration (D) do not describe this phase. Recognizing recurrent bowel obstruction in a long-term PD patient should prompt imaging for cocooning, and surgery by an experienced surgeon may be needed given the high operative risks."
+    },
+    {
+      "topic": "EPS progression",
+      "question": "Progression from the inflammatory to the sclerosing phase of EPS may be triggered by a so-called 'second hit' such as what?",
+      "options": {
+        "A": "A blood transfusion",
+        "B": "An episode of peritonitis",
+        "C": "A change in dialysate brand",
+        "D": "Renal transplantation"
+      },
+      "correct": "B",
+      "explanation": "Progression from the inflammatory to the sclerosing phase of EPS may be triggered by a 'second hit' such as an episode of peritonitis, so B is correct, though progression can also occur without one. Peritonitis can act as the inflammatory insult that tips the process toward fibrosis. A blood transfusion (A), dialysate brand change (C), and renal transplantation (D) are not the described second hit. Notably, there is no reliable overall association between EPS and the number of peritonitis episodes, so peritonitis is a potential trigger rather than a consistent cause."
+    },
+    {
+      "topic": "EPS risk factors",
+      "question": "What is the strongest risk factor for developing EPS?",
+      "options": {
+        "A": "Number of peritonitis episodes",
+        "B": "The duration of PD therapy",
+        "C": "Type of dialysate solution",
+        "D": "Patient body weight"
+      },
+      "correct": "B",
+      "explanation": "The strongest risk factor for EPS is the duration of PD therapy, so B is correct. The longer a patient is on PD, the higher the cumulative risk, with incidence becoming significant after 5 years and even more so after 10 years. The number of peritonitis episodes (A), dialysate type (C), and body weight (D) are not the strongest factors; indeed there is no reliable association with peritonitis frequency or solution type. Duration is therefore the dominant consideration when weighing long-term PD against alternatives."
+    },
+    {
+      "topic": "EPS risk factors",
+      "question": "After approximately how many years of PD does the EPS risk become significant, becoming even greater beyond a further threshold?",
+      "options": {
+        "A": "Significant after 1 year, greater after 3",
+        "B": "Significant after 5 years, even more so after 10 years",
+        "C": "Significant after 15 years only",
+        "D": "Risk is constant regardless of duration"
+      },
+      "correct": "B",
+      "explanation": "EPS risk becomes significant after 5 years of PD and even more so after 10 years, so B is correct. Although the overall incidence remains low, the cumulative risk climbs with therapy duration, the strongest risk factor. The other timelines (A, C) do not match, and risk is clearly not constant regardless of duration (D). Young age at onset of PD is an additional independent risk factor, and patients remain vulnerable even after transitioning to hemodialysis or transplantation, so prolonged PD warrants ongoing awareness of this complication."
+    },
+    {
+      "topic": "EPS risk factors",
+      "question": "Besides duration of PD, which of the following is an independent risk factor for EPS?",
+      "options": {
+        "A": "Old age at onset of PD",
+        "B": "Young age at onset of PD",
+        "C": "Male sex only",
+        "D": "High residual renal function"
+      },
+      "correct": "B",
+      "explanation": "Besides duration of PD, young age at onset of PD is an independent risk factor for EPS, so B is correct. Younger patients starting PD carry additional risk beyond therapy duration alone. Old age at onset (A), male sex (C), and high residual renal function (D) are not the identified independent factor. This means a young patient anticipating many years of PD faces compounding risk from both youth and prospective long duration, informing counseling and long-term modality planning to reduce lifetime EPS exposure."
+    },
+    {
+      "topic": "EPS vulnerability",
+      "question": "Which statement about EPS risk after stopping PD is correct?",
+      "options": {
+        "A": "Transition to hemodialysis or transplant fully eliminates the risk",
+        "B": "Patients who have transitioned to hemodialysis or renal transplant are still vulnerable",
+        "C": "EPS only occurs while actively on PD",
+        "D": "Transplantation is protective and curative"
+      },
+      "correct": "B",
+      "explanation": "Patients who have transitioned to hemodialysis or renal transplant remain vulnerable to EPS, so B is correct. Stopping PD does not immediately abolish the risk, and EPS can manifest even after the patient is off PD, sometimes presenting only in the sclerosing phase with bowel obstruction. Thus transition does not fully eliminate risk (A), EPS is not confined to active PD (C), and transplantation is not protective and curative (D). This lingering vulnerability is why new obstructive symptoms in former PD patients should still raise suspicion for EPS."
+    },
+    {
+      "topic": "EPS associations",
+      "question": "Which statement regarding associations with EPS is correct?",
+      "options": {
+        "A": "It is strongly linked to the number of peritonitis episodes",
+        "B": "There is no reliable association with the type or number of peritonitis episodes or with the type or strength of PD solutions",
+        "C": "It is caused specifically by hypertonic dextrose solutions",
+        "D": "It only occurs after a single severe peritonitis"
+      },
+      "correct": "B",
+      "explanation": "There is no reliable association of EPS with the type or number of PD peritonitis episodes or with the type or strength of PD solutions used, so B is correct. Despite intuition, peritonitis frequency and solution characteristics do not consistently predict EPS. It is therefore not strongly linked to peritonitis episodes (A), specifically caused by hypertonic dextrose (C), or triggered only by a single severe peritonitis (D). The strongest identified risk factor remains duration of PD, while peritonitis may still act as an occasional 'second hit' triggering progression."
+    },
+    {
+      "topic": "EPS predisposition",
+      "question": "Patients with which underlying condition may be predisposed to EPS?",
+      "options": {
+        "A": "Diabetes mellitus",
+        "B": "Autoimmune/inflammatory disease such as lupus or vasculitis",
+        "C": "Chronic obstructive pulmonary disease",
+        "D": "Osteoporosis"
+      },
+      "correct": "B",
+      "explanation": "Patients with underlying autoimmune/inflammatory disease such as lupus or vasculitis may be predisposed to EPS, so B is correct. A pre-existing inflammatory tendency may prime the peritoneum toward the sclerosing process. Diabetes mellitus (A), chronic obstructive pulmonary disease (C), and osteoporosis (D) are not the described predisposing conditions. This association fits the model of EPS as an inflammatory-then-fibrotic disorder, and it suggests such patients warrant particular vigilance, alongside those with long PD duration and young age at PD onset."
+    },
+    {
+      "topic": "EPS imaging",
+      "question": "On imaging in the sclerosing phase of EPS, which findings support the diagnosis?",
+      "options": {
+        "A": "Peritoneal thickening alone",
+        "B": "Cocooning of the bowel with thickening, tethering, enhancement, and calcification of the peritoneal membrane",
+        "C": "Free intraperitoneal air",
+        "D": "Diaphragmatic elevation"
+      },
+      "correct": "B",
+      "explanation": "Imaging in the sclerosing phase of EPS shows cocooning of the bowel with thickening, tethering, enhancement, and calcification of the peritoneal membrane, so B is correct. These features together support the diagnosis when a long-term patient has recurrent obstruction. Peritoneal thickening alone (A) is not diagnostic, and free intraperitoneal air (C) or diaphragmatic elevation (D) indicate other pathology. Imaging is most helpful in this sclerosing phase, whereas regular CT surveillance of asymptomatic long-term patients has not been shown to be helpful."
+    },
+    {
+      "topic": "EPS imaging",
+      "question": "Which statement about peritoneal membrane thickening on imaging is correct?",
+      "options": {
+        "A": "It is by itself diagnostic of EPS",
+        "B": "It is seen in any long-term PD patient and, by itself, is not diagnostic of EPS",
+        "C": "It only occurs in EPS",
+        "D": "It excludes EPS if present"
+      },
+      "correct": "B",
+      "explanation": "Thickening of the peritoneal membrane is seen in any long-term PD patient and, by itself, is not diagnostic of EPS, so B is correct. Membrane thickening is a common consequence of prolonged PD and lacks specificity in isolation. It is therefore not diagnostic on its own (A), not exclusive to EPS (C), and its presence does not exclude EPS (D). The diagnosis of EPS in the sclerosing phase instead relies on the combination of bowel cocooning with tethering, enhancement, and calcification, not thickening alone."
+    },
+    {
+      "topic": "EPS surveillance",
+      "question": "What has been shown about regular CT surveillance of long-term PD patients for EPS?",
+      "options": {
+        "A": "It reliably prevents EPS",
+        "B": "It has not been shown to be helpful",
+        "C": "It is mandatory every 6 months",
+        "D": "It reverses membrane thickening"
+      },
+      "correct": "B",
+      "explanation": "Regular CT surveillance of long-term PD patients for EPS has not been shown to be helpful, so B is correct. Routine imaging of asymptomatic patients does not reliably improve outcomes, partly because membrane thickening is common and nonspecific. It does not prevent EPS (A), is not a mandated six-monthly test (C), and does not reverse thickening (D). Imaging is instead most useful once symptoms of the sclerosing phase appear, when cocooning and other specific changes can be identified, rather than as a screening strategy."
+    },
+    {
+      "topic": "EPS treatment",
+      "question": "The inflammatory phase of EPS is best treated with which of the following?",
+      "options": {
+        "A": "High-dose antibiotics indefinitely",
+        "B": "Modest doses of corticosteroid, after ruling out infective causes",
+        "C": "Immediate surgical resection",
+        "D": "High-volume hypertonic dwells"
+      },
+      "correct": "B",
+      "explanation": "The inflammatory phase of EPS is best treated with modest doses of corticosteroid, after ruling out infective causes, so B is correct. Excluding infection first is essential before immunosuppression. High-dose antibiotics indefinitely (A), immediate surgical resection (C), and high-volume hypertonic dwells (D) are not the recommended approach. The duration of steroid treatment is unclear and titrated to symptoms, and because there is a better therapeutic window during the inflammatory phase, early recognition and treatment offer the best chance to prevent progression to extensive scarring."
+    },
+    {
+      "topic": "EPS treatment",
+      "question": "Which agents have been suggested as additions in EPS treatment for their antifibrotic effects?",
+      "options": {
+        "A": "Tamoxifen or mTOR inhibitors",
+        "B": "Cyclophosphamide or methotrexate",
+        "C": "Statins or fibrates",
+        "D": "Beta-blockers or ACE inhibitors"
+      },
+      "correct": "A",
+      "explanation": "Some studies have suggested adding tamoxifen or mTOR inhibitors for their antifibrotic effects in EPS, so A is correct. These agents may help counter the fibrotic process alongside corticosteroids. Cyclophosphamide or methotrexate (B), statins or fibrates (C), and beta-blockers or ACE inhibitors (D) are not the suggested antifibrotic additions. Because EPS progresses from inflammation to scarring, antifibrotic therapy targets the sclerosing component, and the better therapeutic window lies in the inflammatory phase before extensive scar formation limits response."
+    },
+    {
+      "topic": "EPS therapeutic window",
+      "question": "Regarding the therapeutic window in EPS, which statement is true?",
+      "options": {
+        "A": "Treatment is more effective once extensive scarring has formed",
+        "B": "There is a better therapeutic window during the inflammatory phase than when extensive scar formation is present",
+        "C": "The phases respond equally to therapy",
+        "D": "Only the sclerosing phase responds to steroids"
+      },
+      "correct": "B",
+      "explanation": "As in any sclerosing condition, there is a better therapeutic window during the inflammatory phase of EPS than when extensive scar formation is already present, so B is correct. Intervening early, before fibrosis is established, gives corticosteroids and antifibrotic agents the best chance to work. Treatment is not more effective after extensive scarring (A), the phases do not respond equally (C), and it is the inflammatory rather than only the sclerosing phase that responds to steroids (D). This underscores why early recognition of the inflammatory features matters."
+    },
+    {
+      "topic": "EPS and hemodialysis",
+      "question": "Why is it unclear whether an EPS patient should be transitioned to hemodialysis?",
+      "options": {
+        "A": "Because hemodialysis always accelerates fibrosis",
+        "B": "Because stopping PD reduces continuing exposure, but leaving the abdomen dry stops the PD 'washout' of inflammatory mediators",
+        "C": "Because hemodialysis is technically impossible",
+        "D": "Because transplantation is preferred over both"
+      },
+      "correct": "B",
+      "explanation": "It is unclear whether an EPS patient should transition to hemodialysis because stopping PD reduces continuing exposure to the process that led to EPS, but leaving the abdomen dry stops the 'washout' of inflammatory mediators that PD affords, so B is correct. Both effects pull in opposite directions, leaving the decision uncertain. Hemodialysis does not always accelerate fibrosis (A), is technically feasible (C), and transplantation is not simply preferred over both (D). This trade-off between reducing exposure and losing peritoneal washout defines the clinical dilemma."
+    },
+    {
+      "topic": "EPS surgery",
+      "question": "For a patient with an established abdominal cocoon and recurrent bowel obstruction, which is true about surgery?",
+      "options": {
+        "A": "It is low-risk and routinely curative",
+        "B": "It may be necessary, but risks of bowel tear, fecal peritonitis, and operative mortality are all high, so an experienced surgeon is essential",
+        "C": "It should never be attempted",
+        "D": "It eliminates the need for dialysis"
+      },
+      "correct": "B",
+      "explanation": "For an established abdominal cocoon with recurrent bowel obstruction, surgery may be necessary, but risks of bowel tear, fecal peritonitis, and operative mortality are all high, so an experienced surgeon is essential, making B correct. This is high-stakes surgery, not low-risk and routinely curative (A). It should not be categorically avoided (C), and it does not eliminate the need for dialysis (D). Consulting a surgeon familiar with the operative approach to enterolysis of the cocoon is critical to minimize the substantial risks in these fragile patients."
+    },
+    {
+      "topic": "Hernia types",
+      "question": "Which of the following is among the types of hernia reported in peritoneal dialysis patients?",
+      "options": {
+        "A": "Hiatal hernia",
+        "B": "Spigelian hernia",
+        "C": "Diaphragmatic eventration",
+        "D": "Bochdalek hernia"
+      },
+      "correct": "B",
+      "explanation": "Spigelian hernia is among the types reported in PD patients, so B is correct. Table 28.2 lists ventral, epigastric, pericatheter, umbilical, inguinal (direct and indirect), femoral, foramen of Morgagni, cystocele, Spigelian, Richter's, and enterocele. Hiatal hernia (A), diaphragmatic eventration (C), and Bochdalek hernia (D) are not on that list. The broad range of hernia types reflects how chronically raised IAP from dialysate can exploit any weak point in the abdominal wall, underscoring the need to examine PD patients thoroughly."
+    },
+    {
+      "topic": "Other leaks",
+      "question": "Leaks due to dissection of dialysate through fascial defects generally require the patient to do what?",
+      "options": {
+        "A": "Increase dwell volumes",
+        "B": "Convert to day dry APD or hemodialysis",
+        "C": "Undergo immediate laparotomy",
+        "D": "Start corticosteroids"
+      },
+      "correct": "B",
+      "explanation": "Leaks due to dissection of dialysate through fascial defects generally require the patient to convert to day-dry APD or hemodialysis, so B is correct. Removing the daytime dwell keeps the abdomen empty and lowers IAP so the defect can heal, and hemodialysis is the alternative. Increasing dwell volumes (A) would worsen the leak, immediate laparotomy (C) is not the default, and corticosteroids (D) treat EPS. This mirrors the management of vaginal and abdominal wall leaks, all relying on reducing intraperitoneal fluid and pressure."
+    },
+    {
+      "topic": "Hydrothorax treatment",
+      "question": "If a PD patient with hydrothorax develops respiratory symptoms, what is the immediate step?",
+      "options": {
+        "A": "Increase dialysate volume",
+        "B": "Stop peritoneal dialysis immediately",
+        "C": "Start corticosteroids",
+        "D": "Place the patient upright"
+      },
+      "correct": "B",
+      "explanation": "If a PD patient with hydrothorax develops respiratory symptoms, peritoneal dialysis should be stopped immediately, so B is correct. Halting PD removes the source of dialysate crossing into the pleural space. Increasing dialysate volume (A) would worsen the effusion, corticosteroids (C) treat EPS, and placing the patient upright (D) raises IAP and pressure-driven flux into the pleura. Thoracentesis may then be needed both to relieve symptoms and to confirm the diagnosis by measuring a high glucose level in the pleural fluid."
+    },
+    {
+      "topic": "Abdominal wall leak treatment",
+      "question": "If an abdominal wall leak results from disruption of abdominal wall integrity, the patient should be converted to what?",
+      "options": {
+        "A": "High-volume sitting CAPD",
+        "B": "A day dry APD regimen or to hemodialysis",
+        "C": "Continuous hypertonic dwells",
+        "D": "Immediate surgery in all cases"
+      },
+      "correct": "B",
+      "explanation": "If an abdominal wall leak results from disruption of abdominal wall integrity, the patient should be converted to a day-dry APD regimen or to hemodialysis, so B is correct. Keeping the abdomen empty during the day lowers IAP and lets the defect heal. High-volume sitting CAPD (A) and continuous hypertonic dwells (C) would raise pressure and worsen the leak, and surgery is not required in all cases (D). Sometimes the wall defect heals after a transient day-dry course, allowing CAPD to be resumed, and occasionally surgical repair is feasible."
+    }
+  ]
+}

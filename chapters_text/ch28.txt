@@ -1,0 +1,402 @@
+513
+The instillation of dialysis fluid into the peritoneal cavity is 
+ accompanied by an increase in intra-abdominal pressure (IAP). The 
+two principal determinants of its magnitude are dialysate volume 
+and the position of the patient during the dwell. The supine posi-
+tion is associated with the lowest IAP for a given dialysate volume; 
+sitting is associated with the highest. Furthermore, actions such as 
+coughing, bending, or straining at stool transiently increase IAP . The 
+increased IAP can lead to a variety of mechanical complications in 
+peritoneal dialysis (PD) patients.
+ I. HERNIA FORMATION
+A. Incidence and etiologic factors.  The incidence and prevalence of 
+hernias are difficult to assess. Hernias can be asymptomatic 
+and may be missed on cursory examination. It has been sug-
+gested that as many as 10%–20% of patients may develop a 
+hernia at some time on peritoneal dialysis.
+Potential risk factors are listed in Table 28.1 and include 
+large dialysate volumes and activities that involve isometric 
+straining or the Valsalva maneuver. Furthermore, decondition-
+ing of the musculature of the abdominal wall increases wall 
+tension and predisposes to hernia formation.
+Hernias, Leaks, 
+and Encapsulating 
+Peritoneal Sclerosis
+Joanne M. Bargman
+28
+Large dialysate volumes
+Sitting position
+Isometric exercise
+Valsalva maneuver (e.g., coughing, straining at stool)
+Recent abdominal surgery
+Pericatheter leak or hematoma
+Obesity
+Deconditioning
+Multiparity
+Congenital anatomical defects
+Potential Risk Factors for Hernia Formation
+28.1
+TABLE
+Daugirdas9781451144291-ch028.indd   513 09/10/14   1:35 am
+Part III / Peritoneal Dialysis
+514
+B. Types of hernia.  Many different types of hernia have been 
+described in the peritoneal dialysis patient. These are listed in 
+Table 28.2.
+Indirect inguinal hernias are the result of bowel and/or 
+dialysate tracking through the processus vaginalis, which in 
+some individuals has remained patent rather than undergo -
+ing normal obliteration. It is much more common in males. In 
+boys, it is very likely that if one processus vaginalis is patent 
+(causing inguinal hernia), then the other side is patent also, 
+and repair (see below) should be done bilaterally.
+C. Diagnosis. As mentioned above, hernias can be clinically 
+occult. To better detect them, it is often useful to have the 
+patient stand and “bear down” as this increases IAP and 
+makes a hernia more obvious. Pericatheter hernias need to be 
+differentiated from masses caused by a hematoma, seroma, or 
+abscess. Ultrasonography can distinguish the solid-appearing 
+hernia from the fluid collections characterizing these other 
+conditions. The scrotal fullness of an indirect inguinal her -
+nia has in its differential diagnosis hydrocele ( fluid/dialysate 
+entering the scrotum through a patent processus vaginalis) 
+and intrinsic scrotal or testicular pathology.
+Delineation of a hernia can be aided by dye-assisted 
+computed tomography (CT). First, 100 mL of Omnipaque 300 
+is added to a 2-L bag of dialysate and then instilled into the 
+peritoneal cavity. It is important that the patient then be as 
+active and ambulatory as possible for the next 2 hours to 
+facilitate the entry of dye into the hernia sacs. CT scanning 
+is then performed. In the case of inguinal hernias, it is impor -
+tant that the genitalia be scanned. The CT scan can indicate 
+whether scrotal edema is the result of fluid tracking along a 
+patent processus vaginalis or along the anterior abdominal 
+wall (see below). This procedure can also help delineate ante-
+rior abdominal wall hernia from isolated leaks. In other types 
+of hernia, such as umbilical hernia, CT scanning is not neces-
+sary because the diagnosis is usually obvious.
+Ventral
+Epigastric
+Pericatheter
+Umbilical
+Inguinal (direct and indirect)
+Femoral
+Foramen of Morgagni
+Cystocele
+Spigelian
+Richter’s
+Enterocele
+Types of Hernias Reported in Peritoneal Dialysis Patients
+28.2
+TABLE
+Daugirdas9781451144291-ch028.indd   514 09/10/14   1:35 am
+Chapter 28 / Hernias, Leaks, and Encapsulating Peritoneal Sclerosis 515
+Magnetic resonance imaging may be useful in the diagno-
+sis of abdominal wall and genital leaks, and it may be helpful in 
+patients with allergy to conventional radiologic dye. The dialy-
+sate itself looks bright white on the MRI images.
+D. T reatment.  Small hernias, especially umbilical hernias, pose 
+the greatest risk of incarceration or strangulation of bowel. 
+These should be repaired surgically. The patient should be 
+warned that if a hernia stops being reducible, and especially 
+if it becomes tender, medical consultation should be sought 
+immediately. Any patient presenting with peritonitis 
+should be examined for the presence of small strangu-
+lated hernias, as these can lead to transmural leakage of 
+bacteria and peritonitis. Large hernias can also be repaired 
+surgically, as can cystocele and enterocele. Uterine prolapse 
+(not really a hernia) can sometimes be managed with a pes-
+sary, but ultimately hysterectomy may be necessary.
+After surgical repair of a hernia, IAP must be kept as low as 
+possible to facilitate healing. If the patient has significant resid-
+ual renal function (e.g., 10 mL/min or more), it may be possible 
+to stop dialysis altogether for a week and then recommence 
+with small volumes (e.g., 1 L). The patient must be watched 
+for the development of uremic symptoms or hyperkalemia. If 
+automated peritoneal dialysis (APD) is available, the patient 
+can dialyze supine and hence with lower IAP . If there is little 
+or no renal function, low-volume peritoneal dialysis should be 
+started postoperatively. An alternative is to hemodialyse the 
+patient until wound healing is more complete (2–3 weeks).
+Options for the patient with recurrent hernias include a 
+reduction in strenuous physical activity, more frequent dialysis 
+exchanges with lower volumes, or transfer to hemodialysis.
+If the patient is too ill or refuses surgery, mechanical sup-
+port of the hernia can be effected with a corset or truss. The 
+patient should be warned about symptoms of incarceration 
+and strangulation.
+ II. ABDOMINAL W ALL AND PERICATHETER LEAK.  The precise incidence 
+of  these complications is also unknown, but they are less com-
+mon than hernias. Risk factors are similar to those outlined in 
+Table 28.1. Poor surgical technique may play a role in the develop-
+ment of pericatheter leak.
+A. Diagnosis. Abdominal wall leak may be difficult to diag-
+nose clinically. It may be mistaken for ultrafiltration failure 
+when dialysate returns are less than the instilled volume 
+ (see   Chapter  21). Weight gain is common as the dialysate 
+accumulates in the tissues of the abdominal wall. The diag-
+nosis should be considered when there are decreased effluent 
+volumes, weight gain, protuberant abdomen, and absence 
+of generalized edema. The patient should stand during the 
+examination as this may reveal asymmetry of the abdomen. 
+The abdominal wall itself may have a “boggy” look, with deep 
+impressions made by waist bands, dialysate tubing, etc.
+Daugirdas9781451144291-ch028.indd   515 09/10/14   1:35 am
+Part III / Peritoneal Dialysis
+516
+Pericatheter leak is usually diagnosed by wetness (dialy-
+sate) on the exit site dressing. A urine dipstick placed on the 
+wet part will test strongly positive for glucose. Diagnosis can 
+be proven using contrast CT scanning as described under 
+“Hernia formation” (Section I.C).
+B. Treatment. Pericatheter leak usually occurs as a postop -
+erative complication of catheter implantation. The patient 
+should be drained and peritoneal dialysis stopped for at least 
+24–48 hours. The longer the patient can be left off peritoneal 
+dialysis, the greater the chance that the leak will seal itself. If 
+necessary, the patient should receive hemodialysis, and peri-
+toneal dialysis can be recommenced several days later. In most 
+cases, the leak seals spontaneously. If it persists, the catheter 
+should be removed and reinserted at another site, and special 
+care should be taken in catheter implantation. Antibiotic pro-
+phylaxis is not usually necessary for pericatheter leak unless 
+there are obvious signs of infection.
+In contrast to pericatheter leaks, abdominal wall leaks 
+can occur early or late. APD in the supine position usually 
+allows the dialysate accumulation to resolve. If the leak is the 
+result of disruption of abdominal wall integrity, the patient 
+should be converted to a day dry APD regimen or to hemo -
+dialysis. Sometimes, the abdominal wall defect heals after a 
+transient course of day dry APD and continuous ambulatory 
+peritoneal dialysis (CAPD) can then be resumed. Sometimes 
+surgical repair is feasible.
+Vaginal leaks can also occur. Other leaks can be due to 
+dissection of dialysate through fascial defects and require 
+patients to convert to day dry APD or hemodialysis.
+III. GENITAL EDEMA
+A. Pathogenesis. Dialysate can reach the genitalia by two routes:
+One is by traveling down a patent processus vaginalis to the 
+tunica vaginalis, resulting in hydrocele. In this first route, the 
+dialysate can also dissect through the walls of the tunica vagi-
+nalis, causing edema of the scrotal (or, less commonly, labial) 
+wall itself. The second route is through a defect in the abdomi-
+nal wall, often associated with the catheter tract. In this 
+instance, the dialysate tracks inferiorly along the abdominal 
+wall. This leads to edema of the foreskin and scrotum, or mons 
+pubis.
+B. Diagnosis. This complication is often painful and distressing 
+to the patient who will be quick to bring it to medical atten-
+tion. CT peritoneography should be performed to distin -
+guish which route has led to the genital swelling (i.e., anterior 
+abdominal wall or processus vaginalis). Alternatively, 3–5 mCi 
+of technetium-labeled albumin colloid can be injected into the 
+dialysate and infused into the patient, and the route of leakage 
+traced by scintigraphy.
+C. Treatment. Peritoneal dialysis should be temporarily stopped. 
+Bed rest and scrotal elevation are helpful. Depending on the 
+Daugirdas9781451144291-ch028.indd   516 09/10/14   1:35 am
+Chapter 28 / Hernias, Leaks, and Encapsulating Peritoneal Sclerosis 517
+need, temporary APD with low volumes and with the patient 
+supine can often be used without causing reaccumulation 
+of genital edema. If necessary, hemodialysis can be used 
+temporarily.
+A leak via a patent processus vaginalis can be repaired 
+surgically. If the leak is through the anterior abdominal wall, 
+replacement of the catheter may be required. APD in the 
+supine position with low volume or no day dwell allows lower 
+IAP and decreases the chances of recurrent leakage.
+ I V. RESPIRATORY COMPLICATIONS
+A. Hydrothorax. Under the influence of raised IAP , dialysate can 
+travel from the peritoneal to the pleural cavity, leading to a 
+pleural effusion composed of dialysis effluent. This complica -
+tion is termed hydrothorax.
+1. Incidence and etiologic factors.  The incidence of hydrothorax 
+is unknown because the pleural effusion may be small and 
+asymptomatic. It is less common than hernia.
+There are defects in the hemidiaphragm that allow 
+passage of dialysate. These defects may be congenital, in 
+which case hydrothorax can occur with the first dialysis 
+exchange, or acquired, in which case hydrothorax can be a 
+late complication. Hydrothorax occurs almost exclusively 
+on the right side, probably because the left hemidiaphragm 
+is mostly covered by the heart and pericardium.
+2. Diagnosis. Symptoms of hydrothorax range from asymp -
+tomatic pleural effusion to severe shortness of breath. 
+Acute shortness of breath at the beginning of PD therapy 
+should suggest this diagnosis. Thoracentesis can be done 
+for diagnosis and/or to relieve symptoms. The most diag-
+nostic feature of the pleural fluid is a very high glucose 
+level, although this is often not found. It is otherwise typi-
+cally transudative, with variable numbers of leukocytes.
+Radionuclide scanning with technetium may be help -
+ful. Technetium-labeled albumin colloid (5 mCi) is added 
+to a dialysate bag, which is then infused into the patient. 
+Posterior views are taken at 0, 10, 20, and 30 minutes and 
+an anterior view at 30 minutes. It is important that the 
+patient be ambulatory while the instilled tracer is dwell -
+ing to increase IAP and flux into the pleural cavity. Late 
+(2–3 hours) views may be necessary if the movement of 
+the tracer into the pleural cavity is not detected by gamma 
+camera in earlier shots. CT scanning with intraperitoneal 
+dye can also be used.
+3. T reatment.  If there are respiratory symptoms, peritoneal 
+dialysis should be stopped immediately. Thoracentesis may 
+be necessary; in which case, the diagnosis can be made by 
+measuring glucose in the pleural fluid.
+Definitive treatment entails repair of defects in 
+the hemidiaphragm or obliteration of the pleural space 
+(pleurodesis). Rarely, the dialysate itself acts as an irritant 
+Daugirdas9781451144291-ch028.indd   517 09/10/14   1:35 am
+Part III / Peritoneal Dialysis
+518
+in the pleural cavity and causes pleurodesis, so that peri -
+toneal dialysis can be resumed 1–2 weeks later. APD with 
+low IAP (small volumes, supine position) can sometimes be 
+carried out without recurrence. The movement of fluid into 
+the pleural space is pressure-driven, so leaving the patient 
+in the supine position is helpful. Surgical options for treat -
+ment of hydrothorax are listed in Table 28.3.
+B. Altered mechanics of breathing. Pulmonary function is unchanged 
+with peritoneal dialysis, except for a mildly decreased func-
+tional residual capacity. Arterial oxygenation has been 
+observed to decrease slightly and transiently with start of 
+CAPD.
+Peritoneal dialysis does not worsen respiratory symptoms 
+in patients with obstructive pulmonary disease. The tonic 
+stretch placed on the diaphragm by the raised IAP may actually 
+facilitate the mechanics of breathing in these patients.
+ V. BACK PAIN
+A. Pathogenesis. The presence of dialysate in the peritoneal cav-
+ity both raises IAP and swings the body’s center of gravity for-
+ward, producing lordotic stress on the lumbar vertebrae and 
+paraspinal muscles. In predisposed individuals, the altered 
+spinal mechanics can lead to exacerbation of sciatica or pos-
+terior facet symptoms. Lax anterior abdominal musculature 
+will exacerbate this effect.
+B. Treatment. Bed rest and analgesia are important when symp-
+toms are acute. Some patients benefit by the performance 
+of more frequent exchanges with smaller dialysate volumes. 
+If possible, APD with a small or no day dwell is advisable for 
+these patients because dialyzing supine removes the lordotic 
+stress on the lumbar spine. Ideally, the patient should under -
+take abdomen and back strengthening exercises, but this is 
+not always feasible.
+VI. OVERFILL. Overfill is defined as a clinical event in which symptoms 
+of raised IAP occur acutely in association with a very high dwell
+volume to fill volume ratio. It is most likely to be significant if
+the ratio exceeds 2.0, for example, a 4-L end-dwell volume in a
+patient whose fill volume is 2 L. Symptoms typically include acute 
+Pleurodesis
+ Talc
+ Oxytetracycline
+Autologous blood
+Aprotonin–fibrin glue
+Repair of hemidiaphragm
+Oversewing defects
+Reinforcement with patches
+Surgical Options for Treatment of Hydrothorax
+28.3
+TABLE
+Daugirdas9781451144291-ch028.indd   518 09/10/14   1:35 am
+Chapter 28 / Hernias, Leaks, and Encapsulating Peritoneal Sclerosis 519
+abdominal discomfort or shortness of breath. Most  episodes 
+result from situations where dialysis solution volume is infused 
+without adequate drainage of the previous dwell volume. This 
+may be accidental, but more often it is associated with poor cath-
+eter outflow function. A large volume of ultrafiltrate may also 
+contribute. Significant overfill is more common in children, in 
+patients on APD, especially when tidal prescriptions are being 
+used and in those in whom minimum drain alarms are turned 
+off. Newer cyclers make it more difficult to initiate cycling with-
+out a complete drain of the day dwell and also have precautions 
+in place to drain cumulative ultrafiltrate. Asymptomatic overfill 
+episodes are probably quite common. Rarely, deaths have been 
+associated with severe overfill.
+VII. ENCAPSULATING PERITONEAL SCLEROSIS
+A. Incidence and etiologic factors.  Encapsulating Peritoneal Sclero-
+sis (EPS) is a rare but devastating complication of long-term 
+PD that has been reported to occur in 1%–3% of patients. 
+There is an early inflammatory phase associated with vague 
+abdominal discomfort, a change to a rapid transport status, 
+bloody effluent, and signs of inflammation, including eryth -
+ropoietin-resistant anemia and elevated C-reactive protein. 
+The inflammatory phase can progress, either with or without 
+a “second hit” such as peritonitis, to a sclerosing phase where 
+a fibrotic cocoon slowly encapsulates the small bowel. In this 
+second phase, the patient typically shows weight loss and 
+recurrent bowel obstruction.
+The strongest risk factor for EPS is the duration of PD 
+therapy. Although the overall incidence is low, it becomes sig-
+nificant after 5 years and even more so after 10 years. Young 
+age at onset of PD is also an independent risk factor. Patients 
+who have transitioned to hemodialysis or renal transplant are 
+still vulnerable.
+There is no reliable association of EPS with the type 
+or number of episodes of PD peritonitis, or with the type or 
+strength of PD solutions used. Patients with underlying auto -
+immune/inflammatory disease such as lupus or vasculitis may 
+be predisposed.
+B. Diagnosis and treatment. The inflammatory phase of EPS should 
+be considered when a long-term PD patient presents with 
+new bloody effluent, inflow or outflow pain, or generalized 
+abdominal discomfort. The sclerosing phase is suggested by 
+recurrent bowel obstruction. As mentioned, the patient may 
+no longer be on PD. Inflammatory markers may be elevated.
+Imaging is helpful in the sclerosing phase, where cocoon-
+ing of the bowel is seen, in conjunction with thickening, 
+tethering, enhancement, and calcification of the peritoneal 
+membrane. Thickening of the peritoneal membrane is seen 
+in any long-term PD patient and, by itself, is not diagnostic 
+of EPS. Regular CT surveillance of long-term patients has not 
+been shown to be helpful.
+Daugirdas9781451144291-ch028.indd   519 09/10/14   1:35 am
+Part III / Peritoneal Dialysis
+520
+The inflammatory phase of EPS is best treated with 
+ modest doses of corticosteroid. Infective causes should be 
+ruled out before contemplating this therapy. The duration of 
+treatment is unclear and could be titrated to the symptoms. 
+Some studies have suggested the addition of tamoxifen or 
+mTor inhibitors for their antifibrotic effects. As in any scleros-
+ing condition, there is a better therapeutic window during the 
+inflammatory phase than when there is already extensive scar 
+formation.
+It is not clear whether the patient should be transitioned 
+to hemodialysis. On the one hand, it reduces continuing expo-
+sure to the process that led to the EPS. On the other hand, 
+leaving the abdomen dry stops the “washout” of inflammatory 
+mediators that PD affords.
+In the patient with an established abdominal cocoon and 
+recurrent bowel obstruction, surgery may be necessary. It is 
+very important to consult a surgeon who is familiar with the 
+operative approach to this kind of patient, as the risk of bowel 
+tear, fecal peritonitis, and operative mortality are all high.
+References and Suggested Readings
+Balda S, et al. Impact of hernias on peritoneal dialysis technique survival and residual 
+renal function. Perit Dial Int. 2013;33:629–634.
+Chow KM, et al. Management options for hydrothorax complicating peritoneal 
+ dialysis. Semin Dial. 2003;16:389–394.
+Cizman B, et al. The occurrence of increased intraperitoneal volume events in 
+ automated peritoneal dialysis in the U.S.: role of programming, patient/user 
+actions and ultrafiltration. Perit Dial Int. 2014;34:434–442.
+Davis ID, et al. Relationship between drain volume /fill volume ratio and clinical 
+ outcomes associated with overfill complaints in peritoneal dialysis episodes. Perit 
+Dial Int. 2011;31:148–155.
+Dimitriadis CA, Bargman JM. Gynecologic issues in peritoneal dialysis. Adv Perit Dial. 
+2011;27:101–105.
+Goldstein M, et al. Continuous ambulatory peritoneal dialysis: a guide to imaging 
+appearances and complications. Insights Imaging. 2013;4:85–92.
+Goodlad C, et al. Screening for encapsulating peritoneal sclerosis in patients on 
+ peritoneal dialysis: role of CT scanning. Nephrol Dial Transplant. 2011;26:  
+1374–1379.
+Lew SQ. Hydrothorax: pleural effusion associated with peritoneal dialysis. Perit Dial 
+Int. 2010;30:13–18.
+Martinez-Mier G, et al. Abdominal wall hernias in end-stage renal disease patients on 
+peritoneal dialysis. Perit Dial Int. 2008;28:391–396.
+Prischl F, et al. Magnetic resonance imaging of the peritoneal cavity among perito-
+neal dialysis patients, using the dialysate as “contrast medium. ” J Am Soc Nephrol. 
+2002;13:197–203.
+Shah H, Chu M, Bargman JM. Perioperative management of peritoneal dialysis patients 
+undergoing hernia surgery repair without the use of interim hemodialysis. Perit 
+Dial Int. 2006;26:684–687.
+Daugirdas9781451144291-ch028.indd   520 09/10/14   1:35 am

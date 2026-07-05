@@ -1,0 +1,665 @@
+{
+ "chapter": 26,
+ "questions": [
+  {
+   "topic": "Consequences of overload",
+   "question": "Fluid overload in peritoneal dialysis patients is a major contributor to which condition that is the leading cause of death in all dialysis patients?",
+   "options": {
+    "A": "Cardiovascular disease",
+    "B": "Infectious complications",
+    "C": "Malnutrition alone",
+    "D": "Malignancy"
+   },
+   "correct": "A",
+   "explanation": "Cardiovascular disease is correct because chronic fluid overload drives left ventricular hypertrophy and is a major contributor to cardiovascular disease, which the chapter names as the leading cause of death in all dialysis patients. Infection, malnutrition alone, and malignancy are not identified as the leading cause of dialysis mortality; malnutrition and inflammation are instead listed among the associations of overload rather than the top killer. Clinically this matters because persistent volume excess quietly remodels the heart, so recognizing and correcting overload is central to reducing dialysis mortality."
+  },
+  {
+   "topic": "Consequences of overload",
+   "question": "Besides cardiovascular effects, fluid overload in PD patients is associated with all of the following EXCEPT?",
+   "options": {
+    "A": "Hypoalbuminemia",
+    "B": "Polycythemia",
+    "C": "Inflammation",
+    "D": "Atherosclerosis"
+   },
+   "correct": "B",
+   "explanation": "Polycythemia is correct as the exception because the chapter links fluid overload with hypoalbuminemia, malnutrition, inflammation, and atherosclerosis, but never with a raised red cell mass. Hypoalbuminemia, inflammation, and atherosclerosis are all explicitly listed together (the malnutrition-inflammation-atherosclerosis cluster reported by Demirci, 2011), so those three are wrong choices for an EXCEPT question. Recognizing this cluster is useful because a hypoalbuminemic, inflamed PD patient should prompt a search for occult volume overload rather than reassurance."
+  },
+  {
+   "topic": "Manifestations",
+   "question": "Which of the following is a recognized clinical manifestation of fluid overload in PD patients?",
+   "options": {
+    "A": "Hypotension only",
+    "B": "Bradycardia",
+    "C": "Generalized edema and pulmonary edema",
+    "D": "Weight loss"
+   },
+   "correct": "C",
+   "explanation": "Generalized edema and pulmonary edema is correct because the chapter states fluid overload can manifest as generalized edema, pulmonary edema, and hypertension. Hypotension only and bradycardia are wrong; overload characteristically raises blood pressure rather than lowering it, and hypotension in PD is discussed separately as a distinct problem often caused by hypovolemia or cardiac disease. Weight loss is the opposite of what volume gain produces. Clinically, the triad of edema, pulmonary congestion, and hypertension should trigger reassessment of dry weight and ultrafiltration."
+  },
+  {
+   "topic": "Assessment of fluid status",
+   "question": "The assessment of fluid status in PD patients is based primarily on which of the following?",
+   "options": {
+    "A": "Peritoneal biopsy",
+    "B": "CT scanning",
+    "C": "Cardiac catheterization",
+    "D": "Clinical examination"
+   },
+   "correct": "D",
+   "explanation": "Clinical examination is correct because the chapter states assessment of fluid status rests primarily on clinical examination, which at best gives only a crude estimation. Peritoneal biopsy, CT scanning, and cardiac catheterization are not endorsed as routine volume tools; adjuncts mentioned are bioimpedance, serum BNP, and ultrasound of the inferior vena cava or lungs, none of which replaces the bedside assessment. The teaching point is that because examination is imprecise, dry weight must be found by repeated reassessment and trial and error rather than a single definitive test."
+  },
+  {
+   "topic": "Dry weight",
+   "question": "The target body weight or dry weight in PD is best defined as the weight that gives which state?",
+   "options": {
+    "A": "A well-tolerated, normotensive, edema-free state",
+    "B": "The lowest weight tolerated before cramping",
+    "C": "A weight matching bioimpedance exactly",
+    "D": "The weight at which BNP normalizes"
+   },
+   "correct": "A",
+   "explanation": "A well-tolerated, normotensive, edema-free state is correct because that is exactly how the chapter defines target or dry weight in PD, reached by trial and error just as in hemodialysis. The lowest weight before cramping describes a hemodialysis-style symptom endpoint, not the PD definition. Matching bioimpedance exactly or normalizing BNP are wrong because both are only imperfect adjuncts; bioimpedance lacks high-grade evidence and BNP cannot separate overload from cardiac injury. The clinical point is that dry weight is a clinical target requiring frequent review, not a number from a machine."
+  },
+  {
+   "topic": "Assessment challenges",
+   "question": "Why is the process of determining dry weight potentially more protracted and less well done in PD than in hemodialysis?",
+   "options": {
+    "A": "PD patients have no residual renal function",
+    "B": "PD patients tend to be seen less frequently",
+    "C": "PD dialysate cannot be adjusted",
+    "D": "Bioimpedance is contraindicated in PD"
+   },
+   "correct": "B",
+   "explanation": "PD patients tend to be seen less frequently is correct because the chapter notes that since PD patients are reviewed less often than hemodialysis patients, the trial-and-error process of finding dry weight risks being more protracted and less well done. PD patients often retain residual renal function early on, so option A is false, and dialysate strength is very much adjustable through dextrose selection, making C wrong. Bioimpedance is actually used in PD, so D is wrong. The lesson is that infrequent contact makes scheduled, deliberate volume reassessment essential in PD."
+  },
+  {
+   "topic": "Bioimpedance",
+   "question": "Bioimpedance analysis involves attaching electrodes and applying low-voltage currents to estimate what?",
+   "options": {
+    "A": "Peritoneal membrane thickness",
+    "B": "Cardiac output",
+    "C": "Extracellular and intracellular fluid volumes",
+    "D": "Residual renal clearance"
+   },
+   "correct": "C",
+   "explanation": "Extracellular and intracellular fluid volumes is correct because bioimpedance passes low-voltage currents through electrodes and, from tissue resistance, estimates these two fluid compartments. It does not image membrane thickness, measure cardiac output, or quantify residual clearance, so A, B, and D are wrong. The chapter cautions that although bioimpedance is used in some centers, it lacks high-grade evidence to justify it (John, 2010). Clinically it can support but not replace examination, and icodextrin has been shown to lower the extracellular-to-intracellular fluid ratio measured this way."
+  },
+  {
+   "topic": "BNP",
+   "question": "What is a key limitation of serum brain natriuretic peptide (BNP) levels in assessing volume status?",
+   "options": {
+    "A": "They are not predictive of patient outcomes",
+    "B": "They cannot be measured in PD patients",
+    "C": "They are elevated only during peritonitis",
+    "D": "They do not reliably distinguish fluid overload from cardiac injury"
+   },
+   "correct": "D",
+   "explanation": "They do not reliably distinguish fluid overload from cardiac injury is correct because the chapter states BNP is in clinical use and predicts patient outcomes but cannot separate volume excess from cardiac damage (Granja, 2007; Wang, 2007). Option A is wrong precisely because BNP is predictive of outcomes; B is wrong because it can be measured in PD patients; and C is wrong because BNP elevation reflects cardiac stretch, not just peritonitis. The clinical implication is that a high BNP should be interpreted alongside examination, since it may signal cardiac disease as much as fluid overload."
+  },
+  {
+   "topic": "Mechanisms of overload",
+   "question": "Fluid overload in a PD patient may reflect any combination of factors EXCEPT which of the following?",
+   "options": {
+    "A": "Excessive residual renal function",
+    "B": "Inappropriate prescription",
+    "C": "Mechanical problems",
+    "D": "Peritoneal membrane dysfunction"
+   },
+   "correct": "A",
+   "explanation": "Excessive residual renal function is correct as the exception because preserved residual function actually helps clear fluid; it is its loss, not its excess, that contributes to overload. The chapter lists the true mechanisms as inappropriate prescription, noncompliance, loss of residual renal function, mechanical problems, and peritoneal membrane dysfunction, so B, C, and D are all genuine causes. The teaching point is that overload is usually multifactorial, so preserving residual renal function is protective and a clinician should look across several contributors rather than assuming a single cause."
+  },
+  {
+   "topic": "Mechanisms of overload",
+   "question": "An important principle in evaluating a PD patient's fluid overload is to avoid thoughtlessly attributing all overload to what?",
+   "options": {
+    "A": "Dietary noncompliance",
+    "B": "Membrane-related ultrafiltration failure",
+    "C": "Loss of residual renal function",
+    "D": "Catheter malfunction"
+   },
+   "correct": "B",
+   "explanation": "Membrane-related ultrafiltration failure is correct because the chapter warns clinicians to avoid thoughtlessly attributing all fluid overload to membrane-related UFF, stressing that any single factor alone may not explain a given patient. Dietary noncompliance, loss of residual renal function, and catheter malfunction are all legitimate contributors that must be actively considered, so A, C, and D are not the pitfall being described. The clinical lesson is to work through prescription, compliance, residual function, and mechanical causes before concluding the membrane has failed, since misattribution leads to the wrong management."
+  },
+  {
+   "topic": "UFF definition",
+   "question": "Ultrafiltration failure (UFF) is defined as fluid overload in association with an ultrafiltration volume below what threshold in a modified PET?",
+   "options": {
+    "A": "<100 mL",
+    "B": "<250 mL",
+    "C": "<400 mL",
+    "D": "<600 mL"
+   },
+   "correct": "C",
+   "explanation": "Less than 400 mL is correct because UFF is defined as fluid overload combined with an ultrafiltration volume below 400 mL on a modified peritoneal equilibration test (Ho-dac-Pannakeet, 1997). The other thresholds of 100, 250, and 600 mL are not the accepted cutoff. Critically, the diagnosis also requires clinical evidence of overload and exclusion of catheter malfunction and leaks first. The clinical point is that a low drained volume alone does not equal UFF; the number must be paired with genuine overload and mechanical causes ruled out before labeling membrane failure."
+  },
+  {
+   "topic": "Modified PET",
+   "question": "The modified peritoneal equilibration test used to diagnose UFF uses which dialysate dextrose concentration?",
+   "options": {
+    "A": "1.5%",
+    "B": "2.5%",
+    "C": "7.5%",
+    "D": "4.25%"
+   },
+   "correct": "D",
+   "explanation": "4.25% is correct because the modified PET employs a 4.25% (hypertonic) dialysate dwell instead of the 2.5% bag used in the standard PET, providing a stronger osmotic challenge to test true ultrafiltration capacity. The 1.5% and 2.5% solutions are lower-strength dwells (2.5% being the standard PET), and 7.5% is not a PD dextrose concentration used here. The higher glucose load maximizes the osmotic gradient, so a drained volume still below 400 mL on this stringent test confirms genuine ultrafiltration failure rather than simply an underpowered prescription."
+  },
+  {
+   "topic": "Standard PET",
+   "question": "The standard (unmodified) PET uses which dialysate dextrose concentration?",
+   "options": {
+    "A": "2.5%",
+    "B": "1.5%",
+    "C": "4.25%",
+    "D": "3.86%"
+   },
+   "correct": "A",
+   "explanation": "2.5% is correct because the chapter contrasts the standard PET, which uses a 2.5% bag, with the modified PET that substitutes a stronger 4.25% dwell to diagnose UFF. Option C (4.25%) is the modified test, not the standard one, and 1.5% and 3.86% are not the stated standard PET concentration. The reason a hypertonic 4.25% dwell is preferred for diagnosing UFF is that it maximally stresses ultrafiltration; solute transport results from the two tests are very similar, so either can characterize the transport category once UFF is confirmed."
+  },
+  {
+   "topic": "UFF diagnosis",
+   "question": "UFF should NOT be diagnosed under which of the following circumstances?",
+   "options": {
+    "A": "When the patient is a high transporter",
+    "B": "When the ultrafiltration volume exceeds 400 mL",
+    "C": "When residual renal function is present",
+    "D": "When icodextrin is being used"
+   },
+   "correct": "B",
+   "explanation": "When the ultrafiltration volume exceeds 400 mL is correct because the chapter states UFF should not be diagnosed if drained volume is above 400 mL or if there is no clinical evidence of significant overload. Being a high transporter (A) actually predisposes to type I UFF rather than excluding it. Presence of residual renal function (C) and use of icodextrin (D) do not by themselves preclude the diagnosis. Additionally, UFF should not be diagnosed until catheter malfunction and leaks are excluded, reinforcing that both an adequate drained volume and genuine overload are prerequisites."
+  },
+  {
+   "topic": "Normal membrane",
+   "question": "An ultrafiltration volume greater than 400 mL in the modified PET implies what about the peritoneal membrane, prompting attention to which causes?",
+   "options": {
+    "A": "High transport; lymphatic causes",
+    "B": "Membrane failure; icodextrin overuse",
+    "C": "Normal membrane function; nonmembrane causes",
+    "D": "Aquaporin deficiency; sodium sieving"
+   },
+   "correct": "C",
+   "explanation": "Normal membrane function with attention to nonmembrane causes is correct because a drained volume above 400 mL on the modified 4.25% PET implies the membrane is ultrafiltrating normally, so any overload must stem from causes listed in Table 26.1 such as inappropriate prescription, noncompliance, lost residual function, or leaks. High transport and aquaporin deficiency are membrane problems that would instead reduce ultrafiltration, so A and D are wrong, and B is contradictory since good ultrafiltration is not membrane failure. The lesson is that a passing PET redirects the workup toward diet, compliance, and mechanical issues."
+  },
+  {
+   "topic": "Type I UFF",
+   "question": "In high-transporter (type I) UFF, why is fluid removal impaired?",
+   "options": {
+    "A": "Reduced membrane surface area",
+    "B": "Aquaporin channel deficiency",
+    "C": "Excessive lymphatic drainage",
+    "D": "Rapid dextrose absorption causing loss of the osmotic gradient"
+   },
+   "correct": "D",
+   "explanation": "Rapid dextrose absorption causing loss of the osmotic gradient is correct because in high transporters the dialysate glucose is absorbed quickly after infusion, so the concentration gradient that drives ultrafiltration dissipates and fluid removal fails. Reduced surface area (A) describes low-transporter type II UFF, aquaporin deficiency (B) is a separate rarer cause, and excessive lymphatic drainage (C) is type III UFF. Understanding this mechanism explains why short dwell times or icodextrin help type I patients: they either limit the time for glucose loss or use a nonabsorbed osmotic agent to sustain the gradient."
+  },
+  {
+   "topic": "Type I UFF",
+   "question": "Type I (high transporter) UFF is described as which of the following in terms of frequency?",
+   "options": {
+    "A": "The most common cause of UFF",
+    "B": "The rarest cause of UFF",
+    "C": "Equally common as type II",
+    "D": "Seen only in diabetics"
+   },
+   "correct": "A",
+   "explanation": "The most common cause of UFF is correct because the chapter explicitly states high-transporter UFF is the most common form and is often called type I. Type II (low transporter) UFF is described as much less common, so B and C are wrong, and type I is not restricted to diabetics, making D wrong. It typically develops after 3 or more years on PD and reflects increased membrane vascularity over time. Recognizing that the commonest UFF is a high-transport, gradient-dissipation problem guides clinicians toward short dwells and icodextrin as first-line remedies."
+  },
+  {
+   "topic": "Type I UFF",
+   "question": "Type I UFF typically develops after approximately how long on PD?",
+   "options": {
+    "A": "Within the first month",
+    "B": "After 3 or more years",
+    "C": "After 6 months",
+    "D": "Only after 10 years"
+   },
+   "correct": "B",
+   "explanation": "After 3 or more years is correct because the chapter states type I UFF typically develops after 3 or more years on PD, reflecting cumulative membrane change rather than an acute event. Within the first month (A) or 6 months (C) is too early for this gradual process, and only after 10 years (D) is too restrictive. The delay reflects progressive increases in effective peritoneal surface area from membrane vascularity, driven by cumulative glucose exposure and inflammation. Clinically, this time course means longstanding PD patients warrant particular vigilance for developing high-transport ultrafiltration failure."
+  },
+  {
+   "topic": "Type I mechanism",
+   "question": "Type I UFF is believed to reflect an increase in effective peritoneal surface area due to what?",
+   "options": {
+    "A": "Lymphatic hyperplasia",
+    "B": "Adhesions from peritonitis",
+    "C": "Increased membrane vascularity over time",
+    "D": "Loss of aquaporins"
+   },
+   "correct": "C",
+   "explanation": "Increased membrane vascularity over time is correct because type I UFF is believed to reflect a rise in effective peritoneal surface area consequent to greater membrane vascularity developing with time on PD, with interstitial fibrosis and membrane thickening increasingly recognized as contributors. Lymphatic hyperplasia relates to type III, adhesions from peritonitis reduce surface area in type II, and loss of aquaporins is a separate rarer cause, so A, B, and D are wrong. The larger, more vascular surface speeds glucose absorption and gradient loss, which is why resting the peritoneum can occasionally reverse it as vascularity resolves."
+  },
+  {
+   "topic": "Type I causes",
+   "question": "Which of the following is a recognized cause of type I UFF?",
+   "options": {
+    "A": "Chronic hypovolemia",
+    "B": "Excessive icodextrin use",
+    "C": "Overuse of amino acid dwells",
+    "D": "Cumulative exposure to high glucose loads"
+   },
+   "correct": "D",
+   "explanation": "Cumulative exposure to high glucose loads is correct because the chapter lists this (Davies, 2001), along with other bioincompatible features of PD fluid such as low pH, lactate, and toxic glucose degradation products, plus recurrent peritonitis and uremic inflammation, as causes of type I UFF. Chronic hypovolemia, excessive icodextrin, and overuse of amino acid dwells are not named causes; indeed icodextrin and glucose-sparing strategies are treatments that reduce glucose exposure. This underlies the emphasis on glucose sparing, since limiting hypertonic glucose helps protect the membrane from progressing to high-transport failure."
+  },
+  {
+   "topic": "Transient type I",
+   "question": "Type I UFF may occur transiently in some patients during and after which event?",
+   "options": {
+    "A": "Acute peritonitis",
+    "B": "Catheter insertion",
+    "C": "Icodextrin initiation",
+    "D": "Loop diuretic therapy"
+   },
+   "correct": "A",
+   "explanation": "Acute peritonitis is correct because the chapter notes type I UFF can occur transiently in patients with acute peritonitis, who develop a temporary rise in transport status during and after the episode owing to acute inflammation of the membrane. Catheter insertion, icodextrin initiation, and loop diuretic therapy are not linked to this transient high-transport state. The clinical value is recognizing that ultrafiltration may fail during an infection but recover afterward, so a diagnosis of permanent membrane failure should not be made in the setting of active or recent peritonitis."
+  },
+  {
+   "topic": "Type II UFF",
+   "question": "Low-transporter (type II) UFF is characterized by which combination?",
+   "options": {
+    "A": "Increased solute clearance and increased fluid removal",
+    "B": "Reduced small solute clearance and reduced fluid removal",
+    "C": "Normal clearance with high lymphatic absorption",
+    "D": "Aquaporin deficiency with normal transport"
+   },
+   "correct": "B",
+   "explanation": "Reduced small solute clearance and reduced fluid removal is correct because type II UFF patients have both, reflecting decreased membrane surface area, most often from adhesions and scarring after severe peritonitis or another intra-abdominal complication. Increased clearance and fluid removal (A) is the opposite of this scarred, low-transport state; normal clearance with high lymphatic absorption (C) describes type III; and aquaporin deficiency with normal transport (D) is the separate aquaporin problem. Because both clearance and ultrafiltration are lost, these patients are hard to maintain on PD unless they retain significant residual renal function."
+  },
+  {
+   "topic": "Type II management",
+   "question": "Why is it difficult to maintain type II UFF patients on PD unless they have significant residual renal function?",
+   "options": {
+    "A": "They develop aquaporin deficiency",
+    "B": "They absorb too much icodextrin",
+    "C": "They have reduced solute clearance and fluid removal",
+    "D": "They have rapid glucose absorption"
+   },
+   "correct": "C",
+   "explanation": "They have reduced solute clearance and fluid removal is correct because type II low-transporter UFF combines both deficits due to a shrunken, scarred membrane surface area, so PD cannot deliver adequate dialysis or ultrafiltration on its own. Aquaporin deficiency (A) is a different entity, icodextrin overabsorption (B) is not the issue, and rapid glucose absorption (D) is the high-transporter type I mechanism. Because the membrane itself is inadequate, these patients often need transfer to hemodialysis unless residual renal function compensates for the lost clearance and fluid removal."
+  },
+  {
+   "topic": "Type III UFF",
+   "question": "In UFF with transport in the normal range, increased lymphatic absorption of peritoneal fluid is termed which type?",
+   "options": {
+    "A": "Type I UFF",
+    "B": "Type II UFF",
+    "C": "Type IV UFF",
+    "D": "Type III UFF"
+   },
+   "correct": "D",
+   "explanation": "Type III UFF is correct because increased lymphatic absorption of peritoneal fluid, occurring in patients whose transport is in the normal range, is designated type III. Type I is the high-transporter gradient-loss form and type II is the low-transporter scarred-membrane form, so A and B are wrong, and there is no type IV described, making C wrong. Lymphatic absorption can be quantified by the disappearance rate of dextran 70 from the cavity, but this is rarely done, so type III tends to be a diagnosis of exclusion after mechanical causes are ruled out in a patient with normal-range transport."
+  },
+  {
+   "topic": "Lymphatic absorption",
+   "question": "Lymphatic absorption of peritoneal fluid can be quantified by measuring the disappearance rate of which substance from the peritoneal cavity?",
+   "options": {
+    "A": "Dextran 70",
+    "B": "Icodextrin",
+    "C": "Inulin",
+    "D": "Creatinine"
+   },
+   "correct": "A",
+   "explanation": "Dextran 70 is correct because lymphatic absorption is quantified by measuring how fast dextran 70 disappears from the peritoneal cavity, a marker chosen because its clearance from the cavity reflects lymphatic uptake. Icodextrin is an osmotic agent, not a tracer here; inulin and creatinine are used for other clearance measures and are not the stated marker. The chapter emphasizes this test is rarely performed in practice, so type III UFF from excessive lymphatic absorption is usually diagnosed by exclusion in a patient with normal-range transport and no mechanical cause for poor fluid removal."
+  },
+  {
+   "topic": "Aquaporin deficiency",
+   "question": "Aquaporin deficiency can be diagnosed by measuring the change in dialysate sodium concentration after how long into a dwell?",
+   "options": {
+    "A": "5-10 minutes",
+    "B": "30-60 minutes",
+    "C": "2-3 hours",
+    "D": "6-8 hours"
+   },
+   "correct": "B",
+   "explanation": "30-60 minutes is correct because aquaporin deficiency is diagnosed by measuring dialysate sodium at 30-60 minutes into a 2-L dwell, comparing a 4.25% dextrose dwell with a 1.5% dwell (Smit, 2004; Ni, 2006). This early window captures sodium sieving, when aquaporin-mediated water transport transiently drops dialysate sodium; 5-10 minutes is too early and 2-3 or 6-8 hours are too late, by which time diffusion has corrected the sodium. Normally the 4.25% dwell lowers sodium by 5-10 mmol/L; a difference under 5 mmol/L between the two dwells indicates impaired aquaporin function."
+  },
+  {
+   "topic": "Sodium sieving",
+   "question": "When dialysate glucose levels are high, osmotically driven ultrafiltration occurs primarily via which channels that transport water but not sodium?",
+   "options": {
+    "A": "Lymphatic vessels",
+    "B": "Sodium-potassium pumps",
+    "C": "Aquaporin channels",
+    "D": "Large pores"
+   },
+   "correct": "C",
+   "explanation": "Aquaporin channels is correct because when dialysate glucose is high, osmotically driven ultrafiltration occurs primarily through aquaporins, which conduct water but not sodium; this selective water movement is what causes the early fall in dialysate sodium known as sodium sieving. Lymphatic vessels absorb fluid rather than generate osmotic ultrafiltration, sodium-potassium pumps are cellular transporters not water channels, and large pores would carry sodium along with water, so A, B, and D are wrong. This mechanism underlies both the aquaporin deficiency test and the somewhat lower sodium removal seen with short APD dwells."
+  },
+  {
+   "topic": "Sodium sieving",
+   "question": "By how much does the dialysate sodium concentration typically fall early in a 4.25% glucose dwell due to sodium sieving?",
+   "options": {
+    "A": "1-2 mmol/L",
+    "B": "25-30 mmol/L",
+    "C": "15-20 mmol/L",
+    "D": "5-10 mmol/L"
+   },
+   "correct": "D",
+   "explanation": "5-10 mmol/L is correct because with a 4.25% glucose dwell aquaporin-mediated water transport removes water without sodium, lowering dialysate sodium by 5-10 mmol/L early in the dwell. A fall of only 1-2 mmol/L would suggest impaired sieving, while 15-20 or 25-30 mmol/L overstates the effect. As the dwell continues, the blood-to-dialysate sodium gradient drives sodium diffusion that brings the dialysate sodium back up. Clinically this normal sieving is the basis of the aquaporin test: its absence (a difference under 5 mmol/L versus a 1.5% dwell) signals aquaporin deficiency."
+  },
+  {
+   "topic": "Aquaporin deficiency test",
+   "question": "In aquaporin deficiency, the difference in dialysate sodium at 30-60 minutes between the 4.25% and 1.5% dwells will be which of the following?",
+   "options": {
+    "A": "<5 mmol/L",
+    "B": "5-10 mmol/L",
+    "C": "10-15 mmol/L",
+    "D": ">20 mmol/L"
+   },
+   "correct": "A",
+   "explanation": "Less than 5 mmol/L is correct because if aquaporin-mediated water transport is impaired, the normal early dip in dialysate sodium does not occur, so at 30-60 minutes there is a difference of under 5 mmol/L between the 4.25% and 1.5% dwells (Smit, 2004; Ni, 2006). A normal response would produce a larger gap because the hypertonic dwell should drop sodium by 5-10 mmol/L via sieving, so options B, C, and D reflect intact rather than deficient aquaporin function. The practical value is that icodextrin helps these patients, since its ultrafiltration works almost entirely through nonaquaporin channels."
+  },
+  {
+   "topic": "Sodium restriction",
+   "question": "For PD patients with difficult hypertension or volume control problems, what daily sodium intake is recommended?",
+   "options": {
+    "A": "<50 mmol (1.2 g) per day",
+    "B": "<100 mmol (2.3 g) per day",
+    "C": "<200 mmol (4.6 g) per day",
+    "D": "<300 mmol (6.9 g) per day"
+   },
+   "correct": "B",
+   "explanation": "Less than 100 mmol (2.3 g) of sodium per day is correct because the chapter recommends this intake for PD patients with difficult hypertension or volume control problems (Ates, 2001). A stricter under-50 mmol target is not what is specified, and 200 or 300 mmol are far too liberal to help volume control. Sodium and fluid education becomes especially important as residual renal function declines. The key teaching point is that sodium restriction, not repeated use of hypertonic glucose, should be the primary tool for volume control, since it avoids the metabolic and membrane harms of excess glucose."
+  },
+  {
+   "topic": "Hypertonic solutions",
+   "question": "Why should regular selection of high-concentration dextrose solutions NOT be the preferred method of fluid volume control?",
+   "options": {
+    "A": "It is more expensive than icodextrin",
+    "B": "It causes hypotension",
+    "C": "Sodium restriction should be preferred, as overuse adversely affects membrane function and metabolism",
+    "D": "It reduces solute clearance"
+   },
+   "correct": "C",
+   "explanation": "Sodium restriction should be preferred is correct because the chapter states overuse of high-concentration dextrose can adversely affect peritoneal membrane function, increase glucose absorption, worsen blood sugar and lipid control, and promote obesity. Cost versus icodextrin (A) and reduced solute clearance (D) are not the stated reasons, and hypotension (B) is not the concern; overload is. While underuse of hypertonic solutions can contribute to fluid overload, they should not replace salt and water restriction as the routine strategy. This underpins glucose-sparing approaches that limit cumulative glucose exposure to protect the membrane and metabolism."
+  },
+  {
+   "topic": "Early weight gain",
+   "question": "Early in the course of PD there is a tendency to weight gain that is likely due to what?",
+   "options": {
+    "A": "Increased urine output",
+    "B": "Sodium sieving",
+    "C": "Loss of lean mass",
+    "D": "Glucose absorption"
+   },
+   "correct": "D",
+   "explanation": "Glucose absorption is correct because the chapter notes PD patients tend to gain weight early on, likely from absorbed dialysate glucose adding calories, so target weight may need upward adjustment to avoid chasing an unrealistic figure with excess hypertonic glucose. Increased urine output (A) and loss of lean mass (C) would tend to lower weight, and sodium sieving (B) is a solute phenomenon, not a cause of true tissue weight gain. Clinically, recognizing this glucose-driven gain prevents overuse of hypertonic dwells; later in PD, as urine volume falls, the opposite problem of fluid overload emerges and target weight must be revisited."
+  },
+  {
+   "topic": "Glucose control",
+   "question": "Good blood sugar control helps fluid removal in PD by maintaining what?",
+   "options": {
+    "A": "The glucose concentration gradient across the peritoneal membrane",
+    "B": "Aquaporin numbers",
+    "C": "Lymphatic flow",
+    "D": "Serum albumin"
+   },
+   "correct": "A",
+   "explanation": "The glucose concentration gradient across the peritoneal membrane is correct because ultrafiltration depends on dialysate glucose exceeding blood glucose; if blood sugar is high, the gradient narrows and fluid removal falls, so good glycemic control preserves the osmotic drive. Aquaporin numbers (B) are not altered by glucose control, and neither lymphatic flow (C) nor serum albumin (D) is the mechanism the chapter cites. This explains why poor blood glucose control appears in Table 26.1 as a cause of fluid overload: uncontrolled hyperglycemia directly undermines the osmotic gradient that PD relies on for ultrafiltration."
+  },
+  {
+   "topic": "Residual renal function",
+   "question": "To increase urine volume and sodium and fluid removal in patients with residual renal function, which agents may be used?",
+   "options": {
+    "A": "Potassium-sparing diuretics",
+    "B": "High-dose loop diuretics, with or without metolazone",
+    "C": "Mannitol infusions",
+    "D": "Vasopressin"
+   },
+   "correct": "B",
+   "explanation": "High-dose loop diuretics, with or without metolazone, is correct because the chapter states these increase urine volume and sodium and fluid removal in patients who still have residual renal function. Potassium-sparing diuretics, mannitol, and vasopressin are not endorsed for this purpose. The chapter also notes that ACE inhibitors and angiotensin receptor blockers help preserve residual renal function, while avoiding nephrotoxins and intravascular depletion protects it further. The clinical message is that preserving and exploiting residual renal function is a key, often underused, lever for both clearance and volume control in PD."
+  },
+  {
+   "topic": "Type I management",
+   "question": "For UFF with high transport status (type I), what dwell strategy helps maintain the dextrose concentration gradient?",
+   "options": {
+    "A": "Long dwell times with high dextrose",
+    "B": "Single daily exchange",
+    "C": "Short dwell times, e.g., APD with 1-1.5 hour dwells",
+    "D": "Continuous icodextrin infusion"
+   },
+   "correct": "C",
+   "explanation": "Short dwell times, such as APD programmed for 1-1.5 hour dwells, is correct because in high transporters glucose is absorbed rapidly, so short dwells drain the fluid before the osmotic gradient is lost, preserving ultrafiltration. Long dextrose-containing dwells (A) are exactly what must be avoided in type I UFF, and a single daily exchange (B) would leave a long dwell losing its gradient. Icodextrin is used for the long dwell rather than as a continuous infusion (D). In practice, type I patients do best on APD with short cycles plus icodextrin for the long day or nocturnal dwell."
+  },
+  {
+   "topic": "Icodextrin",
+   "question": "Icodextrin is best described as what type of agent?",
+   "options": {
+    "A": "A protein-based colloid",
+    "B": "A crystalloid sodium solution",
+    "C": "An amino acid mixture",
+    "D": "A carbohydrate polymer used instead of dextrose to produce an osmotic gradient"
+   },
+   "correct": "D",
+   "explanation": "A carbohydrate polymer used instead of dextrose to produce an osmotic gradient is correct because icodextrin is a glucose polymer that generates osmotic ultrafiltration without being a simple sugar. It is not a protein colloid, a crystalloid sodium solution, or an amino acid mixture, so A, B, and C are wrong; amino acids are a separate glucose-sparing dwell option. Because it is a large polymer that is not absorbed across the membrane (only slowly taken up by lymphatics), icodextrin sustains its gradient through long dwells, making it ideal for the extended day or nocturnal exchange where dextrose would have dissipated."
+  },
+  {
+   "topic": "Icodextrin",
+   "question": "Why does icodextrin maintain ultrafiltration throughout a long dwell?",
+   "options": {
+    "A": "It is not absorbed across the membrane, maintaining the concentration gradient",
+    "B": "It is rapidly metabolized to dextrose",
+    "C": "It blocks lymphatic absorption",
+    "D": "It stimulates aquaporins"
+   },
+   "correct": "A",
+   "explanation": "It is not absorbed across the membrane, maintaining the concentration gradient, is correct because icodextrin, a large carbohydrate polymer, stays in the cavity (only slowly entering the lymphatics) so its osmotic gradient persists and drives ongoing ultrafiltration across a long dwell. It is not metabolized to dextrose (B), does not block lymphatic absorption (C), and does not stimulate aquaporins (D); in fact its ultrafiltration works largely through nonaquaporin channels. This nonabsorption is precisely why icodextrin solves the type I UFF problem of dextrose being absorbed and the gradient collapsing during long exchanges."
+  },
+  {
+   "topic": "Icodextrin",
+   "question": "Icodextrin is described as ideal for which dwell situations?",
+   "options": {
+    "A": "Short 1-hour dwells in APD",
+    "B": "The 14-16-hour day dwell in APD and the long nocturnal dwell in CAPD",
+    "C": "Rapid tidal cycling",
+    "D": "The initial fill after catheter placement"
+   },
+   "correct": "B",
+   "explanation": "The 14-16-hour day dwell in APD and the long nocturnal dwell in CAPD is correct because icodextrin's sustained, nonabsorbed osmotic gradient is best exploited over prolonged dwells where dextrose would otherwise be absorbed and lose effect. Short 1-hour dwells (A) and rapid tidal cycling (C) are situations where dextrose still works well and icodextrin's slow-acting advantage is wasted, and the initial fill after catheter placement (D) is unrelated. This matches the management of type I UFF: short dextrose cycles for the frequent exchanges and icodextrin reserved for the single long dwell to keep ultrafiltrating throughout."
+  },
+  {
+   "topic": "Icodextrin evidence",
+   "question": "In patients with UFF and high transport status, icodextrin use has been shown to do what?",
+   "options": {
+    "A": "Reduce residual renal function",
+    "B": "Increase peritonitis rates",
+    "C": "Improve volume status and prolong technique survival",
+    "D": "Cause severe hypernatremia"
+   },
+   "correct": "C",
+   "explanation": "Improve volume status and prolong technique survival is correct because icodextrin has been shown to improve fluid status (Davies, 2003) and substantially prolong technique survival in patients with UFF and high transport status (Takatori, 2011), and to lower the extracellular-to-intracellular fluid ratio on bioimpedance (Woodrow, 2004). It does not reduce residual renal function, raise peritonitis rates, or cause severe hypernatremia, so A, B, and D are wrong. Because technique failure from ultrafiltration problems is a major cause of leaving PD, keeping high-transport patients on therapy with icodextrin has clear clinical and survival value."
+  },
+  {
+   "topic": "Type II management",
+   "question": "For UFF with low transport status, what is generally required?",
+   "options": {
+    "A": "Switching to icodextrin",
+    "B": "Amino acid dwells",
+    "C": "Higher dextrose concentrations",
+    "D": "Transfer to hemodialysis"
+   },
+   "correct": "D",
+   "explanation": "Transfer to hemodialysis is correct because low-transport (type II) UFF patients have both reduced solute clearance and reduced fluid removal from a scarred, low-surface-area membrane, and the chapter states they are unlikely to do better on APD or with icodextrin, so hemodialysis is generally required. Switching to icodextrin (A), amino acid dwells (B), and higher dextrose (C) all rely on membrane function that these patients have lost, and higher glucose would only add metabolic harm without solving inadequate transport. The key contrast is that icodextrin and short dwells rescue type I high transporters, whereas type II low transporters usually need to leave PD altogether."
+  },
+  {
+   "topic": "Average transport management",
+   "question": "For UFF with average transport status, how is management generally approached, given there is no specific method to reduce lymphatic absorption or correct aquaporin dysfunction?",
+   "options": {
+    "A": "Salt and water restriction, diuretics, and measures to increase total ultrafiltration",
+    "B": "Immediate transfer to hemodialysis",
+    "C": "Peritoneal resting only",
+    "D": "Discontinuation of all icodextrin"
+   },
+   "correct": "A",
+   "explanation": "Salt and water restriction, diuretics, and measures to increase total ultrafiltration is correct because there is no specific therapy to reduce lymphatic absorption (type III) or fix impaired aquaporins, so average-transport UFF is managed by cutting intake and boosting total ultrafiltration to compensate for reabsorbed volume, including shorter dwells and icodextrin for long dwells. Immediate hemodialysis (B) is reserved for low transporters, peritoneal resting alone (C) is not the general strategy, and discontinuing icodextrin (D) is the opposite of what helps, since icodextrin is especially useful in aquaporin deficiency because its ultrafiltration bypasses aquaporins."
+  },
+  {
+   "topic": "Icodextrin aquaporin",
+   "question": "Why may icodextrin be particularly useful in aquaporin deficiency?",
+   "options": {
+    "A": "It directly repairs aquaporins",
+    "B": "The ultrafiltration it induces occurs almost exclusively via nonaquaporin channels",
+    "C": "It increases sodium sieving",
+    "D": "It shortens dwell time"
+   },
+   "correct": "B",
+   "explanation": "The ultrafiltration it induces occurs almost exclusively via nonaquaporin channels is correct because icodextrin generates fluid removal through routes that do not depend on aquaporins, so it still works when aquaporin-mediated water transport is impaired (La Milia, 2006). It does not repair aquaporins (A), and because it bypasses rather than uses aquaporins it does not increase sodium sieving (C), which is itself an aquaporin phenomenon. It also does not shorten dwell time (D); rather it is used for long dwells. This makes icodextrin a rational choice in aquaporin-deficient patients whose hypertonic-glucose ultrafiltration would otherwise fail."
+  },
+  {
+   "topic": "Glucose-sparing",
+   "question": "Laboratory studies suggest hypertonic glucose exposure leads to neovascularization of the membrane and a pattern analogous to which condition?",
+   "options": {
+    "A": "Aquaporin deficiency",
+    "B": "Type II low transport UFF",
+    "C": "UFF with high transport status",
+    "D": "Lymphatic overabsorption"
+   },
+   "correct": "C",
+   "explanation": "UFF with high transport status is correct because laboratory studies show hypertonic glucose exposure drives neovascularization of the membrane, producing a pattern analogous to high-transport (type I) UFF, where the enlarged vascular surface absorbs glucose fast and dissipates the gradient. Aquaporin deficiency (A) and lymphatic overabsorption (D, type III) arise by different mechanisms, and type II low-transport UFF (B) reflects reduced rather than increased surface area, the opposite of neovascularization. This link between glucose and high transport is the rationale for glucose-sparing strategies, since limiting glucose exposure may slow the drift toward high-transport ultrafiltration failure."
+  },
+  {
+   "topic": "Glucose-sparing",
+   "question": "Clinical studies show that long-term PD patients exposed to more hypertonic glucose are more likely to develop what?",
+   "options": {
+    "A": "Reduced lymphatic absorption",
+    "B": "Low transport characteristics",
+    "C": "Aquaporin deficiency",
+    "D": "High transport characteristics"
+   },
+   "correct": "D",
+   "explanation": "High transport characteristics is correct because clinical studies show long-term PD patients exposed to more hypertonic glucose are more likely to develop high-transport membranes than those receiving less glucose (Davies, 2001). This is the clinical counterpart of the laboratory finding that glucose drives membrane neovascularization. Reduced lymphatic absorption (A) and aquaporin deficiency (C) are unrelated to glucose load, and low transport (B) is the opposite direction of change. The consequence is a strong argument for minimizing cumulative glucose exposure through salt and water restriction, diuretics, RAS inhibitors, icodextrin, and amino acid dwells to protect long-term membrane function."
+  },
+  {
+   "topic": "Glucose-sparing",
+   "question": "Which agent can be substituted for one daily dextrose dwell as part of a glucose-sparing strategy?",
+   "options": {
+    "A": "Intraperitoneal amino acids",
+    "B": "Intraperitoneal insulin",
+    "C": "Intraperitoneal albumin",
+    "D": "Intraperitoneal bicarbonate"
+   },
+   "correct": "A",
+   "explanation": "Intraperitoneal amino acids is correct because the chapter states amino acid solution can replace one daily dextrose dwell to reduce total glucose exposure while still providing an osmotic agent for ultrafiltration. Intraperitoneal insulin, albumin, and bicarbonate are not described as glucose-sparing dwell substitutes here. Amino acids fit alongside icodextrin within an overall glucose-sparing plan that also relies on salt and water restriction, loop diuretics to maintain volume, and RAS inhibitors to preserve residual renal function. The goal is to balance reduced glucose exposure against the risk of underfilling and fluid overload."
+  },
+  {
+   "topic": "Hypertension",
+   "question": "More recent evidence shows antihypertensive medication requirements in PD patients change how over time?",
+   "options": {
+    "A": "Decrease steadily over years",
+    "B": "Increase with duration on PD, especially when residual renal function is lost",
+    "C": "Remain unchanged throughout",
+    "D": "Fall once icodextrin is started"
+   },
+   "correct": "B",
+   "explanation": "Increase with duration on PD, especially when residual renal function is lost, is correct because although PD was initially praised for good blood pressure control from its continuous nature, more recent data show antihypertensive requirements rise over time, particularly as residual renal function declines (Ortega, 2011). They do not steadily decrease, stay unchanged, or fall with icodextrin, so A, C, and D are wrong. The mechanism is that losing residual function reduces salt and water excretion, worsening volume-dependent hypertension. This is why management should focus first on volume control before adding antihypertensives beyond cardioprotective agents."
+  },
+  {
+   "topic": "Sodium removal APD",
+   "question": "Why is sodium removal somewhat less in APD compared with CAPD?",
+   "options": {
+    "A": "APD uses higher dextrose",
+    "B": "APD does not use icodextrin",
+    "C": "Short cycled dwells drain dialysate while sodium is still low from sieving, before diffusion corrects it",
+    "D": "APD reduces lymphatic flow"
+   },
+   "correct": "C",
+   "explanation": "Short cycled dwells drain dialysate while sodium is still low from sieving, before diffusion corrects it, is correct because in APD the brief cycles end during the sodium-sieving phase, when aquaporins have removed water but not sodium, so the fluid is drained before diffusion can raise its sodium; this leaves somewhat less sodium removed (Rodriguez-Carmona, 2004). It is not because APD uses higher dextrose (A), avoids icodextrin (B), or reduces lymphatic flow (D). Despite this theoretical concern, studies have not consistently shown worse blood pressure control on APD versus CAPD, so it is a nuance to be aware of rather than a contraindication."
+  },
+  {
+   "topic": "Sodium removal APD",
+   "question": "What have studies to date shown regarding blood pressure control between CAPD and APD patients?",
+   "options": {
+    "A": "APD is clearly superior",
+    "B": "CAPD is clearly superior",
+    "C": "Both cause uncontrolled hypertension",
+    "D": "No consistent difference has been shown"
+   },
+   "correct": "D",
+   "explanation": "No consistent difference has been shown is correct because although concerns were raised that APD's shorter dwells reduce sodium removal (due to draining during the sieving phase), studies to date have not consistently demonstrated a difference in blood pressure control between CAPD and APD (Boudville, 2007). Neither modality is clearly superior, so A and B are wrong, and it is untrue that both cause uncontrolled hypertension (C). The practical takeaway is that modality choice can be based on other factors such as lifestyle and clearance needs, while volume control remains the shared foundation of blood pressure management in PD."
+  },
+  {
+   "topic": "Hypotension",
+   "question": "In one cohort study, hypotension was detected in approximately what percentage of PD patients?",
+   "options": {
+    "A": "13%",
+    "B": "3%",
+    "C": "30%",
+    "D": "50%"
+   },
+   "correct": "A",
+   "explanation": "13% is correct because one cohort study (Malliara, 2002) detected hypotension in 13% of PD patients, showing it is not uncommon in this population. Figures of 3%, 30%, and 50% do not match the reported frequency. Of these cases, roughly 20% are secondary to heart failure and about 40% to hypovolemia, with the latter typically responding to volume repletion and sometimes improving residual renal function. Recognizing hypotension matters because those with cardiac causes or no identifiable cause carry a poor prognosis and high early mortality, and new-onset hypotension may signal developing sepsis or acute cardiac injury."
+  },
+  {
+   "topic": "Hypotension",
+   "question": "Approximately what proportion of hypotension cases in PD patients are secondary to heart failure?",
+   "options": {
+    "A": "40%",
+    "B": "20%",
+    "C": "60%",
+    "D": "80%"
+   },
+   "correct": "B",
+   "explanation": "20% is correct because the chapter states approximately 20% of hypotension cases in PD patients are secondary to heart failure. The 40% figure instead refers to cases due to hypovolemia, which characteristically respond to volume repletion, so option A confuses the two categories, and 60% or 80% overstate the cardiac share. This distinction is clinically important: hypovolemic hypotension is treatable and may even improve residual renal function with repletion, whereas cardiac-caused hypotension carries a poor prognosis with high early mortality. New-onset hypotension should also raise concern for developing sepsis or acute cardiac injury."
+  },
+  {
+   "topic": "Hypotension",
+   "question": "Roughly what proportion of PD hypotension cases may be due to hypovolemia, which typically responds to volume repletion?",
+   "options": {
+    "A": "10%",
+    "B": "70%",
+    "C": "40%",
+    "D": "90%"
+   },
+   "correct": "C",
+   "explanation": "40% is correct because the chapter states an additional 40% of PD hypotension cases may be due to hypovolemia, which typically responds to volume repletion and may allow residual renal function to improve. This contrasts with the roughly 20% caused by heart failure, so the 10%, 70%, and 90% options do not fit. The clinical importance is that hypovolemia is a reversible, favorable cause, so recognizing it prevents inappropriate aggressive fluid removal and instead prompts repletion. Cardiac-caused and unexplained hypotension, by contrast, carry a poor prognosis, and new hypotension may herald sepsis or acute cardiac injury."
+  },
+  {
+   "topic": "Hypotension prognosis",
+   "question": "Which PD patients with hypotension have a poor prognosis with high early mortality?",
+   "options": {
+    "A": "Those with hypovolemia",
+    "B": "Those on icodextrin",
+    "C": "Those responding to volume repletion",
+    "D": "Those with cardiac causes or no identifiable cause"
+   },
+   "correct": "D",
+   "explanation": "Those with cardiac causes or no identifiable cause is correct because the chapter states these patients have a poor prognosis with a high early mortality rate, in contrast to the roughly 40% with hypovolemia, who typically respond to volume repletion and do better. Hypovolemic patients (A) and those responding to repletion (C) therefore have a more favorable outlook, and being on icodextrin (B) is not linked to poor prognosis. Agents such as midodrine and fludrocortisone have been tried without proven long-term benefit, and new-onset hypotension should prompt evaluation for developing sepsis or acute cardiac injury."
+  },
+  {
+   "topic": "Hypotension",
+   "question": "New-onset hypotension in a PD patient may represent which developing acute problem?",
+   "options": {
+    "A": "Developing sepsis or acute cardiac injury",
+    "B": "Aquaporin deficiency",
+    "C": "Type I UFF",
+    "D": "Icodextrin overdose"
+   },
+   "correct": "A",
+   "explanation": "Developing sepsis or acute cardiac injury is correct because the chapter warns that new-onset hypotension in a PD patient may represent one of these acute, serious problems and should prompt urgent evaluation rather than being dismissed. Aquaporin deficiency (B) and type I UFF (C) are chronic membrane-related ultrafiltration issues that cause fluid overload, not acute hypotension, and there is no described entity of icodextrin overdose (D) causing this. The clinical point is that a sudden drop in blood pressure is a red flag: since about 20% of hypotension is cardiac and prognosis is poor in cardiac or unexplained cases, sepsis and acute cardiac injury must be excluded promptly."
+  },
+  {
+   "topic": "Causes of overload",
+   "question": "Which of the following is listed as a cause of fluid overload in PD patients?",
+   "options": {
+    "A": "Excessive icodextrin use",
+    "B": "Failure to use icodextrin-containing solutions",
+    "C": "Overly aggressive diuresis",
+    "D": "Low glucose absorption"
+   },
+   "correct": "B",
+   "explanation": "Failure to use icodextrin-containing solutions is correct because Table 26.1 lists it among causes of fluid overload, alongside inappropriate bag selection, prescription mismatched to transport status, long dextrose-containing dwells, failure to optimize APD, noncompliance, loss of residual renal function, leaks, catheter malfunction, and poor glucose control. Excessive icodextrin use (A) and overly aggressive diuresis (C) would tend to remove fluid, not cause overload, and low glucose absorption (D) is not a listed cause. This highlights that omitting icodextrin for long dwells, where dextrose loses its gradient, is a correctable prescription error contributing to volume overload."
+  },
+  {
+   "topic": "Lung ultrasound",
+   "question": "Ultrasound of which structures is mentioned as an alternative method to assess volume status in PD patients?",
+   "options": {
+    "A": "The renal arteries",
+    "B": "The peritoneal membrane",
+    "C": "The inferior vena cava or the lungs",
+    "D": "The carotid arteries"
+   },
+   "correct": "C",
+   "explanation": "The inferior vena cava or the lungs is correct because the chapter lists ultrasound of the inferior vena cava or of the lungs among alternative volume assessment methods, alongside bioimpedance and serum BNP. Renal artery, peritoneal membrane, and carotid artery ultrasound are not mentioned as volume tools. Lung ultrasound can reveal hidden congestion, and IVC assessment reflects intravascular filling, but these remain adjuncts to clinical examination, which is the primary basis for judging fluid status. The overall message is that no single test is reliable, so these imaging methods supplement, rather than replace, careful bedside assessment and trial-and-error dry-weight adjustment."
+  }
+ ]
+}

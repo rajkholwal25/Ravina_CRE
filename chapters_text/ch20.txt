@@ -1,0 +1,1483 @@
+368
+20
+Hemodialysis, hemoperfusion, and peritoneal dialysis (PD), particu-
+larly the first two procedures, can be useful adjuncts in the manage-
+ment of drug overdose and poisoning. However, these treatments 
+should be applied selectively, as part of the general approach to the 
+poisoned patient, which include supportive therapy, decontamina -
+tion, elimination enhancement, and antidotes (Kulig, 1992). A review 
+of data from the 2012 report of the American Association of Poison 
+Control Centers shows that MDAC (multiple-dose activated charcoal) 
+and alkalinization treatments far outnumber treatments by hemodi-
+alysis, and these in turn far outnumber treatments using hemoperfu-
+sion, with only 61 hemoperfusion treatments being reported versus 
+2,324 treatments using dialysis (Mowry, 2013).
+ I. DIAL YSIS AND HEMOPERFUSION
+A. Indications. E xtracorporeal techniques should be considered 
+when the conditions listed in Table 20.1 apply. Any procedure 
+used in poisoning treatment should have a greater effect on 
+drug elimination than that which occurs spontaneously. Early 
+use of dialysis or hemoperfusion can be considered if the 
+serum levels of a drug or poison are found to be increased 
+to values known to be associated with death or serious tis-
+sue damage. Critical serum concentrations for several drugs 
+are listed in Table 20.2. The information given in Tables 20.1 
+and 20.2 only represents a set of recommendations; the deci-
+sion to institute dialysis or hemoperfusion must be made on 
+an individual basis. In addition to providing extracorporeal 
+drug elimination, dialysis can provide essential supportive 
+care to poisoned patients with multiorgan or kidney injury. 
+The EXTRIP (EXtracorporeal Treatment In Poisoning) work 
+group is currently drafting guidelines for the use of blood puri-
+fication in the context of overdose. Their publication should 
+help to standardize management for these complex patients 
+(Lavergne, 2012).
+B. Choice of therapy
+1. Peritoneal dialysis  is not very effective in removing drugs 
+from the blood, with maximal poison clearance rarely 
+Use of Dialysis and 
+Hemoperfusion in the 
+Treatment of Poisoning
+James F. Winchester, Nikolas B. 
+Harbord, Elliot Charen,  
+and Marc Ghannoum
+Daugirdas9781451144291-ch020.indd   368 09/10/14   1:26 am
+369Chapter 20 / Use of Dialysis and Hemoperfusion in the Treatment of Poisoning
+above 15 mL/min (about one-tenth of what usually can be 
+reached with hemodialysis). Nevertheless, when hemodial-
+ysis is difficult to institute quickly, such as in small children, 
+a prolonged session of PD can be a valuable adjunctive 
+treatment for poisoning. Also, under certain conditions, 
+such as in the hypothermic-poisoned patient, PD may be 
+useful, as it may also be used to help in core rewarming.
+2. Hemodialysis is the therapy of choice for water-soluble 
+drugs, especially those of low molecular weight along with 
+a low level of protein binding, as such compounds will dif-
+fuse rapidly across the dialyzer membrane. Examples are 
+ethanol, ethylene glycol, lithium, methanol, and salicy-
+lates. Water-soluble drugs that have high molecular 
+weights (e.g.,  amphotericin B [MW 9,241] and vancomy-
+cin [MW  1,500]) diffuse across dialyzer membranes more 
+slowly and are less well removed; removal rate is acceler -
+ated by use of high-flux membranes and hemodiafiltration. 
+Serum Concentrationa
+Drug (mg/L) (mcmol/L) Method of Choice
+Phenobarbital
+Glutethimide
+Methaqualone
+Salicylates
+Theophylline
+Paraquat
+Methanol
+Meprobamate
+100
+40
+40
+800
+40
+0.1
+500
+100
+430
+180
+160
+4.4 mmol/L
+220
+0.4
+16 mmol/L
+460
+HP, HD
+HP
+HP
+HD
+HP, HD
+HP > HD
+HD
+HP
+aSuggested concentrations only: Clinical condition may warrant intervention at lower  
+concentrations (e.g., in mixed intoxications).
+Serum Concentrations of Common Poisons in Excess of 
+Which Hemodialysis (HD) or Hemoperfusion (HP) Should Be 
+Considered20.2
+TABLE
+ 1. Progressive deterioration despite intensive supportive therapy
+ 2. Severe intoxication with depression of midbrain function leading to 
+hypoventilation, hypothermia, and hypotension
+ 3. Development of complications of coma, such as pneumonia or septicemia, 
+and underlying conditions predisposing to such complications  
+(e.g., obstructive airways disease)
+ 4. Impairment of normal drug excretory function in the presence of hepatic, 
+cardiac, or renal insufficiency
+ 5. Intoxication with agents with metabolic and/or delayed effects (e.g., 
+methanol, ethylene glycol, and paraquat)
+ 6. Intoxication with an extractable drug or poison, which can be removed  
+at a rate exceeding endogenous elimination by liver or kidney
+Criteria for Consideration of Dialysis or Hemoperfusion 
+in Poisoning20.1
+TABLE
+Daugirdas9781451144291-ch020.indd   369 09/10/14   1:26 am
+Part II / Blood-Based Therapies
+370
+Hemodialysis is not very useful in removing lipid-soluble 
+drugs (e.g., amitriptyline) with large volumes of distribution 
+or drugs with extensive protein binding.
+3. Hemoperfusion is a process whereby blood is passed through
+a device containing adsorbent particles. Most commonly,
+the adsorbent particles are activated charcoal or some sort
+of resin. Although hemoperfusion may be more effective
+than hemodialysis in clearing the blood of many protein-
+bound drugs (because the charcoal or resin in the cartridge
+will compete with plasma proteins for the drug, adsorb the
+drug, and thereby remove it from the circulation ), modern
+high-flux dialyzers may also perform in a similar manner.
+Hemoperfusion will remove many lipid-soluble drugs from
+the blood much more efficiently than hemodialysis. In the
+United States, hemoperfusion cartridges are expensive and
+have been discontinued by some manufacturers, and with
+a short shelf life of 2 years, may not be available in certain
+urban cities (Shalkam, 2006). If a drug is equally well removed
+from the blood by hemoperfusion and hemodialysis, then
+hemodialysis is preferred: potential problems of cartridge
+saturation are avoided, and the incidence of hemoperfusion 
+complications such as thrombocytopenia and leukopenia is
+reduced; plus, with hemodialysis, any coexisting acid–base
+or electrolyte disturbances can be treated.
+4. Continuous hemodiafiltration, hemoperfusion. Prolonged continu-
+ous treatment is potentially useful in drugs with moderately 
+large volumes of distribution (V
+D) and slow intercompart -
+mental transfer times, because posttherapy rebound of
+plasma drug levels is avoided. Clear advantages of con-
+tinuous treatment over repeated conventional treatments
+for drug rebound remain to be demonstrated. Continuous
+hemoperfusion has been used successfully in theophylline
+and phenobarbital toxicity, and continuous hemodiafiltra -
+tion has been used in ethylene glycol and lithium toxicity
+(Leblanc, 1996).
+C. Toxicokinetics. Poisons have various molecular characteris-
+tics that make them more or less amenable to extracorporeal 
+removal. Dialyzability of a poison is possible only if it can be 
+extracted from the plasma compartment, if a significant pro-
+portion of its total body stores can be eliminated, and if extra-
+corporeal clearance contributes a significant amount to total 
+clearance. Removal from the plasma compartment is best 
+reflected by the dialyzer extraction ratio, which can be calcu-
+lated as (A-V)/A, where A represents the inflow (prefilter or 
+precolumn) concentration of the solute to be removed, and V 
+represents the dialyzer outflow concentration. The amount of 
+toxin that can be removed by extracorporeal treatment is greatly 
+affected by the volume of its distribution in the body. The ratio 
+of extracorporeal removal to endogenous removal depends on 
+the endogenous clearance of a particular poison and the current 
+condition of the body organs (liver and/or kidney) that normally 
+Daugirdas9781451144291-ch020.indd   370 09/10/14   1:26 am
+371Chapter 20 / Use of Dialysis and Hemoperfusion in the Treatment of Poisoning
+participate in endogenous removal. The following factors will 
+influence poison dialyzability (Lavergne, 2012):
+1. Molecular weight.  Extracorporeal modalities have different
+molecular weight cutoffs; techniques that use diffusion
+such as hemodialysis usually have an approximate cutoff
+of 5,000 Da, while convection- and adsorption-based tech-
+niques are capable of removing poisons that are in excess of 
+50,000 Da in size. Plasmapheresis can remove poisons that
+are up to 1,000,000 Da in size.
+2. Protein binding.  Since the poison–protein complex cannot
+freely pass through dialyzers or hemofilters, only poisons
+that are largely unbound (or free) can be removed by these
+techniques. However, at higher concentration (such as in
+overdose), protein binding of a drug can become saturated; 
+under such conditions, a higher proportion of the drug is
+unbound or “free, ” which is then available for removal by
+extracorporeal treatment.
+3. Volume of distribution. VD is the theoretical volume into which 
+a drug is distributed. Heparin, for example, a drug con-
+fined to the blood compartment, has a V
+D of approximately
+0.06  L/kg. Drugs distributed primarily in the extracellu-
+lar water (e.g., salicylates) will have a V
+D of approximately
+0.2  L/kg. Some drugs will have VD values exceeding the
+volume of total body water because they are extensively
+bound to, or stored in, tissue sites. With drugs that have a
+high V
+D (e.g., digoxin, tricyclics), the amount of drug pres-
+ent in the blood represents only a small fraction of the total 
+body load. Thus, even if a hemodialysis or hemoperfusion
+treatment extracts most of the drug present in the blood
+flowing through the extracorporeal circuit, the amount of
+drug removed during a single treatment session will rep-
+resent only a small percentage of the total body drug bur -
+den. Subsequently, additional drug will enter the blood
+from tissue stores, sometimes causing a recurrence of the
+toxic manifestations. On the other hand, even transiently
+lowering the blood concentration of many drugs may miti-
+gate certain important toxic effects of these agents. Hence, 
+hemodialysis or hemoperfusion can sometimes effectively
+reduce drug toxicity even when the V
+D is large.
+4. Endogenous clearance. Extracorporeal removal usually is not
+indicated when endogenous clearance by metabolism and
+elimination is expected to exceed the rate of exogenous elimi-
+nation. This explains why hemodialysis is not indicated for
+poisons like cocaine or toluene. Similarly, the presence of kid-
+ney impairment for renally eliminated poisons (e.g., lithium)
+will make extracorporeal removal more important.
+D. Technical points
+1. Vascular access for hemodialysis or hemoperfusion in poisoning. In
+patients without permanent vascular access in place, per -
+cutaneous cannulation of a large central vein using a dialy-
+sis catheter is required.
+Daugirdas9781451144291-ch020.indd   371 09/10/14   1:26 am
+Part II / Blood-Based Therapies
+372
+2. Choice of hemodialyzer . H igh-flux, high-efficiency dialyzers 
+with high urea  clearances should generally be used. The 
+development of high-cutoff hemodialysis membranes (with 
+increased pore size of 8 to 10 nm) may allow clearance of 
+larger toxins and molecules as large as 50 to 60 kDa (e.g., 
+Fab fragments).
+3. Choice of a hemoperfusion cartridge.  S ome of the available 
+cartridges are listed in Table 20.3. Typical sorbents are 
+activated carbons (charcoals), ion exchange resins, or 
+nonionic exchange macroporous resins. Sorbent particles 
+have been rendered biocompatible by coating the surface 
+with a polymer membrane. The cartridges contain various 
+amounts of sorbent, the smaller ones being designed for 
+pediatric use. A detailed comparative evaluation of in vivo 
+performance of the various brands of cartridges has been 
+published (Ghannoum, 2014).
+4. The hemoperfusion circuit. T he hemoperfusion circuit is simi -
+lar to the blood side of a hemodialysis circuit and includes 
+an air detector and a venous air trap. Standard hemodi-
+alysis blood pumps and machines (without use of dialysis 
+solution) are often used to drive the blood through the tub-
+ing and cartridge.
+5. Priming the hemoperfusion circuit.  S etup and priming with 
+saline or dextrose differ depending on the brand of car -
+tridge used, and the manufacturer’s literature should be 
+consulted in all instances. The hemoperfusion cartridge 
+must be primed in a vertical position with the arterial 
+(blood inlet) side facing downward.
+6. Heparinization during hemoperfusion.  O nce the cartridge has 
+been primed, a bolus dose of heparin (usually 2,000–  
+3,000 units) is administered into the arterial line, the car -
+tridge is kept inlet side down, and blood flow through the 
+cartridge is begun. As a rule, because of some adsorption 
+on the sorbent, more heparin may be required for a hemo-
+perfusion treatment (e.g., approximately 6,000 units or 
+Manufacturer Device Sorbent Type
+Amount of 
+Sorbent Polymer Coating
+Asahia Hemosorba Charcoal 170 g Poly(2-hydroxyethyl 
+methacrylate) 
+(poly-HEMA)
+Gambro Adsorba  
+150/300c
+Charcoal 150/300 g Cellulose acetate
+Brauna Haemoresin Resin XAD-4 
+Amberlite
+350 g None
+Note: Smaller devices for use in children. 
+a Not available in the US
+Some Available Hemoperfusion Devices  
+(May Vary by Country)20.3
+TABLE
+Daugirdas9781451144291-ch020.indd   372 09/10/14   1:26 am
+373Chapter 20 / Use of Dialysis and Hemoperfusion in the Treatment of Poisoning
+10,000  units for charcoal and resin, respectively, per ses-
+sion) than for hemodialysis. Heparin should be given in 
+amounts sufficient to maintain the patient’s activated clot-
+ting time (ACT) or partial thromboplastin time at about 
+twice the normal value.
+7. Duration of hemoperfusion.  A s ingle 3-hour treatment will 
+substantially lower the blood levels of most poisons for 
+which hemoperfusion is effective. More prolonged use of 
+a hemoperfusion cartridge is inefficient, because the char -
+coal tends to become saturated. Replacement of saturated 
+devices with fresh ones is not usually required, and any 
+rebound in blood drug concentrations consequent to tis -
+sue release can be treated with a second hemoperfusion 
+session. On the other hand, a continuous hemoperfusion 
+treatment may need to be prolonged for several days until 
+clinical improvement or a nontoxic blood level is achieved. 
+Hemoperfusion devices may need to be changed every 
+4 hours in the course of continuous treatment.
+E. Complications. A ll extracorporeal techniques require vascular 
+access through a central line, and this procedure itself is sub-
+ject to complications.
+1. Hemodialysis
+a. Hypophosphatemia. I n contrast to end-stage renal disease 
+(ESRD), patients being dialyzed for poisoning often do 
+not have an elevated plasma phosphate value. Because 
+phosphate is not present in standard dialysis solutions, 
+intensive dialysis can severely lower the plasma phos-
+phate level, resulting in respiratory insufficiency and 
+other complications. Hypophosphatemia during dialysis 
+can be avoided by supplementing the dialysis solution 
+with phosphate as discussed in Chapter 10.
+b. Alkalemia. S tandard hemodialysis solutions contain 
+unphysiologically high concentrations of bicarbonate 
+and they also contain bicarbonate-generating base in 
+the form of acetate or citrate, as they have been designed 
+to correct metabolic acidosis. Performing dialysis for 
+poisoning in a patient with metabolic or respiratory 
+alkalosis can provoke or worsen alkalemia unless the 
+dialysis solution bicarbonate concentration is appropri-
+ately reduced.
+c. Disequilibrium syndrome in acutely uremic patients. I n patients 
+with both severe uremia and poisoning, it may be dan-
+gerous to carry out a prolonged high-clearance dialy-
+sis session initially. During a dialysis treatment for a 
+metformin- associated lactic acidosis in a markedly ure-
+mic patient, enrichment of dialysate with an appropriate 
+amount of urea in an attempt to attenuate the manifes -
+tations of the disequilibrium syndrome has been suc-
+cessfully performed (Doorenbos, 2001).
+2. Hemoperfusion. M ild transient thrombocytopenia and leu -
+kopenia can occur, but cell counts usually return to normal 
+Daugirdas9781451144291-ch020.indd   373 09/10/14   1:26 am
+Part II / Blood-Based Therapies
+374
+within 24 to 48 hours following a single hemoperfusion. 
+Adsorption or activation of coagulation factors has also 
+been observed rarely and may be clinically significant in 
+patients with liver failure.
+3. Continuous therapy . F luid and electrolyte imbalances may 
+be potential problems and require frequent monitoring. 
+Prolonged anticoagulation may predispose to bleeding.
+ II. MANAGEMENT OF POISONING WITH SELECTED AGENTS
+A. Acetaminophen (MW 151 Da). A ctivated charcoal should be given 
+to patients presenting within 4 hours of ingestion. Serum levels 
+should be measured and plotted using  the Rumack–Matthew 
+nomogram to establish the risk of hepatotoxicity and need 
+for N-acetylcysteine (NAC) therapy. Concomitant ingestion 
+of moderate amounts of ethanol markedly increases the risk 
+of liver damage. If serum acetaminophen levels are above 
+150 mg/L (1.0 mmol/L) at 4 hours, the likelihood of toxicity is 
+high and NAC (PO or IV) should be given. NAC, by increasing 
+reduced glutathione stores, prevents the accumulation of toxic 
+acetaminophen by-products. Its efficacy in preventing liver 
+failure declines if started more than 10 hours after ingestion, 
+but NAC is still recommended even after 24 hours. Although 
+acetaminophen is moderately water-soluble and is minimally 
+protein-bound and thus removed by dialysis or hemoperfu-
+sion, NAC remains the treatment of choice.
+B. Aspirin (acetylsalicylic acid, MW 180 Da).  I n adults, severe aspirin 
+poisoning is usually accompanied by metabolic acidosis with 
+respiratory alkalosis, whereas in children, isolated metabolic 
+acidosis is often encountered. The appearance of central ner -
+vous system (CNS) symptoms is a sign of severe poisoning. The 
+Done nomogram (Done and Temple, 1971), relating serum lev-
+els and time of ingestion to outcome, gives some idea of the 
+seriousness of salicylate poisoning in children, but is less used 
+in adult poisoning. MDAC should be initiated and urine alka-
+linization carried out if substantial urine output is achievable, 
+particularly when symptoms are present and serum salicylate 
+levels are >50 mg/dL (2.8 mmol/L). Aspirin has a V D of only 
+0.15 L/kg. Despite the fact that the drug is about 50% protein-
+bound, aspirin is well removed by hemodialysis. Hemodialysis 
+should be considered when the serum level exceeds 90 mg/dL 
+(6.5 mmol/L) or there is evidence of marked acidemia, neuro-
+logic involvement (neurologic symptoms, hyperthermia, sei-
+zures) or noncardiogenic pulmonary edema.
+C. Barbiturates. T oxic serum levels of phenobarbital (MW 232 Da) 
+are over 3 mg/dL (130 mcmol/L), and coma begins to appear 
+at levels of 6 mg/dL (260 mcmol/L). MDAC should be consid-
+ered as first-line therapy, and alkalinization of the urine may 
+help remove long-acting barbiturates such as phenobarbital. 
+Phenobarbital is 50% protein-bound, but its V D is only 0.5 L/
+kg; the drug is well removed by either hemodialysis or hemo-
+perfusion. Hemodialysis should be contemplated when coma 
+Daugirdas9781451144291-ch020.indd   374 09/10/14   1:26 am
+375Chapter 20 / Use of Dialysis and Hemoperfusion in the Treatment of Poisoning
+is prolonged, especially when complications of coma, such 
+as pneumonia, threaten. Removal with h emodialysis using a 
+synthetic membrane dialyzer equals that of hemoperfusion 
+(Palmer, 2000).
+D. Digoxin (MW 781 Da).  The probabilities of digoxin-induced 
+arrhythmias are 50% and 90% at serum levels of 2.5 and 3.3 ng/
+mL (3.2 and 4.2 nmol/L), respectively. Treatment includes cor-
+rection of hypokalemia, hypomagnesemia, and alkalosis and 
+administration of oral-activated charcoal.
+The V
+D of digoxin is large (8 L/kg in normal patients, 
+4.2  L/kg in dialysis patients), and the drug is 25% protein-
+bound. For these reasons, only 5% of the body load will be 
+removed by a 4-hour hemodialysis treatment. Although hemo-
+perfusion is more effective and has been shown to improve 
+symptoms, it is not routinely recommended in the treatment of 
+digoxin toxicity as the V
+D of the drug is so large that total body 
+clearance is limited. Plasmapheresis performed soon after Fab 
+fragment administration promotes removal of the Fab–digoxin 
+complexes (Zdunek, 2000), and high-cutoff membranes such 
+as Theralite can be used for this purpose also (Fleig, 2011). 
+Most authors recommend an additional Fab treatment if tox -
+icity recurs. In dialysis patients, Fab therapy remains preferred 
+over hemoperfusion or plasmapheresis. Although Fab has 
+been used successfully in patients with coexisting renal fail-
+ure, digoxin may be released from the Fab–digoxin complex, 
+leading to a rebound in toxicity, perhaps requiring a second 
+treatment (Ujhelyi, 1993).
+E. Toxic alcohols. Ethylene glycol and methanol are the common-
+est causes of fatal toxic alcohol poisoning. Ethylene glycol is 
+found in antifreeze solutions, deicing solutions, hydraulic 
+brake fluid, foam stabilizers, and chemical solvents. Methanol 
+is found in windshield washing fluids, paints, solvents, copier 
+fluids, and illegally manufactured (wood) alcohol. Methanol 
+and ethylene glycol are relatively nontoxic, but both are 
+metabolized via the enzyme alcohol dehydrogenase (ALDH) 
+to produce the toxic metabolites formic acid and glycolic acid, 
+respectively. In ethylene glycol poisoning, glycolate is further 
+metabolized to oxalate, which can cause acute kidney injury.
+Coingestion of ethanol may delay formation of toxic 
+metabolites and its associated clinical features. Poisonings 
+with toxic alcohols should be suspected in patients with 
+unexplained metabolic acidosis accompanied by increases in 
+anion and osmolal gaps. However, an elevated anion gap and 
+an elevated osmolal gap are rarely concomitantly present early 
+or very late after ingestion of toxic alcohols. If a toxic alcohol 
+has not been metabolized, the osmolal gap but not the anion 
+gap will be increased. On the other hand, if a toxic alcohol has 
+undergone complete  metabolism, the anion gap but not the 
+osmolal gap will be elevated. Therefore, a normal osmolal or 
+anion gap does not eliminate the possibility of significant toxic 
+alcohol ingestion.
+Daugirdas9781451144291-ch020.indd   375 09/10/14   1:26 am
+Part II / Blood-Based Therapies
+376
+Alcohols are rapidly absorbed and have the same V D as 
+water. MDAC or gastrointestinal decontamination has a lim -
+ited role in the management of alcohol poisoning. There is a 
+competitive inhibition for the ALDH enzyme between either 
+ethanol or fomepizole (4-methylpyrazole) on the one hand and 
+a toxic alcohol on the other. Fomepizole has a greater affinity 
+for ALDH than ethanol. Either ethanol or fomepizole should be 
+given as soon as possible after ingestion to delay the conver -
+sion to toxic metabolites and to allow time for the disposal of 
+the parent drug and its toxic metabolites that might have been 
+formed, through the urinary, metabolic, and dialytic routes. 
+Currently, there are insufficient data to define the relative roles 
+of fomepizole and ethanol in the treatment of toxic alcohol 
+poisoning. Ethanol can cause CNS depression, phlebitis, hypo-
+glycemia, and respiratory depression, and requires close moni-
+toring of serum ethanol levels. Fomepizole has advantages over 
+ethanol in terms of validated efficacy, predictable pharmaco-
+kinetics, ease of administration, and fewer adverse effects. 
+Ethanol has advantages over fomepizole in terms of clinical 
+experience and lower drug cost (cost advantage upward of 
+1:100). Fomepizole is probably safer in children and pregnant 
+women. For milder cases with adequate renal function, etha-
+nol infusions alone (without extracorporeal treatment) over 
+several days in the intensive care unit can be difficult to man-
+age. In such patients a long period of intensive care monitoring 
+can be avoided when treating with fomepizole.
+In mild intoxications in which there is little evidence of 
+metabolic breakdown of toxic alcohols (i.e., without meta-
+bolic acidosis) and when endogenous routes of elimination are 
+intact, in the course of treatment with ethanol or fomepizole, 
+the patient should be expected to recover. On the other hand, 
+when there is evidence of presence of breakdown products 
+of these alcohols; e.g., with resultant metabolic acidosis,  and 
+in the presence of poor renal function, removal of the toxic 
+alcohols and their deleterious metabolites by hemodialysis is 
+mandatory, as neither ethanol nor fomepizole has the capac-
+ity to dispose of these substances from the body. Hemodialysis 
+is highly effective in rapidly removing both toxic alcohols and 
+their metabolites and in correcting metabolic abnormalities. 
+Thus, the risks and costs of prolonged hospitalization and the 
+cost of fomepizole must be weighed against those of hemodi-
+alysis. Since hemodialysis is so efficient in removing the toxic 
+alcohols, the prolonged intensive care monitoring required 
+for ethanol administration is less necessary if hemodialysis is 
+added to the treatment regimen. On account of its lower cost, 
+the use of ethanol may have an economic incentive in devel -
+oping countries. Overall, prognosis correlates better with the 
+severity of acidosis and toxic metabolite concentrations than 
+with the parent alcohol concentration.
+1. Ethylene glycol (MW 62 Da).  T he first phase of toxicity due 
+to ethylene glycol begins  <1 hour after ingestion and is 
+Daugirdas9781451144291-ch020.indd   376 09/10/14   1:26 am
+377Chapter 20 / Use of Dialysis and Hemoperfusion in the Treatment of Poisoning
+1. Documented plasma ethylene glycol or methanol concentrations >20 mg/dL
+or
+2. Documented recent (hours) history of ingestion of toxic amounts of ethylene 
+glycol or methanol and osmolal gap >10 mmol/kg
+or
+3. History or strong clinical suspicion of ethylene glycol or methanol poisoning and 
+at least two of the following criteria:
+•	 Arterial
+	pH	<7.3
+•	 Serum 	bicarbonate	<20 mmol/L
+•	 Osmolal 	gap	>10 mmol/kga
+•	 Urinary 	oxalate	crystals	(in	the	case	of	ethylene	glycol)	or	visual	signs	or
+symptoms (in the case of methanol) present
+aLaboratory analysis by freezing point depression only.
+Modified from Barceloux DG, et al. American Academy of Clinical Toxicology practice guidelines on 
+the treatment of ethylene glycol poisoning. J Toxicol Clin Toxicol. 1999;37:537; Barceloux DG, et al. 
+American Academy of Clinical Toxicology practice guidelines on the treatment of methanol poison-
+ing. J Toxicol Clin Toxicol. 2002;40:415.
+Indications for Treatment of Ethylene Glycol or Methanol 
+Poisoning with Ethanol or Fomepizole20.4
+TABLE
+characterized by CNS depression similar to ethanol intoxica-
+tion. In severe poisoning, this phase can result in coma and 
+seizures and can last 12 hours. The second phase is due to 
+the toxic effects of the metabolite, glycolic acid, on the car-
+diopulmonary system with the development of cardiac and 
+respiratory failure 12 hours after ingestion. A severe meta-
+bolic acidosis commonly occurs. After 24 to 48 hours, renal 
+failure often supervenes as a result of oxalate precipitation 
+in the kidney, delaying the excretion of the poison. This is 
+characterized by flank pain, hypocalcemia, and acute tubu-
+lar necrosis accompanied by oxalate crystals in the urine.
+Early aggressive management of acidosis with sodium 
+bicarbonate is essential. Indications for the administra -
+tion of an antidote (ethanol or fomepizole) are shown 
+in Table  20.4. Indications for hemodialysis are shown in 
+Table  20.5. Traditionally, an ethylene glycol level above 
+1. Severe metabolic acidosis (pH <7.25–7.30)
+2. Renal failure
+3. Visual symptoms/signs
+4. Deteriorating vital signs despite intensive supportive care
+5. Ethylene glycol or methanol levels >50 mg/dL unless fomepizole is being 
+administered and patient is asymptomatic with a normal pHa
+aSuch patients should be monitored very closely, and hemodialysis should be initiated if acidosis 
+develops. Withholding of dialysis in such patients may result in prolongation of hospitalization.
+Modified from Barceloux DG, et al. American Academy of Clinical Toxicology practice guidelines on 
+the treatment of ethylene glycol poisoning. J Toxicol Clin Toxicol. 1999;37:537; Barceloux DG, et al. 
+American Academy of Clinical Toxicology practice guidelines on the treatment of methanol poison-
+ing. J Toxicol Clin Toxicol. 2002;40:415.
+Indications for Hemodialysis in Patients with Severe  
+Ethylene Glycol or Methanol Poisoning20.5
+TABLE
+Daugirdas9781451144291-ch020.indd   377 09/10/14   1:26 am
+Part II / Blood-Based Therapies
+378
+50 mg/dL (8.1 mmol/L) is an indication for dialysis. In the 
+absence of both renal dysfunction and metabolic acidosis, 
+the use of fomepizole may obviate the need for dialysis, even 
+in patients with serum ethylene glycol levels above 50 mg/
+dL. However, if patients with serum levels of ethylene glycol 
+above 50 mg/dL are not treated with hemodialysis but only 
+with ethanol or fomepizole, the acid–base status should be 
+monitored very closely and hemodialysis initiated promptly 
+if acidosis develops. The  dosing schedule for ethanol or 
+fomepizole and the dose  adjustments for hemodialysis are 
+shown in Tables 20.6 and 20.7. Hemodialysis should be per-
+formed until acidosis has resolved and the ethylene glycol 
+levels are below 20 mg/dL (3.2 mmol/L). Redistribution of 
+ethylene glycol may result in rebound elevation of ethylene 
+glycol levels within 12 hours after cessation of dialysis, and 
+repeat dialysis may be necessary. Thus, serum osmolality, 
+electrolytes, and acid–base status should be monitored 
+closely within 24 hours after dialysis. Pyridoxine (50 mg IM 
+1. Loading dose: 0.6 g/kg [intravenous 10% ethanol in D5W (7.6 mL/kg) or 43% oral 
+solution or 86 proof undiluted liquor (34 g ethanol/dL) 1.8 mL/kg]
+2. Maintenance dose:
+•	 In	alcoholic	patients	154	mg/kg	per	hour
+•	 In 	nonalcoholic	patients	66	mg/kg	per	hour
+•	 Double 	dose	during	hemodialysis	or	enrich	dialysate	with	100	mg/dL	ethanola
+•	 Double 	dose	if	given	orally	with	charcoal
+3. Monitor serum ethanol concentrations every 1–2 hours and adjust infusion rate 
+to maintain serum ethanol level of 100–150 mg/dL. Thereafter, monitor ethanol 
+levels every 2–4 hours
+4. Continue until methanol or ethylene glycol concentrations are <20 mg/dL and 
+patient is asymptomatic with normal arterial pH
+aRerom Wadgymar A, et al. Treatment of acute methanol intoxication with hemodialysis. Am J 
+Kidney Dis. 1998;31:897.
+Guidelines for Use of Ethanol in Toxic Alcohol Poisonings
+20.6
+TABLE
+1. Loading dose: 15 mg/kg IV in 100 mL 0.9% saline over 30 minutes to 1 hour
+2. Maintenance dose: 10 mg/kg every 12 hours for four doses, then 15 mg/kg  
+every 12 hours
+3. Dose adjustments during hemodialysis: 15 mg/kg every 4 hours or 1–1.5 mg/kg 
+per hour infusion during dialysis
+4. Continue until methanol or ethylene glycol concentrations are <20 mg/dL  
+and patient is asymptomatic with normal arterial pH
+Modified from Barceloux DG, et al. American Academy of Clinical Toxicology practice guidelines on 
+the treatment of ethylene glycol poisoning. J Toxicol Clin Toxicol. 1999;37:537; Barceloux DG, et al. 
+American Academy of Clinical Toxicology practice guidelines on the treatment of methanol  
+poisoning. J Toxicol Clin Toxicol. 2002;40:415.
+Guidelines for Use of Fomepizole in the Treatment  
+of Ethylene Glycol and Methanol Poisoning20.7
+TABLE
+Daugirdas9781451144291-ch020.indd   378 09/10/14   1:26 am
+379Chapter 20 / Use of Dialysis and Hemoperfusion in the Treatment of Poisoning
+four times daily) and thiamine (100 mg IM four times daily) 
+should be considered to increase the metabolism of glyox -
+ylate. In addition, judicious intravenous fluids should be 
+given to prevent calcium oxalate crystal deposition in the 
+kidneys and acute renal failure. Hypocalcemia, the effects 
+of which may be worsened by bicarbonate treatment, 
+(increasing blood pH will lower the ionized calcium) should 
+be corrected if this is symptomatic or severe. It is uncertain 
+whether correction of hypocalcemia significantly increases 
+calcium oxalate precipitation in tissues.
+2. Methanol (MW 32 Da).  Methanol poisoning causes early tem-
+porary CNS depression followed by a latent period lasting
+6 to 24 hours before the development of metabolic acido-
+sis and visual symptoms. The latter , due to formic acid
+accumulation, include blurred vision, decreased visual
+acuity, photophobia, visual field defects , or even complete 
+blindness. Early signs include optic disk hyperemia and
+decreased pupillary reflexes to light.
+Initial management is similar to that for ethylene 
+glycol toxicity, including the correction of acidosis with 
+intravenous sodium bicarbonate to pH 7.35 to 7.4. Ethanol 
+or fomepizole should be administered to prevent forma-
+tion of formic acid according to indications (Table 20.4). 
+Hemodialysis should be considered (Table 20.5) when 
+there is significant metabolic acidosis (pH < 7.25–7.3), 
+abnormalities of vision, deteriorating vital signs, renal fail -
+ure, or electrolyte abnormalities unresponsive to conven -
+tional therapy. Serum methanol concentration > 50 mg/
+dL (15.6 mmol/L) is often used as an indication for hemo-
+dialysis. High serum methanol concentrations may require 
+several days of treatment with ethanol or fomepizole. If a 
+patient with high serum concentrations of methanol is not 
+treated with hemodialysis, acid–base status should be mon-
+itored closely, and hemodialysis should be initiated as soon 
+as acidosis develops. Hemodialysis should be continued 
+until acidosis is corrected and serum methanol levels are 
+<20 mg/dL (6.3 mmol/L). When methanol concentrations 
+are very high, dialysis for 18 to 21 hours may be required. 
+In some patients with normal renal function receiving 
+ethanol or fomepizole, dialysis may not be necessary once 
+serum methanol falls below 50 mg/dL and anion gap aci-
+dosis is corrected. Ophthalmologic abnormalities may 
+persist transiently or permanently and should not be con -
+sidered an indication to continue dialysis. Redistribution 
+of methanol may result in elevation of methanol concen-
+trations after dialysis ceases, and repeat dialysis may be 
+necessary. Consequently, serum osmolality and acid–base 
+status should be monitored frequently for the first 24 to 
+36 hours after hemodialysis ceases. If dialysis is initiated, 
+doses of ethanol or fomepizole should be increased (how-
+ever, in the case of ethanol therapy, if ethanol is also used 
+Daugirdas9781451144291-ch020.indd   379 09/10/14   1:26 am
+Part II / Blood-Based Therapies
+380
+to enrich the dialysate, the systemic doses need not be 
+increased) (Tables 20.6 and 20.7). Formic acid is converted 
+by 10-formyl tetrahydrofolate synthetase to carbon dioxide 
+and water. Folinic acid IV (1 mg/kg [up to 50 mg] in 5% dex-
+trose over 30–60 
+ minutes every 4 hours) should be given to 
+enhance formic acid metabolism until methanol and for -
+mate have been cleared. If folinic acid is unavailable, folic 
+acid can be used.
+3. Isopropanol (MW 60 Da).  Isopropanol (isopropyl alcohol) is
+found in rubbing alcohol, antifreeze, and frost remover.
+Isopropanol is a common cause of poisoning but is only
+occasionally fatal. Isopropanol is oxidized by ALDH to
+acetone. Unlike ethylene glycol and methanol, most of the
+clinical effects of isopropanol intoxication are due to the
+parent compound. Gastrointestinal and CNS symptoms,
+including confusion, ataxia, and coma, occur in 1 hour.
+Hypotension due to cardiac depression and vasodilata-
+tion can occur in severe intoxication. Hypoglycemia can
+occur. Acidosis is rare in the absence of severe hypoten-
+sion. Therefore, a high serum osmolal gap without aci-
+dosis in association with an increased urinary or serum
+acetone level is highly suggestive of isopropanol poison-
+ing. Supportive treatment is usually all that is necessary.
+Inhibition of ALDH is not warranted because acetone is
+less toxic than the parent compound. Hemodialysis might
+be considered if the isopropanol levels are > 400 mg/dL
+(67  mmol/L) and significant CNS suppression, renal fail-
+ure, or hypotension exists.
+4. Other alcohols.  Poisonings with other alcohols used in a
+variety of industrial and household products have been
+reported with much less frequency. Metabolism of the par-
+ent compound may lead to the generation of toxic metab -
+olites. Propylene glycol (MW 76 Da) is an excipient often
+used in pharmaceuticals such as lorazepam and nitroglyc-
+erine to enhance solubility. Toxicity is associated with lac-
+tic acidosis and an elevated osmolal gap. 2-Butoxyethanol
+(MW 118 Da) is found in a number of resins, varnishes, and 
+glass- and leather-cleaning solutions. Diethylene glycol
+(MW 106 Da) produces metabolic acidosis, acute kidney
+injury, hypertension, and cardiac arrhythmias; fomepizole
+is recommended to prevent metabolism by ALDH. Toxicity 
+has been associated with metabolic acidosis, hepatic
+injury, and respiratory distress. Hemodialysis is effective
+in removing these alcohols and may be indicated in severe
+intoxications.
+F. Lithium carbonate (MW 7 Da).  Most intoxications result from 
+chronic accumulation, renal failure, diuretic use and dehydra-
+tion, and interactions with angiotensin-converting enzyme 
+(ACE) inhibitors and nonsteroidal anti-inflammatory drugs 
+(NSAIDs). Mild (serum Li 1.5–2.5 mmol/L) and moderate 
+(serum Li 2.5–3.5 mmol/L) lithium toxicity are characterized 
+Daugirdas9781451144291-ch020.indd   380 09/10/14   1:26 am
+381Chapter 20 / Use of Dialysis and Hemoperfusion in the Treatment of Poisoning
+by neuromuscular irritability, nausea, and diarrhea. Severe 
+toxicity (serum Li >3.5 mmol/L) can result in seizures, stupor, 
+and permanent neurologic deficit. Initially, diuretics should 
+be stopped and prompt rehydration initiated. Sodium polysty-
+rene sulfonate may also facilitate Li elimination (Ghannoum, 
+2010). As lithium is 0% protein-bound with a V D of 0.8 L/kg, it 
+is removed very well by dialysis. Hemodialysis should be con-
+sidered when (a) serum Li >3.5 mmol/L, (b) serum Li >2.5 
+mmol/L in patients with appreciable symptoms or in patients 
+with renal insufficiency, or (c) when serum Li is between 2.5 
+and 3.5 mmol/L in asymptomatic patients but when levels are 
+expected to rise (e.g., following recent massive ingestion) or 
+are not expected to fall below 0.8 mmol/L in the next 36 hours, 
+as predicted from a log/linear concentration versus time plot. 
+As serum lithium may rebound following dialysis owing to a 
+shift from the intracellular compartment, dialysis should be 
+performed using a high-clearance dialyzer for 8 to 12 hours. 
+Repeated dialysis sessions may be necessary until serum Li 
+levels remain below 1.0 mmol/L for 6 to 8 hours after dialy-
+sis. Prolonged continuous hemodiafiltration may reduce the 
+rebound of lithium levels posttreatment (Leblanc, 1996).
+G. Mushroom poisoning.  I ngestion of certain poisonous mush-
+rooms is associated initially with severe gastrointestinal 
+symptoms followed by hepatic insufficiency and cardiovascu-
+lar collapse. The toxins of these mushrooms (α-amanitin and 
+phalloidin, MW for both ∼900 Da) are removed by hemodialy-
+sis and hemoperfusion in vitro, but the efficacy of hemodialy-
+sis or hemoperfusion in patients poisoned by mushrooms has 
+been difficult to interpret because of lack of controls; some 
+survival benefit has been alleged. Activated charcoal adsorp-
+tion of amanitin and administration of silibinin (a flavanoli-
+gand from extracts of milk thistle), which prevents amanitin 
+uptake by liver cells, may be of use (Goldfrank, 2006). Early 
+referral to a poison center and liver transplantation unit is 
+recommended. Plasmapheresis is another experimental treat-
+ment option.
+H. Paraquat (MW 257 Da). D elayed toxicity with pulmonary fibrosis 
+and renal and multiorgan failure can occur following inges -
+tion of more than 10 mL of paraquat concentrate. Survival is 
+dependent on the amount ingested and the plasma levels with 
+respect to time of ingestion (Proudfoot, 1979). Plasma levels of 
+above 3 mg/L (12 mcmol/L) regardless of when they are mea-
+sured are usually fatal. Initial management includes gastric 
+lavage with administration of activated charcoal or Fuller’s 
+earth with cathartic. Hemoperfusion is effective in drug 
+removal and should be considered when the plasma paraquat 
+level is 0.1 mg/L (0.4 mcmol/L) or above. Repeated or continu-
+ous hemoperfusion may be needed for several days to main-
+tain plasma levels below 0.1 mg/L as paraquat has a large V D 
+and a slow intercompartmental transfer rate. Although the evi-
+dence that hemoperfusion improves survival is controversial, 
+Daugirdas9781451144291-ch020.indd   381 09/10/14   1:26 am
+Part II / Blood-Based Therapies
+382
+the procedure should be considered since occasional patients 
+have recovered despite massive ingestion and pulmonary 
+involvement. Survival after treatment with plasmapheresis 
+has been described (Dearaley, 1978). Recent evidence favors 
+the use of salicylates in treatment in order to interrupt NF κB 
+activity and provide oxygen scavenging (Dinis-Oliveira, 2009), 
+and use of other antioxidants is investigational (Blanco-Ayala, 
+2014). Most agree that hemodialysis should be used in the first 
+24 hours after poisoning.
+I. Phenothiazines and tricyclic antidepressants.  These agents are 
+highly protein-bound and have extremely large volumes of dis-
+tribution (in the range of 14–21 L/kg). Hence, the total amount 
+of these drugs removed by either hemodialysis or hemoperfu-
+sion is small. Treatment of intoxication with these agents is 
+largely supportive, including bicarbonate therapy for widened 
+QRS complex.
+J. Anticonvulsants
+1. Phenytoin (MW 252 Da). Nystagmus and ataxia occur at serum 
+values >20 and 30 mg/mL (79 and 119 mmol/L), respec-
+tively. Phenytoin is 90% protein-bound (70% in uremic
+patients) and has a V
+D of 0.64 L/kg. Surprisingly, despite
+phenytoin’s high protein binding, which is not saturable
+even in overdose, it is removed moderately well by hemodi-
+alysis or hemoperfusion.
+2. Sodium valproate (MW 166 Da).  Valproate sodium has a small
+VD, is metabolized by the liver, and has significant protein
+binding. In overdose, protein binding becomes saturated,
+and free valproate can be subjected to extracorporeal
+removal. High-flux hemodialysis with or without hemo-
+perfusion should be considered when there is coma, severe 
+liver dysfunction, or other organ failure.
+3. Carbamazepine (MW 236 Da).  Hemoperfusion can be used for
+severe intoxications. High-flux hemodialysis also has been
+reported to give good results (Koh, 2006).
+K. Sedatives and hypnotics. Older agents have greater toxicity and, 
+fortunately, are less frequently used today. Since morbidity 
+and mortality can be high, extracorporeal methods have been 
+employed in overdose with these older drugs. Newer agents 
+are associated with lower side effects, and supportive therapy 
+is often sufficient to treat overdose.
+L. Theophylline (MW 180 Da).  Toxic reactions occur when theoph -
+ylline levels exceed 25 mg/L (140 mcmol/L) [therapeutic 
+levels being 10–20 mg/L (56–112 mcmol/L)]. Chronic intoxi-
+cation may have more pronounced symptoms at a given 
+serum level. Seizures typically occur with levels >40 mg/L 
+(224 mcmol/L), but may occur at levels as low as 25 mg/L 
+(139 mcmol/L). Cardiovascular collapse is rare until levels 
+are >50 mg/L (278 mcmol/L). Theophylline has V
+D of 0.5 L/
+kg, poor intrinsic metabolism, and 56% protein binding, and 
+is well adsorbed by charcoal, enabling efficacious removal 
+Daugirdas9781451144291-ch020.indd   382 09/10/14   1:26 am
+383Chapter 20 / Use of Dialysis and Hemoperfusion in the Treatment of Poisoning
+by MDAC and hemoperfusion. MDAC should be used in sig-
+nificant poisonings even with intravenous theophylline over -
+dose, although protracted vomiting is often a limiting factor. 
+Propranolol (1–3  mg  IV) may be used to treat tachyarrhyth-
+mia, and hypokalemia should be corrected. Hemoperfusion 
+or high-
+ efficiency hemodialysis is indicated if vomiting 
+prevents the use of MDAC, or it can be used in addition to 
+MDAC in patients with seizures, hypotension, or arrhythmia. 
+Hemoperfusion/hemodialysis should also be considered in 
+patients with acute intoxication with levels above 100 mg/L 
+(556 mcmol/L), in chronic toxicity with levels above 60 mg/L 
+(333 mcmol/L), and in both the elderly and infants under 6 
+months of age above 40  mg/L (222 mcmol/L). Combining 
+hemodialysis with hemoperfusion may further enhance clear-
+ance and prevent saturation of the hemoperfusion cartridge. 
+Continuous hemoperfusion has also been used with success 
+in severely toxic and hypotensive patients. Treatment should 
+be continued until the plasma level is 25 to 40 mg/L (140–224 
+mcmol/L).
+M. Dabigatran etexilate mesylate (Pradaxa) is an oral direct throm-
+bin inhibitor for prophylaxis of thromboembolism in patients 
+with nonvalvular atrial fibrillation. Since its US approval in 
+2010, dabigatran-associated hemorrhages have been reported, 
+and reversal of its activity has been challenging, given that vita-
+min K, fresh-frozen plasma, or cryoprecipitate used to reverse 
+warfarin-associated coagulopathies are ineffective. Recent 
+publications have confirmed that dialysis removes the anti-
+coagulant; one in a patient with an intracranial bleed (Chang, 
+2013) and the other in a series of dialysis patients administered 
+dabigatran at two dose levels and achieving between 49% and 
+59% of total dabigatran removal with 4  hours hemodialysis 
+(Khadzhynov, 2013). The kinetics seem to follow first-order 
+elimination during dialysis (Liesenfeld, 2013). Continuous 
+venovenous hemodiafiltration may be useful in severe cases 
+(Chiew, 2014).
+N. “Bath Salts.”  The active compound is cathinone, a natural 
+amphetamine analog from the plant Catha edulis composed 
+of a mixture of 3,4 methylenedioxopyrovalerone (MPDV) (MW 
+275 Da) and mephedrone (MW 177 Da). The compound pro-
+duces sympathetic overactivity, causing cardiac (tachycar -
+dia), neurologic (hyperthermia), and psychiatric (agitation) 
+derangements after ingestion, similar to the effects of other 
+stimulants (cocaine, amphetamine, and 3,4-methylenedioxy-
+N-methylamphetamine (MDMA)). These compounds are not 
+detected by routine toxicology screens. Acute kidney injury 
+can result from exposure to these compounds, likely related to 
+rhabdomyolysis and renal arteriolar vasospasm (Adebamiro 
+and Perazella, 2012; Regunath, 2012). Multiorgan failure and 
+deaths have occurred, but owing to the lack of data about this 
+drug, and since most users have coingestions, management 
+Daugirdas9781451144291-ch020.indd   383 09/10/14   1:26 am
+Part II / Blood-Based Therapies
+384
+similar to that for amphetamines and MDMA intoxications 
+is applied, including supportive care with renal replacement 
+therapy if indicated (Prosser and Nelson, 2012, Mas-More y, 
+2013). Hemodialysis is unlikely to be useful in removing the 
+components, assuming they behave similarly, with a short 
+half-life, to amphetamines and MDMA.
+O. Metformin (MW 129 Da). M etformin is a biguanide used as an oral 
+antihyperglycemic agent in the treatment of type II diabetes mel-
+litus. It acts by increasing cellular insulin sensitivity. Especially 
+in patients with chronic kidney disease, but also in acute over-
+dose in patients with normal kidney function, lactic acidosis is 
+a rare adverse effect. The condition, which if severe can be fatal, 
+is termed metformin-associated lactic acidosis (MALA). 
+Metformin is absorbed from the gut relatively rapidly and is not 
+metabolized. Ninety percent of the drug is eliminated by glo-
+merular filtration and tubular secretion with a serum half-life 
+between 1.5 and 5 hours. Surreptitious use of metformin may be 
+uncovered in the investigation of lactic acidosis in a normogly-
+cemic or hypoglycemic comatose patient. MALA is defined as a 
+venous serum lactate level > 5 mmol/L with serum bicarbon-
+ate <22 mmol/L. The mainstay of therapy is supportive, includ-
+ing bicarbonate administration, hemodialysis for correction of 
+acidosis and removal of lactate and metformin. In the study of 
+Peters, 2008, mortality was 30%, and especially in those in shock 
+and with a high number of comorbidities, suggesting that hypo-
+perfusion and not metformin was the cause of the acidosis. The 
+dialyzer extraction ratios obtained for metformin (60%) suggest 
+that it may be removable by extracorporeal treatments (Nguyen 
+and Concepcion, 2011), although its relatively large VD (3 L/kg)  
+may limit the effectiveness of extracorporeal treatments. 
+Nevertheless, because hemodialysis may rapidly correct the 
+associated metabolic acidosis, it is recommended in severe 
+metformin poisoning.
+P. Thallium. T hallium is a highly toxic metal originally used for 
+the treatment of ringworm infestation, and then as a roden -
+ticide, but because of toxicity it is now relegated to industrial 
+use. It is an agent used in homicide, but exposure can occur 
+from contamination of herbal products and drugs of abuse. 
+The potentially fatal oral dose is as low as 6 mg/kg. Thallium 
+mimics potassium, as these two elements are similar in ionic 
+size. Thallium accumulates in nervous tissue, muscle and 
+liver, hair, skin, and nails. Thallium inhibits critical metabolic 
+enzymes such as pyruvate kinase and succinate dehydroge-
+nase. The usual findings of thallium poisoning are alopecia 
+and painful ascending peripheral neuropathy, abdominal 
+pain, vomiting, diarrhea, constipation, autonomic instability, 
+and cranial nerve involvement with the most severe poisoning 
+exhibiting altered mental status, coma, loss of airway-protec-
+tion, respiratory paralysis, and cardiac arrest. (Hoffman, 2003). 
+Urine is used (although blood testing is available) as a screen-
+ing test with a normal thallium concentration of less than 
+Daugirdas9781451144291-ch020.indd   384 09/10/14   1:26 am
+385Chapter 20 / Use of Dialysis and Hemoperfusion in the Treatment of Poisoning
+5 mcg/L. Treatment consists of removal from exposure, sup-
+portive care, and enhanced elimination ; MDAC and Prussian 
+blue enhance elimination via the gastrointestinal tract. Hourly 
+thallium removal by hemodialysis and charcoal hemoperfu -
+sion appears superior to removal by normal kidney function 
+and comparable to stool elimination via Prussian blue. There 
+is agreement that modern dialyzers would enhance thallium 
+removal compared with older techniques; however, owing to 
+its large VD, once distribution of thallium throughout the body 
+is complete, even modern techniques are not likely to remove 
+a significant proportion of the total body burden. If dialysis 
+can be instituted early after ingestion, removal of 1% to 3% of 
+total body stores in a 6-hour treatment has been reported, and 
+thallium might thus qualify as being slightly dialyzable. It is 
+recommended that if thallium exposure is highly suspected on 
+the basis of history or clinical features, dialysis be performed 
+(Ghannoum, 2012).
+Other drugs. Management of poisoning due to other agents 
+is beyond the scope of this handbook. The reader is referred to 
+Shannon, 2007, and to Tables 20.8 and 20.9.
+Antimicrobials/
+Anticancer
+Cefaclor
+Cefadroxil
+Cefamandole
+Cefazolin
+Cefixime
+Cefmenoxime
+Cefmetazole
+(Cefonicid)
+(Cefoperazone)
+Ceforamide
+(Cefotaxime)
+Cefotetan
+Cefotiam
+Cefoxitin
+Cefpirome
+Cefroxadine
+Cefsulodin
+Ceftazidime
+(Ceftriaxone)
+Cefuroxime
+Cephacetrile
+Cephalexin
+Cephalothin
+(Cephapirin)
+Cephradine
+Drugs and Chemicals Removed with Hemodialysis
+20.8
+TABLE
+Moxalactam
+Amikacin
+Dibekacin
+Daptomycin
+Fosfomycin
+Gentamicin
+Kanamycin
+Neomycin
+Netilmicin
+Sisomicin
+Streptomycin
+Tobramycin
+Bacitracin
+Colistin
+Amoxicillin
+Ampicillin
+Azlocillin
+Carbenicillin
+Clavulinic acid
+(Cloxacillin)
+(Dicloxacillin)
+(Floxacillin)
+Mecillinam
+(Mezlocillin)
+(Methicillin)
+(Nafcillin)
+Penicillin
+Piperacillin
+Temocillin
+Ticarcillin
+(Clindamycin)
+(Erythromycin)
+(Azithromycin)
+(Clarithromycin)
+Linezolid
+Metronidazole
+Nitrofurantoin
+Ornidazole
+Sulfisoxazole
+Sulfonamides
+Tetracycline
+(Doxycycline)
+(Minocycline)
+Tinidazole
+Trimethoprim
+Aztreonam
+Cilastatin
+(Dapsone)
+Doripenem
+Imipenem
+(Chloramphenicol)
+(Amphotericin)
+Ciprofloxacin
+(Enoxacin)
+(continued)
+Daugirdas9781451144291-ch020.indd   385 09/10/14   1:26 am
+Part II / Blood-Based Therapies
+386
+Fluroxacin
+(Norfloxacin)
+Ofloxacin
+Isoniazid
+(Vancomycin)
+Capreomycin
+PAS
+Pyrizinamide
+(Rifampin)
+(Cycloserine)
+Ethambutol
+5-Fluorocytosine
+Acyclovir
+(Amantadine)
+Didanosine
+Foscarnet
+Ganciclovir
+(Ribavirin)
+Vidarabine
+Zidovudine
+(Pentamidine)
+(Praziquantel)
+(Fluconazole)
+(Itraconazole)
+(Ketoconazole)
+(Miconazole)
+(Chloroquine)
+(Quinine)
+(Azathioprine)
+Bredinin
+Busulphan
+Cyclophosphamide
+5-Fluorouracil
+(Methotrexate)
+Barbiturates
+Amobarbital
+Aprobarbital
+Barbital
+Butabarbital
+Cyclobarbital
+Pentobarbital
+Phenobarbital
+Quinalbital
+(Secobarbital)
+Nonbarbiturate 
+Hypnotics, Sedatives, 
+Tranquilizers, 
+Anticonvulsants
+Carbamazepine
+Baclofen
+Betaxolol
+(Bretylium)
+Clonidine
+(Calcium channel 
+blockers)
+Captopril
+(Diazoxide)
+Carbromal
+Chloral hydrate
+(Chlordiazepoxide)
+(Diazepam)
+(Diphenylhydantoin)
+(Diphenylhydramine)
+Ethiamate
+Ethchlorvynol
+Ethosuximide
+Gallamine
+Glutethimide
+(Heroin)
+Meprobamate
+(Methaqualone)
+Methsuximide
+Methyprylon
+Paraldehyde
+Primidone
+Topiramate
+Valproic acid
+Cardiovascular  
+Agents
+Acebutolol
+(Amiodarone)
+Amrinone
+Atenolol
+(Digoxin)
+Enalapril
+Fosinopril
+Lisinopril
+Quinapril
+Ramipril
+(Encainide)
+(Flecainide)
+(Lidocaine)
+Metoprolol
+Methyldopa
+Mexiletine
+(Ouabain)
+N-acetylprocainamide
+Nadolol
+(Pindolol)
+Practolol
+Procainamide
+Propranolol
+(Quinidine)
+(Timolol)
+Sotatol
+Tocainide
+Alcohols
+Ethanol
+Ethylene glycol
+Isopropanol
+Methanol
+Analgesics, 
+Antirheumatics
+Acetaminophen
+Acetophenetidin
+Acetylsalicylic acid
+Colchicine
+Methylsalicylate
+(D-Propoxyphene)
+Salicylic acid
+Antidepressants
+(Amitriptyline)
+Amphetamines
+(Imipramine)
+Isocarboxazid
+MAO inhibitors
+Moclobemide
+(Pargylline)
+(Phenelzine)
+Tranylcypromine
+(Tricyclics)
+Solvents, Gases
+Acetone
+Camphor
+Carbon monoxide
+(Carbon tetrachloride)
+(Eucalyptus oil)
+Thiols
+Toluene
+Trichloroethylene
+Plants, Animals, 
+Herbicides,  
+Insecticides
+Alkyl phosphate
+Amanitin
+Averrhoa carambola/
+star fruit/oxalate
+Demeton sulfoxide
+Dimethoate
+Diquat
+Endosulfan
+Glufosinate
+(Roundup/glyphosate)
+Methylmercury complex
+Drugs and Chemicals Removed with Hemodialysis 
+(continued)20.8
+TABLE
+Daugirdas9781451144291-ch020.indd   386 09/10/14   1:26 am
+387
+Barium
+Bromide
+(Copper)*
+(Iron)*
+(Lead)*
+Lithium
+(Magnesium)
+(Mercury)*
+Potassium
+(Potassium  
+dichromate)*
+Phosphate
+Sodium
+Strontium
+Thallium
+(Tin)
+(Zinc)
+(Organophosphates)
+Paraquat
+Snake bite
+Sodium chlorate
+Potassium chlorate
+Trees (hemlock, yew)
+Miscellaneous
+Acipimox
+Allopurinol
+Aminophylline
+Aniline
+Borates
+Boric acid
+(Chlorpropamide)
+Chromic acid
+(Cimetidine)
+Dinitro-o-cresol
+Folic acid
+Mannitol
+Metformin (drug and 
+lactate removal)
+Methylprednisolone
+4-Methylpyrazole
+Sodium citrate
+Theophylline
+Thiocyanate
+Ranitidine
+Metals, Inorganics
+(Aluminum)* High-flux 
+HD with chelation may 
+be superior to HP
+Arsenic
+( ) Implies poor removal.
+*Removed with chelating agent.
+Drugs and Chemicals Removed with Hemodialysis 
+(continued)20.8
+TABLE
+Drugs and Chemicals Removed with Hemoperfusion
+20.9
+TABLE
+Barbiturates
+Amobarbital
+Butabarbital
+Hexabarbital
+Pentobarbital
+Phenobarbital
+Quinalbital
+Secobarbital
+Thiopental
+Vinalbital
+Nonbarbiturate 
+Hypnotics, Sedatives, 
+and Tranquilizers
+Carbamazepine
+Carbromal
+Chloral hydrate
+Chlorpromazine
+(Diazepam)
+Diphenhydramine
+Ethchlorvynol
+Glutethimide
+Meprobamate
+Methaqualone
+Methsuximide
+Methyprylon
+Phenytoin
+Promazine
+Promethazine
+Valproic acid
+Analgesics, 
+Antirheumatic
+Acetaminophen
+Acetylsalicylic acid
+Colchicine
+D-propoxyphyene
+Methylsalicylate
+Phenylbutazone
+Salicylic acid
+Antimicrobials/
+Anticancer
+(Adriamycin)
+Ampicillin
+Carmustine
+Chloramphenicol
+Chloroquine
+Clindamycin
+Dapsone
+Doxorubicin
+Gentamicin
+Ifosfamide
+Isoniazid
+(Methotrexate)
+Pentamidine
+Thiabendazole
+(5-Fluorouracil)
+Vancomycin
+Antidepressants
+(Amitryptiline)
+(Imipramine)
+(Tricyclics)
+Plant and Animal Toxins, 
+Herbicides, Insecticides
+Amanitin
+Chlordane
+Demeton sulfoxide
+Dimethoate
+Diquat
+Endosulfan
+Glufosinate
+Methylparathion
+Nitrostigmine
+(Organophosphates)
+Phalloidin
+Polychlorinated 
+biphenyls
+Paraquat
+Parathion
+(continued)
+Daugirdas9781451144291-ch020.indd   387 09/10/14   1:26 am
+Part II / Blood-Based Therapies
+388
+( ) Implies poor removal.
+*Removed with chelating agent.
+Drugs and Chemicals Removed with Hemoperfusion 
+(continued)20.9
+TABLE
+References and Suggested Readings
+Adebamiro A, Perazella MA. Recurrent acute kidney injury following bath salts intoxi-
+cation. Am J Kidney Dis. 2012;59:273–275.
+Barceloux DG, et al. American Academy of Clinical Toxicology practice guidelines 
+on the treatment of ethylene glycol poisoning. Ad Hoc Committee. J Toxicol Clin 
+Toxicol. 1999;37:537.
+Barceloux DG, et al. American Academy of Clinical Toxicology practice guidelines on 
+the treatment of methanol poisoning. J Toxicol Clin Toxicol. 2002;40:415.
+Blanco-Ayala T, Andérica-Romero AC, Pedraza-Chaverri J. New insights into antioxi-
+dant strategies against paraquat toxicity. Free Radic Res. 2014;48:623–640.
+Bronstein AC, et al. 2011 Annual report of the American Association of Poison Control 
+Centers’ National Poison Data System (NPDS): 29th Annual Report. Clin Toxicol 
+(Phila). 2012;50:911–1164.
+Chang DN, Dager WE, Chin AI. Removal of dabigatran by hemodialysis. Am J Kidney 
+Dis. 2013;61:487–489.
+Chiew AL, Khamoudes D, Chan BS. Use of continuous veno-venous haemodiafiltration 
+therapy in dabigatran overdose. Clin Toxicol (Phila). 2014;52:283–287.
+Chow MT, et al. Hemodialysis-induced hypophosphatemia in a normophosphatemic 
+patient dialyzed for ethylene glycol poisoning: treatment with phosphorus-
+enriched hemodialysis. Artif Organs. 1998;22:905.
+Dearaley DP , et al. Plasmapheresis for paraquat poisoning. Lancet. 1978;1:162.
+Dinis-Oliveira RJ, et al. An effective antidote for paraquat poisonings: the treatment 
+with lysine acetylsalicylate. Toxicology. 2009 31;255:187–193.
+Doorenbos CJ, et al. Use of urea containing dialysate to avoid disequilibrium syn-
+drome, enabling intensive dialysis treatment of a diabetic patient with renal 
+failure and severe glucophage induced lactic acidosis. Nephrol Dial Transplant. 
+2001; 16:1303.
+Done AK, Temple AR. Treatment of salicylate poisoning. Modern Treat. 1971;8:528.
+Fleig SV , et al. Digoxin intoxication in acute or chronic kidney failure: elimination 
+of digoxin bound to Fab-fragments (Digifab) with high cut-off filter dialysis. 
+[Abstract]. J Am Soc Nephrol. 2011;22:317A.
+Ghannoum M, et al. Successful treatment of lithium toxicity with sodium polystyrene 
+sulfonate: a retrospective cohort study. Clin Toxicol (Phila). 2010;48:34–41.
+Ghannoum M, et al; Extracorporeal Treatments in Poisoning Workgroup. 
+Extracorporeal treatment for thallium poisoning: recommendations from the 
+EXTRIP Workgroup. Clin J Am Soc Nephrol. 2012;7:1682–90.
+Ghannoum M, et al. Trends in toxic alcohol exposures in the United States from 2000 
+to 2013: a focus on the use of antidotes and extracorporeal treatments. Semin Dial. 
+2014;27:395–401.
+Cardiovascular
+Atenolol
+Cibenzoline succinate
+Clonidine
+Digoxin
+(Diltiazem)
+(Disopyramide)
+Flecainide
+Metoprolol
+N-acetylprocainamide
+Procainamide
+Quinidine
+Miscellaneous
+Aminophylline
+Cimetidine
+(Fluoroacetamide)
+(Phencyclidine)
+Phenols
+(Podophyllin)
+Theophylline
+Solvents, Gases
+Carbon tetrachloride
+Ethylene oxide
+Trichloroethane
+Xylene
+Metals
+(Aluminum)*
+(Iron)*
+Daugirdas9781451144291-ch020.indd   388 09/10/14   1:26 am
+389Chapter 20 / Use of Dialysis and Hemoperfusion in the Treatment of Poisoning
+Ghannoum M, et al. Hemoperfusion for the treatment of poisoning: technology, 
+determinants of poison clearance, and application in clinical practice. Semin Dial. 
+2014;27:350–361.
+Goldfrank LR. Mushrooms. In: Nelson LS, et al., eds. Goldfrank’s Toxicologic Emergencies. 
+New York, NY: McGraw Hill; 2011:1522.
+Hoffman RS. Thallium toxicity and the role of Prussian Blue in therapy. Toxicol Rev . 
+2003;22:29–40.
+Hussain SA, et al. Phosphate enriched hemodialysis during pregnancy: two case series. 
+Hemodial Int. 2005;9:147.
+Jacobsen G, et al. Antidotes for methanol and ethylene glycol poisoning. J Toxicol Clin 
+Toxicol. 1997;35:127.
+Khadzhynov D, et al. Effective elimination of dabigatran by haemodialysis: A phase 
+I single-centre study in patients with end-stage renal disease. Thromb Haemost. 
+2013;109:596–605.
+Koh KH, et al. High-flux haemodialysis treatment as treatment for carbamazepine 
+intoxication. Med J Malaysia. 2006;61:109.
+Ku Y, et al. Clinical pilot study on high-dose intra-arterial chemotherapy with direct 
+hemoperfusion under hepatic venous isolation in patients with advanced hepa -
+tocellular carcinoma. Surgery. 1995;117:510.
+Kulig K. Initial management of ingestions of toxic substances. N Engl J Med. 
+1992;326:1677.
+Lavergne V , et al. The EXTRIP (EXtracorporeal TReatments In Poisoning) workgroup: 
+guideline methodology. Clin Toxicol (Phila). 2012;50:403–413.
+Leblanc M, et al. Lithium poisoning treated by high-performance arteriovenous and 
+venovenous hemodialfiltration. Am J Kidney Dis. 1996;27:365.
+Liesenfeld KH, et al. Pharmacometric characterization of dabigatran hemodialysis. 
+Clin Pharmacokinet. 2013;52:453–462.
+Martiny S, et al. Treatment of severe digoxin intoxication with digoxin-specific anti-
+body fragments: a clinical review. Crit Care Med. 1987;16:629.
+Mas-Morey P , et al. Clinical toxicology and management of intoxications with syn-
+thetic cathinones (“Bath Salts”). J Pharm Pract. 2013;26:353–357.
+Mowry J, et al.  2012 Annual Report of the American Association of Poison Control 
+Centers’ National Poison Data System (NPDS): 30th Annual Report. Clin Toxicol. 
+2013;51:949–1229.
+Nguyen HL, Concepcion L. Metformin intoxication requiring dialysis. Hemodial Int. 
+2011;15(suppl 1):S68–71.
+Palmer BF. Effectiveness of hemodialysis in the extracorporeal therapy of phenobarbi-
+tal overdose. Am J Kidney Dis. 2000;36:640–643.
+Proudfoot AT, et al. Paraquat poisoning: significance of plasma paraquat concentra-
+tions. Lancet. 1979;2:330.
+Peters N, et al. Metformin-associated lactic acidosis in an intensive care unit. Crit Care. 
+2008;12:R149.
+Prosser JM, Nelson LS. The toxicology of bath salts: a review of synthetic cathinones. 
+J Med Toxicol. 2012;8:33–42.
+Regunath H, et al. Bath salt intoxication causing acute kidney injury requiring hemo-
+dialysis. Hemodial Int. 2012;16:S47–9.
+Sam R, et al. Using disodium monohydrogen phosphate to prepare a phosphate-
+enriched hemodialysate. Hemodial Int. 2013;17:667–668.
+Samtleben W , et al. Plasma exchange and hemoperfusion. In: Jacobs C, et al., eds. 
+Replacement of renal function by dialysis. Dordrecht: Kluwer Academic Publishers; 
+1996:1260.
+Shalkham AS, et al. The availability and use of charcoal hemoperfusion in the treat-
+ment of poisoned patients. Am J Kidney Dis. 2006;48:239–241.
+Shannon MW , Borron SW , Burns MJ, eds. Haddad and Winchester’s Clinical 
+Management of Poisoning and Drug Overdose. 4th ed. Philadelphia, PA: Saunders 
+Elsevier; 2007.
+Ujhelyi MR, et al. Disposition of digoxin immune Fab in patients with kidney failure. 
+Clin Pharmacol Ther. 1993;54:388.
+Wadgymar A, et al. Treatment of acute methanol intoxication with hemodialysis. Am 
+J Kidney Dis. 1998;31:897.
+Wanek MR, et al. Safe use of hemodialysis for dabigatran removal before cardiac sur -
+gery. Ann Pharmacother. 2012;46:e21.
+Daugirdas9781451144291-ch020.indd   389 09/10/14   1:26 am
+Part II / Blood-Based Therapies
+390
+Yates C, Galvao T, Sowinski KM, et al. Extracorporeal Treatment for Tricyclic 
+Antidepressant Poisoning: Recommendations from the EXTRIP Workgroup. 
+Semin Dial. 2014;27:381–389.
+Yip L, et al. Concepts and controversies in salicylate toxicity. Emerg Med Clin North 
+Am. 1994;12:351.
+Zdunek M, et al. Plasma exchange for the removal of digoxin-specific antibody frag-
+ments in renal failure: timing is important for maximizing clearance. Am J Kidney 
+Dis. 2000;36:177.
+Daugirdas9781451144291-ch020.indd   390 09/10/14   1:26 am

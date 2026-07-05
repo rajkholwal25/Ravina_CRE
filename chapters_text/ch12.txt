@@ -1,0 +1,1166 @@
+215
+The most common complications during hemodialysis are, in de-
+scending order of frequency, hypotension, cramps, nausea and vom-
+iting, headache, chest pain, back pain, and itching.
+ I. INTRADIALYTIC HYPOTENSION.  Intradialytic hypotension (IDH) is 
+important not only because it can cause distressing symptoms, 
+but because it is associated with poor long-term outcomes. Pa-
+tients with IDH show increased mortality (Flythe, 2014) and also 
+an increased rate of cardiac wall motion abnormalities during di-
+alysis, the so-called myocardial stunning (McIntyre and Odudu, 
+2014). There are various definitions for IDH, including a nadir 
+(lowest) systolic BP less than 90 mm Hg, a fall in systolic BP of 20 
+or 30 mm Hg, or a fall in some percentage of the starting blood 
+pressure. For quality assurance purposes, a definition of nadir 
+systolic BP less than 90 mm Hg might be most useful as this has 
+the strongest association with increased mortality (Flythe, 2014). 
+The incidence of IDH is highest in patients with low predialysis 
+blood pressure. A low predialysis blood pressure may be a marker 
+of cardiac disease, and hearts with functional or structural 
+ abnormalities may be less able to compensate  hemodynamically 
+for fluid removal. IDH is also associated with an increased risk of 
+access thrombosis (Chang, 2011). Mechanistic causes of IDH are 
+detailed in Table 12.1.
+A. IDH related to blood volume changes . Volume-related causes of 
+IDH are most important in that the blood pressure during 
+hemodialysis normally does not decrease (beyond an initial, 
+trivial amount) if fluid is not removed. Thus, any maneuver 
+that slows the ultrafiltration rate, whether it be extending the 
+weekly time on dialysis, reducing the weekly volume of fluid 
+ingestion, or increasing the volume of urine excreted, should 
+reduce the rate of IDH.
+1. Avoid large interdialytic weight gains. Emphasizing salt restriction 
+is far more effective in decreasing interdialytic weight gain
+(IDWG) than focusing on fluid restriction (Tomson, 2001).
+Observational data find an association between a higher
+ sodium intake and poor outcome (McCausland, 2012).
+Complications during 
+Hemodialysis
+Richard A. Sherman, John T.  
+Daugirdas, and Todd S. Ing
+12
+Daugirdas9781451144291-ch012.indd   215 09/10/14   1:12 am
+216
+Part II / Blood-Based Therapies
+2. Increasing weekly treatment time. Increasing weekly treatment 
+time will, by definition, decrease the required ultrafiltra -
+tion rate (same weight loss, longer time), and this  will 
+decrease the frequency of IDH. The weekend long interdia-
+lytic interval is associated with a higher IDWG; if the same 
+postdialysis weight is targeted after the weekend, a higher 
+ultrafiltration rate will, by definition,  need to be used to 
+achieve it. In-center dialysis patients with fluid removal 
+problems are often treated on a Mon-Wed-Fri-Sat schedule. 
+This cuts out the long-weekend interdialytic interval and 
+also increases the weekly dialysis time.
+The KDOQI 2006 adequacy guidelines recommend 
+that treatment time not be reduced below 3 hours ( for 
+thrice-weekly dialysis) in patients with little or no residual 
+urine output, regardless of how high their Kt/V may be. 
+The European Best Practice Guidelines recommend that 
+4 hours of therapy should be provided for all patients dia-
+lyzed on a three-per-week schedule, regardless of body size. 
+Increasing dialysis frequency without increasing weekly 
+dialysis time does not always reduce IDH, although in one 
+study the degree of myocardial stunning was reduced with 
+short daily hemodialysis (Jeffries, 2011).
+3. Maintaining and increasing urinary volume . In patients with 
+ residual kidney function, the amount of urine volume 
+ directly subtracts from the amount of fluid that needs to 
+be removed during dialysis. Urine volume can be increased 
+using diuretic therapy (Lemes, 2011).
+1. Volume-related
+a. Large weight gain (high ultrafiltration rate)
+b. Short weekly dialysis time (high ultrafiltration rate)
+c. Excessively low target (“dry”) weight
+2. Inadequate vasoconstriction
+a. High dialysis solution temperature
+b. Autonomic neuropathy
+c. Antihypertensive medications
+d. Eating during treatment
+e. Anemia
+3. Cardiac factors
+a. Diastolic dysfunction
+4. Uncommon causes
+a. Pericardial tamponade
+b. Myocardial infarction
+c. Occult hemorrhage
+d. Septicemia
+e. Dialyzer reaction
+f. Hemolysis
+g. Air embolism
+Causes of Intradialytic Hypotension
+12.1
+TABLE
+Daugirdas9781451144291-ch012.indd   216 09/10/14   1:12 am
+Chapter 12 / Complications during Hemodialysis 217
+4. Choose target weight carefully. A patient’s target weight or “dry 
+weight” is usually chosen primarily on a clinical basis tak -
+ing into account a patient’s blood pressure, presence of
+edema, and tolerance of ultrafiltration to the chosen weight. 
+The decision can be aided with the results of testing that
+is slowly making its way into the clinic (e.g., bioimpedance
+devices, measurement of serum atrial natriuretic factor lev-
+els, relative blood volume monitors, and pulmonary ultra -
+sound). The term “target weight” may be more appropriate
+than “dry weight, ” because some level of volume overload is 
+required in many patients to prevent IDH. This is because as 
+the patient’s dry weight is approached, the rate at which the 
+blood compartment refills from surrounding tissue spaces
+is diminished. Patients who require high ultrafiltration
+rates may be unable to reach their true dry weight because
+the progressively slower refill rate as dialysis proceeds pro-
+vokes transient hypovolemia at the end of treatment, often
+accompanied by IDH cramps, dizziness, and postdialysis
+malaise. More ominously, hypoperfusion of the heart, brain, 
+and gut may have cumulative adverse consequences.
+Intradialytic hematocrit monitors may help recog -
+nize a dry weight that is too high. A “flat-line” hematocrit 
+response (e.g., lack of an increase during dialysis) despite 
+fluid removal indicates rapid blood compartment refilling 
+and suggests fluid overload. However, a randomized trial 
+in which these data were utilized clinically resulted (para-
+doxically) in an increased, rather than a decreased, hospi -
+talization rate (Reddan, 2005). Identification of a specific 
+level of hemoconcentration (“crash-crit”) does not appear 
+to be useful in avoiding IDH.
+The use of multifrequency bioimpedance devices to 
+adjust target postdialysis weight is growing in popularity. 
+Reduction of fluid overload results in a lower prevalence 
+of left ventricular hypertrophy, a finding that is strongly 
+associated with poor outcome. Trying to aggressively re-
+duce blood pressure without technological guidance has 
+been associated with increased IDH (Davenport, 2008), 
+and with an increased rate of access failure and cardiovas-
+cular hospitalization (Curatola, 2011). Use of a multifre-
+quency impedance monitor was associated with reduced 
+blood pressure and left ventricular mass (Hur, 2013) with-
+out 
+ apparent side effects, although the rate of loss of urine 
+ volume was  accelerated in the group using bioimpedance 
+to lower target weight.
+5. Use an appropriate dialysis solution sodium level . When the
+ dialysis solution sodium level is less than that of plasma,
+the blood returning from the dialyzer is hypotonic with
+respect to the fluid in the surrounding tissue spaces. To
+maintain osmotic equilibrium, water leaves the blood com-
+partment, causing an acute reduction in the blood volume. 
+Higher dialysis solution sodium levels limit the reduction in 
+Daugirdas9781451144291-ch012.indd   217 09/10/14   1:12 am
+218
+Part II / Blood-Based Therapies
+blood volume accompanying ultrafiltration, but they also 
+increase IDWG, blood pressure, and postdialysis thirst.
+So-called sodium modeling (or sodium gradient dialy-
+sis) is widely practiced. It generally involves use of a high 
+dialysis solution sodium early in treatment (145–155 mM) 
+with a progressive fall (linear, step, or logarithmic) to lower 
+levels (135–140 mM) at the end of treatment. The 
+ objective 
+is to obtain the benefits of high-sodium dialysis solution 
+without its complications. Review of the large literature on 
+this subject shows that sodium modeling is of uncertain 
+benefit (Stiller, 2001). It should also be noted that a patient’s 
+postdialysis serum sodium is a function of a treatment’s 
+time-averaged concentration of dialysis solution 
+ sodium, 
+not the terminal level of dialysis solution sodium.
+Instead of a “one size fits all” level of dialysis solution so-
+dium, using a fixed level set close to the patient’s predialysis 
+serum value—an “individualized” dialysis solution 
+ sodium—
+may reduce symptoms as well as interdialytic thirst (Santos, 
+2010). Recent data indicate that using a relatively high  di-
+alysis solution sodium (>142 mmol/L) may benefit frail pa-
+tients at high risk for IDH, likely because the consequences 
+of recurrent IDH are more dire than those from 
+ using a 
+high-sodium dialysis solution (Marshall and Dunlop, 2012). 
+On the other hand, use of a relatively low  dialysate sodium 
+level can reduce IDH because it tends to lower IDWG and the 
+need for ultrafiltration (Shah and Davenport, 2012).
+6. Blood volume control devices with feedback loop . For a number
+of years now, software has been allowing improved feed-
+back control of ultrafiltration rate based on monitoring of
+blood volume during dialysis. Some randomized trials sug-
+gest that such feedback devices can reduce the incidence
+of dialysis-induced hypotension while avoiding a positive
+sodium balance (Davenport, 2011).
+B. Hypotension related to lack of vasoconstriction . In the hypovolemic 
+state, cardiac output is limited by cardiac filling; a reduction 
+in either peripheral vascular resistance or cardiac filling in 
+this setting can precipitate hypotension. Under conditions 
+of decreased cardiac filling, increases in heart rate have little 
+ effect on cardiac output. Because more than 80% of the total 
+blood volume circulates in veins, changes in venous capacity 
+can have important effects on a patient’s effective circulating 
+blood volume and cardiac output. When arteriolar resistance 
+decreases, more arterial pressure is transmitted to veins, 
+causing passive stretching and distension, and an increased 
+sequestration of blood. While not important in euvolemic 
+patients given a vasodilator (because cardiac filling is more 
+than adequate), this mechanism can result in hypotension 
+when hypovolemia is present (Daugirdas, 1991). The degree 
+of arteriolar constriction, or total peripheral resistance (TPR), 
+is also important because TPR will determine the blood pres-
+sure for any level of cardiac output.
+Daugirdas9781451144291-ch012.indd   218 09/10/14   1:12 am
+Chapter 12 / Complications during Hemodialysis 219
+1. Lower dialysis solution temperature. Ideally, the dialysis solution 
+temperature should be one that maintains a patient’s arte-
+rial blood temperature at its initial level throughout dialy -
+sis. When the dialysis solution temperature is higher than
+this ideal level, cutaneous vasodilation occurs to allow heat 
+to be dissipated. This vasodilation reduces vascular resis-
+tance and predisposes the patient to hypotension. Blood
+temperature modules are available for dialysis machines,
+which can provide patients with a euthermic treatment.
+Without such a device, the choice of dialysis solution tem-
+perature is problematic, with even small (1.1°C) differences
+in temperature having a notable impact on blood pressure
+(Sherman, 1984). The widely used dialysis solution tem-
+perature of 37°C is 
+ almost always in excess of euthermic
+values. Levels of 35.5°C–36.0°C are better initial choices,
+with adjustment made up or down depending on tolerance
+(chills) and 
+ effectiveness (blood pressure). Cool dialysis
+ solutions cause patient discomfort only when the dialysate
+temperature is below the optimal (usually unknown) level;
+euthermic dialysis is not associated with shivering and only 
+rarely with chills (Maggiore, 2002). One group has favored
+individualizing dialysis solution temperature at the patient
+level. The tympanic membrane temperature is measured,
+and the dialysis solution temperature is set 0.5°C below this 
+level. This system of individualized cooling has been shown
+to avoid the sensation of cold and chills commonly found
+with simply lowering dialysate temperature to a given level
+for all patients (Odudu, 2012). Individualized, cooled dialy-
+sate is associated with a shorter postdialysis recovery time,
+better maintenance of blood pressure, reduced myocardial
+stunning, and less evidence of progressive ischemia-related
+brain white matter damage (McIntyre, 2014).
+A number of studies have found that hemodiafiltra-
+tion is associated with a better tolerance to ultrafiltration 
+and less IDH than hemodialysis. However, it appears that 
+the beneficial effect of hemodiafiltration may have been 
+due primarily to a lower extracorporeal circuit tempera-
+ture due to the cooling effect of the replacement solution. 
+When heat transfer from the extracorporeal circuit was 
+kept constant, the hemodiafiltration advantage over he -
+modialysis with regard to blood pressure was no longer 
+found (Kumar, 2013).
+2. Avoid intradialytic food ingestion in hypotension-prone patients . 
+ Eating during hemodialysis can precipitate or accentuate
+a fall in blood pressure (Sherman, 1988; Strong, 2001). The
+effect is probably a result of dilation of resistance vessels
+in the splanchnic bed, which reduces TPR and increases
+splanchnic venous capacity (Barakat, 1993). The “food
+ effect” on blood pressure probably lasts at least 2 hours.
+ Patients who are prone to hypotension during dialysis
+should avoid 
+ eating just before or during a dialysis session.
+Daugirdas9781451144291-ch012.indd   219 09/10/14   1:12 am
+220
+Part II / Blood-Based Therapies
+3. Minimize tissue  ischemia during dialysis.  During any type of 
+hypotensive stress, the resulting tissue ischemia causes 
+release of adenosine. Adenosine blocks release of nor -
+epinephrine from sympathetic nerve terminals and also 
+has intrinsic vasodilator properties. Severe hypotension 
+can therefore amplify itself: Hypotension →  ischemia → 
+ adenosine release →  impaired norepinephrine release →   
+vasodilation → hypotension.
+This may be one reason for the clinical observation 
+that patients with low hematocrit levels (e.g., < 20%–25%) 
+are very susceptible to dialysis hypotension (Sherman, 
+1986). Few patients currently have levels of anemia severe 
+enough to cause hypotension. Such patients may benefit 
+from transfusion, although the current trend is to strongly 
+discourage transfusion of acutely ill patients in an inten-
+sive care setting. Use of nasal oxygen in hypotension-prone 
+patients may be another way of limiting tissue ischemia 
+and IDH (Jhawar, 2011).
+4. Midodrine. Midodrine, an orally acting α -adrenergic ago -
+nist, reduces the frequency of IDH. A dose of 10 mg orally  
+1.5–2 hours before a dialysis session is typical, though use of 
+as much as 40 mg has been reported. Supine hypertension 
+is the major dose-limiting factor. Active cardiac ischemia 
+(but not simply coronary artery disease) is a contraindi-
+cation. Concomitant use of α -adrenergic blockers renders 
+midodrine ineffective. No data exist as to whether the drug 
+is especially useful in patients with autonomic  insufficiency 
+(half of the dialysis population) as might theoretically be the 
+case. One problem with midodrine is that its effect does not 
+seem additive to that of using cool dialysate (Cruz, 1999).
+5. Sertraline. At least three reports have indicated that 4 to  
+6 weeks of therapy with the selective serotonin reuptake 
+ inhibitor sertraline reduces the frequency of IDH. Some 
+ evidence suggests that the drug improves autonomic 
+ function (Yalcin, 2003). Like midodrine, sertraline was not 
+shown to give added protection against IDH when cool 
+ dialysate was used (Brewster, 2003).
+6. Antihypertensive medication. Antihypertensive medications 
+admi nistered prior to dialysis adversely impact the ability 
+of the cardiovascular system to adjust to volume removal. 
+Whether those with vasodilatory properties are more prob-
+lematic than those with other mechanisms of action has 
+not been well studied.
+7. Dialysis fluid potassium level. A low concentration (1 mEq/L) 
+of dialysis fluid potassium is associated with more frequent 
+IDH, perhaps via autonomic effects. If otherwise possible, 
+using higher potassium levels is advisable for hemody-
+namic benefits as well as reduced arrhythmogenic effect.
+8. Fludrocortisone. One preliminary report (Landry, 2011) found 
+low random aldosterone levels in a group of five dialysis pa-
+tients with low predialysis blood pressures and refractory 
+Daugirdas9781451144291-ch012.indd   220 09/10/14   1:12 am
+Chapter 12 / Complications during Hemodialysis 221
+IDH. All had a normal cosyntropin test. Their blood pres-
+sures improved with fludrocortisone treatment, ultrafil -
+tration volumes increased, and rate of IDH was reduced. 
+There was no improvement with fludrocortisone in hypo -
+tensive patients with normal levels of adrenal hormones.
+9. Vasopressin. Vasopressin levels normally increase with hypo-
+tension, but in dialysis patients, the increase is often subopti-
+mal. Vasopressin preferentially constricts splanchnic vessels, 
+and such constriction may help to redistribute blood volume
+centrally during fluid removal. In one study, vasopressin infu-
+sion reduced the incidence of IDH (van der Zee, 2007).
+C. Hypotension related to cardiac factors
+1. Diastolic dysfunction. A stiff, hypertrophied heart is especially
+prone to a reduction in output when there is even a minor re-
+duction in filling pressure. Diastolic dysfunction is common
+in dialysis patients owing to the effects of hypertension, coro-
+nary artery disease, and probably uremia 
+ itself. Some limited 
+data suggest that using verapamil as an antihypertensive
+agent may reduce the frequency of IDH in such patients.
+2. Heart rate and contractility. Most, but not all, dialysis hypoten-
+sion is associated with decreased cardiac filling, a setting
+in which cardiac compensatory mechanisms can do little
+to increase output. In some patients, TPR may fall ( owing 
+to temperature effects, food ingestion, or tissue ischemia)
+without a fall in cardiac filling. In this setting, impairment
+of cardiac compensatory mechanisms can play a direct role 
+in the development of hypotension.
+3. Dialysis solution calcium. A dialysis solution calcium concen -
+tration of 1.75 mM increases cardiac contractility and helps 
+maintain intradialytic blood pressure better than a level of
+1.25 mM, especially in patients with cardiac disease (van
+der Sande, 1998). However, in the chronic outpatient set -
+ting (as opposed to an intensive care unit), symptomatic
+IDH is not less frequent with a higher-calcium dialysis
+solution 
+ (Sherman, 1986); use of high dialysis solution cal-
+cium levels may contribute to vascular calcification, and
+the trend is to not use them for prolonged periods. Dialysis 
+solution magnesium levels may impact dialysis hypoten -
+sion, but whether a higher or a lower level should be used is 
+controversial (Chapter 10).
+D. Unusual causes of hypotension during dialysis . Rarely, hypotension 
+during dialysis may be a sign of an underlying, serious event. 
+Causes are listed in Table 12.1.
+E. Detection of hypotension . Most patients complain of feeling 
+dizzy, light-headed, or nauseated when hypotension occurs. 
+Some experience muscle cramps. Others may experience 
+very subtle symptoms, which may be recognizable only to 
+dialysis staff familiar with the patient (e.g., lack of alertness, 
+darkening of vision); patients themselves are frequently quite 
+aware of symptoms portending IDH. In some patients, there 
+are no symptoms whatsoever until the blood pressure falls to 
+Daugirdas9781451144291-ch012.indd   221 09/10/14   1:12 am
+222
+Part II / Blood-Based Therapies
+extremely low (and dangerous) levels. For this reason, blood 
+pressure must be monitored on a regular basis throughout the 
+hemodialysis session. Whether this is done hourly, half-hourly, 
+or on a more frequent basis depends on the individual case.
+F. Management of IDH . Management of the acute hypotensive epi -
+sode is straightforward. The patient should be placed in the 
+Trendelenburg position (if respiratory status allows this) and 
+a bolus of 0.9% saline (100 mL or more, as necessary) should 
+be rapidly administered through the blood line. The ultra-
+filtration rate should be reduced to as near zero as possible. 
+The patient should then be observed carefully. Ultrafiltration 
+can be resumed (at a slower rate, initially) once vital signs 
+have stabilized. As an alternative to saline, glucose, manni-
+tol, or albumin solutions can be used to treat the hypotensive 
+ episode; albumin is costly and offers little benefit over other 
+approaches (Knoll, 2004); mannitol accumulates, reducing its 
+benefit on subsequent treatments. IDH may respond  better 
+to rapid administration of hypertonic saline (over 2  minutes) 
+than to slower administration (5 minutes) of  (probably) an 
+equivalent sodium load administered as 0.9% saline; the 
+ tonicity-induced increase in vasopressin levels is the likely 
+ basis for the differential effects (Shimizu, 2012). However, 
+caution is advised if a high dialysis solution sodium is being 
+used.  Nasal oxygen administration is not generally of ben -
+efit during hypotensive episodes, though it may have value in 
+ selected patients (Jhawar, 2011).
+1. Slowing the blood flow rate . The practice of slowing the blood 
+flow rate during IDH developed at a time when plate dialyz-
+ers and acetate dialysis solution were in use and ultrafiltra-
+tion control systems were not. The practice was believed 
+to be beneficial because lower blood flow rates reduced 
+(a) intradialyzer blood volume, (b) acetate (a vasodilator) 
+transfer to the patient, (c) ultrafiltration rate, and (d) fistula 
+“steal. ” The latter refers to the belief that lowering blood flow 
+reduces access flow and allows systemic flow to increase, a 
+concept that is very likely incorrect except in the setting of 
+an intra-access stenosis (Trivedi, 2005). With current dialy-
+sis practice, reduction of the blood flow rate to manage IDH 
+is unlikely to be of any benefit. However, if hypotension is 
+severe or unresponsive to stopping ultrafiltration and infu-
+sion of volume expanders, blood pump rates may be tran-
+siently reduced. Repeated slowing of the blood flow rate will 
+reduce solute removal and cause underdialysis.
+G. Prevention. One strategy to help prevent hypotension during 
+ dialysis is given in Table 12.2.
+ II. MUSCLE CRAMPS
+A. Etiology. The pathogenesis of muscle cramps during dialysis is 
+unknown. The four most important predisposing factors are 
+hypotension, hypovolemia (patient below dry weight), high 
+ultrafiltration rate (large weight gain), and use of low-sodium 
+Daugirdas9781451144291-ch012.indd   222 09/10/14   1:12 am
+Chapter 12 / Complications during Hemodialysis 223
+dialysis solution. These factors all tend to favor vasoconstric -
+tion, resulting in muscle hypoperfusion, leading to second-
+ary impairment of muscle relaxation. Muscle cramps most 
+commonly occur in association with hypotension, although 
+cramps often persist after seemingly adequate blood pressure 
+has been restored. The frequency of cramping increases loga-
+rithmically with the weight loss requirements; weight losses of 
+2%, 4%, and 6% have been associated with cramping frequen-
+cies of 2%, 26%, and 49%, respectively.
+Cramping is more common during the first month of dial-
+ysis than in subsequent periods. It is more common in patients 
+with a low cardiac index. Diagnostically obscure elevations in 
+serum creatinine phosphokinase levels on routine monthly 
+laboratory tests may result from intradialytic muscle cramp -
+ing. Hypomagnesemia may cause treatment-resistant muscle 
+cramping during dialysis. Hypocalcemia should also be con -
+sidered as a potential cause, especially in patients treated with 
+relatively low-calcium dialysis solution (1.25 mM) and calcium-
+free phosphate binders and/or cinacalcet. Predialysis hypoka-
+lemia will be exacerbated by the usual level of dialysis solution 
+potassium (2 mM) and may precipitate cramping as well.
+B. Management. When hypotension and muscle cramps occur 
+concomitantly, both may respond to treatment with 0.9% sa-
+line; however, it is not unusual for muscle cramps to persist. 
+Hypertonic solutions (saline, glucose, mannitol) may be more 
+effective in dilating muscle blood vessels. These solutions are 
+1. Use a dialysis solution temperature of 35.5°C or individualize and set dialysis 
+solution temperature at 0.5°C below the patient’s average predialysis tympanic 
+membrane temperature.
+2. Review dietary sodium intake and any other reasons for excess fluid intake. Fluid 
+intake should ideally be <1 L per day in anuric patients. If predialysis serum 
+sodium is low, consider the level of dialysis solution sodium versus serum sodium.
+3. If substantial residual kidney function exists, consider increasing urine volume 
+using diuretics.
+4. Extend weekly dialysis time if ultrafiltration rate is >13 mL / kg per hour.
+5. Consider raising the patient’s target weight.
+6. In refractory cases, consider a trial of higher (140–145 mM) dialysis sodium, as 
+tolerated, especially if a high IDWG is not a problem. If a high IDWG is present, 
+consider cautiously lowering dialysis sodium level.
+7. Give daily dose of antihypertensive medications after, not before, dialysis; 
+change therapy to shorter-acting agents.
+8. Assess the benefits of a predialysis hemoglobin level consistently = 10–11 g/dL 
+(100–110 g/L).
+9. Do not give food or glucose orally during, or immediately preceding, dialysis  
+to hypotension-prone patients.
+10. Consider use of a blood volume monitor.
+11. Consider a trial of midodrine or sertraline.
+12. Consider use of a higher (e.g., 3.0 mM) potassium dialysis solution if predialysis 
+levels allow.
+Strategy to Help Prevent Hypotension During Dialysis
+12.2
+TABLE
+Daugirdas9781451144291-ch012.indd   223 09/10/14   1:12 am
+224
+Part II / Blood-Based Therapies
+more effective in the acute management of muscle cramps. 
+Because the concentrated sodium load associated with hyper-
+tonic saline administration can be problematic, hypertonic 
+glucose administration is preferred for treatment of cramps in 
+nondiabetic patients (Sherman, 1982). Mannitol may accumu-
+late in dialysis patients, particularly when administered late 
+in treatment—the usual time for the occurrence of cramps. 
+ Nifedipine (10 mg) sometimes can reverse cramping. Though 
+reportedly not causing a notable fall in blood pressure, nife-
+dipine should be reserved for cramping in hemodynamically 
+stable patients. Forced stretching of the muscle involved (e.g., 
+ankle flexion for calf cramping) may provide relief. Massage 
+varies in its utility on an individual basis.
+C. Prevention. Prevention of hypotensive episodes will eliminate 
+most cramping.
+1. Stretching exercises . A program of stretching exercises tar -
+geted at the affected muscle groups may be useful and 
+should be the first-line treatment for both dialysis-related 
+cramps and nocturnal cramps (Evans, 2013).
+2. Dialysate sodium . The frequency of cramping is inversely 
+related to the dialysis solution sodium level. Raising so -
+dium levels to just below the threshold for induction of 
+postdialysis thirst will be beneficial, and use of sodium 
+gradient dialysis can definitely reduce cramps, although 
+sometimes at the expense of increasing IDWG and blood 
+pressure.
+3. Dialysate magnesium. Avoiding low predialysis levels of mag-
+nesium, calcium, and potassium may also be helpful. In one 
+preliminary study, use of 0.5 mM (1 mEq/L) dialysis solu-
+tion magnesium was associated with a lower incidence of 
+cramps than when 0.375 mM (0.75 mEq/L) solution was 
+used (Movva, 2011). Magnesium supplements have not been 
+shown to be useful in nonuremic subjects, and magnesium 
+should be given with great caution to dialysis patients. The 
+use of Osvaren (calcium acetate/magnesium carbonate) as 
+a phosphate binder compared with  sevelamer showed no 
+change in the incidence of cramps.
+4. Biotin. Biotin, in a dose of 1 mg per day, has been reported to 
+improve intradialytic cramps, despite baseline serum levels 
+being higher than in control subjects (Oguma, 2012). This 
+study needs to be confirmed before biotin use can be more 
+widely recommended.
+5. Carnitine, oxazepam, and vitamin E . Carnitine supplementation 
+of dialysis patients may reduce intradialytic muscle cramps 
+(Ahmad, 1990) as may oxazepam (5–10 mg, given 2 hours 
+prior to dialysis) and vitamin E. See Evans (2013) for a 
+review.
+6. Compression devices. A type of sequential compression device 
+may be of benefit (Ahsan, 2004).
+7. Quinine. Quinine sulfate before dialysis, though effective in pre-
+venting intradialytic cramps, is now considered inadvisable 
+Daugirdas9781451144291-ch012.indd   224 09/10/14   1:12 am
+Chapter 12 / Complications during Hemodialysis 225
+because of its association with thrombocytopenia, hypersen-
+sitivity reactions, and QT prolongation. The FDA has issued a 
+number of guidance documents aimed at counseling health 
+professionals against use of quinine for leg cramps.
+ III. NAUSEA AND VOMITING
+A. Etiology. Nausea or vomiting occurs in up to 10% of routine 
+dialysis treatments. The cause is multifactorial. Most epi-
+sodes in stable patients are probably related to hypotension. 
+Nausea or vomiting can also be an early manifestation of 
+the disequilibrium syndrome described below. Both type A 
+and type B varieties of dialyzer reactions can cause nausea 
+and vomiting. Gastroparesis, very common in diabetes but 
+also seen in nondiabetic patients, is exacerbated by hemo -
+dialysis and may play a role in some patients. Contaminated 
+or incorrectly formulated dialysis solution (high sodium, 
+calcium) may cause nausea and vomiting as part of a con-
+stellation of symptoms. Dialysis patients appear to develop 
+nausea and vomiting more readily than other patients (e.g., 
+with an upper respiratory infection, narcotic usage, hyper -
+calcemia); dialysis may precipitate these symptoms in such 
+a predisposing setting.
+B. Management. The first step is to treat any associated hypoten-
+sion. Vomiting may be particularly problematic when asso -
+ciated with a hypotension-induced reduction in the level of 
+consciousness owing to the risk of aspiration. Antiemetics can 
+be administered for other causes of vomiting as needed.
+C. Prevention. Avoidance of hypotension during dialysis is of prime 
+importance. Persistent symptoms unrelated to hemodynam -
+ics may benefit from metoclopramide. Sometimes a single 
+predialysis dose of 5–10 mg is sufficient.
+ I V. HEADACHE
+A. Etiology. Headache occurs in as many as 70% of patients dur -
+ing dialysis; its cause is largely unknown. It may be a subtle 
+manifestation of the disequilibrium syndrome (see section VII, 
+below). In patients who are coffee drinkers, headache may be 
+a manifestation of caffeine withdrawal as the blood caffeine 
+concentration is acutely reduced during the dialysis treat -
+ment. Dialysis may precipitate migraine headaches in those 
+with a history of the disorder. With atypical or particularly 
+severe headache, a neurologic cause (particularly a bleeding 
+event precipitated by anticoagulation) should be considered.
+B. Management. Acetaminophen can be given during dialysis.
+C. Prevention. Decreasing dialysis solution sodium may also be help-
+ful in patients being treated with high sodium levels. A cup of 
+strong coffee may help prevent (or treat) caffeine withdrawal 
+symptoms. Patients suffering from headache during dialysis may 
+be magnesium deficient (Goksel, 2006). A cautious trial of mag-
+nesium supplementation may be indicated, keeping in mind the 
+risks of giving magnesium to patients with renal failure.
+Daugirdas9781451144291-ch012.indd   225 09/10/14   1:12 am
+226
+Part II / Blood-Based Therapies
+ V. CHEST PAIN AND BACK PAIN. Mild chest pain or discomfort (often as-
+sociated with some back pain) occurs in 1%–4% of dialysis treat -
+ments. The cause is unknown. There is no specific management 
+or prevention strategy, though switching to a different variety of 
+dialyzer membrane may be of benefit. The occurrence of angina 
+during dialysis is common and must be considered in the differ -
+ential diagnosis, along with numerous other potential causes of 
+chest pain (e.g., hemolysis, air embolism, pericarditis). The man-
+agement and prevention of angina is discussed in Chapter 38.
+ VI. ITCHING. Itching, a common problem in dialysis patients, is some-
+times precipitated or exacerbated by dialysis. Itching appearing 
+only during the treatment, especially if accompanied by other 
+minor allergic symptoms, may be a manifestation of low-grade 
+hypersensitivity to dialyzer or blood circuit components. More 
+often than not, however, itching is simply present chronically, 
+and is noticed in the course of the treatment while the patient 
+is forced to sit still for a prolonged period of time. Viral (or drug-
+induced) hepatitis and scabies should not be overlooked as 
+ potential causes of such itching.
+Chronically, general moisturizing and lubrication of the skin 
+using emollients is recommended, and this should be the first line 
+of therapy. One should make sure that dialysis is adequate, and 
+that a Kt/V of at least 1.2 and possibly higher is being delivered, 
+though the evidence that higher Kt/V improves pruritus is not 
+strong. Pruritus is often found in patients with elevated serum cal-
+cium or phosphorus levels and/or substantially elevated parathy-
+roid hormone (PTH) level; reductions in phosphorus, calcium (to 
+the lower end of the normal range), and PTH levels are indicated.
+Standard symptomatic treatment using antihistamines is 
+useful. Gabapentin (or pregabalin), UVB (ultraviolet light B) ther-
+apy, oral charcoal, or nalfuralfine might be the next line of ther -
+apy, followed by naltrexone or tacrolimus ointment (Figure 12.1) 
+ (Mettang and Kremer, 2014).
+ VII. DISEQUILIBRIUM SYNDROME
+A. Definition. The disequilibrium syndrome is a set of systemic and 
+neurologic symptoms often associated with characteristic elec-
+troencephalographic findings that can occur either during or 
+following dialysis. Early manifestations include nausea, vomit-
+ing, restlessness, and headache. More serious manifestations 
+include seizures, obtundation, and coma (see also Chapter 40).
+B. Etiology. The cause of the disequilibrium syndrome is contro-
+versial. Most believe it is related to an acute increase in brain 
+water content. When the plasma solute level is rapidly lowered 
+during dialysis, the plasma becomes hypotonic with respect 
+to the brain cells, and water shifts from the plasma into brain 
+tissue. Others incriminate acute changes in the pH of the cere-
+brospinal fluid during dialysis as the cause of this disorder.
+The disequilibrium syndrome was a much larger problem 
+two or more decades ago, when acutely uremic patients with 
+Daugirdas9781451144291-ch012.indd   226 09/10/14   1:12 am
+Chapter 12 / Complications during Hemodialysis 227
+very high serum urea nitrogen values were commonly subjected 
+to prolonged dialysis. However, milder forms of the syndrome 
+may still occur in long-term dialysis patients, manifesting as nau-
+sea, vomiting, or headache. The full-blown disequilibrium syn-
+drome, including coma and/or seizures, can still be precipitated 
+when an acutely uremic patient is dialyzed too energetically.
+C. Management
+1. Mild disequilibrium. Symptoms of nausea, vomiting, restless-
+ness, and headache are nonspecific; when they occur, it is 
+difficult to be certain that they are due to disequilibrium. 
+Treatment is symptomatic. If mild symptoms of disequilib-
+rium develop in an acutely uremic patient during dialysis, 
+the blood flow rate should be reduced to decrease the effi-
+ciency of solute removal and pH change, and consideration 
+FIGURE 12.1 Algorithm to manage pruritus. UVB = ultraviolet light B. (Reproduced with 
+permission from Mettang T, Kremer AE. Uremic pruritus. Kidney Int. 2014).
+Weak
+Severe
+Persisting
+Persisting
+Persisting
+and
+Kt/V < 1.2
+Kt/V > 1.2
+Exclusion of other causes for pruritus
+Moisturing ointment/oil bath
+Consider kidney transplantation
+or orNaltrexone Tacrolimus ointment (Electro-) acupuncture
+Assessment of severity
+of pruritus
+Moisturing ointment/
+oil bath
+Quality of dialysis
+(Kt/V )
+Increase dose
+of dialysis
+or or or Nalfurafine
+2.5–5.0 mg p.o
+UVB
+phototherapy
+Charcoal
+(6 g/day)
+Gabapentin
+100–300 mg
+Daugirdas9781451144291-ch012.indd   227 09/10/14   1:12 am
+228
+Part II / Blood-Based Therapies
+should be given to terminating the dialysis session earlier 
+than planned. Hypertonic sodium chloride or glucose solu-
+tions can be administered as for treatment of muscle cramps.
+2. Severe disequilibrium . If seizures, obtundation, or coma oc-
+cur in the course of a dialysis session, dialysis should be 
+stopped. The differential diagnosis of severe disequilib-
+rium syndrome should be considered (see Chapter 40). 
+Treatment of seizures is discussed in Chapter 40. The man-
+agement of coma is supportive. The airway should be con-
+trolled and the patient ventilated if necessary. Intravenous 
+mannitol may be of benefit. If coma is due to disequilib-
+rium, then the patient should improve within 24 hours.
+D. Prevention
+1. In an acute dialysis setting . When planning dialysis for an 
+acutely uremic patient, one should not prescribe an overly 
+aggressive treatment session (see Chapter 10). The target 
+reduction in the plasma urea nitrogen level should initially 
+be limited to about 40%. Use of a low-sodium dialysis solu-
+tion (more than 2–3 mM less than the plasma sodium level) 
+may exacerbate cerebral edema and should be avoided. In 
+hypernatremic patients, one should not attempt to correct 
+the plasma sodium concentration and the uremia at the 
+same time. It is safest to dialyze a hypernatremic patient 
+initially with a dialysis solution sodium value close to the 
+plasma level and then to correct the hypernatremia slowly 
+postdialysis by administering 5% dextrose.
+2. In a chronic dialysis setting . The incidence of disequilibrium 
+syndrome can be minimized by use of a dialysis solution 
+with a sodium concentration of at least 140 mM. Intra-
+dialytic symptom frequency has been shown to be simi -
+lar with a dialysate glucose concentration of 200 versus  
+100 mg/dL (11 vs. 5.5 mM) (Raimann, 2012). Using a high 
+dialysis solution sodium concentration (145–150 mM) 
+that declines over the course of treatment for patients has 
+been advocated in this setting: the initially high dialysis 
+solution sodium results in a rising plasma sodium that 
+may counteract the osmotic effects of the initially rapid 
+removal of urea and other solutes from plasma. There is 
+evidence that use of this approach reduces the incidence 
+of disequilibrium-type intradialytic symptoms, but it may 
+increase IDWG and blood pressure because of diffusive 
+entry of sodium from dialysis solution to blood during the 
+treatment session.
+ VIII. DIAL YZER REACTIONS . This is a broad group of events that includes 
+both anaphylactic and less well-defined adverse reactions of un-
+known cause (Jaber and Pereira, 1997). In the past, many of these 
+reactions were grouped under the term “first-use” syndrome be-
+cause they presented much more often when new (as opposed 
+to reused) dialyzers were employed. However, similar reactions 
+occur with reused dialyzers, and we now discuss them under the 
+Daugirdas9781451144291-ch012.indd   228 09/10/14   1:12 am
+Chapter 12 / Complications during Hemodialysis 229
+more general category used here. There appear to be two variet -
+ies: an anaphylactic type (type A) and a nonspecific type (type B). 
+The occurrence of type B reactions appears to have diminished 
+considerably during the past several decades.
+A. Type A (anaphylactic type)
+1. Manifestations. When a full-blown, severe reaction occurs, the 
+manifestations are those of anaphylaxis. Dyspnea, a sense of 
+impending doom, and a feeling of warmth at the fistula site 
+or throughout the body are common presenting symptoms. 
+Cardiac arrest and even death may supervene. Milder cases 
+may present only with itching, urticaria, cough, sneezing, 
+coryza, or watery eyes. Gastrointestinal manifestations, 
+such as abdominal cramping or diarrhea, may also occur. 
+Patients with a history of atopy and/or with eosinophilia 
+are prone to develop these reactions. Symptoms usually be-
+gin during the first few minutes of dialysis, but onset may 
+ occasionally be delayed for up to 30 minutes or more.
+2. Etiology
+a. Ethylene oxide. Most type A (anaphylactic) reactions in 
+the past were due to hypersensitivity reactions to eth-
+ylene oxide, which was widely used by manufacturers 
+to sterilize dialyzers. It tended to accumulate in the 
+potting compound used to anchor the hollow fibers, 
+hampering efforts to remove it by degassing prior to 
+sale. These reactions were observed exclusively dur -
+ing first use of dialyzers. Manufacturers currently 
+use a variety of methods of sterilization (gamma 
+ radiation, steam, electron beam) , and when ethylene 
+oxide is used, little residual compound is left in the 
+dialyzers. As a result, ethylene oxide reactions are now 
+uncommon.
+b. AN69-associated reactions. These were initially reported in 
+patients dialyzed with the AN69 (acrylonitrile- sodium 
+methallyl sulfonate) membrane who were also taking 
+angiotensin-converting enzyme (ACE) inhibitors. The 
+reactions are thought to be mediated by the bradyki-
+nin system. The negatively charged AN69 membrane 
+activates the bradykinin system with the effects mag-
+nified because ACE inhibitors block bradykinin inacti-
+vation. Plasma bradykinin levels, higher at baseline in 
+patients treated with AN69 dialyzers, rise substantially 
+during reactions. The bradykinin effect should be less 
+pronounced with angiotensin receptor blockers than 
+with ACE inhibitors (Ball, 2003). It is unclear to what 
+extent ACE inhibitor–associated reactions occur with 
+other PAN (polyacrylonitrile)-based membranes or 
+with other non–PAN-based membranes.
+c. Contaminated dialysis solution. Type A dialyzer reactions 
+may be accounted for in some instances by dialysis 
+solution contamination with high levels of bacteria 
+and endotoxin, particularly with the use of high-flux 
+Daugirdas9781451144291-ch012.indd   229 09/10/14   1:12 am
+230
+Part II / Blood-Based Therapies
+dialyzers. Such reactions are likely to occur promptly 
+(within 2 minutes) of initiating dialysis; complement-
+mediated reactions are more delayed (15–30 minutes) in 
+onset. Fever and chills are particularly common symp-
+toms with these reactions. The higher the bacteria and 
+endotoxin levels are, the greater the risk is of a reaction.
+d. Reuse. Clusters of anaphylactic-type dialyzer reactions 
+have occurred in a reuse setting. The problem has often 
+been linked to inadequate dialyzer disinfection during 
+the reuse procedure, but in many cases the cause is un-
+known. Half of Centers for Disease Control and Preven-
+tion (CDC) investigations of outbreaks of bacteremia or 
+pyrogenic reactions in dialysis patients over a 20-year 
+period were ascribed to dialyzer reuse problems (Roth 
+and Jarvis, 2000).
+e. Heparin. Heparin has occasionally been associated with 
+allergic reactions, including urticaria, nasal conges-
+tion, wheezing, and even anaphylaxis. When a patient 
+seems to be allergic to a variety of different dialyzers re-
+gardless of the sterilization mode, and dialysis solution 
+contamination also has been reasonably excluded, a 
+trial of heparin-free dialysis or citrate anticoagulation 
+should be considered. Low-molecular-weight hepa-
+rins are not a safe substitute in such patients owing to 
+cross-reactivity with heparin, which may result in ana-
+phylactic reactions.
+f. Complement fragment release . Acute increases in pulmo-
+nary artery pressure have been documented in both 
+animals and humans during dialysis with unsubsti -
+tuted cellulose membranes. However, there is no good 
+evidence that complement activation causes type A 
+dialyzer reactions. Several studies have found no dif-
+ference in type A reaction rates between membranes 
+that readily activate complement (cuprophane) and 
+those that do not (polysulfone, AN69).
+g. Eosinophilia. Type A reactions tend to occur more read-
+ily in patients with mild to moderate eosinophilia. 
+Very severe reactions to dialysis or plasmapheresis 
+were reported in patients with very high eosinophil 
+counts; these were thought to be due to sudden eosin-
+ophil degranulation with release of bronchoconstric -
+tive and other mediators.
+3. Management. Identifying the actual cause of a dialyzer reaction 
+frequently is not possible. It is safest to stop dialysis imme-
+diately, clamp the blood lines, and discard the dialyzer and 
+blood lines without returning the contained blood. Immediate 
+cardiorespiratory support may be required. According to the 
+severity of the reaction, treatment with intravenous antihis-
+tamines, steroids, and epinephrine can be given.
+4. Prevention. For all patients, proper rinsing of dialyzers prior 
+to use is important to eliminate residual ethylene oxide and 
+Daugirdas9781451144291-ch012.indd   230 09/10/14   1:12 am
+Chapter 12 / Complications during Hemodialysis 231
+other putative allergens. In a patient with a history of type A 
+reaction to an ethylene oxide–sterilized dialyzer, the dialyzer 
+type can be changed to a γ -irradiated, steam-sterilized, or 
+electron beam–sterilized dialyzer (see Table 4.1). The neces-
+sity of using non–ethylene oxide–sterilized blood lines when 
+switching to a dialyzer sterilized by some alternate method 
+has not been established. For patients whose mild type A 
+symptoms persist following a switch to equipment free of 
+ethylene oxide, predialysis administration of antihistamines 
+may be of benefit. Placing the patient on a reuse program and 
+subjecting even new dialyzers to the reuse procedure prior to 
+first use may be of benefit because of enhanced washout of 
+potential noxious substances or allergens. Changing or stop-
+ping heparin, trying a less complement-activating mem-
+brane, and substituting an angiotensin receptor–blocking 
+agent for an ACE inhibitor may also be tried. A role for latex 
+exposure during dialysis initiation in a sensitized patient 
+should be considered as well.
+B. Nonspecific type B dialyzer reactions
+1. Symptoms. The principal manifestations of a type B reac-
+tion are chest pain, sometimes accompanied by back pain. 
+Symptom onset is usually 20–40 minutes after starting di-
+alysis. Typically, type B reactions are much less severe than 
+type A reactions.
+2. Etiology. The cause is unknown. Complement activation has 
+been suggested to be a culprit, but its etiologic role in the 
+development of these symptoms is uncertain. Chest and 
+back pain may occur less frequently with reused dialyzers 
+than with new dialyzers, though this is controversial. Any 
+beneficial effects may be due to increased biocompatibility 
+from protein coating of the membrane (not seen with bleach 
+reprocessing) or to washout of potentially toxic substances 
+from the dialyzer. Other causes of chest and back pain must 
+be excluded, and the diagnosis of a type B dialyzer reaction 
+is one of exclusion. In particular, subclinical hemolysis must 
+be ruled out. A syndrome of acute respiratory distress as-
+sociated with heparin-induced thrombocytopenia has been 
+described (Popov, 1997), which may superficially resemble a 
+type B dialyzer reaction.
+3. Management. Management is supportive. Nasal oxygen 
+should be given. Myocardial ischemia should be consid-
+ered, and angina pectoris, if suspected, can be treated as 
+discussed in Chapter 38. Dialysis can usually be continued, 
+as symptoms invariably abate after the first hour.
+4. Prevention. Trying a different dialyzer membrane may be of 
+value.
+ IX. HEMOL YSIS . Acute hemolysis during dialysis may be a medical 
+emergency.
+A. Manifestations: The symptoms of hemolysis are back pain, 
+tightness in the chest, and shortness of breath. A dramatic 
+Daugirdas9781451144291-ch012.indd   231 09/10/14   1:12 am
+232
+Part II / Blood-Based Therapies
+deepening of skin pigmentation may occur. Common are 
+a port-wine appearance of blood in the venous blood line, a 
+pink discoloration of the plasma in centrifuged blood samples, 
+and a marked fall in the hematocrit. If massive hemolysis is 
+not detected early, then hyperkalemia can result owing to re-
+lease of potassium from the hemolyzed erythrocytes, leading 
+to muscle weakness, electrocardiographic abnormalities, and, 
+ultimately, cardiac arrest.
+B. Etiology. Acute hemolysis has been reported in two primary set-
+tings: (a) an obstruction or narrowing in the blood line, catheter, 
+or needle or (b) a problem with the dialysis solution. The possibil-
+ity of hemolysis induced by the combination of G6PD deficiency 
+and predialysis quinine sulfate therapy should be considered.
+1. Blood line obstruction/narrowing. Kinks may develop in the ar -
+terial blood line (Sweet, 1996). An epidemic of hemolysis 
+also has been reported owing to manufacturing defects in 
+the link between the dialyzer outlet blood line and the ve-
+nous air trap chamber (CDC, 1998). Hemolysis (usually sub-
+clinical) may also appear when blood flow rate is high and 
+relatively small needle sizes are used (De Wachter, 1997). 
+Routine blood line pressure monitoring will call attention 
+to many, but not all, such problems.
+2. Problems with dialysis solution. These are as follows:
+a. Overheated dialysis solution
+b. Hypotonic dialysis solution (insufficient concentrate-to-
+water ratio)
+c. Dialysis solution contaminated with formaldehyde, 
+bleach, chloramine ( from city water supply), copper 
+( from copper piping), fluoride, nitrates ( from water sup-
+ply), zinc, or hydrogen peroxide (see Chapter 5).
+C. Management. The blood pump should be stopped immediately 
+and the blood lines clamped. The hemolyzed blood has a very 
+high potassium content and should not be reinfused. One should 
+be prepared to treat the resultant hyperkalemia and possible 
+drop in hematocrit. The patient should be  observed carefully, 
+and hospitalization should be considered. Delayed hemolysis of 
+injured erythrocytes may continue for some time after the di-
+alysis session. Severe hyperkalemia may  occur, and this may re-
+quire additional dialysis or other measures (e.g.,  administration 
+of an Na/K ion exchange resin by mouth or  rectum) to control. 
+A complete blood count, reticulocyte count, and levels of hap-
+toglobin, free hemoglobin, lactate dehydrogenase (LDH), and 
+methemoglobin should be obtained. Dialysis solution water 
+(chloramine, nitrates, metals) and, if reprocessed, the dialyzer 
+(residual sterilant) need to be assessed as well.
+D. Prevention. Unless the problem is an obstruction in the blood 
+path or faulty roller pump causing excessive blood trauma, the 
+cause of the hemolysis must be assumed to be in the dialysis 
+solution, and samples of dialysis solution must be investigated 
+to determine the cause.
+Daugirdas9781451144291-ch012.indd   232 09/10/14   1:12 am
+Chapter 12 / Complications during Hemodialysis 233
+ X. AIR EMBOLISM. Air embolism is a potential catastrophe that can 
+lead to death unless detected and treated quickly.
+A. Manifestations
+1. Symptoms. These depend to an extent on the position of the 
+patient. In seated patients, infused air tends to migrate 
+into the cerebral venous system without entering the heart, 
+causing obstruction to cerebral venous return, loss of con-
+sciousness, convulsions, and even death. In recumbent 
+patients, the air tends to enter the heart, generate foam in 
+the right ventricle, and pass into the lungs, producing dys-
+pnea, cough, and chest tightness and arrhythmias. Further 
+passage of air across the pulmonary capillary bed into the 
+left ventricle can result in air embolization to the arteries 
+of the brain and heart, with acute neurologic and cardiac 
+dysfunction.
+ 2. Signs. Foam is often seen in the venous blood line of the 
+dialyzer. If air has gone into the heart, a peculiar churning 
+sound may be heard on auscultation.
+B. Etiology. The predisposing factors and possible sites of air entry 
+have been discussed in Chapter 4. The most common sites of 
+air entry are the arterial needle, the prepump arterial tubing 
+segment, and an inadvertently opened end of a central venous 
+catheter.
+C. Management. The first step is to clamp the venous blood line 
+and stop the blood pump. The patient is immediately placed 
+in a recumbent position on the left side with the chest and 
+head tilted downward. Further treatment includes cardiore -
+spiratory support, including administration of 100% oxygen by 
+mask or endotracheal tube. Aspiration of air from the atrium 
+or ventricle with a percutaneously inserted needle or cardiac 
+catheterization may be needed if the volume of air warrants it.
+D. Prevention. See Chapters 4 and 10.
+ XI. OTHER COMPLICA TIONS: Arrhythmia and cardiac tamponade are 
+discussed in Chapter 38. Severe disequilibrium syndrome, sei-
+zures, and intracerebral bleed are discussed in Chapter 40.
+References and Suggested Readings
+Ahmad S, et al. Multicenter trial of L-carnitine in maintenance hemodialysis patients. 
+II. Clinical and biochemical effects. Kidney Int. 1990;38:912–918.
+Ahsan M, et al. Prevention of hemodialysis-related muscle cramps by intradialytic use 
+of sequential compression devices: a report of four cases. Hemodial Int. 2004;8:283–
+286.
+Brewster UC, et al. Addition of sertraline to other therapies to reduce dialysis-associated 
+hypotension. Nephrology (Carlton). 2003;8:296–301.
+Brunet P , et al. Tolerance of haemodialysis: a randomized cross-over trial of 5-h versus 
+4-h treatment time. Nephrol Dial Transplant. 1996;11(suppl 8):46–51.
+Centers for Disease Control and Prevention (CDC). Multistate outbreak of hemolysis 
+in hemodialysis patients. JAMA. 1998;280:1299.
+Chang TI, et al. Intradialytic hypotension and vascular access thrombosis. J Am Soc 
+Nephrol. 2011;22:1526–1533.
+Che-yi C, et al. Acupuncture in haemodialysis patients at the Quchi acupoint for refrac-
+tory uremic pruritus. Nephrol Dial Transplant. 2005;20:1912–1915.
+Daugirdas9781451144291-ch012.indd   233 09/10/14   1:12 am
+234
+Part II / Blood-Based Therapies
+Cruz DN, et al. Midodrine and cool dialysis solution are effective therapies for symp-
+tomatic intradialytic hypotension. Am J Kidney Dis. 1999;33:920–926.
+Curatola G, et al. Ultrafiltration intensification in hemodialysis patients improves 
+hypertension but increases AV fistula complications and cardiovascular events.  
+J Nephrol. 2011;24:465–473.
+Davenport A. Using dialysis machine technology to reduce intradialytic hypotension. 
+Hemodial Int. 2011;15:S37.
+Davenport A, et al. Achieving blood pressure targets during dialysis improves control 
+but increases intradialytic hypotension. Kidney Int. 2008;73:759–764.
+Daugirdas JT. Dialysis hypotension: a hemodynamic analysis. Kidney Int . 1991;  
+39:233–246.
+Daugirdas JT, Ing TS. First-use reactions during hemodialysis: a definition of subtypes. 
+Kidney Int. 1988;24:S37–S43.
+De Wachter DS, et al. Blood trauma in plastic haemodialysis cannulae. Int J Artif 
+ Organs. 1997;20:366–370.
+Evans EC. Hemodialysis-related cramps and nocturnal leg cramps—what is best 
+ practice? Nephrol Nurs J. 2013;40:549–553.
+Evans RD, Rosner M. Ocular abnormalities associated with advanced kidney disease 
+and hemodialysis. Semin Dial. 2005;18:252–257.
+Flythe J, et al. Association of mortality risk with various definitions of intradialytic 
+hypotension. J Am Soc Nephrol. 2014; in press.
+Franssen CFM. Adenosine and dialysis hypotension. Kidney Int. 2006;69:789–791.
+Geller AB, et al. Increase in post-dialysis hemoglobin can be out of proportion and 
+unrelated to ultrafiltration. Dial Transplant. 2010:39:57
+Goksel BK, et al. Is low blood magnesium level associated with hemodialysis head -
+ache? Headache. 2006;46:40–45.
+Gunal AL, et al. Gabapentin therapy for pruritus in hemodialysis patients: a random-
+ized placebo-controlled, double-blind trial. Nephrol Dial Transplant. 2004;19:3137–
+3139.
+Gwinner W , et al. Life-threatening complications of extracorporeal treatment in 
+ patients with severe eosinophilia. Int J Artif Organs. 2005;28:1224–1227.
+Herrero JA, et al. Pulmonary diffusing capacity in chronic dialysis patients. Respir Med. 
+2002;96:487–492.
+Huang CC, et al. Oxygen, arterial blood gases and ventilation are unchanged during 
+dialysis in patients receiving pressure support ventilation. Respir Med. 1998;92:534.
+Hur E, Usta M, Toz H, et al. Effect of fluid management guided by bioimpedance spec-
+troscopy on cardiovascular parameters in hemodialysis patients: a randomized 
+controlled trial. Am J Kidney Dis. 2013;61:857–965.
+Jaber BL, Pereira JBG. Dialysis reactions. Semin Dial. 1997;10:158–165.
+Jansen PH, et al. Randomised controlled trial of hydroquinine in muscle cramps. 
+ Lancet. 1997;349:528.
+Jefferies HJ, et al. Frequent hemodialysis schedules are associated with reduced levels 
+of dialysis-induced cardiac injury (myocardial stunning). Clin J Am Soc Nephrol. 
+2011;6:1326–1332.
+Jhawar N, et al. Effect of oxygen therapy on hemodynamic stability during hemodialy-
+sis with continuous blood volume and O 2 saturation monitoring [abstract]. J Am 
+Soc Nephrol. 2011;22:812A.
+Kimata N, et al. Pruritus in hemodialysis patients: results from the Japanese Dialysis 
+Outcomes and Practice Patterns Study (JDOPPS). Hemodial Int. 2014;18:657–67.
+Kitano Y, et al. Severe coronary stenosis is an important factor for induction and 
+lengthy persistence of ventricular arrhythmias during and after hemodialysis.  
+Am J Kidney Dis. 2004;44:328–336.
+Knoll GA, et al. A randomized, controlled trial of albumin versus saline for the treat-
+ment of intradialytic hypotension. J Am Soc Nephrol. 2004;15:487–492.
+Ko MJ, et al. Narowband ultraviolet B phototherapy for patients with refractory urae-
+mic pruritus: a randomized controlled trial. Br J Dermatology. 2011;165:633.
+Krieter DH, et al. Anaphylactoid reactions during hemodialysis in sheep are ACE inhib-
+itor dose-dependent and mediated by bradykinin. Kidney Int. 1998;53:1026–1035.
+Kumar S, et al. Haemodiafiltration results in similar changes in intracellular water and 
+extracellular water compared to cooled haemodialysis. Am J Nephrol. 2013;37:320–324.
+Landry DL, Hosseini SS, Osagie OJ, et al. Aldosterone deficiency as the cause of intradi-
+alytic hypotension and its successful management with fludricortisone [abstract]. 
+J Am Soc Nephrol. 2011;22:94.
+Daugirdas9781451144291-ch012.indd   234 09/10/14   1:12 am
+Chapter 12 / Complications during Hemodialysis 235
+Lemes HP , et al. Use of small doses of furosemide in chronic kidney disease pa-
+tients with residual renal function undergoing hemodialysis. Clin Exp Nephrol. 
+2011;15:554–559.
+Lemke H-D, et al. Hypersensitivity reactions during haemodialysis: role of complement 
+fragments and ethylene oxide antibodies. Nephrol Dial Transplant. 1990;5:264.
+Locatelli F, et al.; The Italian Cooperative Dialysis Study Group. Effects of different 
+membranes and dialysis technologies on patient treatment tolerance and nutri-
+tional parameters. Kidney Int. 1996;50:1293–1302.
+Maggiore Q, et al. The effects of control of thermal balance on vascular stability in 
+ hemodialysis patients: results of the European randomized clinical trial. Am J 
+Kidney Dis. 2002;40:280–290.
+Marshall MR, Dunlop JL. Are dialysate sodium levels too high? Semin Dial. 2012;25:277.
+McCausland FR, et al. Increased dietary sodium is independently associated with greater 
+mortality among prevalent hemodialysis patients. Kidney Int. 2012;82:204–211.
+McIntyre CW , Odudu A. Hemodialysis-associated cardiomyopathy: a newly defined 
+disease entity. Semin Dial. 2014;27:87–97.
+Mettang T, Kremer AE. Uremic pruritus. Kidney Int. 2014.
+Movva S, Lynch PG, Wadhwa NK. Interaction of potassium, sodium with higher mag-
+nesium dialysate on muscle cramps in chronic hemodialysis patients [abstract].  
+J Am Soc Nephrol. 2011; 22:810A.
+Najafabadi MM, et al. Zinc sulfate for relief of pruritus in patients on maintenance 
+hemodialysis. Ther Apher Dial. 2012;16:142.
+Narita I, et al. Etiology and prognostic significance of severe uremic pruritus in chronic 
+hemodialysis patients. Kidney Int. 2014;69:1626–1632.
+Odudu A, et al. Rationale and design of a multi-centre randomised controlled trial of 
+individualised cooled dialysate to prevent left ventricular systolic dysfunction in 
+haemodialysis patients. BMC Nephrol. 2012;13:45.
+Oguma S, et al. Biotin ameliorates muscle cramps of hemodialysis patients: a prospec-
+tive trial. Tohoku J Exp Med. 2012;227:217–223.
+Parker TF, et al. Effect of the membrane biocompatibility on nutritional parameters in 
+chronic hemodialysis patients. Kidney Int. 1996;49:551–556.
+Parnes EL, Shapiro WB. Anaphylactoid reactions in hemodialysis patients treated with 
+the AN69 dialyzer. Kidney Int. 1991;40:1148.
+Pegues DA, et al. Anaphylactoid reactions associated with reuse of hollow-fiber hemo-
+dialyzers and ACE inhibitors. Kidney Int. 1992;42:1232.
+Poldermans D, et al. Cardiac evaluation in hypotension-prone and hypotension-  
+resistant dialysis patients. Kidney Int. 1999;56:1905–1911.
+Popov D, et al. Pseudopulmonary embolism: acute respiratory distress in the syndrome 
+of heparin-induced thrombocytopenia. Am J Kidney Dis. 1997;29:449–452.
+Raimann JG, et al. Metabolic effects of dialyzate glucose in chronic hemodialysis: 
+ results from a prospective, randomized crossover trial. Nephrol Dial Transplant. 
+2012;27:1559–1568.
+Reddan DN, et al. Intradialytic blood volume monitoring in ambulatory hemodialysis 
+patients: a randomized trial. J Am Soc Nephrol. 2005;16:2162–2169.
+Ritz E, et al. Cardiac changes in uraemia and their possible relationship to cardiovas-
+cular instability on dialysis. Nephrol Dial Transpl. 1990;5:93–97.
+Roth VR, Jarvis WR. Outbreaks of infection and/or pyrogenic reactions in dialysis 
+ patients. Semin Dial. 2000;13:92–96.
+Santos SFF, Peixoto AJ. Sodium balance in maintenance hemodialysis. Semin Dial. 
+2010;23:549
+Sav MY, Sav T, Senocak E, et al. Hemodialysis-related headache. Hemodial Int. 2014.
+Selby NM, McIntyre CW . A systematic review of the clinical effects of reducing dialy-
+sate fluid temperature. Nephrol Dial Transplant. 2006;21:1883–1898.
+Seukeran D, et al. Sudden deepening of pigmentation during haemodialysis due to 
+severe haemolysis. Br J Dermatol. 1997;137:997–999.
+Shah A, Davenport A. Does a reduction in dialysate sodium improve blood pressure 
+control in haemodialysis patients? Nephrology (Carlton). 2012;17:358–363.
+Sherman RA, et al. Effect of variations in dialysis solution temperature on blood 
+ pressure during hemodialysis. Am J Kidney Dis. 1984;4:66–68.
+Sherman RA, et al. The effect of dialysis solution calcium levels on blood pressure dur-
+ing hemodialysis. Am J Kidney Dis. 1986;8:244–227.
+Sherman RA, et al. The effect of red cell transfusion on hemodialysis-related hypoten-
+sion. Am J Kidney Dis. 1988;11:33–35.
+Daugirdas9781451144291-ch012.indd   235 09/10/14   1:12 am
+236
+Part II / Blood-Based Therapies
+Sherman RA, et al. Postprandial blood pressure changes during hemodialysis. Am J 
+Kidney Dis. 1988;12:37–39.
+Shimizu K, et al. Vasopressin secretion by hypertonic saline infusion during 
+ hemodialysis: effect of cardiopulmonary recirculation. Nephrol Dial Transplant. 
+2012;27:796–803.
+Silver SM, et al. Dialysis disequilibrium syndrome (DDS) in the rat: role of the “reverse 
+urea effect. ” Kidney Int. 1992;42:161–166.
+Steuer RR, et al. Reducing symptoms during hemodialysis by continuously monitoring 
+the hematocrit. Am J Kidney Dis. 1996;27:525–532.
+Stiller S, et al. A critical review of sodium profiling for hemodialysis. Semin Dial. 
+2001;14:337–347.
+Straumann E, et al. Symmetric and asymmetric left ventricular hypertrophy in 
+ patients with end-stage renal failure on long-term hemodialysis. Clin Cardiol . 
+1998;21:672–678.
+Sweet SJ. Hemolytic reactions mechanically induced by kinked hemodialysis lines. Am 
+J Kidney Dis. 1996;27:262–266.
+Tomson CRV . Advising dialysis patients to restrict fluid intake without restrict-
+ing  sodium intake is not based on evidence and is a waste of time. Nephrol Dial 
+ Transplant. 2001;16:1538–1542.
+Trivedi H, et al. Effect of variation of blood flow rate on blood pressure during hemo-
+dialysis. ASN Annual Meeting, Philadelphia, PA. J Am Soc Nephrol. 2005;16:39A.
+Van der Sande FM, et al. Effect of dialysis solution calcium concentration on intra-
+dialytic blood pressure course in cardiac-compromised patients. Am J Kidney Dis. 
+1998;32:125–131.
+Van der Zee S, et al. Vasopressin administration facilitates fluid removal during 
+ hemodialysis. Kidney Int. 2007;71:318–324.
+Wikström B, et al. Kappa-opioid system in uremic pruritus: multicenter, random-
+ized, double-blind, placebo-controlled clinical studies. J Am Soc Nephrol. 
+2005;16:3742–3747.
+Yalcin AU, et al. Effect of sertraline hydrochloride on cardiac autonomic dysfunction 
+in patients with hemodialysis-induced hypotension. Nephron Physiol. 2003;93:  
+P21–P28.
+Daugirdas9781451144291-ch012.indd   236 09/10/14   1:12 am

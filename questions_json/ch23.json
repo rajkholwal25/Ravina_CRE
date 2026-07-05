@@ -1,0 +1,665 @@
+{
+  "chapter": 23,
+  "questions": [
+    {
+      "topic": "Acute catheters",
+      "question": "For a rigid noncuffed acute peritoneal catheter inserted by percutaneous puncture with an internal stylet, what is the generally accepted maximum period of use because of infection risk?",
+      "options": {
+        "A": "3 days",
+        "B": "7 days",
+        "C": "2 weeks",
+        "D": "24 hours"
+      },
+      "correct": "A",
+      "explanation": "Rigid noncuffed acute catheters are relatively rigid plastic tubes inserted by percutaneous puncture over an internal stylet, and because they lack a cuff to block bacterial migration along the tract the accepted maximum period of use is 3 days, not 7 days, 2 weeks, or 24 hours. They remain an option when only a short PD course is anticipated or when therapy must begin before a chronic catheter can be placed. If need will exceed a few days, a soft cuffed chronic catheter should be placed instead, since it can stay indefinitely and resists infection."
+    },
+    {
+      "topic": "Catheter material",
+      "question": "All presently manufactured chronic peritoneal dialysis catheters are constructed from which material?",
+      "options": {
+        "A": "Polyurethane rubber",
+        "B": "Silicone rubber",
+        "C": "Polytetrafluoroethylene",
+        "D": "Latex rubber"
+      },
+      "correct": "B",
+      "explanation": "All chronic peritoneal catheters are now constructed of silicone rubber, valued for its biocompatibility and biodurability, so that is the correct answer. Polyurethane rubber was used in a small percentage of older catheters but has not been commercially available since 2010, making it wrong for a currently manufactured device; latex and PTFE are not used for these catheters at all. The material matters clinically because silicone tolerates the topical antibiotic ointments used for exit-site prophylaxis, whereas polyurethane does not."
+    },
+    {
+      "topic": "Polyurethane catheters",
+      "question": "Why is it important to identify a surviving polyurethane peritoneal catheter?",
+      "options": {
+        "A": "It cannot be visualized on radiographs",
+        "B": "It requires two-cuff placement only",
+        "C": "It tends to develop stress fractures or soften and rupture with exposure to polyethylene glycol or ethanol in topical ointments",
+        "D": "It is incompatible with laparoscopic insertion"
+      },
+      "correct": "C",
+      "explanation": "Surviving polyurethane catheters must be identified because polyurethane rubber tends to develop stress fractures or to soften and rupture from chronic exposure to polyethylene glycol or ethanol present in certain topical antibiotic ointments and creams used for exit-site prophylaxis. The other options are wrong: like silicone catheters they carry a radiopaque stripe for radiographic visualization, cuff number is unrelated to material, and they are not incompatible with laparoscopic insertion. Polyurethane devices can be recognized by a permanently bonded adapter and dark discoloration of the tubing after several years."
+    },
+    {
+      "topic": "Catheter cuffs",
+      "question": "In a properly implanted two-cuff chronic catheter, where should the deep cuff preferably be positioned?",
+      "options": {
+        "A": "In the subcutaneous tissue near the exit site",
+        "B": "External to the anterior fascia",
+        "C": "Within the peritoneal cavity",
+        "D": "Within the muscle for firm tissue ingrowth and fixation"
+      },
+      "correct": "D",
+      "explanation": "The deep cuff is preferably implanted within the muscle so tissue ingrowth firmly fixes and immobilizes the catheter, which is why 'within the muscle' is correct. Placing it in subcutaneous tissue near the exit site describes the superficial cuff, not the deep one; positions external to the fascia or inside the peritoneal cavity would leave the catheter poorly anchored and prone to leak or pericannular hernia. If the deep cuff sits outside the muscle or shifts outward from weak midline fascial attachments, the peritoneal lining can extend above the fascia, creating a pseudohernia and pericatheter leak."
+    },
+    {
+      "topic": "Catheter cuffs",
+      "question": "The superficial (subcutaneous) cuff should be positioned at what distance from the exit site?",
+      "options": {
+        "A": "2-4 cm",
+        "B": "0.5-1 cm",
+        "C": "6-8 cm",
+        "D": "10 cm"
+      },
+      "correct": "A",
+      "explanation": "The superficial (subcutaneous) cuff is positioned 2-4 cm from the exit site, so 2-4 cm is correct. At this depth it acts as an effective barrier to entry of cutaneous debris and bacteria into the subcutaneous track and limits the piston-like in-and-out motion of the catheter that drives contaminants inward. Positioning it too close, less than 2 cm, risks erosion and extrusion of the cuff through the exit site; placing it 6-8 cm or 10 cm away is not described and would not provide the intended barrier. Proper cuff distance is a key best practice for infection prevention."
+    },
+    {
+      "topic": "Catheter tip design",
+      "question": "Compared with coiled-tip catheters, straight-tip catheters are associated with a higher incidence of inflow discomfort because of what mechanism?",
+      "options": {
+        "A": "Greater catheter migration",
+        "B": "The jet effect of dialysate from the end hole",
+        "C": "Slower dialysate warming",
+        "D": "Increased fibrin formation"
+      },
+      "correct": "B",
+      "explanation": "Straight-tip catheters cause more inflow discomfort because of the jet effect of dialysate exiting the single end hole, so the jet effect is the correct mechanism. Coiled-tip catheters disperse dialysate better during inflow and cause less pain. Migration, dialysate warming, and fibrin formation are not the reason given for this inflow pain. Notably, no significant functional difference has been demonstrated between coiled and straight tips overall; the coiled tip mainly adds cost, and its advantage is reduced inflow discomfort rather than better clearance."
+    },
+    {
+      "topic": "Radiopaque stripe",
+      "question": "The white radiopaque stripe running along the longitudinal axis of a chronic catheter primarily serves what functions?",
+      "options": {
+        "A": "It increases the internal bore diameter",
+        "B": "It adds rigidity for percutaneous insertion",
+        "C": "It enables radiographic visualization and guides implantation to prevent twisting or kinking",
+        "D": "It marks the location of the deep cuff"
+      },
+      "correct": "C",
+      "explanation": "The white radiopaque stripe runs along the longitudinal axis so it enables radiographic visualization of the catheter and guides implantation to prevent accidental twisting or kinking of the tubing, making that the correct pairing. It does not change the internal bore, add rigidity for insertion, or specifically mark the deep cuff location. Recognizing the stripe is practically useful because it lets the operator keep the tubing untwisted during placement and later allows fluoroscopic imaging of the final catheter configuration, although adhesions and omentum still cannot be assessed that way."
+    },
+    {
+      "topic": "Catheter bore size",
+      "question": "Most adult catheters have a 2.6-mm internal bore; the one brand with a larger 3.5-mm bore can be identified by which feature?",
+      "options": {
+        "A": "A green external adapter",
+        "B": "A permanently bonded adapter",
+        "C": "Three Dacron cuffs",
+        "D": "A blue radiopaque stripe"
+      },
+      "correct": "D",
+      "explanation": "A larger 3.5-mm-bore catheter brand is identified by its blue radiopaque stripe, whereas most adult catheters have a 2.6-mm bore with the standard white stripe; therefore the blue stripe is correct. A green adapter, a permanently bonded adapter (which signals polyurethane), and three Dacron cuffs are not the identifying feature. Recognizing bore size matters to prevent inadvertent interchange of replacement catheter adapters, which can cause a loose fit and accidental separation. Although in vitro flow is faster with the larger bore, this advantage has not been apparent in vivo."
+    },
+    {
+      "topic": "Standard catheters",
+      "question": "What is the primary difference among the standard coiled-tip, straight-tip, and swan-neck Tenckhoff catheters?",
+      "options": {
+        "A": "The coiled tip and preformed arc increase the cost of the device",
+        "B": "Only straight-tip catheters can be inserted laparoscopically",
+        "C": "Swan-neck catheters have a larger internal bore",
+        "D": "Coiled-tip catheters require three cuffs"
+      },
+      "correct": "A",
+      "explanation": "Among the standard coiled-tip, straight-tip, and swan-neck Tenckhoff catheters the primary difference is that the coiled-tip configuration and preformed arc bend increase the cost of the device, so that answer is correct. All four can be inserted by any implantation methodology, so the claim that only straight tips allow laparoscopy is wrong; swan-neck catheters do not have a larger bore, and coiled tips do not require three cuffs. These four catheters are the mainstay of peritoneal access worldwide, and the choice among them is driven mainly by cost and patient anatomy rather than proven functional superiority."
+    },
+    {
+      "topic": "Swan-neck catheter",
+      "question": "What defines the 'swan neck' variant of the Tenckhoff catheter?",
+      "options": {
+        "A": "A tungsten weight at the tip",
+        "B": "A preformed arc bend in the intercuff segment",
+        "C": "Two silicone disks at the end",
+        "D": "Absence of Dacron cuffs"
+      },
+      "correct": "B",
+      "explanation": "The swan-neck variant is defined by a preformed arc bend in the intercuff segment, so that is correct. A tungsten weight at the tip defines the Di Paolo catheter, two silicone disks define the Oreopoulos-Zellerman design, and absence of Dacron cuffs describes an acute rather than chronic catheter. The swan-neck bend is clinically useful because it lets the exit site emerge downward, for example below a high-lying belt line, and it directs the intercuff segment to reduce mechanical stress on the tubing."
+    },
+    {
+      "topic": "Extended catheters",
+      "question": "The two-piece extended catheter joins a one-cuff abdominal segment to a subcutaneous extension segment using what connector?",
+      "options": {
+        "A": "A silicone bead",
+        "B": "A Dacron flange",
+        "C": "A titanium connector",
+        "D": "A peel-away sheath"
+      },
+      "correct": "C",
+      "explanation": "The two-piece extended catheter joins a one-cuff abdominal segment to a subcutaneous extension segment (bearing one or two cuffs) using a titanium connector, so that is correct. A silicone bead and a Dacron flange are features of the Missouri/Oreopoulos-Zellerman designs, and a peel-away sheath is an insertion tool, not a connector. The titanium connector permits remote exit-site locations such as the upper chest, upper abdomen, or back, making extended catheters ideal for obese patients, skin folds, stomas, or incontinence."
+    },
+    {
+      "topic": "Di Paolo catheter",
+      "question": "The Di Paolo catheter attempts to discourage catheter tip migration by adding what feature to the tubing?",
+      "options": {
+        "A": "Two silicone disks",
+        "B": "A Dacron flange",
+        "C": "A third Dacron cuff",
+        "D": "A tungsten weight to promote gravitational self-location to the pelvis"
+      },
+      "correct": "D",
+      "explanation": "The Di Paolo catheter adds a tungsten weight to the end of the tubing to promote gravitational self-location of the tip to the pelvis and thereby discourage tip migration, so the tungsten weight is correct. Two silicone disks belong to the Oreopoulos-Zellerman design, a Dacron flange to the Missouri/Toronto designs, and a third cuff to extended catheters. Despite this ingenious approach, none of the alternative configurations, including the Di Paolo weight, have been shown to outperform the standard Tenckhoff design, and they add cost and insertion difficulty."
+    },
+    {
+      "topic": "Alternative catheters",
+      "question": "The Oreopoulos-Zellerman (Toronto Western) variation of the straight-tip catheter adds what feature to hold bowel and omentum away from the side holes?",
+      "options": {
+        "A": "Two silicone disks at the end of the tubing",
+        "B": "A tungsten weight",
+        "C": "A 45-degree flange",
+        "D": "A coiled tip"
+      },
+      "correct": "A",
+      "explanation": "The Oreopoulos-Zellerman (Toronto Western) variation adds two silicone disks to the end of the straight-tip tubing to hold bowel and omentum away from the side holes, so two silicone disks is correct. A tungsten weight defines the Di Paolo catheter, a 45-degree flange the Missouri catheter, and a coiled tip is a standard configuration, not this modification. The disks were meant to prevent obstruction of the side holes, but like the other alternative designs this configuration has not outperformed the standard Tenckhoff catheter and increases cost and insertion difficulty."
+    },
+    {
+      "topic": "Missouri catheter",
+      "question": "On the Missouri catheter, the Dacron flange and silicone bead adjacent to the deep cuff are attached at what angle to keep the tip oriented toward the pelvis?",
+      "options": {
+        "A": "90 degrees",
+        "B": "30 degrees",
+        "C": "45 degrees",
+        "D": "60 degrees"
+      },
+      "correct": "C",
+      "explanation": "On the Missouri catheter the Dacron flange and silicone bead adjacent to the deep cuff are attached at a 45-degree angle, intended to keep the catheter tip oriented toward the pelvis, so 45 degrees is correct. The other angles are not described. Suturing the peritoneum between the flange and bead and stitching the flange to the posterior rectus sheath was designed to reduce pericatheter leaks. Even so, this configuration has not been shown to outperform the standard Tenckhoff design and adds cost and difficulty of insertion."
+    },
+    {
+      "topic": "Alternative catheters",
+      "question": "How do the alternative catheter designs compare in outcomes to the standard Tenckhoff design?",
+      "options": {
+        "A": "They consistently outperform the standard design",
+        "B": "They eliminate the need for a deep cuff",
+        "C": "They reduce dialysate inflow pain by half",
+        "D": "None have been shown to outperform it, and they increase cost and insertion difficulty"
+      },
+      "correct": "D",
+      "explanation": "None of the alternative catheter configurations have been shown to outperform the standard Tenckhoff design, yet they increase the cost and difficulty of device insertion, so that answer is correct. Claims that they consistently outperform the standard, eliminate the deep cuff, or halve inflow pain are not supported. The alternative designs (silicone disks, tungsten weight, Dacron flange and bead) were created to address tissue attachment, tip migration, and pericatheter leaks, but the standard coiled- and straight-tip Tenckhoff catheters remain the worldwide mainstay because the modifications add expense without proven benefit."
+    },
+    {
+      "topic": "Catheter selection",
+      "question": "A patient who wears the belt line above the umbilicus is often best served with which catheter configuration?",
+      "options": {
+        "A": "A swan-neck bend allowing the exit site to emerge below the belt line",
+        "B": "A rigid noncuffed catheter",
+        "C": "A straight intercuff segment with a laterally directed exit site",
+        "D": "A presternal extended catheter only"
+      },
+      "correct": "A",
+      "explanation": "A patient who wears the belt line above the umbilicus is best served with a swan-neck bend that lets the exit site emerge below the belt line, so that is correct. A straight intercuff segment with a laterally directed exit above the belt line suits patients whose belt lines lie below the umbilicus, so it is wrong here; a rigid noncuffed catheter is only for acute use, and a presternal extended catheter is reserved for obesity or skin folds rather than routine belt-line matching. Matching the catheter to the belt line keeps the exit site clear of pressure, creases, and bulging skin folds."
+    },
+    {
+      "topic": "Catheter selection",
+      "question": "A patient who wears the belt line below the umbilicus is usually best fitted with which catheter?",
+      "options": {
+        "A": "A swan-neck catheter with a downward exit below the belt line",
+        "B": "A straight intercuff segment catheter bent to produce a laterally directed exit above the belt line",
+        "C": "An acute rigid catheter",
+        "D": "A tungsten-weighted Di Paolo catheter"
+      },
+      "correct": "B",
+      "explanation": "A patient who wears the belt line below the umbilicus is best fitted with a straight intercuff segment catheter bent to produce a laterally directed exit site emerging above the belt line, so that is correct. A swan-neck catheter with a downward exit below the belt line suits the opposite anatomy (belt line above the umbilicus); an acute rigid catheter is only for temporary use, and the tungsten-weighted Di Paolo catheter addresses tip migration, not belt-line fit. Directing the exit above and lateral to a low belt line keeps it visible to the patient and away from waistband pressure."
+    },
+    {
+      "topic": "Catheter selection",
+      "question": "Which patients are described as ideal candidates for extended catheters producing upper abdominal or presternal exit sites?",
+      "options": {
+        "A": "Thin patients with no skin folds",
+        "B": "Patients needing only acute dialysis",
+        "C": "Patients with large rotund abdomens, severe obesity, drooping skin folds, stomas, or incontinence",
+        "D": "Patients desiring only automated peritoneal dialysis"
+      },
+      "correct": "C",
+      "explanation": "Patients with large rotund abdomens, severe obesity, drooping skin folds, intestinal stomas, feeding tubes, urinary or fecal incontinence, yeast intertrigo, or a desire to take deep tub baths are ideal candidates for extended catheters producing upper abdominal or presternal exit sites, so that option is correct. Thin patients without skin folds, acute-dialysis-only patients, and APD-only patients are not the described population. Relocating the exit site to the upper abdomen or chest keeps it away from moist, contaminated, or fold-covered lower-abdominal areas that predispose to exit-site infection."
+    },
+    {
+      "topic": "Preoperative mapping",
+      "question": "During stencil-based preoperative mapping, which fixed anatomical landmark represents the anterior upper border of the true pelvis?",
+      "options": {
+        "A": "The umbilicus",
+        "B": "The xiphoid process",
+        "C": "The anterior superior iliac spine",
+        "D": "The pubic symphysis"
+      },
+      "correct": "D",
+      "explanation": "The pubic symphysis represents the anterior upper border of the true pelvis and, together with the anatomical midline of the torso, is used to orient the stencil plate, so the pubic symphysis is correct. The umbilicus, xiphoid, and anterior superior iliac spine are not the landmark cited for this purpose. Accurate stencil orientation to these fixed landmarks lets the operator reproducibly associate catheter design elements with anatomy to achieve optimal pelvic position of the catheter coil and an ideal exit-site location."
+    },
+    {
+      "topic": "Preoperative mapping",
+      "question": "During the preoperative mapping session, the patient should be examined in which positions to check exit-site suitability?",
+      "options": {
+        "A": "Supine, sitting, and/or standing while fully clothed",
+        "B": "Only supine",
+        "C": "Only standing",
+        "D": "Prone and lateral decubitus"
+      },
+      "correct": "A",
+      "explanation": "During preoperative stencil mapping the patient is examined fully clothed in supine, sitting, and/or standing positions, so that combination is correct. Examining only supine, only standing, or in prone/lateral decubitus positions would miss how the belt line, skin creases, and bulging skin folds shift with posture. Marking exit sites while supine and then rechecking them sitting or standing confirms which site is best visible to the patient and does not conflict with the belt line or skin folds; if no standard site is satisfactory, upper abdominal or presternal locations are mapped instead."
+    },
+    {
+      "topic": "Preoperative preparation",
+      "question": "According to best-practice bowel preparation for PD catheter insertion, what is given the day before surgery?",
+      "options": {
+        "A": "Nothing by mouth only",
+        "B": "2 L of polyethylene glycol solution, an enema, or a stimulant suppository",
+        "C": "48 hours of intravenous antibiotics",
+        "D": "A barium enema"
+      },
+      "correct": "B",
+      "explanation": "Best-practice bowel prep the day before surgery is 2 L of polyethylene glycol solution, an enema, or a stimulant suppository, so that answer is correct. NPO alone, 48 hours of IV antibiotics, and a barium enema are not the recommended prep. Emptying the colon reduces the risk of inadvertent bowel injury during catheter insertion and helps avoid early postoperative constipation, which is the most common cause of catheter outflow dysfunction. Bowel prep is one item in a constellation of best practices whose omission can lead to loss of the peritoneal catheter."
+    },
+    {
+      "topic": "Preoperative preparation",
+      "question": "According to best practices, body hair should be removed in the preoperative holding area preferably using what?",
+      "options": {
+        "A": "A straight razor",
+        "B": "Depilatory cream",
+        "C": "Electric clippers",
+        "D": "Waxing"
+      },
+      "correct": "C",
+      "explanation": "Best practice is to remove body hair in the preoperative holding area preferably with electric clippers, so clippers are correct. A straight razor causes microabrasions that increase infection risk, and depilatory cream or waxing are not the recommended methods. Clipping just before surgery, combined with a chlorhexidine shower on the day of surgery and a single antistaphylococcal antibiotic dose, forms part of the patient-preparation bundle designed to minimize contamination of the surgical site and give the best chance of a durable long-term peritoneal access."
+    },
+    {
+      "topic": "Preoperative preparation",
+      "question": "What antibiotic prophylaxis is recommended before PD catheter insertion?",
+      "options": {
+        "A": "A 5-day oral course of antibiotics",
+        "B": "Two weeks of antifungal therapy",
+        "C": "No antibiotics at all",
+        "D": "A single preoperative dose providing antistaphylococcal coverage"
+      },
+      "correct": "D",
+      "explanation": "The recommended prophylaxis is a single preoperative dose of antibiotic providing antistaphylococcal coverage, so that is correct. A 5-day oral course, two weeks of antifungal therapy, and giving no antibiotics are all wrong. A single well-timed dose covers the predominant skin flora (staphylococci) responsible for early catheter and wound infection without promoting resistance from prolonged exposure. This single dose is part of the patient-preparation best practices, alongside bowel prep, chlorhexidine washing, hair clipping, and emptying the bladder before the procedure."
+    },
+    {
+      "topic": "Insertion best practice",
+      "question": "According to best practices, in which direction should the skin exit site be oriented?",
+      "options": {
+        "A": "Lateral or downward (not upward)",
+        "B": "Upward",
+        "C": "Toward the midline",
+        "D": "Directly anterior"
+      },
+      "correct": "A",
+      "explanation": "The skin exit site should be directed lateral or downward, never upward, so that answer is correct. An upward-facing exit acts as a funnel that collects debris and moisture and promotes infection, while orientations toward the midline or directly anterior are not specified. A lateral or downward exit allows gravity drainage and reduces contamination. This is one of the PD catheter insertion best practices, together with a paramedian approach through the rectus muscle, deep cuff within or below the muscle, pelvic tip location, and confirming acceptable flow with a catheter flow test."
+    },
+    {
+      "topic": "Insertion best practice",
+      "question": "Regarding anchoring of the catheter at the exit site during insertion, best practice recommends what?",
+      "options": {
+        "A": "Two nonabsorbable anchoring sutures",
+        "B": "No catheter anchoring sutures at the exit site",
+        "C": "A purse-string suture at the skin",
+        "D": "A single silk anchoring suture"
+      },
+      "correct": "B",
+      "explanation": "Best practice specifies no catheter anchoring sutures at the exit site, so that is correct; the catheter is instead immobilized with medical adhesive, sterile adhesive strips, and a nonocclusive dressing. Anchoring sutures, a skin purse-string, or a single silk suture would create a portal for bacteria and provoke local inflammation at the exit. Because no stitches secure the tubing, immobilizing it externally is essential to prevent tugging and piston-like motion at the exit site, both of which can drive contaminants into the subcutaneous track and cause infection."
+    },
+    {
+      "topic": "Acute catheter insertion",
+      "question": "During acute noncuffed catheter insertion, the skin incision is made approximately where relative to the umbilicus?",
+      "options": {
+        "A": "At the level of the xiphoid",
+        "B": "5 cm lateral to the umbilicus",
+        "C": "Directly through the umbilicus",
+        "D": "About 2.5 cm below the umbilicus"
+      },
+      "correct": "D",
+      "explanation": "For acute noncuffed catheter insertion a 1-cm midline or paramedian skin incision is made approximately 2.5 cm below the level of the umbilicus, so 'about 2.5 cm below the umbilicus' is correct. The xiphoid level, 5 cm lateral, and directly through the umbilicus are not the described site. A hemostat is then used to spread down to the fascia before the stylet-catheter assembly is advanced. This infraumbilical midline location provides reliable access to the peritoneal cavity while directing the catheter toward the pelvis."
+    },
+    {
+      "topic": "Acute catheter insertion",
+      "question": "During stylet insertion of an acute catheter, what sensation indicates entry into the peritoneal cavity?",
+      "options": {
+        "A": "A 'pop' or sudden drop in resistance",
+        "B": "Return of clear urine",
+        "C": "A palpable click at the skin",
+        "D": "Loss of the radiopaque stripe"
+      },
+      "correct": "A",
+      "explanation": "During acute stylet insertion the catheter-stylet assembly is advanced through the musculofascial layer with a twisting motion under controlled pressure until a 'pop' or sudden drop in resistance is felt, indicating entry into the peritoneal cavity, so that sensation is correct. Return of urine, a palpable skin click, and loss of the radiopaque stripe are not the endpoint. Once the pop is felt, the patient relaxes the abdomen, the stylet is withdrawn several centimeters to hide the pointed tip, and the catheter is gently advanced toward the pelvis before the stylet is fully removed."
+    },
+    {
+      "topic": "Prefill technique",
+      "question": "A Veress needle is best described as what?",
+      "options": {
+        "A": "A rigid stylet for catheter insertion",
+        "B": "A spring-loaded needle used to create pneumoperitoneum for laparoscopic surgery",
+        "C": "A peel-away introducer sheath",
+        "D": "A guidewire dilator"
+      },
+      "correct": "B",
+      "explanation": "A Veress needle is a spring-loaded needle used to create pneumoperitoneum for laparoscopic surgery, so that definition is correct. It is not a rigid insertion stylet, a peel-away introducer sheath, or a guidewire dilator. In PD catheter placement a Veress needle (or a 16G-18G IV cannula) can be used to prefill the abdomen with 1-2 L of dialysis solution before inserting the catheter-stylet, creating a fluid cushion that separates bowel from the advancing catheter and reduces the risk of visceral injury."
+    },
+    {
+      "topic": "Percutaneous technique",
+      "question": "The percutaneous needle-guidewire placement of chronic catheters is performed using a modification of which technique?",
+      "options": {
+        "A": "The Y-TEC technique",
+        "B": "The Moncrief-Popovich technique",
+        "C": "The Seldinger technique",
+        "D": "The Tenckhoff dissection technique"
+      },
+      "correct": "C",
+      "explanation": "Blind percutaneous needle-guidewire placement of chronic catheters uses a modification of the Seldinger technique, so Seldinger is correct. The Y-TEC procedure is a separate laparoscopic-assisted method, Moncrief-Popovich refers to embedding, and Tenckhoff dissection is the open technique. In the Seldinger modification the abdomen is prefilled with 1.5-2 L of dialysate through an 18G needle, a guidewire is passed toward the retrovesical space, and a dilator with a peel-away sheath is advanced over the wire so the stiffened catheter can be directed into the pelvis at the bedside under local anesthesia."
+    },
+    {
+      "topic": "Percutaneous technique",
+      "question": "With fluoroscopy added to percutaneous placement, how is needle entry into the peritoneal cavity confirmed?",
+      "options": {
+        "A": "By aspiration of blood",
+        "B": "By palpating the deep cuff",
+        "C": "By loss of the radiopaque stripe",
+        "D": "By observing flow of injected contrast around loops of bowel"
+      },
+      "correct": "D",
+      "explanation": "When fluoroscopy is added, needle entry into the peritoneal cavity is confirmed by observing the flow of injected contrast around loops of bowel, so that is correct. Aspiration of blood, palpating the deep cuff, and loss of the radiopaque stripe do not confirm peritoneal entry. Contrast pooling in the appropriate location also identifies the retrovesical space toward which the guidewire and catheter are advanced. Although the radiopaque tubing stripe permits fluoroscopic imaging of the final configuration, this imaging still cannot assess the proximity of adhesions or omentum."
+    },
+    {
+      "topic": "Percutaneous technique",
+      "question": "A recognized limitation of percutaneous guidewire placement techniques regarding the deep cuff is that they usually do what?",
+      "options": {
+        "A": "Leave the deep catheter cuff external to the fascia",
+        "B": "Position the deep cuff deep within the muscle",
+        "C": "Require removal of the deep cuff",
+        "D": "Place the deep cuff inside the peritoneum"
+      },
+      "correct": "A",
+      "explanation": "Percutaneous guidewire placement techniques usually leave the deep catheter cuff external to the fascia, so that is correct. They do not position the deep cuff deep within the muscle, require its removal, or place it inside the peritoneum. Because the deep cuff ends up superficial to the fascia rather than within the muscle, this deviation from the ideal (deep cuff within or below the rectus muscle) can predispose to pericatheter leak or pericannular hernia. After testing flow function, the catheter is tunneled subcutaneously to the selected exit site."
+    },
+    {
+      "topic": "Y-TEC procedure",
+      "question": "In the Y-TEC laparoscopic-assisted procedure, after peritoneal entry is confirmed, how much room air is pumped into the abdomen?",
+      "options": {
+        "A": "3-4 L",
+        "B": "0.6-1.5 L",
+        "C": "5-6 L",
+        "D": "0.1 L"
+      },
+      "correct": "B",
+      "explanation": "In the Y-TEC laparoscopic-assisted procedure, after a 2.2-mm laparoscope confirms peritoneal entry, 0.6-1.5 L of room air is pumped into the abdomen with a syringe or hand bulb, so 0.6-1.5 L is correct. The larger volumes listed are not used. The air creates a working space so the cannula and plastic sleeve can be visually directed into a clear area; the sleeve then serves as a conduit for blind catheter insertion over a stylet, after which the deep cuff is pushed into the rectus sheath and flow function is tested."
+    },
+    {
+      "topic": "Open surgical dissection",
+      "question": "During open surgical dissection placement, what suture is placed around the peritoneal opening before the catheter is advanced?",
+      "options": {
+        "A": "A subcuticular running suture",
+        "B": "A mattress suture through the muscle",
+        "C": "A purse-string suture",
+        "D": "A figure-of-eight suture at the skin"
+      },
+      "correct": "C",
+      "explanation": "In open surgical dissection a purse-string suture is placed around the peritoneal opening before the catheter is advanced, so the purse-string suture is correct. A subcuticular running suture, a muscle mattress suture, and a skin figure-of-eight suture are not the technique described. The purse-string is tied after satisfactory placement to seal the peritoneum around the catheter. Careful placement of this suture and meticulous repair of the anterior fascia are imperative to prevent pericatheter leak and hernia, two of the main mechanical complications of PD catheters."
+    },
+    {
+      "topic": "Open surgical dissection",
+      "question": "In open surgical dissection, the catheter tubing exits the anterior rectus sheath at what minimum distance cranial to the purse-string suture and deep cuff?",
+      "options": {
+        "A": "At least 10 cm",
+        "B": "0.5 cm",
+        "C": "At the same level",
+        "D": "At least 2.5 cm"
+      },
+      "correct": "D",
+      "explanation": "In open surgical dissection the catheter tubing is exited through the anterior rectus sheath at least 2.5 cm cranial to the purse-string suture and deep cuff location, so 'at least 2.5 cm' is correct. Ten centimeters, 0.5 cm, and the same level are not the specified distance. Oblique craniocaudal passage of the catheter through the rectus sheath, combined with this offset, encourages the tip to remain oriented toward the pelvis. This attention to the purse-string and fascial repair helps prevent pericatheter leak and abdominal wall hernia."
+    },
+    {
+      "topic": "Laparoscopic placement",
+      "question": "What is described as the key advantage of laparoscopic catheter placement over other approaches?",
+      "options": {
+        "A": "It requires no general anesthesia",
+        "B": "The ability to proactively employ adjunctive procedures that significantly improve catheter outcomes",
+        "C": "It eliminates the need for a deep cuff",
+        "D": "It avoids the use of a purse-string suture"
+      },
+      "correct": "B",
+      "explanation": "The key advantage of laparoscopic placement is the ability to proactively employ adjunctive procedures that significantly improve catheter outcomes, so that answer is correct. It does not avoid general anesthesia, eliminate the deep cuff, or dispense with the purse-string suture. Under direct visualization the surgeon can perform rectus sheath tunneling to prevent tip migration, omentopexy to displace redundant omentum, division of compartmentalizing adhesions, resection of epiploic appendices or uterine tubes that siphon to the tip, and repair of previously unsuspected hernias."
+    },
+    {
+      "topic": "Laparoscopic placement",
+      "question": "Laparoscopically guided rectus sheath tunneling places the catheter in a long musculofascial tunnel toward the pelvis and accomplishes what?",
+      "options": {
+        "A": "It increases the catheter internal bore",
+        "B": "It removes the need for cuffs",
+        "C": "It eliminates catheter tip migration",
+        "D": "It prevents all peritonitis"
+      },
+      "correct": "C",
+      "explanation": "Laparoscopically guided rectus sheath tunneling places the catheter in a long musculofascial tunnel oriented toward the pelvis and thereby eliminates catheter tip migration, so that is correct. It does not increase the internal bore, remove the need for cuffs, or prevent all peritonitis. Tip migration is a common mechanical complication driven by the shape-memory resiliency forces of a catheter bent under stress; a long musculofascial tunnel directs and holds the catheter toward the pelvis, which is why this adjunctive maneuver is a major advantage of the laparoscopic approach."
+    },
+    {
+      "topic": "Laparoscopic placement",
+      "question": "During laparoscopic placement, redundant omentum near the catheter tip may be displaced from the pelvis and fixed to the abdominal wall by which procedure?",
+      "options": {
+        "A": "Adhesiolysis",
+        "B": "Splicing",
+        "C": "Unroofing",
+        "D": "Omentopexy"
+      },
+      "correct": "D",
+      "explanation": "During laparoscopic placement, redundant omentum near the catheter tip is displaced from the pelvis into the upper abdomen and fixed to the abdominal wall by omentopexy, so omentopexy is correct. Adhesiolysis divides adhesions, splicing replaces an infected tubing segment, and unroofing drains an infected tunnel, so none of those fit. Omental attachment to the catheter coil with displacement of the tubing out of the pelvis is a common cause of outflow dysfunction, so proactively suturing the omentum away from the catheter helps prevent later obstruction."
+    },
+    {
+      "topic": "Catheter embedding",
+      "question": "Catheter embedding, in which the catheter is implanted in advance and allowed to mature in the subcutaneous bed, has been characterized as what?",
+      "options": {
+        "A": "The 'AV fistula of peritoneal dialysis'",
+        "B": "The 'temporary bridge' of peritoneal dialysis",
+        "C": "The 'rescue graft' of peritoneal dialysis",
+        "D": "The 'urgent start' of peritoneal dialysis"
+      },
+      "correct": "A",
+      "explanation": "Catheter embedding, in which the catheter is implanted in advance and allowed to mature in the subcutaneous bed until dialysis is needed, has been characterized as the 'AV fistula of peritoneal dialysis,' so that phrase is correct. The other phrases are not used in the chapter. Like a maturing AV fistula, the embedded catheter heals in a sterile subcutaneous space without an exit wound; firm tissue ingrowth into the cuffs and absence of biofilm are speculated to reduce infection-related peritonitis, and the strategy encourages earlier patient commitment to PD."
+    },
+    {
+      "topic": "Catheter embedding",
+      "question": "A key advantage of an embedded catheter when dialysis is finally needed is that upon externalization the patient can do what?",
+      "options": {
+        "A": "Require only a single-cuff catheter",
+        "B": "Begin dialysis with full volumes, avoiding the need for a break-in period",
+        "C": "Skip all exit-site care",
+        "D": "Avoid any prophylactic antibiotics"
+      },
+      "correct": "B",
+      "explanation": "A key advantage of an embedded catheter is that upon externalization the patient can begin dialysis with full volumes, avoiding the need for a break-in period, so that answer is correct. It does not mandate a single-cuff catheter, allow skipping exit-site care, or avoid prophylactic antibiotics. Because the catheter has already healed with firm cuff ingrowth during embedding, full-volume exchanges can start immediately, and the need for a temporary central venous catheter and interim hemodialysis is averted. Externalization is a simple office procedure."
+    },
+    {
+      "topic": "Catheter embedding",
+      "question": "Embedding of a peritoneal catheter should NOT be performed if the anticipated need for dialysis is less than what interval?",
+      "options": {
+        "A": "1 week",
+        "B": "3 months",
+        "C": "4 weeks",
+        "D": "72 hours"
+      },
+      "correct": "C",
+      "explanation": "Embedding should not be performed if the anticipated need for dialysis is less than 4 weeks, so 4 weeks is correct. One week, 3 months, and 72 hours are wrong. The 4-week floor exists because embedding requires two procedures (implantation and later externalization) and there is a risk of futile placement if the patient's condition changes; if dialysis is needed sooner, the added cost and delay of embedding are not justified compared with a primarily externalized catheter that could be used after a shorter healing interval."
+    },
+    {
+      "topic": "Catheter embedding",
+      "question": "For catheters embedded for months to years, what is the reported immediate function rate upon externalization?",
+      "options": {
+        "A": "20%-30%",
+        "B": "50%-60%",
+        "C": "85%-93%",
+        "D": "100%"
+      },
+      "correct": "C",
+      "explanation": "Catheters embedded for months to years have an 85%-93% immediate function rate upon externalization, so that range is correct. The lower ranges and a flat 100% are not the reported figures. Moreover, after radiologic or laparoscopic revision of the nonfunctioning catheters, 94%-99% overall are successfully used for dialysis. These high success rates support embedding as the 'AV fistula of peritoneal dialysis,' letting the access be placed well ahead of need and externalized as a simple office procedure when dialysis is required."
+    },
+    {
+      "topic": "Chronic nonurgent start",
+      "question": "For a chronic nonurgent start, exchanges should preferably be delayed for how long after catheter insertion to allow healing and prevent leakage?",
+      "options": {
+        "A": "24 hours",
+        "B": "3 days",
+        "C": "6 months",
+        "D": "2 or more weeks"
+      },
+      "correct": "D",
+      "explanation": "For a chronic nonurgent start, exchanges should preferably be delayed 2 or more weeks after catheter insertion to allow healing and prevent leakage, so '2 or more weeks' is correct. Twenty-four hours and 3 days are too short and risk pericatheter leak, while 6 months is unnecessarily long. During this interval the cuffs achieve firm tissue ingrowth. The dwell volume is then increased over the training period, and for APD patients leaving no last fill for several weeks further reduces leak risk while the catheter heals."
+    },
+    {
+      "topic": "Urgent start",
+      "question": "An urgent start on peritoneal dialysis is defined as beginning dialysis at what time after catheter insertion?",
+      "options": {
+        "A": "Less than 2 weeks after catheter insertion",
+        "B": "Exactly 4 weeks after insertion",
+        "C": "3 months after insertion",
+        "D": "Only after cuff ingrowth is complete"
+      },
+      "correct": "A",
+      "explanation": "An urgent start means beginning peritoneal dialysis less than 2 weeks after catheter insertion, so 'less than 2 weeks' is correct. Exactly 4 weeks, 3 months, and waiting for complete cuff ingrowth all describe nonurgent timing. Urgent start offers an alternative to initiating hemodialysis through a central venous catheter. Surgically implanted catheters can be used immediately if a tight peritoneal seal is created; percutaneously inserted catheters can also be used early but carry a higher leak risk, so feasibility depends on the center's historical experience."
+    },
+    {
+      "topic": "Urgent start",
+      "question": "For urgent-start peritoneal dialysis, a typical incremental approach begins with about 1 L volumes and increases by how much per week?",
+      "options": {
+        "A": "1-2 L per week",
+        "B": "250-500 mL per week",
+        "C": "50 mL per week",
+        "D": "There is no increase"
+      },
+      "correct": "B",
+      "explanation": "A typical incremental urgent-start approach begins with approximately 1 L volumes and increases by 250-500 mL per week, so 250-500 mL per week is correct. Increases of 1-2 L per week or 50 mL per week, or no increase, are not described. No standard urgent-start prescription exists, but starting low and commencing therapy with the patient supine minimizes dialysate leaks from increased intra-abdominal pressure. When surgically placed catheters are appropriately secured, full-volume exchanges can even be started immediately."
+    },
+    {
+      "topic": "Break-in activity",
+      "question": "After catheter insertion, patients are advised to reduce strenuous physical activity for approximately how long to allow proper healing?",
+      "options": {
+        "A": "24-48 hours",
+        "B": "1 week",
+        "C": "4-6 weeks",
+        "D": "6 months"
+      },
+      "correct": "C",
+      "explanation": "After catheter insertion patients are advised to reduce strenuous physical activity for about 4-6 weeks to allow proper healing, so 4-6 weeks is correct. Shorter periods of 24-48 hours or 1 week do not allow adequate healing, and 6 months is longer than recommended. The restriction especially targets activities that increase intra-abdominal pressure, which could provoke pericatheter leak or hernia while the cuffs are still achieving firm tissue ingrowth. This advice applies to both nonurgent and urgent starts and to embedded catheters."
+    },
+    {
+      "topic": "Preperitoneal placement",
+      "question": "If an acute catheter or introducer needle is inadvertently advanced into the preperitoneal space, what pattern of dialysis flow is expected?",
+      "options": {
+        "A": "Rapid painless inflow with brisk outflow",
+        "B": "Normal inflow and outflow",
+        "C": "Slow and often painful inflow, minimal outflow, possibly blood-tinged effluent",
+        "D": "No inflow but brisk outflow"
+      },
+      "correct": "C",
+      "explanation": "With inadvertent preperitoneal placement, dialysis inflow is slow and often painful, outflow is minimal, and the effluent may become blood-tinged, so that pattern is correct. Rapid painless inflow, normal flow, or absent inflow with brisk outflow do not fit. This occurs when the stylet or introducer/Veress needle fails to enter the peritoneal cavity and the semirigid catheter is advanced into the preperitoneal space. Management is to drain as much fluid as possible, then remove the catheter and reinsert at another site."
+    },
+    {
+      "topic": "Acute complications",
+      "question": "Grossly bloody effluent, a fall in hematocrit, or signs of shock during insertion signify what, and what is usually required?",
+      "options": {
+        "A": "Minor abdominal wall vessel injury; continued dialysis",
+        "B": "Bladder puncture; a Foley catheter",
+        "C": "Bowel entry; oral antibiotics",
+        "D": "Large blood vessel injury; urgent laparotomy is usually required"
+      },
+      "correct": "D",
+      "explanation": "Grossly bloody effluent, a fall in hematocrit, or signs of shock signify large blood vessel injury, for which urgent laparotomy is usually required, so that pairing is correct. Minor abdominal wall or mesenteric vessel injury instead causes blood-tinged return that clears with continued dialysis; bladder puncture is suggested by unexplained polyuria and glycosuria; and bowel entry causes pain, an urge to defecate, or feces/gas in the effluent. Recognizing these distinct patterns guides whether observation, a Foley, antibiotics, or emergent surgery is needed."
+    },
+    {
+      "topic": "Pericatheter leak",
+      "question": "A questionable pericatheter leak can be confirmed by testing the seeping fluid for what?",
+      "options": {
+        "A": "High glucose concentration by a positive glucose dipstick",
+        "B": "Elevated creatinine",
+        "C": "Presence of leukocyte esterase",
+        "D": "Low pH"
+      },
+      "correct": "A",
+      "explanation": "A questionable pericatheter leak is confirmed by a positive glucose dipstick indicating the high glucose concentration of the seeping dialysate fluid, so testing for glucose is correct. Elevated creatinine, leukocyte esterase, and low pH are not the confirmatory test. Because dialysis solution is glucose-rich, a strongly positive glucose dipstick distinguishes leaking dialysate from other wound fluid. Leakage through the exit site or incision leaves the patient prone to tunnel infection and peritonitis, so prophylactic antibiotics are given and persistent leaks warrant catheter replacement."
+    },
+    {
+      "topic": "Pericatheter leak",
+      "question": "Delaying initiation of dialysis for how long following catheter placement minimizes the risk of an early pericatheter leak?",
+      "options": {
+        "A": "24 hours",
+        "B": "10-14 days",
+        "C": "1-2 days",
+        "D": "6-8 weeks"
+      },
+      "correct": "B",
+      "explanation": "Delaying initiation of dialysis for 10-14 days following catheter placement minimizes the risk of an early pericatheter leak, so 10-14 days is correct. Twenty-four hours and 1-2 days are too short to allow tissue sealing, while 6-8 weeks is longer than needed. If an early leak does occur, temporarily discontinuing dialysis for 1-3 weeks usually results in spontaneous cessation. Dramatic early leaks may indicate purse-string suture failure or a wound-repair error and demand immediate exploration, whereas persistent leaks warrant catheter replacement."
+    },
+    {
+      "topic": "Infusion pain",
+      "question": "Persistent infusion pain is commonly associated with the acidity of conventional lactate-buffered dialysis solutions, which have what pH?",
+      "options": {
+        "A": "7.0-7.4",
+        "B": "6.5-6.8",
+        "C": "5.2-5.5",
+        "D": "4.0-4.5"
+      },
+      "correct": "C",
+      "explanation": "Persistent infusion pain is commonly associated with the acidity of conventional lactate-buffered dialysis solutions, which have a pH of 5.2-5.5, so that pH is correct. The pH 7.0-7.4 range instead describes bicarbonate/lactate-buffered solutions that can eliminate the pain, and the other values are not cited. If buffered solutions are unavailable, manually adding bicarbonate (4-5 mmol/L) to each bag, or adding 1% or 2% lidocaine (5 mL/L), can relieve acid-related infusion pain. Early infusion pain in new patients is often transient and resolves over several weeks."
+    },
+    {
+      "topic": "Drain pain",
+      "question": "Drain pain is more frequently a problem with which modality due to hydraulic suction on the peritoneal lining?",
+      "options": {
+        "A": "Continuous ambulatory peritoneal dialysis",
+        "B": "Automated peritoneal dialysis",
+        "C": "Intermittent hemodialysis",
+        "D": "Manual single exchanges"
+      },
+      "correct": "B",
+      "explanation": "Drain pain is more frequently a problem with automated peritoneal dialysis because of the hydraulic suction the cycler exerts on the peritoneal lining, so APD is correct. Continuous ambulatory PD, intermittent hemodialysis, and manual single exchanges do not generate the same suction. As intraperitoneal structures siphon up to the catheter tip during drainage, the tip bumps the exquisitely sensitive parietal peritoneum, causing pain often felt in the genital or anorectal region. It can be managed by avoiding complete drainage, for example with tidal peritoneal dialysis in cycler patients."
+    },
+    {
+      "topic": "Outflow failure",
+      "question": "What is the most common cause of catheter outflow dysfunction?",
+      "options": {
+        "A": "Fibrin plugs",
+        "B": "Tubing kink",
+        "C": "Omental wrapping",
+        "D": "Constipation"
+      },
+      "correct": "D",
+      "explanation": "The most common cause of catheter outflow dysfunction is constipation, so constipation is correct. Fibrin plugs, tubing kinks, and omental wrapping cause outflow failure less commonly. A distended rectosigmoid colon can block the catheter side holes or displace the tip into a poor-drainage position. Abdominal radiography helps identify a fecal-filled colon and catheter displacement, and treatment is with laxatives such as 70% sorbitol solution or polyethylene glycol, reserving stimulant laxatives and enemas for refractory cases because of peritonitis risk."
+    },
+    {
+      "topic": "tPA thrombolysis",
+      "question": "If catheter obstruction is due to a fibrin clot, recovery of flow function with tissue plasminogen activator (tPA) has been reported at approximately what rate?",
+      "options": {
+        "A": "Nearly 100%",
+        "B": "About 50%",
+        "C": "About 30%",
+        "D": "Less than 10%"
+      },
+      "correct": "A",
+      "explanation": "If catheter obstruction is due to a fibrin clot, recovery of flow function with tissue plasminogen activator has been reported at nearly 100%, so 'nearly 100%' is correct. The lower rates listed do not apply to fibrin-clot obstruction. tPA is used in a 1 mg/mL dilution, dosed to 110% of the calculated catheter-assembly volume, allowed to dwell 60 minutes, then aspirated and the catheter briskly irrigated with saline. Heparin is more useful prophylactically than therapeutically, so tPA is the next step when heparin and saline irrigation fail to restore flow."
+    },
+    {
+      "topic": "Cuff extrusion",
+      "question": "Erosion of the superficial cuff through the exit site can result from positioning the cuff at what distance from the exit wound during placement?",
+      "options": {
+        "A": "Exactly 4 cm from the wound",
+        "B": "Too close (less than 2 cm) to the exit wound",
+        "C": "More than 6 cm from the wound",
+        "D": "The distance is irrelevant"
+      },
+      "correct": "B",
+      "explanation": "Superficial cuff erosion and extrusion through the exit site can result from positioning the cuff too close, less than 2 cm, to the exit wound during placement, so 'too close (less than 2 cm)' is correct. Placing it exactly 4 cm or more than 6 cm away, or claiming distance is irrelevant, is wrong; the recommended distance is 2-4 cm. Excessive bending of a straight intercuff segment and shape-memory forces, poor deep-cuff fixation, or exit-site infection can also drive the cuff outward. An extruded cuff becomes an infected bacterial reservoir and is managed by shaving or by catheter splicing."
+    },
+    {
+      "topic": "Catheter-related peritonitis",
+      "question": "Catheter infection-related peritonitis, indicating spread to the deep cuff, is best managed by what?",
+      "options": {
+        "A": "Catheter removal",
+        "B": "tPA instillation",
+        "C": "Unroofing-cuff shaving",
+        "D": "Catheter splicing"
+      },
+      "correct": "A",
+      "explanation": "Catheter infection-related peritonitis indicates that the infection has reached the deep cuff and spread transmurally, and it is best managed by catheter removal, so removal is correct. tPA treats fibrin obstruction, while unroofing-cuff shaving and catheter splicing salvage exit-site or tunnel infections that have not passed the superficial cuff. Patients with concurrent peritonitis or ultrasonographic deep cuff involvement are not candidates for salvage, since transmural spread has occurred. Reinsertion of a new catheter can be performed 4-6 weeks after completing antibiotic therapy for the peritonitis."
+    }
+  ]
+}

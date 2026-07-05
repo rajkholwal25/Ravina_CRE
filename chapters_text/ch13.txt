@@ -1,0 +1,802 @@
+237
+A dialysis facility may use dialyzers for the same patient for  multiple 
+treatments. Dialyzer reuse can be a safe and effective practice. 
+As  the  cost of high-flux, biocompatible dialyzers has come down, 
+prevalence of reuse in the United States has fallen from 78% of 
+ facilities in the mid-1990s to about 50% of facilities (47% of patients) 
+in 2013 (Upadhyay, 2007; Neumann, 2013). Only hollow-fiber dialyz-
+ers,  labeled by the manufacturer for multiple use, may be reprocessed.
+ I. REPROCESSING TECHNIQUE. T o use a dialyzer multiple times, the di-
+alysis unit must meticulously follow the standards set out by the 
+Association for the Advancement of Medical Instrumentation 
+(ANSI/AAMI RD47:2002/A1:2003). These AAMI standards are in-
+corporated in the Medicare ESRD Facility Conditions for Coverage 
+(ESRD Interpretive Guidance, V304–V368). Some of the text and 
+language in the Medicare conditions differs from the text and lan-
+guage in the AAMI document; however, the Centers for Medicare 
+and Medicaid Services (CMS) holds the facility accountable for the 
+text and language in the AAMI document.
+While it is possible to accomplish safe and effective repro-
+cessing using a manual technique, the preponderance of repro-
+cessing is done with automated equipment. Several types of 
+automated machines are now manufactured. Some machines 
+provide the ability to process multiple dialyzers simultaneously. 
+With automated methods , the cleansing cycles are reproduc-
+ible and a variety of quality control tests measuring total cell 
+volume (TCV) ( fiber bundle volume +  volume in the headers), 
+ultrafiltration coefficient, and the ability of the reused dialyzer to 
+hold a pressure applied to the blood compartment are built in. 
+ Automated equipment also facilitates printing of dialyzer labels 
+and computerized analysis of records and testing results.
+Any medical director wishing to use a manual system must 
+validate each step of the process and design appropriate quality con-
+trol steps and audits to assure adherence and consistency. On the 
+other hand, any automated equipment used must have a U.S. Food 
+and Drug Administration (FDA) 510(k) clearance. (A 510[k] is a pre-
+market submission made to FDA to demonstrate that the device to 
+be marketed is at least as safe and effective as; that is, substantially 
+Dialyzer Reuse
+Peter B. DeOreo
+13
+Daugirdas9781451144291-ch013.indd   237 09/10/14   1:12 am
+238
+Part II / Blood-Based Therapies
+equivalent to, a legally marketed device that is not subject to pre-
+market approval.) It is incumbent on the medical director using au-
+tomated equipment to follow the manufacturer’s directions for use.
+Reprocessing can be divided into three phases: pre–first-use, 
+the dialysis treatment, and postdialysis.
+A. Pre–first-use. T he dialyzer is recorded into inventory, assigned 
+to a patient (at which time it is indelibly labeled with patient 
+name, noting whether  there are any similarly named patients 
+in the dialysis unit). Prior to initial use, the dialyzer is pre-
+processed to measure the baseline TCV . During preprocess-
+ing, the dialyzer is rinsed, pressure-tested, and filled with a 
+germicide.
+B. The dialysis treatment. P rior to allowing a reprocessed dialyzer to 
+be used on a patient, the patient care provider (PCP) should in-
+spect the dialyzer to be sure that it is not discolored, leaking, or 
+showing significant clotting of fibers in the header. The facility 
+medical director should establish a definition of “significant 
+clotting” to guide staff. Peracetic acid has no vapor pressure 
+and depends on direct contact to be effective; if peracetic acid 
+was used to disinfect the dialyzer, the PCP must assure that a 
+sufficient volume of disinfectant fluid was present in the dia-
+lyzer to assure direct contact. This is done by examining the 
+air-fluid level in the headers when the dialyzer is held horizon-
+tally: both headers should be at least two-thirds full. The PCP 
+must confirm that there is germicide in the dialyzer, that the 
+contact time of the dialyzer with the germicide exceeds the 
+minimum number of hours required for that particular germi-
+cide, and that the dialyzer has passed all the required perfor -
+mance tests. The presence of germicide is confirmed by using 
+a test strip of appropriate sensitivity. The PCP then primes the 
+dialyzer with normal saline and starts a recirculating rinse, 
+with minimal ultrafiltration, at a blood compartment recircu-
+lating flow rate of at least 200 mL/min, while flowing dialysate 
+through the dialysate compartment at 500 mL/min or more. 
+This rinse is continued for 15–30 minutes. It is important to 
+avoid introducing air into the arterial circuit during this rins-
+ing process, as any air trapped in the fibers or dialysate com-
+partment may reduce the effectiveness of germicide removal. 
+The dialyzer should be rotated at intervals during flushing to 
+release trapped air in the dialysate compartment. After the 
+rinse, the PCP must assure that the dialyzer, extracorporeal 
+circuit, and saline bag are free of residual germicide by use of a 
+test strip of appropriate sensitivity.
+After rinsing has been completed, if the start of the treat-
+ment is delayed for some reason, before putting the patient on 
+dialysis, the PCP should retest for a “rebound” of germicide 
+caused by either the dialysate or saline flow being interrupted 
+while the dialyzer is in standby. The medical director should set 
+guidelines for the dialysis unit, specifying how long a dialyzer, 
+once it has been set up for a patient, can sit on the machine 
+before it is deemed unsuitable for use without a repeat cycle 
+of reprocessing.
+Daugirdas9781451144291-ch013.indd   238 09/10/14   1:12 am
+Chapter 13 / Dialyzer Reuse 239
+Before the PCP starts the treatment, two PCPs should per-
+form a “time-out, ” during which they follow a checklist assuring 
+that critical elements of the dialysis prescription are correctly 
+set for this patient’s treatment. For reuse, the critical elements 
+are that this dialyzer is for this patient, that it is the correct 
+model dialyzer, that it had the appropriate contact time with 
+the germicide, that it is now free of germicide, and that infor -
+mation on the reprocessing label confirms that the dialyzer is 
+safe to use. If possible, it is desirable that the patient participate 
+in this step. Both PCPs should sign off on the safety checklist.
+C. Postdialysis. A t the end of a treatment, the PCP returns the blood 
+in the dialyzer to the patient in such a way as to minimize the 
+amount of blood left in the dialyzer. The PCP or the reuse staff 
+transports the dialyzer to the reprocessing area, making sure 
+that the dialyzer ports are capped and that there is no cross-
+contamination with other dialyzers that are being transported 
+at the same time. The dialyzer is then rinsed, cleaned, tested, 
+disinfected, inspected, labeled, and stored until the next use. 
+The medical director must validate any practices in the reuse 
+process that are not explicitly described in the AAMI standards 
+or the dialyzer manufacturer’s “directions for use. ”
+1. Rinsing and reverse ultrafiltration postdialysis.  T o maintain the 
+ patency of fibers and to minimize clotting after dialysis, 
+blood can be returned with heparinized saline. Once the 
+patient has been detached from the extracorporeal circuit, 
+the PCP can add positive dialysate pressure to force re-
+sidual blood from the fibers. If, after use, a dialyzer cannot 
+be promptly reprocessed, the dialyzer should be refriger -
+ated in a temperature-monitored container (avoiding freez-
+ing) within 2 hours (AAMI RD47:2002). Facility practice as 
+ approved by the medical director should set limits for how 
+long the dialyzers can be refrigerated before being repro -
+cessed or discarded.  Typically, this maximum time varies 
+between 36 and 48 hours from the end of treatment. The staff 
+may not refrigerate a dialyzer that has been exposed to rins-
+ing with nonsterile RO (reverse osmosis) water; while AAMI 
+standards do not require water used in rinsing to be sterile, 
+once the blood compartment has been exposed to other than 
+sterile fluids, the dialyzer must be promptly reprocessed.
+2. Cleaning. T ypically, this is accomplished in two steps. The 
+first involves an initial rinsing of the dialyzer and cleaning 
+the headers with RO water. The second is to put the dia-
+lyzer on a machine (or through a manual process) that fur-
+ther rinses and cleans the fibers using one of a number of 
+chemical cleaning agents.
+a. W ater.  W ater used for rinsing and reprocessing must, at a 
+minimum, meet AAMI standards. The current Medicare 
+“conditions for coverage” (ESRD Interpretive Guidance, 
+V176–V278, 2008; ANSI/AAMI RD52: 2004) requires ad-
+herence to the AAMI standards current in 2008 when 
+the conditions were published. In 2008, those stan-
+dards specified a bacteria upper limit of < 200 cfu/mL  
+Daugirdas9781451144291-ch013.indd   239 09/10/14   1:12 am
+240
+Part II / Blood-Based Therapies
+(colony forming units/mL) and an endotoxin upper 
+limit of < 2 eu/mL (endotoxin units/mL). The action 
+levels were < 50 cfu/mL and < 1 eu/mL, respectively. 
+These are the standards that Medicare surveyors will 
+enforce.  However, in 2011, AAMI reduced the maxi-
+mum allowable bacteria count in water to < 100 cfu/
+mL and endotoxin to < 0.25 eu/mL with action levels 
+of <50 cfu/mL and < 0.125 eu/mL,  respectively. The 
+new stricter limits also call for use of more rigorous 
+microbiologic techniques and longer incubation times 
+to assess the bacterial colony forming unit count. As of 
+2014, CMS has not revised the “conditions for coverage” 
+to include these revised, more stringent, standards. The 
+medical director approved policy and procedure should 
+state explicitly what is meant by the phrase “ AAMI stan-
+dard” water. At a minimum, water used must meet the 
+standards in the Medicare “conditions of coverage. ”
+b. Rinsing and reverse ultrafiltration. W hile this process may have 
+been started with saline (heparinized or otherwise) while 
+the dialyzer was still on the dialysis machine (see Section 
+I.C.1), the most common practice is to put the dialyzer on a 
+manifold that flushes AAMI standard water (see above dis-
+cussion) through the blood and dialysate compartments 
+for 20–30 minutes. During flushing, a positive pressure 
+gradient from the dialysate to the blood compartments is 
+maintained to help flush clots and plasma detritus from 
+the blood circuit. The pressures in this manifold must not 
+exceed those specified by the manufacturer’s directions for 
+use to avoid rupturing or collapsing the hollow fibers.
+During this cleaning step, staff inspect and clean the 
+headers to remove lipids and clots. For dialyzers that do 
+not have removable header caps, there are assist devices 
+that use RO water to flush the headers. If the header caps 
+are removable, they and the associated “O” rings can be 
+removed, allowing a direct rinse of the exposed ends of 
+the fiber bundle and potting compound.
+Any procedure that invades the blood compartment 
+risks cross-contamination. AAMI standard water, even as 
+defined in the 2011 revision, is not sterile. If the procedure 
+uses assist devices, it must specify that these devices be 
+used on only one dialyzer before they are cleaned and 
+soaked in an appropriate germicide. If the practice allows 
+the removal of the header caps, they and their “O” rings 
+must be exposed to a disinfectant (bleach or peracetic 
+acid) before being replaced on the dialyzer. Staff must take 
+care not to damage the end of the exposed fiber bundle. 
+Failure to adhere to correct practices in the step of dialyzer 
+header cleaning has frequently been the root cause of out-
+breaks of  bloodstream infections and pyrogen reactions.
+The current generation of reprocessing equipment 
+is not able to effectively remove large amounts of clot and 
+detritus from the fiber bundle or header. It is necessary 
+Daugirdas9781451144291-ch013.indd   240 09/10/14   1:12 am
+Chapter 13 / Dialyzer Reuse 241
+to subject the dialyzer to the precleaning steps described 
+earlier. One novel machine for dialyzer reprocessing 
+(ClearFluxTM, from the Novaflux corporation, Princ-
+eton, NJ) does not require a precleaning with nonsterile 
+fluids before reprocessing. With this particular machine, 
+the first step in reprocessing is to run a mixture of com-
+pressed air and a proprietary cleaning agent through the 
+dialyzer; this mixture effectively removes clots from the 
+dialyzer headers (Wolff, 2005).
+c. Bleach. S odium hypochlorite (bleach), diluted to 0.06% or 
+less, dissolves proteinaceous deposits that may occlude 
+dialyzer hollow fibers. The bleach used should be free 
+of dyes or scents and be listed by the EPA as suitable for 
+cleaning and disinfection.
+d. Peracetic acid. P eracetic acid (mixture of acetic acid and 
+hydrogen peroxide) is the most commonly used clean-
+ing agent (HICPAC, 2008). Peracetic acid is available in 
+proprietary and generic versions. Peracetic acid may not 
+completely remove proteins deposited on the dialyzer 
+membrane.
+3. T ests of dialyzer performance.  T hese check the integrity of 
+the membrane, its clearance (TCV), and its ultrafiltration 
+properties. The tests may be done manually or using auto-
+mated techniques.
+a. Pressure test for leaks.  A b lood path integrity test works 
+by generating a pressure gradient across the membrane 
+and observing for a pressure fall in either the blood or the 
+ dialysate compartment. The gradient may be produced by 
+instilling pressurized air or nitrogen into the blood side 
+of the dialyzer or by producing a vacuum in the dialysate 
+side. Only minimal amounts of air should be observed to 
+leak through an intact wetted membrane; damaged fibers 
+usually rupture when a transmembrane pressure gradient 
+is applied. Leak tests also screen for defects in the dialyzer 
+O-rings, potting compound, and end-caps.
+b. Blood compartment volume.  T his test indirectly measures 
+changes in membrane clearance for small molecules 
+such as urea. The blood compartment volume (TCV) 
+is measured by purging the filled blood compartment 
+(header volume and fiber volume) with air and measur -
+ing the volume of obtained fluid. Every dialyzer des-
+tined for reprocessing should be processed before its 
+initial use in order to measure a baseline TCV for that 
+particular dialyzer. The change in TCV from baseline 
+is then tracked by remeasuring TCV after each reuse. 
+A reduction in TCV of 20% corresponds to a 10% re-
+duction in urea clearance, the maximum decrease ac -
+ceptable for continued use. In a given patient, repeated 
+failure to reach a target number of reuses because of 
+TCV test failures suggests excessive clot formation dur -
+ing dialysis and should prompt a review of the heparin 
+prescription.
+Daugirdas9781451144291-ch013.indd   241 09/10/14   1:12 am
+242
+Part II / Blood-Based Therapies
+c. W ater permeability (in vitro K UF). Th e dialyzer ultrafiltra -
+tion coefficient ( KUF; described in Chapter 3) measures 
+water permeability but is also  an indirect measure of 
+membrane mass transfer properties for larger molecular 
+weight substances. The in vitro K UF can be measured by 
+determining the volume of water passing through the 
+membrane at a given pressure and temperature. Changes 
+in KUF do not affect fluid removal during dialysis, as most 
+dialysis being done today uses machines with automated 
+ultrafiltration control that will compensate for even 
+moderate decreases in water permeability with appropri-
+ate adjustments in transmembrane pressure. However, a 
+decrease in KUF usually is accompanied by a reduction in 
+β2-microglobulin clearance.
+d. Clinical confirmation. O nline, conductivity determined so-
+dium or ionic clearance, which is comparable to urea 
+clearance, or online measurement of other proxies of 
+urea clearance are other acceptable methods of monitor-
+ing dialyzer performance (AAMI RD47:2002). Such online 
+clearance measurements are done during the dialysis 
+treatment and require a process of record keeping to track 
+and compare them with reuse numbers or TCV .
+The facility QAPI (QAPI = Quality Assurance / Perfor-
+mance Improvement) team can correlate the laboratory-
+measured Kt/V with the reuse number across all patients 
+in the dialysis unit, or it can investigate failures to deliver 
+adequate Kt/V or URR as a function of reuse history in a 
+given patient. The QAPI team must show that reuse is not 
+adversely affecting dialysis efficiency.
+4. Disinfection/sterilization. O nce cleaned, the dialyzer must 
+undergo a chemical (germicide) or physical (heat) process 
+that renders all living organisms inactive. High-level dis-
+infection differs from sterilization in that the former may 
+not destroy spores. High-level disinfection is all that cur -
+rent standards require. Sterilization as defined legally is not 
+easily accomplished in a dialysis facility.
+a. Germicides. A fter a dialyzer has been cleaned and tested, 
+germicides are instilled in both blood and dialysate 
+compartments for an appropriate contact duration (see 
+Section I.C.7). Peracetic acid is the most common ger -
+micide used. The use of formaldehyde or glutaraldehyde 
+has essentially disappeared, probably because there are 
+no automated methods for dialyzer reprocessing using 
+formaldehyde or glutaraldehyde, and because manual 
+methods for aldehyde chemical reuse are burdensome, 
+having to meet U.S. Occupational Safety and Health 
+ Administration (OSHA) standards for safe handling, 
+ attention to exposure limits, and surveillance and respi-
+ratory testing for exposed staff.
+b. Documenting the presence of germicide. T he presence of ger -
+micide must be ensured through procedural controls 
+Daugirdas9781451144291-ch013.indd   242 09/10/14   1:12 am
+Chapter 13 / Dialyzer Reuse 243
+and should be verified both at the completion of repro-
+cessing and prior to use (see Section I.B). The presence 
+of peracetic acid is confirmed using test strips. If formal-
+dehyde is used, FD&C (U.S. Food, Drugs & Cosmetic Act) 
+blue dye can be put in the concentrated (37%) formalin 
+to give the dialyzer a light blue color once the formalde-
+hyde is diluted. In manual reprocessing systems, each 
+dialyzer must be checked for the presence of germicide. 
+In automated systems, only a sample needs to be tested 
+each day.
+c. Heat sterilization.  H eated 1.5% citric acid at 95°C (Levin, 
+1995) or the original method of using heated water at 
+105°C (Kaufman, 1992) are nonnoxious chemical alterna-
+tives to disinfection. Laboratory studies have shown that 
+with these methods of disinfection, spores are destroyed. 
+Methods of disinfection using heat with or without citric 
+acid are efficacious; however, they are somewhat cum-
+bersome, as they are not available in automated form. 
+Also, heat disinfection affects the durability of many 
+types of dialyzers being reprocessed. Medical directors 
+electing to use heat disinfection must demonstrate its 
+effectiveness in their dialysis facility and need to design 
+and implement appropriate quality control and auditing 
+procedures.
+5. Final inspection.  A t horough visual inspection of the dialyzer 
+should be made by the reprocessing staff member at the 
+end of a reprocessing procedure, and then again by the PCP 
+when setting up the reprocessed dialyzer prior to the di-
+alysis treatment. If the dialyzer does not meet the visual 
+inspection standards (described in Section I.B), it should 
+be sent for another cycle of reprocessing (e.g., if the germi-
+cide volume is not adequate), or the dialyzer should be dis-
+carded if it is damaged or unaesthetic in appearance.
+6. Labeling. A fter the staff is satisfied that the dialyzer has 
+passed performance testing and inspection, they should af-
+fix a label to the dialyzer in a way that does not obscure the 
+patient’s name or the manufacturer label. At a  minimum, 
+the label should indicate the patient’s name, a warning 
+ regarding the existence of a similar name in the unit, if 
+applicable, the number of reuses, the baseline and cur -
+rent TCV , the time and date the dialyzer was reprocessed, 
+and whether the dialyzer passed performance testing. The 
+same information and additional detail as indicated should 
+be recorded in the reuse master file. If the dialyzer failed 
+any tests and was discarded, this should be recorded. Such 
+information provides data that  the QAPI team can use to 
+assess the quality and consistency of the reuse program.
+7. Storage. O nce inspected and labeled, the dialyzer must be 
+stored in a manner that allows continued surveillance and 
+management of multiple dialyzers assigned to the same pa-
+tient. The temperature of the storage room is important, as 
+Daugirdas9781451144291-ch013.indd   243 09/10/14   1:12 am
+244
+Part II / Blood-Based Therapies
+the recommended germicide contact time depends on stor-
+age temperature. Peracetic acid has a shelf life of 14–21 days, 
+and might be shorter in dialyzers with significant residual 
+blood, as the interaction of residual blood with the perace-
+tic acid reduces its concentration. For this reason, peracetic 
+acid sterilized dialyzers should be re-disinfected every 14 
+days. It is not certain how long a dialyzer (even with periodic 
+re-disinfection) can safely be stored before it should be dis-
+carded. The medical director should specify the time limit 
+for re-disinfection and disposal of stored dialyzers.
+ II. CLINICAL ISSUES. W hen reprocessing is performed in accordance 
+with accepted standards and practices, the risks of the procedure 
+are manageable. Performing in accordance with accepted stan -
+dards is not without challenges. Reprocessing staff may be the 
+least supervised staff in the dialysis facility. In some facilities, re-
+processing is done off-site beyond the supervision of the facility 
+staff. Results of Medicare surveys show numerous citations being 
+issued related to failure to comply with the conditions and stan-
+dards for dialysis reprocessing (Port, 1995). The decision to repro-
+cess dialyzers is a risk versus benefit calculation that the medical 
+director and governing body need to make (Upadhyay, 2007).
+A. Clinical benefits, the argument for
+1. Cost. T his issue is discussed later in the chapter in  
+Section IV .B.
+2. First-use reactions and complement activation. D ialyzer reactions 
+characterized by restlessness, chest pain, coughing, dys-
+pnea, hypoxemia, and hypotension appeared to be less fre -
+quent when reprocessed dialyzers are used, although some 
+patients demonstrate sensitivity to the membrane even with 
+multiply reprocessed dialyzers. One source of these reactions 
+is a membrane–blood interaction  (bio- incompatability) 
+that results in the complement-mediated (alternative path-
+way) sequestration of leucocytes in the pulmonary circula-
+tion. During the use of a dialyzer, the dialyzer membrane 
+becomes coated with proteinaceous material. Many repro-
+cessing methods, especially those using peracetic acid, do 
+not remove this protein coat during the cleaning phase, 
+rendering the membrane more biocompatible during sub -
+sequent use. Reprocessing a dialyzer with bleach has the 
+effect of stripping off this proteinaceous coat, potentially re-
+sulting in a less biocompatible dialyzer. Other reactions may 
+be caused by a true IgE-mediated anaphylactoid reaction 
+to residual ethylene oxide used to sterilize the dialyzer, and 
+still other reactions may be due to uncharacterized compo-
+nents leached from the dialyzer or blood lines. In the course 
+of preprocessing and reprocessing, the dialyzer, ethylene ox-
+ide, and other chemicals used during dialyzer manufacture 
+are removed from the dialyzer, reducing their ability to leach 
+into the patient during dialysis. However, the abandonment 
+of unsubstituted cellulosic membranes, ethylene oxide 
+Daugirdas9781451144291-ch013.indd   244 09/10/14   1:12 am
+Chapter 13 / Dialyzer Reuse 245
+sterilization, and the development of more biocompatible 
+synthetic membranes has markedly reduced the incidence 
+of these reactions with single use, reducing the advantages 
+of reprocessing in this area.
+3. Biohazardous waste.  M ost dialysis providers have to pay a 
+price for the disposal of biohazardous waste that is calcu-
+lated on a per pound basis. Dialyzer reprocessing reduces 
+the number of pounds of dialyzers and packaging included 
+in that waste. This not only saves the dialysis provider 
+money but also reduces the waste burden to the environ-
+ment. On the other hand, there are environmental issues 
+with reprocessing as well: energy as well as water are used 
+in reprocessing, and the chemicals used to clean and dis-
+infect the dialyzers are put into the waste stream and need 
+to be dealt with by sewage treatment facilities. Some waste 
+treatment authorities do not allow users to discharge form-
+aldehyde into the waste water. The gloves, strips, masks, 
+and gowns used in the reprocessing procedure also contrib-
+ute to the waste burden (Hoenich, 2005; Upadhyay 2007).
+B. Clinical concerns, the argument against
+1. Formaldehyde. W hen formaldehyde was in widespread use, 
+providers reported patients who developed anti-N antibod-
+ies (Vanholder, 1988) and acute “formaldehyde reactions” 
+characterized by burning at the needle site and itching dur-
+ing dialysis in the access arm.
+2. Morbidity and mortality. T his is the most contested aspect of 
+dialyzer reuse. Most of the reuse outcomes studies were 
+done during the era of cellulosic dialyzers at the beginning 
+of the introduction of the more expensive more biocompat-
+ible synthetic membranes. To date, the published studies 
+have been observational with all of their associated poten-
+tial for bias and confounding by indication. These earlier 
+studies are not likely to be generalizable to current repro -
+cessing practices. There have been no large prospective, 
+randomized controlled trials of dialyzer reuse versus single 
+use. In a systematic review (Galvao, 2012), the authors con-
+cluded that there was no published evidence supporting 
+an adverse effect on mortality of multiple use compared 
+with single use. A recent study that included the large co-
+hort of patients dialyzed at DaVita (Bond, 2011) showed no 
+adverse effect of multiple use on mortality. A smaller study 
+that followed a sample of patients in 23 Fresenius units 
+who were converted from peracetic acid reprocessing to 
+single use (Lacson, 2011) did show a decreased relative risk 
+of mortality and a reduction in inflammatory markers after 
+conversion to single use. Neither of these two studies was 
+included in the systematic review of Galvao (2012).
+In some early studies, reuse with formaldehyde was as-
+sociated with better outcomes than reuse with peracetic acid 
+(Held, 1994). Formaldehyde, with its vapor pressure, might be 
+considered to provide a larger margin of safety than peracetic 
+Daugirdas9781451144291-ch013.indd   245 09/10/14   1:12 am
+246
+Part II / Blood-Based Therapies
+acid, which depends on direct contact for disinfection. The 
+FDA response to the initial studies was to require significant 
+improvement of the directions for use of peracetic acid and 
+more stringent quality control. Later observational trials in 
+the Medicare database failed to show a difference in out -
+comes between formaldehyde and peracetic acid (Collins, 
+2004). This suggests that facilities using peracetic acid may 
+have become better at reprocessing over time.
+3. Potential bacterial/pyrogen contamination.  Bacteremia and  
+pyrogen reactions can result from improperly processed 
+dialyzers. Clusters of pyrogen reactions occur slightly more 
+often in centers that reuse dialyzers. Clusters of bacteremia 
+caused by gram-negative water-borne bacteria (Stenotro -
+phomonas maltophilia, Burkholderia cepacia , or Ralstonia 
+pickettii) are rarely if ever reported in single-use dialysis 
+facilities, but outbreaks have been reported in facilities 
+using dialyzer reprocessing. The true incidence of these 
+outbreaks is not known, as they are unlikely to be reported 
+unless of such a magnitude or persistence that state or fed-
+eral health authorities are consulted. The source of such 
+problems is generally the water used to rinse and clean the 
+dialyzers and to prepare the germicides used for disinfec-
+tion. Scrupulous attention to water treatment (disinfection, 
+loop path, and flow  velocity) is required (Hoenich, 2003). 
+Any step in the reprocessing procedure that introduces a 
+foreign object and/or unsterile water into the blood com-
+partment is a potential source of cross-contamination. 
+Peracetic acid is less effective in dialyzers with substantial 
+residual blood and protein. Bacteria sequestered in clotted 
+fibers may not be exposed to the sterilant but can be dis-
+lodged during the dialysis treatment.
+4. Potential of anaphylactoid reactions with use of peracetic acid/
+hydrogen peroxide/acetic acid reuse agents and angiotensin-  
+converting enzyme (ACE) inhibitors.  A n outbreak of anaphy-
+lactoid reactions to reused dialyzers occurred in patients 
+dialyzed with cuprammonium cellulose, cellulose acetate, 
+and polysulfone dialyzers reprocessed with peracetic acid. 
+Most were being treated with ACE inhibitors (Pegues, 
+1992). Reuse of dialyzers with oxidizing agents, such as per-
+acetic acid, can produce a strong negative charge on the 
+protein-coated membrane and thereby activate factor XII, 
+kininogen, kallikrein, and, subsequently, bradykinin. ACE 
+inhibitor–induced inhibition of bradykinin degradation 
+may potentiate the reaction. Similar reactions have been 
+described with the use of polyacrylonitrile membrane and 
+attributed to membrane-induced bradykinin generation. In 
+another small case series, reactions in patients taking ACE 
+inhibitors began when bleach was added to the reuse pro-
+cedure and ceased when use of bleach was discontinued 
+(Schmitter and Sweet, 1998). For patients with unexplained 
+adverse reactions early in the treatment, it is appropriate to 
+Daugirdas9781451144291-ch013.indd   246 09/10/14   1:12 am
+Chapter 13 / Dialyzer Reuse 247
+review the medication list for ACE inhibitors, irrespective 
+of reprocessing technique or germicide.
+5. Bleach cleaning and dialyzer reactions. D uring normal dialysis, 
+the dialyzer membrane becomes coated with a protein-
+aceous material, which often has the effect of making the 
+membrane more biocompatible. Reprocessing a dialyzer 
+with bleach has the effect of stripping off this protein-
+aceous coat, potentially resulting in a less biocompatible 
+dialyzer.
+6. Potential transmission of infectious agents. O f concern are hepa-
+titis B (HBV), hepatitis C virus (HCV), and human immuno-
+deficiency virus (HIV). The current Medicare “conditions of 
+coverage” require exclusion of patients with HBV from re-
+use (V301) and instruct that they be dialyzed in a separate 
+isolation room (V128). According to current Centers for 
+Disease Control and Prevention (CDC) recommendations, 
+patients with HIV may continue on a reuse program. HIV 
+patients do not require dialysis in an isolation room. The 
+medical director may wish to exclude HIV patients from re-
+use to limit staff exposure to HIV-infected blood. Currently, 
+CDC neither requires isolation nor proscribes reuse in pa-
+tients with HCV . For HIV and HCV , CDC considers universal 
+precautions adequate to protect staff and other patients.
+7. Potential for decreased dialyzer performance
+a. Urea clearance. A reused hollow-fiber dialyzer ultimately 
+becomes less efficient as a portion of its capillaries become 
+plugged with protein or clot from previous uses. However, 
+as long as the fiber bundle volume is at least 80% of the 
+baseline value, urea clearance remains clinically accept -
+able. The HEMO study confirmed these data and found 
+in a large number of patients using dialyzers reprocessed 
+by different methods, that the decrease in urea clearances 
+(Cheung, 1999) was, at most, modest. The HEMO study 
+found that, independent of the reuse method, urea clear-
+ance decreased 1.4%–2.9% over 20 uses.
+1. Heparin dosing. T he reusability of dialyzers will deterio-
+rate quickly unless adequate heparin anticoagulation 
+is given. One group has reported increased numbers 
+of reuses with individually targeted heparin dosing 
+(Ouseph, 2000). Appropriate heparin dosing is no less 
+important for single-use programs.
+2. Bicarbonate dialysis solution containing citric acid.  Bicar-
+bonate dialysate containing a small amount of citrate 
+in place of acetate has been reported to result in in-
+creased urea clearance in a reuse setting (Ahmad, 
+2005; Sands, 2012). This observation may be related to 
+calcium chelation by citrate coming in from the dialy-
+sate at the membrane boundary layer, with perhaps 
+reduced activation of clotting factors and platelets. 
+This anticoagulant effect is also of potential benefit in 
+single-use programs.
+Daugirdas9781451144291-ch013.indd   247 09/10/14   1:12 am
+248
+Part II / Blood-Based Therapies
+b. β2-microglobulin clearance.  P rotein deposits adsorbed on 
+the membrane or convectively transported to the mem -
+brane surface and not removed by the reuse process may 
+reduce the ultrafiltration rate and larger molecule clear-
+ance. High-flux dialyzer performance with respect to  
+β2-microglobulin clearance may be altered dramatically 
+by reuse, depending on the type of membrane and type of 
+reuse procedure (Cheung, 1999). Of most concern is the 
+rapid falloff in β 2-microglobulin clearance when high-
+flux cellulose dialyzers are reused with peracetic acid/
+hydrogen peroxide/acetic acid without a bleach cycle. 
+This loss of clearance with peracetic acid reuse does 
+not occur with the use of the Novaflux reprocessing ma-
+chine, where the use of the air-fluid two-phase cleaning 
+system appears to maintain both water permeability and 
+clearance of higher-molecular-weight molecules.
+8. Albumin loss.  S ome dialyzers exposed to bleach during re-
+use procedures may undergo an increase in permeabil-
+ity to albumin that correlates with the number of reuses. 
+This is most pronounced for dialyzers with very high water 
+permeability.
+ III. OTHER ISSUES
+A. Regulatory aspects
+1. US federal regulations. T here are guidelines for dialyzer reuse 
+(NKF, 2007) that are useful for medical directors to review 
+and consider in developing and/or managing a dialyzer re-
+use program. The Medicare “conditions for coverage” that 
+incorporate the AAMI standards (V304–V368, RD47:2002) 
+are the controlling rules. The medical director is responsible 
+for the decision to have a reprocessing program (V311). That 
+decision should be reflected in the minutes of the governing 
+body. The medical director is accountable for the training 
+and competence of the staff performing reuse (V308 ff). The 
+patient’s nephrologist must agree to and order reprocessing 
+for his or her patient (V311). The medical director must sus-
+pend reuse when there is a cluster of adverse patient events 
+that could be attributed to the reuse program (V382). The 
+reuse program should be the subject of ongoing review and 
+monitoring by the facility QAPI team (V594, V626).
+2. Manufacturer single-use recommendation.  B ecause of the pre-
+vious widespread practice of reusing dialyzers labeled 
+for single use only, the FDA developed guidelines that al-
+low manufactures to label their dialyzers for multiple use, 
+recommend an appropriate reuse method, and provide 
+performance data of dialyzers over 15 reuses (FDA, 1995). 
+Dialyzer manufacturers may choose to continue to label 
+their dialyzers for single use only.
+3. Reuse of other dialysis disposables.  M edicare conditions do 
+not allow reuse of transducer protectors. Guidelines for 
+Daugirdas9781451144291-ch013.indd   248 09/10/14   1:12 am
+Chapter 13 / Dialyzer Reuse 249
+the reuse of blood tubing have been published (Reuse of 
+hemodialyzers, AAMI, 2002). However, blood tubing reuse 
+is permitted only when the manufacturer has developed a 
+specific protocol that has been accepted by the FDA. Cur -
+rently, no such product is available.
+4. Informed consent. T here is no rule requiring informed consent 
+as a condition for reprocessing dialyzers. The Medicare con-
+ditions require that patients and their family (caregivers) be 
+fully informed about all aspects of their care. For reuse, the 
+facility should provide written information about the risks 
+and benefits of reprocessing in language appropriate for the 
+patient. The information should describe the rationale for 
+the program. The patient should be invited to participate as 
+fully as he or she is interested in assuring that the dialyzer is 
+appropriately identified and safe for reuse.
+B. Cost. T he strongest argument for multiple-use dialyzers is 
+that cost savings enable the use of dialyzers that have higher 
+mass transfer coefficients and that are more biocompatible. 
+This argument is less compelling as the cost of efficient, high-
+flux dialyzers has been reduced. Additionally, since the United 
+States is the major market for dialyzers labeled for multiple 
+use, manufacturers may choose not to go through the expense 
+and requirements of certifying the dialyzer for multiple use 
+just to satisfy the US market. This has the paradoxical effect of 
+reducing the choices of dialyzers available to patients. When 
+providers consider all the costs of reprocessing dialyzers, the 
+difference may be small. While the initial cost of the multiple-
+use dialyzer is more than the equivalent dialyzer labeled for 
+single use, the average cost of the multiple-use dialyzer falls 
+with each reuse. The true cost of the multiple-use dialyzer can-
+not fall below the cost of reprocessing, no matter how many 
+times it is used. The cost of reprocessing includes the wages 
+and benefits for the reprocessing staff, the cost of training and 
+documenting and maintaining competence. Providers must 
+consider the capital cost and depreciation cost of the repro-
+cessing equipment. Additionally, each reprocessing cycle con-
+sumes electricity, water, cleaning chemicals, and germicides. 
+Costs of test strips, routine cultures, and Limulus amebocyte 
+lysate (LAL) tests for reuse water must also be factored in, as 
+must the cost of the additional QAPI procedures necessary to 
+maintain a safe and effective reuse program.
+C. Quality assurance and performance improvement. T he reuse program 
+must be part of the QAPI program under the accountability of 
+the medical director (V594, V626). QAPI records must track 
+staff training, continued staff competence, audits, validation, 
+microbiology, average number of reuse, reasons for failure, ad-
+verse events, patient complaints, and the root cause analysis of 
+any event requiring the suspension of reuse. The requirements 
+are detailed in the AAMI standards. The facility must maintain 
+a history of the dialyzer from preprocessing to disposal.
+Daugirdas9781451144291-ch013.indd   249 09/10/14   1:12 am
+250
+Part II / Blood-Based Therapies
+D. T raining.  A  comprehensive training course should be estab -
+lished for all personnel performing reprocessing. Competence 
+should be verified for each item on the curriculum. The medi-
+cal director is accountable for the training program and com-
+petent performance of the staff (V308 ff).
+E. Personnel safety and physical plant considerations.  T he use of pro-
+tective eyewear and clothing is stressed, as is proper handling 
+of germicide spills. Where germicides are used, the workspace 
+should be designed with air turnover at least equivalent to the 
+clinical area with forced inward air and additional ceiling ex -
+haust ducts, as well as ducts located lower toward the floor if 
+formaldehyde is used. Exposure to germicides is regulated by 
+OSHA. Current (1990) maximum allowable time-weighted aver-
+age (TWA) exposure for formaldehyde is 1 ppm and for short-
+term exposure is 3 ppm. Maximum exposure limits for hydrogen 
+peroxide is 1 ppm TWA and for glutaraldehyde is 0.2 ppm. There 
+are no current OSHA exposure limits for peracetic acid.
+References and Suggested Readings
+Ahmad S, et al. Increased dialyzer reuse with citrate dialysate. Hemodial lnt. 
+2005;9:264–267.
+Association for the Advancement of Medical Instrumentation. Reuse of Hemodialyzers. 
+Washington, DC: American National Standards Institute; 2002. ANSI/AAMI RD47.
+Association for the Advancement of Medical Instrumentation. Dialysate for Hemodi-
+alysis. Arlington, VA: Association for the Advancement of Medical Instrumenta-
+tion; 2004. ANSI/AAMI RD52.
+Association for the Advancement of Medical Instrumentation. AAMI Standards—  
+Dialysis. Arlington, VA: Association for the Advancement of Medical Instrumen-
+tation; 2011.
+Bond TC, et al. Dialyzer reuse with peracetic acid does not impact patient mortality. 
+Clin J Am Soc Nephrol. 2011;6:1368–1374.
+Charoenpanich R, et al. Effect of first and subsequent use of hemodialyzers on patient 
+well being. Artif Organs. 1987;11:123.
+Cheung A, et al. Effects of hemodialyzer use on clearances of urea and beta-2 micro-
+globulin. The Hemodialysis (HEMO) Study Group. J Am Soc Nephrol. 1999;10:117–
+127.
+Collins AJ, et al. Dialyzer reuse-associated mortality and hospitalization risk in in-
+cident Medicare haemodialysis patients, 1998–1999. Nephrol Dial Transplant . 
+2004;19:1245–1251.
+ESRD interpretive guidance. 2008. http://www.cms.gov/Medicare/Provider-  
+Enrollment-and-Certification/GuidanceforLawsAndRegulations/Downloads/
+esrdpgmguidance.pdf.
+Fan Q, et al. Reuse-associated mortality in incident hemodialysis patients in the United 
+States, 2000–2001. Am J Kidney Dis. 2005;46:661–668.
+Food and Drug Administration (FDA). Guidance for hemodialyzer reuse labeling.  U.S. 
+Food and Drug Administration, Rockville, MD.  October 6, 1995.   http://www.fda 
+.gov/downloads/MedicalDevices/DeviceRegulationandGuidance/  
+GuidanceDocuments/UCM078470.pdf.  Last accessed 08/04/2014.
+Galvao F, et al. Dialyzer reuse and mortality risk in patients with end-stage renal dis-
+ease: a systematic review. Am J Nephrol. 2012;35:249–258.
+Gotch FA, et al. Effects of reuse with peracetic acid, heat and bleach on polysulfone 
+dialyzers [Abstract]. J Am Soc Nephrol. 1994;5:415.
+Hakim RM, Friedrich RA, Lowrie EG. Formaldehyde kinetics in reused dialyzers. Kidney 
+Int. 1985;28:936.
+Held PJ, et al. Analysis of the association of dialyzer reuse practices and patient out-
+comes. Am J Kidney Dis. 1994;23:692–708.
+Daugirdas9781451144291-ch013.indd   250 09/10/14   1:12 am
+Chapter 13 / Dialyzer Reuse 251
+HICPAC. Guideline for disinfection and sterilization in healthcare facilities. 2008. 
+http://www.cdc.gov/hicpac/disinfection_sterilization/13_06peraceticacidsterili
+zation .html. Accessed March 3, 2014.
+Hoenich NA, Levin R. The implications of water quality in hemodialysis. Semin Dial. 
+2003;16:492–497.
+Hoenich NA, Levin R, Pearce C. Clinical waste generation from renal units: implica-
+tions and solutions. Semin Dial. 2005;18:396–400.
+Kaplan AA, et al. Dialysate protein losses with bleach processed polysulfone dialyzers. 
+Kidney Int. 1995;47:573–578.
+Kaufman AM, et al. Clinical experience with heat sterilization for reprocessing dialyz-
+ers. ASAIO J. 1992;38:M338–M340.
+Kliger AS. Patient safety in the dialysis facility. Blood Purif. 2006;24:19–21.
+Lacson E, et al. Abandoning peracetic acid-based dialyzer reuse is associated with 
+improved survival. Clin J Am Soc Nephrol. 2011;6:297–302.
+Levin NW , et al. The use of heated citric acid for dialyzer reprocessing. J Am Soc 
+Nephrol. 1995;6:1578–1585.
+Lowrie EG, et al. Reprocessing dialyzers for multiple uses; recent analysis of death risks 
+for patients. Nephrol Dial Transplant. 2004;19: 2823–2830.
+National Kidney Foundation task force on the reuse of dialyzers. Am J Kidney Dis.  
+2007;30:859–871.
+Neumann ME. Moderate growth for dialysis providers. Nephrol News and Issues. 
+2013;27:18.
+Ouseph R, et al. Improved dialyzer reuse after use of a population pharmacodynamic 
+model to determine heparin doses. Am J Kidney Dis. 2000;35:89–94.
+Pegues DA, et al. Anaphylactoid reactions associated with reuse of hollow fiber hemo-
+dialyzers and ACE inhibitors. Kidney Int. 1992;42:1232–1237.
+Pizziconi VB. Performance and integrity testing in reprocessed dialyzers: a QC update. 
+In: AAMI, ed. AAMI Standards and Recommended Practices. Vol 3. Dialysis. Arling-
+ton, VA: AAMI; 1990:176.
+Port FK. Clinical outcomes in patients with reprocessed dialyzers. Paper presented at: 
+National Kidney Foundation Symposium on Dialyzer Reprocessing; November 3, 
+1995; San Diego, CA.
+Rahmati MA, et al. On-line clearance: a useful tool for monitoring the effectiveness of 
+the reuse procedure. ASAIO J. 2003;49:543–546.
+Rancourt M, Senger K, DeOreo P . Cellulosic membrane induced leucopenia after 
+ reprocessing with sodium hypochlorite. Trans Am Soc Artif Intern Organs. 
+1984;30:49–51.
+Sands JJ, et al. Effects of citrate acid concentrate (Citrasate®) on heparin requirements 
+and hemodialysis adequacy: a multicenter, prospective noninferiority trial. Blood 
+Purif. 2012;33:199–204.
+Schmitter L, Sweet S. Anaphylactic reactions with the additions of hypochlorite to 
+reuse in patients maintained on reprocessed polysulfone hemodialyzers and ACE 
+inhibitors. Paper presented at: Annual Meeting of the American Society for Artifi-
+cial Internal Organs; April 1998; New Orleans.
+Vanholder R, et al. Development of anti-N-like antibodies during formaldehyde reuse 
+in spite of adequate predialysis rinsing. Am J Kidney Dis. 1988;11:477–480.
+Twardowski ZJ. Dialyzer reuse—part I: historical perspective. Semin Dial. 2006;19:41–53.
+Twardowski ZJ. Dialyzer reuse—part II: advantages and disadvantages. Semin Dial. 
+2006;19:217–226.
+Upadhyay A, Sosa MA, Javer BL. Single-use versus reusable dialyzers: the known and 
+unknowns. Clin J Am Soc Nephrol. 2007;2:1079–1086.
+US Renal Data System. USRDS Annual Report. Bethesda, MD: USRDS; 2004.
+Verresen L, et al. Bradykinin is a mediator of anaphylactoid reactions during hemodi-
+alysis with AN69 membranes. Kidney Int. 1994;45:1497–1503.
+Wolff, SW . Effects of Reprocessing on Hemodialysis Membranes [doctoral thesis in 
+chemical engineering]. Department of Chemical Engineering, Pennsylvania State 
+University College of Engineering; 2005.
+Zaoui P , Green W , Hakim M. Hemodialysis with cuprophane membrane modulates 
+interleukin-2 receptor expression. Kidney Int. 1991;39:1020.
+Daugirdas9781451144291-ch013.indd   251 09/10/14   1:12 am

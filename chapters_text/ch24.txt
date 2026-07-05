@@ -1,0 +1,657 @@
+451
+Peritoneal dialysis (PD) was the first successfully used modality of 
+renal replacement therapy in acute kidney injury (AKI) patients. 
+However, its use progressively declined after 1970 due to the greater 
+convenience of acute hemodialysis, and it is now predominantly 
+practiced in developing countries because of its lower cost and mini-
+mal infrastructure requirements. Recently, however, interest in using 
+PD to manage selected AKI patients has been increasing (Ghaffari, 
+2013b), and a meta-analysis suggests outcomes equivalent to those 
+with HD (Chionh, 2010).
+ I. INDICATIONS
+A. Advantages. PD offers several advantages over hemodialysis 
+in AKI. It is technically simple, with minimal infrastructure 
+requirements and often lower cost. It may be the better option 
+for the patient with difficult vascular access. Solute and water 
+removal is gradual, with less potential for the development of 
+disequilibrium syndrome, cardiovascular stress, and abrupt 
+reductions in blood pressure. These potential benefits may, in 
+turn, reduce the risk of renal and cardiac ischemia, fluid and 
+electrolyte imbalance, and intracranial fluid shifts. No extra-
+corporeal circulation is required, thus reducing the potential 
+proinflammatory changes that can occur with the exposure 
+of blood to synthetic tubing and membranes. Taken together, 
+these factors could potentially be beneficial in permitting 
+more rapid recovery of renal function.
+Besides the classical indications (volume overload, elec -
+trolyte disorders, uremic symptoms, or acid–base distur -
+bances), acute PD can also be used to maintain volume control 
+in patients with congestive heart failure (CHF) functional class 
+IV , to control hyper- or hypothermia, and to treat necrotizing 
+pancreatitis with peritoneal lavage. Acute PD is increasingly 
+being used in cases of advanced chronic kidney disease (CKD) 
+presenting urgently with uremia or fluid overload, a scenario 
+described as “urgent start PD.”
+In the setting of natural disasters such as earthquakes, 
+when several victims will develop AKI and when damage to 
+Peritoneal Dialysis for 
+the Treatment of Acute 
+Kidney Injury
+Daniela Ponce, André Luis Balbi, and 
+Fredric O. Finkelstein
+24
+Daugirdas9781451144291-ch024.indd   451 11/10/14   2:36 am
+Part III / Peritoneal Dialysis
+452
+infrastructure make access to power, clean water, and facilities 
+for water treatment challenging, PD can be an important and life-
+saving renal replacement modality. Table 24.1 outlines the advan-
+tages and disadvantages of PD to treat patients with AKI.
+B. Limitations. PD is relatively contraindicated in patients with 
+recent abdominal surgery, large abdominal hernias,  adynamic 
+ileus, intra-abdominal adhesions, peritoneal fibrosis, or peri -
+tonitis. Since volume and solute removal are slow and at times 
+unpredictable, PD is not as safe and efficient as extracorpo-
+real blood purification techniques for the treatment of certain 
+emergencies, such as acute pulmonary edema, life- threatening 
+hyperkalemia, and drug overdoses. The ability of PD to achieve 
+adequate doses in hypercatabolic AKI has been a subject of 
+controversy. Some authors have expressed concern over PD 
+adequacy in these situations (Phu, 2002). However, there are 
+also reports of positive outcomes associated with PD in hyper-
+catabolic AKI patients, especially when intensive PD regimens 
+were used (Chitalia, 2002; Ponce, 2012b).
+PD increases intra-abdominal pressure, which may lead 
+to impaired diaphragm mobilization, decreasing pulmonary 
+compliance and ventilation, and this may cause or worsen 
+respiratory failure. However, patients on PD generally maintain 
+their vital capacity and respiratory volume, and PD is seldom 
+the cause of ventilation impairment in patients without pulmo-
+nary disease. Another possible limitation of PD in AKI is that 
+Advantages Disadvantages
+Simple to initiate Needs an intact peritoneal cavity 
+with adequate peritoneal clearance 
+capacity
+Can be initiated anywhere Adequacy may be of concern in 
+hypercatabolic patients
+No need for highly skilled personnel May not be adequate for patients with 
+severe acute pulmonary edema or life-
+threatening hyperkalemia
+No need for vascular access Ultrafiltration and clearance cannot be 
+exactly predicted
+No need for expensive equipment Infection (peritonitis) can occur
+No exposure of blood to plastic The standard buffer used is lactate
+No need for anticoagulation Concern about protein losses
+Minimum blood loss Can aggravate hyperglycemia
+Possible less negative impact on 
+recovery of renal function
+Can impair respiratory mechanics
+May be of special benefit in selected 
+patients (children, or patients with 
+heart failure, hemodynamic instability, 
+bleeding diathesis)
+Is a form of continuous renal 
+replacement therapy
+Advantages and Disadvantages of Peritoneal Dialysis in 
+Acute Kidney Injury24.1
+TABLE
+Daugirdas9781451144291-ch024.indd   452 11/10/14   2:36 am
+Chapter 24 / Peritoneal Dialysis for the Treatment of Acute Kidney Injury 453
+associated protein losses may aggravate malnutrition. Protein 
+supplementation, either enteral or parenteral (1.5 g/kg per day) 
+has been recommended for AKI patients on PD.
+The high glucose concentrations in peritoneal dialysate 
+may cause hyperglycemia, even in nondiabetic patients. This 
+is easily correctable through intravenous, subcutaneous, 
+or intraperitoneal administration of insulin. Peritonitis is a 
+potential problem. Older studies reported a high frequency of 
+peritonitis. However, with better catheter implantation tech -
+niques, improved connectology, and automated methods, the 
+incidence has been reduced and the risk is similar to the inci-
+dence of infections with extracorporeal blood purification for 
+AKI (Ponce, 2011a).
+ II. TECHNICAL ASPECTS
+A. Peritoneal access. Safe and efficient access to the peritoneal cav-
+ity is a crucial factor for PD success. For many years, bedsides 
+insertion of a rigid catheter using a trocar was the standard 
+technique to access the peritoneal cavity for acute PD. This 
+technique is still used routinely in many parts of the world, but 
+its use has declined with the introduction of simple procedures 
+for insertion of a flexible, cuffed Tenckhoff catheter, which pro-
+vides the optimal access for PD. Depending on availability, a 
+single- or double-cuff Tenckhoff catheter—either straight or 
+swan neck—can be used in AKI. The advantages of a Tenckhoff 
+catheter over the rigid catheter include  having a lower inci-
+dence of leakage, larger-diameter lumen, and side holes result-
+ing in better dialysate flow rates,  and less obstruction as well 
+as a decreased incidence of peritonitis. Furthermore, the rigid 
+catheters need to be removed after 3–5 days, while the flexible, 
+cuffed catheters can be left in indefinitely. Thus, if the patient 
+does not recover renal function, the catheter may be used for 
+chronic dialysis. Of course, it may be necessary to use alterna-
+tive catheters with a  rigid stylet, or even improvised options 
+such as nasogastric tubes or surgical drains, in resource-poor 
+environments where flexible, cuffed catheters are not avail -
+able or are too costly.
+Tenckhoff catheters can be inserted under local anaes -
+thesia at the bedside, in a designated treatment room, or in 
+a surgical theater. In a patient with previous abdominal sur -
+gery, laparoscopic or open technique is preferred, and this will 
+usually require an operating room and a surgeon. In patients 
+without previous surgery, no method of insertion is proven 
+to be superior to any other. Rather, the method of implanta-
+tion should be based on local availability of skills, equipment, 
+and consumables. The bedside insertion utilizes a modified 
+ Seldinger approach with a guidewire and “peel-away” sheath 
+and is a method practised by many nephrologists. The cath-
+eter is inserted as a blind procedure and therefore this method 
+should be avoided, if possible, in those patients who have a 
+ midline surgical scar or history to suggest intra-  abdominal 
+Daugirdas9781451144291-ch024.indd   453 11/10/14   2:36 am
+Part III / Peritoneal Dialysis
+454
+adhesions. For details of catheter insertion mehods see 
+ chapter 23.
+B. PD solutions. Commercially prepared PD solutions are optimal 
+because they have the advantage of minimizing the risks of 
+errors in mixing fluids and of contamination, and of incorporat-
+ing standardized and generally accepted connectology. Where 
+these are not available because of logistical problems or costs, 
+locally mixed fluids can be used, but sterile production and 
+mixing of solutions as well as use of sterile connection devices 
+are imperative. Such locally made PD fluids can be produced 
+from physiological intravenous fluids by adding glucose and 
+bicarbonate.
+The composition of standard PD solutions is shown 
+in Table 22.1. Other commercial intravenous solutions that 
+can relatively easily be converted into dialysis fluids include 
+Ringer’s lactate, Hartmann’s solutions, half normal saline, and 
+Plasmalyte B. Standard PD solutions generally use lactate as a 
+buffer; this is converted to bicarbonate mainly through liver 
+and muscle pyruvate dehydrogenase enzymes. In critically ill 
+AKI patients (such as those with shock, poor tissue perfusion 
+states, liver failure, etc.), there may be impaired conversion of 
+lactate to bicarbonate, which can aggravate metabolic acido-
+sis. In such patients, bicarbonate-containing PD solutions may 
+be preferable. However, one small study randomized 20 AKI 
+patients to treatment with either lactate- or bicarbonate-based 
+PD and showed that while bicarbonate PD solution allowed 
+better correction of metabolic acidosis and was associated 
+with better hemodynamic stability, there were no differences 
+in patient outcomes when compared to standard lactate solu-
+tion (Thongboonkerd, 2001).
+C. PD modalities. The process of dialysate instillation and removal 
+can be automated with a PD cycler. The advantage of this sys-
+tem is that it can be set up by a trained staff member to reduce 
+the risk of complications. It reduces nursing time as all cycles 
+are automatic, and there is some suggestion that peritonitis 
+is less likely. Automated cyclers have been used extensively to 
+perform PD in AKI, particularly when high-volume peritoneal 
+dialysis (HVPD) is used. However, in a resource-poor setting, 
+cyclers may be unavailable or too expensive.
+The choice of the type of PD to be utilized should be based 
+on the experience of the medical and nursing team, avail-
+able resources, the safety and efficacy of the technique, and 
+the needs of the individual patient. An illustration of various 
+techniques applicable to AKI is provided in Figure 24.1 and 
+Table 24.2.
+1. Intermittent PD (IPD).  This is the PD technique that histori -
+cally has been most frequently used in AKI and it is still the 
+most common, being routinely practiced in many parts of
+the world. Patients are treated for 48–72 hours, or occa-
+sionally longer, with rapid installation and drainage of
+fluid and a dwell time of 30–60 minutes. A trocar-style PD
+Daugirdas9781451144291-ch024.indd   454 11/10/14   2:36 am
+Chapter 24 / Peritoneal Dialysis for the Treatment of Acute Kidney Injury 455
+catheter is traditionally used and removed after the dialysis 
+treatment is completed, but Tenckhoff catheters are a bet -
+ter option and are increasingly available. Since the dialysis 
+is interrupted when the catheter is removed, the weekly 
+small-solute clearance is limited and might be inadequate 
+in hypercatabolic, critically ill AKI patients. There are no 
+recent large studies addressing this issue. Modeling sug-
+gests that IPD can deliver appropriate amounts of dialysis 
+in a fairly broad range of clinical circumstances, depending 
+on the degree of residual renal function (Guest, 2012).
+2. Continuous equilibrated PD (CEPD). This type of PD is similar to 
+CAPD. A dwell time from 2 to 6 hours is typical, and the 
+CEPD can be performed manually or with a cycler. Several 
+reports of limited number of patients successfully treated 
+by this method can be found from the 1980s onward. The 
+clearance of small molecules and fluid removal with this 
+methodology depend on the frequency and volume of 
+FIGURE 24.1 Illustration of the techniques of PD used for AKI patients. IPD, Intermittent 
+PD; CEPD continuous equilibrated PD; HVPD, high volume PD; TDP , tidal PD.
+IPD
+CEPD
+HVPD
+TPD
+Time (hours)
+PD 
+Types
+Urea 
+ Clearance 
+(mL/min)
+Dwell 
+Time 
+(min)
+Volume/
+Cycle
+Total 
+ Volume 
+(L)
+Session 
+Duration 
+(hr)
+ Sessions 
+per 
+Week
+Weekly 
+Kt/V
+IPD 12–20 30–60 2 L 30–48 24 2–5 —
+CEPD 10–15 180–300 2 L 8–16 24 7 1.8–2.1
+TIDAL 10–15 10–30 2 L fill 12–30 18–24 7/
+duration
+Variable 
+cycle 
+volume
+HVPD 15–20 35–60 2 L 36–44 24 7 3.5–3.8
+Different Types of Peritoneal Dialysis and Selected Features
+24.2
+TABLE
+Daugirdas9781451144291-ch024.indd   455 11/10/14   2:36 am
+Part III / Peritoneal Dialysis
+456
+exchanges and need to be determined based on the clinical 
+status of the patient.
+3. Tidal PD (TPD).  TPD is performed with a dedicated cycler.
+In TPD, an initial large infusion of PD solution is followed
+by drainage of a portion of the dwell volume, typically
+50%–75% of the initial volume, which is then replaced with 
+fresh solution, restoring the initial intraperitoneal volume
+at each cycle. TPD may result in higher small-MW-solute
+clearances than CEPD, though not all studies have found
+this. TPD also may reduce the frequency of pain on drain-
+age of dialysate from the abdomen.
+4. High-volume PD (HVPD).  HVPD is a continuous modality
+designed to achieve high small-MW-solute clearances. It
+requires an automated cycler and a Tenckhoff catheter.
+Each day the total PD solution delivered ranges from 36
+to 44 L with a 30- to 50-minute dwell time. The efficacy of
+HVPD has been tested in several prospective studies involv-
+ing seriously ill AKI patients in Brazil. With HVPD, a weekly
+Kt/V of 3.8 ± 0.6 could be delivered, and the mortality rate
+was around similar to that in AKI patients treated with
+intermittent or extended daily hemodialysis (Gabriel, 2008).
+III. PRESCRIBING AND DOSING OF ACUTE PD.  The most appropriate pre-
+scription and dose for PD in the management of patients with
+AKI is poorly defined because there are only a limited number
+of trials available to compare treatment modalities, the studies
+that have been done have methodological flaws, and the dose of
+dialysis used has varied widely (Chionh, 2010).
+Where resources permit and where a cuffed catheter can be 
+placed, using HVPD targeting a Kt/V urea of 0.5 daily (3.5 weekly) 
+is associated with outcomes comparable to that of daily HD; 
+targeting higher doses does not appear to improve outcome 
+(Gabriel, 2008). A review of the literature suggests that such a 
+high dose may not be necessary for many patients with AKI and 
+that targeting a daily Kt /V of 0.3 (2.1 weekly) with a modified 
+CEPD approach may be adequate for many patients (Cionh, 2010; 
+ Ivarsen, 2013). This may be particularly helpful in developing 
+countries where resources are limited, costs are critical, and AKI 
+is more often caused by infections, volume contraction, obstetri-
+cal problem, and so on, rather than complex postsurgical compli-
+cations with multiorgan failure.
+During the initial 24 hours of therapy, the cycler dwell time 
+needs to be dictated by the clinical circumstances of the patient. 
+Short cycle times (every 1–2 hours) with dwell volumes of 1.5 or 
+2 L may be necessary to correct hyperkalemia, fluid overload, or 
+metabolic acidosis. Thereafter, the cycle time can be increased 
+but generally not beyond 4–6 hours. Ultrafiltration is regulated 
+by adjusting the dextrose concentration of the solution and by 
+shortening the cycler dwell time.
+A. How to prescribe acute PD.  As the dialysis requirements of a 
+patient may change from day to day, it is prudent to write PD 
+Daugirdas9781451144291-ch024.indd   456 11/10/14   2:36 am
+Chapter 24 / Peritoneal Dialysis for the Treatment of Acute Kidney Injury 457
+orders for only 24 hours at a time, reassessing and altering 
+the prescription as indicated. A standardized form for acute 
+PD prescriptions is helpful in assuring that the specifications 
+of the procedure are complete and clear for the nursing staff 
+responsible for its delivery (Table 24.3).
+1. Exchange volume. Choice of exchange volume is dictated pri-
+marily by the size of the peritoneal cavity. An average-sized 
+adult can usually tolerate 2-L exchanges, but in smaller 
+patients, those with pulmonary disease, and those with 
+abdominal wall or inguinal hernias, the volume should be 
+reduced. Although initiating acute PD with a 2-L exchange 
+A. Nursing orders
+1. Dialysis to run________hours
+2. Exchange volume: ________L
+3. Warm dialysis fluid to 37°C
+4. Exchange time: Inflow 10 minutes
+Dwell________minutes
+Outflow 20 minutes or as long as fluid drains freely
+DO NOT LEAVE FLUID IN ABDOMEN
+5. Strict intake and output to be kept on fluid intake–output record
+6. Dialysate balance to be recorded on peritoneal dialysis record
+7. Dialysis fluid running balance to be maintained at: ________L
+8. Dialysate solution: ________%
+9. Additives to dialysate:
+Medication dose frequency
+________ ________/2 L q exchange or ×________exchanges
+________ ________/2 L q exchange or ×________exchanges
+ 10. Heparin: 1,000 units/2 L q exchange: yes/no
+ 11. Turn and position patient p.r.n. for optimum outflow
+ 12. Vital signs q________hours
+ 13. Catheter care and dressing change every day
+ 14. Withdraw 15 mL dialysis fluid from catheter port every morning during 
+dialysis and send for cell count with differential, and culture and 
+sensitivity: yes/no
+B.
+ Blood draw orders:
+1. BUN, creatinine, HCO3, Na, K, Cl, and glucose 8 a.m. and 6 p.m. each day 
+during dialysis
+C. Notify physician immediately for:
+1. Poor dialysate flow
+2. Severe abdominal pain or distention
+3. Bright red blood or cloudy dialysate drain
+4. Dialysate leak or purulent drainage around catheter exit site
+5. Blood pressure of <________ mm Hg systolic
+6. Respiration rate of >________/minute, or severe shortness of breath
+7. Temperature of >________°C
+8. Two consecutive positive exchanges
+9. Single positive exchange balance (dialysate-IN – dialysate-OUT) of 
+≥1,000 mL
+ 10. If negative balance exceeds ________ L over ________ hours
+BUN, blood urea nitrogen.
+Acute Peritoneal Dialysis Sample Orders
+24.3
+TABLE
+Daugirdas9781451144291-ch024.indd   457 11/10/14   2:36 am
+Part III / Peritoneal Dialysis
+458
+volume is standard, some nephrologists prefer to start 
+with smaller volumes (1–1.5 L) for the first few exchanges 
+to minimize the risk of leaks. Otherwise, one should not 
+reduce the exchange volume without good reason as 
+this leads to lower clearances. In large or very catabolic 
+patients, an exchange volume of 2.5–3 L may be helpful to 
+augment the efficiency of dialysis.
+2. Exchange time. This is the combined time required for inflow, 
+dwell, and drain. If the aim is to maximize small-  solute 
+clearance, the exchange time should be relatively short at 
+about 1–2 hours, but in CEPD, longer times are routine.
+a. Inflow time. Inflow is by gravity or hydraulically pumped 
+with a cycler and usually requires about 5–10 minutes 
+(200–300 mL/min). Inflow time is dictated by the volume 
+to be infused and, with manual systems, the height of the 
+dialysis solution above the patient’s abdomen. It may 
+be prolonged due to kinking of the tubing or increased 
+inflow resistance by intra-abdominal tissues in close 
+proximity to the catheter tip. On initiation of acute PD, 
+some patients may experience pain or cramping with 
+inflow of PD solution. This may result from the hyper -
+tonic and acidic nature of the PD fluid and often improve 
+with time but, when severe, may be relieved by slowing 
+the dialysate inflow rate for several exchanges. Other -
+wise, inflow time should be kept to a minimum to maxi-
+mize dialysis efficiency. Cold PD solution can result in 
+discomfort and hypothermia, and so the solution should 
+be warmed to 37°C before infusion.
+b. Dwell time. The dwell period is the time during which the 
+total exchange volume is present in the peritoneal cavity 
+(i.e., the time from the end of inflow to the beginning of 
+outflow). When initiating PD in acutely ill and catabolic 
+patients, the usual dwell time is 30 minutes to achieve 
+an exchange time of 60 minutes. With a 2-L exchange 
+volume, as much as 48 L of fluid can be exchanged daily. 
+Given a peritoneal membrane with average transport 
+characteristics, the urea concentration in the drained 
+dialysate will be approximately 50%–60% of that in the 
+plasma (D/P ratio of 0.5–0.6 at 1 hour). Thus, with an 
+aggressive dialysis exchange rate of 2 L/hr, the plasma 
+urea clearance could approximate 24–29 L per day  
+(0.5–0.6 × 48 L per day) or 168–202 L per week. If 
+the patient is not very catabolic, a longer dwell time 
+(e.g.,  1.5–6 hours) can often be used. With a 4-hour 
+exchange time (dwell time 3.5 hours), the dialysate urea 
+concentration is, on average, 90% of that in the plasma 
+(D/P ratio of 0.9 at 4 hours). This leads to a plasma urea 
+clearance of at least 11 L per day (0.9 × 12 L per day), or 
+77 L per week. Assuming an ultrafiltration rate of 1 L per 
+day, this would add 6.3 L of clearance per week, making a 
+total clearance of 83 L per week. In terms of weekly Kt /V 
+Daugirdas9781451144291-ch024.indd   458 11/10/14   2:36 am
+Chapter 24 / Peritoneal Dialysis for the Treatment of Acute Kidney Injury 459
+urea (see what follows), the weekly clearance of 83 L is 
+the (K × t) term. For a 70-kg male patient with a V of 42 L, 
+weekly (K × t)/V would be 83/42 or about 2.0.
+c. Outflow time. Outflow of spent dialysate is by gravity and 
+usually requires 20–30 minutes. Outflow time depends 
+on the total volume to be drained, the resistance to out-
+flow, and, with manual methods, the difference in height 
+between the patient’s abdomen and the drainage bag. In 
+many patients, particularly those with large abdomens, 
+the first exchange may not drain completely (often only 
+1–1.5 L is retrieved) due to initial filling of poorly drain-
+ing areas of the abdomen. As long as marked abdominal 
+distension is not present, a second exchange of 2 L can 
+be cautiously instilled. Subsequent drainage usually pro-
+ceeds normally.
+3. Choosing the dialysis solution dextrose concentration
+a. Standard 1.5% dextrose (glucose monohydrate).  This concen -
+tration of dextrose (approximately 1,360 mg glucose/dL 
+[75 mmol/L]) will, in general, exert an osmotic force suf-
+ficient to remove 50–150 mL fluid/hr (although this may 
+vary from patient to patient) when using a 2-L exchange 
+volume and a 60-minute exchange time. This ultrafiltra-
+tion rate could translate into fluid removal of 1.2–3.6 L 
+per day.
+b. Higher concentrations of dextrose.  Greater fluid removal 
+can be achieved with higher dextrose concentrations. 
+A 4.25% dextrose solution can result in an ultrafiltra-
+tion rate of 300–400 mL/hr. Acutely, this degree of fluid 
+removal can be required for the treatment of conges-
+tive heart failure or marked volume overload. However, 
+continued use of the 4.25% solution could theoretically 
+result in the removal of 7.2–9.6 L per day and cause 
+marked hypernatremia. In practice, this degree of fluid 
+removal is rarely required. Available dextrose solutions 
+(i.e., 1.5%, 2.5%, or 4.25% exchanges) can be adjusted 
+to provide the level of ultrafiltration desired. Once the 
+patient is euvolemic, one can resume using 1.5% solution 
+for all exchanges.
+4. Dialysis solution additives. When injecting any additive into 
+PD solution bags, sterile technique must be followed in 
+order to prevent bacterial contamination of the dialysis 
+solution and peritonitis.
+a. Potassium. Standard PD solutions contain no potassium 
+(K). In general, after the initial exchanges, serum K 
+concentrations are within the normal range, unless the 
+patient is very catabolic. In fact, losses of K can be high 
+in acute PD. Such removal may cause serious K depletion 
+and cardiovascular instability. This can be prevented 
+or corrected by adding K to the dialysis solution. When 
+serum K is lower than 4 mM, K 4.0–5 mM can be added 
+to the PD solutions to minimize the risk of hypokalemia.
+Daugirdas9781451144291-ch024.indd   459 11/10/14   2:36 am
+Part III / Peritoneal Dialysis
+460
+b. Heparin. Sluggish dialysate flow from catheter obstruc-
+tion by fibrin or blood clots may occur in acute PD, often 
+as a result of the slight bleeding that may accompany
+catheter insertion or irritation of the peritoneum by
+the catheter. Heparin (500–1,000 units/L) added to the
+dialysis solution can be helpful in preventing or treating
+this problem. Because heparin is absorbed minimally
+through the peritoneum, there is no increased risk of
+bleeding.
+c. Insulin. Because glucose is absorbed from the dialysis
+solution, supplemental insulin administration may be
+required for the diabetic patient undergoing acute PD.
+Insulin can be given subcutaneously or intravenously, or
+regular insulin may be added to the PD solution before
+infusion. The blood glucose level must be monitored
+closely, and the dose of insulin tailored to the needs of
+the patient.
+d. Antibiotics. Intraperitoneal administration of antibiotics
+is an efficient route for treating peritonitis. In general,
+antibiotics should not be given intraperitoneally to treat 
+systemic infections.
+B. How to measure dose in acute PD. It is important to ensure that 
+acute PD is delivering an adequate amount of dialysis for the 
+AKI patient. Adequacy is generally assessed by measuring the 
+Kt/V urea nitrogen delivered by the PD. This is done by mea-
+suring the urea concentration in representative samples of 
+dialysate and plasma in order to calculate a D/P ratio for urea. 
+This is multiplied by the total daily dialysate drain volume and 
+divided by the estimated volume of distribution of urea using 
+anthropometric equations for total body water such as the 
+Watson equation (see Chapter 25). However, patients with AKI 
+often are fluid loaded, and urea distribution volume often will 
+be considerably higher than predicted by such equations. 
+MEASUREMENT OF DELIVERED Kt/V
+Kt/V = clearance of urea × time
+volume if distribution of urea
+= mean dialysate urea nitrogen (mg/dL)
+mean serum urea nitrogen (mg/dL)
+× drained 24 hr volume in mL
+estimated volume of distribution of urea (mL)
+This is multiplied by 7 to yield the weekly Kt/V urea
+I V. COMPLICATIONS. A number of problems may arise during the
+course of acute PD. These include mechanical, infectious, techni-
+cal, and metabolic problems.
+Daugirdas9781451144291-ch024.indd   460 11/10/14   2:36 am
+Chapter 24 / Peritoneal Dialysis for the Treatment of Acute Kidney Injury 461
+A. Mechanical complications. Incomplete drainage may lead to 
+“overfill, ” which is progressive intraperitoneal accumulation 
+of dialysate, with attendant discomfort, distention, and even 
+respiratory compromise. Catheter-related problems resulting 
+in poor drainage are the main cause of this, although intra-
+abdominal adhesions or bowel distention can contribute. One 
+should observe the drainage cycle and make sure that the 
+patient is emptying completely during the allowed drainage 
+period. Mechanical problems occur in up to 10% of patients 
+undergoing acute PD.
+B. Peritonitis. Peritonitis rates have ranged from 4% to 41% dur -
+ing acute PD treatment in different studies. This occurs most 
+often after 48 hours and is more common with open- than 
+with closed-drainage systems. Although infections from gram- 
+positive organisms dominate, there is a high incidence of 
+gram-negative or fungal-related peritonitis in acute PD. This 
+may be a reflection of the severity of illness in patients requir-
+ing acute PD as well as predisposing factors, such as the pro-
+longed use of multiple antibiotics.
+C. Hyperglycemia.  The amount of glucose absorbed during PD 
+varies significantly between patients due to differences 
+in peritoneal membrane permeability and the concentra -
+tions of dextrose used. Fast transporters absorb glucose 
+more quickly. Among patients undergoing CAPD with four 
+exchanges per day, 60%–80% of the glucose instilled is 
+absorbed. With more rapid exchanges, such as are used with 
+automated PD, glucose absorption is reduced as the number 
+of cycles is higher and dwell times are shorter. In a study of 31 
+AKI patients treated with HVPD, absorption of glucose was 
+about 35% of that instilled during treatment (Goes, 2013). In 
+order to avoid or reduce hyperglycemia in patients treated 
+with PD, glucose absorption from dialysate should be taken 
+into consideration when calculating total energy intake for 
+PD patients. Additionally, when hyperglycemia is detected, 
+frequent blood glucose monitoring (approximately every 
+6 hours) should be performed, and the intravenous (IV), 
+ subcutaneous, and/or intraperitoneal (IP) administration of 
+insulin should be considered. In studies of patients under -
+going HVPD, glucose levels were well maintained (between 
+130 and 170 mg/dL; 7.2 and 9.4 mmol/L) using both IV and 
+IP insulin.
+D. Hypernatremia. Due to the low sieving coefficient for sodium, 
+which is related to water passage via aquaporin channels, the 
+ultrafiltrate generated in PD has a sodium concentration of 
+approximately 70 mmol/L. Increased losses of water associ-
+ated with frequent hypertonic exchanges can therefore lead to 
+hypernatremia. Intravenous replacement of losses with hypo -
+tonic fluids or replacing half of the losses with 5% dextrose 
+water prevents the development of hypernatremia.
+E. Hypoalbuminemia.  With the frequent exchanges utilized in 
+acute PD, protein loss via the dialysate can be as high as 
+Daugirdas9781451144291-ch024.indd   461 11/10/14   2:36 am
+Part III / Peritoneal Dialysis
+462
+10–20 g per day and up to twice this amount if peritonitis 
+develops. Oral or parenteral hyperalimentation should be 
+considered in patients for whom malnutrition is deemed a 
+problem. In general, protein losses through dialysis should 
+not limit the use of PD in AKI patients.
+ V. INFRASTRUCTURE REQUIRED FOR “URGENT ST ART” PD.  A success -
+ful urgent start PD program requires a number of components 
+( Ghaffari, 2013a). First, there needs to be prompt access to Tenck-
+hoff catheter placement by a surgeon or nephrologist or radiolo-
+gist. Second, there needs to be a willingness of nephrologists in 
+the center to alter their previous practice and consider the urgent 
+start PD option in CKD patients who present acutely with ure-
+mia or fluid overload. Third, there needs to be an ability to carry 
+out some form of low-volume acute PD, typically delivered by a 
+cycler with the patient in the supine position, in a ward setting 
+for at least a few days to control acute uremia and fluid over -
+load. Fourth, there needs to be a willingness and ability to train 
+the patient in the PD unit on short notice once the initial clini-
+cal stabilization on PD has occurred. Otherwise, an unaccept -
+ably long inpatient admission waiting for a training spot would 
+result. These requirements mean that an urgent PD program will 
+only work with flexibility and cooperation between hospital ward 
+and PD unit staff and physicians, with overall leadership from an 
+enthusiastic nephrologist.
+References and Suggested Readings
+Arramreddy R, et al. Urgent start peritoneal dialysis: a chance for a new beginning. Am 
+J Kidney Dis. 2014;63:390–395.
+Asif A. Peritoneal dialysis access: related procedures by nephrologists. Semin Dial. 
+2004;17:398–406.
+Bai ZG, et al. Bicarbonate versus lactate solutions for acute peritoneal dialysis. 
+Cochrane Database Syst Rev. 2010;8:CD007034.
+Burdmann EA, Chakravarthi R. Peritoneal dialysis in acute kidney injury: lessons 
+learned and applied. Semin Dial. 2011;24:149–156.
+Chionh CY, et al. Acute peritoneal dialysis: what is the ‘adequate’ dose for acute kidney 
+injury? Nephrol Dial Transplant. 2010;25:3155–3160.
+Chionh CY, et al. Use of peritoneal dialysis in AKI: a systematic review. Clin J Am Soc 
+Nephrol. 2013;8:1649–1660.
+Chitalia VC, et al. Is peritoneal dialysis adequate for hypercatabolic acute renal failure 
+in developing countries? Kidney Int. 2002;61:747–757.
+Gabriel DP , et al. High volume peritoneal dialysis for acute renal failure. Perit Dial Int. 
+2007;27:277–282.
+Gabriel DP , et al. High volume peritoneal dialysis vs daily hemodialysis: a randomized, 
+controlled trial in patients with acute kidney injury. Kidney Int. 2008;73:87–93.
+George J, et al. Comparing continuous venovenous hemodiafiltration and peritoneal 
+dialysis in critically ill patients with acute kidney injury: a pilot study. Perit Dial 
+Int. 2012;31:422–429.
+Ghaffari A, Kumar V , Guest S. Infrastructure requirements for an urgent-start perito-
+neal dialysis program. Perit Dial Int. 2013a;33:611–617.
+Ghaffari A, et al. PD first: peritoneal dialysis as the default transition to dialysis therapy. 
+Semin Dial. 2013b;26:706–713.
+Goes CR, et al. Metabolic implications of peritoneal dialysis in patients with acute 
+kidney injury. Perit Dial Int. 2013;33:635–645.
+Guest S, et al. Intermittent peritoneal dialysis: urea kinetic modeling and implications 
+of residual kidney function. Perit Dial Int. 2012;32:142–148.
+Daugirdas9781451144291-ch024.indd   462 11/10/14   2:36 am
+Chapter 24 / Peritoneal Dialysis for the Treatment of Acute Kidney Injury 463
+ISPD Guidelines: peritoneal dialysis for acute kidney injury. Perit Dial Int. 2014;34:   
+494-517.
+Ivarsen P , Povlsen JV . Can peritoneal dialysis be applied for unplanned initiation of 
+chronic dialysis? Nephrol Dial Transplant. 2014, in press.
+Phu NH, et al. Hemofiltration and peritoneal dialysis in infection-associated acute 
+renal failure in Vietnam. N Engl J Med. 2002;347:895–902.
+Ponce D, Balbi AL. Peritoneal dialysis for acute kidney injury: a viable alternative. Perit 
+Dial Int. 2011a;31:387–389.
+Ponce D, et al. Different prescribed doses of high-volume peritoneal dialysis and out-
+come of patients with acute kidney injury. Adv Perit Dial. 2011b;27:118–124.
+Ponce D, Balbi AL, Amerling R. Advances in peritoneal dialysis in acute kidney injury. 
+Blood Purif. 2012a;34:107–116.
+Ponce D, et al. High volume peritoneal dialysis in acute kidney injury: indications and 
+limitations. Clin J Am Soc Nephrol. 2012b;7:887–894.
+Ponce D, et al. A randomized clinical trial of high volume peritoneal dialysis versus 
+extended daily hemodialysis for acute kidney injury patients. Int Urol Nephrol. 
+2013;45:869–879.
+Thongboonkerd V , Lumlertgul D, Supajatura V . Better correction of metabolic acidosis, 
+blood pressure control, and phagocytosis with bicarbonate compared to lactate 
+solution in acute peritoneal dialysis. Artif Organs. 2001;25:99–108.
+Daugirdas9781451144291-ch024.indd   463 11/10/14   2:36 am

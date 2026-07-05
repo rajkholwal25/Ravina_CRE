@@ -1,0 +1,615 @@
+Peritoneal dialysis is the method of renal replacement therapy used 
+by about 200,000 patients worldwide. Since the introduction of con-
+tinuous ambulatory peritoneal dialysis (CAPD) almost four decades 
+ago and more recently of compact “easy-to-use” hydraulic cyclers for 
+automated peritoneal dialysis (APD), the popularity of peritoneal 
+dialysis has increased greatly. This is because peritoneal dialysis is 
+simple, convenient, and relatively low cost, and because it can be 
+done in the home.
+ I. WHA T IS PERITONEAL DIALYSIS?  I n essence, peritoneal dialysis 
+ involves the transport of solutes and water across a “membrane” 
+that separates two fluid-containing compartments: (a) the blood 
+in the peritoneal capillaries, which in renal failure contains an 
+excess of urea, creatinine, potassium, and other waste products, 
+and (b) the dialysis solution in the peritoneal cavity, which typi -
+cally contains sodium, chloride, and lactate or bicarbonate and 
+which is rendered hyperosmolar by the inclusion of a high con -
+centration of glucose. During the course of a peritoneal dialysis 
+dwell, three transport processes occur simultaneously: diffusion, 
+ultrafiltration, and absorption. The amount of dialysis achieved 
+and the extent of fluid removal depend on the volume of dialysis 
+solution infused (called the dwell volume), how often this dialy-
+sis solution is exchanged, and the concentration of crystalloid 
+ osmotic or colloid oncotic agent present.
+ II. FUNCTIONAL ANATOMY
+A. Anatomy of the peritoneal cavity . T he peritoneum is the serosal 
+membrane that lines the peritoneal cavity (Fig. 21.1). It has a 
+surface area that is similar to body surface area, and so typi-
+cally ranges from 1 to 2 m 2 in an adult. The peritoneum is 
+ divided into two portions:
+1. The visceral peritoneum, which lines the gut and other 
+viscera
+2. The parietal peritoneum, which lines the walls of the ab-
+dominal cavity
+The visceral peritoneum accounts for about 80% of 
+the total peritoneal surface area. It receives its blood supply 
+Physiology of Peritoneal 
+Dialysis
+Peter G. Blake and John T. Daugirdas21
+392
+Daugirdas9781451144291-ch021.indd   392 11/10/14   2:32 am
+Chapter 21 / Physiology of Peritoneal Dialysis 393
+from the superior mesenteric artery, and venous drainage is 
+via the portal system. The parietal peritoneum, which may 
+be more important in peritoneal dialysis, receives blood 
+from the lumbar, intercostal, and epigastric arteries and 
+drains into the inferior vena cava. Total peritoneal blood 
+flow cannot be directly measured, but has been estimated 
+to range from 50 to 100 mL/min. The main lymphatic drain-
+age of the peritoneum and of the peritoneal cavity is via sto-
+mata in the diaphragmatic peritoneum, which ultimately 
+drain via large collecting ducts into the right lymphatic 
+duct. Additional drainage occurs via lymphatics present in 
+both the visceral and the parietal peritoneum.
+B. Peritoneal membrane histology. T he peritoneal membrane is lined 
+by a monolayer of mesothelial cells equipped with microvil -
+lae that produce a thin film of lubricating fluid. Underlying the 
+mesothelium is the interstitium, which comprises a gel-like 
+matrix containing collagenous and other fibers, the peritoneal 
+capillaries, and some lymphatics.
+FIGURE 21.1 Simplified anatomy of the peritoneal cavity showing the visceral and 
+parietal peritoneal membrane. (Adapted from Khanna R, et al., eds. The Essentials of 
+ Peritoneal Dialysis. Dordrecht: Kluwer; 1993.)
+Liver
+Peritoneal
+cavity
+Stomach
+Pancreas
+Duodenum
+Colon
+Small
+intestine
+Rectum
+Bladder
+Peritoneum
+Peritoneal cavity
+Daugirdas9781451144291-ch021.indd   393 11/10/14   2:32 am
+Part III / Peritoneal Dialysis
+394
+C. Models of peritoneal transport. T here are six regions of resistance 
+to moving solute and water across the peritoneum from capil-
+lary blood to peritoneal fluid: (a) the stagnant capillary fluid 
+film overlying the endothelium of the peritoneal capillaries, 
+(b) the capillary endothelium itself, (c) the endothelial base-
+ment membrane, (d) the interstitium, (e) the mesothelium, 
+and ( f) the stagnant fluid film that overlies the mesothelium.
+Of these, the two stagnant fluid films and the mesothelial 
+cell are thought to offer only trivial resistance to transport. Two 
+concepts of peritoneal transport are popular; they are comple-
+mentary and not mutually exclusive, and they emphasize the 
+importance of the peritoneal vasculature and the interstitium. 
+They are the three-pore model and the distributed model.
+1. The three-pore model.  T his model, which has been well vali -
+dated by clinical observations, holds that the peritoneal 
+capillary is the critical barrier to peritoneal transport and 
+that solute and water movement across the peritoneal cap-
+illary is dependent on the relative abundance of pores of 
+three different sizes (Fig. 21.2).
+a. Large pores w ith a radius of 20–40 nm, are thought to be 
+large clefts in the endothelium. Macromolecules, such 
+as protein are transported by convection through these 
+pores.
+b. Small pores  w ith a radius of 4–6 nm, likely represent 
+smaller clefts between endothelial cells. The density of 
+FIGURE 21.2 Diagrammatic representation of the three-pore model of peritoneal 
+ transport. (Adapted from Flessner MF. Peritoneal transport physiology: insights from basic 
+research. J Am Soc Nephrol. 1991;2:122.)
+Daugirdas9781451144291-ch021.indd   394 11/10/14   2:32 am
+Chapter 21 / Physiology of Peritoneal Dialysis 395
+these small pores affects transport of small solutes such 
+as urea, creatinine, sodium, and potassium, in associa -
+tion with water.
+c. Ultrapores with a radius of <0.8 nm, are thought to be
+aquaporins in the endothelial cell membrane. The ultra -
+pores are responsible for the transport of water only and 
+account for “sieving” by the peritoneal membrane (see
+what follows).
+2. Distributed model and effective peritoneal surface area.  The
+ distributed model emphasizes the importance of the distri-
+bution of capillaries in the peritoneal membrane and of the 
+distance water and solutes have to travel from the capillar-
+ies across the interstitium to the mesothelium (Fig. 21.3).
+Transport is dependent on the surface area of the perito-
+neal capillaries rather than on the total peritoneal surface
+area. Furthermore, the distance of each capillary from the
+mesothelium determines its relative contribution. The
+ cumulative contribution of all of the peritoneal capillaries
+determines the effective surface area and the resistance
+properties of the membrane. From the distributed model,
+FIGURE 21.3 Distributed model concept showing distribution of peritoneal capillaries 
+in the interstitium and their distances from the mesothelium, represented by the dotted, 
+vertical line. Cp, the solid, curved line, represents the efficiency of transport from a given 
+capillary to the peritoneal space, increasing for capillaries located closest to the meso-
+thelial boundary. (Adapted from Flessner MF. Peritoneal transport physiology: insights 
+from basic research. J Am Soc Nephrol. 1991;2:122.)
+Daugirdas9781451144291-ch021.indd   395 11/10/14   2:32 am
+Part III / Peritoneal Dialysis
+396
+the concept of “effective peritoneal surface area” has arisen. 
+This is the area of the peritoneal surface that is sufficiently 
+close to the peritoneal capillaries to play a role in transport. 
+Therefore, two patients with the same peritoneal surface 
+area may have markedly different peritoneal vascularity 
+and very different effective peritoneal surface areas. In a 
+given patient, effective peritoneal surface area may vary in 
+different circumstances, increasing, for example, in perito-
+nitis when inflammation increases vascularity. The degree 
+of vascularity of the peritoneum is more important than its 
+surface area in determining the transport characteristics of 
+an individual patient.
+ III. PHYSIOLOGY OF PERITONEAL TRANSPORT. P eritoneal transport com -
+prises three processes that take place simultaneously: (a) diffu-
+sion, (b) ultrafiltration, and (c) fluid absorption.
+A. Diffusion. U remic solutes and potassium diffuse from perito-
+neal capillary blood into the peritoneal fluid, whereas glucose 
+and lactate or bicarbonate present in the dialysate diffuse in 
+the opposite direction. Peritoneal diffusion depends on the 
+following factors:
+1. The concentration gradient. F or a substance such as urea, this is 
+maximal at the start of a peritoneal dialysis dwell, when the 
+concentration in the dialysis solution is zero. With ongoing 
+diffusion during the course of the dwell, this gradient gradu-
+ally decreases. The diminishing gradient can be counteracted 
+partially by the performance of more frequent exchanges, 
+as is typically done in APD, or by increasing dwell volumes, 
+which allows the gradient to remain greater for a longer time.
+2. Effective peritoneal surface area.  T his can be increased by us-
+ing larger fill volumes, which recruit more peritoneal mem-
+brane, but this effect is limited in most individuals once 
+volumes reach 2.5–3 L.
+3. Intrinsic peritoneal membrane resistance.  T his parameter is not 
+well characterized but may reflect differences in the num-
+ber of pores per unit surface area of capillary available for 
+peritoneal transport and the distance between these capil-
+laries and the mesothelium.
+4. Molecular weight of the solute.  Su bstances with lower mo-
+lecular weight, such as urea (MW 60), are more rapidly 
+transported by diffusion than those with higher molecular 
+weights, such as creatinine (MW 113) or uric acid (MW 168).
+5. Mass transfer area coefficient.  T he combined effects of fac-
+tors 2–4 are sometimes measured by an index called the 
+mass transfer area coefficient (MTAC), which is analogous 
+to the  K0A of a hemodialysis membrane. For a given sol-
+ute, the MTAC is equivalent to the diffusive clearance of 
+that solute per unit time in a theoretical situation in which 
+dialysate  flow is infinitely high so that the solute gradi-
+ent is always maximal. Typical MTAC values for urea and 
+creatinine are 17 and 10 mL/min, respectively. The MTAC 
+Daugirdas9781451144291-ch021.indd   396 11/10/14   2:32 am
+Chapter 21 / Physiology of Peritoneal Dialysis 397
+is mainly a research tool and is not used much in clinical 
+practice.
+6. Peritoneal blood flow. Diffusion generally does not depend on
+peritoneal blood flow, which, at 50–100 mL/min, is already
+more than adequate relative to MTAC values for even the
+smallest solutes. Instead, in contrast to the situation in hemo-
+dialysis, diffusion in peritoneal dialysis is dependent primar-
+ily on the dialysate flow rate. Vasoactive agents do influence 
+peritoneal transport, but this is not related to their ability to 
+increase peritoneal blood flow; rather, it is due to recruit -
+ment of larger numbers of peritoneal capillaries, increasing
+the effective peritoneal surface area. The same effect is seen 
+in peritonitis, where inflammation 
+ increases peritoneal vas-
+cularity with a consequent increase in diffusion.
+B. Ultrafiltration. This occurs as a consequence of the osmotic 
+ gradient between the dialysis solution and the peritoneal cap-
+illary blood; it is due to the presence of high concentrations of 
+glucose (or other osmotic agent) in the 
+ dialysis solution and 
+depends on the following:
+1. Concentration gradient for the osmotic agent (e.g., glucose).  This
+typically is maximal at the start of a peritoneal dialysis
+dwell, and decreases with time due to dilution of dialysate
+glucose by ultrafiltrate from the plasma, and to diffusion of 
+glucose from the dialysis solution into the blood (Fig. 21.4). 
+The dialysate-to-plasma osmotic gradient will be smaller in 
+the presence of marked hyperglycemia. The gradient can be 
+FIGURE 21.4 Dialysate glucose level after instillation of a 4.25% dextrose (3.86%  glucose) 
+exchange into the peritoneal cavity. The initial level is close to 3,860 mg/dL (214 mM).
+Daugirdas9781451144291-ch021.indd   397 11/10/14   2:32 am
+Part III / Peritoneal Dialysis
+398
+maximized by using higher dextrose dialysis solutions or by 
+doing more frequent exchanges, as is done with APD.
+2. Effective peritoneal surface area (as described earlier).
+3. Hydraulic conductance of the peritoneal membrane.  T his differs 
+between patients and likely reflects the density of small 
+pores and ultrapores in the peritoneal capillaries, as well as 
+the distribution of capillaries in the interstitium.
+4. Reflection coefficient for the osmotic agent (e.g., glucose).  This 
+measures how effectively the osmotic agent diffuses out of 
+the dialysis solution into the peritoneal capillaries. The re-
+flection coefficient is between 0 and 1; the lower the value, 
+the faster the osmotic gradient is lost and the less sustained 
+ultrafiltration is. For glucose, the reflection coefficient is 
+remarkably low (approximately 0.03), indicating how im-
+perfect an osmotic agent glucose is. The polyglucose prepa-
+ration, icodextrin, has a reflection coefficient close to 1.0.
+5. Hydrostatic pressure gradient.  N ormally, the peritoneal capil -
+lary pressure (around 20 mm Hg) is higher than the intra-
+peritoneal pressure (around 7 mm Hg), which should favor 
+fluid removal by ultrafiltration. This gradient will be greater 
+in a volume-expanded patient and less in a volume-depleted 
+patient. Rises in intraperitoneal pressure will decrease ul -
+trafiltration, and this may be seen when larger dwell vol-
+umes are used or when the patient is seated or standing.
+6. Oncotic pressure gradient. O ncotic pressure acts to keep fluid 
+in the blood, and so opposes ultrafiltration. In hypoalbu-
+minemic patients, oncotic pressure is low and ultrafiltra -
+tion may be greater than usual.
+7. Sieving. S ieving occurs when solute moves along with wa-
+ter across a semipermeable membrane by convection, but 
+some of the solute is held back or “sieved. ” Sieving there-
+fore renders ultrafiltration a less effective form of solute 
+removal, although water removal may occur unhindered. 
+Sieving coefficients for various solutes differ and depend 
+on molecular weight and charge. Sieving coefficients for 
+the same solute can differ between patients, depending on 
+patient-specific peritoneal membrane characteristics (e.g., 
+ultrapore density in capillary endothelial cells). About half 
+of total ultrafiltration occurs through ultrapores, and this 
+transports solute-free water. The remaining half of ultrafil-
+tration occurs through small endothelial pores, which are 
+clefts between endothelial cells, and here sieving is likely 
+absent, and the solute concentrate of this portion of the ul-
+trafiltrate is similar to that in plasma (La Milia, 2005).
+8. Alternative osmotic agents (icodextrin). Icodextrin is a large mol-
+ecule and an oncotic agent with a high reflection coefficient. 
+Ultrafiltration using icodextrin is sustained at a  relatively 
+constant level throughout even a long-duration dwell.
+C. Fluid absorption. Fluid absorption from the peritoneal space oc -
+curs via lymphatics at a relatively constant rate. There is little 
+or no sieving. Fluid absorption via lymphatics reduces the 
+Daugirdas9781451144291-ch021.indd   398 11/10/14   2:32 am
+Chapter 21 / Physiology of Peritoneal Dialysis 399
+efficiency of both solute and fluid removal by peritoneal dialy-
+sis. Only a small proportion of fluid absorption occurs directly 
+into the subdiaphragmatic lymphatics. Fluid is also absorbed 
+via the parietal peritoneum into the tissues of the abdominal 
+wall, from where it is subsequently taken up by local lymphatics 
+and perhaps by peritoneal capillaries. Typical rates of peritoneal 
+fluid absorption are 1.0–2.0 mL/min. The factors that affect the 
+rate of fluid absorption of a peritoneal dwell are as follows:
+1. Intraperitoneal hydrostatic pressure.  High pressures will in-
+crease the amount of fluid absorbed. High intraperitoneal 
+hydrostatic pressure can result from increased intraperito-
+neal volume owing to effective ultrafiltration, or to use of 
+a large infusion volume. Intraperitoneal pressure is higher 
+when sitting than when standing, and it is lowest when 
+ supine (Fig. 21.5).
+FIGURE 21.5 Intra-abdominal pressure after infusing various volumes of dialysis solu-
+tion. (Modified from Diaz-Buxo JA. Continuous cycling peritoneal dialysis. In: Nolph KD, 
+ed. Peritoneal Dialysis. Hingham, MA: Martinus Nijhoff; 1985.)
+Daugirdas9781451144291-ch021.indd   399 11/10/14   2:32 am
+Part III / Peritoneal Dialysis
+400
+2. Effectiveness of lymphatics. The effectiveness of lymphatics in
+absorbing fluid from the peritoneal cavity can differ mark -
+edly from person to person for reasons that are not well
+understood.
+I V. CLINICAL ASSESSMENT AND IMPLICATIONS OF PERITONEAL TRANSPORT
+A. Peritoneal equilibration test (PET). In clinical practice, indices such 
+as the MTAC and hydraulic conductance of the peritoneal 
+membrane are too complex for routine measurement. Perito -
+neal transport is assessed using equilibration ratios between 
+dialysate and plasma for urea (D/P urea), creatinine (D/P Cr), 
+and sodium (D/P Na) (Fig. 21.6). Equilibration ratios measure 
+the combined effect of diffusion and ultrafiltration rather than 
+either in isolation. However, they correlate well with MTAC 
+values for the corresponding solutes. They are influenced by 
+the molecular weight of the solute concerned as well as by 
+the patient’s peritoneal membrane permeability and effective 
+surface area. Body size tends to have little relation to equili-
+bration ratios despite its supposed equivalence to peritoneal 
+surface area, suggesting that actual and effective peritoneal 
+surface areas correlate poorly.
+Conventionally, equilibration ratios are measured 
+using a standardized PET that involves instillation of a 2.5% 
+FIGURE 21.6 Rate of entry of urea, creatinine, and vitamin B12 into peritoneal dialysis 
+ solution that has been left in the abdomen. Results are expressed as the ratio of the level 
+in dialysate (D) to the level in plasma (P). Typical D/P ratios for urea at time points of 
+40 min, 2 hr, and 4 hr are indicated.
+Daugirdas9781451144291-ch021.indd   400 11/10/14   2:32 am
+Chapter 21 / Physiology of Peritoneal Dialysis 401
+2-L   d extrose dwell with dialysate samples taken at 0, 2, and 
+4 hours and a plasma sample at 2 hours. The PET is also used 
+to measure net fluid removal (volume drained at 4 hours vs. 
+volume instilled) and the ratio of dialysate glucose at 4 hours 
+to dialysate glucose at time zero (D/D 0 G). Patients are classi-
+fied principally on the basis of their 4-hour D/P Cr into one of 
+four “transporter” categories: high, high-average, low-average, 
+and low transporters (Fig. 21.7). Use of PET results to optimize 
+a peritoneal dialysis prescription is described in Chapter 25.
+1. High transporters  a chieve the most rapid and complete 
+equilibration for creatinine and urea, because they have 
+FIGURE 21.7 Standard peritoneal equilibration curves for urea, creatinine, and sodium, 
+as well as glucose absorption showing ranges of values for high, high-average, low-
+average, and low transporters. (Modified from Twardowski et al. Peritoneal equilibration 
+test. Perit Dial Bull. 1987;7:138.)
+Daugirdas9781451144291-ch021.indd   401 11/10/14   2:32 am
+Part III / Peritoneal Dialysis
+402
+a relatively large effective peritoneal surface area and/
+or high intrinsic membrane permeability. However, high 
+transporters rapidly lose their osmotic gradient for ultra-
+filtration because the dialysate glucose diffuses into the 
+blood through the highly permeable membrane. Thus, high 
+transporters have the highest D/P Cr, D/P Ur, and D/P Na 
+values but have low net ultrafiltration and D/D
+0 G values. 
+They also have higher dialysate protein losses and so tend 
+to have lower serum albumin values.
+2. Low transporters , in contrast, have slower and less com-
+plete equilibration for urea and creatinine, reflecting low
+membrane permeability and/or small effective peritoneal
+surface area. They thus have low D/P Ur, D/P Cr, and D/P
+Na and high D/D
+0 G with good net ultrafiltration. Dialysate
+protein losses are lower, and serum albumin values tend to 
+be higher.
+3. High-average and low-average transporters  have intermediate
+values for these ratios and for ultrafiltration and protein
+losses.
+4. Clinical implications of transporter type. High transporters tend 
+to dialyze relatively well but to ultrafiltrate poorly, whereas 
+low transporters ultrafiltrate well but dialyze poorly, al -
+though these issues are often masked while residual renal
+function is still substantial. Theoretically, high transport -
+ers do best on peritoneal dialysis regimens that involve
+frequent short-duration dwells (e.g., APD) so that ultrafil-
+tration is maximized. Conversely, low transporters should
+do best on regimens based on long-duration, high-volume
+dwells so that diffusion is maximized. In practice, in most
+units, patient lifestyle and other nonmedical issues influ -
+ence the peritoneal prescription more than transport sta -
+tus, and low transporters can be well managed on APD,
+while high transporters can do CAPD provided the long
+nocturnal dwell is managed appropriately.
+B. Net fluid removal. Net fluid removal depends on the balance be-
+tween peritoneal ultrafiltration and peritoneal fluid absorp -
+tion. In a given patient, lymphatic flow rate and the transport 
+qualities of the membrane are subject to change. In clinical 
+practice, fluid removal in peritoneal dialysis can be enhanced 
+by the following:
+1. Maximizing the osmotic gradient
+a. Higher tonicity dwells (e.g., 4.25% dextrose)
+b. Shorter duration dwells (e.g., APD)
+c. Higher dwell volumes
+2. An osmotic agent with a higher reflection coefficient
+(e.g., icodextrin)
+3. Increasing urine output (e.g., with diuretics)
+As is shown in Figure 21.8, the net fluid removal with a 
+1.5% 2-L dextrose dwell is maximal in the first hour, and in-
+traperitoneal volume is greatest after 90 minutes. After this 
+Daugirdas9781451144291-ch021.indd   402 11/10/14   2:32 am
+Chapter 21 / Physiology of Peritoneal Dialysis 403
+time, the volume being ultrafiltered is less than that being 
+resorbed, and by 6–10 hours, the intraperitoneal volume 
+falls below 2 L, and the patient is achieving net fluid gain. 
+If the more hypertonic 4.25% dextrose dialysis solution is 
+used, initial fluid removal is greater and more sustained, 
+and intraperitoneal volume is greatest after about 3 hours 
+and will not fall below 2 L until after many hours.
+The effect of larger dwell volumes on net fluid removal 
+is complex. On the one hand, fluid removal increases be-
+cause the osmotic gradient persists longer due to the greater 
+quantity of glucose in the peritoneal cavity and because 
+the effective surface area over which water is transported 
+is likely increased. On the other hand, fluid removal may 
+decrease because intraperitoneal pressure rises (Fig. 21.5), 
+ decreasing the hydrostatic gradient that favors ultrafiltra -
+tion and promoting peritoneal fluid absorption into the 
+ tissues and lymphatics. The net effect of these forces varies 
+from patient to patient and is difficult to predict.
+C. Peritoneal clearance.  C learance for a given solute is defined 
+as the volume of plasma cleared of that solute per unit time. 
+Clearance in peritoneal dialysis is the net result of the effects 
+of solute removal by diffusion plus ultrafiltration minus sol -
+ute gain via fluid absorption. Clearance is usually calculated 
+FIGURE 21.8 Ultrafiltration volume (volume drained minus volume instilled) as a func-
+tion of time after infusion of dialysis solution containing 1.5% dextrose (1.35% glucose, 
+open circles) or 4.25% dextrose (3.86% glucose, closed circles). (Modified from Diaz-Buxo 
+JA. Intermittent, continuous ambulatory and continuous cycling peritoneal dialysis. In: 
+ Nissenson AR, et al., eds. Clinical Dialysis. Norwalk, CT: Appleton-Century-Crofts; 1984.)
+Daugirdas9781451144291-ch021.indd   403 11/10/14   2:32 am
+Part III / Peritoneal Dialysis
+404
+as quantity of solute removed over a given period divided by 
+the average plasma concentration of that solute during the re-
+moval period. Clearance is maximal at the start of the dwell, 
+when both diffusion and ultrafiltration are greatest, but be-
+comes less as both urea concentration and glucose osmotic 
+gradients diminish as the dwell proceeds. However, because 
+peritoneal clearance is measured per day or per week rather 
+than per minute or per hour, average values of clearance are 
+calculated by the usual measures of adequacy.
+Peritoneal clearance can be increased by (a) maximizing 
+time on peritoneal dialysis (i.e., no “dry time”), (b) maximiz-
+ing concentration gradient (i.e., more frequent exchanges as in 
+APD and larger dwell volumes), (c) maximizing effective perito-
+neal surface area (i.e., larger dwell volumes), and (d) maximiz-
+ing peritoneal fluid removal (as described earlier).
+The mechanism by which increasing dwell volumes aug-
+ment clearance is sometimes confusing. Larger dwell volumes 
+enhance urea and creatinine diffusion from blood to dialysate 
+because the greater volume makes the solute concentration 
+gradient stay higher for longer. Also, effective peritoneal surface 
+area may increase because of recruitment of more membrane 
+by the greater fluid volume, and consequently MTAC values 
+may rise. This effect tends to be modest or absent once volumes 
+exceed 2.5 L in adults, presumably because all of the available 
+membrane has been recruited. These two effects increase dif -
+fusive clearance even though D/P ratios tend to be a little lower 
+when larger dwell volumes are used. Another aspect of larger 
+dwell volumes that tends to decrease clearance is the effect to 
+diminish ultrafiltration slightly, which lowers the amount of 
+solute removed by convective transport. These last two factors 
+conspire to limit the increase in clearance with higher dwell 
+volumes. For example, a switch from 2.0- to 2.5-L dwells repre-
+sents a 25% increase in infused volume but might, for example, 
+be associated with a decrease in D/P ratios by 3% and of ultra-
+filtration by 5%, limiting the increase in clearance to about 20%.
+Urea versus creatinine: Changes in the peritoneal di -
+alysis prescription alter urea and creatinine clearances to 
+different degrees because the latter is more time-dependent. 
+Thus, a switch from CAPD to APD without a day dwell may 
+lead to a much more marked decrease in creatinine than in 
+urea clearance, whereas the introduction of a long day dwell 
+in APD will cause a disproportionately greater enhancement 
+in creatinine clearance. These effects are especially marked in 
+low transporters, in whom creatinine clearance is particularly 
+time-dependent, as reflected by the flat shape of the creatinine 
+equilibration curve.
+1. Measurement of clearance.  Peritoneal clearance per day in
+peritoneal dialysis is easily measured and corresponds to
+the total daily dialysate drain volume multiplied by the sol-
+ute concentration in that dialysate and divided by the si-
+multaneously obtained plasma concentration of the same
+Daugirdas9781451144291-ch021.indd   404 11/10/14   2:32 am
+Chapter 21 / Physiology of Peritoneal Dialysis 405
+solute. Stated more simply, clearance equals the drain vol -
+ume multiplied by the D/P ratio for the solute concerned.
+In CAPD, the plasma urea level does not change sig-
+nificantly during the day because dialysis is continuous. 
+Thus, the plasma sample can be taken at any convenient 
+time during the day that dialysate is collected for analy-
+sis. In APD, there is significantly more intense dialysis at 
+night than in the daytime; therefore, a constant plasma 
+urea cannot be assumed, though variation is modest. Ide-
+ally, the plasma sample should be taken in the middle of the 
+noncycling period (usually mid-afternoon) when the urea 
+is about halfway between its lowest level (in the morning 
+after cycling) and its highest level (at night before cycling).
+Clearance is measured per day but expressed per week. 
+It is conventional to normalize urea clearance to total-body 
+water (V), which is typically estimated using the Watson or 
+Morgenstern equations (see Chapter 25 and Appendix B). 
+Creatinine clearance is normalized to 1.73 m
+2 surface area, 
+which is estimated using the formula of DuBois or Gehan 
+and George (See Chapter 25 and Appendix B).
+2. Examples of peritoneal clearance calculations. See Chapter 25.
+D. Sodium removal. In peritoneal dialysis, it is helpful to consider 
+sodium removal separately from water removal. As already 
+mentioned, ultrafiltration in peritoneal dialysis involves so -
+dium sieving so that water losses are proportionately greater 
+than sodium losses. At the end of a 4-hour dwell using 132 mM 
+sodium dialysis solution, the sodium level in the drained di-
+alysate typically will have fallen to about 128 mM (Fig. 21.7). 
+In the early part of a dwell, dialysate sodium falls to an even 
+greater extent, because it is being diluted by ultrafiltrate con-
+taining only about 65 mM sodium. This hyponatric effect of 
+ultrafiltration is partly counteracted by diffusion of sodium 
+from body tissues to dialysate. Thus, late in the dwell, when 
+ultrafiltration has slowed, diffusion will have increased the di-
+alysate sodium back up to about 128 mM. Overall, net sodium 
+removal with a 4-hour, 1.5% dextrose, 2-L exchange is mini-
+mal, although with a 4-hour, 4.25% dextrose, 2-L dwell, sodium 
+removal typically is in excess of 70 mmol. An alternative way 
+of increasing sodium removal is to use dialysis solutions with a 
+lower sodium concentration. With such low sodium solutions, 
+diffusive sodium removal is increased, but greater concentra-
+tions of glucose are required to achieve the same osmotic ef-
+fect. Such lower sodium dialysis solutions can be prepared but 
+are not commercially available.
+E. Protein losses. Obligatory dialysate protein losses are a feature of 
+peritoneal dialysis and typically average 5–10 g daily. Half of the 
+protein lost is albumin. These losses are probably the major cause 
+of the slightly lower serum albumin levels typically seen in perito-
+neal dialysis patients compared with hemodialysis patients. Al-
+bumin losses are greatest, and serum albumin is lowest, in high 
+transporters. The losses or clearances of large-molecular-weight 
+Daugirdas9781451144291-ch021.indd   405 11/10/14   2:32 am
+Part III / Peritoneal Dialysis
+406
+proteins such as albumin are relatively constant during the 
+course of a dwell. Low-molecular-weight proteins (such as lyso-
+zyme) are lost as well, and their clearance behaves more like that 
+of creatinine, being highest during the initial part of a dwell, and 
+then falling off markedly as the dwell proceeds.
+Protein losses are believed to occur via a relatively small 
+number of large pores that correspond to interendothelial 
+clefts. Peritoneal absorption of fluid is a form of “bulk flow” 
+and so involves protein as well as other solutes. It thus acts to 
+decrease net peritoneal protein losses.
+During peritonitis, protein losses increase markedly for 
+a number of days, presumably due to an increase in effective 
+peritoneal surface area due to increased peritoneal vascular -
+ity. This effect is, in part, mediated by prostaglandins. Protein 
+losses on intermittent peritoneal dialysis regimens appear to 
+be somewhat less per day than on continuous regimens, pre-
+sumably because protein losses are decreased during the “dry” 
+interdialytic periods.
+There is a school of thought that protein losses during 
+peritoneal dialysis are not completely a bad thing, but rather, 
+that with the lost protein and albumin the body effectively 
+excretes tightly protein-bound toxins that are difficult to re-
+move by other means. The extent of this “benefit” of perito-
+neal dialysis remains to be clarified. Attempts to replicate loss 
+of  protein-bound uremic toxins by performing hemodialysis 
+using very permeable, protein-losing membranes have not 
+shown a clear-cut clinical benefit.
+ V. RESIDUAL RENAL FUNCTION.  T here is evidence that residual renal 
+function persists longer and at a higher level in chronic peritoneal 
+dialysis patients than in those on hemodialysis. Residual function 
+contributes to salt and water removal and to clearance of both 
+small- and medium-size molecular-weight solutes.  Creatinine 
+clearance is disproportionately high with residual renal function, 
+as tubular secretion contributes to the overall clearance to a rela-
+tively large extent. The opposite is the case with urea clearance, 
+where tubular resorption of urea acts to reduce urea excretion. 
+There is evidence that the average of urea and creatinine clear -
+ance is a reasonable estimate of true glomerular filtration rate 
+in the failing kidney, and this estimate is used when calculating 
+the renal contribution to total creatinine clearance in patients on 
+peritoneal dialysis. Residual renal function has been shown to be 
+predictive of patient outcome in peritoneal dialysis, perhaps be -
+cause it is associated with better preserved renal endocrine and 
+metabolic function and superior volume homeostasis, as well as 
+greater small- and large-molecule clearance.
+References and Suggested Readings
+Cnossen TT, et al. Quantification of free water transport during the peritoneal 
+ equilibration test. Perit Dial Int. 2009;29:523–527.
+Devuyst O, Rippe B. Water transport across the peritoneal membrane. Kidney Int. 
+2014;85:750–758.
+Daugirdas9781451144291-ch021.indd   406 11/10/14   2:32 am
+Chapter 21 / Physiology of Peritoneal Dialysis 407
+Durand PY. Measurement of intraperitoneal pressure in peritoneal dialysis patients. 
+Perit Dial Int. 2005;25:333–337.
+Flessner M. Water-only pores and peritoneal dialysis. Kidney Int. 2006;69:1494–1495.
+Flessner MF. The role of extracellular matrix in transperitoneal transport of water and 
+solutes. Perit Dial Int. 2001;21(suppl 3):S24–S29.
+Heimburger O. Peritoneal transport with icodextrin solution. Contrib Nephrol . 
+2006;150:97–103.
+Heimburger O, et al. A quantitative description of solute and fluid transport during 
+peritoneal dialysis. Kidney Int. 1992;41:1320–1332.
+Krediet RT, Struijk DG. Peritoneal dialysis membrane evaluation in clinical practice. 
+Contrib Nephrol. 2012;178:232–237.
+La Milia V , et al. Mini-peritoneal equilibration test: a simple and fast method to assess 
+free water and small solute transport across the peritoneal membrane. Kidney Int. 
+2005;68:840–846.
+La Milia V , et al. Functional assessment of the peritoneal membrane. J Nephrol. 
+2013;26(suppl 21):120–139.
+Ni J, et al. Aquaporin-1 plays an essential role in water permeability and ultrafiltration 
+during peritoneal dialysis. Kidney Int. 2006;69:1518–1525.
+Rippe B, et al. Fluid and electrolyte transport across the peritoneal membrane during 
+CAPD according to the three-pore model. Perit Dial Int. 2004;24:10–27.
+Stachowska-Pietka J, et al. Computer simulations of osmotic ultrafiltration and small 
+solute transport in peritoneal dialysis: a spatially distributed approach. Am J 
+Physiol Heart Circ Physiol. 2012;302:F1331–F1341.
+Twardowski ZJ, et al. Peritoneal equilibration test. Perit Dial Bull. 1987;7:138.
+Waniewski A, et al. Distributed modeling of osmotically driven fluid transport in peri-
+toneal dialysis: theoretical and computational investigations. Am J Physiol Renal 
+Physiol. 2009;296:1960–1968.
+Daugirdas9781451144291-ch021.indd   407 11/10/14   2:32 am

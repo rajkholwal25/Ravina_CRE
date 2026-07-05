@@ -1,0 +1,1133 @@
+{
+ "chapter": 33,
+ "questions": [
+  {
+   "topic": "BP measurement",
+   "question": "Compared with the true underlying average blood pressure, a measurement made immediately before a hemodialysis session tends to:",
+   "options": {
+    "A": "Underestimate the average blood pressure",
+    "B": "Overestimate the average blood pressure",
+    "C": "Accurately reflect the average blood pressure",
+    "D": "Reflect only diastolic blood pressure"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: a reading taken immediately before dialysis overestimates the underlying average BP, because interdialytic fluid accumulation drives the pressure up by the end of the interval. The mirror image is true postdialysis, which underestimates it (so A and C are wrong). Peridialytic values therefore poorly reflect the true BP burden, which is why the chapter recommends out-of-office monitoring. Both systolic and diastolic are affected, not diastolic alone, ruling out D."
+  },
+  {
+   "topic": "BP measurement",
+   "question": "Which method is the preferable approach for diagnosing and monitoring blood pressure in hemodialysis patients?",
+   "options": {
+    "A": "Predialysis cuff measurement",
+    "B": "Postdialysis cuff measurement",
+    "C": "Out-of-office BP monitoring",
+    "D": "A single midweek clinic reading"
+   },
+   "correct": "C",
+   "explanation": "Correct answer C: out-of-office BP monitoring (home or 24-hour ambulatory) is preferable for diagnosing and monitoring BP because peridialytic cuff readings do not adequately reflect the BP burden. Predialysis readings (A) overestimate and postdialysis readings (B) underestimate the average, and a single midweek clinic reading (D) is inadequate. Home estimates are more reproducible than pre/postdialysis values and correlate better with ABPM and with target-organ damage and cardiovascular prognosis."
+  },
+  {
+   "topic": "Ambulatory BP monitoring",
+   "question": "In a patient on a thrice-weekly hemodialysis schedule, ideal ambulatory BP monitoring should cover an interdialytic interval of approximately:",
+   "options": {
+    "A": "12 hours",
+    "B": "24 hours",
+    "C": "44 hours",
+    "D": "68 hours"
+   },
+   "correct": "C",
+   "explanation": "Correct answer C: on a thrice-weekly schedule the interdialytic interval is 44 hours, and ABPM should ideally cover this whole period, beginning after the midweek session. 12 or 24 hours (A, B) would miss part of the interval, and 68 hours (D) exceeds it. ABPM is rarely used routinely and is poorly tolerated over long sessions, but it can reveal the nocturnal BP profile, which is frequently altered in dialysis patients though no effective correction for lack of nocturnal dipping has been established."
+  },
+  {
+   "topic": "Home BP monitoring",
+   "question": "Home blood pressure measurements in hemodialysis patients are advantageous over pre- and postdialysis readings mainly because they:",
+   "options": {
+    "A": "Are cheaper to obtain",
+    "B": "Are more reproducible and better reflect target organ damage and prognosis",
+    "C": "Eliminate the need for antihypertensive drugs",
+    "D": "Require only one reading per week"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: home BP measurements are more reproducible than pre- and postdialysis readings, associate better with ABPM, and reflect target-organ damage (LVH) and cardiovascular prognosis better. Cost (A) is not the stated advantage, they do not eliminate the need for drugs (C), and the diagnostic protocol requires two daily readings, not one weekly (D). The recommended protocol is morning and pre-sleep measurements the day after a midweek session, averaged over 4 weeks."
+  },
+  {
+   "topic": "Home BP protocol",
+   "question": "The recommended home BP protocol for diagnosing hypertension involves two daily measurements averaged over how long, taken starting the day after a midweek session?",
+   "options": {
+    "A": "1 week",
+    "B": "2 weeks",
+    "C": "4 weeks",
+    "D": "8 weeks"
+   },
+   "correct": "C",
+   "explanation": "Correct answer C: two daily home measurements (one morning, one before night sleep), taken the day after a midweek dialysis session and averaged over 4 weeks, are considered adequate for diagnosing hypertension. Shorter windows of 1 or 2 weeks (A, B) are not the stated standard and 8 weeks (D) exceeds it. The frequency of measurements should be increased when BP lability is noted. Home BP is favored because it is reproducible and reflects prognosis better than peridialytic readings."
+  },
+  {
+   "topic": "Intradialytic BP",
+   "question": "When home measurements are not feasible, which indicator is described as a more sensitive marker of the prevailing BP burden than predialysis or postdialysis BP?",
+   "options": {
+    "A": "Midweek median intradialytic BP",
+    "B": "First-hour intradialytic BP",
+    "C": "Peak systolic BP during dialysis",
+    "D": "Postdialysis standing BP"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: when home measurement is not feasible, midweek median intradialytic BP is a more sensitive indicator of the prevailing BP burden (average ABPM) than predialysis or postdialysis BP. First-hour, peak systolic, or postdialysis standing readings (B, C, D) are not described as validated surrogates. Diagnostically, a midweek median intradialysis BP above 140/90 mm Hg (when the patient is at dry weight) defines hypertension, making the intradialytic median a practical fallback tool."
+  },
+  {
+   "topic": "Hypertension definition",
+   "question": "By average home blood pressure, hypertension in dialysis patients is defined as a value greater than:",
+   "options": {
+    "A": "125/75 mm Hg",
+    "B": "130/80 mm Hg",
+    "C": "135/85 mm Hg",
+    "D": "140/90 mm Hg"
+   },
+   "correct": "C",
+   "explanation": "Correct answer C: by average home BP, hypertension is defined as greater than 135/85 mm Hg, a threshold valid for both hemodialysis and peritoneal dialysis patients (adopted from ESH/ESC guidance). 130/80 (B) is the ABPM threshold and 140/90 (D) is the midweek median intradialysis threshold, while 125/75 (A) is not used. The same value doubles as the home BP treatment target (<135/85), so exceeding it identifies patients who warrant intervention."
+  },
+  {
+   "topic": "Hypertension definition",
+   "question": "By 24-hour ambulatory BP monitoring during a midweek interval, the threshold defining hypertension in dialysis patients is greater than:",
+   "options": {
+    "A": "120/70 mm Hg",
+    "B": "130/80 mm Hg",
+    "C": "135/85 mm Hg",
+    "D": "140/90 mm Hg"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: by 24-hour ABPM during a midweek interval, hypertension is defined as greater than 130/80 mm Hg. The 135/85 value (C) applies to home BP and 140/90 (D) to the midweek median intradialysis measurement, while 120/70 (A) is not a defined threshold. ABPM is the reference out-of-office method but is rarely used routinely and poorly tolerated over the full 44-hour interdialytic interval, so home BP is usually preferred in practice."
+  },
+  {
+   "topic": "Hypertension definition",
+   "question": "When home and ambulatory monitoring cannot be applied, hypertension can be diagnosed by a midweek median intradialysis BP greater than:",
+   "options": {
+    "A": "130/80 mm Hg",
+    "B": "135/85 mm Hg",
+    "C": "140/90 mm Hg",
+    "D": "150/95 mm Hg"
+   },
+   "correct": "C",
+   "explanation": "Correct answer C: when home and ambulatory monitoring cannot be applied, hypertension can be diagnosed by a midweek median intradialysis BP greater than 140/90 mm Hg, provided the patient is believed to be at dry weight. 130/80 (A) is the ABPM threshold and 135/85 (B) the home threshold, while 150/95 (D) is not used. Intradialytic median BP is chosen as the fallback because it tracks average ABPM more sensitively than predialysis or postdialysis readings."
+  },
+  {
+   "topic": "BP variability",
+   "question": "High visit-to-visit blood pressure variability in end-stage kidney disease patients is described as:",
+   "options": {
+    "A": "A rare and benign finding",
+    "B": "A strong predictor of mortality",
+    "C": "Protective against cardiovascular events",
+    "D": "Only relevant in peritoneal dialysis"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: high visit-to-visit BP variability is common in ESKD and is a strong predictor of mortality, so it is neither rare/benign (A) nor protective (C), and it is not limited to peritoneal dialysis (D). The chapter notes that methods of reducing this variability in the dialysis population have not been systematically evaluated. It is a distinct prognostic marker from the average BP level itself, underscoring the value of repeated out-of-office monitoring."
+  },
+  {
+   "topic": "Pathophysiology",
+   "question": "The main cause of hypertension in dialysis patients is:",
+   "options": {
+    "A": "Extracellular volume expansion and sodium retention",
+    "B": "Erythropoietin therapy",
+    "C": "Hypocalcemia",
+    "D": "Excessive antihypertensive dosing"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: extracellular volume expansion and sodium retention remain the main cause of hypertension in dialysis patients, and chronic volume expansion has a well-established link to mortality. Erythropoietin (B), hypocalcemia (C), and excessive drug dosing (D) are not the principal drivers. Volume overload also associates with diastolic dysfunction, though it is not always clear whether it causes or merely marks severe cardiac disease. This is why volume control is central to treatment."
+  },
+  {
+   "topic": "Sodium accumulation",
+   "question": "Nonosmotic accumulation of sodium in tissues such as muscle and subcutaneous space is thought to potentially impact:",
+   "options": {
+    "A": "Erythropoietin synthesis only",
+    "B": "Inflammatory and cardiac fibrotic processes",
+    "C": "Renal tubular secretion",
+    "D": "Bone mineralization exclusively"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: nonosmotic accumulation of sodium in muscle and subcutaneous space may impact inflammatory and cardiac fibrotic processes, partly via vascular endothelial growth factor C and other mechanisms. It is not confined to erythropoietin synthesis (A), tubular secretion (C), or bone mineralization (D). This tissue sodium storage was documented in dialysis patients over 30 years ago and helps explain the lag phenomenon, whereby BP falls only slowly after extracellular fluid is corrected."
+  },
+  {
+   "topic": "Vascular tone",
+   "question": "Sleep apnea, which is very common in dialysis patients, contributes to hypertension mainly through:",
+   "options": {
+    "A": "Reduced cardiac output",
+    "B": "High sympathetic activity with vasoconstriction and nocturnal hypertension",
+    "C": "Direct sodium loss",
+    "D": "Suppression of renin"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: sleep apnea is characterized by high sympathetic activity and associates with vasoconstriction and nocturnal hypertension, and it is exceedingly common in dialysis patients. It does not lower cardiac output (A), cause sodium loss (C), or suppress renin (D); indeed sympathetic overactivity can secondarily activate the renin-angiotensin system. This falls under inappropriately high vascular tone, one mechanism of dialysis hypertension alongside sodium-driven arterial stiffness."
+  },
+  {
+   "topic": "Sympathetic activity",
+   "question": "Dramatic falls in blood pressure and sympathetic activity in dialysis patients have been reported after which intervention?",
+   "options": {
+    "A": "Bilateral nephrectomy",
+    "B": "Parathyroidectomy",
+    "C": "Splenectomy",
+    "D": "Adrenalectomy"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: BP and sympathetic activity both fell dramatically after bilateral nephrectomy in dialysis patients, and radiofrequency ablation of renal sympathetic nerve fibers produces similar effects, implicating afferent signals from diseased kidneys. Parathyroidectomy, splenectomy, and adrenalectomy (B, C, D) are not linked to this response. These afferent signals can secondarily activate the renin-angiotensin system, contributing to the high peripheral vascular resistance seen in ESKD."
+  },
+  {
+   "topic": "ADMA",
+   "question": "Asymmetric dimethylarginine (ADMA), which is elevated in dialysis patients, acts as an endogenous inhibitor of:",
+   "options": {
+    "A": "Angiotensin-converting enzyme",
+    "B": "Nitric oxide synthase",
+    "C": "Renin release",
+    "D": "Aldosterone synthase"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: asymmetric dimethylarginine (ADMA) is an endogenous inhibitor of nitric oxide synthase, is elevated in dialysis patients, and high levels associate with increased sympathetic nervous system activity. It does not inhibit ACE (A), renin release (C), or aldosterone synthase (D). By reducing nitric oxide availability, ADMA promotes vasoconstriction, fitting the theme of inappropriately high vascular tone that contributes to hypertension in ESKD alongside sodium retention."
+  },
+  {
+   "topic": "LVH",
+   "question": "Regarding left ventricular hypertrophy in dialysis patients, which statement is correct?",
+   "options": {
+    "A": "It can be substantial even at normal levels of blood pressure",
+    "B": "It occurs only in patients with severe hypertension",
+    "C": "It is unrelated to angiotensin II",
+    "D": "It always regresses with ACE inhibitors"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: substantial left ventricular hypertrophy can be present in dialysis patients even at normal BP levels, so it is not confined to severe hypertension (B). Angiotensin II is strongly implicated in LVH independently of BP (making C wrong), yet ramipril trials failed to show LVH regression, so it does not always regress with ACE inhibitors (D). This is why optimizing extracellular fluid aims not only at BP control but also at improving cardiac structure and function."
+  },
+  {
+   "topic": "Sodium restriction",
+   "question": "Patients should be encouraged to restrict sodium chloride ingestion to approximately how much per day?",
+   "options": {
+    "A": "2 g salt (equivalent to 5 g sodium)",
+    "B": "5 g salt (2 g or 87 mmol sodium)",
+    "C": "10 g salt",
+    "D": "15 g salt"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: patients should restrict sodium chloride to 5 g per day, equivalent to 2 g or 87 mmol of sodium. Option A inverts the salt and sodium figures, and 10 or 15 g (C, D) far exceed the recommendation. Because most fluid intake is driven by salt ingestion, this restriction is a cornerstone of preventing volume-dependent hypertension. Another sodium source is diffusive gain from dialysate when its sodium exceeds the predialysis plasma level."
+  },
+  {
+   "topic": "Dialysate sodium",
+   "question": "Using a dialysate sodium concentration higher than the patient's plasma level tends to:",
+   "options": {
+    "A": "Reduce interdialytic weight gain",
+    "B": "Improve hemodynamic tolerance but increase thirst and interdialytic weight gain",
+    "C": "Lower postdialysis thirst",
+    "D": "Have no effect on fluid intake"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: a dialysate sodium higher than plasma improves hemodynamic tolerance to fluid subtraction but increases thirst and postdialysis fluid intake, raising interdialytic weight gain and the ultrafiltration rate needed next session. It does not reduce weight gain (A), lower thirst (C), or leave intake unchanged (D). Predialysis plasma sodium varies (130-145 mmol/L) yet units often use one dialysate sodium for all, which can create a diffusive sodium gain in patients with lower plasma levels."
+  },
+  {
+   "topic": "Sodium profiling",
+   "question": "Sodium profiling can preserve hemodynamic stability while minimizing interdialytic weight gain, but only if:",
+   "options": {
+    "A": "The starting dialysate sodium equals plasma sodium",
+    "B": "The time-averaged dialysate sodium during the session does not exceed the initial plasma level",
+    "C": "The final dialysate sodium exceeds plasma sodium",
+    "D": "Sodium is held constant throughout"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: sodium profiling offers hemodynamic stability while minimizing interdialytic weight gain only if the time-averaged dialysate sodium during the session does not exceed the initial plasma level. Starting equal to plasma (A) or holding sodium constant (D) is not profiling, and ending above plasma (C) would add sodium. The technique starts above plasma sodium then progressively lowers dialysate sodium, ending below the initial plasma value, so net sodium is not gained."
+  },
+  {
+   "topic": "Dialysate sodium",
+   "question": "Preliminary data suggest that lowering unit-wide dialysate sodium from 140 to 137 mM may:",
+   "options": {
+    "A": "Increase interdialytic weight gain",
+    "B": "Reduce interdialytic weight gain and fluid-related hospitalizations",
+    "C": "Cause hyponatremic seizures",
+    "D": "Raise mortality"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: preliminary data suggest lowering unit-wide dialysate sodium from 140 to 137 mM may reduce interdialytic weight gain as well as the fluid-related hospitalization rate. It does not increase weight gain (A), cause hyponatremic seizures (C), or raise mortality (D). This supports the general principle that limiting sodium exposure, whether dietary or via dialysate, reduces thirst-driven fluid intake and the ultrafiltration burden that contributes to volume-dependent hypertension."
+  },
+  {
+   "topic": "Frequent/long dialysis",
+   "question": "Frequent dialysis schedules and long nocturnal dialysis are noted to:",
+   "options": {
+    "A": "Worsen BP control",
+    "B": "Substantially improve BP control and revert LVH",
+    "C": "Have no effect on left ventricular mass",
+    "D": "Require higher ultrafiltration rates"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: frequent dialysis schedules and long nocturnal dialysis can substantially improve BP control and revert LVH. They do not worsen BP control (A) or leave left ventricular mass unchanged (C). Longer sessions allow a slower ultrafiltration rate and more time to reach the desired postdialysis weight, so they reduce rather than require higher ultrafiltration rates (D). These strategies address the volume-dependent nature of dialysis hypertension without relying solely on drugs."
+  },
+  {
+   "topic": "Dry weight",
+   "question": "Clinically, dry weight is defined as the weight below which further fluid removal would produce:",
+   "options": {
+    "A": "Hypertension and edema",
+    "B": "Hypotension, muscle cramps, nausea, and vomiting",
+    "C": "Weight gain and thirst",
+    "D": "Pulmonary congestion"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: clinically, dry weight is the level below which further fluid removal produces hypotension, muscle cramps, nausea, and vomiting. It is not defined by hypertension/edema (A), weight gain/thirst (C), or pulmonary congestion (D), which reflect volume excess rather than depletion. Whether these symptoms appear depends on how fast fluid is removed, the dialysis strategy, predialysis volume status, and concurrent drugs, since many antihypertensives blunt the reflex cardiovascular response to volume removal."
+  },
+  {
+   "topic": "Lag phenomenon",
+   "question": "The lag phenomenon in dialysis hypertension refers to:",
+   "options": {
+    "A": "A delay in BP fall after correction of fluid overload",
+    "B": "Slow onset of antihypertensive drug action",
+    "C": "Delayed dialyzer clearance of sodium",
+    "D": "Postdialysis rebound hypertension"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: the lag phenomenon is a delay in BP fall after correction of fluid overload, so an initial lack of BP response does not exclude hypervolemia as the cause. It is not slow drug onset (B), delayed sodium clearance (C), or postdialysis rebound (D). This delay fits the hypothesis of nonosmotic tissue sodium accumulation, but is more likely due to vascular remodeling. Recognizing it prevents premature abandonment of dry-weight reduction in a truly volume-overloaded patient."
+  },
+  {
+   "topic": "Lag phenomenon",
+   "question": "Delayed improvement in hypertension after correcting longstanding fluid excess is most likely attributed to:",
+   "options": {
+    "A": "Vascular remodeling",
+    "B": "Increased renin secretion",
+    "C": "Erythropoietin resistance",
+    "D": "Dialyzer membrane reactions"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: delayed improvement in hypertension after correcting longstanding fluid excess is most likely due to vascular remodeling, rather than increased renin (B), erythropoietin resistance (C), or membrane reactions (D). While removal of nonosmotic tissue sodium may contribute and could take considerable time, the chapter states vascular remodeling is the more probable explanation. This lag underlies the caution that BP may not fall immediately even when lowering dry weight is the correct strategy."
+  },
+  {
+   "topic": "Dry weight reassessment",
+   "question": "When a patient returns to dialysis after a hospitalization, the previously determined dry weight will almost always need to be:",
+   "options": {
+    "A": "Raised, due to fluid gain",
+    "B": "Reset to a lower level, due to loss of lean body mass",
+    "C": "Left unchanged",
+    "D": "Doubled temporarily"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: after a hospitalization the previously determined dry weight almost always needs to be reset to a lower level, because of intercurrent loss of lean body mass. It is not raised (A), left unchanged (C), or doubled (D). Loss of muscle mass from malnutrition or illness can otherwise masquerade as fluid overload, so dry weight and nutritional status must be reassessed frequently to avoid chronically leaving the patient volume-expanded and hypertensive."
+  },
+  {
+   "topic": "Edema detection",
+   "question": "Peripheral edema may not become detectable until interstitial volume has risen by approximately:",
+   "options": {
+    "A": "One-tenth above normal (about 1 L)",
+    "B": "One-third above normal (about 5 L)",
+    "C": "One-half above normal (about 10 L)",
+    "D": "Double the normal volume"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: edema may not be detectable until interstitial volume has risen by about one-third above normal, roughly 5 L, which limits clinical assessment of dry weight. One-tenth/1 L (A), one-half/10 L (C), or double (D) are incorrect. Because edema, jugular venous distension, and lung rales are insensitive, objective tools such as multifrequency bioimpedance spectroscopy (e.g., the Body Composition Monitor) have emerged as more reliable methods to measure body fluids."
+  },
+  {
+   "topic": "Bioimpedance",
+   "question": "The Body Composition Monitor (BCM), a validated bioimpedance spectroscopy device, has demonstrated in a randomized trial an improvement in:",
+   "options": {
+    "A": "Left ventricular mass index and vascular stiffness",
+    "B": "Patient survival",
+    "C": "Reduction of fluid-related hospitalizations",
+    "D": "Residual kidney function"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: in a randomized trial a Body Composition Monitor (BCM)-guided fluid management approach improved left ventricular mass index and vascular stiffness. However, no evidence has shown that BCM-guided dry weight increases survival (B) or reduces fluid-related hospitalizations (C), and it does not restore residual kidney function (D). Bioimpedance spectroscopy is well validated for measuring body fluids, addressing the insensitivity of clinical signs, but its hard-outcome benefit remains unproven."
+  },
+  {
+   "topic": "Crit-line monitor",
+   "question": "A clinical trial of routine continuous intradialytic hematocrit monitoring (Crit-line) found that its systematic use was associated with:",
+   "options": {
+    "A": "Lower mortality and fewer hospitalizations",
+    "B": "Higher hospitalizations and mortality compared with conventional monitoring",
+    "C": "No change in any outcome",
+    "D": "Improved dry-weight accuracy"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: a randomized trial of routine continuous intradialytic hematocrit (blood-volume) monitoring with the Crit-line device found higher, not lower, nonvascular and vascular access-related hospitalizations and mortality versus conventional monitoring. So it did not lower mortality (A), leave outcomes unchanged (C), or clearly improve dry-weight accuracy (D). This cautionary result illustrates that a technology sensitive to volume changes does not automatically translate into better clinical outcomes."
+  },
+  {
+   "topic": "Volume assessment",
+   "question": "Inferior vena cava diameter and left atrial diameter measurements are considered of limited value for assessing dry weight because they:",
+   "options": {
+    "A": "Are too expensive",
+    "B": "Are sensitive to volume changes but do not reflect interdialytic BP",
+    "C": "Cannot be measured in dialysis patients",
+    "D": "Only reflect left ventricular mass"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: inferior vena cava and left atrial diameters are sensitive to volume changes but do not reflect interdialytic BP, limiting their value for assessing dry weight. They are not too expensive (A), unmeasurable (C), or reflective only of LV mass (D, which describes BNP). Because these measures track acute volume without predicting the interdialytic BP burden, they cannot reliably guide dry-weight targeting, unlike lung ultrasound which predicts death and cardiovascular events."
+  },
+  {
+   "topic": "BNP",
+   "question": "Serum brain natriuretic peptide (BNP) levels are described as unsuitable for volume monitoring because they largely reflect:",
+   "options": {
+    "A": "Left ventricular mass",
+    "B": "Interstitial sodium content",
+    "C": "Residual renal function",
+    "D": "Dialysate sodium"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: serum BNP levels largely reflect left ventricular mass and are therefore unsuitable as a volume marker in hemodialysis patients. They do not primarily reflect interstitial sodium (B), residual renal function (C), or dialysate sodium (D). Because BNP is dominated by cardiac structural factors rather than acute volume status, it cannot reliably guide fluid removal, in contrast to lung ultrasonography, which detects pulmonary congestion and predicts cardiovascular events."
+  },
+  {
+   "topic": "Lung ultrasound",
+   "question": "Pulmonary (lung) congestion detected by ultrasound in dialysis patients is described as:",
+   "options": {
+    "A": "A weak and unreliable finding",
+    "B": "A strong predictor of death and cardiovascular events",
+    "C": "Detectable only with specialized probes",
+    "D": "Unrelated to volume status"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: lung congestion detected by ultrasound is a strong predictor of death and cardiovascular events. It is not weak/unreliable (A), and the technique is easy and can be performed with virtually all ultrasound machines and probes, so it does not need specialized equipment (C), and it does relate to volume status (D). Despite this prognostic strength and theoretical appeal for establishing dry weight, its ability to improve hard outcomes such as hospitalization or mortality has not been tested."
+  },
+  {
+   "topic": "Excessive ultrafiltration",
+   "question": "Overzealous ultrafiltration may precipitate severe hypotension and disastrous consequences including all of the following EXCEPT:",
+   "options": {
+    "A": "Myocardial infarction",
+    "B": "Cerebral infarction",
+    "C": "Mesenteric ischemia",
+    "D": "Pulmonary edema from fluid overload"
+   },
+   "correct": "D",
+   "explanation": "Correct answer D: overzealous ultrafiltration causes hypotension and can precipitate myocardial infarction, cerebral infarction, and mesenteric ischemia. Pulmonary edema is a consequence of fluid overload, not excessive fluid removal, so it is the exception. Rapid ultrafiltration also causes myocardial stunning and subtle brain white-matter ischemia; rates above 12.4 mL/kg per hour were linked to increased mortality. Thus the hazards of over-ultrafiltration are ischemic, not congestive, in nature."
+  },
+  {
+   "topic": "Intradialytic hypotension",
+   "question": "Intradialytic hypotension has been associated with myocardial stunning and with subtle ischemic changes to which structure linked to mood and cognition?",
+   "options": {
+    "A": "Brain white matter",
+    "B": "Renal cortex",
+    "C": "Retinal vessels",
+    "D": "Peripheral nerves"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: intradialytic hypotension is associated with myocardial stunning (cardiac wall motion abnormalities) and with subtle ischemic changes to brain white matter linked to mood and cognition. The renal cortex (B), retinal vessels (C), and peripheral nerves (D) are not the structures cited. These findings show that hypotensive episodes carry cardiac and cerebral consequences, and frequent intradialytic hypotension is associated with increased mortality, though causality is not established."
+  },
+  {
+   "topic": "Ultrafiltration rate",
+   "question": "In one observational study, ultrafiltration rates exceeding which threshold were associated with increased mortality?",
+   "options": {
+    "A": "6.2 mL/kg per hour",
+    "B": "8.4 mL/kg per hour",
+    "C": "10.0 mL/kg per hour",
+    "D": "12.4 mL/kg per hour"
+   },
+   "correct": "D",
+   "explanation": "Correct answer D: in an observational study, ultrafiltration rates greater than 12.4 mL/kg per hour were associated with increased mortality. Lower thresholds of 6.2, 8.4, or 10.0 mL/kg per hour (A, B, C) were not the cited cutoff. Rapid ultrafiltration increases the risk of dialysis hypotension and its ischemic complications, so limiting the ultrafiltration rate, often by lengthening dialysis time, is a key strategy for minimizing intradialytic hypotension and its associated mortality risk."
+  },
+  {
+   "topic": "Ultrafiltration intensification",
+   "question": "Intensifying ultrafiltration without markedly prolonging dialysis time improves hypertension control but carries which downside?",
+   "options": {
+    "A": "Reduced interdialytic weight gain",
+    "B": "Increased cardiovascular hospitalizations and AV fistula clotting risk",
+    "C": "Improved residual urine output",
+    "D": "Lower mortality"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: intensifying ultrafiltration without markedly prolonging dialysis time improves hypertension control but increases hospitalizations for cardiovascular complications and the risk of arteriovenous fistula clotting, and possibly falls. It does not reduce interdialytic weight gain (A), improve residual urine (C), or lower mortality (D). This trade-off means aggressive fluid removal squeezed into a fixed time is hazardous; lengthening dialysis to allow slower ultrafiltration is the safer route to volume control."
+  },
+  {
+   "topic": "Residual urine",
+   "question": "A fall in residual urine volume with aggressive extracellular fluid reduction is important because residual urine helps avoid volume spikes and removes:",
+   "options": {
+    "A": "Only water",
+    "B": "Phosphorus, higher-weight middle molecules, and protein-bound uremic toxins",
+    "C": "Sodium exclusively",
+    "D": "Potassium only"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: residual urine helps avoid extracellular volume spikes and contributes to removal of phosphorus, higher-weight middle molecules, and protein-bound uremic toxins, not merely water (A), sodium alone (C), or potassium only (D). Aggressive extracellular fluid reduction can lower residual urine volume, and it is unclear whether optimum volume can be achieved while preserving residual kidney function. This preserved output has broad clearance value beyond simple fluid balance."
+  },
+  {
+   "topic": "Intradialytic hypertension",
+   "question": "Intradialysis and end-dialysis hypertension occurs in approximately what proportion of dialysis patients and carries what prognostic significance?",
+   "options": {
+    "A": "About 15%, associated with higher death risk",
+    "B": "About 50%, associated with lower death risk",
+    "C": "About 5%, with no prognostic significance",
+    "D": "About 40%, protective against mortality"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: intradialysis and end-dialysis hypertension occurs in about 15% of dialysis patients and is associated with a higher death risk. It is not a 50% (B), 5% (C), or 40% (D) prevalence, and it is not protective. This multifactorial disturbance may reflect subclinical volume overload as well as sympathetic and renin-angiotensin overactivity and endothelial dysfunction. Its treatment is uncertain; anecdotally lowering the target dry weight has helped some, though not all such patients are clearly fluid-overloaded."
+  },
+  {
+   "topic": "Recurrent hypertension",
+   "question": "If hypertension recurs in a patient previously well controlled by volume subtraction, the most likely explanation is:",
+   "options": {
+    "A": "Development of renal artery stenosis",
+    "B": "Return to a state of volume excess",
+    "C": "Antihypertensive drug tolerance",
+    "D": "New-onset sleep apnea"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: if hypertension recurs after prior control by volume subtraction, the most likely explanation is that the patient has returned to a state of volume excess. Renal artery stenosis (A), drug tolerance (C), and new-onset sleep apnea (D) are not the favored explanations. Because extracellular volume expansion is the main driver of dialysis hypertension, recurrence should first prompt reassessment of dry weight and interdialytic fluid gain before escalating drug therapy."
+  },
+  {
+   "topic": "LVH treatment",
+   "question": "In patients with baseline LVH, which approach is more effective at reducing LVH?",
+   "options": {
+    "A": "Volume subtraction",
+    "B": "Antihypertensive drug therapy",
+    "C": "Erythropoietin",
+    "D": "Increased dialysate sodium"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: in patients with baseline LVH, treatment by volume subtraction is more effective at reducing LVH than BP lowering by antihypertensive drugs. Drug therapy (B) is less effective for LVH regression, and erythropoietin (C) or increased dialysate sodium (D) would not reduce it. This reinforces that optimizing extracellular fluid targets cardiac structure directly; notably, ramipril trials failed to regress LVH, whereas strict volume control has improved long-term survival."
+  },
+  {
+   "topic": "Antihypertensive use",
+   "question": "Observational data suggest antihypertensive drug treatment lowers mortality overall, with the most documented benefits reported for patients taking:",
+   "options": {
+    "A": "Vasodilators or alpha-blockers",
+    "B": "RAAS inhibitors or beta-blockers",
+    "C": "Calcium channel blockers or diuretics",
+    "D": "Sympatholytics or minoxidil"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: observational data suggest antihypertensive treatment lowers mortality overall, with the most documented benefits reported for patients taking renin-angiotensin-aldosterone system (RAAS) inhibitors or beta-blockers. Vasodilators/alpha-blockers (A), calcium channel blockers/diuretics (C), and sympatholytics/minoxidil (D) are not the classes with the strongest mortality evidence. This aligns with trial data such as HDPAL (atenolol) and ARB trials showing cardiovascular benefit."
+  },
+  {
+   "topic": "Antihypertensive use",
+   "question": "The mean number of antihypertensive drugs prescribed for incident dialysis patients at the sixth month of treatment is approximately:",
+   "options": {
+    "A": "1.0",
+    "B": "1.5",
+    "C": "2.5",
+    "D": "4.0"
+   },
+   "correct": "C",
+   "explanation": "Correct answer C: the mean number of antihypertensive drugs prescribed for incident hemodialysis and peritoneal dialysis patients is 2.5 at the sixth month of dialysis treatment. Values of 1.0, 1.5, or 4.0 (A, B, D) are incorrect. Prescription patterns vary by dialysis modality and shift substantially from month six onward, and vary by comorbidity, race/ethnicity, and age but little by sex, reflecting individualized rather than uniform antihypertensive management."
+  },
+  {
+   "topic": "ACE inhibitors",
+   "question": "By interfering with bradykinin breakdown, ACE inhibitors may be associated with an increased incidence of which reaction during dialysis?",
+   "options": {
+    "A": "Anaphylactoid reactions",
+    "B": "Hemolysis",
+    "C": "Air embolism",
+    "D": "Fever"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: by interfering with bradykinin breakdown, ACE inhibitors may be associated with an increased incidence of anaphylactoid reactions during dialysis. They are not linked to hemolysis (B), air embolism (C), or fever (D) through this mechanism. This bradykinin effect also underlies cough and angioedema, side effects that are lower with ARBs. The accumulation of bradykinin during dialysis, especially with certain membranes, explains the anaphylactoid risk unique to ACE inhibition."
+  },
+  {
+   "topic": "ACE inhibitors",
+   "question": "Worsening of anemia and erythropoietin resistance with ACE inhibitors is attributed to accumulation of:",
+   "options": {
+    "A": "Bradykinin",
+    "B": "N-acetyl-seryl-aspartyl-lysyl-proline, an inhibitor of hematopoiesis",
+    "C": "Angiotensin II",
+    "D": "Thiocyanate"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: ACE inhibitors can worsen anemia and erythropoietin resistance because degradation of N-acetyl-seryl-aspartyl-lysyl-proline, a physiologic inhibitor of hematopoiesis, depends on ACE. It is not accumulation of bradykinin (A), angiotensin II (C), or thiocyanate (D, a nitroprusside metabolite). Blocking ACE lets this hematopoietic inhibitor accumulate, blunting the erythropoietic response. This is a purported class effect distinguishing ACE inhibitors from ARBs."
+  },
+  {
+   "topic": "ARBs vs ACE inhibitors",
+   "question": "Compared with ACE inhibitors, angiotensin II receptor blockers (ARBs) are favored because of:",
+   "options": {
+    "A": "Greater cough and angioedema",
+    "B": "Lower risk of angioedema and cough",
+    "C": "Substantial dialytic removal",
+    "D": "Need for major dose reduction"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: ARBs are favored over ACE inhibitors because of their lower risk of angioedema and cough. They do not cause greater cough/angioedema (A), are not substantially dialyzed (C), and, being extensively metabolized by the liver, do not require major dose reduction (D). By blocking the angiotensin receptor without raising bradykinin, ARBs avoid the bradykinin-mediated adverse effects of ACE inhibitors while retaining RAAS blockade, and no dose adjustment is needed in dialysis."
+  },
+  {
+   "topic": "ACE inhibitor dosing",
+   "question": "Reduction in dosage of many ACE inhibitors is often required in dialysis patients because:",
+   "options": {
+    "A": "They are extensively metabolized by the liver",
+    "B": "Their plasma half-life or that of active metabolites is prolonged in renal failure",
+    "C": "They are not removed by dialysis",
+    "D": "They cause severe hypertension"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: dose reduction of many ACE inhibitors is often required because the plasma half-life of the drug or its active metabolites is prolonged in renal failure. They are not extensively hepatically cleared (A, which describes ARBs), several are in fact removed by dialysis (C), and they do not cause severe hypertension (D). Because renal excretion drives clearance of these agents or their metabolites, accumulation occurs in ESKD, contrasting with ARBs that need no adjustment."
+  },
+  {
+   "topic": "ARB trials",
+   "question": "Open-label randomized trials of ARBs (candesartan, losartan, valsartan) versus placebo in hypertensive dialysis patients showed a risk reduction of about 30% for death and cardiovascular events, notable because:",
+   "options": {
+    "A": "BP fell far more in the ARB groups",
+    "B": "BP control was almost identical between ARB and control arms",
+    "C": "The benefit was limited to normotensive patients",
+    "D": "Only diastolic BP improved"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: open-label ARB trials (candesartan, losartan, valsartan) versus placebo showed about a 30% risk reduction for death and cardiovascular events even though BP control was almost identical between ARB and control arms, suggesting a BP-independent benefit. BP did not fall far more with ARBs (A), the benefit was not limited to normotensives (C), and it was not confined to diastolic BP (D). This implies mechanisms beyond BP lowering, consistent with angiotensin II's role in LVH."
+  },
+  {
+   "topic": "ACE inhibitor/LVH trials",
+   "question": "Randomized placebo-controlled trials of ramipril in dialysis patients (normotensive, and those with LVH) demonstrated:",
+   "options": {
+    "A": "Marked LVH regression",
+    "B": "Failure to show LVH regression",
+    "C": "Increased mortality",
+    "D": "A 50% reduction in cardiovascular events"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: randomized placebo-controlled ramipril trials, in normotensive dialysis patients and in those with LVH and normal or high BP, failed to show LVH regression. They did not produce marked regression (A), increase mortality (C), or halve cardiovascular events (D). This contrasts with ARB trials showing event reduction, and it supports the point that volume subtraction is more effective than drugs at reducing LVH in dialysis patients despite angiotensin II's role in LVH."
+  },
+  {
+   "topic": "Beta-blockers",
+   "question": "Water-soluble beta-blockers such as atenolol, nadolol, and bisoprolol are substantially removed by hemodialysis and therefore should be:",
+   "options": {
+    "A": "Administered preferentially before dialysis",
+    "B": "Administered preferentially after dialysis",
+    "C": "Avoided entirely",
+    "D": "Given only intravenously"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: water-soluble beta-blockers such as atenolol, nadolol, and bisoprolol are substantially removed by hemodialysis and should be preferentially administered postdialysis, so that a dialysis session does not strip the dose. Giving them predialysis (A) would reduce efficacy, they need not be avoided entirely (C), and oral dosing is standard rather than IV (D). This is the general rule for dialyzable agents, and atenolol is typically dosed every other day after dialysis."
+  },
+  {
+   "topic": "HDPAL trial",
+   "question": "In the HDPAL trial comparing atenolol with lisinopril in dialysis patients, the key finding leading to early termination was that:",
+   "options": {
+    "A": "Lisinopril halved cardiovascular events",
+    "B": "The risk of major cardiovascular events was halved in the atenolol group versus lisinopril",
+    "C": "Both drugs increased mortality equally",
+    "D": "Atenolol failed to lower ambulatory BP"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: in HDPAL, which randomized 200 dialysis patients to lisinopril or atenolol, 44-hour ambulatory BP fell similarly in both groups, yet the risk of major cardiovascular events was halved in the atenolol group versus lisinopril, prompting the safety board to recommend early termination. Lisinopril did not halve events (A), the drugs did not raise mortality equally (C), and atenolol did lower BP (D). This showed a superior cardioprotective effect of beta-blockade over ACE inhibition."
+  },
+  {
+   "topic": "Carvedilol",
+   "question": "Carvedilol, an alpha/beta-blocker, has been shown to reduce morbidity and mortality in dialysis patients with:",
+   "options": {
+    "A": "Systolic (left ventricular) dysfunction",
+    "B": "Isolated diastolic hypertension",
+    "C": "Sleep apnea",
+    "D": "Peripheral vascular disease"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: carvedilol, an alpha/beta-blocker, reduces morbidity and mortality in dialysis patients with systolic (left ventricular) dysfunction, shown in a placebo-controlled trial in dilated cardiomyopathy. It is not indicated in this evidence for isolated diastolic hypertension (B), sleep apnea (C), or peripheral vascular disease (D). Beta-blockade counters high sympathetic activity, lowers plasma renin activity and angiotensin II, and is cardioprotective in myocardial ischemia or infarction."
+  },
+  {
+   "topic": "Beta-blocker effects",
+   "question": "Beta-adrenergic blockers may affect serum potassium by:",
+   "options": {
+    "A": "Enhancing cellular potassium uptake and lowering serum potassium",
+    "B": "Impairing cell potassium uptake and tending to increase serum potassium",
+    "C": "Having no effect on potassium",
+    "D": "Causing severe hypokalemia"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: beta-blockers may adversely affect cell potassium uptake, tending to increase the serum potassium level, rather than enhancing uptake and lowering it (A), having no effect (C), or causing hypokalemia (D). This matters in dialysis patients already prone to hyperkalemia. Beta-blockers also adversely affect serum lipids, can mask hypoglycemia symptoms and augment insulin-induced hypoglycemia, and may cause bradycardia and blunt reflex tachycardia during volume depletion."
+  },
+  {
+   "topic": "Alpha-blockers",
+   "question": "Prazosin has been associated with first-dose syncope, so the first dose must be:",
+   "options": {
+    "A": "Given intravenously",
+    "B": "Administered at bedtime",
+    "C": "Doubled",
+    "D": "Given during dialysis"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: because prazosin can cause first-dose syncope from postural hypotension, the first dose must be administered at bedtime. It is not given intravenously (A), doubled (C), or given during dialysis (D). Alpha-blockers as a class may cause postural hypotension, so bedtime dosing minimizes the risk of a syncopal event from the initial dose. This first-dose precaution is a hallmark caution for prazosin among the alpha-adrenergic blockers."
+  },
+  {
+   "topic": "Calcium channel blockers",
+   "question": "Calcium channel blockers are frequently used in dialysis patients specifically for:",
+   "options": {
+    "A": "Volume-resistant hypertension",
+    "B": "Correcting hypokalemia",
+    "C": "Treating intradialytic hypotension",
+    "D": "Reducing interdialytic weight gain"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: calcium channel blockers are frequently used specifically for volume-resistant hypertension in dialysis patients. They do not correct hypokalemia (B), treat intradialytic hypotension (C), or reduce interdialytic weight gain (D). They are attractive because a meta-analysis found calcium antagonists more efficacious than other classes at reducing stroke risk, their hepatic clearance is unaltered by renal failure so no dose adjustment is needed, and long-acting preparations are preferred."
+  },
+  {
+   "topic": "Calcium channel blockers",
+   "question": "A large meta-analysis found calcium antagonists to be more efficacious than other main antihypertensive classes specifically in reducing the risk of:",
+   "options": {
+    "A": "Stroke",
+    "B": "Heart failure",
+    "C": "Renal failure progression",
+    "D": "Sudden cardiac death"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: a large meta-analysis found calcium antagonists more efficacious than beta-blockers, ACE inhibitors, and ARBs specifically in reducing the risk of stroke, and similarly effective for preventing coronary heart disease events. The stroke advantage was not reported for heart failure (B), renal progression (C), or sudden cardiac death (D). This stroke-prevention edge supports the frequent use of calcium channel blockers for volume-resistant hypertension in dialysis patients."
+  },
+  {
+   "topic": "Calcium channel blocker dosing",
+   "question": "Calcium channel blockers do not require dosage adjustment in dialysis patients because they are:",
+   "options": {
+    "A": "Substantially removed by dialysis",
+    "B": "Excreted primarily by the liver with pharmacokinetics unaltered by renal failure or dialysis",
+    "C": "Inactive metabolites",
+    "D": "Renally excreted unchanged"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: calcium channel blockers are excreted primarily by the liver, their pharmacokinetic profile is unaltered by chronic renal failure and dialysis, and no dose adjustment is required. They are not substantially removed by dialysis (A), inactive metabolites (C), or renally excreted unchanged (D). Long-acting preparations should be used. This hepatic clearance, unaffected by ESKD, makes dosing straightforward, unlike ACE inhibitors whose renally cleared metabolites often need reduction."
+  },
+  {
+   "topic": "Amlodipine trial",
+   "question": "In a randomized trial of amlodipine in hypertensive dialysis patients (Tepel), amlodipine produced approximately what systolic BP fall and what effect on the combined secondary end point?",
+   "options": {
+    "A": "A 20-mm Hg fall; no benefit",
+    "B": "A 9-mm Hg fall; a 47% decrease in the combined secondary end point",
+    "C": "No BP change; increased mortality",
+    "D": "A 30-mm Hg fall; 80% event reduction"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: in the Tepel trial, amlodipine produced a 9-mm Hg fall in systolic pressure (with no change in diastolic) and a 47% decrease in the combined secondary end point over 19 months. A 20-mm Hg fall (A), no BP change with increased mortality (C), or a 30-mm Hg fall (D) are incorrect. Notably, the ~35% reduction in all-cause mortality (the primary end point) failed to reach statistical significance, so the clearest benefit was in the combined secondary outcome."
+  },
+  {
+   "topic": "Verapamil",
+   "question": "Verapamil among calcium channel blockers is notable for causing:",
+   "options": {
+    "A": "Reflex tachycardia",
+    "B": "Cardiac conduction problems, bradycardia, and constipation",
+    "C": "Hypertrichosis",
+    "D": "A lupus-like syndrome"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: verapamil is notable among calcium channel blockers for causing cardiac conduction problems, bradycardia, and constipation. Reflex tachycardia (A) is a vasodilator effect, hypertrichosis (C) is a minoxidil effect, and a lupus-like syndrome (D) is a hydralazine effect. Because of its conduction and negative chronotropic effects, verapamil (like other calcium channel blockers) must be combined very cautiously with beta-blockers, as congestive heart failure can be precipitated."
+  },
+  {
+   "topic": "CCB with beta-blockers",
+   "question": "Calcium channel blockers should be combined very cautiously with beta-adrenergic blockers because the combination can precipitate:",
+   "options": {
+    "A": "Congestive heart failure",
+    "B": "Severe hypertension",
+    "C": "Hyperkalemia",
+    "D": "Reflex tachycardia"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: calcium channel blockers combined with beta-adrenergic blockers can precipitate congestive heart failure and must be used very cautiously together, because both depress cardiac function. The combination does not cause severe hypertension (B), hyperkalemia (C), or reflex tachycardia (D, a vasodilator effect). This additive negative inotropic/chronotropic risk is especially relevant with rate-limiting agents like verapamil, which independently cause bradycardia and conduction problems."
+  },
+  {
+   "topic": "Sympatholytics",
+   "question": "Central sympatholytic drugs such as clonidine and methyldopa lower BP by:",
+   "options": {
+    "A": "Blocking peripheral alpha-1 receptors",
+    "B": "Inhibiting sympathetic outflow via brain-stem alpha-adrenoreceptor stimulation",
+    "C": "Blocking calcium channels",
+    "D": "Inhibiting ACE"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: central sympatholytic drugs such as clonidine and methyldopa inhibit sympathetic outflow by stimulating alpha-adrenoreceptors in the brain stem. They do not block peripheral alpha-1 receptors (A, an alpha-blocker action), block calcium channels (C), or inhibit ACE (D). Because dialysis patients have increased tonic sympathetic activity, central sympatholytics are theoretically attractive; methyldopa and clonidine are also relatively inexpensive, an important practical consideration."
+  },
+  {
+   "topic": "Clonidine",
+   "question": "One additional side benefit of clonidine in dialysis patients is its usefulness in treating:",
+   "options": {
+    "A": "Diarrhea due to autonomic neuropathy",
+    "B": "Restless legs syndrome",
+    "C": "Pruritus",
+    "D": "Muscle cramps"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: a side benefit of clonidine in dialysis patients is its usefulness in treating diarrhea due to autonomic neuropathy. It is not cited for restless legs (B), pruritus (C), or muscle cramps (D). Clonidine and methyldopa are also relatively inexpensive, an important consideration. As central sympatholytics they suit dialysis patients who have increased tonic sympathetic activity, though clonidine carries side effects like sedation, dry mouth, depression, and postural hypotension."
+  },
+  {
+   "topic": "Clonidine",
+   "question": "Clonidine may cause rebound hypertension if abruptly withdrawn; this and other side effects are substantially reduced with which formulation?",
+   "options": {
+    "A": "Intravenous formulation",
+    "B": "Transdermal formulation",
+    "C": "Sublingual formulation",
+    "D": "Extended-release oral formulation"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: clonidine's side effects, including rebound hypertension on abrupt withdrawal, are substantially reduced with the transdermal formulation. The IV (A), sublingual (C), and extended-release oral (D) forms are not cited for this benefit. Clonidine otherwise causes sedation, dry mouth, depression, and postural hypotension, the latter especially problematic in diabetics. Guanabenz and guanfacine are less likely to cause rebound hypertension but are more expensive alternatives."
+  },
+  {
+   "topic": "Moxonidine",
+   "question": "The MOXCON trial of moxonidine in heart failure was stopped because of:",
+   "options": {
+    "A": "Excessive deaths in the moxonidine group",
+    "B": "Excessive strokes in the placebo group",
+    "C": "Lack of any effect",
+    "D": "Severe hyperkalemia"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: the MOXCON trial of sustained-release moxonidine in heart failure was stopped because of excessive deaths in the moxonidine group. It was not stopped for strokes in placebo (B), lack of effect (C), or hyperkalemia (D). This adverse mortality signal contrasts with the beneficial effect of beta-blockers in heart failure, making use of moxonidine in dialysis patients with heart failure unwarranted, even though a low nonhypotensive dose can reduce recorded sympathetic activity."
+  },
+  {
+   "topic": "Methyldopa",
+   "question": "Methyldopa may interfere with cross-matching of blood because it can cause:",
+   "options": {
+    "A": "A positive direct or indirect Coombs test",
+    "B": "Severe anemia",
+    "C": "Thrombocytopenia",
+    "D": "Leukopenia"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: methyldopa may cause a positive direct or indirect Coombs test, which interferes with cross-matching of blood, and it may also cause hepatotoxicity. It is not cited for severe anemia (B), thrombocytopenia (C), or leukopenia (D) as the cross-matching problem. This immunologic effect is a distinctive hazard of methyldopa among the sympatholytics; the drug is also substantially renally excreted and removed by hemodialysis, so dosage reductions may be required."
+  },
+  {
+   "topic": "Sympatholytic excretion",
+   "question": "Which of these sympatholytic agents is metabolized by the liver and requires no dosage adjustment in renal failure?",
+   "options": {
+    "A": "Methyldopa",
+    "B": "Clonidine",
+    "C": "Guanfacine",
+    "D": "Guanabenz"
+   },
+   "correct": "D",
+   "explanation": "Correct answer D: guanabenz is metabolized by the liver and requires no dosage adjustment in renal failure. In contrast, methyldopa (A), clonidine (B), and guanfacine (C) are substantially excreted by the kidneys and may need dose reduction, and methyldopa is also removed by hemodialysis. Knowing the elimination route guides safe dosing in dialysis: hepatically cleared sympatholytics like guanabenz are simpler to use than the renally cleared members of this class."
+  },
+  {
+   "topic": "Vasodilators",
+   "question": "Vasodilators such as hydralazine and minoxidil usually require the addition of a sympatholytic or beta-blocking drug because they tend to cause:",
+   "options": {
+    "A": "Reflex tachycardia",
+    "B": "Bradycardia",
+    "C": "Hyperkalemia",
+    "D": "Rebound hypertension"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: vasodilators such as hydralazine and minoxidil tend to cause reflex tachycardia, so they usually require the addition of a sympatholytic or beta-blocking drug and are considered third-line agents. They do not cause bradycardia (B), hyperkalemia (C), or rebound hypertension (D) as the defining reason. The reflex tachycardia and resulting palpitations, dizziness, and worsening angina are the main side effects, which the added sympatholytic or beta-blocker helps offset."
+  },
+  {
+   "topic": "Hydralazine",
+   "question": "Hydralazine can cause a lupus-like syndrome at dosages exceeding:",
+   "options": {
+    "A": "50 mg per day",
+    "B": "100 mg per day",
+    "C": "200 mg per day",
+    "D": "400 mg per day"
+   },
+   "correct": "C",
+   "explanation": "Correct answer C: hydralazine can cause a lupus-like syndrome at dosages of more than 200 mg per day, so lower thresholds of 50 or 100 mg (A, B) or a higher 400 mg (D) are incorrect. Because of diminished renal excretion of its active metabolites, the maximum allowable dose should be reduced in dialysis patients. Hydralazine is effective and inexpensive but, like other vasodilators, causes reflex tachycardia and should be avoided in ischemic heart disease."
+  },
+  {
+   "topic": "Minoxidil",
+   "question": "Minoxidil is generally avoided in women because it can cause which side effect, and it has also been associated with pericarditis?",
+   "options": {
+    "A": "Hypertrichosis",
+    "B": "Gingival hyperplasia",
+    "C": "Angioedema",
+    "D": "Photosensitivity"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: minoxidil is generally avoided in women because of hypertrichosis and has also been associated with pericarditis. It is not linked here to gingival hyperplasia (B), angioedema (C), or photosensitivity (D). Minoxidil is a potent third-line vasodilator usually reserved for resistant hypertension, and like other vasodilators it causes reflex tachycardia, so it typically requires co-administration of a sympatholytic or beta-blocking drug to control the reflex response."
+  },
+  {
+   "topic": "Hypertensive urgency",
+   "question": "A hypertensive urgency is defined as a situation where the patient is at significant risk for a serious morbid event within:",
+   "options": {
+    "A": "A matter of days if left untreated",
+    "B": "A few minutes",
+    "C": "Several weeks",
+    "D": "One hour"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: a hypertensive urgency is defined as a situation where the patient is at significant risk for a serious morbid event within a matter of days if left untreated, not minutes (B), weeks (C), or one hour (D). This contrasts with a hypertensive emergency, where sustained pressure for a few hours would cause irreversible organ damage. The distinction guides tempo of treatment: urgencies are managed with oral agents and gradual BP reduction to avoid overshoot."
+  },
+  {
+   "topic": "Cerebral autoregulation",
+   "question": "In chronic hypertension the range of cerebral autoregulation is reset upward, meaning a sudden fall in BP may precipitate:",
+   "options": {
+    "A": "Cerebral infarction and blindness",
+    "B": "Rebound hypertension",
+    "C": "Pulmonary edema",
+    "D": "Hyperkalemia"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: because the range of cerebral autoregulation is reset upward in chronic hypertension, a sudden fall in BP may precipitate cerebral infarction and blindness, since patients cannot compensate for an abrupt drop. It does not cause rebound hypertension (B), pulmonary edema (C), or hyperkalemia (D). For this reason, abrupt forms of therapy should be avoided in hypertensive urgency, and long-acting agents are preferred to achieve a controlled, gradual reduction in pressure."
+  },
+  {
+   "topic": "Nifedipine",
+   "question": "Short-acting nifedipine is no longer recommended as first-line therapy for severe hypertension because of reports of:",
+   "options": {
+    "A": "Myocardial, cerebral, and retinal ischemia after its use",
+    "B": "Severe hyperkalemia",
+    "C": "Lupus-like syndrome",
+    "D": "Anaphylactoid reactions"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: short-acting nifedipine is no longer recommended as first-line therapy for severe hypertension because of reports documenting myocardial, cerebral, and retinal ischemia after its use. It is not withdrawn for hyperkalemia (B), lupus-like syndrome (C), or anaphylactoid reactions (D). The abrupt, uncontrolled BP fall it produces is dangerous given upward-reset cerebral autoregulation, so long-acting nifedipine or another long-acting calcium antagonist, or clonidine, is used instead."
+  },
+  {
+   "topic": "Hypertensive urgency treatment",
+   "question": "First-line oral therapy for a hypertensive urgency should be:",
+   "options": {
+    "A": "Short-acting nifedipine",
+    "B": "Long-acting nifedipine, another long-acting calcium antagonist, or clonidine",
+    "C": "Intravenous nitroprusside",
+    "D": "Intravenous labetalol"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: first-line oral therapy for hypertensive urgency is the long-acting preparation of nifedipine, another long-acting calcium antagonist, or clonidine. Short-acting nifedipine (A) is no longer recommended because of ischemic complications, and IV nitroprusside (C) or IV labetalol (D) are reserved for emergencies or when oral therapy fails. If the patient is already on such drugs, a beta-blocker, an ACE inhibitor, or a combination can be added before resorting to parenteral agents."
+  },
+  {
+   "topic": "Hypertensive emergency",
+   "question": "Hypertensive emergencies are defined as increases in arterial pressure that, if sustained for a few hours, would cause:",
+   "options": {
+    "A": "Irreversible organ damage",
+    "B": "Transient headache",
+    "C": "Reversible visual blurring",
+    "D": "Mild proteinuria"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: hypertensive emergencies are defined as increases in arterial pressure that, if sustained for a few hours, would cause irreversible organ damage, not merely transient headache (B), reversible visual blurring (C), or mild proteinuria (D). Examples include hypertensive encephalopathy, left ventricular failure, unstable angina/MI, aortic dissection, and cerebral hemorrhage/infarction. Because damage is irreversible, emergencies require parenteral drugs rather than the oral agents used for urgencies."
+  },
+  {
+   "topic": "Nitroprusside",
+   "question": "Nitroprusside requires careful monitoring in renal failure because its toxic metabolite, which is retained, is:",
+   "options": {
+    "A": "Thiocyanate",
+    "B": "Bradykinin",
+    "C": "Angiotensin II",
+    "D": "Nitric oxide"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: nitroprusside's toxic metabolite thiocyanate is retained in renal failure, so careful monitoring is required. It is not bradykinin (B), angiotensin II (C), or nitric oxide (D). Cyanide levels should be monitored every 48 hours and should not exceed 10 mg/dL, and symptoms of thiocyanate toxicity include nausea, vomiting, myoclonic movements, and seizures. The infusion should generally not exceed 48 hours, though both nitroprusside and its metabolites are readily removed by dialysis."
+  },
+  {
+   "topic": "Nitroprusside",
+   "question": "The recommended maximum duration of a nitroprusside infusion and its dialyzability are, respectively:",
+   "options": {
+    "A": "Not more than 48 hours; both drug and metabolites readily removed by dialysis",
+    "B": "Up to 7 days; not removed by dialysis",
+    "C": "Not more than 12 hours; poorly dialyzed",
+    "D": "Indefinite; removed only by peritoneal dialysis"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: a nitroprusside infusion generally should not be prolonged beyond 48 hours, and both the drug and its metabolites are readily removed by dialysis. Options citing up to 7 days (B), 12 hours (C), or indefinite duration (D) are incorrect. The 48-hour limit reflects accumulation of toxic thiocyanate in renal failure, monitored by cyanide levels every 48 hours (not exceeding 10 mg/dL). Dialyzability is an advantage in ESKD, allowing removal of retained toxic metabolites."
+  },
+  {
+   "topic": "Hypertensive emergency drugs",
+   "question": "For a hypertensive emergency with heart failure or dissecting aneurysm, the particularly useful parenteral agent is:",
+   "options": {
+    "A": "Nitroprusside by continuous IV infusion",
+    "B": "Oral clonidine",
+    "C": "Intravenous hydralazine",
+    "D": "Short-acting nifedipine"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: nitroprusside by continuous IV infusion (0.3-0.8 up to a maximum 8 mcg/kg per minute) is particularly useful in heart failure and dissecting aneurysm. Oral clonidine (B) is for urgencies, IV hydralazine (C) should be avoided in ischemic heart disease and is an alternative, and short-acting nifedipine (D) is no longer recommended. Nitroprusside requires monitoring because thiocyanate is retained in renal failure, but it and its metabolites are readily removed by dialysis."
+  },
+  {
+   "topic": "IV labetalol",
+   "question": "Intravenous labetalol for a hypertensive emergency should be avoided in patients with:",
+   "options": {
+    "A": "Diabetes",
+    "B": "Heart failure, asthma, or heart block",
+    "C": "Hyperlipidemia",
+    "D": "Peripheral neuropathy"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: IV labetalol may be considered for a hypertensive emergency in patients without heart failure, asthma, or heart block, given as 2 mg/min to a total of 2 mg/kg. It is not specifically contraindicated in diabetes (A), hyperlipidemia (C), or peripheral neuropathy (D) in this context. As a combined alpha/beta-blocker, its beta-blocking action makes heart failure, bronchospastic disease, and conduction block the key contraindications to avoid precipitating decompensation."
+  },
+  {
+   "topic": "IV hydralazine",
+   "question": "Intravenous hydralazine, a well-tried alternative for hypertensive emergencies, should be avoided in patients with:",
+   "options": {
+    "A": "Ischemic heart disease",
+    "B": "Diabetes",
+    "C": "Asthma",
+    "D": "Chronic anemia"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: IV hydralazine, given 10-20 mg slowly, is a well-tried alternative for hypertensive emergencies but should be avoided in ischemic heart disease. It is not specifically contraindicated here in diabetes (B), asthma (C), or chronic anemia (D). As a direct vasodilator it causes reflex tachycardia that can worsen angina and myocardial ischemia, hence the caution in ischemic heart disease; labetalol or nitroprusside are alternatives depending on the clinical setting."
+  },
+  {
+   "topic": "Treatment targets",
+   "question": "The stated treatment target for home blood pressure in dialysis patients is:",
+   "options": {
+    "A": "Less than 120/70 mm Hg",
+    "B": "Less than 135/85 mm Hg",
+    "C": "Less than 140/90 mm Hg",
+    "D": "Less than 150/95 mm Hg"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: the treatment target for home BP in dialysis patients is less than 135/85 mm Hg. Less than 120/70 (A) is stricter than stated, and 140/90 (C, the intradialysis median target) or 150/95 (D) are not the home target. Corresponding targets are 24h-ABPM <130/80 and median intradialysis BP <140/90 mm Hg. These mirror the diagnostic thresholds, and pressure goals should still be individualized by age, comorbidity, cardiac function, and neurologic status."
+  },
+  {
+   "topic": "Individualized goals",
+   "question": "Arterial pressure goals in dialysis patients should be established individually taking into account age, comorbid conditions, cardiac function, and:",
+   "options": {
+    "A": "Neurologic status",
+    "B": "Dialysate composition",
+    "C": "Vascular access type",
+    "D": "Serum albumin"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: arterial pressure goals should be established individually, taking into account age, comorbid conditions, cardiac function, and neurologic status. Dialysate composition (B), vascular access type (C), and serum albumin (D) are not the listed factors. This individualization tempers the uniform treatment targets (home BP <135/85, ABPM <130/80, median intradialysis <140/90), recognizing that overly aggressive lowering can be hazardous in patients with impaired cerebral or cardiac reserve."
+  },
+  {
+   "topic": "Plasma norepinephrine",
+   "question": "High plasma noradrenaline (norepinephrine) levels in ESKD patients are associated with:",
+   "options": {
+    "A": "Improved survival",
+    "B": "Cardiovascular mortality",
+    "C": "Lower left ventricular mass",
+    "D": "Reduced sympathetic activity"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: high plasma noradrenaline (norepinephrine) levels associate with cardiovascular mortality in ESKD, not improved survival (A), lower LV mass (C), or reduced sympathetic activity (D). This reflects the harmful role of sympathetic overactivity, which is increased in dialysis patients. It provides a rationale for beta-blockers, which counteract the cardiovascular effects of high sympathetic activity and lower plasma renin activity and angiotensin II, and show cardioprotective benefit."
+  },
+  {
+   "topic": "Renin rationale",
+   "question": "The pathophysiologic rationale for using ACE inhibitors and ARBs in some dialysis patients is that plasma renin activity may be:",
+   "options": {
+    "A": "Absent",
+    "B": "Overtly high or inadequately suppressed in volume-expanded patients",
+    "C": "Always suppressed by volume expansion",
+    "D": "Unmeasurable"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: the rationale for ACE inhibitors and ARBs is that plasma renin activity is overtly high in some dialysis patients and inadequately suppressed in volume-expanded patients, rather than absent (A), always suppressed by volume expansion (C), or unmeasurable (D). Because angiotensin II is strongly implicated in LVH even independently of hypertension, RAAS blockade is theoretically attractive given how many dialysis patients have LVH, though ramipril trials failed to regress it."
+  },
+  {
+   "topic": "Olmesartan trial",
+   "question": "A large open-label trial of olmesartan in hypertensive dialysis patients without previous cardiovascular complications:",
+   "options": {
+    "A": "Halved mortality",
+    "B": "Failed to show a benefit on mortality and cardiovascular events",
+    "C": "Was stopped early for benefit",
+    "D": "Showed marked LVH regression"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: a large open-label trial of olmesartan in hypertensive dialysis patients without previous cardiovascular complications failed to show a benefit on mortality and cardiovascular events. It did not halve mortality (A), stop early for benefit (C), or show LVH regression (D). This negative result contrasts with earlier open-label ARB trials (candesartan, losartan, valsartan) that showed about a 30% event reduction, underscoring inconsistent ARB outcome data in dialysis."
+  },
+  {
+   "topic": "Beta-blocker cautions",
+   "question": "Non-selective beta-blockers need to be used cautiously in patients with a tendency toward:",
+   "options": {
+    "A": "Pulmonary edema or asthma",
+    "B": "Constipation",
+    "C": "Hypertrichosis",
+    "D": "Hyperkalemia only"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: non-selective beta-blockers must be used cautiously in patients with a tendency toward pulmonary edema or asthma, because of bronchoconstriction and cardiac depression risk, and in those already on some calcium channel blockers. Constipation (B), hypertrichosis (C), and hyperkalemia alone (D) are not the cited cautions. Combining beta-blockers with calcium channel blockers can precipitate congestive heart failure, reinforcing the need for caution in susceptible patients."
+  },
+  {
+   "topic": "Beta-blocker effects",
+   "question": "Beta-blockers can be hazardous in diabetic patients partly because they:",
+   "options": {
+    "A": "Cause hyperglycemia directly",
+    "B": "Mask hypoglycemia symptoms and augment insulin-induced hypoglycemia",
+    "C": "Increase insulin clearance",
+    "D": "Cause diabetic ketoacidosis"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: beta-blockers can be hazardous in diabetics because they mask the symptoms of hypoglycemia and augment insulin-induced hypoglycemia. They do not cause hyperglycemia directly (A), increase insulin clearance (C), or cause ketoacidosis (D). By blunting the adrenergic warning signs of low glucose while worsening insulin-induced falls, they raise the risk of unrecognized hypoglycemia. Beta-blockers may also cause bradycardia and raise serum potassium by impairing cellular uptake."
+  },
+  {
+   "topic": "Peritoneal dialysis drugs",
+   "question": "Regarding the removal of oral antihypertensive drugs during continuous ambulatory peritoneal dialysis (CAPD):",
+   "options": {
+    "A": "All are heavily removed",
+    "B": "None undergo substantial removal during CAPD",
+    "C": "Only beta-blockers are removed",
+    "D": "Only ARBs are removed"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: none of the listed antihypertensive drugs undergoes substantial removal during continuous ambulatory peritoneal dialysis (CAPD). It is not true that all are heavily removed (A), or that only beta-blockers (C) or only ARBs (D) are removed. This contrasts with hemodialysis, which does substantially remove certain agents such as water-soluble beta-blockers and several ACE inhibitors, requiring postdialysis dosing. On CAPD, no postdialysis timing adjustment is needed for these drugs."
+  },
+  {
+   "topic": "Volume-mortality link",
+   "question": "The relationship between chronic extracellular volume expansion and mortality in hemodialysis patients is described as:",
+   "options": {
+    "A": "Nonexistent",
+    "B": "Well established",
+    "C": "Protective",
+    "D": "Limited to diabetics"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: the relationship between chronic extracellular volume expansion and mortality in hemodialysis patients is well established, not nonexistent (A), protective (C), or limited to diabetics (D). Volume overload also associates with diastolic dysfunction, though it is not always clear whether it causes or merely marks severe cardiac disease. This established link is why extracellular volume expansion and sodium retention are considered the main cause of dialysis hypertension and a target for treatment."
+  },
+  {
+   "topic": "Nocturnal BP",
+   "question": "Regarding the nocturnal BP profile in dialysis patients, the chapter notes that:",
+   "options": {
+    "A": "Dipping is preserved in nearly all patients",
+    "B": "It is frequently altered, and effective means of correcting lack of nocturnal dipping have not been determined",
+    "C": "Nocturnal hypotension is universal",
+    "D": "It is unaffected by sleep apnea"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: the nocturnal BP profile is frequently altered in dialysis patients, and effective means of correcting the lack of nocturnal dipping have not been determined. Dipping is not preserved in nearly all patients (A), nocturnal hypotension is not universal (C), and it is not unaffected by sleep apnea (D), since sleep apnea drives nocturnal hypertension. ABPM can reveal this altered nocturnal profile, but no proven intervention restores normal dipping in this population."
+  },
+  {
+   "topic": "Antihypertensive prescribing",
+   "question": "Prescription patterns of antihypertensive drug classes in dialysis patients vary substantially by all of the following EXCEPT:",
+   "options": {
+    "A": "Comorbidity",
+    "B": "Race/ethnicity",
+    "C": "Age",
+    "D": "Sex"
+   },
+   "correct": "D",
+   "explanation": "Correct answer D: prescription patterns of antihypertensive classes vary substantially by comorbidity, race/ethnicity, and age, but little by sex, so sex is the exception. Comorbidity (A), race/ethnicity (B), and age (C) all show substantial variation. Prescription patterns also differ by dialysis modality and change substantially from the sixth month of treatment onward. The mean number of antihypertensive drugs at month six is 2.5, reflecting individualized rather than uniform prescribing."
+  },
+  {
+   "topic": "Vasodilator side effects",
+   "question": "The side effects of hydralazine and minoxidil relate primarily to reflex tachycardia and its consequences, which include:",
+   "options": {
+    "A": "Palpitations, dizziness, and worsening of angina pectoris",
+    "B": "Bradycardia and heart block",
+    "C": "Hyperkalemia and cramps",
+    "D": "Sedation and dry mouth"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: the side effects of hydralazine and minoxidil relate primarily to reflex tachycardia and its consequences, namely palpitations, dizziness, and worsening of angina pectoris. Bradycardia/heart block (B), hyperkalemia/cramps (C), and sedation/dry mouth (D, clonidine effects) are incorrect. Because these vasodilators trigger reflex tachycardia, they are third-line agents usually requiring a co-administered sympatholytic or beta-blocker, and hydralazine should be avoided in ischemic heart disease."
+  },
+  {
+   "topic": "Moxonidine efficacy",
+   "question": "In patients with advanced renal failure, moxonidine added to other antihypertensives was well tolerated and comparable in efficacy to:",
+   "options": {
+    "A": "Nitrendipine",
+    "B": "Lisinopril",
+    "C": "Carvedilol",
+    "D": "Prazosin"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: in patients with advanced renal failure, moxonidine added to other antihypertensives was well tolerated and comparable in efficacy to nitrendipine. It was not compared favorably here to lisinopril (B), carvedilol (C), or prazosin (D). A low, nonhypotensive dose of moxonidine produces a sustained reduction in directly recorded sympathetic activity in dialysis patients. However, MOXCON showed excess deaths in heart failure, so moxonidine is unwarranted in dialysis patients with heart failure."
+  },
+  {
+   "topic": "Atenolol dosing",
+   "question": "According to dosing guidance for dialysis patients, atenolol is typically administered on which schedule reflecting its dialytic removal?",
+   "options": {
+    "A": "Twice daily",
+    "B": "Every other day (q48h), given after dialysis",
+    "C": "Continuous infusion",
+    "D": "Weekly"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: atenolol is dosed every other day (q48h) in dialysis patients and, being a water-soluble beta-blocker substantially removed by hemodialysis, should be administered after dialysis. Twice daily (A), continuous infusion (C), and weekly (D) are incorrect. Postdialysis dosing prevents the session from stripping the drug before it can act. In the HDPAL trial, atenolol halved major cardiovascular events versus lisinopril despite similar 44-hour ambulatory BP reductions."
+  },
+  {
+   "topic": "Prevention overview",
+   "question": "Because most fluid intake is driven by salt ingestion, the cornerstone of preventing volume-dependent hypertension in dialysis patients is:",
+   "options": {
+    "A": "Increasing dialysate sodium",
+    "B": "Sodium and fluid restriction",
+    "C": "Routine ARB use",
+    "D": "Frequent blood transfusion"
+   },
+   "correct": "B",
+   "explanation": "Correct answer B: because most fluid intake is driven by salt ingestion, sodium and fluid restriction is the cornerstone of preventing volume-dependent hypertension in dialysis patients. Increasing dialysate sodium (A) would worsen thirst and weight gain, routine ARB use (C) is a drug strategy not primary prevention, and blood transfusion (D) is irrelevant. Patients should restrict sodium chloride to 5 g per day (2 g or 87 mmol sodium), reducing thirst-driven intake and the ultrafiltration burden."
+  },
+  {
+   "topic": "Intradialytic hypotension outcomes",
+   "question": "Frequent intradialytic hypotensive episodes are associated with increased mortality, though it remains unclear whether:",
+   "options": {
+    "A": "The association is causal",
+    "B": "Hypotension can be measured",
+    "C": "Dialysis is beneficial",
+    "D": "Volume overload exists"
+   },
+   "correct": "A",
+   "explanation": "Correct answer A: frequent intradialytic hypotensive episodes are associated with increased mortality, though it remains unclear whether the association is causal. The other options, that hypotension can be measured (B), that dialysis is beneficial (C), or that volume overload exists (D), are not the stated uncertainty. Intradialytic hypotension also links to myocardial stunning and subtle brain white-matter ischemia, so it is minimized by limiting ultrafiltration rate and lengthening dialysis time."
+  },
+  {
+   "topic": "Intradialytic hypertension mechanisms",
+   "question": "Intradialysis/end-dialysis hypertension is multifactorial and has been linked to subclinical volume overload plus all of the following EXCEPT:",
+   "options": {
+    "A": "Sympathetic overactivity",
+    "B": "Renin-angiotensin overactivity",
+    "C": "Endothelial dysfunction",
+    "D": "Hypoalbuminemia"
+   },
+   "correct": "D",
+   "explanation": "Correct answer D: intradialysis/end-dialysis hypertension is multifactorial and linked to subclinical volume overload plus sympathetic overactivity, renin-angiotensin overactivity, and endothelial dysfunction, but not hypoalbuminemia, which is the exception. It occurs in about 15% of patients and carries a higher death risk. Treatment is uncertain; anecdotally lowering the target dry weight has helped some, but not all such patients are clearly fluid-overloaded, so management remains individualized."
+  }
+ ]
+}

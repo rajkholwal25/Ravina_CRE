@@ -1,0 +1,929 @@
+736
+39
+In women with end stage kidney disease, fertility is decreased but the 
+possibility of pregnancy is high enough that it needs to be prevented 
+if not desired and managed carefully by a multidisciplinary team if 
+it does occur. The hypothalamic–pituitary–ovarian axis is deranged, 
+contributing to decreased fertility, loss of libido, and abnormal uter -
+ine bleeding.
+ I. BIRTH CONTROL
+A. Indications. Forty percent of women under the age of 55 treated 
+with dialysis menstruate, but periods may be anovulatory or 
+characterized by a shortened luteal phase (Holley, 1997). Infer-
+tility is the rule, with pregnancy occurring in 0.3% to 1% per 
+year in women aged 14–44. There is some suggestion that the 
+use of erythropoietin and the increasing intensity of dialysis 
+resulting from increased target Kt/V may have changed the 
+hormonal abnormalities and other factors contributing to 
+infertility in dialysis patients and that the frequency of preg -
+nancy may have increased. A role for increased dialysis in 
+increasing fertility is suggested by the experience of the noc-
+turnal dialysis program at the University of Toronto, where, 
+on average, women are receiving 36 hours of dialysis per 
+week (Nadeau-Fredette, 2013). In this program, conception 
+has occurred in 15% of women of childbearing age. Dialysis 
+patients on standard dialysis regimens occasionally conceive, 
+and when pregnancies occur, patient management is enor -
+mously complicated. Birth control is advisable for women 
+who do not wish to conceive. It is difficult to identify women 
+at high risk for pregnancy. Women who become pregnant 
+once on dialysis frequently conceive again. Women who have 
+become pregnant with renal insufficiency prior to starting 
+dialysis, and women with regular menses are at increased risk, 
+but pregnancies have occurred in women treated with dialysis 
+following years of amenorrhea.
+B. Methods of contraception. Diaphragms and condoms can be used 
+as in individuals with normal renal function. The incidence 
+of pregnancy with barrier methods is as high as 25%–29% per 
+year in normal women, but would be expected to be much 
+Obstetrics and Gynecology 
+in Dialysis Patients
+Susan Hou and Susan Grossman
+Daugirdas9781451144291-ch039.indd   736 09/10/14   1:47 am
+737Chapter 39 / Obstetrics and Gynecology in Dialysis Patients
+lower in dialysis patients. Many women may opt for more 
+effective and less cumbersome methods of contraception. 
+Oral contraceptives can be used but are contraindicated in 
+women with a history of thrombophlebitis or severe hyper -
+tension. Low-dose estrogen oral contraceptives can be used 
+in patients with lupus who have no history of thrombosis or 
+uncontrolled hypertension. Copper and levonorgesterone 
+containing IUDs (intrauterine devices) can be used in women 
+with diabetes, diabetes with nephropathy, systemic lupus ery-
+thematosus, and multiple cardiovascular risk factors, and are 
+good birth control methods for women both on hemodialysis 
+(HD) and peritoneal dialysis (PD) . There are no guidelines 
+from the U.S. Medical Eligibility Criteria for Contraceptive Use 
+or from randomized controlled trials. There has been some 
+concern that IUDs might increase the risk of peritonitis in 
+women on PD, but this risk has not been well studied. There 
+has also been concern without information on the effect of 
+estrogen on access patency. The provision of estrogen offers 
+the theoretical benefit of protecting bones from the effects of 
+hypoestrogenemia seen in  dialysis patients.
+Many women on dialysis have prolonged periods of 
+anovulatory bleeding, associated with the unopposed effect 
+of estrogen on the endometrium. Estrogen–progesterone 
+cycling might reduce the risk of endometrial cancer that is 
+associated with unopposed estrogen. Treatment of infertil-
+ity has generally not been attempted because pregnancy is 
+dangerous for the mother and the outcome is still poor. The 
+exception is a switch to nocturnal dialysis with higher rates 
+of conception.
+ II. PREGNANCY
+A. Frequency and outcome. Estimates of the frequency of pregnancy 
+in women of childbearing age treated with dialysis range from 
+a high of 1.4% per year in Saudi Arabia to 0.44% in Japan to 
+a low of 0.3% per year in Belgium (Nadeau-Fredette, 2013). 
+The  frequency of pregnancy in American women on dialysis 
+is about 0.5% per year (Okundaye, 1998). For reasons that are 
+unclear, conception occurs two to three times more frequently 
+in hemodialysis patients than in PD patients. The likelihood of 
+pregnancy in a dialysis patient resulting in a surviving infant, 
+excluding elective abortions, is about 50%. The chances of 
+success improve once she has reached the second trimester, 
+and then it approaches 60%–70%. There is a further improve-
+ment in outcome with intensive dialysis. For women who start 
+dialysis after conception, the likelihood of having a surviving 
+infant is 75%–80%. Of unsuccessful pregnancies, 68% result in 
+spontaneous abortion, 13% in stillbirth, 16% in neonatal death 
+and 3% in therapeutic abortion for life-threatening maternal 
+problems. Approximately 40% of spontaneous abortions occur 
+in the second trimester.
+Daugirdas9781451144291-ch039.indd   737 09/10/14   1:47 am
+Part IV / Clinical Problem Areas
+738
+B. Diagnosis. A high index of suspicion is required to make a 
+timely diagnosis of pregnancy. Amenorrhea is common, and 
+symptoms of early pregnancy such as nausea are often attrib-
+uted to metabolic or gastrointestinal problems. A blood-
+based pregnancy test (serum levels of the β subunit of HCG) 
+should be done prior to radiographic studies for abdominal 
+complaints. Urine pregnancy tests are not reliable even if the 
+patient is not anuric. Even with blood tests, false positives and 
+false negatives occur. The small amounts of HCG produced 
+by somatic cells may be excreted slowly enough in renal fail-
+ure for blood levels to be borderline positive for pregnancy. 
+Occasionally, these borderline results have led to cancellation 
+of elective surgery. During pregnancy, β-HCG levels are more 
+elevated than expected for gestational age, so gestational age 
+is best assessed by ultrasound. Failure to appreciate the high 
+β-HCG levels has led to mistaken diagnosis of a hydatidiform 
+mole and the mistaken belief that a pregnancy was not viable 
+when no fetal heart beat was found when high levels of β-HCG 
+led doctors to think the pregnancy was more advanced than 
+it was (Potluri, 2011). The reasons for false negative tests are 
+unclear. Similarly, serum tests of α-fetoprotein done to screen 
+for Down's syndrome may be falsely elevated in pregnant dial-
+ysis patients, and amniocentesis with karyotyping should be 
+done to confirm abnormal results.
+C. Management of hypertension during pregnancy. The major maternal 
+risk associated with pregnancy in dialysis patients is severe 
+hypertension. Eighty percent of pregnant dialysis patients have 
+some degree of hypertension (BP >140/90 mm Hg). Forty per-
+cent have severe hypertension with diastolic blood pressures 
+greater than 110 mm Hg or systolic blood pressures greater 
+than 180 mm Hg. Seventy-five percent of severe hypertension 
+occurs before the third trimester. Intensive care unit admis -
+sions for control of accelerated hypertension are required 
+in 2% to 5% of pregnant dialysis patients. Patients should be 
+taught to take their blood pressure on nondialysis days and 
+report any increases in blood pressure promptly. Monitoring 
+of blood pressure should continue for 6 weeks postpartum. 
+Hypertension, even when severe, may not require the termina-
+tion of pregnancy. The first step toward blood pressure control 
+as in the nonpregnant patient is to make sure that the woman 
+is euvolemic.
+1. Drug therapy . If the blood pressure remains higher than 
+140/90 mm Hg when the patient is euvolemic, there are 
+several first line drugs than can be used safely, including 
+α-methyldopa, labetalol, and calcium channel blockers. 
+There is less experience with β-blockers and clonidine, 
+but, with the exception of atenolol, these are probably safe. 
+Hydralazine can be added to any of these first line drugs, 
+but it does not work as a single agent when given orally. 
+Angiotensin converting enzyme inhibitors and angioten -
+sin receptor blockers are contraindicated in pregnancy. In 
+Daugirdas9781451144291-ch039.indd   738 09/10/14   1:47 am
+739Chapter 39 / Obstetrics and Gynecology in Dialysis Patients
+animal studies, they have been associated with a fetal loss 
+rate of 80%–93%. In humans, their use has been associated 
+with an ossification defect in the skull, dysplastic kidneys, 
+neonatal anuria, and death from hypoplastic lungs. One 
+report that noted an increase in congenital anomalies with 
+first trimester exposure to ACE inhibitors has driven prac -
+tice away from first trimester use (Cooper, 2006) despite 
+contradictory data in other studies.
+2. Superimposed preeclampsia and hypertensive crisis.  Women 
+treated with chronic dialysis are at increased risk for super-
+imposed preeclampsia, but the diagnosis is difficult to 
+make in the absence of findings of the HELLP (Hemolysis, 
+Elevated Liver Enzymes, Low Platelets) syndrome such as 
+thrombocytopenia, elevated liver enzymes, or microangio -
+pathic hemolytic anemia.
+There appears to be some benefit of low-dose aspirin 
+in preventing preeclampsia in women at high risk for the 
+disease. Although dialysis patients have not been specifi-
+cally studied, they constitute an extremely high-risk group 
+and can be given 75 mg daily of aspirin.
+a. Antihypertensive drugs. Intravenous hydralazine is the drug 
+of first choice for hypertensive crisis in pregnant women 
+and should be given in doses of 5–10 mg every 20–30 
+minutes. Labetalol is a good alternative. It can be given as 
+a 20-mg bolus repeated every 30 minutes to a maximum 
+of 220 mg or as a continuous infusion with 1 to 2 mg/min 
+followed by 5–10 mg/hr to a maximum of 300 mg.
+b. Magnesium. Magnesium is superior to other anticonvul -
+sants for seizure prophylaxis in women with preeclamp-
+sia, but it must be used with extreme caution in dialysis 
+patients. A loading dose can be given safely. Additional 
+magnesium should not be given until after dialysis or 
+until after a drop in the serum magnesium level has been 
+demonstrated. Magnesium potentiates the hypotensive 
+effects of calcium channel blockers, and any calcium 
+channel blocker should be stopped if magnesium is 
+required.
+D. Dialysis regimen during pregnancy
+1. Dialysis modality . In direct comparisons of dialysis modali-
+ties, there is no difference in outcome of pregnancy 
+between hemodialysis patients and peritoneal dialysis 
+patients, as measured by either infant survival or mean 
+gestational age of live-born infants (Okundaye, 1998). How-
+ever, it is easier to increase the amount of dialysis delivered 
+with hemodialysis. The higher success rates reported in 
+more recent studies have been achieved in hemodialysis 
+patients. Although dialysis modality should not be changed 
+because of pregnancy, it may be easier to start hemodi-
+alysis in a pregnant woman than peritoneal. If peritoneal 
+dialysis is elected, placement of a peritoneal catheter is 
+possible at any stage of pregnancy, but immediate use and 
+Daugirdas9781451144291-ch039.indd   739 09/10/14   1:47 am
+Part IV / Clinical Problem Areas
+740
+increased intra-abdominal pressure may increase the risk 
+of leaking around the catheter. There have been instances 
+of mechanical problems with peritoneal catheters with 
+changes in fetal position. Some nephrologists have elected 
+to supplement peritoneal dialysis with hemodialysis when 
+pregnancy is near term.
+2. Intensive dialysis.  There is growing evidence that the 
+ likelihood of a surviving infant is increased with intensive 
+dialysis. The ideal number of hours of dialysis has not been 
+established. There was a marked improvement in out -
+comes for women dialyzed more than 20 hours per week, 
+with a corresponding decrease in severe prematurity com-
+pared with less intense regimens (Hou, 2010). Infant sur -
+vival was 75% for pregnancies in the group dialyzed more 
+than 20 hours a week compared with 33% and 44% for 
+less intensively dialyzed groups. Mean gestational age for 
+babies born to women dialyzed more than 20 hours a week 
+was 34 weeks compared with 30 weeks in less intensively 
+dialyzed women. Even better outcomes have been seen 
+in women undergoing nocturnal hemodialysis 48 hours 
+weekly with most infants surviving and born close to term 
+(Nadeau-Fredette, 2013). In a comparison of pregnancy 
+results in the United States versus Canada, there was a sug-
+gestion of a “dose response” relationship between duration 
+of weekly dialysis and pregnancy outcomes (Hladunewich, 
+2014). There may be some amount of dialysis between 20 
+and 48 hours a week that will lead to satisfactory outcomes. 
+Daily dialysis decreases the fluid removal at each treat -
+ment, decreasing the risk of hypotension during dialysis. 
+Daily dialysis also allows the patient to eat a high-protein 
+diet to ensure that the needs of pregnancy are met.
+Increasing the intensity of dialysis in peritoneal dialy-
+sis patients is difficult. Late in pregnancy, women have 
+difficulty with severe abdominal distension, and exchange 
+volume may have to be decreased. It becomes necessary to 
+increase the frequency of exchanges even to maintain the 
+same level of dialysis. A combination of frequent daytime 
+exchanges and nighttime cycler is often necessary.
+Some have raised the question whether increased 
+ dialysis might have a detrimental effect by causing electrolyte 
+abnormalities or by removing progesterone. Progesterone 
+withdrawal plays a role in the initiation of labor. Measure-
+ments of serum progesterone levels during dialysis in preg-
+nant dialysis patients are variable. Brost and colleagues 
+(1999) measured pre- and postdialysis progesterone levels in 
+seven pregnant dialysis patients. Changes in serum proges-
+terone ranged from a 52% decrease in levels to an 8% increase 
+(Brost, 1999). Changes in serum progesterone were not asso-
+ciated with changes in home uterine activity monitoring.
+3. Dialysis solution calcium.  With the recognition of the risk of 
+soft tissue calcification in long-term dialysis patients, a 
+Daugirdas9781451144291-ch039.indd   740 09/10/14   1:47 am
+741Chapter 39 / Obstetrics and Gynecology in Dialysis Patients
+2.25  mEq/L (1.125 mM) or 2.5 mEq/L (1.25 mM) calcium 
+concentration has replaced 3.5 mEq/L (1.75 mM) as stan -
+dard. When a bath containing 2.5 mEq/L (1.25 mM) is used, 
+the patient is usually in positive calcium balance, averag-
+ing about 200  mg/treatment. There is some production of 
+calcitriol by the placenta that may increase serum calcium. 
+Predialysis serum calcium levels should be checked weekly. 
+The fetus needs 25 to 30 g of calcium for calcification of the 
+fetal skeleton. With a 2.5 mEq/L (1.25 mM) bath, 25 weeks 
+of dialysis should provide enough calcium, but premature 
+birth is common enough, and calcium flux variable enough, 
+that oral supplementation is advisable. If the woman 
+requires phosphate binders, 1 to 2 g of elemental calcium 
+should be sufficient. Over the long term, dialysate calcium 
+should be low enough to minimize soft tissue calcification, 
+but over the short term of pregnancy, calcium should be 
+sufficient for the fetal skeleton. Skeletal abnormalities have 
+been described in one baby born to a dialysis patient. For 
+women who need phosphate binders, calcium-containing 
+binders are the only group known to be safe in pregnancy. 
+There is no experience with sevelamer or lanthanum car -
+bonate in pregnancy. Lanthanum is neurotoxic in fetal mice.
+Some women become hypophosphatemic. Often, 
+phosphate binders are no longer required, and it may be 
+necessary to add phosphorus to the bath (e.g., 4 mg/dL 
+[1.3 mM] phosphorus or higher). For women who do not 
+need phosphate binders, calcium can be provided in a 
+lower dose separate from meals. Experience with cinacal-
+cet in pregnancy is limited to a few case reports of use in 
+primary hyperparathyroidism. Serum calcium and phos -
+phorus should be monitored weekly. Hypercalcemia may 
+suppress the fetal parathyroid glands and cause neonatal 
+tetany.
+4. Dialysis solution bicarbonate.  With a standard bath, daily 
+dialysis carries a theoretical risk of alkalosis. Metabolic 
+alkalosis carries an increased risk in pregnant women who 
+have a concurrent respiratory alkalosis; however, in the 
+few instances where arterial blood gases have been done, 
+compensatory hypercapnia has occurred in women with 
+severe metabolic alkalosis. Serum bicarbonate in normal 
+pregnancy is 18–20 mmol/L. A 25 mM bicarbonate dialy -
+sis bath is usually effective in avoiding alkalosis. When this 
+bicarbonate concentration is not available, bicarbonate 
+can be removed by increasing ultrafiltration and replacing 
+the losses with saline.
+5. Dialysis solution sodium. Normal serum sodium is decreased 
+during pregnancy to approximately 134 mmol/L. Since 
+thirst is normal, the pregnant woman will take in enough 
+water to normalize serum sodium if it is high at the end of 
+dialysis. With daily dialysis, fluid removal should be modest 
+enough to make sodium modeling unnecessary.
+Daugirdas9781451144291-ch039.indd   741 09/10/14   1:47 am
+Part IV / Clinical Problem Areas
+742
+6. Monitoring weight gain. Determination of optimal postdialysis 
+weight is problematic in pregnant dialysis patients. Rec-
+ommended weight gain for women who become pregnant 
+at their ideal body weight is 11.5–16 kg. Only 1.6 kg of this 
+weight gain occurs in the first trimester. During pregnancy, 
+there is a 50% increase in blood volume, but vasodilatation 
+normally prevents the development of hypertension. There 
+is some evidence that blood volume does not increase 
+appropriately in pregnant women with renal insufficiency, 
+but blood volume has not been studied in pregnant dialysis 
+patients.
+In early pregnancy, it may become difficult to dialyze 
+the patient down to her prepregnancy dry weight, but the 
+change should be only 0.9 to 2.3 kg, depending on the pre-
+pregnancy body mass index (BMI). Recommended weight 
+gain in the second and third trimesters is between 0.3 and 
+0.5 kg per week, again depending on the prepregnancy 
+BMI. While the nutritionist in the dialysis unit can provide 
+dietary guidelines for appropriate weight gain during preg-
+nancy, the most pressing question for the dialysis unit staff  
+is determining how much of the weight change between 
+treatments is excess fluid and how much is part of the 
+desired pregnancy-associated weight gain.
+With daily dialysis, fluid gain between treatments 
+should be small, but the majority of the day-to-day change 
+in weight is still usually fluid. The woman should have a 
+careful weekly examination to look for signs of fluid over -
+load. With daily dialysis, volume-related hypertension 
+should be minimized, and if there is any increase in blood 
+pressure, particularly during dialysis, the patient should be 
+evaluated for preeclampsia.
+7. Heparinization. Clotting of the extracorporeal circuit or the 
+dialysis access occurs frequently during pregnancy. Hepa -
+rin does not cross the placenta, and unless there is vaginal 
+bleeding, it is not necessary to lower the dose.
+E. Management of anemia. Anemia in pregnant women is associated 
+with premature birth and low birth weight. The hemoglobin 
+level at which anemia contributes to these problems is not 
+well established. Dialysis patients who become pregnant usu -
+ally experience worsening anemia. Plasma volume increases 
+while red cell mass, which increases in normal pregnancy, is 
+limited by erythropoietin dose. While target hemoglobin levels 
+for nonpregnant dialysis patients have decreased, a target for 
+pregnancy has not been clearly established. However, we would 
+choose a target of 10–11 g/dL (100–110 g/L) until more data are 
+available, based on the World Health Organization's definition of 
+anemia in pregnancy as a hemoglobin of 11 g/dL (110 g/L) or less.
+1. Erythropoiesis stimulating agents (ESA).  It has become usual 
+practice to continue erythropoietin during pregnancy. 
+Prior to the availability of erythropoietin, transfusion was 
+usually needed in any pregnancy that progressed beyond 
+Daugirdas9781451144291-ch039.indd   742 09/10/14   1:47 am
+743Chapter 39 / Obstetrics and Gynecology in Dialysis Patients
+the first trimester. All ESAs available are listed by the USA 
+as being in “category C” in pregnancy (FDA pregnancy drug 
+risk categories are A, B, C, D, and X, with X being the highest 
+risk). Congenital anomalies have not been reported in the 
+infants of the small number of women who took erythropoi-
+etin during organogenesis. In animals, congenital anomalies 
+have been seen, but only at doses of 500 units/kg. Recom-
+binant erythropoietin does not cross the  placenta, but it 
+is not known whether darbepoetin crosses the placenta. 
+There are a few case reports of the use of darbepoetin in 
+pregnancy without problems. Erythropoietin has been asso-
+ciated with hypertension in nonpregnant patients, but it is 
+difficult to determine what factors influence hypertension 
+during pregnancy. Women treated with erythropoietin prior 
+to pregnancy require increased doses  during pregnancy. The 
+hematocrit has usually dropped by the time the pregnancy 
+is recognized. We recommend increasing the dose of eryth-
+ropoietin by 25% until the  target hemoglobin is reached.
+2. Iron therapy . While the effects of pharmacologic doses 
+of erythropoietin stimulating agents on the fetus are 
+unknown, there is a little known downside to treating iron 
+deficiency. Pregnancy in normal women requires 700–1150 
+mg of iron. Daily hemodialysis increases iron losses over the 
+usual amounts. We have found an increase in iron require-
+ments during pregnancy and have given intravenous iron, 
+but because of the high rate of transfer to the fetus, espe-
+cially after 30 weeks' gestation, we limit individual doses 
+to 62.5 mg. The FDA has labeled ferric gluconate and iron 
+sucrose category B risk for pregnancy.
+3. Folate. Folate requirements are increased in normal preg -
+nant women. Folate deficiency is associated with an 
+increase in neural tube defects. Folate losses increase with 
+intensive dialysis, and folate supplementation should be 
+quadrupled.
+ III. LABOR AND DELIVER Y . Eighty percent of infants born to dialy -
+sis patients are premature. Reasons for prematurity include 
+ premature labor, maternal hypertension, and fetal distress, with 
+premature labor being the most common.
+Efforts to prevent premature labor include serial measure -
+ments of cervical length and in some cases cerclage. Progester -
+one has been used in other settings to prevent premature labor, 
+and although it has not been used in dialysis patients, their risk 
+of premature labor is so high that they should be considered 
+ candidates for its use.
+Premature labor in dialysis patients has been successfully 
+treated with terbutaline, magnesium, nifedipine, and indometha-
+cin. Magnesium has been given intravenously in hemodialysis 
+patients and has been added to the peritoneal dialysis solution 
+in peritoneal dialysis patients. Magnesium must be used with 
+ extreme care in women with renal failure. Blood levels should be 
+Daugirdas9781451144291-ch039.indd   743 09/10/14   1:47 am
+Part IV / Clinical Problem Areas
+744
+monitored frequently. A loading dose can be given, but additional 
+doses should be given only after dialysis and when the level is low. 
+The use of magnesium in combination with nifedipine should be 
+avoided because the combination can cause profound hypoten-
+sion. Indomethacin has also been used with success, but patients 
+must be monitored for oligohydramnios, and the fetus must be 
+monitored for right heart dilatation. Indomethacin can be used 
+only for a short time. While all tocolytics (a tocolytic is an an-
+ticontraction medication used to repress labor) are used for a 
+short time, premature labor frequently recurs, and repeated use 
+of indomethacin is problematic. In women with residual kidney 
+function, indomethacin use may result in further deterioration in 
+glomerular filtration rate and the need for increased dialysis.
+Infants of dialysis patients are frequently small for gesta -
+tional age, but it is not clear whether their growth restriction is 
+the result of uremic toxins per se  or of maternal hypertension . 
+Decreased intrauterine growth restriction in nocturnal dialysis 
+patients suggests a role for accumulated uremic toxins. There is 
+an increased risk of stillbirth in dialysis patients, and antenatal 
+monitoring should be started as soon as there is a chance of sur -
+vival outside the mother (26 weeks).
+In PD patients, caesarian section can be done extraperito-
+neally, leaving the catheter in place, and PD can be resumed 24 
+hours after delivery, starting with small exchange volumes and 
+increasing over a 48-hour period. If there is leakage from the inci-
+sion, the patient can be hemodialyzed for 2–4 weeks.
+Even a normal appearing infant should be monitored in a 
+high-risk nursery. At birth, the infant, whose kidneys are normal 
+for gestational age, will have a blood urea nitrogen (BUN) and se-
+rum creatinine levels similar to the mother's, and the infant will 
+experience a solute diuresis, requiring careful monitoring of elec-
+trolytes and volume status.
+There does not appear to be any increased risk of congeni-
+tal anomalies, but information on growth and development is 
+sketchy.
+ I V. DYSP AREUNIA.  Some women dialysis patients may experience dys-
+pareunia because of estrogen deficiency and resulting vaginal dry-
+ness. Postmenopausal women experiencing these symptoms can 
+be prescribed either a conjugated estrogen cream, a sustained-
+release intravaginal estrogen ring or a vaginal low-dose estrogen 
+tablet. Typical doses for local estrogen are one estradiol tablet, 10 
+mcg, inserted intravaginally once a day for 7 days, and then two or 
+three times a week. A vaginal ring containing 2 mg of estradiol can 
+be inserted and then replaced every 3 months. Conjugated estro-
+gen cream can be used; the usual dose is 0.5 g per day for 21 days 
+on, then 7 days off. An alternative regimen is to apply the cream 
+twice weekly. Estrogen cream has been associated with more 
+side effects, for example, breast tenderness, vaginal bleeding, 
+and perineal pain. The North American Menopause Society does 
+not recommend use of progestogen in women treated with local 
+Daugirdas9781451144291-ch039.indd   744 09/10/14   1:47 am
+745Chapter 39 / Obstetrics and Gynecology in Dialysis Patients
+estrogen therapies. Oral estrogen is rarely  necessary in dialysis 
+patients, and when needed, a daily dose of 0.3 mg of conjugated 
+estrogen and 2.5 mg of medroxyprogesterone provides enough 
+estrogen to prevent dyspareunia since estrogen is metabolized 
+more slowly in dialysis patients. If there is breakthrough bleeding 
+on this combination, progesterone can be increased to 5 mg.
+ V. SEXUAL DYSFUNCTION
+A. Incidence and etiology . Fifty percent of female dialysis patients 
+under the age of 55 are sexually active. A majority of women 
+on dialysis experience some sexual dysfunction. They suf-
+fer both decreased libido and decreased ability to achieve 
+orgasm. Treatment with erythropoietin  appears to be associ-
+ated with an improvement in sexual function, but most of the 
+data collected have been in men. Various reasons for sexual 
+ dysfunction have been proposed, including hyperprolac-
+tinemia, gonadal dysfunction, depression, hyperparathyroid -
+ism, and change in body image.
+B. Hyperprolactinemia. Studies from 30 years ago reported hyper -
+prolactinemia in 75%–90% of female dialysis patients. The 
+mean serum prolactin levels in women with sexual dysfunc-
+tion are higher than in patients with normal sexual function. 
+While prolactin levels have not been formally reevaluated, 
+informal observation suggests that the frequency of hyperp -
+rolactinemia has decreased. Treatment of hyperprolactinemia 
+with the dopamine agonist bromergocriptine has been 
+reported (in limited uncontrolled studies) to improve sexual 
+function in both men and women on dialysis. It has not come 
+into widespread use because hemodialysis patients may be 
+particularly susceptible to the hypotensive effects of this drug. 
+When correctable physical problems cannot be found, dialysis 
+patients should be referred for sex therapy, as would patients 
+without renal failure.
+ VI. ABNORMAL UTERINE BLEEDING. In 2011, the International Federation 
+of Gynecology and Obstetrics (FIGO) developed new terminology 
+for what was previously called “Dysfunctional Uterine Bleeding, ” 
+and the term Abnormal Uterine Bleeding is now preferred.
+A. Incidence Many women develop amenorrhea when the 
+ glomerular filtration rate falls to less than 10 mL/min. Men-
+struation returns in as many as 60% once dialysis is started. 
+Regular menstruation has become more common in premeno-
+pausal women with end stage kidney  disease (ESKD ) than it 
+was in the early days of dialysis; however, over half of women 
+with ESKD who menstruate report hypermenorrhea. Women 
+on HD and those on PD report similar menstrual abnor -
+malities. Approximately 60% of those who menstruate have 
+irregular cycles. Abnormal uterine bleeding is common and 
+is of concern because it may be an early sign of endometrial 
+cancer. Blood loss may lead to severe anemia even in women 
+treated with erythropoietin, although the introduction of 
+Daugirdas9781451144291-ch039.indd   745 09/10/14   1:47 am
+Part IV / Clinical Problem Areas
+746
+erythropoietin has made the management of abnormal uter -
+ine bleeding substantially easier.
+B. Management
+1. Screening for malignancy . Management depends on age and 
+therefore risk for carcinoma. There is some suggestion 
+that women on hemodialysis may be more likely to have 
+endometrial hyperplasia and carcinoma compared with 
+women without renal disease, so a high index of suspicion 
+is warranted.
+a. W omen older than 40 years of age  who have abnormal uterine 
+bleeding should have endometrial sampling. In general, 
+endometrial biopsy done in the office has replaced dila -
+tation & curettage, because there is excellent correlation 
+between the histopathology of endometrial specimens 
+taken by biopsy in the office and D&C (dilatation and 
+curettage) performed in the operating room. If the endo-
+metrial biopsy is nondiagnostic, or bleeding persists 
+after a negative biopsy, further diagnostic testing should 
+be done.
+b. W omen younger than 40 years.  The cancer risk is relatively 
+small, and a yearly Papanicolaou smear is usually suffi-
+cient to screen for malignancy.
+2. Anticoagulation. The lowest possible dosage of heparin 
+should be used to perform hemodialysis when a woman 
+is menstruating. Heparin-free techniques are described in 
+Chapter 14.
+3. Bloody peritoneal fluid during peritoneal dialysis . During men -
+struation or ovulation, the peritoneal fluid can become 
+bloody (Lew, 2007). There is no specific management, 
+except  perhaps to avoid addition of heparin to the 
+ peritoneal dialysis solution. In some cases, frank hemo -
+peritoneum may occur, requiring suppression of ovulation 
+(Harnett, 1987). An aseptic peritonitis picture during men-
+struation or ovulation has also been reported (Poole, 1987). 
+Bloody peritoneal fluid frequently occurs after gynecologic 
+procedures.
+4. Management of anemia.  Anemia should be managed with 
+erythropoietin, as in other dialysis patients. Heavy uterine 
+bleeding will result in increased iron requirements, and 
+additional intravenous iron may have to be given.
+5. Hormonal therapy. Given the evidence that hormonal replace-
+ment therapy may increase the incidence of cardiovascu-
+lar events, and the excess cardiovascular mortality among 
+women with ESKD , the risks associated with hormone 
+replacement therapy may outweigh the benefits (see 
+ discussion below.)
+a. Intrauterine delivery of progesterone in the form of levo-
+norgestrel intrauterine system  (Mirena) is probably 
+the safest therapy and first line treatment for patients 
+on hemodialysis who are experiencing abnormal uter -
+ine bleeding. Once the intrauterine device has been 
+Daugirdas9781451144291-ch039.indd   746 09/10/14   1:47 am
+747Chapter 39 / Obstetrics and Gynecology in Dialysis Patients
+implanted, scanty menstruation should develop within 
+3 months. Peritonitis has been reported after place-
+ment of IUDs in patients on PD, so these patients should 
+receive prophylaxis prior to insertion of the IUD. (Ameri-
+can College of Cardiology guidelines do not recommend 
+antibiotic prophylaxis prior to IUD insertion to prevent 
+endocarditis.) This system is highly effective and in the 
+vast majority of cases will obviate the need for systemic 
+hormonal therapy.
+b. Oral contraceptives would be a second line treatment, but  
+they should be avoided if blood pressure control or risk 
+of thrombotic disease is a problem. The theoretical ben -
+efits of using estrogen progesterone combinations to 
+prevent uterine cancer and osteoporosis have been dis -
+cussed above.
+c. Medroxypogesterone acetate (Depo-Provera).  Progesterone 
+can be given either intramuscularly as Depo-Provera 
+100 mg once a week for 4 weeks or orally as 10 mg daily 
+for the first 10 days of the menstrual cycle. This drug is 
+best reserved for patients with chronic hypermenorrhea 
+who do not respond to more conservative intrauterine 
+or oral hormonal therapy. Because many patients on 
+dialysis have a bleeding tendency, IM injections on a 
+regular basis are undesirable. Moreover, the half-life of 
+IM medroxyprogesterone acetate in dialysis patients 
+is unpredictable. Progestins work best in the setting of 
+anovulatory bleeding.
+d. Gonadotropin releasing hormone agonists.  These can be given 
+as an intramuscular injection once a month (leupro-
+lide acetate) or a daily intranasal dose. These drugs are 
+extremely expensive and should be reserved for patients 
+who continue to have excessive menstrual bleeding 
+and who do not respond to intrauterine progesterone, 
+oral  contraceptives, or progestins. There is one report 
+of ovarian hyperstimulation in a patient on chronic 
+dialysis who received two doses of leuprolide acetate 
+(Hampton, 1991).
+e. High-dosage intravenous estrogens . In the case of acute 
+excessive blood loss, high dose estrogen therapy can be 
+used, giving 25 mg of conjugated estrogens IV every 6 
+hours. Bleeding usually subsides within 12 hours.
+f. Deamino arginine vasopressin (DDA VP). In a setting of acute 
+blood loss when bleeding time is prolonged, DDAVP 
+should be given in a dosage of 0.3 pg/kg in 50 mL of saline 
+every 4–8 hours for three to four doses.
+6. Nonsteroidal anti-inflammatory agents  have been shown to be 
+effective in women who ovulate. These agents may be less 
+effective in the setting of ESKD because of the increased 
+incidence of anovulatory cycles in women with ESKD Also, 
+women with end stage kidney  disease are at increased risk 
+for gastrointestinal complications.
+Daugirdas9781451144291-ch039.indd   747 09/10/14   1:47 am
+Part IV / Clinical Problem Areas
+748
+7. Endometrial ablation. Endometrial ablation can be performed 
+by several surgical techniques: hysteroscopic endometrial 
+ablation with laser, photocoagulation, roller ball, or loop 
+resection. Patients are pretreated with either danazol or 
+gonadotropin releasing hormone for 3–4 weeks before the 
+procedure to thin the endometrium. The procedure leads 
+to permanent infertility.
+8. Hysterectomy. For postmenopausal women with significant 
+dysfunctional uterine bleeding, hysterectomy may be the 
+approach of choice. Laparoscopic hysterectomy is now 
+an option and for leiomyomata too large for laparoscopic 
+surgery, gonadotropin releasing hormones can be given to 
+reduce the size of fibroids enough to make laparoscopic 
+hysterectomy possible. The proposed operation should be 
+carefully discussed with the patient, and concomitant med-
+ical problems and the risks of surgery should be taken into 
+consideration. With the advent of endometrial ablation 
+with laser, hysterectomy will now probably be reserved for 
+women who have bleeding secondary to uterine fibroids 
+or to other uterine or pelvic pathology that in itself war -
+rants the surgery. Hysterectomy should be done only as a 
+life-saving procedure in a premenopausal woman who is a 
+candidate for renal transplantation because the latter will 
+frequently restore fertility.
+ VII. HORMONE REPLACEMENT THERAPY . Women with end stage kidney  
+disease treated with dialysis experience menopause on average 
+5 years earlier than women without renal failure. The role of hor-
+mone replacement therapy (HRT) in dialysis patients has never 
+been clear. About 10% of postmenopausal women on dialysis 
+take HRT. Most report that HRT was started before the initiation 
+of dialysis. Of women not taking hormone replacement therapy, 
+a majority say they would not take HRT if advised to do so by 
+their doctors. Recent evidence of the risk of HRT raises concern 
+about its use in ESKD  patients. The Women's Health Initiative 
+Study demonstrated an increased risk of breast cancer, pulmo -
+nary embolism, deep vein thrombophlebitis, and of coronary and 
+cerebrovascular disease after long-term replacement of estro-
+gen and progesterone in normal postmenopausal women. The 
+only health advantage for women in the treatment group was in 
+reduced fractures.
+Women with ESKD  have more than a 20-fold increased 
+incidence of cardiovascular disease compared with women 
+without ESKD while multifactorial bone disease is also more 
+common and more severe in dialysis patients. The risk of hip 
+fracture is higher in dialysis patients than in healthy people 
+of the same age and sex. When young women on dialysis who 
+have regular menses are compared with young women with 
+amenorrhea, the group with amenorrhea has a significantly 
+lower bone mineral density. Raloxifine 60 mg daily has been 
+used successfully to prevent bone loss in postmenopausal 
+Daugirdas9781451144291-ch039.indd   748 09/10/14   1:47 am
+749Chapter 39 / Obstetrics and Gynecology in Dialysis Patients
+estrogen-deficient dialysis patients, and this drug provides a 
+safe alternative to HRT.
+The use of HRT should be limited to the relief of symptoms 
+of estrogen deficiency that cannot be relieved by other treat -
+ments. Only the patient can decide the importance of relieving 
+these symptoms after understanding the risks. The increased risk 
+of cardiovascular disease and breast cancer in healthy women 
+taking HRT was small enough that many women have continued 
+them. Unfortunately, the specific risk of HRT in hemodialysis 
+patients has not been determined, and we can only extrapolate 
+from the data in healthy women and women with preexisting 
+heart disease in advising patients of the risk.
+It is still the general practice to treat women with premature 
+ovarian failure or early surgical menopause with HRT. It may be 
+difficult to know whether a woman is postmenopausal since even 
+women with FSH and LH in the postmenopausal range may have 
+normalization after transplant. A very small study (13 patients) 
+found an improvement in sexual function and general well-being 
+as well as an improvement in L2-L4 bone density in premeno-
+pausal dialysis patients taking HRT.
+HRT is contraindicated in women with active liver disease 
+and deep vein thrombophlebitis. Estrogen may make lupus flares 
+more likely and may worsen hepatic cystic disease in women with 
+polycystic kidney disease.
+If HRT is prescribed, the dose should be adjusted in women 
+on dialysis. Estrogen levels increase more in dialysis patients than 
+in normal controls when estrogen is administered. If oral HRT is 
+given to dialysis patients, the dose used should be about half of 
+what would be given to a woman without renal failure. Transder-
+mal estrogen may have less effect on clotting factors than oral 
+estrogen.
+ VIII. GYNECOLOGIC NEOPLASMS
+A. Benign. Uterine fibroids, or leiomyomata, are extremely com-
+mon, occurring in as many as 80% of women over the age of 30, 
+with approximately 25% of them being symptomatic. There is 
+no information about their incidence in chronic renal failure. 
+Uterine fibroids usually present with either menometrorrha-
+gia or symptoms related to the enlarging uterus pressing on 
+nearby organs, that is, pain, pressure, and constipation. Small, 
+asymptomatic leiomyomata can be managed with observation. 
+Indications for therapy include symptomatic bleeding, pain or 
+pressure, urinary retention, torsion, degeneration with acute 
+abdominal pain, prolapse through the cervix, and increase in 
+the size after menopause. Women still in the childbearing age 
+range who are potential candidates for transplant should have 
+myomectomy performed rather than hysterectomy if that is 
+surgically feasible, to preserve childbearing potential. Recently, 
+a number of treatments other than hysterectomy have become 
+available, including medical therapy with mifepristone (RU486, 
+an abortifacient), gonadotropin releasing hormone agonists, 
+Daugirdas9781451144291-ch039.indd   749 09/10/14   1:47 am
+Part IV / Clinical Problem Areas
+750
+laparoscopic myomectomy, myolysis, and uterine artery 
+embolization. Laparoscopic myomectomy should not be done 
+in women who plan childbearing because of the increased risk 
+of uterine rupture when pregnancy occurs.
+B. Screening. Women treated with dialysis are less likely to get reg-
+ular mammograms and pap smears than women in the gen-
+eral population. The incidence of cervical cancer is increased 
+in women with ESKD , while the incidence of breast cancer is 
+similar to women without kidney disease. Several recent stud-
+ies suggest that screening for malignancies in women with 
+end stage kidney  disease results in a negligible increase in 
+life expectancy because of the shortened survival of women 
+with end stage kidney  disease. Such an outlook does not 
+allow for the possibility that great strides will be made in the 
+care of ESKD  patients leading to prolonged survival. Young 
+women, women awaiting transplantation, and women with 
+increased risk for breast, ovarian, and cervical cancer should 
+be screened. Women with the highest risk for cervical cancer 
+include women who have been treated with immunosup-
+pressive therapy or who are currently on immunosuppressive 
+therapy, either for previous transplant or for their underlying 
+disease, or women with AIDS. These women should have pap 
+smears performed every year.
+C. Evaluation of cancer in women who are symptomatic.  Endome -
+trial cancer usually presents as abnormal uterine bleeding, 
+the investigation and management of which was discussed 
+above. Ovarian cancer usually presents with vague abdominal 
+symptoms and later as an ovarian mass. Abdominal discom-
+fort, nausea, and weight loss induced by ovarian cancer may 
+initially be misinterpreted as symptoms of uremia or under -
+dialysis. In patients on PD, ovarian cancer may present as 
+bloody peritoneal fluid, an abnormal peritoneal cell count, or 
+a change in the color of the fluid. A high index of suspicion 
+is necessary to detect ovarian cancer at an early and poten-
+tially curable stage. The use of CA125 (cancer antigen 125) to 
+screen for or follow ovarian cancer is of limited value in dialy-
+sis patients. It is not efficiently removed by dialysis and is also 
+produced by mesothelial cells, giving rise to elevated levels, 
+especially in PD patients.
+D. Diagnostic procedures
+1. Lower gastrointestinal X-ray series.  When performing a lower 
+gastrointestinal X-ray examination, the amount of water 
+used to dilute the contrast material can be diluted to one-
+fourth the normal amount.
+2. Computed tomography. Intravenous contrast infusion, if 
+needed to perform a CT scan or angiography, is not contra-
+indicated in dialysis patients. Although the administration 
+of contrast involves increasing intravascular volume and 
+osmolality, immediate dialysis following the study can be 
+performed in the rare instance of symptoms. Dialysis can 
+be done the following day if she is asymptomatic. A patient 
+Daugirdas9781451144291-ch039.indd   750 09/10/14   1:47 am
+751Chapter 39 / Obstetrics and Gynecology in Dialysis Patients
+on peritoneal dialysis requiring an abdominal CT scan 
+should present for the examination with dialysis fluid in 
+the abdomen.
+3. Pelvic and abdominal ultrasonography. The patient on peritoneal 
+dialysis with a suspected pelvic or ovarian lesion should 
+undergo ultrasound scanning of the involved area. In those 
+instances where pelvic pathologic changes cannot be visu-
+alized without distending the bladder, the bladder can be 
+filled via a Foley catheter.
+4. T ransvaginal ultrasound.  It is possible to delineate pelvic 
+abnormalities more clearly using transvaginal ultrasound, 
+because of the proximity of the probe to the pelvic organs 
+and the relatively thin vaginal vault, which enables the use 
+of higher sound frequencies and therefore higher resolu-
+tion. On the other hand, a transabdominal probe will give 
+a more panoramic view of the pelvis, showing the interre-
+lationship of the major anatomic structures in the pelvic 
+organs and their possible pathology. A transvaginal probe 
+is able to furnish a more focused image of the organ of 
+interest, but only permits effective imaging to no more than 
+7–10 cm in depth.
+Unlike transabdominal pelvic ultrasound, it is best for 
+the patient to have the transvaginal ultrasound study done 
+while her bladder is empty. Since many patients on dialysis 
+are not able to fill their bladders unless a Foley catheter is in 
+place and fluid instilled into the bladder, it makes sense to 
+first perform a transvaginal ultrasound if pelvic pathology 
+is suspected and proceed to transabdominal pelvic sono -
+gram if the information needed cannot be obtained with 
+the transvaginal approach. PD patients should have the 
+abdomen full for transabdominal ultrasound and empty 
+for transvaginal ultrasound.
+5. Magnetic Resonance Imaging. For women who are on PD, MRI 
+of the peritoneal cavity can be done without any contrast, 
+using the dialysate as contrast medium. This makes MRI of 
+the abdomen and pelvic region the best modality to evalu-
+ate potential anatomic abnormalities in women on PD. Use 
+of gadolinium as a contrast agent to enhance MRI should 
+be done only after considering the very serious poten -
+tial risk of nephrogenic systemic fibrosis. There is some 
+evidence that with poststudy dialysis the risk of neph-
+rogenic  systemic fibrosis is not as high as once thought 
+(Amet, 2014).
+E. Management. The management of gynecologic cancers and 
+nonmalignant tumors in women with chronic renal failure 
+includes surgical excision and chemotherapy.
+1. Surgery .  In PD patients, any gynecologic procedure more 
+invasive than a PAP smear (e.g., endometrial or cervical 
+cone biopsy) should be performed with an empty perito -
+neal cavity. The patient should receive prophylactic antibi-
+otics as described below.
+Daugirdas9781451144291-ch039.indd   751 09/10/14   1:47 am
+Part IV / Clinical Problem Areas
+752
+In patients with peritoneal catheters undergoing 
+pelvic or abdominal operations, we leave the catheter in 
+place unless there is bacterial contamination of the peri -
+toneal cavity. When there is a low but measurable risk of 
+peritoneal contamination as in a vaginal hysterectomy, we 
+administer 1.0 g of vancomycin hydrochloride and 1.0 g 
+of cefoxitin prophylactically IV just prior to surgery. If the 
+patient is known to be colonized with Pseudomonas, tobra-
+mycin 2.0 mg/kg IV should be added to the prophylactic 
+regimen. Postoperatively, the catheter is irrigated with 500 
+mL of peritoneal dialysis solution three times daily to main-
+tain patency. Irrigations are decreased to once daily when 
+the fluid is no longer bloody. We wait 10 days to 2 weeks 
+before using the catheter again, maintaining the patient by 
+hemodialysis during the interim.
+2. Chemotherapy. Use of chemotherapeutic agents in dialysis 
+patients is beyond the scope of this Handbook.
+References and Suggested Readings
+Amet S, et al. Incidence of nephrogenic systemic fibrosis in patients undergoing dialy-
+sis after contrast-enhanced magnetic resonance imaging with gadolinium-based 
+contrast agents: the Prospective Fibrose Nephrogénique Systémique study. Invest 
+Radiol. 2014;49:109–115.
+Ansari N, et al. Gynaecologic Nephrology. Am Med J. 2013;3:147–160.
+Barua M, et al. Successful pregnancies on nocturnal home hemodialysis. Clin J Am Soc 
+Nephrol. 2008;3:392–396.
+Brost BC, et al. Effect of hemodialysis on serum progesterone level in pregnant women. 
+Am J Kidney Dis. 1999;33:917–919.
+Cooper WO, et al. Major congenital malformations after first-trimester exposure to 
+ACE inhibitors. N Eng J Med. 2006;354:2443–2451.
+Dimitriadis C, Bargman J.  Gynecologic issues in peritoneal dialysis. Adv Perit Dial. 
+2011;27:101–105.
+Hampton HL, Whitworth NS, Cowan BD. Gonadotropin-releasing hormone agonist 
+(leuprolide acetate) induced ovarian hyperstimulation syndrome in a woman 
+undergoing intermittent hemodialysis. Fertil Steril. 1991;55:429.
+Harnett JD, et al. Recurrent hemoperitoneum in women receiving continuous ambula-
+tory peritoneal dialysis. Ann Intern Med. 1987;107:341.
+Hladunewich MA, et al. Intensive hemodialysis associates with improved pregnancy 
+outcomes: a Canadian and United States cohort comparison. J Am Soc Nephrol. 
+2014;25:1103–1109.
+Holley JL, et al. Gynecologic and reproductive issues in women on dialysis. Am J Kidney 
+Dis. 1997;29:685–690.
+Holley JL. Screening, diagnosis, and treatment of cancer in long-term dialysis patients. 
+Clin J Am Soc Nephrol. 2007;2:604–610.
+Hou S. Daily dialysis in pregnancy. Hemodial Int. 2004;8:167–171.
+Hou S. Pregnancy in women treated with dialysis: lessons from a large series over 
+20 years. Am J Kidney Dis. 2010;56:5–6.
+Kajbaf S, Nichol G, Zimmerman D. Cancer screening and life expectancy of Canadian 
+patients with kidney failure. Nephrol Dial Transplant. 2002;17:1786–1789.
+Kramer HM, Curhan GC, Singh A. Permanent cessation of menses and post meno-
+pausal hormone use in dialysis dependent women. Am J Kidney Dis . 2003;41:  
+643–650.
+Lew SQ. Hemoperitoneum: bloody peritoneal dialysiate in ESRD receiving peritoneal 
+dialysis. Perit Dial Int. 2007;27:226–233.
+Lin HF, et al. Increased risk of cancer in chronic dialysis patients: a population based 
+cohort study in Taiwan. Nephrol Dial Transplant. 2012;27:1585–1590.
+Ma TL, Wang CL, Hwang JC. Recurrent peritonitis episodes in a continuous ambu-
+latory peritoneal dialysis patient after gynecologic procedures. Perit Dial Int . 
+2012;32:113–114.
+Daugirdas9781451144291-ch039.indd   752 09/10/14   1:47 am
+753Chapter 39 / Obstetrics and Gynecology in Dialysis Patients
+Mattix H, Singh AK. Estrogen replacement therapy: implications for post menopausal 
+women with end-stage renal disease. Curr Opin Nephrol. 2000;9:207–214.
+Nadeau-Fredette AC, et al. End-stage renal disease and pregnancy. Adv Chronic Kidney 
+Dis. 2013;20:246–252.
+Nakamura Y, Yoshimura Y. Treatment of uterine leiomyomas in perimenopausal  
+women with gonadotropin-releasing hormone agonists. In: Pitkin RM, Scott JR, 
+ed. Clin Obstet Gynecol. 36: 9/93
+Navaneethan SD, et al. Prevalence and correlates of self reported sexual dysfunction 
+in CKD: a metaanalysis of observational studies. Am J Kidney Dis. 2010;56:670–685.
+Okundaye IB, Abrinko P , Hou S. A Registry for Pregnancy in Dialysis Patients. Am  
+J Kidney Dis. 1998;31:766–773.
+Poole CL et al. Aseptic peritonitis associated with menstruation and ovulation in 
+a peritoneal dialysis patient. In: Khanna R, et al. eds. Advances in Continuous 
+ Ambulatory Peritoneal Dialysis. Toronto: Peritoneal Dialysis Bulletin; 1987.
+Potluri K, et al. Beta HCG in a pregnant dialysis patient: a cautionary tale. Nephrol Dial 
+Transplant Plus. 2011;4:42–43.
+Shan HY, et al. Use of circulating antiangiogenic factors to differentiate other hyper -
+tensive disorders from preeclampsia in a pregnant woman on dialysis. Am J Kidney 
+Dis. 2008;51:1029–1032.
+Stengel B. Chronic kidney disease and cancer: a troubling Connection. J Nephrol. 
+2010;23:253–262.
+Strippoli GFM, et al. Sexual dysfunction in women with ESRD requiring hemodialysis. 
+Clin J Am Soc Nephrol. 2012;7:974–981.
+Weisbord SD. Female sexual dysfunction in ESRD: an underappreciated epidemic? Clin 
+J Am Soc Nephrol. 2012;7:881.
+Web References
+National Collaborating Center for Women's and Children's Health. Hypertension 
+in pregnancy: the management of hypertensive disorders during pregnancy. 
+CG107 Hypertension in pregnancy: full guideline, http://www.nice.org.uk/  
+guidance/CG107. Accessed July 7, 2014.
+Daugirdas9781451144291-ch039.indd   753 09/10/14   1:47 am

@@ -1,0 +1,1257 @@
+425
+The success of peritoneal dialysis as renal replacement therapy 
+hinges upon the patient possessing a functional peritoneal access. 
+In the present era, access is obtained using a catheter device that 
+bridges the abdominal wall and serves as a controlled cutaneoperi-
+toneal fistula. Similar in principle to creation of an arteriovenous 
+ access for hemodialysis, provision of a peritoneal access must con-
+sider a number of patient factors that can influence flow function, 
+durability, and resistance to complications.
+ I. ACUTE AND CHRONIC CATHETERS. B ased on design and use,  catheters 
+can be classified as acute or chronic.
+A. Acute catheters
+1. Rigid noncuffed catheters. Composed of relatively rigid plastic, 
+these noncuffed tubes are provided in straight and slightly 
+curved configurations with numerous side holes in the 
+intraperitoneal segment. Insertion is performed by percu -
+taneous puncture using an internal stylet. Because of the 
+risk of infection, the generally accepted period of maximum 
+use is 3 days. If a short course of peritoneal dialysis is antici-
+pated or therapy must be initiated before a chronic cath -
+eter can be placed, the temporary rigid catheter remains 
+an option. These devices are available in kits containing the 
+catheter, connecting tubing, and a scalpel.
+2. Soft cuffed catheters. Most of the chronic catheters described 
+more fully in the following section can serve as acute 
+peritoneal access devices and are generally available in 
+self-contained sets, permitting bedside placement using a 
+percutaneous needle–guidewire approach to insert a peel-
+away catheter introducer sheath. If it is anticipated that 
+the need for peritoneal dialysis will be longer than a few 
+days, a chronic catheter should be placed initially, when-
+ever possible. While the trend for chronic catheters is to 
+use two-cuff devices, one of the continuing demands for a 
+ single-cuff catheter is to provide acute access. Compared 
+to the rigid catheter, the one-cuff soft tube can be left in 
+place indefinitely, and it is easier to insert and remove 
+than two-cuff chronic devices. If long-term dialysis is likely 
+Peritoneal Dialysis 
+Catheters, Placement, 
+and Care
+John H. Crabtree and Arsh Jain
+23
+Daugirdas9781451144291-ch023.indd   425 09/10/14   1:28 am
+Part III / Peritoneal Dialysis
+426
+and the patient’s clinical condition permits, consideration 
+should be given to implanting a chronic catheter with at 
+least two cuffs.
+B. Chronic catheters.  P resently, all chronic catheters are con-
+structed of silicone rubber, a material well recognized for 
+its biocompatibility and biodurability. A small percentage of 
+catheters were previously constructed from polyurethane 
+rubber, but these have not been commercially available since 
+2010. Although the number of surviving polyurethane devices 
+is rapidly diminishing, it is important to identify these cath -
+eters because of the tendency of polyurethane rubber to 
+develop stress fractures or to soften and rupture from chronic 
+exposure to polyethylene glycol or ethanol present in certain 
+topical antibiotic ointments and creams commonly used for 
+chronic catheter exit-site prophylaxis. Polyurethane catheters 
+can be recognized by a permanently bonded catheter adapter 
+and they typically show permanent dark discoloration of the 
+tubing after several years.
+Figure 23.1 depicts a chronic peritoneal catheter showing 
+its relationship to abdominal wall structures. Chronic cathe -
+ters are most commonly supplied with two Dacron (polyester) 
+cuffs, but as many as three cuffs may be present in extended 
+two-piece catheters. Having at least two cuffs provides for bet-
+ter immobilization of the catheter in the abdominal wall. The 
+deep cuff is preferably implanted in the muscle to provide for 
+firm tissue ingrowth and fixation of the catheter. The super -
+ficial cuff is positioned in the subcutaneous tissues 2–4 cm 
+from the exit site. When properly positioned, the superficial 
+cuff serves as an effective barrier to entry of cutaneous debris 
+FIGURE 23.1 Schematic of a coiled-tip Tenckhoff peritoneal catheter showing its proper 
+relationship to adjacent anatomical structures.
+Catheter
+Epidermis
+Subcutaneous cuff
+Omentum
+Bowel loops
+Parietal peritoneum
+Muscle Deep cuff
+Daugirdas9781451144291-ch023.indd   426 09/10/14   1:28 am
+Chapter 23 / Peritoneal Dialysis Catheters, Placement, and Care 427
+and  bacteria into the subcutaneous track and acts to limit the 
+piston-like motion of the catheter in and out through the exit 
+site that can drive these contaminants into the track.
+The intraperitoneal segment of the catheter tubing has 
+either a coiled-tip or straight-tip configuration with an end hole 
+and numerous side holes. No significant difference in function-
+ality has been demonstrated between coiled- and straight-tip 
+catheters; however, previous randomized comparative studies 
+involved small subject numbers with equivocal results, and the 
+validity of a recent meta-analysis favoring straight-tip cathe-
+ters is debatable. The incidence of inflow discomfort is greater 
+with straight-tip catheters due to the jet effect of the dialysate 
+from the end hole of the catheter. Coiled-tip catheters provide 
+for better dispersion of the dialysate during inflow.
+All recently manufactured chronic catheters incorporate 
+a white radiopaque stripe along the longitudinal axis of the 
+tubing which enables radiographic visualization. The stripe 
+can also serve as a guide during implantation of the catheter 
+to prevent accidental twisting or kinking of the catheter tub -
+ing. The majority of adult catheters have a 2.6-mm internal 
+bore. One catheter brand possesses a 3.5-mm bore and can 
+be identified by its blue radiopaque stripe. While in vitro flow 
+rates of the larger bore catheter are faster, this has not been so 
+apparent in the in vivo state. The importance of recognizing 
+the catheter bore size is to prevent inadvertent interchange of 
+replacement catheter adapters that can result in a loose fit and 
+accidental separation.
+1. Standard abdominal catheters.  The coiled- and straight-tip
+Tenckhoff catheters and their “swan neck” variants with a
+preformed arc bend in the intercuff segment are illustrated 
+in Figure 23.2A,B. These four catheters comprise the main-
+stay of peritoneal access around the world. The primary
+difference among these catheters is that the coiled-tip
+configuration and preformed arc increase the cost of the
+device. Standard abdominal catheters can be inserted by
+any of the implantation methodologies.
+2. Extended two-piece catheters. Originally designed as a prester-
+nal catheter, the extended catheter comprises a one-cuff
+abdominal catheter segment that attaches to a subcutane-
+ous extension segment having one or two cuffs by using a
+titanium connector to permit remote location of the exit
+site to the upper chest (Fig. 23.2C). It has since been used
+to provide remote locations of exit sites to the upper abdo-
+men or the back region. The abdominal catheter can be
+placed by any insertion method. The subcutaneous exten-
+sion catheter is implanted using a vascular tunneling rod or 
+a similar device supplied by the catheter manufacturer.
+3. Alternative catheter designs.  Modifications of the basic
+ Tenckhoff catheter design have been made to address prob-
+lems with tissue attachment, tip migration, and pericath -
+eter leaks. The Oreopoulos–Zellerman (Toronto Western)
+Daugirdas9781451144291-ch023.indd   427 09/10/14   1:28 am
+Part III / Peritoneal Dialysis
+428
+variation of the straight-tip catheter includes the addition 
+of two silicone disks to the end of the tubing in  an attempt 
+to hold bowel and omentum away from the side holes 
+(Fig. 23.2D). The Di Paolo catheter is designed to discour -
+age catheter tip migration by adding a tungsten weight to 
+the end of the tubing to promote gravitational self- location 
+to the pelvis (Fig. 23.2E). The Oreopoulos–  Zellerman and 
+Missouri catheters have a Dacron flange adjacent to a 
+silicone bead mounted below and contiguous with the 
+deep cuff (Fig. 23.2F). The flange and bead are attached 
+at a 45-degree angle on the Missouri version. Suturing the 
+peritoneum between the flange and bead and stitching 
+FIGURE 23.2 Shown are commonly used peritoneal catheters and alternative design 
+features. A: Tenckhoff catheters with coiled-tip, two-cuff, and straight or swan neck 
+intercuff segment. B: Tenckhoff catheters with straight-tip, two-cuff, and straight or swan 
+neck intercuff segment. C: Extended catheter with coiled-tip, one-cuff abdominal catheter, 
+two-cuff extension catheter with swan neck intercuff segment, and titanium connector. 
+D: Straight-tip catheter with silicone disks. E: Straight-tip catheter with tungsten weight. 
+F: Dacron flange and silicone bead below and adjoining the deep cuff.
+A
+B
+C
+DE F
+Daugirdas9781451144291-ch023.indd   428 09/10/14   1:29 am
+Chapter 23 / Peritoneal Dialysis Catheters, Placement, and Care 429
+the flange to the posterior rectus sheath were designed to 
+reduce the occurrence of pericatheter leaks. Mounting the 
+flange and bead at a 45-degree angle was intended to keep 
+the catheter tip oriented toward the pelvis. None of the 
+alternative configurations have been shown to outperform 
+the standard Tenckhoff catheter design, but do increase the 
+cost and difficulty of device insertion.
+II. CATHETER SELECTION
+A. Patient factors influencing catheter selection.  Patients come in all
+sizes and shapes with a variety of medical conditions; there-
+fore, it is somewhat naive to expect that one catheter type 
+should fit all. Choice of catheter type should take into consid-
+eration the patient’s belt line, obesity, skin creases and folds, 
+presence of scars, chronic skin conditions, incontinence, 
+physical limitations, bathing habits, and occupation. A basic 
+inventory of several catheter types is required to provide cus -
+tomization of the peritoneal access to the specific needs of the 
+patient and to afford maximum flexibility in exit-site location. 
+Figure 23.3 illustrates how a basic catheter inventory might be 
+applied. Patients who wear their belt lines above the umbilicus 
+are often best served with a catheter with a swan neck bend 
+that allows the exit site to emerge below the belt line. Patients 
+who wear their belt lines below the umbilicus are usually best 
+fitted with a catheter having a straight intercuff segment that 
+is bent to produce a laterally directed exit site emerging above 
+the belt line. Individuals who have large rotund abdomens, 
+severe obesity, drooping skin folds, intestinal stomas, feeding 
+tubes, urinary or fecal incontinence, yeast intertrigo, or desire 
+to take deep tub baths are ideal candidates for extended cath-
+eters to produce upper abdominal or presternal exit sites.
+B. Stencil-based preoperative mapping.  Some dialysis catheter man -
+ufacturers produce marking stencils for the most commonly 
+used catheter designs. Properly constructed stencils contain 
+critical catheter design information, including the distance 
+between the deep cuff and the coil, suggested subcutaneous 
+tunnel configurations, and recommended exit-site locations 
+relative to the position of the superficial cuff. Additional fea-
+tures of a well-designed stencil plate permit its precise ori-
+entation on the trunk region according to fixed anatomical 
+landmarks, such as the pubic symphysis (representing the 
+anterior upper border of the true pelvis) and the anatomical 
+midline of the torso. Stencils permit accurate and reproduc-
+ible association of the catheter design elements to these ana-
+tomical landmarks to help determine the best catheter style 
+and insertion site that will produce optimal pelvic position of 
+the catheter coil and ideal exit-site location.
+Figure 23.4 shows the use of the stencil for lower abdomi-
+nal, upper abdominal, and chest catheter exit-site locations. 
+The stencil should be initially used during a preoperative eval-
+uation where the patient can be examined fully clothed and 
+Daugirdas9781451144291-ch023.indd   429 09/10/14   1:29 am
+Part III / Peritoneal Dialysis
+430
+in supine, sitting, and/or standing positions. The stencil can 
+also be used at the time of the catheter insertion procedure to 
+mark and/or verify the markings made during the preopera-
+tive examination. During the preoperative mapping session in 
+which the most appropriate catheter style is selected, only the 
+exit-site cutouts need to be marked. At the time of the proce-
+dure, the entire pattern including incision marks, tunnel track, 
+cuff and exit-site cutouts are marked.
+During the preoperative examination, the stencil is used 
+to mark the exit sites of the standard abdominal catheters 
+while the patient is supine. The patient then assumes a sitting 
+or standing position, and the marked exit sites are checked to 
+see which is best visible to the patient and does not conflict 
+with the belt line, skin creases, or apices of bulging skin folds. 
+If none of the marked exit sites for the standard abdominal 
+FIGURE 23.3 Practical applications of a basic catheter inventory. A: Swan neck catheter 
+with downwardly directed exit site emerging below a high-lying belt line. B: Straight in-
+tercuff segment catheter with laterally directed exit site emerging above a low-lying belt 
+line. C: Extended catheter with upper abdominal exit site for an obese rotund abdomen, 
+lower abdominal skin folds, or incontinence. D: Extended catheter with upper chest exit 
+site for severe obesity, multiple abdominal skin folds, intestinal stomas, or incontinence.
+A
+CD
+B
+Daugirdas9781451144291-ch023.indd   430 09/10/14   1:29 am
+Chapter 23 / Peritoneal Dialysis Catheters, Placement, and Care 431
+catheters are satisfactory, the stencil is then used to map out 
+either upper abdominal or presternal exit-site locations. Be 
+aware that some manufacturers produce impractical stencils 
+that show only the cutout pattern of a swan neck bend but 
+do not allow for proper alignment of the stencil plate on the 
+abdominal or chest wall.
+ III. CA THETER PLACEMENT PROCEDURES
+A. Best practices. A best practice is a technique or methodology 
+that, through experience and research, has proven to reli-
+ably lead to a desired result. Best practices for preoperative 
+preparation and peritoneal catheter placement are listed in 
+Tables 23.1 and 23.2. Adherence to a constellation of details 
+is required to assure the best opportunity for creating a suc-
+cessful long-term peritoneal access. Omission of any one of 
+these best practices can lead to loss of the peritoneal catheter. 
+It is recognized that some implantation techniques do not 
+FIGURE 23.4 Stencil-based preoperative mapping for standard abdominal and extended 
+catheters. This allows for selection of the most appropriate device type and insertion site 
+that will produce the best pelvic position of the catheter tip and the optimal exit-site loca-
+tion, based on patient-specific anatomical features.
+Presternal
+mapping
+Abdominal
+mapping of
+insertion
+incision
+Upper
+abdominal
+mapping
+Lower
+abdominal
+mapping
+Daugirdas9781451144291-ch023.indd   431 09/10/14   1:29 am
+Part III / Peritoneal Dialysis
+432
+incorporate all of the best practices, such as percutaneous 
+needle–guidewire approaches performed through the mid-
+line or positioning the deep cuff above the level of the fascia. 
+It is enough that the practitioner be aware of the deviations 
+from recommended practice and be observant of the potential 
+complications that may arise from such departures. In addi-
+tion, some of the listed best practices will not be applicable to 
+acute noncuffed temporary catheters.
+B. Acute noncuffed catheter insertion.  The semirigid acute cath -
+eter is inserted by percutaneous puncture using an internal 
+stylet. A 1-cm midline or paramedian skin incision is made 
+approximately 2.5 cm below the level of the umbilicus. A 
+•	 Preoperative 	assessment	to	select	the	most	appropriate	catheter	type	and
+exit-site location
+•	 Bowel 	prep	the	day	before	surgery:	2	L	of	polyethylene	glycol	solution,	enema,	
+or	stimulant	suppository
+•	 Shower 	on	the	day	of	surgery	with	chlorhexidine	soap	wash	of	the	abdomen/
+chest
+•	 Removal 	of	body	hair	in	the	preoperative	holding	area,	preferably	with	electric
+clippers
+•	 Empty 	the	bladder	before	procedure;	otherwise,	Foley	catheter	should	be	
+inserted
+•	 Single 	preoperative	dose	of	prophylactic	antibiotic	to	provide
+antistaphylococcal	coverage
+Best	Practices	in	Patient	Preparation	for	PD	Catheter	
+Insertion23.1
+TABLE
+•	 Operative 	personnel	are	attired	in	cap,	mask,	and	sterile	gown	and	gloves
+•	 Surgical 	site	is	prepped	with	chlorhexidine–gluconate	scrub,	povidone–iodine	
+(gel	or	scrub),	or	other	suitable	antiseptic	agent	and	sterile	drapes	applied
+around	the	surgical	field
+•	 Peritoneal 	catheter	is	rinsed	and	flushed	with	saline	and	air	squeezed	out	of
+the	Dacron	cuffs	by	rolling	the	submerged	cuffs	between	fingers
+•	 Paramedian 	insertion	of	the	catheter	through	the	body	of	the	rectus	muscle
+•	 Deep 	catheter	cuff	positioned	within	or	below	the	rectus	muscle
+•	 Pelvic 	location	of	the	catheter	tip
+•	 Catheter 	flow	test	performed	to	confirm	acceptable	function
+•	 Skin 	exit	site	directed	lateral	or	downward	(not	upward)
+•	 Subcutaneous 	tunneling	instrument	should	not	exceed	the	diameter	of	the
+catheter
+•	 Exit 	site	should	be	smallest	skin	hole	possible	that	allows	passage	of	the	
+catheter
+•	 Position 	subcutaneous	cuff	2–4	cm	from	the	exit	site
+•	 No 	catheter	anchoring	sutures	at	the	exit	site
+•	 Attach 	transfer	(extension)	set	at	time	of	procedure
+•	 Exit 	site	protected	and	catheter	immobilized	by	nonocclusive	dressing
+Best	Practices	for	PD	Catheter	Insertion
+23.2
+TABLE
+Daugirdas9781451144291-ch023.indd   432 09/10/14   1:29 am
+Chapter 23 / Peritoneal Dialysis Catheters, Placement, and Care 433
+hemostat clamp is used to spread down to the fascia. The sty-
+let is inserted into the catheter until the pointed tip is exposed. 
+Depth of penetration is controlled by grasping the catheter–
+stylet assembly with the thumb and index finger. With the 
+patient tensing the abdominal musculature, the catheter–
+stylet assembly is advanced through the musculofascial layer 
+with a twisting motion under constant controlled pressure 
+until a “pop” or sudden drop in resistance is sensed, indicating 
+entry into the peritoneal cavity. The patient is allowed to relax 
+the abdominal muscles. Holding the catheter in place, the sty-
+let is immediately withdrawn several centimeters to “hide” the 
+pointed end. Gently, the catheter is advanced toward the pel-
+vis without moving the stylet until satisfactory depth has been 
+achieved. The stylet is removed, and the administration set is 
+attached to the catheter. A suture or catheter holder is used 
+to secure the temporary catheter. Alternatively, the abdomen 
+may be prefilled with 1–2 L of dialysis solution before insert -
+ing the catheter–stylet. A Veress needle (a Veress needle is a 
+spring-loaded needle used to create pneumoperitoneum for 
+laparoscopic surgery) or a 16G–18G intravenous cannula 
+is inserted into the peritoneal cavity through the incision 
+described earlier to perform the prefill.
+C. Chronic catheter placement.  M ethods for insertion of chronic 
+peritoneal catheters include placement by percutaneous 
+guidewire technique (performed blindly or with image guid-
+ance), the YTEC laparoscopic-assisted approach, open surgi-
+cal dissection, and laparoscopic implantation. Optionally, the 
+implantation technique may include extending the catheter 
+to a remote exit-site location and/or embedding the external 
+limb of the catheter tubing under the skin with delayed exter -
+nalization when initiation of dialysis is needed. An overview of 
+each of the implantation approaches will be presented.
+1. Percutaneous needle–guidewire technique.  Placement of cath -
+eters by blind percutaneous puncture is performed using a 
+modification of the Seldinger technique. The convenience 
+of this approach is that it can be performed at the bedside 
+under local anesthesia using prepackaged self-contained 
+kits that include the dialysis catheter. The abdomen is pre-
+filled with 1.5–2 L dialysis solution instilled with an 18G 
+introducer needle inserted through a 1.5- to 2-cm infra-
+umbilical or paramedian  incision. Alternatively, a Veress 
+needle may be used to perform the prefill. A guidewire 
+is passed through the needle into the peritoneal cavity 
+and directed toward the retrovesical space. The needle 
+is withdrawn. A dilator with overlying peel-away sheath 
+is advanced through the fascia over the guidewire. The 
+guidewire and dilator are removed. Stiffened over a stylet, 
+the dialysis catheter is directed through the sheath toward 
+the pelvis. As the deep catheter cuff advances, the sheath 
+is peeled away. The deep cuff is advanced to the level of 
+the fascia.
+Daugirdas9781451144291-ch023.indd   433 09/10/14   1:29 am
+Part III / Peritoneal Dialysis
+434
+The addition of fluoroscopy to the procedure permits 
+confirmation of needle entry into the peritoneal cavity by 
+observing the flow of injected contrast solution around 
+loops of bowel. The retrovesical space is identified by con-
+trast pooling in the appropriate location. The guidewire 
+and catheter are advanced to this site. Ultrasonography 
+can be used in a similar fashion. The remainder of the pro-
+cedure is as described for blind placement. Although the 
+radiopaque tubing stripe permits fluoroscopic imaging of 
+the final catheter configuration, the proximity of adhesions 
+or omentum cannot be assessed. Percutaneous guidewire 
+placement techniques usually leave the deep catheter 
+cuff external to the fascia. After testing flow function, the 
+catheter is then tunneled subcutaneously to the selected 
+exit site.
+2. YTEC procedure.  The YTEC procedure is a proprietary
+ laparoscopic-assisted technique of peritoneal catheter
+placement. A 2.5-mm trocar with an overlying plastic
+sleeve is inserted percutaneously into the peritoneal cavity 
+through a paramedian incision. The obturator of the trocar 
+is removed, permitting insertion of a 2.2-mm laparoscope
+to confirm peritoneal entry. The scope is withdrawn and
+0.6–1.5 L of room air is pumped into the abdomen with a
+syringe or hand bulb. The scope is reinserted and the over -
+lying cannula and plastic sleeve are visually directed into
+an identified clear area within the peritoneal cavity. The
+scope and cannula are withdrawn, leaving the expandable
+plastic sleeve to serve as a conduit for blind insertion of
+the catheter over a stylet into the identified clear area. The 
+plastic sleeve is withdrawn and the deep cuff is pushed into 
+the rectus sheath. After testing flow function, the catheter
+is tunneled subcutaneously to the selected exit site.
+3. Open surgical dissection.  A paramedian incision is made
+through the skin, subcutaneous tissues, and anterior rectus 
+sheath. The underlying muscle fibers are split to expose the 
+posterior rectus sheath. A small hole is made through the
+posterior sheath and peritoneum to enter the peritoneal
+cavity. A purse-string suture is placed around the opening.
+The catheter, usually straightened over an internal stylet,
+is advanced through the peritoneal incision toward the
+pelvis. Despite being an open procedure, the catheter is
+advanced mostly by feel, therefore, blindly, into the perito-
+neal cavity. The stylet is partially withdrawn as the catheter 
+is advanced until the deep cuff abuts the posterior fascia.
+After satisfactory placement has been achieved, the stylet
+is completely withdrawn and the purse-string suture is tied. 
+Encouraging the catheter tip to remain oriented toward
+the pelvis is achieved by oblique passage of the catheter
+through the rectus sheath in a craniocaudal direction. The
+catheter tubing is exited through the anterior rectus sheath 
+at least 2.5 cm cranial to the level of the purse-string suture 
+Daugirdas9781451144291-ch023.indd   434 09/10/14   1:29 am
+Chapter 23 / Peritoneal Dialysis Catheters, Placement, and Care 435
+and deep cuff location. Attention to detail in placement of 
+the purse-string suture and repair of the anterior fascia is 
+imperative to prevent pericatheter leak and hernia. The 
+catheter is tunneled subcutaneously to the selected exit 
+site following a satisfactory test of flow function.
+4. Laparoscopic. Laparoscopy provides a minimally invasive
+approach with complete visualization of the peritoneal
+cavity during the catheter implantation procedure. The
+advantage of laparoscopic catheter placement over other
+approaches is the ability to proactively employ adjunctive
+procedures that significantly improve catheter outcomes.
+Laparoscopically guided rectus sheath tunneling places the 
+catheter in a long musculofascial tunnel oriented toward
+the pelvis and eliminates catheter tip migration. Observed
+redundant omentum that lies in juxtaposition to the cath -
+eter tip can be displaced from the pelvis into the upper
+abdomen and fixed to the abdominal wall (omentopexy).
+Compartmentalizing adhesions that may affect complete -
+ness of dialysate drainage can be divided. Intraperito -
+neal structures that siphon up to the catheter tip during
+the intraoperative irrigation test can be laparoscopically
+resected, including epiploic appendices of the sigmoid
+colon and uterine tubes. Previously unsuspected abdomi-
+nal wall hernias can be identified and repaired at the time
+of the catheter implantation procedure.
+Through a lateral abdominal wall puncture site 
+remote from the point of intended catheter placement, the 
+abdomen is insufflated with gas through a Veress needle 
+to create an intraperitoneal working space. A laparoscopic 
+port and laparoscope are inserted. Under laparoscopic 
+guidance, the catheter is introduced at a second puncture 
+site and placed in a musculofascial tunnel oriented toward 
+the peritoneum, usually through the use of a port device 
+that creates the rectus sheath tunnel. Some variations of 
+the technique use a third laparoscopic port site to intro-
+duce laparoscopic forceps to assist in the catheter tunnel-
+ing process. The catheter tip is directed into the true pelvis 
+under visual control. The deep cuff of the catheter is posi-
+tioned in the rectus muscle just below the anterior fascial 
+sheath. A purse-string fascial suture is placed around the 
+catheter at the level of the anterior sheath to minimize the 
+risk of pericatheter leak. The laparoscope is left in place 
+until a test irrigation of the catheter demonstrates success-
+ful flow function. After any indicated adjunctive procedures 
+are completed, the catheter is tunneled subcutaneously to 
+the selected exit site.
+5. Special access procedures
+a. Extended catheters.  The abdominal segment of two-piece
+extended catheters can be implanted by any of the afore-
+mentioned insertion techniques. A secondary incision
+is made in the vicinity of the planned upper abdominal,
+Daugirdas9781451144291-ch023.indd   435 09/10/14   1:29 am
+Part III / Peritoneal Dialysis
+436
+presternal, or back exit site. A marking stencil is invalu-
+able in devising the location of the secondary incision 
+and exit site. The measured distance between the abdom-
+inal insertion incision and the secondary incision is used 
+to calculate how much tubing length will be trimmed 
+from one or both of the catheter segments in order to 
+correctly span the distance. The trimmed catheters are 
+joined with a titanium connector, and the linked cath-
+eter segments are tunneled on the surface of the fascia 
+from the abdominal insertion site to the remote second-
+ary incision with a tunneling rod. The extension catheter 
+is then passed from the secondary incision through the 
+exit site using a stylet to complete the procedure.
+b. Catheter embedding procedure.  Catheter embedding has
+been characterized as the “ AV fistula of peritoneal dialy-
+sis. ” The catheter is implanted in advance of intended use 
+and allowed to “mature” in the subcutaneous bed until 
+the start of dialysis (Fig. 23.5). The catheter is allowed 
+to heal in the sterile environment of the subcutaneous 
+space without the potential contamination from the 
+FIGURE 23.5 Illustrated is the embedded catheter strategy. A: External limb of the 
+catheter tubing is embedded under the skin at the time of catheter placement. B: External 
+limb of the catheter is externalized when the time to initiate dialysis has arrived.
+A
+B
+Daugirdas9781451144291-ch023.indd   436 09/10/14   1:29 am
+Chapter 23 / Peritoneal Dialysis Catheters, Placement, and Care 437
+presence of an exit wound. Firm tissue ingrowth into the 
+cuffs and absence of biofilm formation have been specu-
+lated to reduce catheter infection–related peritonitis. 
+Another important attribute of catheter embedding is 
+greater patient acceptance for earlier commitment to 
+peritoneal dialysis by catheter placement ahead of time. 
+The patient is not burdened with catheter maintenance 
+until dialysis is needed. The need for insertion of vascu-
+lar catheters and temporary hemodialysis can be averted 
+in patients previously implanted with an embedded 
+catheter. When needed, the catheter is simply exterior -
+ized and the patient begins dialysis with full volumes, 
+avoiding the need for a break-in period. The embedding 
+technique permits more efficient surgical scheduling of 
+catheter implantation as a nonurgent procedure and 
+helps to reduce stress on operating room access. Disad-
+vantages of the catheter embedding strategy include the 
+need for two procedures (implantation and exterioriza -
+tion) as opposed to one and the possibility of futile place-
+ment in the event of a change in the patient’s condition.
+Catheter embedding can be incorporated into 
+any of the implantation approaches using any catheter 
+device. The catheter is temporarily externalized through 
+the future skin exit site prior to embedment. The exit-site 
+scar serves as a landmark to know where to come back to 
+for externalization. After acceptable flow function of the 
+catheter is confirmed, the tubing is flushed with hepa-
+rin, plugged, and buried in the subcutaneous tissue. To 
+minimize the risk of hematoma or seroma and to facili -
+tate subsequent externalization, the catheter should be 
+embedded in a linear or curvilinear subcutaneous track 
+using a tunneling stylet as opposed to curling the tubing 
+into a subcutaneous pocket. Embedding should not be 
+performed if anticipated need for dialysis is <4 weeks. 
+Externalization of embedded catheters is an office pro -
+cedure. Catheters have been embedded for months to 
+years, with an 85%–93% immediate function rate upon 
+externalization. Overall, 94%–99% are  successfully used 
+for dialysis after radiologic or laparoscopic  revision of 
+nonfunctioning catheters.
+ I V. CA THETER BREAK-IN PROCEDURES
+A. Acute catheters. T here is no specific strategy to break-in acute 
+catheters. As they are to be used acutely, there often are few 
+options. Some have suggested an incremental approach to 
+increasing the peritoneal volume.
+B. Chronic catheters.  T here is no particular evidence-based 
+approach for initiating patients onto peritoneal dialysis. The 
+following are some considerations:
+1. Catheter irrigation.  Performance of postoperative irriga -
+tion ( flushing) when immediate use of the catheter is not 
+ anticipated is covered in Section VII.A.
+Daugirdas9781451144291-ch023.indd   437 09/10/14   1:29 am
+Part III / Peritoneal Dialysis
+438
+2. Chronic nonurgent start.  When possible, exchanges should
+be delayed for 2 or more weeks after catheter insertion
+to allow for healing and prevent leakage. Either chronic
+ambulatory peritoneal dialysis or automated peritoneal
+dialysis can be initiated at that time. The size of the dwell
+volume can be increased over the course of the training
+period. For patients treated with automated peritoneal
+dialysis, leaving the patient with no last fill for a number of 
+weeks may help reduce the risk of leaks. While the catheter 
+is healing, it is suggested that the patient limit his or her
+physical activities for 4–6 weeks, especially activities that
+could increase intra-abdominal pressure.
+3. Chronic urgent start. A growing body of literature suggests that 
+starting patients immediately ( <2 weeks after catheter
+insertion) on peritoneal dialysis is feasible. In some stud-
+ies, the leak rate does not appear to be significantly higher
+than nonurgent starts. Furthermore, an urgent start on
+peritoneal dialysis provides an alternative to those patients 
+who would otherwise initiate therapy on hemodialysis
+with a central venous catheter. Surgically implanted cath -
+eters can be used immediately postinsertion, provided that 
+a tight seal is created at the peritoneum to prevent leaks.
+Percutaneously inserted catheters can also be used imme-
+diately; however, because of the increased risk of leak, the
+feasibility of this strategy should be assessed according to
+the historical experience of the center.
+No standard dialysis prescription exists for patients 
+starting peritoneal dialysis urgently; however, most have 
+described an incremental approach. Such an approach 
+might consist of initiating exchanges with approximately 1 
+L volumes and increasing the amount by 250–500 mL per 
+week. Commencing therapy with the patient in the supine 
+position will minimize the risks of dialysate leaks from 
+increased intra-abdominal pressure. It has been demon-
+strated that when surgically placed catheters are appro -
+priately secured, full-volume exchanges can be started 
+immediately. As with chronic catheters, patients should 
+be advised to reduce physical activity for about 4–6 weeks 
+after insertion to allow for proper healing.
+ V. ACUTE COMPLICATIONS OF CATHETERS
+A. Preperitoneal placement.  During insertion of acute noncuffed 
+catheters, if the stylet of the catheter fails to enter the peri-
+toneal cavity, the semirigid catheter may be inadvertently 
+advanced into the preperitoneal space. Similarly, unintended 
+preperitoneal position of the introducer needle or Veress nee-
+dle can occur during chronic catheter placement using per -
+cutaneous needle–guidewire approaches. Dialysis solution 
+inflow will be slow and often painful. Outflow will be minimal, 
+and the effluent may become blood-tinged. If this occurs, 
+drain as much fluid as possible, then remove the catheter and 
+insert at another site.
+Daugirdas9781451144291-ch023.indd   438 09/10/14   1:29 am
+Chapter 23 / Peritoneal Dialysis Catheters, Placement, and Care 439
+B. Blood-tinged dialysis effluent.  In addition to preperitoneal cath -
+eter placement, blood-tinged outflow can result from injury of 
+a blood vessel in the abdominal wall or mesentery. The return 
+will usually clear with continued dialysis.
+C. Serious complications. Grossly bloody effluent, fall in hematocrit, 
+or signs of shock signify large blood vessel injury. Urgent lapa-
+rotomy is usually required. Unexplained polyuria and glycos -
+uria suggest accidental puncture of the urinary bladder. If the 
+needle has entered the bowel, instillation of dialysate will be 
+accompanied by pain and/or an urgent need to defecate. In 
+case of suspected bowel entry with a small-bore acute catheter 
+or needle, it is sometimes possible to merely remove the cath-
+eter or needle and observe the patient carefully while treat -
+ing with intravenous antibiotics. Catheter insertion should be 
+delayed a few days until it is certain that there are no com-
+plications as a result of penetrating the bowel. Unrecognized 
+bowel entry may be heralded by feces or gas in the effluent or 
+watery diarrhea having high glucose content. Surgical inter -
+vention is often required, and appropriate consultation should 
+be obtained. If surgical exploration is planned, it is helpful to 
+leave the catheter in place so that the site of perforation can be 
+more easily identified.
+ VI. COMPLICATIONS OF CHRONIC PERITONEAL CATHETERS.  Mechanical 
+and infectious complications are the two most common reasons 
+for interruption of dialysis therapy and loss of the peritoneal 
+catheter. Early and appropriate interventions can allow success -
+ful resumption of dialysis, avoid removal of the catheter, or, in the 
+event of catheter loss, minimize the time before return to perito-
+neal dialysis.
+A. Mechanical complications.  M echanical complications of the 
+catheter include pericatheter leaks, infusion and drain pain, 
+outflow failure, and catheter tip migration.
+1. Pericatheter leak.  This complication is usually related to 
+catheter implantation technique, timing of initiation of 
+dialysis, and strength of abdominal wall tissues. When 
+dialysis is initiated, subcutaneous leakage may occur at 
+the catheter insertion site and usually manifests itself as 
+fluid appearing through the incision or at the exit site. 
+Questionable leaks can be verified by a positive glucose 
+dipstick indicating high glucose concentration of the 
+seeping fluid. Delaying initiation of dialysis for 10–14 
+days following catheter placement minimizes the risk for 
+developing a leak. Temporarily discontinuing dialysis for 
+1–3 weeks usually results in spontaneous cessation of an 
+early leak. Dramatic early leaks may indicate purse-string 
+suture failure or technical error in wound repair and 
+demands immediate exploration. Leakage through the exit 
+site or insertion incision leaves the patient prone to tunnel 
+infection and peritonitis. Prophylactic antibiotic therapy 
+should be employed. Persistent leaks warrant catheter 
+replacement.
+Daugirdas9781451144291-ch023.indd   439 09/10/14   1:29 am
+Part III / Peritoneal Dialysis
+440
+Late pericatheter leaks are caused by pericannular 
+hernia or occult tunnel infections, with separation of the 
+cuffs from the surrounding tissues. The occurrence of 
+ pericannular hernia is largely influenced by the  location 
+and degree of fixation of the deep cuff. At the parietal 
+ peritoneal surface, the mesothelium reflects along the 
+ surface of the catheter to reach the deep cuff. If the deep 
+cuff was placed outside of the muscle wall or the cuff 
+shifts outward because of weak midline fascial attach-
+ments, then the peritoneal lining actually extends above 
+the fascial layer, creating the potential for a pseudohernia 
+and pericatheter leak. If the abdominal wall is weak, the 
+track may dilate and develop a true hernia. Most late leaks 
+and pericatheter 
+ hernias are best managed by catheter 
+replacement.
+2. Infusion pain.  Pain during dialysate infusion is usually
+observed in new patients initiating dialysis and is often
+transient in nature, spontaneously disappearing over sev-
+eral weeks. Persistent infusion pain is commonly associated 
+with the acidity (pH 5.2–5.5) of conventional lactate-
+buffered dialysis solutions. Use of bicarbonate/  lactate-
+buffered dialysis solutions (pH 7.0–7.4) can eliminate this
+pain. If buffered solutions are not available, manual addi-
+tion of bicarbonate to each dialysis bag (4–5 mmol/L) is
+required to treat acid-related infusion pain. Alternatively, a 
+1% or 2% lidocaine solution added to the dialysate (5 mL/L) 
+may be tried to assuage infusion discomfort.
+Other causes of dialysate-related pain include hyper -
+tonic glucose solutions, aged dialysis solution, overdisten-
+tion of the abdomen, or extremes in dialysate temperature. 
+Compared to coiled dialysis catheters, straight-tip cath -
+eters appear to be associated with a higher incidence of 
+mechanical inflow pain caused by the jet effect of the dialy-
+sate from the end hole of the tubing. Catheter malposition 
+with the tip against the abdominal wall or tube restriction 
+by attached tissues can produce both inflow and outflow 
+pain. Slower infusion rates and incomplete drainage may 
+diminish these symptoms; however, transluminal catheter 
+manipulation or laparoscopic exploration should be con -
+sidered for flow pain that is persistent or accompanied 
+with hydraulic dysfunction with or without associated 
+catheter malposition.
+3. Drain pain.  Pain during outflow is common, especially
+toward the end of the drain, and is especially frequent in
+the early days after initiation of dialysis. As the intraperi-
+toneal structures siphon up to the catheter tip during the
+drain, it causes the catheter to bump up against the exqui-
+sitely sensitive parietal peritoneum. The pain is frequently
+experienced in the genital or anorectal region. Drain pain
+is more frequently a problem with automated peritoneal
+dialysis due to hydraulic suction on the peritoneal lining.
+Daugirdas9781451144291-ch023.indd   440 09/10/14   1:29 am
+Chapter 23 / Peritoneal Dialysis Catheters, Placement, and Care 441
+Catheters implanted too low on the abdominal wall can 
+wedge tubing into the deep pelvis, resulting in drain pain 
+from early closure of pelvic viscera around the catheter 
+tip. Similarly, constipation with crowding of the bowel 
+around the catheter in the pelvis can cause or contribute 
+to the severity of the symptoms. The drain pain sometimes 
+resolves with time or with treatment of associated consti-
+pation. If persistent, it can be managed by avoiding com-
+plete drainage of the peritoneal effluent. In cycler patients, 
+this can be achieved by performing some degree of tidal 
+peritoneal dialysis. In resistant cases of drain pain, repo-
+sitioning of the catheter may be attempted, but even this 
+does not always resolve the problem.
+4. Outflow failure.  Catheter flow dysfunction is usually mani-
+fested as outflow failure; therefore, the volume of drained
+dialysate is substantially less than the inflow volume, and
+there is no evidence of pericatheter leakage. Outflow failure 
+usually occurs soon after catheter placement, but it may
+also commence during or after an episode of peritonitis, or
+at any time during the life of the catheter. Evaluation and
+treatment for the common causes of flow dysfunction are
+as follows:
+a. Constipation and urinary retention.  The most common cause
+of outflow dysfunction is constipation. Distended rec-
+tosigmoid colon may block the catheter side holes or
+displace the catheter tip into a position of poor drainage 
+function. Extrinsic bladder compression on the catheter
+due to urinary retention occurs less frequently. Abdomi-
+nal radiography is helpful to look for a fecal-filled colon
+and catheter displacement. Constipation is treated with
+oral administration of an emollient, such as 70% sorbitol 
+solution, 30 mL every 2 hours until the desired effect is
+achieved. Polyethylene glycol solution, 2 L, ingested over 
+a period of 4–6 hours is usually effective in persistent
+cases. Stimulant laxatives such as bisacodyl and saline
+enemas are reserved for refractory cases since chemical
+and mechanical irritation of the colonic mucosa have
+been associated with transmural migration of bacteria
+and development of peritonitis.
+b. Tubing kink.  Mechanical kinking of the catheter tubing
+is usually accompanied by two-way obstruction. A flat-
+plate radiograph of the abdomen is often helpful in iden-
+tifying a kink in the catheter tubing. Catheter revision or 
+replacement will be required.
+c. Fibrin strands and plugs.  Heparin should be added to the
+dialysate whenever fibrin strands or plugs are visible
+in the effluent. Heparin is more useful prophylactically
+than therapeutically, preventing the formation of fibrin
+clots and extension of existing clots. Once outflow
+obstruction has occurred, irrigation of the catheter with
+heparin is usually unsuccessful in recovering function.
+Daugirdas9781451144291-ch023.indd   441 09/10/14   1:29 am
+Part III / Peritoneal Dialysis
+442
+If flow function is not restored with heparin, then 
+thrombolytic therapy with tissue plasminogen activator 
+(tPA) may be attempted. Failure to dislodge intraluminal 
+debris by brisk irrigation of the catheter with saline is fol-
+lowed by instillation of tPA using the protocol described 
+in Table 23.3. If catheter obstruction is due to a fibrin clot, 
+recovery of flow function with tPA has been reported at 
+nearly 100%. Because of cost considerations, the dose of 
+tPA (used in a dilution of 1 mg/mL) has been based on the 
+calculated volume of the catheter assembly; however, no 
+adverse consequences have been documented for cath -
+eter overfill or repeated administration.
+d. Catheter manipulation for outflow failure.  If treatment of 
+ constipation and fibrinolytic therapy are not successful 
+in restoring drainage function , and if urinary retention 
+and tubing kinks have been excluded, the catheter is pre-
+sumed to be obstructed by omentum or other adherent 
+intraperitoneal structures. Interventions to resolve cath-
+eter obstruction are now most commonly performed 
+using radiologic and laparoscopic techniques.
+1. Radiologic intervention.  Fluoroscopic guidewire ma -
+nipulation has been used to redirect displaced and 
+obstructed catheters. Stiff guidewire manipulation 
+of catheters with a swan neck bend can be difficult. 
+Total Volume of Catheter and Transfer Set Assembly
+Adult Catheter Size
+Catheter 
+ Volume (mL)a
+Total Volume 
+with Baxter 
+Transfer 
+Set (mL)b
+Total  Volume 
+with Fresenius 
+Extension 
+Set (mL)b
+Internal 
+ Diameter (cm) Length (cm)
+0.26c
+0.26c
+0.26c
+0.35d
+42
+57
+62
+62
+2.2
+3.0
+3.3
+6.0
+4.2
+5.0
+5.3
+8.0
+4.7
+5.5
+5.8
+8.5
+Protocol:
+1.	 Aspirate 	contents	of	catheter	to	remove	any	povidone-iodine	from	transfer	set
+2.	 Slowly 	but	steadily	instill	110%	calculated	volume	of	tPA	(1	mg/mL)	into	
+catheter
+3.	 Allow	tPA	to	remain	in	catheter	for	60	minutes
+4.	 Aspirate 	tPA	from	catheter
+5.	 With 	60-mL	syringe,	briskly	irrigate	the	catheter	with	saline	to	determine	
+patency	and	to	dislodge	any	fibrin	clots
+6.	 Repeat 	process	if	catheter	remains	obstructed
+a Volume = πr 2h; π = 3.14, r = radius of catheter bore, h = height (length) of tube.
+b Baxter 6-in transfer set = 2 mL; Fresenius 12-in extension set = 2.5 mL.
+c Internal diameter of conventional Tenckhoff catheters.
+d Internal diameter of Flex-Neck catheter.
+Tissue	Plasminogen	Activator	Protocol	for	Thrombolysis	of	
+Obstructed	Peritoneal	Dialysis	Catheters23.3
+TABLE
+Daugirdas9781451144291-ch023.indd   442 09/10/14   1:29 am
+Chapter 23 / Peritoneal Dialysis Catheters, Placement, and Care 443
+Forceful straightening of the subcutaneous tunnel can 
+produce tunnel track trauma and infection. Translu -
+minal manipulation is not practical for extended cath-
+eters because of the long tubing length.
+A preprocedure dose of prophylactic antibiotics 
+to provide antistaphylococcal coverage is advisable. 
+Particular attention must be given to antiseptic prep -
+aration of the catheter tubing in addition to creating 
+a sterile surgical field for the procedure. The transfer 
+set is disconnected and discarded. After catheter ma-
+nipulation is performed, restoration of flow function 
+is checked by syringe irrigation. Frequently, multiple, 
+separate manipulation procedures are required, with 
+long-term flow function restored in only 45%–73% of 
+cases. Failure rates for fluoroscopic manipulation as 
+high as 90% were observed when patients had an an-
+tecedent history of abdominopelvic surgery or perito-
+nitis, suggesting that adhesions play a major factor in 
+technical failures.
+2. Laparoscopic intervention.  Laparoscopy has become an
+invaluable method of evaluating and resolving cathe-
+ter flow obstruction. Because laparoscopy can reliably 
+identify the source of flow dysfunction and provide a
+means for definitive treatment, it is often considered
+as the next step in the management sequence after
+other causes for obstruction have been excluded. The
+dialysis catheter frequently can be used to perform
+the initial gas insufflation of the abdomen since most
+catheter obstructions represent outflow problems.
+Alternatively, a Veress needle is used for insufflation,
+or the initial laparoscopic port is placed by direct cut-
+down on the peritoneum. Laparoscopic exploration is 
+performed to identify the source of obstruction. Ad-
+ditional laparoscopic ports for introduction of oper -
+ating instruments may be required depending on the
+findings.
+Omental attachment to the catheter coil with 
+displacement of the tubing out of the pelvis is a 
+common cause of outflow dysfunction. Omental en-
+trapment is relieved by using laparoscopic grasping 
+forceps to strip the omentum from the catheter. The 
+catheter tip is temporarily exteriorized through one of 
+the port sites to facilitate removal of residual intralu-
+minal tissue debris. The omentum is laparoscopically 
+sutured to the upper abdominal region (omentopexy) 
+to keep it away from the catheter. Redundant epiploic 
+appendices of the sigmoid colon and uterine fimbria 
+may siphon up to the catheter coil and produce ob-
+struction. Laparoscopic resection of the involved epi-
+ploic appendices and uterine tube prevents recurrent 
+obstruction.
+Daugirdas9781451144291-ch023.indd   443 09/10/14   1:29 am
+Part III / Peritoneal Dialysis
+444
+Obstruction of the catheter by adhesive scar tis-
+sues can be treated by laparoscopically dividing the 
+adhesions or simply pulling the catheter free of the 
+adhesions if they are not too extensive. Adhesiolysis 
+for poor drainage function, especially after peritonitis, 
+is associated with a 30% failure rate secondary to re-
+forming of adhesions.
+Catheter tip migration to a position of poor drain-
+age function is frequently caused by shape-memory 
+resiliency forces of a straight catheter bent into a con-
+figuration that imposes excessive stress on the tubing. 
+Simply repositioning the catheter will be followed by 
+recurrence of the migration in a high percentage of 
+cases. Laparoscopic suturing of the catheter tip to a 
+pelvic structure has an unacceptable rate of failure 
+due to erosion of the suture. A more reliable approach 
+is to laparoscopically place a suture sling in the supra-
+pubic region through the abdominal wall and around 
+the catheter. A sling will maintain the catheter toward 
+the pelvis and not hinder catheter removal if required 
+at a later date.
+5. Cuff extrusion through the exit site.  Erosion of the superficial 
+cuff through the exit site can result from positioning the 
+cuff too close (< 2 cm) to the exit wound during catheter 
+placement. In addition, excessive bending of the catheter 
+with a straight intercuff segment to produce a downward 
+exit direction can induce mechanical stresses on the tub-
+ing. In combination with close proximity of the cuff to 
+the exit site, the shape-memory forces of a catheter bent 
+into this configuration can lead to tube straightening 
+over time with migration of the superficial cuff toward 
+and through the exit site. Another cause for superficial 
+cuff erosion that can eventually result in extrusion of the 
+entire catheter is outer displacement of the tubing due to 
+poor location and fixation of the deep cuff. Lastly, exit-
+site infection extending to the superficial cuff may cause 
+it to separate from the surrounding tissues and extrude 
+through the exit site.
+An extruded cuff becomes a reservoir of bacteria 
+within the vicinity of the exit wound. Exacerbated by daily 
+wetting of the cuff during routine exit-site care, the pres-
+ence of this infected sponge interferes with maintaining 
+acceptable exit-site hygiene. Using a scalpel blade applied 
+parallel to the cuff surface, the cuff can be shaved in repeti-
+tive slices until all of the cuff material is removed. The 
+blade should be changed often to assure ease in perform-
+ing the shave without applying undue pressure on the 
+tubing. Extra care should be taken when shaving the cuff 
+from 3.5-mm internal bore catheters (identified by the blue 
+radiopaque stripe), as this thin-walled tubing can be easily 
+damaged. Alternatively, catheters with extruded cuffs can 
+Daugirdas9781451144291-ch023.indd   444 09/10/14   1:29 am
+Chapter 23 / Peritoneal Dialysis Catheters, Placement, and Care 445
+be managed by replacing the cuffed tubing segment by a 
+splicing procedure, as described in the following section.
+B. Catheter infection and management. Details of antibiotic treatment 
+for catheter infections are discussed in Chapter 27. The even-
+tual outcome of a chronic exit-site infection with superficial 
+cuff involvement is a tunnel abscess or progression of the tun-
+nel infection to the peritoneal cavity, producing concurrent 
+peritonitis. Early recognition of chronic exit-site and tunnel 
+infection is essential to provide the best opportunity for cath-
+eter salvage. Interventions for catheter infection are reviewed 
+in what follows:
+1. Exit-site and tunnel infection. Exit-site infection presents as red-
+ness, swelling, and tenderness at the exit site. With tunnel
+involvement, the signs of infection extend along the sub-
+cutaneous course of the catheter. In most cases, exit-site
+and tunnel infections are accompanied by purulent dis -
+charge from the exit site. In chronic smoldering cases, the
+exit-site skin is loose around the catheter, granulation tis-
+sue is present at the skin exit sinus, and purulent material
+can be expressed through the exit orifice with pressure over 
+the subcutaneous cuff or stroking the skin over the tunnel
+toward the exit site while gently tugging on the catheter. As 
+long as the infection has not extended to the deep cuff, it is 
+possible to resolve the problem without losing the catheter 
+or interrupting therapy. Ultrasonography of the catheter
+tunnel is a useful preoperative tool to evaluate for deep cuff 
+involvement, particularly in obese patients where physical
+signs are often unreliable. Patients found to have infection
+involving the deep cuff on ultrasonography should undergo 
+catheter removal. Moreover, patients with concurrent peri-
+tonitis are not candidates for catheter salvage procedures,
+as peritonitis suggests that transmural spread of the infec-
+tion has already occurred.
+a. Unroofing–cuff shaving. Unroofing the skin and subcutane-
+ous tissue overlying the infected catheter tunnel permits 
+drainage of pus, debridement of granulation tissue, and
+shaving of the superficial cuff. The catheter, including
+the shaved tubing segment, is directed out of the medial
+aspect of the incision and stabilized in this position
+by securing it to the adjacent skin with sterile adhe-
+sive strips. The wound is left open with performance of
+wet-to-dry dressing changes (once or twice daily) with
+saline-soaked gauze, and allowed to heal by secondary
+intention.
+Depending on the magnitude of the infection, the 
+procedure can be performed in the treatment room or 
+operating room under local or general anesthesia. The 
+primary advantage of the unroofing–cuff shaving proce-
+dure is that dialysis is not interrupted.
+b. Catheter splicing.  An alternative surgical treatment
+approach for chronic exit-site infection that has not
+Daugirdas9781451144291-ch023.indd   445 09/10/14   1:29 am
+Part III / Peritoneal Dialysis
+446
+extended beyond the superficial cuff is replacement of 
+the infected external tubing segment by catheter splic-
+ing. This may be the preferred salvage procedure for 
+a badly chosen exit-site location that was placed in an 
+infection-prone area, such as within a skin crease, on the 
+apex of a flabby skin fold, or under the belt line. In this 
+circumstance, performing only an unroofing–cuff shav -
+ing procedure may still result in an exit-site location that 
+is predisposed to infection. The spliced catheter segment 
+can be routed to a more stable exit-site location includ-
+ing the upper abdomen or chest region. Since the proce -
+dure requires more extensive dissection and tunneling, it 
+is best performed in the operating room under local or 
+general anesthesia.
+After skin preparation, the infected exit-site is iso-
+lated from the primary surgical field during draping and 
+managed in the final step to prevent contamination 
+of the new catheter and wound. An incision is made 
+through the previous insertion site scar to expose the 
+uninvolved intercuff segment of the catheter at the level 
+of the fascia. The catheter is divided in the intercuff seg-
+ment to preserve a 2.5-cm stump on the deep cuff side. 
+A single- or double-cuff catheter with or without a pre-
+formed swan neck bend may be selected for the splicing 
+segment. After trimming the new catheter to appropri-
+ate length, the segment is joined to the stump of the deep 
+cuff end of the original catheter with a titanium connec-
+tor. The external segment of the spliced catheter is tun-
+neled to a suitable exit location remote from the infected 
+exit site. The wound is closed and dressings are applied. 
+In the final step, the external part of the old catheter is 
+removed and the wound is debrided and packed open 
+with saline wet-to-dry dressings. Antibiotics are contin-
+ued for 2–4 weeks until the infected wound is healed. 
+Peritoneal dialysis can be resumed immediately after 
+the procedure.
+2. Catheter infection–related peritonitis. Progression of an exit-site 
+and tunnel infection to the deep cuff can lead to concur -
+rent peritonitis. Rarely, peritonitis can lead to chronic deep 
+cuff infection and proceed in a retrograde fashion to mani-
+fest initially as a tunnel infection. Ultrasonography can
+be helpful in evaluating deep cuff involvement. Catheter
+infection–related peritonitis is best managed by catheter
+removal. Antibiotic treatment for peritonitis is discussed
+in Chapter 27. Reinsertion of the dialysis catheter can be
+performed 4–6 weeks following completion of antibiotic
+therapy for peritonitis.
+VII. CARE OF THE CHRONIC PERITONEAL CATHETER. Postoperative manage-
+ment of primarily externalized catheters will vary depending on
+whether they are used immediately or if a 2-week delay is to be
+Daugirdas9781451144291-ch023.indd   446 09/10/14   1:29 am
+Chapter 23 / Peritoneal Dialysis Catheters, Placement, and Care 447
+prescribed to allow for wound healing and firm tissue ingrowth 
+of the cuffs.
+A. Catheter irrigation.  Catheters that are not used immediately 
+should undergo irrigation with 1 L of solution (saline or dialy-
+sate) within 72 hours following insertion to wash out blood 
+and fibrinous debris. If the effluent is particularly bloody, irri-
+gation is repeated until signs of clearing are evident. To assure 
+patency, it is a good idea to repeat the irrigation weekly until 
+such time that dialysis is instituted. Heparin added to the irri-
+gant (1,000 units/L) is helpful in preventing fibrin plugging of 
+the catheter during the early postoperative period.
+B. Postoperative catheter immobilization and dressings.  Since no cath -
+eter anchoring stitches are used, it is important to immobilize 
+the catheter on the abdominal wall with medical adhesive and 
+sterile adhesive strips. A nonocclusive barrier dressing of suf-
+ficient size to protect the exit-site and surgical wounds and 
+to further immobilize the catheter should be applied at the 
+time of the placement procedure. In addition, the transfer set 
+should be secured to the abdominal wall to prevent tugging 
+on the catheter at the exit site. As long as the dressings are 
+clean and intact and the exit site appears stable, dressings are 
+changed on a weekly basis until such time that the patient is 
+instructed in the protocol for chronic exit-site care. If, at any 
+time, the exit site appears unstable, the frequency of exit-site 
+care is modified according to the findings.
+C. Long-term catheter and exit-site care.  Patients should limit them -
+selves to nonstrenuous activities for 4–6 weeks following 
+catheter placement to permit good wound healing. If exit-site 
+healing is uneventful, most patients are able to resume show-
+ering in 3–4 weeks. This usually coincides with implementa-
+tion of the chronic exit-site care routine. Most exit-site care 
+protocols involve daily cleansing with nonirritating, nontoxic, 
+antiseptic agents and application of a prophylactic antibiotic 
+ointment or cream such as mupirocin or gentamicin. Sterile 
+dressings over the exit site are encouraged. Tub bathing and 
+swimming with immersion of the exit site are discouraged. 
+Centers that permit swimming usually restrict the activity to 
+properly chlorinated private pools or ocean water. It is rec-
+ommended that an ostomy appliance or similar device cover 
+the exit site and catheter during swimming and to perform 
+routine exit-site care after the activity. Patients should be 
+reminded that the catheter is a “lifeline” and advised to con-
+sider the consequences of risking exposure of their peritoneal 
+access to potential contamination during swimming.
+D. Embedded catheter care.  Patients who undergo catheter embed -
+ment may resume showering after 48 hours. Avoidance of 
+strenuous activities is required for 4–6 weeks following cath -
+eter placement to permit good wound healing.
+Externalization of embedded catheters is a clinic pro -
+cedure performed using sterile technique in a suitable treat -
+ment room under local anesthesia. If appropriate embedding 
+Daugirdas9781451144291-ch023.indd   447 09/10/14   1:29 am
+Part III / Peritoneal Dialysis
+448
+technique was performed, the catheter tubing should be eas-
+ily palpable at the incision scar created during the procedure 
+while the catheter was temporarily externalized at the future 
+exit site. In equivocal cases, ultrasound examination can be 
+employed to identify the catheter tubing at the correct dis -
+tance from the superficial cuff. Care is exercised in anesthetiz-
+ing the skin and making the incision to avoid damage to the 
+catheter. Hemostat dissection is used to identify and deliver 
+the catheter from the embedment track. The plugged end of 
+the tubing is amputated, the catheter adapter is inserted, the 
+transfer set is attached, and flow is tested. The catheter may 
+require brisk irrigation with a 60-mL syringe and saline to dis-
+lodge fibrin clots. Unsatisfactory flow should be managed as 
+described under Section VI.A. Exit-site care following external-
+ization of embedded catheters is the same as that described for 
+primarily 
+ externalized catheters.
+ VIII. CATHETER REMOVAL AND SECONDARY EMBEDDING
+A. Removal of acute noncuffed catheters.  Because of the concerns
+for peritonitis, acute noncuffed catheters should be removed 
+within 3 days. After the abdomen is drained and retaining 
+sutures are removed, the catheter is gently withdrawn. It is 
+recommended that the peritoneum be allowed to rest for a 
+couple of days before inserting a new catheter. Insertion sites 
+for replacement catheters should alternate between medial 
+and lateral locations, allowing a distance of at least 2–3 cm 
+from the previous site.
+B. Removal of chronic catheters.  Since firm tissue ingrowth of the 
+Dacron cuffs will have occurred by 2–3 weeks, chronic cath-
+eters in place for a longer period will usually require removal 
+by surgical dissection in the operating room or suitable pro-
+cedure room, especially if the deep cuff was positioned in the 
+muscle layer. Fascial defects will require suture repair to pre-
+vent an abdominal wall hernia.
+C. Secondary embedding of chronic catheters.  On occasion, catheter 
+removal is performed because patients regain sufficient renal 
+function to discontinue dialysis, but recovery is not expected 
+to be permanent. An alternative to removing the catheter is 
+secondary embedding. The inconvenience and cost of catheter 
+maintenance can be eliminated for the interim by secondary 
+embedding while still preserving a readily available perito-
+neal access that can be immediately employed. This approach 
+avoids complications of new catheter placement such as flow 
+dysfunction and pericatheter leak, and also avoids the neces-
+sity of possible future central venous catheter placement for 
+urgent hemodialysis.
+The procedure performed is similar to catheter splic -
+ing except that the spliced external segment is embedded. 
+After skin preparation, the existing exit site and catheter are 
+isolated from the primary surgical field during draping and 
+managed in the final step to prevent contamination of the 
+Daugirdas9781451144291-ch023.indd   448 09/10/14   1:29 am
+Chapter 23 / Peritoneal Dialysis Catheters, Placement, and Care 449
+spliced catheter and wounds. An incision is made through 
+the previous insertion site scar to expose the intercuff seg-
+ment of the catheter. The catheter is divided in the intercuff  
+segment to preserve at least a 2.5-cm stump on the deep cuff  
+side. A single- or double-cuff catheter with or without a pre-
+formed swan neck bend may be selected for the splicing seg-
+ment. After trimming the new catheter to appropriate length, 
+the segment is joined to the stump of the deep cuff end of the 
+former catheter with a titanium connector. The external seg -
+ment of the spliced catheter is temporarily externalized at 
+the new exit site and then tunneled into a subcutaneous bed, 
+as described in the section on embedded catheters. After the 
+wounds are closed and protected, the remaining external seg-
+ment of the former catheter is removed and the old exit-site 
+wound is  excised and closed.
+Suggested Readings
+Attaluri V , et al. Advanced laparoscopic techniques significantly improve function of 
+peritoneal dialysis catheters. J Am Coll Surg. 2010;211:699–704.
+Brown PA, et al. Complications and catheter survival with prolonged embedding of 
+peritoneal dialysis catheters. Nephrol Dial Transplant. 2008;23:2299–2303.
+Brunier G, et al. A change to radiological peritoneal dialysis catheter insertion: 
+ three-month outcomes. Perit Dial Int. 2010;30:528–533.
+Crabtree JH. Rescue and salvage procedures for mechanical and infectious complica-
+tions of peritoneal dialysis. Int J Artif Organs. 2006;29:67–84.
+Crabtree JH, Burchette RJ. Effective use of laparoscopy for long-term peritoneal dialysis 
+access. Am J Surg. 2009;198:135–141.
+Crabtree JH, Burchette RJ. Comparative analysis of two-piece extended peritoneal 
+dialysis catheters with remote exit-site locations and conventional abdominal 
+catheters. Perit Dial Int. 2010;30:46–55.
+Crabtree JH, Burchette RJ. Peritoneal dialysis catheter embedment: surgical consider-
+ations, expectations, and complications. Am J Surg. 2013;206:464–471.
+Flanigan M, Gokal R. Peritoneal catheters and exit-site practices toward optimum peri-
+toneal access: a review of current developments. Perit Dial Int. 2005;25:132–139.
+Gadallah MF, et al. Peritoneoscopic versus surgical placement of peritoneal dialy-
+sis catheters: a prospective randomized study on outcome. Am J Kidney Dis . 
+1999;33:118–122.
+Ghaffari A. Urgent-start peritoneal dialysis: a quality improvement report. Am J Kidney 
+Dis. 2012;59:400–408.
+Gokal R, et al. Peritoneal catheters and exit-site practices toward optimum peritoneal 
+access: 1998 update. Perit Dial Int. 1998;18:11–33.
+Hagen SM, et al. A systematic review and meta-analysis of the influence of perito-
+neal dialysis catheter type on complication rate and catheter survival. Kidney Int. 
+2014;85:920–932.
+McCormick BB, et al. Use of the embedded peritoneal dialysis catheter: experience and 
+results from a North American center. Kidney Int. 2006;70:538–543.
+Miller M, et al. Fluoroscopic manipulation of peritoneal dialysis catheters: outcomes 
+and factors associated with successful manipulation. Clin J Am Soc Nephrol . 
+2012;7:795–800.
+Penner T, Crabtree JH. Peritoneal dialysis catheters with back exit sites. Perit Dial Int. 
+2013;33:93–96.
+Simons ME, et al. Fluoroscopically-guided manipulation of malfunctioning peritoneal 
+dialysis catheters. Perit Dial Int. 1999;19:544–549.
+Twardowski ZJ, et al. Six-year experience with swan neck presternal peritoneal dialysis 
+catheter. Perit Dial Int. 1998;18:598–602.
+Vaux EC, et al. Percutaneous fluoroscopically guided placement of peritoneal dialysis 
+catheters—a 10-year experience. Semin Dial. 2008;21:459–465.
+Xie J, et al. Coiled versus straight peritoneal dialysis catheters: a randomized controlled 
+trial and meta-analysis. Am J Kidney Dis. 2011;58:946–955.
+Daugirdas9781451144291-ch023.indd   449 09/10/14   1:29 am
+Part III / Peritoneal Dialysis
+450
+Web References
+PD catheter placement using ultrasound and fluoroscopic guidance. http://www 
+.homebybaxter.com/how/home-therapies-institute/webinars-on-demand/pd-
+catheter-placement-ultrasound.html
+Percutaneous insertion of peritoneal dialysis catheters with radiological guidance 
+(buried & not buried). http://ukidney.com/nephrology-videos/item/170-video-
+percutaneous-insertion-of-pd-catheter
+Peritoneal dialysis access—catheters and placement. http://www.homebybaxter  
+.com/how/home-therapies-institute/webinars-on-demand/peritoneal-dialysis-
+access-catheters.html
+Peritoneal dialysis catheter insertion at the bedside. http://ukidney.com/  
+nephrology-videos/item/1214-peritoneal-dialysis-catheter-insertion-at-the-
+bedside
+Daugirdas9781451144291-ch023.indd   450 09/10/14   1:29 am

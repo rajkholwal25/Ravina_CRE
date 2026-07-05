@@ -1,0 +1,1225 @@
+592
+34
+ I. ANEMIA
+A. Etiology. The anemia of chronic kidney disease (CKD) is  primarily 
+due to insufficient production of the glycoprotein hormone 
+erythropoietin (EPO). Although EPO can be produced in many 
+of the body’s tissues, EPO required for erythropoiesis generally is 
+produced by endothelial cells in proximity to the renal tubules. 
+As renal excretory function is lost, there is a relative decline in 
+the production of EPO that correlates with the declining glomer-
+ular filtration rate. The severity of the resulting anemia varies, 
+but if untreated, then hematocrit values in end-stage kidney dis-
+ease (ESKD) of 18%–24% are typical. While the primacy of EPO 
+deficiency is indisputable, other factors may play important 
+contributory roles. Also, patients with ESKD may develop any of 
+the other causes of anemia common in nonuremic subjects.
+B. Consequences of anemia
+1. Symptoms. The manifestations of anemia may be due both 
+to the effects of decreased oxygen delivery to tissues and 
+to the heart’s compensatory changes. The most prominent 
+symptoms of anemia are fatigue and dyspnea. Symptoms 
+develop slowly, and the patient may gradually constrict 
+his or her activities in compensation. The patient’s overall 
+sense of well-being is diminished. Other symptoms may 
+include difficulty concentrating, dizziness, sleep disorders, 
+cold intolerance, and headaches. The heart responds to di-
+minished oxygen-carrying capacity of blood by attempting 
+to maintain systemic oxygen delivery with increased car -
+diac output and left ventricular hypertrophy. Patients may 
+notice worsening dyspnea and palpitations at this stage. 
+Other problems include deranged hemostatic function, 
+impaired immune function, and diminished cognitive and 
+sexual function. Exacerbations of angina, claudication, and 
+transient ischemic attacks may also be observed.
+2. Physical examination.  The primary physical examination 
+ finding of anemia is pallor, which may be best detected on 
+the palms of the hands, the nail beds, and the oral mucosa. 
+A systolic ejection murmur due to increased cardiac flow 
+may be heard over the precordium.
+Hematologic 
+Abnormalities
+Steven Fishbane and Hitesh H. Shah
+Daugirdas9781451144291-ch034.indd   592 11/10/14   3:51 am
+593Chapter 34 / Hematologic Abnormalities
+C. T reatment
+1. Medications. Because EPO deficiency is the primary cause of 
+anemia in patients with CKD, agents that replace erythropoi-
+etin have a primary role in treatment. Since the last edition 
+of this handbook, the preferred term for these agents has 
+changed to erythropoiesis-stimulating agents (ESA). Drugs 
+may be erythropoietin analogs or may stimulate erythropoi-
+esis in other ways. There are many different erythropoietin 
+analogs commercially available in the United States and 
+elsewhere: Epoetin alfa (Epogen, Procrit) and darbepoetin 
+alfa (Aranesp) are currently available in the United States, 
+and methoxy-polyethyleneglycol-epoetin beta (Mircera) is 
+widely used in Europe and probably will be available shortly 
+in the United States. Peginesatide (Omontys) currently is 
+not being marketed in the United States, after a substantial 
+number of allergic reactions occurred with its use. The cause 
+is currently being investigated. Epoetin alfa is a glycopro-
+tein that is indistinguishable from native erythropoietin. It 
+is manufactured by recombinant DNA technology and has a 
+molecular weight of 30,400 Da and a circulating half-life after 
+intravenous administration of approximately 8 hours. Dar-
+bepoetin alfa is a synthetic analog of erythropoietin with 
+increased carbohydrate content that increases the molecular 
+weight by approximately 20% compared with native erythro-
+poietin. As a result of the altered structure, the drug’s phar-
+macokinetics are changed and the serum half-life is increased 
+to approximately three times longer, 24 hours, compared with 
+epoetin alfa.  Mircera has an unusually long serum half-life of 
+ approximately 5.5 days. Peginesatide is a synthetic peptide 
+attached to polyethylene glycol that mimics the structure of 
+erythropoietin, but that has no amino acid sequence homol-
+ogy to EPO. Biological analogs of ESAs, so-called biosimilars, 
+have been manufactured and are in use outside of the United 
+States. The safety of these agents has been variable, but under 
+careful FDA scrutiny, it is likely that biosimilar forms of EPO 
+will become available in the United States.
+One new class of ESAs currently under development 
+acts to stabilize hypoxia inducible factor-1 (HIF). Synthe-
+sis of HIF is increased in the presence of hypoxia, and HIF 
+acts to increase the transcription of EPO. HIF is rapidly de-
+graded when normoxic conditions are present, and drugs 
+that stabilize HIF result in increased endogenous eryth-
+ropoietin production, even in anephric individuals. These 
+drugs will be an important new class of ESAs if they are 
+demonstrated to be safe and effective.
+2. Benefits of anemia treatment with ESA.
+a. Effect on outcomes.  Cross-sectional and retrospective 
+studies have suggested that anemia in patients under -
+going hemodialysis is associated with increased mor -
+tality, particularly when the hemoglobin concentration 
+is <10 g/dL (100 g/L). Analyses of large administrative 
+Daugirdas9781451144291-ch034.indd   593 11/10/14   3:51 am
+Part IV / Clinical Problem Areas
+594
+and clinical databases have shown that risk for mortal -
+ity, hospitalization rate, and hospitalization days con -
+tinue to decrease even at hemoglobin levels >11 g/dL 
+(110 g/L). In contrast to these observational studies, 
+interventional studies have not demonstrated improved 
+outcomes following normalization of hemoglobin with 
+ESA treatment. In fact, cardiovascular outcomes in these 
+studies generally have been worse (see below).
+b. Reduction in transfusion-related complications.  Prior to ESA 
+therapy, up to 20% of patients on dialysis required fre-
+quent transfusions with attendant risk of immediate 
+transfusion reactions, viral infection, iron overload, and 
+immune sensitization. The rate of blood transfusion has 
+been greatly reduced by the use of ESA therapy.
+c. Improved quality of life and overall sense of well-being.  Various 
+assessment tools have documented an improved quality 
+of life and functional status in ESKD patients treated with 
+ESA. Patients feel less fatigued and their exercise capac-
+ity increases. Symptoms that had been disabling in the 
+pre-ESA era are now easily managed. However, the target 
+level of hemoglobin for optimized quality of life is not 
+completely known. Whether higher hemoglobin targets 
+further improve quality of life is unclear. Some studies 
+suggest that improvements may continue as hemoglo-
+bin is raised toward the normal range, while others have 
+found no improvement in quality of life despite higher 
+hemoglobin targets.
+3. Risks of ESA Therapy . Several well-powered randomized 
+ controlled trials have tested the safety of ESA treatment 
+aiming at relatively high hemoglobin targets (13–15 g/
+dL, or 130–150 g/L) in patients with CKD. In these stud-
+ies, the comparison groups (controls) were either given 
+ESA treatment to a lower Hgb target or, in one study, the 
+control group received mostly placebo. Four such trials 
+are particularly noteworthy: the Normal Hematocrit Trial 
+(Besarab, 1998), CREATE (Drueke, 2006), CHOIR (Singh, 
+2006), and TREAT (Pfeffer, 2009). Only one of these four 
+studies  (Besarab, 1998) was done in dialysis patients, while 
+the other three recruited nondialysis CKD subjects with 
+eGFR or CrCl normalized to 1.73 m 2 in the range of 15–35 
+mL/min (CREATE), 15–50 (CHOIR), or 20–60 (TREAT). 
+While results were somewhat inconsistent, there was a 
+strong general trend toward increased cardiovascular risk, 
+including risk of death, with ESA treatment to such high 
+Hgb targets.
+The mechanism of harm for an ESA treatment with a 
+Hgb target >13 g/dL is unknown. The benefit versus risk 
+of ESA treatment aiming at a lower Hgb target has not 
+been formally studied in a randomized fashion. Post hoc 
+analysis of these high Hgb target studies suggests that a 
+higher achieved Hgb level per se may not be the source of 
+Daugirdas9781451144291-ch034.indd   594 11/10/14   3:51 am
+595Chapter 34 / Hematologic Abnormalities
+increased risk. In these trials, mortality was higher in those 
+patients receiving high doses of ESAs; however, it is not 
+at all clear whether this association was causal. Patients 
+requiring high doses of ESAs, or so-called ESA-resistant 
+patients, show many markers of increased illness severity 
+such as cachexia and increased levels of serum inflam-
+matory markers, and ESA resistance is associated with a 
+poor prognosis for survival. In one of the randomized trials 
+noted above (TREAT), the risk of stroke was doubled, and 
+the risk of cancer was also increased in the group given an 
+ESA targeting a high Hgb level. The results of these studies 
+prompted the FDA to include “black box” warnings in the 
+product inserts for ESAs, and for various guideline com-
+mittees to revise target Hgb levels downward, with the idea 
+that one should use ESAs sparingly, and attempt only par -
+tial correction of anemia.
+4. Indications for ESA therapy and target hemoglobin.  ESA therapy 
+should generally be initiated in CKD patients when the 
+Hgb falls below 10 g/dL (100 g/L). The optimal Hgb level 
+for a patient with ESKD is not known. The Kidney Disease: 
+Improving Global Outcomes (KDIGO) anemia guidelines 
+(2012) simply recommend that Hgb for dialysis patients 
+should not exceed >11.5 g/dL (115 g/L). This recommen-
+dation is in some conflict with current FDA prescribing 
+instructions, which recommend holding ESA dosing when 
+the hemoglobin is >11.0 g/dL (110 g/L). A reasonable he-
+moglobin target for patients on dialysis would be 9.5–11.5 
+g/dL (95–115 g/L).
+a. Effect of volume status on target hemoglobin.  When Hgb is 
+assessed prior to a hemodialysis session, extracellular 
+volume tends to be high, and so due to dilution, the Hgb 
+level is at a relatively low value for the week. Monday/
+Tuesday predialysis Hgb levels are at their low point 
+for the week and are about 0.3 g/dL (3 g/L) lower than 
+midweek predialysis levels. Immediate postdialysis Hgb 
+levels can be very substantially higher than predialysis 
+values. So the time-averaged weekly Hgb value can be 
+substantially underestimated by predialysis numbers. In 
+patients with markedly fluctuating degrees of fluid over-
+load, a change in predialysis Hgb may reflect a change 
+in fluid status more than a change in red cell mass. This 
+potential dilution issue must be kept in mind when mon-
+itoring Hgb levels and using this information to adjust 
+ESA dose. For the same reason, a change from a 3 per 
+week to a more frequent dialysis schedule can result in 
+a modest increase in Hgb that is more a reflection of 
+reduced extracellular fluid volume and sampling after 
+a 1-day interdialytic interval rather than to an increase 
+in red cell mass. Lastly, if one is trying to parse Hgb tar -
+gets from nondialysis CKD patients to patients receiving 
+dialysis, a Hgb target of 11 g/dL (110 g/L) in CKD may 
+Daugirdas9781451144291-ch034.indd   595 11/10/14   3:51 am
+Part IV / Clinical Problem Areas
+596
+correspond to a somewhat lower predialysis target value 
+in dialysis patients due to the dilution effect.
+5. Route of administration
+a. Subcutaneous versus intravenous ESAs.  The subcutaneous 
+route improves the efficiency of therapy, resulting in a 
+reduced dosing requirement (of about 25%) for short-
+acting ESAs, specifically epoetin alfa. (Kaufman, 1998). 
+When epoetin is given intravenously, its short half-life 
+probably results in some drug never binding to erythro-
+poietin receptors prior to clearance of epoetin from the 
+circulation. When given subcutaneously, the serum half-
+life of epoetin is extended, allowing for more efficient 
+receptor binding and a greater erythropoietic effect. 
+Despite the dose reduction advantage of subcutaneous 
+administration, the majority of patients undergoing 
+hemodialysis in the United States continue to be treated 
+via the intravenous route. The primary reason is prob-
+ably discomfort with subcutaneous injections, whereas 
+reduced dosing requirements are a benefit that does not 
+directly accrue to the patient. ESAs with a longer serum 
+half-life provide extended time in circulation to allow 
+for greater opportunity for the drug to bind to eryth-
+ropoietin receptors. There is probably no advantage or 
+need for subcutaneous dosing for methoxypolyethylene 
+glycol-epoetin beta, peginesatide or possibly even darbe-
+poetin alfa. Intravenous administration of any of these 
+agents would appear to be a better choice than subcuta-
+neous injection of epoetin alfa in hemodialysis patients, 
+to reduce patient discomfort. For patients on peritoneal 
+dialysis, subcutaneous injections remain the dominant 
+route of administration.
+6. Dosing
+a. Initial dose.  Treatment with ESA should ideally be initi-
+ated, if required, in the pre-ESKD period. If treatment 
+needs to be initiated for a patient already on dialysis, 
+reasonable starting doses of epoetin alfa for a hemodi-
+alysis patient would be 2,000–3,000 units three times 
+per week, and for a peritoneal dialysis patient 6,000 
+units once per week. A typical dose of darbepoetin alfa 
+would be approximately 25 mcg once weekly for a hemo-
+dialysis patient or 60 mcg every 2 weeks for a patient 
+on peritoneal dialysis. A typical dose of Mircera would 
+be 150 mcg given once monthly. Selection of a specific 
+dose requires clinical judgment as to how symptomatic 
+the patient is and the starting level of hemoglobin. An 
+excessively rapid rise in the hemoglobin level should be 
+avoided, as this may lead to an increased risk of worsen-
+ing hypertension.
+b. Initial response and plateau effect.  During the initiation 
+phase of therapy, hemoglobin should be checked every 
+1–2 weeks, and the ESA dose adjusted as needed. It is 
+Daugirdas9781451144291-ch034.indd   596 11/10/14   3:51 am
+597Chapter 34 / Hematologic Abnormalities
+very common during the initiation of treatment for a 
+“plateauing” of effect to occur; either the hemoglobin 
+stops increasing, or escalating doses of ESA are required 
+to reach therapeutic targets. This period of blunted 
+response is often due to the development of iron defi-
+ciency. Once the target level of hemoglobin has been 
+reached, the hemoglobin should be checked every 2–4 
+weeks. During this maintenance phase of therapy, the 
+dose of ESA should be adjusted on the basis of subse-
+quent changes in hemoglobin (Fig. 34.1).
+The patient’s responsiveness to ESA should be re-
+assessed on a continuing basis. Most patients will be 
+responsive, with hemoglobin values consistently >10 g/
+dL (100 g/L), and an epoetin dose of <5,000 units three 
+times per week. In contrast, some patients will have or 
+develop relative resistance to therapy. These patients 
+need to be fully evaluated for causes of ESA hypore-
+sponse. The responsiveness to ESA in all patients should 
+be evaluated on an ongoing basis because the degree of 
+responsiveness changes over time. In our experience, the 
+development of resistance often signals the presence of 
+iron deficiency or infection.
+Check Hgb level q2–4 weeks
+Has Hgb
+declined by
+1 g/dL?
+Yes
+Has Hgb
+increased
+by 1 g/dL?
+Hgb < 9.5
+g/dL
+Evaluate for bleeding and
+other causes of an abrupt
+decline, adjust ESA dose
+appropriately
+Hgb 9.5–
+11.5 g/dL?
+Hgb >11.5
+g/dL
+Yes Decrease ESA dose
+accordingly, consider
+temporarily holding dose
+1. Increase dose 25%–50%
+2. Evaluate for transfusion
+    need
+3. Consider other
+    contributing causes of
+    anemia
+Maintain current dose unless
+trend suggests a dose
+adjustment
+1. Decrease dose 25%–50%
+2. Hold dose if Hgb >12 g/dL
+    or trend is increasing
+FIGURE 34.1 Flow chart for adjusting the ESA dose based on hemoglobin (Hgb) results 
+for dialysis patients.
+Daugirdas9781451144291-ch034.indd   597 11/10/14   3:51 am
+Part IV / Clinical Problem Areas
+598
+Data from ESA practice patterns in the United 
+States suggest that the median weekly dose of intrave-
+nous EPO is about 7,000 units per week, and for darbe-
+poetin this is 25 mcg per week (Coritsidis, 2014). Side 
+effects of ESA therapy have been reported in patients 
+getting the high doses. ESA-resistant patients are a se-
+lected group with poor outcome; however, it is possible 
+that use of high doses of ESAs per se  may be associated 
+with increased side effects. Response to ESAs tends to 
+plateau at high doses, and use of very high doses is un-
+economical. For these reasons, the 2012 KDIGO guide-
+lines recommend not generally exceeding four times the 
+usual baseline weight-adjusted dose of EPO when man-
+aging EPO- resistant patients (KDIGO Anemia, 2012).
+c. Individualized anemia management.  The pharmacodynamics 
+of ESA use are complicated, as the achieved Hgb levels 
+depend not only on ESA sensitivity, but on the average 
+lifespan of red blood cells (RBCs) in a given patient. A 
+number of algorithms have been developed with the goal 
+of maximizing the time that Hgb remains in a desired 
+range. Algorithms in development may be enhanced 
+by estimates of Hgb measured during each dialysis ses-
+sion by use of optical or ultrasound blood line sensors. 
+The use of such algorithms has been reported to reduce 
+Hgb variability as well as overall ESA dose (Lines, 2012; 
+Gaweda, 2014).
+D. Side effects of ESA therapy . See Section 3, above, for a discussion 
+of cardiovascular risks of ESA therapy.
+1. W orsening of hypertension.  This is a common problem dur -
+ing the partial correction of anemia with ESA therapy. In 
+some patients, there will be a need to increase antihyper -
+tensive medication doses. However, it is rare for ESA to be 
+withdrawn because of uncontrollable hypertension. Risk 
+factors include preexisting hypertension, a rapid increase 
+in hemoglobin, the presence of dysfunctional native kid-
+neys, and severe anemia prior to treatment. The cause of 
+the hypertensive effect is incompletely understood. Factors 
+that may contribute include the partial reversal of hypoxic 
+vasodilation as the hemoglobin rises, reduced nitric ox -
+ide, increased cytosolic calcium levels, increased plasma 
+endothelin levels, activation of the renin–angiotensin–  
+aldosterone system and others. Various antihypertensives, 
+including long-acting calcium channel blockers, are effec-
+tive for treating hypertension associated with ESA.
+2. Seizures. These may occur in a small number of patients 
+during periods of rapidly increasing hemoglobin in associa-
+tion with hypertension. The risk of seizures is small using 
+current ESA dosing protocols.
+3. Graft clotting. The increase in blood viscosity with higher hemo-
+globin values from either ESA therapy or other causes could 
+theoretically cause increased dialyzer and arteriovenous 
+Daugirdas9781451144291-ch034.indd   598 11/10/14   3:51 am
+599Chapter 34 / Hematologic Abnormalities
+graft clotting. Studies to date have not consistently demon-
+strated an increased risk of thrombosis when the hemoglobin 
+is raised to the 11–12 g/dL (110–120 g/L) range. The impact 
+of higher hemoglobin levels is controversial. It should be 
+clear that some patients may experience substantial hemo-
+concentration during or after the hemodialysis treatment, 
+and effects on blood viscosity and risk for access thrombosis 
+may be a particular concern in this setting.
+4. Stroke. The risk of stroke has been increased in some of 
+the randomized trials of ESAs where a relatively high Hgb 
+level has been targeted, but this was not noted in all such 
+studies.
+5. Effect on Kt/V. During dialysis, urea is removed from both 
+red cells and plasma, and so urea clearance and Kt/V-urea 
+are not affected by an increase in the Hgb. Creatinine and 
+phosphorus are removed from the plasma only during pas-
+sage of blood through the dialyzer, and as the Hgb is in-
+creased, at any given blood flow rate, the plasma flow rate 
+and creatinine and phosphorus clearances will be propor -
+tionately reduced.
+E. ESA T reatment and Cancer.  In studies of ESA treatment for anemia 
+related to chemotherapy or cancer, there has been some evi -
+dence to suggest that ESA treatment could reduce overall and 
+progression-free survival. This has led to significant changes 
+in the approach to ESA treatment in patients with cancer. 
+Because some patients with ESKD may have either an active 
+or past malignancy, the subject is relevant and affects treat -
+ment decisions (Hazzan, 2014).
+The data, however, are not entirely consistent. For exam-
+ple, five published meta-analyses of published trials have not 
+found ESA treatment to adversely impact complete responses, 
+disease progression, or progression-free survival. However, spe-
+cific studies of certain types of cancer do indicate an adverse 
+effect, for example, in patients with head and neck cancer 
+receiving radiotherapy. It should be noted that in studies dem-
+onstrating potential harm, ESA treatment was used to target 
+relatively high hemoglobin levels (up to 16 g/dL in men). While 
+the meta-analyses provide some reassurance, the adverse 
+effects of ESAs in some studies should drive a conservative 
+approach to treatment until the question is fully resolved.
+We would suggest that for ESKD patients with a history 
+of past malignancy, ESA therapy can be cautiously employed 
+with hemoglobin targets as noted above for general treatment 
+of ESKD patients. In patients with active malignancy, whether 
+or not the patient is currently receiving chemotherapy, we 
+would recommend a more conservative approach to treat -
+ment. This is based on an uncertainty in current knowledge on 
+ progression-free survival and increased thromboembolic risk in 
+cancer patients. We would suggest lowering the  target hemoglo-
+bin to 9–10 g/dL (90–100 g/L). For symptomatic, urgent anemia 
+correction, blood transfusion should be employed.
+Daugirdas9781451144291-ch034.indd   599 11/10/14   3:51 am
+Part IV / Clinical Problem Areas
+600
+F. Causes of decreased response to ESA therapy
+1. Iron deficiency. The most important cause of a suboptimal 
+response to ESA therapy is iron deficiency. Iron deficiency 
+can be present at the outset of therapy, but more commonly, 
+it develops during therapy, either due to rapid utilization of 
+iron to support erythropoiesis or as the result of blood loss 
+(Table 34.1).
+a. Blood loss. Hemodialysis patients develop iron deficiency 
+primarily because of chronic blood loss. Between reten-
+tion of blood in the dialysis lines and filter, surgical blood 
+loss, accidental bleeding from the access, blood sam-
+pling for laboratory testing, and occult gastrointestinal 
+bleeding, iron losses may be substantial. Because of the 
+overall burden of blood loss, it is very difficult to main-
+tain iron stores in hemodialysis patients using oral iron 
+supplements only. Losses in peritoneal dialysis patients 
+are substantially less, and these patients can often be 
+maintained on oral iron therapy.
+b. Functional iron deficiency . In addition to a depleted iron 
+supply, the demand for iron increases during ESA 
+treatment, leading to a further strain on depleted iron 
+stores. After the intravenous injection of ESA, there is 
+an increase in the rate of erythropoiesis that leads to a 
+greater immediate need for iron. In this setting, iron defi-
+ciency may occur even in the face of normal body iron 
+stores. This phenomenon has been termed “functional 
+iron deficiency. ”
+c. Inflammation (reticuloendothelial blockade).  Occult inflam -
+mation is often present in ESKD patients. It causes 
+an increase in serum hepcidin concentrations, which 
+•	 Depletion 	of	iron	stores
+•	 Chronic	blood	loss
+1.	 Blood 	retention	by	the	dialysis	lines	and	filter
+2.	 Blood 	sampling	for	laboratory	testing
+3.	 Accidents 	related	to	the	vascular	access
+4.	 Surgical 	blood	loss
+5.	 Occult 	gastrointestinal	bleeding
+•	 Decreased 	dietary	iron	absorption
+1.	 Phosphate 	binders	inhibit	iron	absorption
+2.	 Histamine-2 	blockers,	proton-pump	blockers,	and	functional	achlorhydria	
+impair	iron	absorption
+3.	 Uremic 	gut	does	not	absorb	iron	optimally
+•	 Increased 	iron	demand
+1.	 Due 	to	increased	rate	of	erythropoiesis	induced	by	erythropoiesis-
+stimulating	agents
+2.	 Impaired 	release	of	iron	from	storage	tissues	(reticuloendothelial 	
+blockade)
+Causes	of	Iron	Deficiency	in	Hemodialysis	Patients
+34.1
+TABLE
+Daugirdas9781451144291-ch034.indd   600 11/10/14   3:51 am
+601Chapter 34 / Hematologic Abnormalities
+causes reduced intestinal iron absorption and dimin-
+ished availability of iron in storage tissues.
+d. Poor absorption of dietary iron.  Iron deficiency among 
+patients on dialysis may be exacerbated by poor absorp-
+tion of dietary or medicinal iron. However, the subject 
+is controversial, and results from studies have been 
+conflicting.
+2. Diagnosis
+a. Serum ferritin.  Ferritin is a protein used to store iron 
+inside cells in a nontoxic form. Free iron is toxic to cells 
+because it can generate free radicals. Although most fer-
+ritin is intracellular, some appears in the circulation and 
+reflects iron stores, although the function of ferritin is 
+to store iron and not to transport it in the circulation. 
+Because serum ferritin is cleared by the liver, in hepatic 
+insufficiency, serum levels may be markedly increased. 
+A more common cause of increased serum ferritin is 
+any sort of inflammation, as ferritin is an acute phase 
+reactant. Serum ferritin levels can also be high in certain 
+cancers and with malnutrition. If the serum ferritin level 
+is <200 mcg/L, the likelihood of iron deficiency is quite 
+high. However, absolute iron deficiency can be present 
+with much higher serum ferritin levels in the presence of 
+inflammation.
+b. T ransferrin saturation.  Transferrin is a glycoprotein that 
+normally transports iron in the blood. In diagnosing ane-
+mia, transferrin levels are not measured directly. Instead, 
+one can measure total iron binding capacity (TIBC) after 
+a loading a serum sample with iron. This test measures 
+how much iron the blood can carry in non-Hgb form, and 
+is an indirect reflection of the transferrin level. Normal 
+values for TIBC are 240–450 mcg/dL (43–81 mcmol/L). 
+The percent transferrin saturation (TSAT) is calculated 
+by dividing the serum iron by the TIBC, and the value for 
+TSAT normally is about 30% with a range of 20%–50%.
+c. Use of serum ferritin and TSA T to diagnose cause of anemia and 
+ESA resistance.  The serum ferritin concentration and 
+transferrin saturation percentage (TSAT) have been the 
+two most widely used tests of iron status for dialysis 
+patients. However, neither test is very accurate for the 
+assessment of iron deficiency in this patient population; 
+the tests provide only a rough estimate of iron status. 
+Thus, patients should not be treated intensively with 
+intravenous iron based only on the results of these indi-
+ces. The NKF’s KDOQI anemia guidelines state that iron 
+tests should be interpreted in the context of patients’ 
+clinical status, Hgb level, and ESA responsiveness. The 
+2012 KDIGO anemia in CKD guidelines suggest evaluat -
+ing iron status (TSAT and serum ferritin) at least every 3 
+months during ESA therapy; however, these guidelines 
+recommend monitoring these levels more frequently 
+Daugirdas9781451144291-ch034.indd   601 11/10/14   3:51 am
+Part IV / Clinical Problem Areas
+602
+when initiating or increasing ESA dose, when there is 
+blood loss, when monitoring response after a course of 
+IV iron, and in other circumstances where iron stores 
+may become depleted.
+In our opinion, intensification of iron therapy for 
+hemodialysis patients should be considered at a serum 
+ferritin of <200 ng/mL or TSAT of <20%. We would rec-
+ommend maintaining TSAT >20% and serum ferritin > 
+100 ng/mL in peritoneal dialysis patients. Iron testing 
+should usually be delayed for 1 week after treatment with 
+intravenous iron. Functional iron deficiency can mani-
+fest as a low TSAT with normal or elevated ferritin levels. 
+With inflammation and reticuloendothelial blockade, 
+ferritin levels are typically increased, but TSAT may be 
+normal, as serum iron may be low, but inflammation also 
+lowers serum transferrin, and so the TSAT is often not 
+reduced.
+d. Reticulocyte hemoglobin content (CHr) . This test is another 
+test used to assess iron status and is a more direct mea-
+sure of iron availability at the level of red blood cell pro-
+duction (Brugnara, 2003). Several studies document a 
+good level of diagnostic accuracy and cost effectiveness, 
+and the test shows less variability than other tests of iron 
+status (Fishbane, 2001). When the CHr value is <29–32 
+pg/cell, patients are usually iron deficient and benefit 
+from intravenous iron treatment.
+3. Iron treatment
+a. General principles. Iron therapy is an integral component 
+of anemia treatment in ESKD. Intravenous iron may be 
+administered on an episodic basis as needed when iron 
+deficiency develops, or by the repeated administration of 
+small doses to maintain iron balance.
+b. Oral iron.  Oral iron preparations are safe and relatively 
+inexpensive. However, these supplements are associated 
+with poor efficacy and troublesome side effects, such 
+as constipation, dyspepsia, bloating, or diarrhea. Three 
+randomized trials have compared oral iron with either 
+placebo or no iron treatment in hemodialysis patients; 
+none of the three was able to demonstrate any efficacy 
+for oral iron. Therefore, oral iron should not be used for 
+most hemodialysis patients.
+For patients on peritoneal dialysis, oral iron is much 
+more convenient than intravenous iron. Since these pa -
+tients experience less chronic blood loss, oral iron may 
+be sufficient to maintain iron stores. Intravenous iron 
+therapy should be used in peritoneal dialysis patients 
+when resistance to ESA is present and the serum ferritin 
+is <100 ng/mL and the TSAT is <20%.
+1) Dosage and administration.  Oral iron usually is given as 
+ferrous sulfate, fumarate, or gluconate, in a dosage of 
+200 mg of elemental iron per day. The timing of the 
+Daugirdas9781451144291-ch034.indd   602 11/10/14   3:51 am
+603Chapter 34 / Hematologic Abnormalities
+iron dose is important; ideally, iron should be taken on 
+an empty stomach to optimize efficacy. The primary 
+sites of iron absorption are the duodenum and proxi-
+mal jejunum, and gastrointestinal symptoms are pro-
+portional to the amount of elemental iron presented to 
+the duodenum at a single time; reduction of symptom-
+atology may require changing the oral preparation, 
+using pediatric dosages at more frequent intervals, 
+or even taking the iron dosage with food. Others have 
+suggested giving the medication during dialysis ses-
+sions (e.g., at the beginning and the end of the ses-
+sion) to help ensure patient compliance. Yet another 
+strategy is to give oral iron only at bedtime. A common 
+problem with oral iron is constipation, which can be 
+partially managed, if necessary, with stool softeners 
+or laxatives. Some iron preparations contain small 
+doses of ascorbic acid to enhance iron absorption, 
+but the advantage of the added vitamin is not estab-
+lished. Phosphorus binders, antacids,  histamine-2 
+ antagonists, and proton-pump inhibitors may all 
+inhibit the absorption of oral iron supplements. On 
+the other hand, some novel phosphorus binders such 
+as ferric citrate contain iron, and their use serves not 
+only to reduce serum phosphorus in dialysis patients, 
+but also to supply measurable amounts of iron via the 
+gastrointestinal tract with lower requirements for IV 
+iron and ESA (Umanath, 2013).
+c. Intravenous iron.  Four preparations are available in the 
+United States: Iron dextran, ferric gluconate, ferumoxytol, 
+and iron sucrose. Intravenous iron therapy has superior 
+availability and efficacy when compared with oral iron 
+therapy. In hemodialysis patients, the target hemoglo-
+bin level is difficult to achieve without intravenous iron 
+treatment. As a result, most hemodialysis patients will 
+require intravenous iron on a regular basis. In contrast, 
+intravenous therapy costs more, and its safety profile is 
+less clear than that of oral iron. There are two commonly 
+used intravenous iron dosing strategies. One is to treat 
+established iron deficiency with a repletive 1,000-mg dose 
+administered over 8–10 consecutive hemodialysis treat -
+ments. Alternatively, since iron deficiency occurs so fre-
+quently in hemodialysis patients, a weekly maintenance 
+dose of 25–100 mg may be used. A recent observational 
+study found the repletion method to have greater efficacy 
+compared with maintenance dosing (Kshirsagar, 2013a), 
+while not obviously increasing the risk for cardiovascular 
+events (Kshirsagar, 2013b). However, a repletion strategy 
+may have a greater infection risk compared with bolus 
+therapy (Brookhart, 2013). When intravenous iron is 
+required for peritoneal dialysis patients, infusions of 250 
+mg of iron may be administered over 1–2 hours.
+Daugirdas9781451144291-ch034.indd   603 11/10/14   3:51 am
+Part IV / Clinical Problem Areas
+604
+1) Intravenous iron safety: General considerations.  The most 
+important issue to understand about the safety of 
+intravenous iron is that it has not been well studied. 
+There have been no studies of sufficient size and dura-
+tion. Because of iron’s oxidizing properties, direct 
+injection of iron into the circulation has important 
+potential safety implications. Without adequate study 
+data, it is difficult to balance the benefits or risks of 
+intravenous iron.
+2) Intravenous iron safety: Anaphylaxis.  The best understood 
+complication of intravenous iron treatment is the rare 
+occurrence of anaphylactoid-type reactions. These are 
+characterized by the abrupt occurrence of hypoten -
+sion, dyspnea, flushing, and back pain. With iron dex -
+tran, the rate has been estimated as 0.7% of patients 
+treated. Such reactions are less frequently observed, 
+and tend to be of milder intensity with the nondextran 
+forms of iron.
+3) Intravenous iron safety: Infection.  Iron is a vital growth 
+factor for microorganisms, and intravenous iron 
+treatment has the potential to make iron more read -
+ily available to these pathogens. In addition, in vitro 
+studies suggest that iron treatment may interfere with 
+phagocytic function of white blood cells. Early retro-
+spective studies found higher serum ferritin levels in 
+hemodialysis patients to be associated with increased 
+risk of infection. In contrast, a large, prospective, mul-
+ticenter study (Hoen, 2002) found no relation between 
+serum ferritin or treatment with intravenous iron 
+and risk of bacteremia. The current literature on this 
+subject remains inconclusive (Brookhart, 2013), but a 
+prudent approach would be to avoid intravenous iron 
+treatment during acute infectious episodes.
+4) Intravenous iron safety: Oxidation.  Iron is a highly oxida-
+tive substance, and treatment with intravenous iron 
+has the potential to overburden the body’s native anti-
+oxidant systems. Oxidative damage to tissue and mol-
+ecules has been clearly demonstrated experimentally, 
+although the clinical significance of such findings is 
+not clear (Fishbane, 2014). A potential harmful effect 
+of vascular oxidation would be an acceleration of ath-
+erosclerotic processes.
+d. Intravenous iron drugs.
+1) Intravenous iron dextran. Because of the higher expected 
+risk of anaphylaxis, iron dextran use should gener -
+ally be reserved for patients who have a long history 
+of prior safe use of the drug. This is probably true for 
+all current forms of iron dextran, but particularly the 
+high molecular weight variety (Chertow, 2006). In 
+nonuremic patients, immediate allergic reactions to 
+intravenous iron dextran have been reported. These 
+Daugirdas9781451144291-ch034.indd   604 11/10/14   3:51 am
+605Chapter 34 / Hematologic Abnormalities
+usually occur within 5 minutes of injection but may 
+be delayed by 45 minutes or more. For this reason, 
+ epinephrine and other means to treat anaphylaxis 
+must be at hand when intravenous iron dextran is 
+administered. Importantly, Walters and Van Wyck 
+(2005) reported that almost all severe reactions occur 
+with the test dose or first therapeutic dose. Milder 
+immediate hypersensitivity reactions to iron dextran 
+infusion include itching and urticaria. Delayed reac -
+tions can manifest as lymphadenopathy, myalgia, 
+arthralgia, fever, and headache.
+2) Sodium ferric gluconate.  Intravenous sodium ferric glu-
+conate is a nondextran form of iron used in the United 
+States since 1999 and in Europe for several decades. 
+As discussed above, adverse reactions are probably 
+less frequent and less severe than those seen with 
+iron dextran. With single-dose exposure the rate of 
+severe reactions was 0.04%, and no severe reactions 
+were observed with repeated administration of 13,151 
+doses to 1,321 patients (Michael, 2002; Michael, 2004). 
+Intravenous sodium ferric gluconate may be admin-
+istered to hemodialysis patients in the amount of 
+1,000 mg given in divided doses over eight consecutive 
+treatments (i.e., 125 mg/dose).
+3) Iron sucrose. Intravenous iron sucrose was approved for 
+use in the United States in 2000 and has been in use 
+in Europe for many years. Like sodium ferric gluco -
+nate, the other widely used nondextran form of iron, 
+reports generally indicate a good safety and efficacy 
+profile. No serious adverse reactions occurred in 665 
+hemodialysis patients receiving 8,583 doses of the 
+drug (Aronoff, 2004). The drug may be administered 
+as iron replacement therapy, 100 mg for 10 consecu-
+tive doses, or as a weekly dose of 25–100 mg.
+4) Iron added to the dialysate.  Ferric pyrophosphate citrate 
+(Triferic) is an iron compound designed to be added 
+to the dialysis solution with the goal of adding a small 
+amount of iron to the patient during each dialysis 
+treatment. Preliminary phase 3 results of this com-
+pound have been encouraging (Lin, 2013), especially 
+in reducing ESA dosage. A new drug application for 
+Triferic was filed in the United States in 2014 for use 
+of this compound, but it is not yet available for clini-
+cal use.
+e) Other causes of ESA resistance.
+1) Bleeding. An important cause of an apparent hypo -
+responsiveness to ESA is bleeding. Sometimes, the 
+bleeding may be occult, as in gastrointestinal blood 
+loss. Often, the bleeding may be obvious, as in patients 
+undergoing surgery, menstruating women, or those 
+with accidents involving the vascular access. It is 
+Daugirdas9781451144291-ch034.indd   605 11/10/14   3:51 am
+Part IV / Clinical Problem Areas
+606
+vitally important to limit blood loss by any means pos-
+sible. In addition, fecal occult blood testing should 
+be performed when unexplained ESA resistance is 
+present.
+2) Red blood cell life span.  It is well known that RBC lifes-
+pan is 20%–30% shorter on average in hemodialysis 
+or peritoneal dialysis patients than normal subjects. 
+Recently, a correlation was found between the degree 
+of shortening of RBC lifespan and ESA resistance, but 
+no treatment has been devised to prolong RBC lifes-
+pan in those patients in whom lifespan is shortest 
+(Dou, 2012).
+3) Inflammation and infection.  As with infection, inflam -
+matory states lead to resistance to ESA therapy. In 
+patients on dialysis, the underlying cause of inflam-
+mation may not be readily apparent. Cytokine 
+release results in downregulation of expression of 
+erythropoietin receptors on erythrocyte precursors. 
+In addition, chronic inflammation and infection 
+increases hepcidin production, which disrupts iron 
+availability by diminishing intestinal iron absorption 
+and release from reticuloendothelial cells (D’ Angelo, 
+2013). There is no perfect marker for occult inflam -
+mation, but C-reactive protein (CRP) is a helpful test 
+for predicting ESA hyporesponsiveness caused by 
+inflammation (Kalantar-Zadeh, 2003). A retained, 
+nonfunctioning renal allograft can increase CRP 
+levels and be a source of EPO resistance (Lopez-
+Gomez, 2004). ESA resistance is increased in 
+patients with evidence of cytomegalovirus (CMV) 
+infection (Betjest, 2009), but, paradoxically, may be 
+reduced in patients infected with hepatitis C (Seong, 
+2013). Also, in African American patients with sickle 
+cell trait or hemoglobin C, a moderately higher aver -
+age ESA dose is required (about 12%, Derebail, 2014).
+A search for occult infection should be under -
+taken in patients with unexplained ESA resistance. If 
+infection is present, higher doses of ESA may be effec-
+tive by partially overcoming the temporary resistance. 
+One occult site of infection is in old, nonfunctioning, 
+arteriovenous grafts, where treatment of the infection 
+may reverse ESA resistance (Nassar, 2002).
+4) Hyperparathyroidism. Hyperparathyroidism may be 
+a cause of ESA resistance. There is a clear relation-
+ship between elevated iPTH levels and diminished 
+ESA response. In addition, after parathyroidectomy, 
+responsiveness improves (Al-Hilali, 2007). It does 
+not appear that parathyroid hormone itself inhibits 
+erythropoiesis. The pathogenesis is incompletely 
+understood, but appears to represent a complex 
+interplay of a variety of pathogenic factors. In the 
+Daugirdas9781451144291-ch034.indd   606 11/10/14   3:51 am
+607Chapter 34 / Hematologic Abnormalities
+ESA-resistant patient who is found to have elevated 
+iPTH levels, an intensification of the treatment of 
+hyperparathyroidism is indicated.
+5) Vitamin D. Data suggest that Hgb levels are lower in dialy-
+sis patients with low serum levels of 25- hydroxyvitamin 
+D, and vitamin D is a potent suppressor of hepcidin in 
+humans, suggesting that treatment with vitamin D 
+may improve anemia management. Although some 
+preliminary data suggest that vitamin D treatment 
+may be of some use, at present, results are preliminary 
+and require confirmation by larger randomized trials 
+(see Icardi, 2013)
+6) Relative vitamin B12 deficiency. Vitamin B12 and folic acid 
+levels should be checked when unexplained ESA 
+resistance is present; a case can be made for more 
+routine evaluation of this parameter. Many dialysis 
+patients are taking proton-pump inhibitors, known 
+to be associated with subnormal B12 levels, and inten-
+sive, high-flux hemodialysis and hemodiafiltration 
+treatments have been shown to lower vitamin B12 lev-
+els. In one study from Australia (Killen, 2014), 91/142 
+hemodialysis patients had serum vitamin B 12 levels 
+of less than 300 pmol/L, a level suggesting deficiency. 
+Only five patients had levels of less than 150 pmol/L, 
+which represents clear-cut deficiency. A short course 
+of three treatments of hydroxycobalamin 1,000 mcg 
+per week was given. Treatment was repeated if B12 lev-
+els remained below 300 pmol/L. Hydroxycobalamin 
+treatment resulted in a more than 50% reduction in 
+median EPO requirement, from 11 to 5 thousand units 
+per week. IV iron requirements were also reduced by 
+half. The authors also suggest that cyanocobalamin 
+(a form of B 12 commonly used in oral supplements) 
+should not be given to ESKD patients because of cya-
+nide accumulation, but that hydroxycobalamin be 
+used. In this study, B 12 was given intramuscularly. It 
+is not clear whether subcutaneous administration 
+would lead to similar results.
+7) Inadequate dialysis.  In the urea reduction ratio (URR) 
+range of 60 to 75%, there appears to be a weak associ-
+ation with increased hematocrit and higher levels of 
+URR (Ifudu, 2000). Beyond that, careful, randomized 
+studies of more frequent dialysis (i.e., the FHN Trials), 
+either in-center or nocturnal, have shown no benefit 
+in terms of increasing ESA responsiveness.
+8) Aluminum intoxication.  Although problems with alu -
+minum have become less common among dialysis 
+patients, occasional problems may still occur, espe-
+cially in patients who have been on dialysis for many 
+years. The effect on erythropoiesis is a microcytic 
+anemia associated with impaired iron utilization. 
+Daugirdas9781451144291-ch034.indd   607 11/10/14   3:51 am
+Part IV / Clinical Problem Areas
+608
+Interestingly, intestinal aluminum absorption is sig -
+nificantly increased in patients with iron deficiency. 
+A serum aluminum level provides a rough guide to 
+aluminum status; if the results are suggestive, either a 
+deferoxamine stimulation test or a bone biopsy may be 
+warranted.
+9) Angiotensin-converting enzyme (ACE) inhibitors. ACE inhib-
+itors may reduce EPO production in patients with 
+chronic renal failure or following renal transplant. 
+Among patients on dialysis, a reduction in ESA 
+responsiveness has not been uniformly demonstrated 
+in association with these agents.
+10) Pure red cell aplasia. An outbreak of immune-mediated 
+pure red cell aplasia has been reported, primarily in 
+Europe, in association with ESA treatment. In the 
+first 10 years of worldwide ESA availability, only three 
+cases were noted among more than a million treated 
+patients. Subsequently, the rate increased dramati -
+cally, with at least 184 cases reported between 1998 
+and 2003. In ESA-associated pure red cell apla-
+sia, Hgb declines rapidly as does the reticulocyte 
+count. Patients become transfusion-dependent, 
+and the bone marrow demonstrates absence of ery-
+throid precursors. The cause is the development of 
+antierythropoietin antibodies that neutralize both 
+therapeutic and endogenous erythropoietin. The 
+majority of cases occurred in Europe, with epoetin 
+alfa sold under the brand name of Eprex. After a peak 
+in cases in 2002, the number declined substantially, 
+but sporadic cases continued to develop. The cause of 
+the syndrome (why do antierythrpoietin antibodies 
+develop) was never fully elucidated. Certain biosimi -
+lar forms of ESAs have been associated with a greater 
+risk for antierythropoietin antibodies, so vigilance is 
+required as use of biosimilar ESAs increases.
+11) Other hematologic disease.  Patients on dialysis are at 
+risk for developing the same hematologic diseases 
+as nonuremic subjects. Because of the emphasis on 
+EPO deficiency, other hematologic diseases may 
+go unrecognized. Among the potential causes not 
+already discussed above are hematologic malignancy, 
+myelodysplastic syndromes, and hemolysis. When an 
+exhaustive evaluation for causes of ESA resistance 
+is unrevealing, hematology consultation and a bone 
+marrow biopsy may be considered as a last step in the 
+process to rule out unexpected hematologic disease.
+G. Red blood cell transfusions. Transfusion of packed red cells should 
+be used in severely anemic patients who are experiencing 
+symptoms. Transfusion should never be utilized without a 
+concurrent evaluation for causes of bleeding.
+Daugirdas9781451144291-ch034.indd   608 11/10/14   3:51 am
+609Chapter 34 / Hematologic Abnormalities
+H. Carnitine. It has been suggested that carnitine may enhance 
+responsiveness to ESA. A recent multicenter, randomized, 
+double-blind, placebo-controlled trial found that administra -
+tion of carnitine failed to improve response to ESA therapy 
+(Mercadal, 2012). The 2012 KDIGO anemia in CKD guidelines 
+do not recommend the use of carnitine as an adjuvant to ESA 
+treatment.
+I. Ascorbic acid. Although the literature is mixed, several studies 
+have found that intravenous ascorbic acid may improve epo-
+etin responsiveness for patients on hemodialysis. A typical 
+regimen is intravenous vitamin C given three times weekly 
+with the hemodialysis treatment. Deved (2009) conducted 
+a meta-analysis. While concerned about small sample sizes 
+and deficits in study quality, the authors found ascorbic acid 
+to generally result in increased Hgb and decreased ESA dose. 
+Since vitamin C may lead to increases in oxalate production, 
+appropriate caution must be used in patient selection and 
+duration of therapy.
+ II. HEMOlySIS
+A. General comments.  Destruction of RBCs, either intravascularly 
+or extravascularly, may occasionally contribute to anemia in 
+dialysis patients. Generally speaking, red cell survival appears 
+to be shortened with chronic renal failure (approximately 30% 
+compared with healthy subjects [Ly, 2004]). It is likely that this 
+is due not to an inherent abnormality of the red cell, but to an 
+effect of the uremic environment.
+B. Diagnosis. Chronic hemolysis should be suspected when the 
+patient develops high-grade ESA resistance in the presence of 
+increased serum lactic dehydrogenase (LDH), unconjugated 
+bilirubin, or a decrease in serum haptoglobin. The differen-
+tial diagnosis of chronic hemolysis is broad, and includes all 
+causes of hemolysis seen in nonuremic patients (Table 34.2) 
+and several causes specific to patients treated with hemodi-
+alysis. Occasionally, hemolysis can be severe, associated with 
+hypotension, or sometimes hypertension, and with abdomi -
+nal, chest, and/or back pain, shortness of breath, nausea, 
+ vomiting, or diarrhea, and encephalopathy developing during 
+the dialysis procedure (Duffy, 2000).
+C. Etiology .  The most common correctible cause of hemolysis is 
+due to some problem with the hemodialysis system. Faulty or 
+kinked blood line tubing can do this via mechanical damage to 
+RBCs. Chloramine in the dialysis solution; use of a hypotonic 
+or overheated dialysis solution; copper, zinc, or nitrate in the 
+water supply; or formaldehyde not rinsed out of the dialyzer 
+after reprocessing, are among the causes. Machine/dialysis 
+solution–based issues are discussed in Chapters 4 and 5.
+D. T reatment.  If acute, severe hemolysis is suspected, the dialysis 
+treatment should be terminated immediately. Circulatory sup-
+port should be provided as needed, and an electrocardiogram 
+Daugirdas9781451144291-ch034.indd   609 11/10/14   3:51 am
+Part IV / Clinical Problem Areas
+610
+must be obtained to determine whether hyperkalemic changes 
+are present (which may be delayed) and to assess for acute car-
+diac ischemia. A blood sample should be obtained for deter -
+mination of hemoglobin, hematocrit, and serum chemistries, 
+especially serum potassium.
+ III. DISORDERS OF HEMOSTASIS.
+A. Introduction. The formation of a blood clot in response to vascu-
+lar injury is a complex and highly conserved process in mam-
+malian species. Disorders of platelet quantity or function can 
+lead to bleeding in superficial sites, such as the skin and mucous 
+membranes. Disorders of the coagulation system usually lead to 
+bleeding into deeper structures, such as muscle and joints. Prior 
+to the introduction of dialysis, bleeding tendencies were long 
+recognized among uremic subjects. Dialysis partially reverses 
+the abnormal hemostasis, but ecchymoses, excessive access 
+bleeding, and occasional severe bleeding episodes still occur.
+B. Pathophysiology. Many factors contribute to the deranged state 
+of uremic hemostasis, with disorders in platelet function 
+(thrombasthenia) being most important. Platelet counts may 
+be slightly reduced, but commonly are normal in well-dialyzed 
+patients, and severe thrombocytopenia is uncommon. Platelet 
+aggregation is abnormal, probably because of reduced plate-
+let granule adenosine phosphate and serotonin levels, and 
+defective thromboxane A 2 production. Platelet function may 
+also be hindered in uremic patients by increased endothelial 
+Related	to	the	hemodialysis	procedure
+Dialysis	solution
+Contaminants
+Chloramine
+Copper,	zinc
+Nitrates, nitrites
+Overheated
+Hypo-osmolar
+Reuse	of	sterilants	(formaldehyde)
+Kinked	or	defective	tubing—trauma	to	RBCs
+Needle	trauma	to	RBCs
+Subclavian	catheter	(helmet	cells,	schistocytes)
+Malfunctioning	cardiac	valve	prosthesis
+Insufficient	dialysis
+Hypersplenism
+Associated	diseases
+Sickle cell anemia
+Other	hemoglobinopathies
+Connective	tissue	diseases	with	vasculitis
+Drug-induced
+Hypophosphatemia
+Causes	of	Hemolysis	in	Dialysis	Patients
+34.2
+TABLE
+Daugirdas9781451144291-ch034.indd   610 11/10/14   3:51 am
+611Chapter 34 / Hematologic Abnormalities
+nitric oxide production (Remuzzi, 1990). An adhesion recep-
+tor, the glycoprotein (GP) IIb–IIIa complex, plays an impor -
+tant role in controlling the formation of platelet thrombi. In 
+uremic patients, the activation of the GP IIb–IIIa receptor is 
+impaired, but activation is partially restored by dialysis. There 
+has been a suggestion that abnormalities of von Willebrand 
+factor (important for maintaining platelet adhesion in rapid 
+blood flow) may contribute to disordered uremic hemostasis, 
+but study results have been inconsistent. Anemia itself prob-
+ably contributes to uremic bleeding; abnormally prolonged 
+bleeding time is significantly improved when the hematocrit 
+is increased to >30%. The hemodialysis procedure itself may 
+impact on platelet number and function. Polysulfone dialyz -
+ers sterilized by electron beam have been reported to cause 
+a reduction in platelet count, but this effect may vary with 
+how the membrane is produced, and is not a consistent find-
+ing. Antiplatelet drugs may further impair platelet function in 
+ESKD. Hemodialysis patients have a greater risk of bleeding 
+complications while on these drugs than the general popula-
+tion (Hiremath, 2009).
+C. Assessment. Disordered hemostasis should be evaluated in 
+terms of clinical manifestations and by testing of skin bleeding 
+time. Patients with ecchymoses, excessive access bleeding, or 
+any clinically significant bleeding episodes (including hemor -
+rhagic pericarditis) should have platelet count, prothrombin 
+time, partial thromboplastin time, and bleeding time tested. 
+The bleeding time becomes abnormal when the platelet count 
+is markedly decreased, when platelet function is impaired, 
+or if the vascular wall is damaged. The risk of hemorrhage 
+increases when the bleeding time is elevated to more than 
+10 minutes.
+D. T reatment.  The management of dialysis patients experiencing 
+bleeding requires (a) an estimate of the severity of blood loss, 
+(b) hemodynamic stabilization, (c) transfusion with blood prod-
+ucts as needed, (d) identification of the bleeding source, and 
+(e) treatment of platelet dysfunction and other factors contrib-
+uting to the bleeding diathesis. Intensive dialysis of previously 
+underdialyzed patients often results in some improvement 
+in bleeding tendency. The administration of cryoprecipitate 
+(a plasma extract with high concentrations of von Willebrand 
+factor) does not consistently result in improved platelet func-
+tion. In one study, only two of five treated patients had normal-
+ized bleeding time and a favorable outcome (Triulzi, 1990). 
+Desmopressin (a synthetic analog of antidiuretic hormone) 
+leads to increased release of von Willebrand factor multim-
+ers. A dose of 0.3 mcg/kg body weight may be administered 
+diluted in 50 mL of saline intravenously over 30 minutes. In a 
+well-designed study, this regimen led to a reduction in bleeding 
+time in 1 hour, which lasted for 8 hours. The drug has little vaso-
+constrictive effect and should not cause hyponatremia in ESKD 
+patients. Finally, repetitive intravenous infusions of conjugated 
+Daugirdas9781451144291-ch034.indd   611 11/10/14   3:51 am
+Part IV / Clinical Problem Areas
+612
+estrogens may reduce bleeding time significantly. More practi-
+cally, one oral dose of 25 mg conjugated estrogen (Premarin) 
+normalizes bleeding time for up to 10 days. This effect is in 
+contrast to the relatively short period of action of cryoprecipi-
+tate or desmopressin. We recommend the use of desmopres-
+sin empirically for dialysis patients with severe acute bleeding. 
+In contrast, conjugated estrogens may be helpful in correcting 
+an abnormal bleeding time prior to planned surgery or to treat 
+chronic gastrointestinal bleeding in patients with telangiecta-
+sia. Estrogens alone, PO, IV , or transdermally (Sloand & Schiff, 
+1995), or estrogen–  progesterone combinations have all been 
+used (Boccardo, 2004).
+References and Selected Readings
+Alarcon MC, et al. Hormone therapy with estrogen patches for the treatment of recur-
+rent digestive hemorrhages in uremic patients. Nefrologia. 2002;22:208–209.
+Al-Hilali N, et al. Does parathyroid hormone affect erythropoietin therapy in dialysis 
+patients? Med Princ Pract. 2007;16:63–67.
+Aronoff G, et al. Iron sucrose in hemodialysis patients: safety of replacement and main-
+tenance regimens. Kidney Int. 2004;66:1193–1198.
+Besarab A, et al. The effects of normal as compared with low hematocrit values in 
+patients with cardiac disease who are receiving hemodialysis and epoetin. N Engl 
+J Med. 1998;339:584–590.
+Betjest MGH, Weimar W , Litjens NHR. CMV seropositivity determines epoetin dose 
+and hemoglobin levels in patients with CKD. J Am Soc Nephrol. 2009;20:2661–2666.
+Boven K, et al. Epoetin-associated pure red cell aplasia in patients with chronic kidney 
+disease: solving the mystery. Nephrol Dial Transplant. 2005;20(suppl 3):iii33–iii40.
+Brookhart MA, et al. Infection risk with bolus versus maintenance iron supplementa-
+tion in hemodialysis patients. J Am Soc Nephrol. 2013;24:1151–1158.
+Brugnara C. Iron deficiency and erythropoiesis: new diagnostic approaches. Clin Chem. 
+2003;49:1573–1578.
+Chertow GM, et al. Update on adverse effects associated with parenteral iron. Nephrol 
+Dial Transplant. 2006;21:378–382.
+Coritsidis GN, et al. Anemia management trends in hospital-based dialysis centers 
+(HBDCs), 2010 to 2013. Clin Therap. 2014;36:408–418.
+D’ Angelo G. Role of hepcidin in the pathophysiology and diagnosis of anemia. Blood 
+Res. 2013;48:10–15.
+Daugirdas JT, Bernardo AA. Hemodialysis effect on platelet count and function and 
+hemodialysis-associated thrombocytopenia. Kidney Int. 2012;82:147–157.
+Derebail VK, et al. Sickle trait in African-American hemodialysis patients and higher 
+erythropoiesis-stimulating agent dose. J Am Soc Nephrol. 2014;25:819–826.
+Deved V , et al; Alberta Kidney Disease Network. Ascorbic acid for anemia management 
+in hemodialysis patients: a systematic review and meta-analysis. Am J Kidney Dis. 
+2009;54:1089–1097.
+Drüeke TB, et al, and the CREATE Investigators. Normalization of hemoglobin level 
+in patients with chronic kidney disease and anemia. N Engl J Med. 2006;355: 
+2071–2084.
+Dou Y, et al. Red blood cell life span and ‘erythropoietin resistance’. Kidney Int. 
+2012;81:1275–1276.
+Duffy R, et al. Multistate outbreak of hemolysis in hemodialysis patients traced to 
+faulty blood tubing sets. Kidney Int. 2000;57:1668–1674.
+Escolar G, Diaz-Ricart M, Cases A. Uremic platelet dysfunction: past and present 
+[Review]. Curr Hematol Rep. 2005;4:359–367.
+Fishbane S, et al. A randomized trial of iron deficiency testing strategies in hemodialy-
+sis patients. Kidney Int. 2001;60:2406–2411.
+Fishbane S, Mathew A, Vaziri ND. Iron toxicity: relevance for dialysis patients. Nephrol 
+Dial Transplant. 2014;29:255–259.
+Foley RN, et al. Effect of hemoglobin levels in hemodialysis patients with asymptom-
+atic cardiomyopathy. Kidney Int. 2000;58:1325–1335.
+Daugirdas9781451144291-ch034.indd   612 11/10/14   3:51 am
+613Chapter 34 / Hematologic Abnormalities
+Furuland H, et al. A randomized controlled trial of haemoglobin normalization 
+with epoetin alfa in pre-dialysis and dialysis patients. Nephrol Dial Transplant. 
+2003;18:353–361.
+Gaweda AE, et al. Determining optimum hemoglobin sampling for anemia manage -
+ment from every-treatment data. Clin J Am Soc Nephrol. 2010;5:1939–1945.
+Gaweda AE, et al. Individualized anemia management reduces hemoglobin variability 
+in hemodialysis patients. J Am Soc Nephrol. 2014;25:159–166.
+Gunnell J, et al. Acute-phase response predicts erythropoietin resistance in hemodialy-
+sis and peritoneal dialysis patients. Am J Kidney Dis. 1999;33:63–72.
+Hazzan AD, et al. ESA treatment and cancer. Kidney Int. 2014;86:34-39.
+Hiremath S, et al. Antiplatelet medications in hemodialysis patients: a systematic 
+review of bleeding rates. Clin J Am Soc Nephrol. 2009;4:1347–1355.
+Hoen B, et al. Intravenous iron administration does not significantly increase the risk 
+of bacteremia in chronic hemodialysis patients. Clin Nephrol. 2002;57:457–461.
+Icardi A, et al. Renal anaemia and EPO hyporesponsiveness associated with vita-
+min D deficiency: the potential role of inflammation. Nephrol Dial Transplant. 
+2013;28:1672–1679.
+Ifudu O, et al. Adequacy of dialysis and differences in hematocrit among dialysis facili-
+ties. Am J Kidney Dis. 2000;36:1166-74.
+Kalantar-Zadeh K, et al. Effect of malnutrition-inflammation complex syndrome on 
+EPO hyporesponsiveness in maintenance hemodialysis patients. Am J Kidney Dis. 
+2003;42:761–773.
+Kaufman JS, et al. Subcutaneous compared with intravenous epoetin in patients 
+receiving hemodialysis. Department of Veterans Affairs Cooperative Study Group 
+on Erythropoietin in Hemodialysis Patients. N Engl J Med. 1998;339:578–583.
+Kaw D, Malhotra D. Platelet dysfunction and end-stage renal disease. Semin Dial. 
+2006;19:317–22.
+Killen JP , Brenninger VL. Hydroxycobalamin supplementation and erythropoiesis 
+stimulating agent hyporesponsiveness in haemodialysis patients. Nephrology. 
+2014;19:164–171.
+Kshirsagar AV , et al. The comparative short-term effectiveness of iron dosing and for-
+mulations in us hemodialysis patients. Am J Med. 2013a;126:541.
+Kshirsagar AV , et al. Intravenous iron supplementation practices and short-term risk of 
+cardiovascular events in hemodialysis patients. PLoS One. 2013b;8:e78930.
+Levin A, et al. Canadian randomized trial of hemoglobin maintenance to prevent 
+or delay left ventricular mass growth in patients with CKD. Am J Kidney Dis. 
+2005;46:799–811.
+Lines SW , et al. A predictive algorithm for the management of anaemia in haemodialy-
+sis patients based on ESA pharmacodynamics: better results for less work. Nephrol 
+Dial Transplant. 2012;27:2425–2429.
+Lin VH, et al. Soluble ferric pyrophosphate (SFP) administered via dialysate reduces 
+ESA requirements in CKD-HD patients with ESA hypo-response, SA-OR082 
+[abstract]. J Am Soc Nephrol. 2013;24:90A.
+Lopez-Gomez JM, et al. Presence of a failed kidney transplant in patients who are on 
+hemodialysis is associated with chronic inflammatory state and erythropoietin 
+resistance. J Am Soc Nephrol. 2004;15:2494–2501.
+Ly J, et al. Red blood cell survival in chronic renal failure. Am J Kidney Dis. 2004;44:  
+715–719.
+Macdougall IC, et al. Pharmacokinetics of novel erythropoiesis stimulating pro-
+tein (NESP) compared with epoietin alfa in dialysis patients. J Am Soc Nephrol . 
+1999;10:2392–2395.
+Mercadal L, et al. L-carnitine treatment in incident hemodialysis patients: the mul-
+ticenter, randomized, double-blinded, placebo-controlled CARNIDIAL trial.  
+Clin J Am Soc Nephrol. 2012;7:1836–1842.
+Michael B, et al. Sodium ferric gluconate complex in hemodialysis patients: adverse 
+reactions compared to placebo and iron dextran. Kidney Int. 2002;61:1830–1839.
+Michael B, et al. Sodium ferric gluconate complex in haemodialysis patients: a prospec-
+tive evaluation of long-term safety. Nephrol Dial Transplant. 2004;19:1576–1580.
+Nassar GM, et al. Occult infection of old nonfunctioning arteriovenous grafts: a novel 
+cause of erythropoietin resistance and chronic inflammation in hemodialysis 
+patients. Kidney Int Suppl. 2002;(80):49–54.
+Noris M, Remuzzi G. Uremic bleeding: closing the circle after 30 years of controversies? 
+Blood. 1999;94:2569–2574.
+Daugirdas9781451144291-ch034.indd   613 11/10/14   3:51 am
+Part IV / Clinical Problem Areas
+614
+Ofsthun N, et al. The effects of higher hemoglobin levels on mortality and hospitaliza-
+tion in hemodialysis patients. Kidney Int. 2003;63:1908–1914.
+Parfrey PS, et al. Double-blind comparison of full and partial anemia correction in inci-
+dent hemodialysis patients without symptomatic heart disease. J Am Soc Nephrol. 
+2005;16:2180–2189.
+Pfeffer MA, et al, and the TREAT Investigators. A trial of darbepoetin alfa in type 2 
+diabetes and chronic kidney disease. N Engl J Med. 2009;361:2019-2032. 
+Pillon L, Manzone T. Accuracy of anemia evaluation is improved in a wide variety 
+of acute and chronically ill patients by accounting for volume status. J Am Soc 
+Nephrol. 2008;19:164A.
+Pollak VE, Lorch JA. Macrocytosis in chronic hemodialysis (HD) patients [abstract].  
+J Am Soc Nephrol. 2005;16:477A.
+Remuzzi G, et al. Role of endothelium derived nitric oxide in the bleeding tendency of 
+uremia. J Clin Invest. 1990;86:1768–1771.
+Rodrigue MF, et al. Relationship between eicosanoids and endothelin-1 in the 
+ pathogenesis of erythropoietin-induced hypertension in uremic rats. J Cardiovasc 
+Pharmacol. 2003;41:388–395.
+Roob JM, et al. Vitamin E attenuates oxidative stress induced by intravenous iron in 
+patients on hemodialysis. J Am Soc Nephrol. 2000;11:539–549.
+Singh AK, et al and the CHOIR Investigators. Correction of anemia with epoetin alfa in 
+chronic kidney disease. N Engl J Med. 2006;355:2085-2098.
+Sloand JA, Schiff MJ. Beneficial effect of low-dose transdermal estrogen on bleeding 
+time and clinical bleeding in uremia. Am J Kidney Dis. 1995;26:22–26.
+Spinowitz BS, et al. The safety and efficacy of ferumoxytol therapy in anemic chronic 
+kidney disease patients. Kidney Int. 2005;68:1801–1806.
+Triulzi DJ, Blumberg N. Variability in response to cryoprecipitate treatment for 
+ hemostatic defects in uremia. Yale J Biol Med. 1990;63:1–7.
+Umanath K, et al. Ferric citrate as a phosphate binder reduces IV iron and eryth-
+ropoietin stimulating agent (ESA) use, SA-PO-521 [abstract]. J Am Soc Nephrol. 
+2013;24:221A.
+Van Wyck DB, et al. Safety and efficacy of iron sucrose in patients sensitive to iron 
+dextran: North American Clinical Trial. Am J Kidney Dis. 2000;36:88–97.
+Walters BA, Van Wyck DB. Benchmarking iron dextran sensitivity: reactions requiring 
+resuscitative medication in incident and prevalent patients. Nephrol Dial Trans-
+plant. 2005;20:1438–1442.
+Xia H, et al. Hematocrit levels and hospitalization risks in hemodialysis patients.  
+J Am Soc Nephrol. 1999;10:1309–1316.
+Daugirdas9781451144291-ch034.indd   614 11/10/14   3:51 am

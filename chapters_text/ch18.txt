@@ -1,0 +1,1384 @@
+333
+Therapeutic Apheresis
+Dobri D. Kiprov, Amber Sanchez, 
+and Charles Pusey
+Therapeutic apheresis (TA) refers to a group of extracorporeal pro -
+cedures in which blood separation technology is used to remove 
+abnormal blood cells and/or plasma constituents. The terms plas-
+mapheresis, leukapheresis, erythrocytapheresis, and thrombocy -
+tapheresis describe the specific blood element that is removed. In 
+plasmapheresis, or therapeutic plasma exchange (TPE), large quanti-
+ties of plasma are removed from a patient and replaced with fresh 
+frozen plasma (FFP), or albumin solutions in normal saline.
+ I. RA TIONALE FOR PLASMAPHERESIS (TPE).  T here are several mecha -
+nisms by which plasmapheresis exerts its beneficial effects 
+( Table 18.1). Its major mode of action is rapid depletion of spe-
+cific disease-associated factors. Another effect is its ability to 
+remove other high-molecular-weight proteins that may partici-
+pate in the inflammatory process (intact complement C3, C4, 
+activated complement products, fibrinogen, and cytokines). 
+Several other theoretical effects of TPE on immune function have 
+been proposed, including immunomodulatory actions such as 
+alterations in idiotypic/anti-idiotypic antibody balance, a shift in 
+the antibody-to-antigen ratio to more soluble forms of immune 
+complexes ( facilitating their clearance), and stimulation of lym-
+phocyte clones to enhance cytotoxic therapy. TPE also allows the 
+infusion of normal plasma, which may replace a deficient plasma 
+component, perhaps the principal mechanism of action of TPE in 
+thrombotic thrombocytopenic purpura (TTP).
+A. Principles of treatment
+1. Use of concomitant immunosuppression.  B ecause of the immu-
+nologic nature of most diseases treated by plasmapheresis, 
+therapy should almost always include concomitant immu -
+nosuppression. Adjunct medication protocols usually 
+include high doses of corticosteroids, cytotoxic drugs, and 
+biologic agents. These medications are expected to reduce 
+the rate of resynthesis of pathologic antibodies and to fur -
+ther modulate cell-mediated immunity, which may con -
+tribute to many of these disorders.
+2. Early treatment.  D iseases that respond to plasmapheresis 
+are best treated early to halt the inflammatory response 
+18
+Daugirdas9781451144291-ch018.indd   333 09/10/14   1:21 am
+Part II / Blood-Based Therapies
+334
+Substance
+Molecular 
+Weight % Intravascular
+Half-life 
+(days)
+Normal Serum 
+Concentration  
+(mg/dL)
+Albumin
+IgG
+IgA
+IgM
+LDL-cholesterol 
+(β-lipoprotein)
+69,000
+180,000
+150,000
+900,000
+1,300,000
+40
+45
+50
+80
+100
+19
+21
+  6
+  5
+3–5
+3,500–4,500
+640–1430
+30–300
+60–350
+140–200
+Distribution Volumes of Immunoglobulins
+18.2
+TABLE
+that often contributes to disease progression. For example, 
+plasmapheresis of anti–glomerular basement membrane 
+(GBM) disease is most effective if therapy is initiated when 
+serum creatinine is <5 mg/dL (440 mcmol/L).
+ II. PHARMACOKINETICS OF IMMUNOGLOBULIN (Ig) REMOVAL
+A. Plasma half-life.  I mmunoglobulins have relatively long half-
+lives, approaching 21 days for IgG and 5 days for IgM. Because 
+of the relatively long plasma half-lives of the immunoglobu-
+lins, the use of immunosuppressive agents that decrease their 
+production rate cannot be expected to lower the plasma levels 
+of a pathogenic autoantibody for at least several weeks, even 
+if production is completely blocked. This is the basic rationale 
+for their removal by extracorporeal means.
+B. Extravascular distribution and equilibration rate.  Immunoglobulins 
+have a substantial extravascular distribution (Table 18.2). 
+The extent of intravascular versus extravascular distribution 
+will determine how effectively they can be removed in the 
+Removal of Abnormal Circulating Factor
+Antibody (anti-GBM disease, myasthenia gravis, Guillain–Barré syndrome)
+Monoclonal protein (Waldenström macroglobulinemia, myeloma protein)
+Circulating immune complexes (cryoglobulinemia, SLE)
+Alloantibody (Rh alloimmunization in pregnancy)
+Toxic factor
+Replenishment of Specific Plasma Factor
+TTP
+Other Effects on the Immune System
+Improvement in function of reticuloendothelial system
+Removal of inflammatory mediators (cytokines, complement)
+Shift in antibody-to-antigen ratio, resulting in more soluble forms of immune 
+complexes
+Effects on the cellular immune system
+GBM, glomerular basement membrane; SLE, systemic lupus erythematosus; TTP , thrombotic throm-
+bocytopenic purpura.
+Possible Mechanisms of Action of Therapeutic 
+Plasma Exchange18.1
+TABLE
+Daugirdas9781451144291-ch018.indd   334 09/10/14   1:21 am
+335Chapter 18 / Therapeutic Apheresis
+course of a single plasmapheresis session. Immunoglobulins 
+exhibit an intravascular-to-extravascular equilibration that 
+is approximately 1%–2% per hour, whereas extravascular-to-
+intravascular equilibration may be somewhat faster because 
+it is governed by the rate of lymphatic flow. Still, since the 
+ extravascular-to-intravascular equilibration is relatively slow, 
+the kinetics of immunoglobulin removal by plasma exchange 
+can be calculated by using first-order kinetics governing removal 
+rates from a single compartment (the intravascular space).
+C. The macromolecule reduction ratio and Ve/Vp. I n Chapter 3, the 
+relationship between the urea reduction ratio (URR) and Kt/V 
+was described. A similar relationship holds for removal of 
+immunoglobulins by TPE.
+The kinetics of immunoglobulin removal by TPE follows 
+an exponential relationship:
+= −
+oCC et
+V/ Vep
+where C0 = the initial plasma concentration of the macro -
+molecule in question, Ct = its concentration at time t, Ve = 
+the volume of plasma exchanged at time t, and V p = the esti-
+mated plasma volume, which, while smaller than the volume 
+of distribution of many of these macromolecules, functions as 
+the volume from which they are removed, given the slow rate 
+of equilibration between the extravascular and intravascular 
+compartments.
+The macromolecule reduction ratio (MRR), expressed as a 
+percentage, is 100 × (1 − Ct/C0), so MRR = 100 × (1−e−Ve/Vp).  
+If we plug in numbers for V e from 1,400 mL to 8,400 mL 
+(Table 18.3), and if we assume that a patient’s V p is 2,800 mL, 
+we will get values of Ve/Vp from 0.5 to 3.0. TPE using these Ve/Vp 
+ratios will result in values for the MRR (Table 18.3) ranging from 
+39% (when Ve/Vp = 0.5) to 95% (when V e/Vp = 3.0). Note that 
+for Ve/Vp = 1.0, the MRR  is 63%. Th e largest decrease ( MRR) 
+occurs with removal of the first plasma volume; removal of 
+subsequent plasma volumes during the same session becomes 
+Portion of Plasma 
+Volumea Exchanged 
+(Ve/Vp)
+Volume Exchanged  
+(Ve, mL)
+Immunoglobulin  
+or Other Substance 
+Removed (MRR, %)
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+1,400
+2,800
+4,200
+5,600
+7,000
+8,400
+39
+63
+78
+86
+92
+95
+Ve, volume of plasma exchanged; Vp, estimated plasma volume; MRR, macromolecule reduction ratio.
+aPlasma volume = 2,800 mL in a 70-kg patient, assuming hematocrit = 45%.
+Relationship between Plasma Volume Removed 
+and Concentration of Substance18.3
+TABLE
+Daugirdas9781451144291-ch018.indd   335 09/10/14   1:21 am
+Part II / Blood-Based Therapies
+336
+progressively less effective in decreasing the concentration of 
+the macromolecule in question. The effectiveness of the pro-
+cedure after one plasma volume is further reduced because of 
+the dilution of the substance to be removed by the exchange 
+fluid. For this reason, usually 1.0–1.5 plasma volume equiva -
+lents (Ve/Vp) are exchanged during a plasmapheresis session.
+D. Reaccumulation. Su bsequent to the removal of the macromol-
+ecule in question, there is a reaccumulation of its concentra -
+tion in the vascular space from two sources: redistribution and 
+further synthesis. Redistribution from the extravascular space 
+occurs via lymphatic drainage into the vascular space, as well 
+as from diffusion of the macromolecule across capillaries from 
+the interstitial to the intravascular space. Endogenous synthe-
+sis has been documented in Goodpasture syndrome, in which 
+the anti-GBM antibodies will be predictably lowered by a given 
+plasma exchange treatment, but intertreatment increases in 
+serum levels are too rapid to be compatible with simple re-
+equilibration from extravascular stores.
+E. Pharmacokinetic basis for TPE prescriptions.  B ased on these con-
+cepts, a rational approach to prescribing TPE is generally to 
+recommend one plasma volume exchange daily or every other 
+day, depending on the disease process, to allow time for ade-
+quate redistribution of macromolecules via lymphatic drain -
+age into the vascular space. The rate of accumulation and 
+the frequency of TPE should be targeted to the specific mac-
+romolecule that is pathogenic, if this is known. For example, 
+whereas the half-life of IgG is approximately 21 days, that of 
+IgM and IgA is much shorter (5–7 days). Therefore, if the mac-
+romolecule in question is IgM, there may be a role for a more 
+extended period of TPE because the endogenous synthesis 
+rate is expected to be higher for IgM than for IgG. In addition, 
+the distribution of IgM is predominantly intravascular, while 
+the distribution of IgG is mainly in the extravascular space. 
+Therefore, when removing IgM antibodies or paraproteins, 
+daily TPE is warranted. On the other hand, patients with pre-
+sumed IgG autoantibodies should be treated every other day 
+to allow for  IgG redistribution from the extravascular space 
+into the intravascular compartment. If the substance to be 
+removed is measurable by reliable quantitative means (such 
+as with specific autoantibody), then the treatment schedule 
+should be designed to achieve a significant reduction of that 
+substance based on kinetic considerations. If treatments are 
+performed without identification of the offending agent, then 
+the physician remains dependent on empirical treatment 
+regimens.
+F. Estimation of plasma volume.  A n estimate of the plasma volume 
+is required to arrive at an appropriate plasmapheresis pre-
+scription. For this purpose, there are several nomograms and 
+equations using height, weight, and hematocrit (Hct). These 
+have been incorporated into newer versions of plasmapher -
+esis equipment. A useful rule of thumb is to consider plasma 
+Daugirdas9781451144291-ch018.indd   336 09/10/14   1:21 am
+337Chapter 18 / Therapeutic Apheresis
+volume to be approximately 35–40 mL/kg of lean body weight, 
+with the lower number (35 mL/kg) applicable to patients with 
+normal Hct values and 40 mL/kg applicable to patients with 
+Hct values that are less than normal. For example, in a 70-kg 
+patient with a normal Hct (45%), plasma volume (Vp) would be 
+70 × 40 = 2,800 mL.
+Predicted blood volume equations have been derived by 
+curve-fitting techniques using subjects’ height (cm) and body 
+weight (kg) compared with actual blood volumes measured 
+by isotope (iodine-131 albumin) dilution techniques: V p = 
+(1 − Hct) (b + cW), where W = lean body weight, b = 1,530 for 
+males, 864 for females, and c = 41 for males, 47.2 for females. It 
+is important to remember that these calculations are based on 
+lean body weight. Therefore, for obese patients one must use 
+lean body mass to avoid unnecessary and dangerously large 
+volume exchanges.
+ III. TECHNICAL CONSIDERA TIONS. T PE can be performed using cen -
+trifugation blood cell separators or by membrane plasma sepa -
+ration (MPS). Centrifugation devices are commonly used for 
+blood banking since they are capable of selective cell removal 
+(cytapheresis) in addition to plasmapheresis. MPS utilizes highly 
+permeable hollow-fiber filters, similar to dialyzers but with large 
+pore sizes and appropriately modified dialysis equipment. The 
+advantages and disadvantages of each technique are summa-
+rized in Table 18.4.
+A. Centrifugal apheresis. D uring centrifugation, blood cells are sep-
+arated by gravity, based on the different densities of the blood 
+Advantages Disadvantages
+Membrane plasma 
+separation
+Faster and smaller 
+equipment
+Removal of substances 
+limited by sieving 
+coefficient of membrane
+Reduced efficiency in 
+hyperviscosity syndromes 
+and cryoglobulinemia
+No citrate requirements Unable to perform 
+cytapheresis
+Can be adapted for 
+cascade filtration
+Requires high blood flows, 
+central venous access
+Requires heparin 
+anticoagulation, limiting 
+use in bleeding disorders
+Centrifugal apheresis Capable of performing 
+cytapheresis
+Large and heavy 
+equipment
+No heparin requirement Requires citrate 
+anticoagulation
+More efficient removal of 
+all plasma components
+Loss of platelets
+Comparison of Membrane Plasma Separation and 
+Centrifugal Apheresis18.4
+TABLE
+Daugirdas9781451144291-ch018.indd   337 09/10/14   1:21 am
+Part II / Blood-Based Therapies
+338
+components. There are two centrifugation methods used in 
+blood cell separators: intermittent-flow  (or discontinuous-
+flow) devices and continuous-flow devices. Red blood cells 
+(RBCs) move to the outside of the spinning container , while 
+plasma, the lightest component, remains on the inside. 
+Platelets and white blood cells (WBCs) localize between the 
+red cell and plasma layers. Any of these components can be 
+collected, discarded, or reinfused (Fig. 18.1).
+In the intermittent-flow  separation devices, multiple 
+aliquots of blood are sequentially withdrawn and routed to a 
+bowl, where each aliquot is processed and then reinfused. In 
+FIGURE 18.1 During centrifugal apheresis, plasma and cells are separated in layers 
+depending on specific gravity. Each layer can be removed, depending on the procedure 
+and fluid and/or cell replacement infused simultaneously. (Courtesy of Dobri Kiprov, MD. 
+Reprinted from Linz W, et al. Principles of Apheresis Technology. 5th ed. American Society 
+for Apheresis; 2014. www.apheresis.org.)
+Red blood cells
+White blood cells
+Platelets
+Plasma
+Platelets
+White blood cells
+Red blood cells
+Plasma
+Daugirdas9781451144291-ch018.indd   338 09/10/14   1:21 am
+339Chapter 18 / Therapeutic Apheresis
+the continuous-flow method, blood is withdrawn, centri -
+fuged, and separated, and the desired component removed or 
+returned to the patient in a continuous mode using a hoop-
+shaped annulus that has strategically placed sampling ports 
+(Fig. 18.1) for the collection of plasma, RBCs, WBCs, and 
+platelets. The intermittent-flow method requires a single-
+needle vascular access,  while the continuous-flow system 
+requires two venous accesses (one for withdrawal and a sec -
+ond one for return) or a dual-lumen dialysis-type venous cath-
+eter. Intermittent-flow blood cell separators (Haemonetics 
+Corporation, Braintree, MA) are rarely used today for thera-
+peutic apheresis. The continuous-flow devices are preferred 
+for therapeutic procedures because of their smaller extracor -
+poreal blood volume, significantly shorter procedure time, 
+and lesser anticoagulant requirement. The most widely used 
+centrifugal blood cell separators for therapeutic apheresis are 
+made by Terumo BCT (Lakewood, CO) and Fresenius Kabi 
+(Bad Homburg, Germany).
+B. Membrane plasma separation  (MPS).  M embrane plasma separa-
+tors are derived from the technology used in dialysis. H ollow-
+fiber filters for MPS look very similar to dialysis filters. It is easy 
+to assume that one can simply exchange the dialysis filter with 
+an MPS filter and perform a hemofiltration procedure without 
+dialysate. However, removing plasma is physiologically differ -
+ent from removing ultrafiltrate. When water is removed from 
+the intravascular compartment, extravascular fluid can dif-
+fuse in to buffer the volume removal. When plasma is removed 
+from the intravascular compartment, refilling rate of the 
+ vascular compartment is reduced. Therefore, there is a higher 
+risk of cardiovascular complications during plasma exchange. 
+Equipment specifically designed for membrane plasma sepa-
+ration must be used to assure patient safety. Membranes with 
+a molecular-weight cutoff of about 3 million daltons are used, 
+which is  sufficient to allow passage of immune complexes 
+(MW ≈1 million). MPS filters  can be manufactured in either 
+a hollow-fiber or a parallel-plate configuration. An example 
+of a hollow-fiber plasma separator is the Plasma-Flo made 
+by Asahi (Apheresis Technologies, Palm Harbor, FL). The 
+membrane allows plasma only to pass, as the pores are small 
+enough to hold back the formed elements of the blood. The 
+membrane has a sieving coefficient (ratio of concentration 
+in filtrate to blood) between 0.8 and 0.9 for albumin, IgG, IgA, 
+IgM, C3, C4, fibrinogen, cholesterol, and triglycerides (at a 
+blood flow rate of 100 mL/min and a transmembrane pressure 
+[TMP] of 40 mm Hg) (Fig. 18.2). A number of manufacturers 
+offer either modified CRRT equipment or dedicated instru-
+ments for membrane plasmapheresis.
+Membrane plasma separation (MPS) must be performed 
+at low TMP (< 500 mm Hg) to avoid hemolysis. With hollow-
+fiber devices, the blood flow rate should exceed 50 mL/min 
+to avoid clotting. The ideal blood flow rate (Q b) is usually 
+Daugirdas9781451144291-ch018.indd   339 09/10/14   1:21 am
+Part II / Blood-Based Therapies
+340
+100–150 mL/min. When the blood flow rate is 100 mL/min, 
+a plasma removal rate of 30–50 mL/min can be expected. 
+Thus, the average time required to perform a typical mem-
+brane filtration ( Ve = 2,800 mL) is < 2 hours (40 mL/min × 
+60  minutes = 2,400 mL/hr).
+C. Comparison of membrane and centrifugation devices  ( Table  18.4).  
+Centrifugal blood cell separators are the preferred therapeu -
+tic apheresis devices in the United States. These are capable 
+of performing cytapheresis (leukapheresis, erythrocytapher -
+esis, and thrombocytapheresis) in addition to plasmapher -
+esis. Centrifugal devices also operate at lower whole-blood 
+FIGURE 18.2 During membrane plasma separation, blood cells are not allowed to pass 
+through the pores of the filter, while plasma constituents pass through. (Courtesy of Dobri 
+Kiprov, MD. Reprinted from Linz W, et al. Principles of Apheresis Technology. 5th ed. 
+American Society for Apheresis; 2014. www.apheresis.org.)
+Albumin
+Cholesterol
+Na, Ce, K, CA Urea creatinine
+glucose
+IgG
+IgA
+IgM
+Fibrinogen
+Red
+blood cells
+White
+blood cells
+Platelets
+Daugirdas9781451144291-ch018.indd   340 09/10/14   1:21 am
+341Chapter 18 / Therapeutic Apheresis
+and plasma flow rates (Qb in the range of 40–50 mL/min). 
+Such blood flows can be obtained from a large peripheral vein 
+(antecubital vein), eliminating the risks associated with cen-
+tral vascular access in many cases.
+MPS is faster for performing plasmapheresis. However, it 
+is unsuitable for treating patients with the hyperviscosity syn-
+drome due to paraproteinemia (most commonly Waldenström 
+macroglobulinemia) or patients with cryoglobulinemia, 
+because the available devices are not efficient in removing 
+very large macromolecules. MPS normally is performed using 
+heparin as an anticoagulant; when treating bleeding disorders 
+such as TTP , heparin should not be used, and a citrate-based 
+method is indicated instead.
+ I V. V ASCULAR ACCESS.  A s noted earlier, for the centrifug al device sys-
+tems, a Q b in the range of 40–50 mL/min is required. This can 
+sometimes be obtained from a large peripheral vein (antecubital 
+vein). On the contrary, a central venous access is needed when 
+using MPS because a blood flow rate between 100 and 150 mL/min 
+is required for the successful and efficient operation of the filtra-
+tion system. For MPS the best approach is the use of a large-bore, 
+dual-lumen catheter, similar to the ones used for dialysis and espe-
+cially dedicated for apheresis. The majority of intravascular devices 
+available for nondialysis use, such as Swan–Ganz catheters and 
+triple- lumen catheters, almost never provide adequate blood flow 
+for plasmapheresis, although they may be suitable for blood return.
+Citrate infusion (see later) causes an acute reduction in the 
+plasma ionized calcium level (in the face of normal total serum 
+calcium level), which can have a local effect on the cardiac con-
+duction system and can generate life-threatening arrhythmia, 
+particularly when blood is returned centrally close to the atrio-
+ventricular node of the heart. Cardiac rhythm should be moni-
+tored, and blood-warming devices should be used, especially if 
+processed blood is returned centrally.
+When the nature of the disease requires chronic TPE (e.g., 
+hypercholesterolemia, cryoglobulinemia), the creation of a per -
+manent access is preferred. Patients may undergo placement of 
+a central catheter for long-term use, or long-term access may be 
+achieved using an arteriovenous fistula or polytetrafluoroethyl-
+ene graft.
+ V. ANTICOAGULATION. A nticoagulation is mandatory for therapeutic 
+apheresis procedures, whether by MPS or centrifugal devices. 
+In general, filtration devices use heparin, whereas centrifugal 
+machines require the use of citrate.
+A. Heparin. H eparin sensitivity and half-life vary greatly in patients, 
+and individual adjustment of dosage is necessary. Heparin doses 
+may need to be increased in patients with low Hct (increased 
+volume of distribution) and when the plasma filtration rate 
+is high (a high plasma filtration rate results in increased net 
+removal of heparin, which has a sieving coefficient of 1.0).
+Daugirdas9781451144291-ch018.indd   341 09/10/14   1:21 am
+Part II / Blood-Based Therapies
+342
+B. Citrate. A nticoagulant citrate dextrose (ACD) is used as the 
+anticoagulation solution for most TPE procedures. Citrate 
+chelates calcium, which is a necessary cofactor in the coagula-
+tion cascade, and this inhibits thrombus formation and plate-
+let aggregation. ACD comes in two standard formulations. 
+Formula A (ACD-A) contains 2.2 g/dL of sodium citrate and 
+0.73 g/dL of citric acid. Formula B (ACD-B) contains 1.32 g/dL 
+of sodium citrate and 0.44 g/dL of citric acid. ACD-A is used 
+for all continuous-flow centrifugal devices.
+Although bleeding is uncommon with citrate, low plasma 
+ionized calcium levels commonly occur. Therefore, patients 
+must be carefully observed for symptoms and signs of hypocal-
+cemia (perioral and/or acral paresthesias; some patients may 
+experience shivering, light-headedness, twitching, tremors, 
+and, rarely, continuous muscular contractions that result in 
+involuntary carpopedal spasm). If plasma ionized calcium lev-
+els fall more severely, symptoms can progress to frank tetany 
+with spasm in other muscle groups, including life- threatening 
+laryngospasm. Grand mal seizures have been reported. These 
+symptoms and signs may be accentuated by alkalosis due to 
+hyperventilation. Reductions of ionized calcium values also 
+lengthen the plateau phase of myocardial depolarization, 
+manifested electrocardiographically by prolongation of the 
+QT interval. Very high citrate levels, with corresponding low 
+ionized calcium, lead to depressed myocardial contractility, 
+which, though very rare, can provoke fatal arrhythmias in 
+patients undergoing apheresis.
+1. Prevention of low ionized calcium levels during citrate anticoagula-
+tion. T he following measures can be considered.
+a. Limiting the rate of citrate delivery to the patient.  T he rate of 
+citrate infusion must not exceed the capacity of the body 
+to metabolize citrate rapidly. The ability to metabo-
+lize citrate varies from patient to patient. Because the 
+amount of citrate infused is proportional to the blood 
+flow rate, high blood flow rates should not be used. Most 
+of the centrifugal devices estimate the patient’s blood 
+volume by a nomogram and then automatically set the 
+blood flow rate to limit the rate at which citrate is being 
+infused.
+Patients with liver and renal insufficiency may have 
+an impaired ability to metabolize citrate, and in these 
+patients, citrate infusion should be performed with great 
+caution. FFP ( fresh frozen plasma) contains up to 14% 
+citrate by volume. In cases where FFP , instead of albu-
+min, is being used as the replacement fluid, the total 
+citrate reinfusion rate to the patient should include the 
+citrate in the FFP .
+b. Providing additional calcium to the patient during the plasma -
+pheresis procedure. Ca lcium can be given either orally or 
+intravenously. One can, for example, give orally 500-mg 
+(5-mmol) tablets of calcium carbonate every 30 minutes. 
+Daugirdas9781451144291-ch018.indd   342 09/10/14   1:21 am
+343Chapter 18 / Therapeutic Apheresis
+Another approach is to infuse calcium gluconate 10% 
+continuously intravenously, in a proportion of 10 mL of 
+the calcium gluconate solution per liter of replacement 
+fluid (Weinstein, 1996). In addition to these measures, 
+intravenous boluses of calcium can be given whenever 
+symptoms of hypocalcemia become manifest.
+2. Alkalosis during citrate infusion.  T here is the danger of devel-
+oping metabolic alkalosis (although this is a very rare 
+occurrence) because citrate in the form of sodium citrate is 
+metabolized to bicarbonate. In patients with liver disease, 
+who may have impaired ability for citrate metabolism, 
+acid–base status during plasmapheresis using citrate anti-
+coagulation should be monitored with special care.
+ VI. REPLACEMENT SOLUTION. T he selection of the type and amount of 
+replacement fluids is an important consideration in the prescrip-
+tion of plasmapheresis. The diversity of disease and patient condi-
+tions makes the elaboration of uniform suggestions for replacement 
+fluid difficult. Nevertheless, certain guidelines are useful, and they 
+can be modified by the specific conditions encountered.
+In most plasmapheresis procedures, replacement by col-
+loidal agents is essential to maintain hemodynamic stability. In 
+practice, this is limited to albumin, generally in the form of an 
+isonatric 5% solution, or to plasma in the form of FFP . The advan-
+tages and disadvantages of each are listed in Table 18.5.
+A. Fresh frozen plasma.  F FP has the advantage of being similar in 
+composition to the filtrate being removed from the patient , 
+but is associated with side effects such as allergic reactions. 
+Urticaria and hives, which may be severe, are frequently pres-
+ent with the use of FFP . Rarely, anaphylactic reactions result 
+in a form of noncardiogenic pulmonary edema caused by 
+Solution Advantages Disadvantages
+Albumin No risk of hepatitis Expensive
+Stored at room temperature No coagulation factors
+Allergic reactions are rare No immunoglobulins
+No concern about ABO 
+blood group
+Depletes inflammation 
+mediators
+Fresh frozen plasma Coagulation factors Risk of hepatitis, HIV 
+transmission
+Immunoglobulins Allergic reactions
+“Beneficial” factors Must be thawed
+Complement Must be ABO-compatible
+Citrate load
+HIV, human immunodeficiency virus.
+Choice of Replacement Solution
+18.5
+TABLE
+Daugirdas9781451144291-ch018.indd   343 09/10/14   1:21 am
+Part II / Blood-Based Therapies
+344
+passive transfusion of leukoagglutinins. Another cause of ana-
+phylaxis is infusion of IgA-containing FFP to a patient with 
+selective IgA deficiency. Because FFP may contain appreciable 
+amounts of anti-A and anti-B isoagglutinins, ABO compat -
+ibility between donor and recipient is necessary. As noted 
+earlier, FFP contains citrate, and use of FFP increases the risk 
+of citrate-mediated low ionized calcium reactions. Also, there 
+is a small but measurable incidence of transmission via FFP 
+of hepatitis B (0.0005% per unit), hepatitis C (0.03% per unit), 
+and HIV (0.0004% per unit). Although these infectious risks 
+are now much smaller with predonation and postdonation 
+testing, it should be kept in mind that with each plasmapher -
+esis treatment where 3 L of plasma is replaced with FFP , the 
+3 L of replacement FFP is made up of 10–15 units of plasma 
+coming from an equal number of donors. Detergent-treated 
+plasma is available from a number of manufacturers.
+Use of FFP as the replacement fluid makes measurement 
+of the efficacy of plasmapheresis more difficult in certain 
+patients (e.g., one cannot simply follow serum levels of IgG and 
+other immunoglobulins). Also, FFP may replenish some factors 
+removed during plasmapheresis that could participate in the 
+inflammatory process.
+At present, the specific indications for replacing some or 
+all of the removed plasma with FFP during plasma exchange 
+are (a) thrombotic thrombocytopenic purpura–hemolytic 
+uremic syndrome (TTP/HUS), (b) preexisting defect in hemo-
+stasis and/or low pretreatment serum fibrinogen level (< 125 
+mg/dL), and (c) patients at risk for bleeding; for example, 
+patients who are  pre- or postsurgery . With regard to TTP/
+HUS, there is a rationale for using FFP as the sole replace-
+ment fluid because infusion of FFP by itself may be therapeu-
+tic and because in the presence of thrombocytopenia the risk 
+of bleeding as a consequence of minor perturbations in the 
+coagulation factors may be higher.
+In general, because plasmapheresis also depletes coagu-
+lation factors, replacement by albumin and crystalloid alone 
+may result in depletion of these factors and place the patient at 
+increased risk of bleeding. This is not likely to occur after one 
+or two plasma exchanges, particularly if they are performed 
+more than a day apart, because the half-life for most clotting 
+factors is approximately 24–36 hours.
+B. Albumin. B ecause of the above concerns with the use of FFP , 
+we recommend albumin as the initial replacement solution. 
+Five percent albumin solution at a concentration of 5 g/dL 
+(50 g/L) in saline with 130–160 mmol of sodium chloride per 
+liter can be replaced in a volume equal to that of the removed 
+plasma. With modern equipment, this can be done simulta-
+neously and at the same rate as plasma removal. However, 
+because a substantial proportion of the albumin that is infused 
+early during the procedure is exchanged during the course of 
+a plasmapheresis procedure, a more economical approach 
+Daugirdas9781451144291-ch018.indd   344 09/10/14   1:21 am
+345Chapter 18 / Therapeutic Apheresis
+(when exchange volume is equal to one plasma volume and 
+in the absence of hypoalbuminemia) is to replace the initial 
+20%–30% of the removed plasma volume with crystalloid, such 
+as 0.9% saline and then substitute the balance with the above-
+mentioned 5% albumin solution. This method would result 
+in a final concentration of albumin in the vascular space of 
+approximately 3.5 g/dL (35 g/L), sufficient to maintain oncotic 
+pressure and avoid hypotension. The approach should not be 
+used in patients with hyperviscosity, patients with neurologic 
+diseases, and patients with other causes of hypotension.
+Purified human serum albumin (HSA) solutions do not 
+transmit viral diseases because of prolonged heat treatment 
+during processing and have become a favored replacement 
+fluid in TPE. They have an excellent overall safety record. The 
+incidence of adverse reactions of any kind has been estimated 
+to be 1 in 6,600 infusions. Severe, potentially life-threatening 
+reactions occur in approximately 1 of every 30,000 infusions. 
+When preparing 5% albumin solution from more concentrated 
+solutions, 0.9% saline must be used as the diluent; use of water 
+as a diluent has resulted in severe hyponatremia and hemolysis 
+(Steinmuller, 1998).
+The amount of fluid replacement given depends on the 
+patient’s volume status. The replacement volume can be 
+adjusted, either manually or automatically, from 100% of the 
+removed volume to less than 85%. Use of lower replacement 
+volumes is generally not recommended, since this may con-
+tract the intravascular volume and result in hemodynamic 
+instability.
+ VII. COMPLICATIONS. T he side effects observed in plasma exchange 
+are generally not severe and can be managed easily if they are 
+anticipated. The main side effects are listed in Table 18.5.
+Complications range from 4% to 25%, with an average of 
+10%. Minimal reactions occur in about 5% of treatments and are 
+characterized by urticaria, paresthesias, nausea, dizziness, and 
+leg cramps. Moderate reactions (5%–10% of treatments) include 
+hypotension, chest pain, and ventricular ectopy. All are usually 
+brief and without sequelae. Severe events occur in <3% of treat -
+ments and are mainly related to anaphylactoid reactions asso-
+ciated with FFP administration. The estimated mortality rate 
+associated with plasmapheresis is 3–6 per 10,000 procedures. 
+The majority of deaths include anaphylaxis associated with FFP 
+replacement, pulmonary embolism, and vascular perforation. 
+The most important complications are summarized in Table 18.6. 
+Strategies for avoidance and management of these complications 
+are summarized in Table 18.7.
+A. Citrate. The most common complication of therapeutic apher -
+esis when using centrifugal machines is related to citrate tox -
+icity as described in the anticoagulation section.
+B. Hemodynamic complications. H ypotension (2% overall incidence) 
+is due mainly to intravascular volume depletion, which may be 
+Daugirdas9781451144291-ch018.indd   345 09/10/14   1:21 am
+Part II / Blood-Based Therapies
+346
+Related to Vascular Access
+Hematoma
+Pneumothorax
+Retroperitoneal bleed
+Local or systemic infection
+Related to the Procedure
+Hypotension from externalization of blood in the extracorporeal circuit
+Hypotension due to decreased intravascular oncotic pressure
+Bleeding from reduction in plasma levels of coagulation factors
+Edema formation due to decreased intravascular oncotic pressure
+Loss of cellular elements (platelets)
+Hypersensitivity reactions (ethylene oxide)
+Related to Anticoagulation
+Bleeding, especially with heparin
+Hypocalcemic symptoms (with citrate)
+Arrhythmias
+Hypotension
+Numbness and tingling of extremities
+Metabolic alkalosis from citrate
+Related to Replacement Fluids
+Hypotension (use of hypo-oncotic saline)
+Anaphylaxis (FFP)
+Complications of Plasmapheresis
+18.6
+TABLE
+Complication Management
+Low ionized calcium Prophylactic infusion of 10% calcium 
+gluconate during treatment
+Hemorrhage 2–4 units of fresh frozen plasma at the end of 
+the procedure
+Thrombocytopenia Consider membrane plasma separation
+Volume-related hypotension Adjust volume balance
+Infection postapheresis Infusion of intravenous immunoglobulin 
+(100–400 mg/kg)
+Hypokalemia Ensure a potassium concentration of 4 mM in 
+the replacement solution
+Membrane biocompatibility Change membrane or consider centrifugal 
+method of plasma separation
+Hypothermia Warm replacement fluids
+ACE inhibitors Discontinue ACE inhibitor therapy 24–48 hr 
+before treatments
+Sensitivity to FFP or albumin Consider measuring anti–IgA titers
+Premedication regimen for sensitized 
+individuals: (a) hydrocortisone I.V. or 
+prednisone; (b) diphenhydramine I.V. or 
+orally; and (c) H2 antagonists (cimetidine) I.V.
+ACE, angiotensin-converting enzyme; Ig, immunoglobulin.
+Strategies to Avoid Complications during Plasmapheresis
+18.7
+TABLE
+Daugirdas9781451144291-ch018.indd   346 09/10/14   1:21 am
+347Chapter 18 / Therapeutic Apheresis
+exaggerated by the large (250–375 mL) volume of blood exter-
+nalized in the extracorporeal circuit. Other causes include 
+vasovagal episodes, use of hypo-oncotic fluid replacement, 
+delayed or inadequate volume replacement, anaphylaxis, car -
+diac arrhythmia, and cardiovascular collapse.
+C. Hematologic complications.  H emorrhagic episodes are rare. 
+Bleeding after insertion of a femoral catheter, bleeding from a 
+previous catheter site, hematemesis, and epistaxis have been 
+described.
+After a single plasma exchange, the serum fibrinogen 
+level typically falls by 80%, and prothrombin and many other 
+clotting factor levels also fall by about 50%–70%. The partial 
+thromboplastin time usually increases by 100%. Recovery of 
+plasma levels of coagulation factors is biphasic, characterized 
+by a rapid initial increase up to 4 hours postapheresis and fol-
+lowed by a slower increase 4–24 hours postexchange. Twenty-
+four hours after treatment, fibrinogen levels are approximately 
+50%, and antithrombin III levels are 85%, of initial levels; both 
+require 48–72 hours for complete recovery. One day following 
+treatment, the prothrombin level is 75% and factor X is 30% of 
+the original level; by this time, all other coagulation factors will 
+have completely recovered to normal values. When multiple 
+treatments are performed over a short period, the depletion in 
+clotting factors is more pronounced and may require several 
+days for spontaneous recovery. As stated before, when multiple 
+closely spaced treatments are given, it is advisable to replace 
+2 units of FFP at the end of each treatment. Device-specific 
+thrombocytopenia has been reported as a result of TPE, and 
+this has caused confusion in assessing response during treat -
+ment of disorders such as TTP (Perdue, 2001).
+D. Angiotensin-converting enzyme (ACE) inhibitors.  Anaphylactic or 
+atypical anaphylactoid reactions have been reported in patients 
+taking ACE inhibitors during hemodialysis, low-density lipopro-
+tein (LDL) affinity apheresis, and other apheresis- specific col-
+umns. These reactions have been related to negatively charged 
+membranes or filters. Experimental evidence has shown that 
+this reaction is not related to the extracorporeal circulation 
+alone. It is speculated that the fragments of prekallikrein-acti-
+vating factor present in human albumin lead to endogenous 
+bradykinin release. The severity of the reactions depends on dif-
+ferent variables, including drug type and lot of albumin (which 
+may contain different concentrations of the prekallikrein-  
+activating factor). Ideally, therefore, short-acting ACE inhibitors 
+should be held for 24 hours, and long-acting ACE for 48 hours, 
+prior to plasma exchange with membrane devices.
+E. Infection. T he true incidence of infection in TPE is contro-
+versial. Studies have not clearly shown a significantly higher 
+occurrence of opportunistic infections among patients treated 
+with immunosuppression and TPE compared to those treated 
+with immunosuppressive therapy alone. However, if a severe 
+infection develops in the immediate post–plasma exchange 
+Daugirdas9781451144291-ch018.indd   347 09/10/14   1:21 am
+Part II / Blood-Based Therapies
+348
+period, a reasonable approach would be a single infusion of 
+immunoglobulins (100–400 mg/kg intravenously).
+F. Electrolyte, vitamin, and drug removal
+1. Hypokalemia. W hen the replacement solution is albumin in 
+saline, there could be a 25% reduction in serum potassium 
+levels in the immediate postapheresis period. The risk of 
+hypokalemia can be reduced by adding 4 mmol of potas-
+sium to each liter of replacement solution.
+2. Metabolic alkalosis. T his may result from infusion of large 
+amounts of sodium citrate.
+3. Drugs. I n general, drugs that are significantly cleared by 
+plasma exchange are the ones that have small volumes of dis-
+tribution and extensive protein binding. Evidence shows that 
+supplemental dosing of prednisone, digoxin, cyclosporine, 
+ceftriaxone, ceftazidime, valproic acid, and phenobarbital is 
+not necessary after plasma exchange. In contrast, the dos-
+ages of salicylates, azathioprine, and tobramycin should be 
+supplemented. The many reports of phenytoin clearance are 
+conflicting; thus, it is necessary to carefully monitor unbound 
+drug levels. We generally recommend that all scheduled med-
+ications be given immediately after the procedure.
+ VIII. INDICA TIONS FOR PLASMAPHERESIS.  T he most comprehensive 
+guidelines for the use of therapeutic apheresis are published by 
+the American Society of Apheresis (ASFA). The ASFA evidence-
+based approach assigns categories to diseases after systematic 
+review of the literature. Furthermore, the quality of the support-
+ing evidence is graded. Category I includes disorders for which 
+apheresis is accepted as first line of therapy. Category II includes 
+diseases for which apheresis is accepted as a second-line ther -
+apy (usually after failure of the first line of therapy). Category III 
+includes entities for which the optimal role of apheresis is not 
+established. In these cases, decision making should be indi-
+vidualized. Category IV includes disorders in which published 
+evidence demonstrates apheresis to be ineffective or harmful. 
+Table 18.8 lists disorders for which apheresis is considered first 
+Goodpasture syndrome (anti-GBM disease)
+TTP/HUS
+Severe Cryoglobulinemia
+Pulmonary renal syndrome with diffuse alveolar damage (DAM)
+Antibody-mediated renal graft rejection
+Hyperviscosity syndrome
+Sickle cell disease crisis (RBC exchange)
+Acute demyelinating polyneuropathy (Guillain–Barré Syndrome)
+Hyperleukocytosis (leukemia) (leukocytapheresis)
+Myasthenia gravis crisis
+Thrombocytosis (thrombocytapheresis)
+Indications for Urgent Plasmapheresis 
+and Cytapheresis18.8
+TABLE
+Daugirdas9781451144291-ch018.indd   348 09/10/14   1:21 am
+349Chapter 18 / Therapeutic Apheresis
+line of therapy, either alone or with other treatment modalities. 
+In these cases, apheresis should be initiated as soon as possible 
+for achieving optimal outcomes. Below is a summary of the use of 
+plasmapheresis in renal disorders.
+A. Anti-GBM disease.  T here is convincing evidence of the patho-
+genicity of anti-GBM antibodies in this disease, which his-
+torically was rapidly fatal in untreated patients. Early use 
+of plasmapheresis is strongly indicated, since the response 
+rate is highest when the serum creatinine is relatively low 
+(<500 mcmol/L or 5.7 mg/dL). In the largest long-term study 
+using plasmapheresis together with immunosuppressive 
+drugs, almost all patients with creatinine <500 mcmol/L 
+(5.7  mg/dL) recovered kidney function, compared with only 
+8% of those who were already on dialysis. In oliguric dialysis-
+dependent patients, particularly with a high percentage of 
+crescents on renal biopsy, plasmapheresis should probably be 
+reserved for those with pulmonary hemorrhage, because renal 
+function is unlikely to recover.
+The frequency of plasmapheresis should be high enough 
+to rapidly decrease circulating anti-GBM antibody lev-
+els. In the large series described earlier, patients received 
+exchange of 50  mL/kg (approximately 1.5 plasma volumes) 
+for 14   consecutive days, or until anti-GBM antibody levels 
+became undetectable. Other authors would advise exchange 
+of two plasma volumes daily for 7 days, followed by alternate 
+day plasmapheresis for another week. Although renal biopsy 
+is preferred to confirm the diagnosis, if the clinical suspicion 
+is high and a reliable assay for anti-GBM antibodies is positive, 
+then treatment should be started immediately. If still indicated 
+clinically, renal biopsy could be performed after the first two or 
+three exchanges, deferring plasmapheresis for 24 hours after 
+biopsy. Citrate anticoagulation may be preferred, where avail-
+able, in the presence of lung hemorrhage or after renal biopsy. 
+Plasmapheresis may need to be continued beyond the second 
+week, depending on clinical features and anti-GBM antibody 
+levels.
+In general, plasma is replaced with 5% albumin, but using 
+FFP for the last liter of the exchange in patients with lung hem-
+orrhage or recent biopsy. If the patient is severely fluid over -
+loaded, the amount of albumin solution can be reduced to 85% 
+(but not less) of the removed plasma volume.
+B. TTP and HUS.  B oth TTP and HUS lead to thrombotic microan-
+giopathy which, in HUS, particularly affects the kidney and, in 
+TTP , often affects the central nervous system. HUS is divided 
+into cases preceded by diarrhea (D+ ) and those that  occur 
+ sporadically (D −). D-HUS may be associated with genetic 
+defects of complement regulators or autoantibodies to these 
+proteins (atypical HUS [aHUS]). I n TTP , there may be genetic 
+deficiency of the von Willebrand factor–cleaving protease 
+(ADAMTS13) or autoantibodies against it. Plasmapheresis will 
+Daugirdas9781451144291-ch018.indd   349 09/10/14   1:21 am
+Part II / Blood-Based Therapies
+350
+replace normal plasma components, regardless of etiology, 
+and will remove autoantibodies when present.
+In severe TTP , plasmapheresis should be started as soon 
+as possible. Daily plasmapheresis of at least 1 plasma vol-
+ume should be performed daily, usually for 7–10 days. Some 
+would advocate using 1.5 plasma volumes for the first three 
+treatments to achieve a rapid effect. Treatment is continued 
+until platelet count is normalized and hemolysis has largely 
+ceased (lactate dehydrogenase below 400 IU/L). Since relapse 
+may recur promptly on stopping treatment, vascular access 
+should be maintained until platelet count is stable. In patients 
+in whom platelet count decreases to <100,000/mm 3, plasma-
+pheresis may be recommenced on an alternate day schedule 
+until platelet count stabilizes. There are now two controlled 
+trials that show the benefit of plasmapheresis with FFP com-
+pared with FFP infusions, and a recent meta-analysis of con-
+trolled trials shows that plasmapheresis with FFP is the most 
+effective approach in TTP .
+Diarrhea-positive (D+ ) HUS in children is frequently a 
+self-limiting disease, which improves with supportive treat -
+ment. There are no randomized trials of plasmapheresis, but 
+there are recent reports of the benefit of plasmapheresis in 
+adults with severe acute D+  HUS. In diarrhea-negative (D− ) 
+HUS (atypical HUS), there are no controlled trials, but there are 
+several anecdotal reports of the benefit of plasma exchange for 
+FFP in severely affected patients.
+Despite the lack of evidence, a trial of plasmapheresis 
+would be a reasonable approach in severe TTP in pregnancy. 
+Plasmapheresis may also be useful for other secondary causes 
+of TTP , although plasma perfusion over staphylococcal pro-
+tein A (SPA) columns has been reported to be more effective 
+in mitomycin-induced TTP .
+In general, removed plasma is replaced by the same vol-
+ume of FFP , since the FFP  will provide the deficient plasma 
+components. In repeated large volume exchange for TTP, care 
+needs to be taken to avoid hypocalcemia.
+Eculizumab (a monoclonal antibody against C5 that  
+ inhibits the formation of the membrane attack complex of 
+complement) is being used to treat (D− ) HUS, and results 
+have been very  encouraging. Recently, (D+ ) HUS arising 
+from the epidemic that took place in Europe several years ago 
+seemed to respond well to both eculizumab (Delmas, 2014) 
+and plasmapheresis.
+C. Cryoglobulinemia. P lasmapheresis has been used for the treat -
+ment of cryoglobulinemia for over 20 years because of effec-
+tive removal of the large immune complexes responsible 
+for clinical features. Although there are no controlled tri-
+als, there are multiple reports demonstrating the efficacy 
+of plasma exchange in patients with acute vasculitis and 
+renal involvement. Plasmapheresis can also be considered 
+Daugirdas9781451144291-ch018.indd   350 09/10/14   1:21 am
+351Chapter 18 / Therapeutic Apheresis
+for hyperviscosity syndrome or where a patient is about to 
+undergo surgery requiring hypothermia. In severe cases, 
+immunosuppressive drugs are also used, together with antivi-
+ral therapy in those with hepatitis C.
+In general, exchange of 1 plasma volume for 7 days is sug-
+gested, while others use plasmapheresis on alternate days for 
+2–3 weeks. Replacement fluid should be 5% albumin, which 
+must be warmed to avoid precipitation of circulating cryo-
+globulins. In occasional patients, long-term treatment once a 
+week is required to control symptoms. Use of a centrifugation 
+device is often preferred because of the possibility of the cryo-
+globulins blocking the plasma filter as they cool and precipi-
+tate. Alternative techniques such as double cascade filtration 
+and cryofiltration are expensive and technically difficult, and 
+are not widely used.
+D. Antineutrophil cytoplasmic antibody (ANCA)–associated vasculitis  .  
+These patients have a small vessel vasculitis often affecting 
+the kidney, with pauci-immune rapidly progressive glomeru-
+lonephritis. This group of diseases include s granulomato -
+sis with polyangiitis (previously Wegener granulomatosis), 
+microscopic polyangiitis, and eosinophilic granulomatosis 
+with polyangiitis (previously Churg–Strauss syndrome). There 
+is mounting evidence for the pathogenic role of ANCA in 
+these conditions. Although early trials did not produce clear-
+cut results, Pusey (1991) demonstrated the benefit of plasma 
+exchange, together with immunosuppressive drugs in patients 
+already requiring dialysis. A large European multicenter 
+study (MEPEX) confirmed this finding and demonstrated , 
+in patients with a creatinine of >500 mcmol/L (5.7 mg/dL), 
+better recovery of renal function in those treated with plas-
+mapheresis compared to patients treated with pulse methyl 
+prednisolone. Another recent smaller study reported the 
+benefit of plasmapheresis in patients with a creatinine >250 
+mcmol/L (2.8 mg/dL). A recent meta-analysis confirmed the 
+benefit of adjunctive plasmapheresis compared with standard 
+therapy in preventing development of end-stage renal dis -
+ease. A large international controlled trial of plasmapheresis 
+in ANCA-associated vasculitis in patients with GFR <50 mL/
+min (PEXIVAS) is in progress.
+On the basis of the MEPEX study, we would recommend 
+daily exchange of 1.5 plasma volumes for 7 days. FFP should be 
+used for the last liter of exchange for those with pulmonary hem-
+orrhage or a recent renal biopsy. Some patients may require lon-
+ger periods of treatment, depending on their clinical response.
+E. Multiple myeloma.  M ultiple myeloma can lead to renal impair -
+ment through a wide variety of mechanisms, the commonest 
+of which is light-chain cast nephropathy. Although plasma-
+pheresis effectively removes the paraprotein responsible, 
+early trials produced conflicting results. A more recent, larger 
+study failed to show significant benefit of plasmapheresis in 
+Daugirdas9781451144291-ch018.indd   351 09/10/14   1:21 am
+Part II / Blood-Based Therapies
+352
+addition to standard chemotherapy. However, few of th ose 
+patients had cast nephropathy confirmed by renal biopsy. 
+A retrospective study from the Mayo Clinic suggested the 
+benefit of plasmapheresis in patients with proven cast 
+nephropathy who had high light-chain levels and severe renal 
+impairment.
+In general, we would suggest a regimen of five consecutive 
+exchanges for 5% albumin in patients presenting with acute 
+kidney injury due to light-chain nephropathy. Depending on 
+the clinical response and paraprotein levels, longer treatment 
+may be needed in some patients.
+An alternative approach to plasmapheresis that has 
+gained favor in the past 5 years is based on effective removal 
+of light chains by hemodialysis using a special high-cutoff  
+dialyzer. In addition to standard chemotherapy, with or with -
+out bortezomib, very intensive dialysis is done. In the initial 
+study, in patients with acute renal failure secondary to mul -
+tiple myeloma, two high-cutoff filters (Theralite, Gambro Renal 
+Products) were connected in series, and 8-hour dialysis sessions 
+were given daily for the first 5 days, followed by 8-hour sessions 
+on alternate days for the next 12 days, followed by 6-hour treat-
+ments three times per week. Four grams of salt-poor albumin 
+were given at the end of each extended dialysis session, and 
+intravenous magnesium and oral calcium were given if predi-
+alysis levels were low (Hutchison, 2009). The level of free light 
+chains was monitored using an immunoassay. Response was 
+encouraging, in terms of sizeable reduction in serum-free light 
+chains and a high percentage of patients recovering renal func-
+tion. Two multicenter controlled trials (EULITE and MYRE) are 
+ongoing in Europe to investigate this approach.
+F. Systemic lupus erythematosus.  P lasmapheresis has been widely 
+used in lupus nephritis to remove circulating autoantibodies 
+and immune complexes. Despite positive anecdotal reports, 
+one randomized controlled trial showed no benefit of the 
+addition of plasmapheresis to immunosuppressive drugs in 
+patients with lupus nephritis followed up for 3 years. However, 
+patients with crescentic nephritis and those requiring dialy-
+sis were excluded, and it could be argued that short-term 
+intervention such as plasmapheresis would have a better 
+effect in these patients. An international trial using high-dose 
+cyclophosphamide synchronized with plasmapheresis was 
+suspended because of a high incidence of adverse effects, so 
+this approach cannot be recommended. In our experience, 
+and in many anecdotal reports, plasmapheresis should be 
+considered in patients with life-threatening manifestations 
+of systemic lupus erythematosus (SLE), for example, those 
+with crescentic nephritis, pulmonary hemorrhage, cerebral 
+lupus, or catastrophic antiphospholipid syndrome. There are 
+also reports of the use of immunoadsorption using protein A 
+columns in patients with severe disease unresponsive to other 
+treatment.
+Daugirdas9781451144291-ch018.indd   352 09/10/14   1:21 am
+353Chapter 18 / Therapeutic Apheresis
+We would suggest an initial course of seven exchanges 
+of 1–1.5 plasma volumes for 5% albumin in patients with life-
+threatening disease. FFP should be used for the last liter of the 
+exchange in the presence of lung hemorrhage or recent renal 
+biopsy.
+G. Recurrent focal segmental glomerulosclerosis (FSGS).  Recurrent 
+FSGS in renal transplants appears to be mediated in some 
+cases by a circulating factor that  increases glomerular per -
+meability. The use of plasmapheresis in FSGS in the native 
+kidney has produced variable results, perhaps because some 
+of these patients have a genetic defect in proteins contributing 
+to the glomerular filtration barrier. FSGS can recur promptly 
+following renal transplantation (15%–55% of cases) and, in 
+these patients, plasmapheresis is frequently reported to be of 
+benefit.
+In the absence of adequate information, we would suggest 
+the use of exchange of 1 plasma volume for 5% albumin for at 
+least 5 consecutive days, and perhaps for longer, depending on 
+clinical response, in patients with rapid recurrence of protein-
+uria following renal transplantation.
+H. Henoch–Schönlein purpura (HSP) and IgA nephropathy. P atients with 
+HSP and primary IgA nephropathy may develop RPGN due to 
+crescentic glomerulonephritis. The histologic features may be 
+similar to those with ANCA-associated vasculitis. The success-
+ful use of plasmapheresis, usually with immunosuppressive 
+drugs, has been reported in several small series of patients. 
+We have observed improvement in renal function in some 
+patients treated with this approach.
+It would be reasonable to perform seven exchanges of 
+1–1.5 plasma volumes for 5% albumin in patients with active 
+crescentic nephritis and deteriorating renal function, based on 
+the experience in ANCA-associated vasculitis.
+I. Hyperviscosity syndrome.  T his occurs most commonly with 
+Waldenström macroglobulinemia (50% of cases) and occa-
+sionally with myeloma and cryoglobulinemia. Hyperviscosity 
+leads to RBC aggregation and reduced blood flow, leading to 
+ischemic dysfunction of several organ systems, including the  
+central nervous system, retina, and kidney. Although there are 
+no controlled trials, there are several reports of the benefit of 
+plasmapheresis in controlling clinical features pending the 
+effects of treatment for the underlying disorder.
+In the absence of adequate evidence, we would suggest 
+using daily exchange of one plasma volume for 5% albumin for 
+3–5 days or until blood viscosity normalizes and the patient is 
+clinically stable.
+J. Renal transplantation.  P lasmapheresis has been used for over 
+20 years for treating antibody-mediated rejection and, more 
+recently, as part of the desensitization protocol for ABO-
+incompatible or highly sensitized patients. Indications for 
+plasmapheresis in renal transplant rejection are not yet clear-
+cut, but several trials have suggested a benefit in patients with 
+Daugirdas9781451144291-ch018.indd   353 09/10/14   1:21 am
+Part II / Blood-Based Therapies
+354
+acute antibody-mediated rejection, often with concomitant 
+intravenous immunoglobulin (IVIG) therapy. However, there 
+was no apparent benefit in chronic rejection. Both plasma-
+pheresis and protein A immunoadsorption have been used to 
+remove preformed anti-HLA antibodies in highly sensitized 
+patients, with around 70% graft survival at 1 year. There are 
+also reports that plasmapheresis is effective in allowing renal 
+transplantation in ABO-incompatible patients, often with the 
+use of additional immunosuppression such as rituximab.
+We would suggest five exchanges of 1 plasma volume for 
+5% albumin, together with IVIG, for acute antibody-mediated 
+rejection. The use of plasmapheresis in desensitization proto-
+cols for high-risk patients should only be carried out in special-
+ized centers.
+K. Poisoning and drug overdose.  T here are no ASFA class I indica-
+tions for plasmapheresis in this area.  However, there are case 
+reports of plasmapheresis being used in Amanita phalloides 
+mushroom poisoning, to help clear digoxin-Fab complexes in 
+patients with renal failure, to treat snakebite or cisplatin over-
+dose, and to remove infused monoclonal antibodies when this 
+is required (Schutt, 2012).
+ IX. THE SELECTIVE APHERESIS PROCEDURES
+A. Rationale. W hile conventional plasmapheresis can remove tar -
+get plasma elements such as immunoglobulins, cryoproteins, 
+and lipids, it does so without specificity and requires replace-
+ment solutions such as albumin and donor plasma, which can 
+be expensive and lead to adverse reactions. Selective apher -
+esis procedures have been developed to target and remove a 
+specific element from the plasma, and return all other plasma 
+proteins, thus eliminating the need for replacement solutions 
+and the loss of beneficial plasma constituents.
+B. LDL apheresis. I n the United States, LDL apheresis is currently 
+approved for patients with homozygous familial hypercholes -
+terolemia or in patients with LDL ≥300 mg/dL (7.8 mmol/L) 
+or LDL ≥200 mg/dL (5.2 mmol/L) plus documented coro-
+nary artery disease despite maximal medical therapy. Other 
+healthcare systems have less stringent criteria. In general, 
+these procedures are performed once every one to two weeks, 
+depending on LDL level, though intervals may be lengthened if 
+the patient is tolerating lipid-lowering therapy. LDL apheresis 
+should be considered a chronic lifelong therapy, and therefore, 
+peripheral IVs or arteriovenous fistulas are recommended for 
+access over tunneled dialysis catheters.
+There are a variety of techniques available worldwide for 
+the selective removal of LDL-cholesterol; in the United States, 
+only the Liposorber system (Kaneka Corporation, Osaka, Japan) 
+and the Heparin-induced Extracorporeal LDL-Cholesterol 
+Precipitation (H.E.L.P .) system (B. Braun, Bethlehem, PA) are 
+FDA-approved for LDL apheresis. With the Liposorber system, 
+blood is passed through a membrane plasma separator before 
+Daugirdas9781451144291-ch018.indd   354 09/10/14   1:21 am
+355Chapter 18 / Therapeutic Apheresis
+entering one of two dextran sulfate–  based immunoadsorp-
+tion columns  (LA-15 column) on the MA-03 machine. Dextran 
+sulfate is a negatively charged molecule with low toxicity that 
+selectively binds the positively charged Apo-B–containing lipo-
+proteins (LDL, VLDL, and Lp[a]) with high affinity, thus remov-
+ing them from the circulating plasma. H eparin is used for 
+anticoagulation. A 1.5 plasma volume is targeted for processing, 
+to achieve an LDL reduction of 73%–83% after a single treat -
+ment. The negatively charged surface of the adsorbers promotes 
+bradykinin release, thus ACE inhibitors are contraindicated in 
+patients on this modality, but angiotensin receptor blockers 
+may be used instead. In the H.E.L.P . system, whole blood is 
+passed through a plasma separator, and lipoproteins as well as 
+fibrinogen are selectively precipitated with heparin buffered at 
+a pH of 5.12. The precipitate is then removed from the plasma 
+by a polycarbonate membrane, and the heparin removed by a 
+heparin adsorber, and, finally, the plasma is restored to a physi-
+ologic pH via bicarbonate dialysis. LDL reduction with this 
+procedure ranges from 45% to 67% after a single treatment. 
+There is greater removal of C3, C4, plasminogen, factor VIII, and 
+fibrinogen with the H.E.L.P . system. Removal of fibrinogen has 
+a positive effect on hemorheology and has been utilized in the 
+treatment of sudden hearing loss, a disorder characterized by 
+a markedly increased fibrinogen, erythrocyte aggregation, and 
+plasma viscosity (though this is not currently an FDA-approved 
+indication). Both techniques of LDL apheresis available in the 
+United States require heparin for anticoagulation . W ith the 
+H.E.L.P . system, ACE inhibitors are not contraindicated.
+Several other techniques are available worldwide to 
+selectively remove LDL-cholesterol. In Europe, an immunoad-
+sorption column containing anti-apoprotein B100-antibodies 
+(Therasorb-LDL, Miltenyi Biotec, Germany) is available for 
+the treatment of hyperlipidemia. Owing  to high costs, these 
+columns are typically regenerated and stored, which can be 
+a cumbersome process. Two whole-blood systems are also 
+in use that do not require plasma separation: DALI (Direct 
+Adsorption of Lipoprotein, Fresenius, Germany) and a whole-
+blood version of the Liposorber system (Liposorber D, Kaneka 
+Pharma Europe N.V .). There is also an immunoadsorptive 
+device (Lipopak, Pocard, Moscow, Russia) that is marketed to 
+target lipoprotein(a), which is an independent risk factor for 
+coronary heart disease.
+C. Immunoadsorption columns. T here are a variety of columns avail-
+able worldwide that have been designed to selectively bind 
+a target molecule and remove it from the circulating plasma 
+(Fig. 18.3). The columns currently available either contain SPA, 
+a specific peptide or synthetic antigen, or an immobilized anti-
+body covalently bound to an inert and insoluble matrix (such 
+as cellulose) in a column of gel beads. SPA has a high affinity for 
+the Fc portions of IgG1, IgG2, and IgG4 and depletes the plasma 
+of IgG autoantibodies or circulating immune complexes that 
+Daugirdas9781451144291-ch018.indd   355 09/10/14   1:21 am
+Part II / Blood-Based Therapies
+356
+FIGURE 18.3 Immunoadsorbent columns retain pathogens by binding them to elements 
+in the column. (Courtesy of Dobri Kiprov, MD. Reprinted from Linz W, et al. Principles  
+of Apheresis Technology. 5th ed. American Society for Apheresis; 2014. http://www 
+. apheresis.org.)
+Plasma
+Pathogenic
+substances
+Purified plasma
+Daugirdas9781451144291-ch018.indd   356 09/10/14   1:21 am
+357Chapter 18 / Therapeutic Apheresis
+contain IgG. There is an SPA column (Immunosorba, Fresenius 
+Medical Care) available in other countries used for the treat -
+ment of antibody-mediated rejection in kidney transplant, 
+dilated cardiomyopathy, SLE, pemphigus vulgaris, and anti-
+FVIII antibody. Examples of immunoadsorption columns 
+that utilize immobilized antibodies include anti-apoprotein B 
+(Therasorb-LDL) used for hyperlipidemia as mentioned earlier 
+and anti-IgG antibody columns (Therasorb-Ig) used in Europe 
+for the treatment of autoimmune diseases such as SLE, myas-
+thenia gravis, dilated cardiomyopathy, and ABO-incompatible 
+kidney transplantation. Finally, many immunoadsorption col-
+umns have been developed that contain either an immobilized 
+antigen or peptide designed to bind a specific circulating anti-
+body or molecule. An example is the Glycosorb ABO column, 
+which contains terminal trisaccharide A or B blood group anti-
+gen immobilized on sepharose, which binds circulating anti-A 
+or anti-B antibodies, and which can be used to facilitate ABO-
+incompatible organ transplantation.
+D. Double filtration plasmapheresis (DFPP).  D FPP or “cascade fil-
+tration” refers to the process of using a primary membrane 
+plasma separator to isolate the plasma, followed by a second-
+ary plasma fractionator to remove target solutes based on 
+molecular size and weight. It has been used for the treatment 
+of hypercholesterolemia, cryoglobulinemia, Waldenström 
+macroglobulinemia, and diseases with impaired microcircu-
+lation. There are a variety of secondary plasma fractionators 
+available with varying pore size to allow for targeted filtration 
+of the desired molecule. While it is more selective than con-
+ventional plasmapheresis, valuable proteins such as IgM can 
+be lost in the filter, and the capacity of the system is limited by 
+filter clotting with retentate.
+E. Cryofiltration. C ryoglobulins can be removed by conventional plas-
+mapheresis, DFPP , or by a technique called cryofiltration. There 
+are two basic methods for cryofiltration. In the first method, 
+plasma is separated either by a centrifugal- or membrane- based 
+system, and the plasma is pumped at 20–30  mL/min through 
+a cooling system at 4°C and then passed through a cryofilter 
+(Versapor, Pall Medical) to collect the precipitated cryopro -
+teins/cryoglobulins. The cryo-depleted plasma is then warmed 
+to 37°C, mixed with the cells, and returned to the patient. The 
+second technique of cryofiltration focuses on cryogel removal. 
+Cryogel is precipitated fibrinogen, extra-domain-A fibronectin, 
+fibrin split products, and fibronectin. This technique uses a hep-
+arin infusion (2,000 unit bolus followed by 1,000–2,000 units/hr) 
+to form the core of the cryogel upon which the other proteins 
+aggregate. A plasma fractionator then removes the cryogel from 
+the circulating plasma.
+ X. OTHER APHERESIS PROCEDURES
+A. Extracorporeal photopheresis (ECP).  E CP is an online processing 
+modality initially developed for the treatment of cutaneous 
+Daugirdas9781451144291-ch018.indd   357 09/10/14   1:21 am
+Part II / Blood-Based Therapies
+358
+T-cell lymphoma (Sezary syndrome). It is also used as a treat -
+ment for selected patients with cell-mediated alloimmune 
+disorders such as graft-versus-host disease and cellular-type 
+rejection in heart and lung transplantation. During this proce-
+dure, centrifugation is used to collect WBCs. The WBC product 
+is then injected with 8-methoxypsoralen (8-MOP) and exposed 
+to a controlled dose of ultraviolet-A (UV-A) light prior to being 
+returned to the patient. UV-A light activates 8-MOP , leading 
+to cross-linking of DNA, thereby inducing apoptosis in T-cells 
+and modifying dendritic cells. This is thought to induce clonal-
+specific changes in ongoing immune responses, including pro-
+duction of T-regulatory cells which shift the balance toward 
+tolerance. There are two systems developed by Therakos 
+(UVAR XTS and CELLEX). Heparin is used for anticoagulation; 
+access is typically by peripheral IVs or Vortex catheter. Typical 
+treatments are done in pairs on successive days, and repeated 
+every 2 or more weeks; clinical benefit accrues gradually.
+XI. STEM CELL TRANSPLANTATION AND OTHER CELL THERAPIES.
+Hematopoetic Stem Cells (HPSCs) are collected from patients
+by leukocytapheresis and used for the treatment of hematologic
+malignancies, regeneration medicine, and a growing number of
+other entities.
+HPSC can be derived either from bone marrow or from 
+peripheral blood. Mobilized blood HPSCs have few contaminating 
+red cells and have more committed HPSCs, lymphocytes, and other 
+mononuclear cells. These enriched cell populations lead to faster 
+engraftment and immune reconstitution. Because of these advan-
+tages and lower morbidity and mortality rates, the great majority 
+of patients undergoing stem cell transplantation have been treated 
+with apheresis-derived autologous peripheral blood HPSC.
+Cell therapies such as cancer vaccines (Provenge, Dendreon, 
+Seattle, WA) and emerging gene cellular therapies utilize aphere-
+sis-derived autologous peripheral blood mononuclear cells.
+References and Suggested Readings
+Braun N, et al. Immunoadsorption onto protein A induces remission in severe systemic 
+lupus erythematosus. Nephrol Dial Transplant. 2000;15:1367–1372.
+Cataland SR, Wu HM. Diagnosis and management of complement mediated throm-
+botic microangiopathies. Blood Rev. 2014;28:67–74.
+Clark WF, et al. Plasma exchange when myeloma presents as acute renal failure: 
+a  randomized, controlled trial. Ann Intern Med. 2005;143:777–784.
+Colic E, et al. Management of an acute outbreak of diarrhoea-associated haemolytic 
+uraemic syndrome with early plasma exchange in adults from southern Denmark: 
+an observational study. Lancet. 2011;378:1089–1093.
+Delmas Y, et al. Outbreak of Escherichia coli  O104:H4 haemolytic uraemic syndrome 
+in France: outcome with eculizumab. Nephrol Dial Transplant. 2014;29:565–572.
+Hattori M, et al. Plasmapheresis as the sole therapy for rapidly progressive Henoch-
+Schönlein purpura nephritis in children. Am J Kidney Dis. 1999;33:427–433.
+Hutchison CA, et al. Treatment of acute renal failure secondary to multiple myeloma 
+with chemotherapy and extended high cut-off hemodialysis. Clin J Am Soc Nephrol. 
+2009;4:745–754.
+Hutchison C, Sanders PW . Evolving strategies in the diagnosis, treatment, and moni-
+toring of myeloma kidney. Adv Chronic Kidney Dis. 2012;19:279–281.
+Daugirdas9781451144291-ch018.indd   358 09/10/14   1:21 am
+359Chapter 18 / Therapeutic Apheresis
+Kale-Pradhan PB, Woo MH. A review of the effects of plasmapheresis on drug clear -
+ance. Pharmacotherapy. 1997;17:684–695.
+Kiprov DD, et al. Adverse reactions associated with mobile therapeutic apheresis: 
+analysis of 17,940 procedures. J Clin Apher. 2001;16:130–133.
+Kiprov DD, Hofmann J. Plasmapheresis in immunologically mediated polyneuropa -
+thies. Ther Apher Dial. 2003;7:189–196.
+Klemmer PJ, et al. Plasmapheresis therapy for diffuse alveolar hemorrhage in patients 
+with small-vessel vasculitis. Am J Kidney Dis. 2003;42:1149–1154.
+Levy JB, et al. Long-term outcome of anti-glomerular basement membrane antibody 
+disease treated with plasma exchange and immunosuppression. Ann Intern Med. 
+2001;134:1033–1042.
+Linz W , et al. Principles of Apheresis Technology. 5th ed. American Society for Apheresis; 
+Vancouver, BC, Canada; 2014. http://www.apheresis.org.
+Maggioni S, et al. How to implement immunoadsorption in a polyvalent dialysis unit: 
+a review. J Ren Care. 2014;40:164–71.
+Matsuzaki M, et al. Outcome of plasma exchange therapy in thrombotic microangi-
+opathy after renal transplantation. Am J Transplant. 2003;3:1289–1294.
+McLeod BC, et al. Apheresis: Principles and Practice. 3rd ed. Bethesda, MD: AABB Press; 
+2010.
+Menne J, et al. EHEC-HUS consortium. Validation of treatment strategies for entero-
+haemorrhagic Escherichia coli  O104:H4 induced haemolytic uraemic syndrome: 
+case-control study. Br Med J. 2012;345:e4565.
+Montagnino G, et al. Double recurrence of FSGS after two renal transplants with 
+complete regression after plasmapheresis and ACE inhibitors. Transpl Int. 
+2000;13:166–168.
+Perdue JJ, et al. Unintentional platelet removal by plasmapheresis. J Clin Apher. 
+2001;16:55–60.
+Pusey CD, et al. Plasma exchange in focal necrotizing glomerulonephritis without anti-
+GBM antibodies. Kidney Int. 1991;40:757–763.
+Saddler JE, et al. Recent advances in thrombotic thrombocytopenic purpura. 
+Hematology. 2004:407–423.
+Sanchez AP , Cunard R, Ward DM. The selective therapeutic apheresis procedures. 
+J Clin Apher. 2013;28:20–29.
+Schutt RC, et al. The role of therapeutic plasma exchange in poisonings and intoxica-
+tions. Semin Dial. 2012;25:201–206.
+Schwartz J, et al. Guidelines on the use of therapeutic apheresis in clinical practice-
+evidence-based approach from the Writing Committee of the American Society for 
+Apheresis: the sixth special issue. J Clin Apher. 2013;28:145–284.
+Siami GA, Siami FS. Current topics on cryofiltration technologies. Ther Apher . 
+2001;5:283–286.
+Stegmayr B, et al. Plasma exchange as rescue therapy in multiple organ failure includ-
+ing acute renal failure. Crit Care Med. 2003;31:1730–1736.
+Steinmuller DR, et al. A dangerous error in the dilution of 25 percent albumin [letter]. 
+N Engl J Med. 1998;38:1226–1227.
+Strauss RG. Mechanisms of adverse effects during hemapheresis. J Clin Apher. 
+1996;11:160–164.
+United States Centers for Disease Control. Renal insufficiency and failure associated 
+with IGIV therapy. Morb Mortal Wkly Rep. 1999;48:518–521.
+Ward DM. Extracorporeal photopheresis: how, when, and why. J Clin Apher. 
+2011;26(5):276–285.
+Weinstein R. Prevention of citrate reactions during therapeutic plasma exchange 
+by constant infusion of calcium gluconate with the return fluid. J Clin Apher. 
+1996;11:204–210.
+Williams ME, Balogun RA. Therapeutic plasma exchange, principles of separation: 
+indications and therapeutic targets for plasma exchange. Clin J Am Soc Nephrol. 
+2014;9:181–189.
+Winters JL. Lipid apheresis, indications, and principles. J Clin Apher. 2011;26:269–275.
+Wolf J, et al. Predictors for success of plasmapheresis on the long-term outcome of 
+renal transplant patients with recurrent FSGS [Abstract]. J Am Soc Nephrol. 
+2005;SA-FC026.
+Zucchelli P , et al. Controlled plasma exchange trial in acute renal failure due to mul-
+tiple myeloma. Kidney Int.1988;33:1175–1180.
+Daugirdas9781451144291-ch018.indd   359 09/10/14   1:21 am

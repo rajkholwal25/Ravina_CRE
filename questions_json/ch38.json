@@ -1,0 +1,665 @@
+{
+  "chapter": 38,
+  "questions": [
+    {
+      "topic": "CVD mortality risk in ESKD",
+      "question": "Compared with the general population, cardiovascular mortality in end-stage kidney disease (ESKD) patients is approximately how much higher?",
+      "options": {
+        "A": "10 to 30 times higher",
+        "B": "2 to 3 times higher",
+        "C": "5 to 8 times higher",
+        "D": "50 to 100 times higher"
+      },
+      "correct": "A",
+      "explanation": "Correct answer A: in ESKD, cardiovascular mortality is 10 to 30 times higher than in the general population, so a 30-year-old dialysis patient carries a CVD mortality risk like an 80-year-old without kidney disease. The lower figures (2-3, 5-8 times) understate this, and 50-100 times overstates it. The excess reflects very high CVD prevalence plus more severe diabetes, hypertension and left ventricular hypertrophy, compounded by nontraditional factors such as chronic volume overload, hyperphosphatemia, anemia and oxidant stress."
+    },
+    {
+      "topic": "Diabetes glycemic target",
+      "question": "In healthier dialysis patients, cohort data suggest what hemoglobin A1C threshold may be a reasonable target for cardiovascular risk reduction?",
+      "options": {
+        "A": "6%",
+        "B": "8%",
+        "C": "7%",
+        "D": "10%"
+      },
+      "correct": "B",
+      "explanation": "Correct answer B: cohort data (Ricks, 2012) suggest a hemoglobin A1C threshold of 8% is a reasonable target in healthier dialysis patients, with less stringent goals when comorbidity is greater. 6% and 7% are tighter general-population targets not shown to help here, and 10% is too lax. Poor glycemic control assessed by glycosylated hemoglobin is associated with increased mortality, and diabetic dialysis patients have more acute coronary syndromes, more heart failure and worse outcomes after coronary interventions."
+    },
+    {
+      "topic": "Smoking cessation benefit",
+      "question": "In USRDS data, how did the risk of former smokers compare with that of lifelong nonsmokers among dialysis patients?",
+      "options": {
+        "A": "Former smokers had double the risk",
+        "B": "Former smokers had a higher risk than current smokers",
+        "C": "Former smokers had a similar risk as lifelong nonsmokers",
+        "D": "There was no measurable difference from current smokers"
+      },
+      "correct": "C",
+      "explanation": "Correct answer C: in USRDS data former smokers had a similar risk as lifelong nonsmokers, which is why cessation is emphasized and worth a directed intervention. They did not have double the risk, a higher risk than current smokers, or an indistinguishable risk from current smokers. Smoking strongly associates with all-cause mortality and likely with CVD in dialysis patients, promotes progression in early CKD, and may further erode residual kidney function once on dialysis."
+    },
+    {
+      "topic": "Dyslipidemia in peritoneal dialysis",
+      "question": "Why is an atherogenic lipid profile with high LDL and triglycerides particularly common in peritoneal dialysis patients?",
+      "options": {
+        "A": "Loss of protein in the dialysate",
+        "B": "Reduced dialysis frequency",
+        "C": "Chronic heparin exposure",
+        "D": "The glucose-enriched milieu of peritoneal dialysis"
+      },
+      "correct": "D",
+      "explanation": "Correct answer D: the glucose-enriched milieu of peritoneal dialysis, from glucose absorbed out of the dialysate, drives a more atherogenic profile with high LDL and triglycerides. It is not primarily dialysate protein loss, reduced frequency, or heparin exposure. Dyslipidemia is common across all kidney disease stages but especially in PD; sodium restriction that lets patients use lower dialysate glucose concentrations reduces glucose absorption and the stimulus to hypertriglyceridemia."
+    },
+    {
+      "topic": "Cholesterol-mortality relationship",
+      "question": "In dialysis patients, the relationship of total or LDL cholesterol to mortality is best described as which shape?",
+      "options": {
+        "A": "U-shaped",
+        "B": "Linear positive",
+        "C": "Linear negative",
+        "D": "Flat with no relationship"
+      },
+      "correct": "A",
+      "explanation": "Correct answer A: the total or LDL cholesterol relationship to mortality is U-shaped (Kilpatrick, 2007). High levels carry atherogenic risk while low levels flag associated malnutrition, so both extremes confer heightened risk, unlike a simple linear positive, linear negative, or flat relationship. In dialysis, HDL cholesterol is often reduced while atherogenic lipoprotein remnants and lipoprotein(a) are frequently increased, so the lipid picture is not captured by cholesterol level alone."
+    },
+    {
+      "topic": "Hypertriglyceridemia definition",
+      "question": "Hypertriglyceridemia, present in nearly one-third of dialysis patients, is defined by triglyceride levels above which value?",
+      "options": {
+        "A": "150 mg/dL (1.7 mmol/L)",
+        "B": "200 mg/dL (2.26 mmol/L)",
+        "C": "400 mg/dL (4.5 mmol/L)",
+        "D": "600 mg/dL (6.8 mmol/L)"
+      },
+      "correct": "B",
+      "explanation": "Correct answer B: hypertriglyceridemia is defined by triglycerides above 200 mg/dL (2.26 mmol/L) and is present in nearly one-third of dialysis patients, occasionally reaching 600 mg/dL (6.8 mmol/L) or higher. 150 is a general-population cutoff not used here, while 400 and 600 are higher thresholds relevant to bile acid sequestrant use and to severe elevations rather than to the basic definition. This atherogenic pattern reflects impaired clearance of triglyceride-rich lipoproteins."
+    },
+    {
+      "topic": "Cause of hypertriglyceridemia",
+      "question": "What is the predominant underlying cause of hypertriglyceridemia in dialysis patients?",
+      "options": {
+        "A": "Overproduction of HDL cholesterol",
+        "B": "Excess bile acid reabsorption",
+        "C": "Deficiency of lipoprotein lipase",
+        "D": "Increased hepatic LDL receptor activity"
+      },
+      "correct": "C",
+      "explanation": "Correct answer C: the predominant cause is deficiency of lipoprotein lipase, which reduces lipolysis of triglyceride-rich VLDL and yields atherogenic remnant lipoproteins; partial hepatic lipase deficiency also enriches LDL particles with triglyceride. It is not HDL overproduction, bile acid reabsorption, or increased hepatic LDL receptor activity. These defects can be aggravated by beta-adrenergic blockers, high-carbohydrate diets, glucose absorbed from peritoneal dialysate, heparin, and reduced hepatic blood flow from cardiac disease."
+    },
+    {
+      "topic": "KDIGO fire-and-forget strategy",
+      "question": "The KDIGO lipid guideline favors a \"fire-and-forget\" strategy, meaning that in a patient already treated with a high potency statin, there is:",
+      "options": {
+        "A": "A need to escalate the dose every 3 months",
+        "B": "A requirement for monthly cholesterol checks",
+        "C": "An indication to add ezetimibe automatically",
+        "D": "No indication to routinely measure cholesterol"
+      },
+      "correct": "D",
+      "explanation": "Correct answer D: because trials show no benefit from dose escalation, KDIGO (mirroring the AHA) favors a fire-and-forget strategy, so a patient already on a high-potency statin has no indication for routine cholesterol measurement. There is no need to escalate every 3 months, check cholesterol monthly, or automatically add ezetimibe. The same logic means dialysis patients not on a statin also do not need routine cholesterol testing, since the level would not change management."
+    },
+    {
+      "topic": "Severe hypercholesterolemia threshold",
+      "question": "A lipid profile can establish severe hypercholesterolemia or hypertriglyceridemia at what threshold that may prompt focused treatment or evaluation for secondary causes?",
+      "options": {
+        "A": "1,000 mg/dL (11.3 mmol/L) or higher",
+        "B": "300 mg/dL (3.4 mmol/L) or higher",
+        "C": "500 mg/dL (5.7 mmol/L) or higher",
+        "D": "2,000 mg/dL (22.6 mmol/L) or higher"
+      },
+      "correct": "A",
+      "explanation": "Correct answer A: a lipid profile can establish severe hypercholesterolemia or hypertriglyceridemia, meaning 1,000 mg/dL (11.3 mmol/L) or higher, which may prompt focused treatment or evaluation for secondary causes (Miller, 2011). 300 and 500 mg/dL are too low for the severe threshold and 2,000 is not the cutoff cited. It is worthwhile to check a lipid profile at least once in all dialysis patients, ideally fasting for triglycerides, though a random screen is often most practical."
+    },
+    {
+      "topic": "Dietary fat recommendations",
+      "question": "The recommended diet for dyslipidemia contains about 25%-35% of total calories as fat, of which saturated fat should be:",
+      "options": {
+        "A": "About 20%",
+        "B": "Less than 7%",
+        "C": "About 10%",
+        "D": "About 30%"
+      },
+      "correct": "B",
+      "explanation": "Correct answer B: saturated fat should be less than 7% of total calories within a diet of about 25-35% of calories as fat, of which roughly 20% is monounsaturated and 10% polyunsaturated. The distractors (about 10%, 20%, or 30% saturated) exceed this limit. In hypertriglyceridemia, mild restriction of total and refined carbohydrate is advised and alcohol should be discouraged; lifestyle change is first-line even though its effect on hard outcomes is uncertain, given its low risk."
+    },
+    {
+      "topic": "KDIGO statin initiation guidance",
+      "question": "The 2013 KDIGO Clinical Practice Guideline for Lipid Management suggests that statins or statin/ezetimibe combinations:",
+      "options": {
+        "A": "Be initiated in all adults on dialysis",
+        "B": "Be titrated to an LDL below 70 mg/dL",
+        "C": "Not be initiated in adults with dialysis-dependent CKD",
+        "D": "Be replaced by fibrates in dialysis patients"
+      },
+      "correct": "C",
+      "explanation": "Correct answer C: the 2013 KDIGO lipid guideline suggests statins or a statin/ezetimibe combination NOT be initiated in adults with dialysis-dependent CKD, because several large trials failed to show benefit despite substantial LDL lowering. This reverses the older KDOQI stance and does not mean starting all adults, titrating LDL below 70, or switching to fibrates. The guidance addresses new initiation; patients already on statins are handled differently and generally continue therapy."
+    },
+    {
+      "topic": "SHARP trial",
+      "question": "The Study of Heart and Renal Protection (SHARP) that supports continuing statin therapy used which drug regimen?",
+      "options": {
+        "A": "Atorvastatin monotherapy",
+        "B": "Rosuvastatin plus niacin",
+        "C": "Pravastatin plus gemfibrozil",
+        "D": "Simvastatin/ezetimibe"
+      },
+      "correct": "D",
+      "explanation": "Correct answer D: SHARP used simvastatin/ezetimibe, not atorvastatin monotherapy, rosuvastatin plus niacin, or pravastatin plus gemfibrozil. It enrolled dialysis patients plus over 6,000 with stage 3b-4 CKD; therapy was generally continued through kidney replacement therapy, and among participants who did not require dialysis at baseline it produced significant cardiovascular event reduction. These results underpin the recommendation to continue, but not routinely initiate, statin therapy in dialysis patients."
+    },
+    {
+      "topic": "Statin therapy at dialysis initiation",
+      "question": "In incident dialysis patients already being treated with statin therapy, the chapter advises that these medications should:",
+      "options": {
+        "A": "Likely be continued",
+        "B": "Be discontinued at dialysis initiation",
+        "C": "Be switched to fibrates",
+        "D": "Be reduced to alternate-day dosing"
+      },
+      "correct": "A",
+      "explanation": "Correct answer A: statins likely should be continued in incident dialysis patients already treated with them, with attention to dose and drug-drug interactions. This is based largely on SHARP, where simvastatin/ezetimibe was generally continued through kidney replacement therapy and many participants stayed on treatment after starting dialysis. They should not be discontinued at initiation, switched to fibrates, or reduced to alternate-day dosing; new initiation is reserved for those with longer life expectancy or recent acute coronary syndromes."
+    },
+    {
+      "topic": "Rosuvastatin dose adjustment",
+      "question": "For rosuvastatin at GFR below 30, what dose adjustment is recommended?",
+      "options": {
+        "A": "No adjustment needed",
+        "B": "Decrease to a maximum of 10 mg/d, with a recommended starting dose of 5 mg/d",
+        "C": "Reduce to 50% of the standard dose",
+        "D": "Start at 5 mg/d with a maximum of 40 mg/d"
+      },
+      "correct": "B",
+      "explanation": "Correct answer B: Table 38.2 specifies that rosuvastatin be decreased to a maximum of 10 mg/d at GFR below 30, with a recommended starting dose of 5 mg/d. So it is not left unadjusted, not simply halved, and the maximum is 10 mg/d rather than 40 mg/d. Statin dose adjustment for reduced GFR varies by agent (for example fluvastatin and lovastatin are halved at GFR below 30), and matching dose to kidney function limits the myopathy risk that is heightened in CKD."
+    },
+    {
+      "topic": "Fibrate-statin combination",
+      "question": "Regarding concurrent use of fibrates and statins in advanced CKD, the chapter states this combination is:",
+      "options": {
+        "A": "Recommended for maximal lipid lowering",
+        "B": "Safe at reduced doses",
+        "C": "Contraindicated",
+        "D": "Preferred over statin monotherapy"
+      },
+      "correct": "C",
+      "explanation": "Correct answer C: concurrent fibrate and statin use is contraindicated in advanced CKD because both raise myopathy risk, which is already increased in kidney disease. It is not recommended for maximal lipid lowering, safe at reduced doses, or preferable to statin monotherapy. Fibrates as a class carry uncertain safety in dialysis and lack dosing data, so if used at all they require caution and dose reduction, and they must never be combined with a statin in this population."
+    },
+    {
+      "topic": "Statin drug interactions",
+      "question": "Increased statin blood levels via hepatic cytochrome P450 co-metabolism are best documented with which statin?",
+      "options": {
+        "A": "Atorvastatin",
+        "B": "Pravastatin",
+        "C": "Fluvastatin",
+        "D": "Simvastatin"
+      },
+      "correct": "D",
+      "explanation": "Correct answer D: increased statin blood levels via hepatic cytochrome P450 co-metabolism are best documented with simvastatin, not atorvastatin, pravastatin, or fluvastatin. Numerous drugs used in dialysis patients raise statin levels through this pathway, including calcineurin inhibitors, macrolide antibiotics, azole antifungals, calcium channel blockers, fibrates, and nicotinic acid. Because higher statin levels increase myopathy risk, potential interactions should be checked individually before prescribing."
+    },
+    {
+      "topic": "Nicotinic acid dose adjustment",
+      "question": "How should nicotinic acid dosing be adjusted in ESKD given its substantial renal excretion?",
+      "options": {
+        "A": "Reduced by about 50%",
+        "B": "No adjustment needed",
+        "C": "Increased by 50%",
+        "D": "Given only every other day"
+      },
+      "correct": "A",
+      "explanation": "Correct answer A: nicotinic acid dosage should be reduced by about 50% in ESKD given its substantial renal excretion; it is not left unchanged, increased, or restricted to every-other-day dosing. It has the greatest favorable effect on HDL of available agents and lowers triglycerides, but has no proven CVD or mortality benefit. Adverse effects include worsened glycemic control, orthostasis, hyperuricemia, and flushing, the last of which can be attenuated with aspirin or longer-acting preparations."
+    },
+    {
+      "topic": "Bile acid sequestrants and triglycerides",
+      "question": "Bile acid sequestrants should NOT be used when triglycerides exceed which level?",
+      "options": {
+        "A": "200 mg/dL (2.3 mmol/L)",
+        "B": "400 mg/dL (4.5 mmol/L)",
+        "C": "300 mg/dL (3.4 mmol/L)",
+        "D": "600 mg/dL (6.8 mmol/L)"
+      },
+      "correct": "B",
+      "explanation": "Correct answer B: bile acid sequestrants should not be used when triglycerides exceed 400 mg/dL (4.5 mmol/L) and are relatively contraindicated above 200 mg/dL (2.3 mmol/L), because they can raise triglycerides further; 300 and 600 mg/dL are not the stated cutoffs. Doses do not need reduction in dialysis since these resins are not absorbed. They can also interfere with absorption of other medications, so timing relative to other drugs matters."
+    },
+    {
+      "topic": "Sevelamer as lipid agent",
+      "question": "The phosphate binder sevelamer lowers total and LDL cholesterol by acting through the same mechanism as which drug class?",
+      "options": {
+        "A": "Statins",
+        "B": "Fibrates",
+        "C": "Bile acid sequestrants",
+        "D": "Nicotinic acid"
+      },
+      "correct": "C",
+      "explanation": "Correct answer C: sevelamer lowers total and LDL cholesterol by the same mechanism as bile acid sequestrants, not by acting like a statin, fibrate, or nicotinic acid. This makes it a useful choice when phosphorus binding is also desired, since it serves both roles. Bile acid sequestrants including sevelamer are not absorbed and need no dose reduction in dialysis, though sequestrants should be avoided when triglycerides are high because they can worsen hypertriglyceridemia."
+    },
+    {
+      "topic": "Nicotinic acid and HDL",
+      "question": "Among available drug therapies, which agent has the greatest favorable effect on HDL cholesterol levels?",
+      "options": {
+        "A": "Ezetimibe",
+        "B": "Cholestyramine",
+        "C": "Atorvastatin",
+        "D": "Nicotinic acid"
+      },
+      "correct": "D",
+      "explanation": "Correct answer D: nicotinic acid has the greatest favorable effect on HDL cholesterol among available drug therapies and also lowers triglycerides, unlike ezetimibe, cholestyramine, or atorvastatin. However, it has no proven benefit on CVD or mortality outcomes, so its role is limited, mainly to severe hypertriglyceridemia above 500 mg/dL to protect against pancreatitis or when a statin is contraindicated. Its dose should be cut about 50% in ESKD, and side effects include hyperglycemia, flushing, and hepatotoxicity."
+    },
+    {
+      "topic": "Fibrates and cardiovascular risk guidance",
+      "question": "The 2013 KDIGO guidelines state that fibric acid derivatives are NOT recommended in adults with CKD and hypertriglyceridemia for which purpose?",
+      "options": {
+        "A": "To prevent pancreatitis or reduce cardiovascular risk",
+        "B": "To raise HDL cholesterol",
+        "C": "To bind phosphorus",
+        "D": "To treat proteinuria"
+      },
+      "correct": "A",
+      "explanation": "Correct answer A: KDIGO 2013 states that fibric acid derivatives are not recommended to prevent pancreatitis or reduce cardiovascular risk in adults with CKD and hypertriglyceridemia; the guidance is not about raising HDL, binding phosphorus, or treating proteinuria. There are no data supporting fibrate or nicotinic acid outcome benefit in dialysis, and they should not be first-line for modest triglyceride elevations below 500 mg/dL. Combined with the contraindication to fibrate-statin use, this narrows fibrate indications sharply."
+    },
+    {
+      "topic": "LVH prevalence",
+      "question": "In studies other than the Frequent Hemodialysis Network, the prevalence of left ventricular hypertrophy (LVH) in dialysis patients has been reported at approximately what range?",
+      "options": {
+        "A": "5%-10%",
+        "B": "50%-75%",
+        "C": "15%-25%",
+        "D": "90%-100%"
+      },
+      "correct": "B",
+      "explanation": "Correct answer B: while over 30% of the healthier Frequent Hemodialysis Network participants had LVH by cardiac MRI, other studies report prevalence of 50%-75%, far higher than 5%-10% or 15%-25% and not approaching 90%-100%. LVH develops frequently before kidney replacement therapy is needed, reflecting pressure and volume overload, and it is an independent risk factor for subsequent adverse cardiovascular events and death, which is why it is used both for study eligibility and as a surrogate outcome."
+    },
+    {
+      "topic": "Concentric hypertrophy cause",
+      "question": "Most LVH in dialysis patients is initially concentric, representing a uniform increase in wall thickness secondary to:",
+      "options": {
+        "A": "Volume overload and anemia",
+        "B": "High-output arteriovenous fistulas",
+        "C": "Pressure overload from hypertension, stiffened vessels, or aortic stenosis",
+        "D": "Chronic inflammation"
+      },
+      "correct": "C",
+      "explanation": "Correct answer C: most LVH is initially concentric, a uniform increase in wall thickness from pressure overload due to hypertension, stiffened vessels, or aortic stenosis. Volume overload and anemia instead drive eccentric hypertrophy, and high-output arteriovenous fistulas and inflammation are not the primary described cause of concentric change. The eventual endpoint is often a dilated cardiomyopathy with declining systolic function, so recognizing concentric LVH early flags a modifiable pressure burden."
+    },
+    {
+      "topic": "J-shaped blood pressure relationship",
+      "question": "The J-shaped (or U-shaped) relationship between blood pressure and mortality in dialysis patients is largely attributed to which end-stage cardiac condition?",
+      "options": {
+        "A": "Concentric hypertrophy with preserved function",
+        "B": "Isolated diastolic dysfunction",
+        "C": "Constrictive pericarditis",
+        "D": "Dilated cardiomyopathy with low blood pressure"
+      },
+      "correct": "D",
+      "explanation": "Correct answer D: the J-shaped or U-shaped blood pressure-mortality relationship is largely attributed to end-stage dilated cardiomyopathy with reduced systolic function and low blood pressure, the eventual endpoint of longstanding LVH. It is not explained by concentric hypertrophy with preserved function, isolated diastolic dysfunction, or constrictive pericarditis. These sick patients with low pressures pull down the low-BP arm of the curve, so a low blood pressure can reflect advanced cardiac disease rather than good control."
+    },
+    {
+      "topic": "Echocardiography timing",
+      "question": "In dialysis patients, two-dimensional echocardiography to assess cardiac function is likely most informative when performed:",
+      "options": {
+        "A": "During a day in the interdialytic interval",
+        "B": "Immediately after a dialysis session",
+        "C": "Only when the patient is volume-overloaded",
+        "D": "During the first hour of dialysis"
+      },
+      "correct": "A",
+      "explanation": "Correct answer A: echocardiography is most informative on a day during the interdialytic interval, because cardiac function must be assessed in the euvolemic state. Both significant volume depletion (as right after a session) and volume overload reduce measured left ventricular inotropy, so imaging immediately post-dialysis, only when overloaded, or in the first hour of dialysis distorts the assessment. Assessing at true dry weight gives a more reliable picture of underlying function."
+    },
+    {
+      "topic": "Most accurate LV structure imaging",
+      "question": "Which imaging modality likely provides the most accurate assessment of left ventricular structure?",
+      "options": {
+        "A": "Two-dimensional echocardiography",
+        "B": "Cardiac magnetic resonance imaging",
+        "C": "Plain chest radiograph",
+        "D": "Electron beam CT"
+      },
+      "correct": "B",
+      "explanation": "Correct answer B: cardiac magnetic resonance imaging likely provides the most accurate assessment of left ventricular structure because it avoids the geometric shape assumptions that limit echocardiographic mass and volume estimation. Two-dimensional echo is inexpensive and the usual first test but less precise; a plain chest radiograph and electron beam CT do not characterize LV structure as accurately. Three-dimensional echo also helps by avoiding geometric assumptions, but MRI is cited as the most accurate."
+    },
+    {
+      "topic": "Fosinopril in Dialysis Study",
+      "question": "The Fosinopril in Dialysis Study, which randomized 397 hemodialysis patients with LVH to fosinopril versus placebo, showed what result on cardiovascular events over 2 years?",
+      "options": {
+        "A": "A significant reduction in cardiovascular events",
+        "B": "An increase in cardiovascular events",
+        "C": "No benefit on cardiovascular events",
+        "D": "A reduction only in patients with diabetes"
+      },
+      "correct": "C",
+      "explanation": "Correct answer C: the Fosinopril in Dialysis Study (Zannad, 2006) randomized 397 hemodialysis patients with LVH to fosinopril versus placebo and showed no benefit on cardiovascular events over 2 years, not a significant reduction, an increase, or a diabetes-only benefit. It was the largest outcomes trial of renin-angiotensin-aldosterone blockade in dialysis LVH. Other trials have suggested benefit specifically on left ventricular mass, so RAAS inhibition may still aid remodeling even without proven event reduction here."
+    },
+    {
+      "topic": "Frequent hemodialysis and LV mass",
+      "question": "In the Frequent Hemodialysis Network study, patients who received more frequent hemodialysis had:",
+      "options": {
+        "A": "No change in LV mass",
+        "B": "A worsening of LV mass",
+        "C": "Increased LV mass only if anemic",
+        "D": "A significant improvement in LV mass"
+      },
+      "correct": "D",
+      "explanation": "Correct answer D: in the Frequent Hemodialysis Network study, patients receiving more frequent hemodialysis had a significant improvement in left ventricular mass, not no change, worsening, or an anemia-limited effect. Whether the benefit was mediated by better control of blood pressure, volume, phosphorus, or other factors remains uncertain. This supports LVH regression as achievable through intensified dialysis, consistent with post hoc analyses linking regression to lower risk of adverse events."
+    },
+    {
+      "topic": "Vascular calcification location",
+      "question": "Vascular calcification occurs at both the arterial media and intima; which type is generally more pronounced among dialysis patients?",
+      "options": {
+        "A": "Medial calcification",
+        "B": "Intimal calcification",
+        "C": "Adventitial calcification",
+        "D": "Both equally"
+      },
+      "correct": "A",
+      "explanation": "Correct answer A: medial calcification is generally more pronounced than intimal calcification among dialysis patients, and it is not primarily adventitial nor equal between layers. Medial calcification stiffens vessels, raising pulse wave velocity and cardiac afterload and thereby promoting LVH. Mineral and bone disorder drives this through hyperphosphatemia, positive calcium balance, loss of calcification inhibitors, and hormones like FGF23, which is why limiting calcium-containing binders is favored where calcification is documented."
+    },
+    {
+      "topic": "Pulse wave reflection with stiff arteries",
+      "question": "With stiffened arteries and increased pulse wave velocity, the reflected pressure wave returns to the heart during which phase, causing loss of the coronary filling effect?",
+      "options": {
+        "A": "Early diastole",
+        "B": "Late systole",
+        "C": "Isovolumetric relaxation",
+        "D": "Atrial contraction"
+      },
+      "correct": "B",
+      "explanation": "Correct answer B: with stiffened arteries and increased pulse wave velocity, the reflected pressure wave returns during late systole rather than early diastole. Normally it arrives in early diastole to augment coronary filling; arriving early in late systole instead causes loss of that coronary filling effect and adds afterload, as the heart pumps against the reflected wave from the prior contraction. It does not return during isovolumetric relaxation or atrial contraction. This mechanism links vascular stiffness to ischemia and LVH."
+    },
+    {
+      "topic": "Anemia and cardiovascular risk",
+      "question": "Treatment of anemia with recombinant erythropoietin to raise hemoglobin to the normal range may be associated with:",
+      "options": {
+        "A": "Reduced cardiovascular risk",
+        "B": "No effect on outcomes",
+        "C": "Increased cardiovascular risk",
+        "D": "Reduced LV mass"
+      },
+      "correct": "C",
+      "explanation": "Correct answer C: raising hemoglobin to the normal range with recombinant erythropoietin may be associated with increased cardiovascular risk, not reduced risk, no effect, or reduced LV mass. Although observational data show that patients with higher hemoglobin have fewer CVD events, randomized trials targeting normalization did not lower LV mass and signaled harm. Anemia severity correlates with the extent of LVH, but this paradox means hemoglobin should not be pushed to normal levels."
+    },
+    {
+      "topic": "Acute MI outcomes",
+      "question": "US data show what approximate 1-year mortality rate for dialysis patients admitted with acute myocardial infarction?",
+      "options": {
+        "A": "20%",
+        "B": "40%",
+        "C": "80%",
+        "D": "60%"
+      },
+      "correct": "D",
+      "explanation": "Correct answer D: US data show approximately 60% 1-year mortality for dialysis patients admitted with acute MI, along with a 50% higher in-hospital mortality (Herzog, 2007); a Taiwan study showed 30% 1-year mortality after acute coronary syndrome. 20% and 40% understate the 1-year figure and 80% overstates it. These grim outcomes reflect the heavy atherosclerotic and arteriosclerotic burden plus frequent small-vessel disease in ESKD, underscoring aggressive secondary prevention when tolerated."
+    },
+    {
+      "topic": "Small vessel coronary disease",
+      "question": "In one study, up to what proportion of nondiabetic dialysis patients with ischemic symptoms did NOT have significant large caliber coronary artery disease?",
+      "options": {
+        "A": "50%",
+        "B": "25%",
+        "C": "10%",
+        "D": "75%"
+      },
+      "correct": "A",
+      "explanation": "Correct answer A: in one study up to 50% of nondiabetic dialysis patients with ischemic symptoms lacked significant large-caliber coronary artery disease, implicating isolated small vessel disease as a cause of ischemia; 25%, 10%, and 75% are not the figure cited. This is important because a normal or nonobstructive angiogram does not exclude a cardiac cause of symptoms. Arteriosclerosis and vascular stiffness also contribute by raising myocardial oxygen demand and causing subendocardial ischemia."
+    },
+    {
+      "topic": "Stress testing in dialysis",
+      "question": "Because many dialysis patients cannot achieve adequate exercise and have baseline ECG abnormalities, stress testing should use:",
+      "options": {
+        "A": "Exercise treadmill with ECG monitoring alone",
+        "B": "Pharmacologic stress with nuclear or echocardiographic imaging",
+        "C": "Exercise stress with ECG only",
+        "D": "No imaging is needed"
+      },
+      "correct": "B",
+      "explanation": "Correct answer B: pharmacologic stress with nuclear or echocardiographic imaging should be used, because many dialysis patients cannot achieve adequate exercise for a valid test and because baseline ECG abnormalities are common, making exercise treadmill with ECG alone or exercise stress with ECG only unreliable. Imaging is not dispensable. Routine screening is not recommended, and while cardiac catheterization has no absolute contraindication, preserving residual kidney function and avoiding contrast nephropathy remain concerns."
+    },
+    {
+      "topic": "Troponin interpretation",
+      "question": "In kidney failure, chronic minor cardiac biomarker (troponin) elevations should be interpreted how, per American Heart Association guidance?",
+      "options": {
+        "A": "Always classified as acute injury",
+        "B": "Ignored entirely in all settings",
+        "C": "Not classified as injury if chronic; rising/falling levels suggest acute MI",
+        "D": "Considered diagnostic of acute MI regardless of pattern"
+      },
+      "correct": "C",
+      "explanation": "Correct answer C: per AHA guidance, chronic minor troponin elevations in kidney failure should not be classified as injury; instead, rising and/or falling levels in the appropriate clinical setting suggest acute MI (Thygesen, 2012). They are neither always acute injury, ignored entirely, nor diagnostic of MI regardless of pattern. A stable chronic elevation still marks worse prognosis and likely ongoing subclinical ischemia, so serial trending, not a single value, drives the diagnosis of acute infarction."
+    },
+    {
+      "topic": "Beta-blocker dialysis clearance",
+      "question": "Which pair of beta-blockers is extensively cleared with high-flux hemodialysis?",
+      "options": {
+        "A": "Carvedilol and labetalol",
+        "B": "Carvedilol and metoprolol",
+        "C": "Labetalol and atenolol",
+        "D": "Atenolol and metoprolol"
+      },
+      "correct": "D",
+      "explanation": "Correct answer D: atenolol and metoprolol are both extensively cleared with high-flux hemodialysis, whereas carvedilol and labetalol have minimal hemodialytic clearance. So the pairings involving carvedilol or labetalol as dialyzable are incorrect. Atenolol also has extensive kidney clearance and needs dose reduction or a longer interval; non-kidney-metabolized agents such as metoprolol and carvedilol can generally be titrated to heart rate and blood pressure, though metoprolol is still removed by dialysis."
+    },
+    {
+      "topic": "Calcium channel blocker caution",
+      "question": "Which calcium channel blockers, due to negative inotropy and the high prevalence of systolic dysfunction, should be used with particular caution in dialysis patients?",
+      "options": {
+        "A": "Diltiazem and verapamil (nondihydropyridines)",
+        "B": "Amlodipine and nifedipine (dihydropyridines)",
+        "C": "Felodipine and nicardipine",
+        "D": "All calcium channel blockers equally"
+      },
+      "correct": "A",
+      "explanation": "Correct answer A: the nondihydropyridines diltiazem and verapamil should be used with particular caution because of their negative inotropy and the high prevalence of systolic dysfunction in dialysis patients. The dihydropyridines (amlodipine, nifedipine, felodipine, nicardipine) have less negative inotropic effect, so the caution is not equal across all calcium channel blockers. These agents remain useful when beta-blockade is contraindicated or inadequate, but the nondihydropyridine subgroup carries the greatest concern in a failing heart."
+    },
+    {
+      "topic": "Chest pain during hemodialysis",
+      "question": "For a patient with anginal chest pain during hemodialysis associated with hypotension, initial treatment should include:",
+      "options": {
+        "A": "Immediately giving sublingual nitroglycerin",
+        "B": "Raising blood pressure by elevating the feet and cautiously giving saline",
+        "C": "Increasing the ultrafiltration rate",
+        "D": "Increasing the blood flow rate"
+      },
+      "correct": "B",
+      "explanation": "Correct answer B: when angina during hemodialysis is associated with hypotension, initial treatment raises blood pressure by elevating the feet and cautiously administering saline; sublingual nitroglycerin follows only once blood pressure reaches an acceptable value. Giving nitroglycerin first could deepen hypotension, and increasing the ultrafiltration rate or blood flow rate would worsen the ischemia. Nasal oxygen may help, and the blood flow rate should be reduced with ultrafiltration stopped until the episode subsides."
+    },
+    {
+      "topic": "Predialysis nitroglycerin ointment",
+      "question": "Predialysis 2% nitroglycerin ointment may benefit angina when applied approximately how long before a hemodialysis session?",
+      "options": {
+        "A": "5 minutes prior",
+        "B": "30 minutes prior",
+        "C": "1 hour prior",
+        "D": "4 hours prior"
+      },
+      "correct": "C",
+      "explanation": "Correct answer C: predialysis 2% nitroglycerin ointment may benefit angina when applied about 1 hour before a hemodialysis session, assuming blood pressure will tolerate it; 5 minutes, 30 minutes, and 4 hours are not the interval given. Predialysis beta-blockers and oral nitrates may also help but must be used cautiously because they increase the risk of intradialytic hypotension. Cooling the dialysate is another option to preserve cardiac perfusion in patients prone to intradialytic hypotension."
+    },
+    {
+      "topic": "Revascularization approach",
+      "question": "For a dialysis patient who is not a transplant candidate or is at higher perioperative risk, with anatomy permitting and persistent symptoms, which revascularization approach is likely better?",
+      "options": {
+        "A": "Coronary artery bypass graft (CABG)",
+        "B": "Thrombolysis alone",
+        "C": "Medical management only",
+        "D": "Percutaneous coronary intervention (PCI)"
+      },
+      "correct": "D",
+      "explanation": "Correct answer D: for a dialysis patient who is not a transplant candidate or is at higher perioperative risk, PCI is likely the better revascularization approach when anatomy permits and symptoms persist despite medical therapy, given the high periprocedural risk of CABG. Thrombolysis alone and medical management only are not the preferred revascularization strategies here. As in the general population, CABG trades greater short-term risk for longer-term benefit, so the choice must be individualized."
+    },
+    {
+      "topic": "Stent type determination",
+      "question": "A key determination for whether to use a drug eluting versus bare metal stent in a dialysis patient is:",
+      "options": {
+        "A": "Whether the patient can safely use clopidogrel for 1 year or more",
+        "B": "The patient's serum phosphorus level",
+        "C": "The type of dialysis access",
+        "D": "The presence of LVH"
+      },
+      "correct": "A",
+      "explanation": "Correct answer A: a key determination for drug-eluting versus bare-metal stenting is whether the patient can safely take clopidogrel for 1 year or more; if so, many interventionalists choose a drug-eluting stent based on general-population and early-CKD data. Serum phosphorus, dialysis access type, and LVH are not the deciding factors. Data are actually insufficient to favor drug-eluting over bare-metal stents in dialysis, so the duration of tolerable dual antiplatelet therapy becomes the practical driver."
+    },
+    {
+      "topic": "Echocardiogram frequency in heart failure",
+      "question": "KDOQI guidelines recommend obtaining echocardiograms at dialysis initiation (after dry weight is established) and thereafter at what interval?",
+      "options": {
+        "A": "Every 6 months",
+        "B": "Every 3 years",
+        "C": "Every year",
+        "D": "Every 5 years"
+      },
+      "correct": "B",
+      "explanation": "Correct answer B: KDOQI recommends obtaining echocardiograms at dialysis initiation, after dry weight is established, and every 3 years thereafter; these are opinion-based recommendations. The interval is not every 6 months, every year, or every 5 years. Timing after dry weight is established matters because volume status distorts chamber and function measurements. Echocardiography is central to diagnosing systolic and diastolic dysfunction and may reveal wall-motion abnormalities, LVH, or valvular disease pointing to the cause."
+    },
+    {
+      "topic": "ACE inhibitors vs ARBs dialyzability",
+      "question": "Regarding dialysis clearance of renin-angiotensin agents used in heart failure:",
+      "options": {
+        "A": "Most ARBs are cleared while ACE inhibitors are not",
+        "B": "Both are extensively dialyzable",
+        "C": "Most ACE inhibitors are cleared during dialysis while ARBs are not dialyzable",
+        "D": "Neither is dialyzable"
+      },
+      "correct": "C",
+      "explanation": "Correct answer C: most ACE inhibitors are cleared during dialysis, whereas ARBs are not dialyzable, so the statements reversing this or claiming both or neither are dialyzable are wrong. This matters for timing doses around sessions to maintain effect. Both classes can benefit heart failure but share the limitations of hypotension and hyperkalemia; if an ACE inhibitor is contraindicated it is reasonable to substitute an ARB, extrapolating from general-population data since dedicated dialysis trials are limited."
+    },
+    {
+      "topic": "Carvedilol in heart failure",
+      "question": "In an Italian study (Cice, 2003), carvedilol in dialysis patients with left ventricular dysfunction resulted in:",
+      "options": {
+        "A": "Increased mortality",
+        "B": "No effect on mortality",
+        "C": "Reduced LV mass but higher mortality",
+        "D": "Reduced mortality"
+      },
+      "correct": "D",
+      "explanation": "Correct answer D: in the Italian study by Cice (2003), carvedilol reduced mortality in dialysis patients with left ventricular dysfunction, rather than increasing it, having no effect, or reducing LV mass at the cost of higher mortality. Carvedilol dosing is the same as in the general population. Being non-kidney-metabolized with minimal hemodialytic clearance, it can be safely titrated to heart rate and blood pressure, making it a favored beta-blocker for heart failure in this population."
+    },
+    {
+      "topic": "Aldosterone antagonists concern",
+      "question": "The main theoretical concern with using aldosterone blocking agents such as spironolactone in dialysis patients, especially with ACE inhibitors or ARBs, is:",
+      "options": {
+        "A": "Increased risk of hyperkalemia",
+        "B": "Increased risk of hypokalemia",
+        "C": "Hepatotoxicity",
+        "D": "QT prolongation"
+      },
+      "correct": "A",
+      "explanation": "Correct answer A: the main theoretical concern with aldosterone-blocking agents such as spironolactone or eplerenone is an increased risk of hyperkalemia, especially when combined with ACE inhibitors or ARBs, not hypokalemia, hepatotoxicity, or QT prolongation. Despite little residual kidney function, potassium can still accumulate. These agents are beneficial in general-population heart failure and could help via effects on arterial stiffness and remodeling, but only one small trial (Matsumoto, 2014) suggested benefit and safety is not established."
+    },
+    {
+      "topic": "Digoxin dosing in dialysis",
+      "question": "When digoxin is used in dialysis patients, maintenance dosing should begin at low doses of:",
+      "options": {
+        "A": "0.25 mg daily",
+        "B": "0.0625 mg or 0.125 mg every other day",
+        "C": "0.5 mg every other day",
+        "D": "0.125 mg twice daily"
+      },
+      "correct": "B",
+      "explanation": "Correct answer B: digoxin maintenance dosing in dialysis should begin at low doses of 0.0625 mg or 0.125 mg every other day, not 0.25 mg daily, 0.5 mg every other day, or 0.125 mg twice daily, and a loading dose generally should not be used. Many other medications affect digoxin levels, so complex regimens demand care. Because hypokalemia potentiates toxicity, patients are generally kept on a 3 mEq/L potassium bath with attention to minimizing electrolyte shifts."
+    },
+    {
+      "topic": "Branham's sign",
+      "question": "Bradycardia occurring during occlusion of an AV fistula or graft by finger pressure, suggesting the shunt is pathologically increasing cardiac output, is known as:",
+      "options": {
+        "A": "Kussmaul's sign",
+        "B": "Pulsus paradoxus",
+        "C": "Branham's sign",
+        "D": "Ewart's sign"
+      },
+      "correct": "C",
+      "explanation": "Correct answer C: bradycardia provoked by occluding an AV fistula or graft with finger pressure is Branham's sign, indicating the shunt is pathologically increasing cardiac output; it is not Kussmaul's sign, pulsus paradoxus, or Ewart's sign. The test is specific, but a negative result does not exonerate the AV communication as a cause of heart failure. High-output states are more common with upper-arm high-flow fistulas, and flow-reduction procedures can address them while preserving patency."
+    },
+    {
+      "topic": "L-carnitine dosing",
+      "question": "The recommended intravenous dose of L-carnitine, given following the dialysis procedure, is:",
+      "options": {
+        "A": "5 mg/kg",
+        "B": "10 mg/kg",
+        "C": "50 mg/kg",
+        "D": "20 mg/kg of total body weight"
+      },
+      "correct": "D",
+      "explanation": "Correct answer D: the recommended intravenous L-carnitine dose is 20 mg/kg of total body weight, given after the dialysis procedure, not 5, 10, or 50 mg/kg. Evidence is largely anecdotal, with suggested uses including anemia requiring very high erythropoietin doses, intradialytic hypotension, muscle weakness, and symptomatic cardiomyopathy with impaired ejection fraction unresponsive to standard therapy. Despite these proposed indications, there are no strong data supporting routine L-carnitine use in dialysis."
+    },
+    {
+      "topic": "Uremic pericarditis timing",
+      "question": "Uremic pericarditis describes patients who develop clinical manifestations of pericarditis:",
+      "options": {
+        "A": "Prior to or within 8 weeks of initiation of kidney replacement therapy",
+        "B": "More than 6 months after starting dialysis",
+        "C": "Only during the first dialysis session",
+        "D": "After kidney transplantation"
+      },
+      "correct": "A",
+      "explanation": "Correct answer A: uremic pericarditis describes patients who develop pericarditis before or within 8 weeks of initiating kidney replacement therapy, not months after starting dialysis, only during the first session, or after transplantation. It is now rare but responds extremely well to initiation or intensification of dialysis. This contrasts with dialysis-associated pericarditis, which arises after a patient is stabilized on dialysis and often does not resolve with intensified dialysis, implying additional causes."
+    },
+    {
+      "topic": "Surgical drainage threshold",
+      "question": "Surgical drainage by subxiphoid pericardiostomy should be strongly considered when the pericardial effusion size, estimated by echocardiography, exceeds:",
+      "options": {
+        "A": "100 mL",
+        "B": "250 mL (posterior echo-free space larger than 1 cm)",
+        "C": "500 mL",
+        "D": "1,000 mL"
+      },
+      "correct": "B",
+      "explanation": "Correct answer B: surgical drainage by subxiphoid pericardiostomy should be strongly considered when the effusion exceeds 250 mL, corresponding to a posterior echo-free space larger than 1 cm, even without hemodynamic compromise, and is mandatory once overt tamponade appears. 100 mL effusions are small and common, needing no intervention, while 500 and 1,000 mL are not the stated action threshold. Because tamponade can be rapid and without warning, regular echocardiographic monitoring of effusion size is vital."
+    },
+    {
+      "topic": "Endocarditis organisms",
+      "question": "The majority of cases of infective endocarditis in dialysis patients are due to which type of organisms?",
+      "options": {
+        "A": "Gram-negative bacilli",
+        "B": "Fungi",
+        "C": "Gram-positive organisms (S. aureus, S. epidermidis, Enterococcus)",
+        "D": "Anaerobes"
+      },
+      "correct": "C",
+      "explanation": "Correct answer C: the majority of infective endocarditis cases in dialysis patients are due to gram-positive organisms, chiefly S. aureus, S. epidermidis, and Enterococcus, rather than gram-negative bacilli, fungi, or anaerobes. Venous catheters, buttonhole cannulation of fistulas, cardiovascular implantable devices, and underlying valvular calcification all raise risk. Because staphylococcal bacteremia so often seeds valves, gram-positive bacteremia in a dialysis patient is treated as presumed endocarditis with prolonged antimicrobial therapy."
+    },
+    {
+      "topic": "MRSA empiric therapy",
+      "question": "For a dialysis patient with fever and a dialysis catheter, empiric endocarditis therapy is generally initiated with which agent, given the high incidence of MRSA?",
+      "options": {
+        "A": "Nafcillin",
+        "B": "Cefazolin",
+        "C": "Gentamicin",
+        "D": "Vancomycin"
+      },
+      "correct": "D",
+      "explanation": "Correct answer D: empiric endocarditis therapy in a dialysis patient with fever and a catheter is generally started with vancomycin, because of the high incidence of MRSA and its ease of administration, rather than nafcillin, cefazolin, or gentamicin as the initial single agent. Some add empiric gram-negative coverage with an aminoglycoside or third-generation cephalosporin. Once methicillin-sensitive S. aureus is confirmed, antistaphylococcal penicillins like nafcillin or first-generation cephalosporins like cefazolin are preferred."
+    },
+    {
+      "topic": "Mitral annular calcification",
+      "question": "Mitral annular calcification may occur in as many as what percentage of dialysis patients?",
+      "options": {
+        "A": "50%",
+        "B": "25%",
+        "C": "10%",
+        "D": "90%"
+      },
+      "correct": "A",
+      "explanation": "Correct answer A: mitral annular calcification may occur in as many as 50% of dialysis patients, not 25%, 10%, or 90%, and is also common in the elderly general population. On echocardiography it appears as a uniform echodense rigid band near the base of the posterior mitral leaflet. Complications include conduction abnormalities, embolic events, mitral valve disease, and an increased risk of endocarditis, and there are no proven strategies to prevent or treat it."
+    },
+    {
+      "topic": "Sudden cardiac death rates",
+      "question": "The rate of sudden cardiac death in the hemodialysis population is approximately:",
+      "options": {
+        "A": "36 per 1,000 patient years",
+        "B": "49 per 1,000 patient years",
+        "C": "10 per 1,000 patient years",
+        "D": "100 per 1,000 patient years"
+      },
+      "correct": "B",
+      "explanation": "Correct answer B: sudden cardiac death occurs at about 49 per 1,000 patient-years in the hemodialysis population and 36 per 1,000 patient-years among PD patients, so 49 is correct while 36, 10, and 100 do not match the hemodialysis figure. Cardiac arrest and arrhythmia account for roughly 25% of all deaths, with only 32% 30-day and 15% 1-year survival after arrest. Risk rises with dialysate potassium below 3 mEq/L (avoid below 2), low dialysate calcium, and the long interdialytic interval."
+    },
+    {
+      "topic": "Cardiac arrest as cause of death",
+      "question": "According to the 2013 USRDS, cardiac arrest and arrhythmia account for approximately what proportion of all deaths in dialysis patients?",
+      "options": {
+        "A": "5%",
+        "B": "10%",
+        "C": "25%",
+        "D": "50%"
+      },
+      "correct": "C",
+      "explanation": "Correct answer C: according to the 2013 USRDS, cardiac arrest and arrhythmia account for approximately 25% of all deaths in dialysis patients, not 5%, 10%, or 50%. Contributors include highly prevalent LVH, chamber enlargement, valve abnormalities, and ischemic heart disease, compounded by rapid intradialytic shifts in potassium, calcium, hydrogen, and magnesium. Careful attention to fluid and electrolyte shifts, avoiding very low potassium or calcium dialysate, may reduce this substantial arrhythmic mortality."
+    }
+  ]
+}

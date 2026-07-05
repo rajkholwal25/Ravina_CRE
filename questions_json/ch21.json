@@ -1,0 +1,665 @@
+{
+ "chapter": 21,
+ "questions": [
+  {
+   "topic": "PD basics",
+   "question": "During a peritoneal dialysis dwell, which three transport processes occur simultaneously?",
+   "options": {
+    "A": "Diffusion, ultrafiltration, and absorption",
+    "B": "Convection, secretion, and reabsorption",
+    "C": "Osmosis, filtration, and adsorption",
+    "D": "Diffusion, hemofiltration, and dialysance"
+   },
+   "correct": "A",
+   "explanation": "The correct answer is diffusion, ultrafiltration, and fluid absorption; the chapter states these three transport processes occur simultaneously during every dwell. Convection, secretion, reabsorption and dialysance are hemodialysis or renal-tubular terms, and osmosis/adsorption are mislabels. Diffusion moves uremic solutes down concentration gradients, ultrafiltration removes water driven by the glucose osmotic gradient, and lymphatic absorption returns fluid to the body, reducing net clearance. Recognizing all three explains why both solute and fluid removal fall off as a dwell lengthens."
+  },
+  {
+   "topic": "Compartments",
+   "question": "The peritoneal membrane separates blood in the peritoneal capillaries from which compartment?",
+   "options": {
+    "A": "The subcutaneous abdominal tissue",
+    "B": "The dialysis solution in the peritoneal cavity",
+    "C": "The portal venous circulation",
+    "D": "The interstitial lymphatic space"
+   },
+   "correct": "B",
+   "explanation": "PD moves solutes and water across a membrane separating two fluid compartments: peritoneal capillary blood, which in renal failure holds excess urea, creatinine and potassium, and the dialysis solution instilled into the peritoneal cavity, the correct answer B. It is not subcutaneous tissue, the portal circulation, or an interstitial lymphatic space, though the interstitium does lie within the resistance path. The dialysate carries sodium, chloride and lactate or bicarbonate and is made hyperosmolar with glucose, setting up the gradients that drive exchange during the dwell."
+  },
+  {
+   "topic": "Osmotic agent",
+   "question": "Standard peritoneal dialysis solution is rendered hyperosmolar mainly by inclusion of a high concentration of which agent?",
+   "options": {
+    "A": "Sodium chloride",
+    "B": "Bicarbonate",
+    "C": "Glucose",
+    "D": "Lactate"
+   },
+   "correct": "C",
+   "explanation": "Glucose is correct; the dialysis solution is rendered hyperosmolar by a high glucose concentration, creating the osmotic gradient that drives ultrafiltration. Sodium chloride, bicarbonate and lactate are present but serve as electrolytes or buffers, not the primary osmotic drive. Glucose is actually an imperfect osmotic agent with a very low reflection coefficient (~0.03), so its gradient dissipates as glucose diffuses into blood; this is why hypertonic 4.25% or short dwells are used to sustain fluid removal and why alternatives such as icodextrin were developed."
+  },
+  {
+   "topic": "Peritoneal surface area",
+   "question": "The peritoneal surface area is similar to body surface area and typically ranges in an adult from about:",
+   "options": {
+    "A": "0.2 to 0.5 m2",
+    "B": "3 to 4 m2",
+    "C": "5 to 6 m2",
+    "D": "1 to 2 m2"
+   },
+   "correct": "D",
+   "explanation": "The peritoneum has a surface area similar to body surface area, typically 1 to 2 m2 in an adult, so D is correct; 0.2-0.5, 3-4 and 5-6 m2 are too small or too large. Importantly, anatomic surface area correlates poorly with transport. The distributed model shows that effective surface area, set by peritoneal vascularity and capillary distance from the mesothelium, matters more, which is why two patients with identical anatomic area can display very different transport rates and D/P equilibration ratios."
+  },
+  {
+   "topic": "Visceral peritoneum",
+   "question": "The visceral peritoneum accounts for approximately what proportion of total peritoneal surface area?",
+   "options": {
+    "A": "About 80%",
+    "B": "About 50%",
+    "C": "About 20%",
+    "D": "About 95%"
+   },
+   "correct": "A",
+   "explanation": "The visceral peritoneum, lining the gut and other viscera, accounts for about 80% of total peritoneal surface area, so A is correct; 20%, 50% and 95% are wrong. Despite its large share, the parietal peritoneum (roughly the remaining 20%, lining the abdominal walls) may be more important in peritoneal dialysis. Their blood drainage differs: the visceral peritoneum drains via the portal system, while the parietal drains into the inferior vena cava, a distinction relevant to how absorbed solutes and drugs are handled."
+  },
+  {
+   "topic": "Visceral blood supply",
+   "question": "The visceral peritoneum receives its blood supply mainly from which artery, draining venously via the portal system?",
+   "options": {
+    "A": "The epigastric artery",
+    "B": "The superior mesenteric artery",
+    "C": "The lumbar artery",
+    "D": "The internal iliac artery"
+   },
+   "correct": "B",
+   "explanation": "The visceral peritoneum receives blood from the superior mesenteric artery and drains venously through the portal system, making B correct. The epigastric, lumbar and intercostal arteries instead supply the parietal peritoneum, which drains into the inferior vena cava; the internal iliac is not cited. Total peritoneal blood flow is only an estimated 50-100 mL/min, but this already exceeds what diffusion requires, so blood flow is rarely the limiting step in peritoneal transport, unlike the situation in hemodialysis."
+  },
+  {
+   "topic": "Parietal peritoneum",
+   "question": "The parietal peritoneum, possibly more important in peritoneal dialysis, drains venously into which vessel?",
+   "options": {
+    "A": "The portal vein",
+    "B": "The superior mesenteric vein",
+    "C": "The inferior vena cava",
+    "D": "The azygos vein"
+   },
+   "correct": "C",
+   "explanation": "The parietal peritoneum is supplied by the lumbar, intercostal and epigastric arteries and drains into the inferior vena cava, so C is correct; the portal vein and superior mesenteric vein drain the visceral peritoneum, and the azygos is not mentioned. Though it makes up only about 20% of surface area, the parietal peritoneum may be more important in peritoneal dialysis. Fluid is also absorbed across it into the abdominal wall tissues and then local lymphatics, contributing to the absorption that lowers net fluid removal."
+  },
+  {
+   "topic": "Peritoneal blood flow",
+   "question": "Total peritoneal blood flow cannot be directly measured but is estimated to range from about:",
+   "options": {
+    "A": "10 to 25 mL/min",
+    "B": "200 to 300 mL/min",
+    "C": "400 to 600 mL/min",
+    "D": "50 to 100 mL/min"
+   },
+   "correct": "D",
+   "explanation": "Total peritoneal blood flow cannot be measured directly but is estimated at 50 to 100 mL/min, making D correct; 10-25, 200-300 and 400-600 mL/min all fall outside this range. This flow already far exceeds MTAC values even for the smallest solutes, so, unlike hemodialysis, peritoneal diffusion depends not on blood flow but on dialysate flow rate. It is also why vasoactive agents help by recruiting capillaries and enlarging effective surface area rather than simply by increasing peritoneal blood flow."
+  },
+  {
+   "topic": "Lymphatic drainage",
+   "question": "The main lymphatic drainage of the peritoneal cavity occurs via stomata located in which structure?",
+   "options": {
+    "A": "The diaphragmatic peritoneum",
+    "B": "The visceral mesothelium",
+    "C": "The mesenteric root",
+    "D": "The parietal abdominal wall"
+   },
+   "correct": "A",
+   "explanation": "Main lymphatic drainage of the peritoneum and peritoneal cavity is via stomata in the diaphragmatic peritoneum, draining through large collecting ducts into the right lymphatic duct, so A is correct. The visceral mesothelium, mesenteric root and parietal wall are not the principal stomatal sites, though additional lymphatics do exist in visceral and parietal peritoneum. This lymphatic absorption removes fluid at about 1-2 mL/min at a fairly constant rate with little sieving, reducing the efficiency of both solute and fluid removal in PD."
+  },
+  {
+   "topic": "Membrane histology",
+   "question": "The peritoneal membrane is lined by a monolayer of which cell type, bearing microvillae that make lubricating fluid?",
+   "options": {
+    "A": "Endothelial cells",
+    "B": "Mesothelial cells",
+    "C": "Fibroblasts",
+    "D": "Podocytes"
+   },
+   "correct": "B",
+   "explanation": "The peritoneal membrane is lined by a monolayer of mesothelial cells bearing microvillae that produce a thin lubricating film, so B is correct. Endothelial cells line the capillaries beneath, not the peritoneal surface; fibroblasts and podocytes are not the lining cells. Although the mesothelium is part of the transport path, it, together with the two stagnant fluid films, is thought to offer only trivial resistance, so the capillary endothelium and interstitium are the real barriers governing solute and water movement."
+  },
+  {
+   "topic": "Interstitium",
+   "question": "The interstitium beneath the mesothelium is a gel-like matrix containing collagenous fibers, some lymphatics, and:",
+   "options": {
+    "A": "Renal tubular cells",
+    "B": "Aquaporin channels only",
+    "C": "The peritoneal capillaries",
+    "D": "Adipose lobules exclusively"
+   },
+   "correct": "C",
+   "explanation": "The interstitium beneath the mesothelium is a gel-like matrix of collagenous and other fibers that contains the peritoneal capillaries and some lymphatics, so C is correct. It holds no renal tubular cells or podocytes, is not defined solely by aquaporins (those are ultrapores in the capillary endothelium), and is not purely adipose. In the distributed model the interstitium is pivotal because the distance solutes and water must travel from each capillary across it to the mesothelium helps determine effective surface area."
+  },
+  {
+   "topic": "Regions of resistance",
+   "question": "How many regions of resistance to solute and water movement exist across the peritoneum from capillary blood to peritoneal fluid?",
+   "options": {
+    "A": "Three",
+    "B": "Four",
+    "C": "Eight",
+    "D": "Six"
+   },
+   "correct": "D",
+   "explanation": "Six regions of resistance run from capillary blood to peritoneal fluid: the stagnant capillary fluid film, the capillary endothelium, the endothelial basement membrane, the interstitium, the mesothelium, and the stagnant film over the mesothelium, so D is correct. Three, four and eight are wrong counts. Of these six, the two stagnant films and the mesothelial cell contribute only trivial resistance, meaning the capillary endothelium, its basement membrane and the interstitium are the meaningful barriers to transport."
+  },
+  {
+   "topic": "Trivial resistance",
+   "question": "Which structures are thought to offer only trivial resistance to peritoneal transport?",
+   "options": {
+    "A": "The two stagnant fluid films and the mesothelial cell",
+    "B": "The capillary endothelium and its basement membrane",
+    "C": "The interstitium and the endothelium",
+    "D": "The large pores and small pores"
+   },
+   "correct": "A",
+   "explanation": "The two stagnant fluid films and the mesothelial cell are thought to offer only trivial resistance to peritoneal transport, so A is correct. By contrast, the capillary endothelium, its basement membrane and the interstitium provide the real resistance, so options naming those are wrong. Large and small pores are structural features of the endothelium, not resistance layers as such. This is precisely why both major models, the three-pore and the distributed model, focus on the peritoneal capillary and interstitium rather than the mesothelial surface."
+  },
+  {
+   "topic": "Transport models",
+   "question": "Which two complementary models of peritoneal transport are emphasized?",
+   "options": {
+    "A": "The single-pool and two-pool models",
+    "B": "The three-pore model and the distributed model",
+    "C": "The convective and diffusive models",
+    "D": "The Kt/V and MTAC models"
+   },
+   "correct": "B",
+   "explanation": "The two complementary, not mutually exclusive, models are the three-pore model and the distributed model, so B is correct. Single-pool/two-pool and Kt/V are hemodialysis kinetic concepts; convective and diffusive describe processes, not membrane models. The three-pore model treats the peritoneal capillary as the critical barrier with pores of three sizes, while the distributed model emphasizes capillary distribution and distance from the mesothelium. Together they explain why vascularity and the interstitium, more than raw surface area, govern a patient's transport."
+  },
+  {
+   "topic": "Three-pore model",
+   "question": "According to the three-pore model, which structure is the critical barrier to peritoneal transport?",
+   "options": {
+    "A": "The mesothelial monolayer",
+    "B": "The interstitial matrix",
+    "C": "The peritoneal capillary",
+    "D": "The stagnant fluid film"
+   },
+   "correct": "C",
+   "explanation": "The three-pore model holds that the peritoneal capillary is the critical barrier to transport, so C is correct; the mesothelium, interstitial matrix and stagnant film contribute comparatively little resistance. Transport across the capillary depends on three pore sizes: large pores (20-40 nm) carrying macromolecules by convection, small pores (4-6 nm) carrying small solutes with water, and ultrapores (<0.8 nm, aquaporins) carrying water only. This well-validated model explains sieving and why aquaporins carry about half of ultrafiltration as solute-free water."
+  },
+  {
+   "topic": "Large pores",
+   "question": "In the three-pore model, large pores (radius 20-40 nm) transport macromolecules such as protein primarily by:",
+   "options": {
+    "A": "Osmosis",
+    "B": "Diffusion",
+    "C": "Active transport",
+    "D": "Convection"
+   },
+   "correct": "D",
+   "explanation": "Large pores, radius 20-40 nm, are large clefts in the endothelium through which macromolecules such as protein are transported by convection, so D is correct. Diffusion drives small-solute movement through small pores, osmosis drives water through ultrapores, and active transport is not a peritoneal mechanism. Because protein crosses these few large pores by bulk convective flow, obligatory dialysate protein losses of 5-10 g/day occur, and they rise sharply in peritonitis when vascularity and effective surface area increase."
+  },
+  {
+   "topic": "Small pores",
+   "question": "Small pores in the three-pore model have a radius of approximately:",
+   "options": {
+    "A": "4 to 6 nm",
+    "B": "0.4 to 0.8 nm",
+    "C": "20 to 40 nm",
+    "D": "60 to 80 nm"
+   },
+   "correct": "A",
+   "explanation": "Small pores have a radius of about 4 to 6 nm and likely represent smaller clefts between endothelial cells, so A is correct. The 0.4-0.8 nm range describes ultrapores (aquaporins), 20-40 nm describes large pores, and 60-80 nm is not a defined size. Small pores are the workhorse for small solutes such as urea, creatinine, sodium and potassium moving with water, and about half of ultrafiltration passes through them carrying solute at near-plasma concentration with little sieving, in contrast to the solute-free water crossing ultrapores."
+  },
+  {
+   "topic": "Small pores",
+   "question": "The density of small pores mainly affects transport of which solutes?",
+   "options": {
+    "A": "Only water",
+    "B": "Small solutes such as urea, creatinine, sodium, and potassium",
+    "C": "Only large proteins such as albumin",
+    "D": "Only lactate and bicarbonate"
+   },
+   "correct": "B",
+   "explanation": "Small-pore density chiefly affects transport of small solutes, specifically urea, creatinine, sodium and potassium, in association with water, so B is correct. Water alone crosses through ultrapores (aquaporins), and large proteins such as albumin cross through large pores by convection, so those options are wrong; lactate and bicarbonate diffuse but are not what small-pore density is highlighted for. About half of ultrafiltration passes through these small endothelial clefts, where sieving is largely absent and solute concentration approximates that of plasma."
+  },
+  {
+   "topic": "Ultrapores",
+   "question": "Ultrapores (radius <0.8 nm) are thought to correspond to which structures?",
+   "options": {
+    "A": "Interendothelial clefts",
+    "B": "Mesothelial microvillae",
+    "C": "Aquaporins in the endothelial cell membrane",
+    "D": "Lymphatic stomata"
+   },
+   "correct": "C",
+   "explanation": "Ultrapores, radius under 0.8 nm, are thought to be aquaporins in the endothelial cell membrane and transport water only, so C is correct. Interendothelial clefts correspond to small and large pores, not ultrapores; mesothelial microvillae and lymphatic stomata are unrelated structures. Because ultrapores carry solute-free water, they are responsible for the sieving seen with the peritoneal membrane, and about half of total ultrafiltration flows through them, which is the mechanistic basis of sodium sieving during a dwell."
+  },
+  {
+   "topic": "Protein losses",
+   "question": "Obligatory dialysate protein losses in peritoneal dialysis typically average about:",
+   "options": {
+    "A": "1 to 2 g daily",
+    "B": "20 to 30 g daily",
+    "C": "40 to 50 g daily",
+    "D": "5 to 10 g daily"
+   },
+   "correct": "D",
+   "explanation": "Obligatory dialysate protein losses average 5 to 10 g daily, about half of it albumin, so D is correct; 1-2, 20-30 and 40-50 g are outside the stated range. These losses probably explain the slightly lower serum albumin seen in PD versus hemodialysis patients, and they are greatest in high transporters. Protein escapes through the small number of large pores by convection, and losses rise markedly during peritonitis owing to increased vascularity, an effect mediated in part by prostaglandins."
+  },
+  {
+   "topic": "Distributed model",
+   "question": "The distributed model holds that transport depends primarily on which of the following rather than total peritoneal surface area?",
+   "options": {
+    "A": "The surface area of the peritoneal capillaries and their distance from the mesothelium",
+    "B": "The thickness of the mesothelium",
+    "C": "The lymphatic flow rate",
+    "D": "The dwell volume alone"
+   },
+   "correct": "A",
+   "explanation": "The distributed model emphasizes the surface area of the peritoneal capillaries and each capillary's distance from the mesothelium, rather than total anatomic peritoneal surface area, so A is correct. Mesothelial thickness, lymphatic flow rate and dwell volume alone are not its core determinants. The cumulative contribution of all capillaries defines effective surface area, explaining why two patients with identical anatomic area but different vascularity transport very differently, and why vascularity outweighs surface area in setting transport characteristics."
+  },
+  {
+   "topic": "Effective surface area",
+   "question": "'Effective peritoneal surface area' refers to the peritoneal surface that is:",
+   "options": {
+    "A": "Lined by mesothelium",
+    "B": "Sufficiently close to peritoneal capillaries to play a role in transport",
+    "C": "Equal to total body surface area",
+    "D": "Occupied by lymphatic stomata"
+   },
+   "correct": "B",
+   "explanation": "Effective peritoneal surface area is the portion of the peritoneal surface sufficiently close to the peritoneal capillaries to play a role in transport, so B is correct. It is not defined simply by being lined with mesothelium, by equaling body surface area, or by lymphatic stomata. Because it depends on vascularity and capillary-to-mesothelium distance, it can differ greatly between patients with the same anatomic area and can change within a patient, rising for example in peritonitis when inflammation increases vascularity."
+  },
+  {
+   "topic": "Effective surface area",
+   "question": "Effective peritoneal surface area may increase notably in which circumstance?",
+   "options": {
+    "A": "Volume depletion",
+    "B": "Use of icodextrin",
+    "C": "Peritonitis, when inflammation increases vascularity",
+    "D": "Hypoalbuminemia"
+   },
+   "correct": "C",
+   "explanation": "Effective peritoneal surface area rises notably in peritonitis, when inflammation increases peritoneal vascularity, so C is correct. Volume depletion, icodextrin use and hypoalbuminemia do not recruit capillaries this way; hypoalbuminemia instead raises ultrafiltration by lowering oncotic pressure. Vasoactive agents produce a similar capillary-recruiting effect. The increased vascularity in peritonitis boosts diffusion and markedly increases protein losses for several days, an effect mediated in part by prostaglandins, transiently altering a patient's transport status."
+  },
+  {
+   "topic": "Peritoneal clearance",
+   "question": "Stated simply, peritoneal clearance for a solute equals the drain volume multiplied by:",
+   "options": {
+    "A": "The dwell time",
+    "B": "The reflection coefficient",
+    "C": "The MTAC",
+    "D": "The D/P ratio for that solute"
+   },
+   "correct": "D",
+   "explanation": "Stated simply, peritoneal clearance for a solute equals the drain volume multiplied by the D/P ratio for that solute, so D is correct. Dwell time, reflection coefficient and MTAC are not the direct multipliers in this bedside formula, though MTAC underlies diffusive clearance conceptually. More fully, clearance equals daily drain volume times dialysate concentration divided by plasma concentration. Clearance is measured per day but expressed per week, with urea normalized to total body water and creatinine to 1.73 m2 body surface area."
+  },
+  {
+   "topic": "Diffusion direction",
+   "question": "During a dwell, glucose and lactate present in the dialysate diffuse in which direction?",
+   "options": {
+    "A": "From dialysate into the peritoneal capillary blood",
+    "B": "From blood into the dialysate",
+    "C": "Into the lymphatic stomata only",
+    "D": "They do not diffuse at all"
+   },
+   "correct": "A",
+   "explanation": "Uremic solutes and potassium diffuse from blood into the dialysate, whereas glucose and lactate (or bicarbonate) diffuse in the opposite direction, from dialysate into the peritoneal capillary blood, so A is correct. They do diffuse, so D is wrong, and movement is not confined to lymphatic stomata. This bidirectional diffusion is why the dialysate glucose gradient dissipates over a dwell as glucose is absorbed into blood, progressively weakening the osmotic drive for ultrafiltration and eventually allowing net fluid gain."
+  },
+  {
+   "topic": "Concentration gradient",
+   "question": "For urea, the diffusion concentration gradient is maximal at which point?",
+   "options": {
+    "A": "Midway through the dwell",
+    "B": "At the start of the dwell, when dialysate concentration is zero",
+    "C": "At the end of the dwell",
+    "D": "Only after lymphatic absorption begins"
+   },
+   "correct": "B",
+   "explanation": "For urea the diffusion concentration gradient is maximal at the start of the dwell, when dialysate urea concentration is zero, so B is correct; it declines steadily thereafter, not midway or only at the end, and it does not depend on lymphatic absorption. Because the gradient falls with time, more frequent exchanges (as in APD) or larger dwell volumes are used to keep the gradient higher for longer, thereby maximizing diffusive clearance of urea and other small solutes across the dwell."
+  },
+  {
+   "topic": "Fill volume limit",
+   "question": "Recruiting more membrane with larger fill volumes to increase effective surface area is limited in most individuals once volumes reach about:",
+   "options": {
+    "A": "0.5 to 1 L",
+    "B": "1 to 1.5 L",
+    "C": "2.5 to 3 L",
+    "D": "4 to 5 L"
+   },
+   "correct": "C",
+   "explanation": "Recruiting more membrane with larger fill volumes to raise effective surface area is limited in most individuals once volumes reach about 2.5 to 3 L, so C is correct; 0.5-1, 1-1.5 and 4-5 L are wrong. Beyond this point essentially all available membrane has already been recruited, so extra volume adds little diffusive benefit. Larger volumes still help by keeping the concentration gradient higher for longer, but rising intraperitoneal pressure can reduce ultrafiltration, making the net effect on clearance modest."
+  },
+  {
+   "topic": "Molecular weight",
+   "question": "Based on molecular weight, which solute is transported most rapidly by diffusion?",
+   "options": {
+    "A": "Uric acid (MW 168)",
+    "B": "Creatinine (MW 113)",
+    "C": "Albumin",
+    "D": "Urea (MW 60)"
+   },
+   "correct": "D",
+   "explanation": "Lower molecular weight solutes diffuse faster, so urea (MW 60) is transported most rapidly, making D correct over creatinine (MW 113), uric acid (MW 168) and albumin, which is far larger. This weight dependence is why urea equilibrates faster than creatinine across the peritoneum, and why creatinine clearance is more time-dependent, reflected by its flatter equilibration curve. The effect is most pronounced in low transporters, in whom creatinine clearance especially benefits from long, high-volume dwells."
+  },
+  {
+   "topic": "MTAC",
+   "question": "The mass transfer area coefficient (MTAC) is analogous to which parameter of a hemodialysis membrane?",
+   "options": {
+    "A": "The K0A",
+    "B": "The ultrafiltration coefficient",
+    "C": "The sieving coefficient",
+    "D": "The reflection coefficient"
+   },
+   "correct": "A",
+   "explanation": "The mass transfer area coefficient (MTAC) is analogous to the K0A of a hemodialysis membrane, so A is correct; it is not the ultrafiltration, sieving, or reflection coefficient. MTAC equals the diffusive clearance of a solute per unit time in a theoretical situation where dialysate flow is infinitely high so the gradient always stays maximal. Typical values are 17 mL/min for urea and 10 for creatinine, but because it is complex to measure, MTAC remains mainly a research tool rather than a routine clinical index."
+  },
+  {
+   "topic": "MTAC values",
+   "question": "Typical MTAC values for urea and creatinine, respectively, are approximately:",
+   "options": {
+    "A": "5 and 3 mL/min",
+    "B": "17 and 10 mL/min",
+    "C": "50 and 40 mL/min",
+    "D": "100 and 80 mL/min"
+   },
+   "correct": "B",
+   "explanation": "Typical MTAC values are about 17 mL/min for urea and 10 mL/min for creatinine, so B is correct; 5/3, 50/40 and 100/80 mL/min are wrong. These modest values, both well below peritoneal blood flow of 50-100 mL/min, explain why diffusion in PD is limited by dialysate flow, not blood flow. MTAC reflects effective surface area, membrane resistance and solute molecular weight combined, and it correlates well with the D/P equilibration ratios that are used clinically in place of MTAC itself."
+  },
+  {
+   "topic": "Diffusion determinants",
+   "question": "In contrast to hemodialysis, diffusion in peritoneal dialysis depends primarily on:",
+   "options": {
+    "A": "Cardiac output",
+    "B": "Serum albumin concentration",
+    "C": "The dialysate flow rate",
+    "D": "Peritoneal blood flow"
+   },
+   "correct": "C",
+   "explanation": "Because peritoneal blood flow (50-100 mL/min) already exceeds MTAC needs for even the smallest solutes, diffusion in PD depends primarily on the dialysate flow rate, so C is correct; cardiac output, serum albumin and blood flow are not rate-limiting, in contrast to hemodialysis where blood flow matters. This is why increasing exchange frequency (APD) or dwell volume, which effectively raises dialysate throughput and sustains the solute gradient, is the main way to boost diffusive clearance in peritoneal dialysis."
+  },
+  {
+   "topic": "Vasoactive agents",
+   "question": "Vasoactive agents influence peritoneal transport mainly by:",
+   "options": {
+    "A": "Increasing peritoneal blood flow directly",
+    "B": "Recruiting more peritoneal capillaries and increasing effective surface area",
+    "C": "Reducing lymphatic absorption",
+    "D": "Raising the reflection coefficient of glucose"
+   },
+   "correct": "B",
+   "explanation": "Vasoactive agents influence peritoneal transport mainly by recruiting more peritoneal capillaries and thereby increasing effective surface area, so B is correct, not by directly raising peritoneal blood flow, reducing lymphatic absorption, or altering glucose's reflection coefficient. Blood flow is already more than adequate relative to MTAC, so recruiting membrane, not more flow, is what counts. The same capillary-recruiting mechanism operates in peritonitis, where inflammation increases vascularity and consequently increases diffusion and protein losses."
+  },
+  {
+   "topic": "Ultrafiltration mechanism",
+   "question": "Ultrafiltration in peritoneal dialysis occurs as a consequence of which gradient?",
+   "options": {
+    "A": "The osmotic gradient between the dialysis solution and peritoneal capillary blood",
+    "B": "The oncotic gradient favoring blood",
+    "C": "The lymphatic pressure gradient",
+    "D": "The hydrostatic gradient alone"
+   },
+   "correct": "A",
+   "explanation": "Ultrafiltration occurs as a consequence of the osmotic gradient between the dialysis solution and peritoneal capillary blood, created by the high glucose (or other osmotic agent) concentration in the dialysate, so A is correct. The oncotic gradient actually opposes ultrafiltration, lymphatic pressure drives absorption not UF, and the hydrostatic gradient contributes but is not the primary driver. Because glucose is an imperfect osmotic agent (reflection coefficient ~0.03), this gradient dissipates over the dwell, limiting sustained fluid removal."
+  },
+  {
+   "topic": "Glucose gradient decay",
+   "question": "During a dwell the dialysate-to-plasma osmotic gradient decreases due to dilution by ultrafiltrate and because of:",
+   "options": {
+    "A": "Lymphatic reabsorption of glucose",
+    "B": "Diffusion of glucose from the dialysis solution into the blood",
+    "C": "Conversion of glucose to lactate",
+    "D": "Precipitation of glucose in the interstitium"
+   },
+   "correct": "B",
+   "explanation": "The dialysate-to-plasma osmotic gradient decreases during a dwell both from dilution of dialysate glucose by ultrafiltrate and from diffusion of glucose out of the dialysis solution into the blood, so B is correct. Glucose is not reabsorbed by lymphatics, converted to lactate, or precipitated in the interstitium. This progressive loss of gradient is why ultrafiltration peaks early and then wanes; using higher dextrose concentrations or shorter, more frequent APD exchanges counteracts the decay and sustains fluid removal."
+  },
+  {
+   "topic": "Hyperglycemia effect",
+   "question": "The dialysate-to-plasma osmotic gradient will be smaller in the presence of:",
+   "options": {
+    "A": "Hypoalbuminemia",
+    "B": "Volume depletion",
+    "C": "Marked hyperglycemia",
+    "D": "Use of icodextrin"
+   },
+   "correct": "C",
+   "explanation": "The dialysate-to-plasma osmotic gradient is smaller in the presence of marked hyperglycemia, so C is correct, because a high plasma glucose narrows the difference between dialysate and blood glucose. Hypoalbuminemia raises ultrafiltration by lowering oncotic pressure, volume depletion reduces the hydrostatic gradient, and icodextrin sustains a gradient rather than shrinking it. Clinically this means poorly controlled diabetics may lose ultrafiltration capacity because their elevated blood glucose blunts the osmotic drive for fluid removal."
+  },
+  {
+   "topic": "Initial dialysate glucose",
+   "question": "After instillation of a 4.25% dextrose (3.86% glucose) exchange, the initial dialysate glucose level is close to:",
+   "options": {
+    "A": "1,000 mg/dL",
+    "B": "2,000 mg/dL",
+    "C": "5,500 mg/dL",
+    "D": "3,860 mg/dL"
+   },
+   "correct": "D",
+   "explanation": "After instillation of a 4.25% dextrose (3.86% glucose) exchange, the initial dialysate glucose level is close to 3,860 mg/dL (214 mM), so D is correct; 1,000, 2,000 and 5,500 mg/dL are wrong. This very high starting concentration establishes the steep osmotic gradient that drives early, rapid ultrafiltration. The gradient then falls as glucose is diluted by ultrafiltrate and diffuses into blood, which is why the 4.25% solution removes more fluid and sustains it longer than a 1.5% dwell."
+  },
+  {
+   "topic": "Reflection coefficient",
+   "question": "A lower reflection coefficient for an osmotic agent implies that:",
+   "options": {
+    "A": "The osmotic gradient is lost faster and ultrafiltration is less sustained",
+    "B": "Ultrafiltration is more sustained",
+    "C": "The agent has no effect on ultrafiltration",
+    "D": "Lymphatic absorption increases"
+   },
+   "correct": "A",
+   "explanation": "A lower reflection coefficient means the osmotic agent diffuses out of the dialysate more readily, so the osmotic gradient is lost faster and ultrafiltration is less sustained, making A correct. The coefficient ranges from 0 to 1; a value near 1 gives sustained UF, so options claiming more sustained UF or no effect are wrong. Glucose's coefficient is only about 0.03, explaining its rapidly fading gradient, whereas icodextrin's is near 1.0, giving nearly constant ultrafiltration even over long dwells."
+  },
+  {
+   "topic": "Glucose reflection",
+   "question": "The reflection coefficient of glucose is remarkably low, at approximately:",
+   "options": {
+    "A": "0.3",
+    "B": "0.03",
+    "C": "0.7",
+    "D": "1.0"
+   },
+   "correct": "B",
+   "explanation": "Glucose has a remarkably low reflection coefficient of about 0.03, so B is correct; 0.3, 0.7 and 1.0 are wrong. This near-zero value shows how imperfect an osmotic agent glucose is: it readily diffuses from dialysate into blood, so its osmotic gradient and the ultrafiltration it drives fade quickly over a dwell. This limitation is why hypertonic or short dwells are used to sustain fluid removal, and why icodextrin, with a reflection coefficient near 1.0, was developed for the long dwell."
+  },
+  {
+   "topic": "Icodextrin reflection",
+   "question": "The polyglucose preparation icodextrin has a reflection coefficient close to:",
+   "options": {
+    "A": "0.03",
+    "B": "0.3",
+    "C": "1.0",
+    "D": "0.5"
+   },
+   "correct": "C",
+   "explanation": "Icodextrin, a polyglucose preparation, has a reflection coefficient close to 1.0, so C is correct; 0.03 is glucose's value, and 0.3 and 0.5 are wrong. A coefficient near 1 means icodextrin barely diffuses out of the dialysate, so its osmotic (actually oncotic) gradient is retained, giving ultrafiltration that stays relatively constant even over a long-duration dwell. This makes icodextrin especially useful for the long day or overnight dwell where glucose-based fluid removal would otherwise fail and net fluid gain occur."
+  },
+  {
+   "topic": "Hydrostatic pressure",
+   "question": "Normally the peritoneal capillary pressure (~20 mm Hg) exceeds intraperitoneal pressure (~7 mm Hg), a gradient that:",
+   "options": {
+    "A": "Opposes fluid removal",
+    "B": "Has no effect on ultrafiltration",
+    "C": "Drives lymphatic absorption exclusively",
+    "D": "Favors fluid removal by ultrafiltration"
+   },
+   "correct": "D",
+   "explanation": "Normally peritoneal capillary pressure (~20 mm Hg) exceeds intraperitoneal pressure (~7 mm Hg), and this hydrostatic gradient favors fluid removal by ultrafiltration, so D is correct; it does not oppose UF, drive lymphatics exclusively, or have no effect. The gradient is greater in volume-expanded patients and smaller when volume-depleted. Because rising intraperitoneal pressure (larger dwells, sitting or standing) narrows this gradient, ultrafiltration falls and fluid absorption into tissues and lymphatics increases."
+  },
+  {
+   "topic": "Intraperitoneal pressure",
+   "question": "Rises in intraperitoneal pressure, as with larger dwell volumes or when seated, will have what effect on ultrafiltration?",
+   "options": {
+    "A": "Decrease ultrafiltration",
+    "B": "Increase ultrafiltration",
+    "C": "No change in ultrafiltration",
+    "D": "Reverse the osmotic gradient"
+   },
+   "correct": "A",
+   "explanation": "Rises in intraperitoneal pressure decrease ultrafiltration, so A is correct; they do not increase it or leave it unchanged, and they do not reverse the osmotic gradient. Higher pressure, seen with larger dwell volumes or in the seated or standing position, narrows the favorable hydrostatic gradient and also promotes fluid absorption into the abdominal wall and lymphatics. This is one reason the net benefit of larger dwell volumes on fluid removal is complex and hard to predict in an individual patient."
+  },
+  {
+   "topic": "Oncotic pressure",
+   "question": "Because oncotic pressure keeps fluid in the blood, in hypoalbuminemic patients ultrafiltration may be:",
+   "options": {
+    "A": "Completely abolished",
+    "B": "Greater than usual",
+    "C": "Unaffected",
+    "D": "Replaced by diffusion"
+   },
+   "correct": "B",
+   "explanation": "Oncotic pressure keeps fluid in the blood and therefore opposes ultrafiltration, so in hypoalbuminemic patients, whose oncotic pressure is low, ultrafiltration may be greater than usual, making B correct; it is not abolished, unaffected, or replaced by diffusion. This is the mirror image of the hydrostatic and osmotic drives: low plasma albumin reduces the force retaining water in the capillaries, easing water movement into the dialysate. It is one of several patient-specific factors that make net fluid removal variable."
+  },
+  {
+   "topic": "Sieving",
+   "question": "Sieving, in which some solute is held back as water crosses by convection, renders ultrafiltration:",
+   "options": {
+    "A": "A more effective form of solute removal",
+    "B": "Ineffective for water removal",
+    "C": "A less effective form of solute removal, though water removal may occur unhindered",
+    "D": "Dependent on lymphatic flow"
+   },
+   "correct": "C",
+   "explanation": "Sieving occurs when water crosses the membrane by convection but some solute is held back, so it renders ultrafiltration a less effective form of solute removal even though water removal may proceed unhindered, making C correct. It does not aid solute removal, block water removal, or depend on lymphatic flow. About half of ultrafiltration passes through ultrapores as solute-free water (maximal sieving), while the other half through small pores carries solute at near-plasma concentration; this underlies the sodium sieving seen in PD."
+  },
+  {
+   "topic": "Ultrafiltration partition",
+   "question": "Approximately what fraction of total ultrafiltration occurs through ultrapores, transporting solute-free water?",
+   "options": {
+    "A": "About one-tenth",
+    "B": "About one-quarter",
+    "C": "Nearly all",
+    "D": "About half"
+   },
+   "correct": "D",
+   "explanation": "About half of total ultrafiltration occurs through the ultrapores (aquaporins), transporting solute-free water, so D is correct; one-tenth, one-quarter and nearly all are wrong. The remaining half passes through small endothelial pores, where sieving is largely absent and the ultrafiltrate's solute concentration resembles plasma. Because the aquaporin-driven half carries water without sodium, it produces the sodium sieving that makes early-dwell water loss proportionately greater than sodium loss, transiently lowering dialysate sodium."
+  },
+  {
+   "topic": "Icodextrin mechanism",
+   "question": "Icodextrin acts as which type of osmotic agent in peritoneal dialysis?",
+   "options": {
+    "A": "A large-molecule oncotic (colloid) agent with a high reflection coefficient",
+    "B": "A crystalloid osmotic agent",
+    "C": "An electrolyte",
+    "D": "A buffering agent"
+   },
+   "correct": "A",
+   "explanation": "Icodextrin is a large-molecule oncotic (colloid) agent with a high reflection coefficient, so A is correct; it is not a crystalloid osmotic agent like glucose, an electrolyte, or a buffer. Because its reflection coefficient is near 1.0, it stays in the peritoneal cavity and sustains ultrafiltration at a relatively constant level throughout even a long-duration dwell, unlike glucose whose gradient fades. This makes it valuable for the long dwell where glucose-based ultrafiltration would otherwise fail and net fluid gain occur."
+  },
+  {
+   "topic": "Fluid absorption route",
+   "question": "Fluid absorption from the peritoneal space occurs primarily via which route, at a relatively constant rate?",
+   "options": {
+    "A": "The ultrapores",
+    "B": "The mesothelial microvillae",
+    "C": "The portal vein directly",
+    "D": "Lymphatics"
+   },
+   "correct": "D",
+   "explanation": "Fluid absorption from the peritoneal space occurs primarily via lymphatics, at a relatively constant rate with little or no sieving, so D is correct; it is not through ultrapores, mesothelial microvillae, or directly into the portal vein. Only a small proportion drains into subdiaphragmatic lymphatics; much is absorbed across the parietal peritoneum into abdominal wall tissues, then taken up by local lymphatics. This constant absorption of about 1-2 mL/min reduces the efficiency of both solute and fluid removal in PD."
+  },
+  {
+   "topic": "Fluid absorption rate",
+   "question": "Typical rates of peritoneal fluid absorption are approximately:",
+   "options": {
+    "A": "0.1 to 0.5 mL/min",
+    "B": "5 to 10 mL/min",
+    "C": "1.0 to 2.0 mL/min",
+    "D": "15 to 20 mL/min"
+   },
+   "correct": "C",
+   "explanation": "Typical rates of peritoneal fluid absorption are 1.0 to 2.0 mL/min, so C is correct; 0.1-0.5, 5-10 and 15-20 mL/min are outside the stated range. This absorption occurs via lymphatics at a relatively constant rate with little sieving and works against net fluid removal, since it must be subtracted from ultrafiltration. Its effectiveness varies markedly between patients for poorly understood reasons, and it increases when intraperitoneal hydrostatic pressure rises with large fill volumes or effective ultrafiltration."
+  },
+  {
+   "topic": "Sodium removal",
+   "question": "Net sodium removal with a 4-hour, 4.25% dextrose, 2-L dwell is typically in excess of:",
+   "options": {
+    "A": "10 mmol",
+    "B": "30 mmol",
+    "C": "150 mmol",
+    "D": "70 mmol"
+   },
+   "correct": "D",
+   "explanation": "Net sodium removal with a 4-hour, 4.25% dextrose, 2-L dwell is typically in excess of 70 mmol, so D is correct; 10, 30 and 150 mmol are wrong. By contrast a 4-hour 1.5% dextrose 2-L exchange removes minimal sodium, reflecting the greater ultrafiltration driven by the hypertonic solution. Because ultrafiltrate carries only about 65 mM sodium (sodium sieving), dialysate sodium falls early then rises back toward 128 mM by diffusion; using lower-sodium solutions is an alternative way to increase sodium removal."
+  },
+  {
+   "topic": "PET measures",
+   "question": "In clinical practice, peritoneal transport is routinely assessed using dialysate-to-plasma equilibration ratios for urea, creatinine, and:",
+   "options": {
+    "A": "Sodium",
+    "B": "Glucose",
+    "C": "Albumin",
+    "D": "Potassium"
+   },
+   "correct": "A",
+   "explanation": "Peritoneal transport is routinely assessed with dialysate-to-plasma equilibration ratios for urea, creatinine and sodium, so A is correct; glucose is followed instead as the D/D0 ratio (its dialysate fall), while albumin and potassium are not the standard PET solutes. MTAC and hydraulic conductance are too complex for routine use, so these D/P ratios, which reflect combined diffusion and ultrafiltration and correlate with MTAC, are used clinically. The 4-hour D/P creatinine then classifies patients into transporter categories."
+  },
+  {
+   "topic": "PET protocol",
+   "question": "The standardized peritoneal equilibration test conventionally uses a 2.5% dextrose 2-L dwell with dialysate samples taken at:",
+   "options": {
+    "A": "0, 1, and 3 hours",
+    "B": "0, 2, and 4 hours",
+    "C": "1, 4, and 8 hours",
+    "D": "0 and 6 hours only"
+   },
+   "correct": "B",
+   "explanation": "The standardized PET conventionally uses a 2.5% dextrose 2-L dwell with dialysate samples at 0, 2, and 4 hours and a plasma sample at 2 hours, so B is correct; the other timing schemes are wrong. It also measures net fluid removal (4-hour drain minus instilled volume) and the D/D0 glucose ratio. Patients are then classified by their 4-hour D/P creatinine into high, high-average, low-average and low transporters, which helps guide the prescription choice between CAPD and APD regimens."
+  },
+  {
+   "topic": "Transporter categories",
+   "question": "Patients are classified on the basis of 4-hour D/P creatinine into how many transporter categories?",
+   "options": {
+    "A": "Two",
+    "B": "Three",
+    "C": "Four",
+    "D": "Five"
+   },
+   "correct": "C",
+   "explanation": "Patients are classified by their 4-hour D/P creatinine into four transporter categories, so C is correct: high, high-average, low-average and low. Two, three and five are wrong counts. High transporters equilibrate rapidly (high D/P Cr) but ultrafiltrate poorly and lose protein, favoring short, frequent APD dwells; low transporters equilibrate slowly but ultrafiltrate well, favoring long, high-volume dwells. In practice, lifestyle often influences the prescription more than transport status, and both types can be managed flexibly."
+  },
+  {
+   "topic": "High transporters",
+   "question": "High transporters achieve rapid, complete equilibration but characteristically have:",
+   "options": {
+    "A": "Low dialysate protein losses",
+    "B": "The highest serum albumin values",
+    "C": "High net ultrafiltration and high D/D0 glucose",
+    "D": "The highest D/P creatinine but low net ultrafiltration"
+   },
+   "correct": "D",
+   "explanation": "High transporters equilibrate rapidly and completely because of a large effective surface area and/or high membrane permeability, but they consequently lose their glucose osmotic gradient quickly, so they show the highest D/P creatinine, urea and sodium yet low net ultrafiltration and low D/D0 glucose, making D correct. They also have higher dialysate protein losses and thus lower serum albumin, so options citing low protein loss or high albumin are wrong. They theoretically do best on short, frequent APD dwells that maximize ultrafiltration."
+  },
+  {
+   "topic": "Residual renal function",
+   "question": "Residual renal function tends to persist how in chronic peritoneal dialysis patients compared with hemodialysis patients?",
+   "options": {
+    "A": "It persists longer and at a higher level",
+    "B": "It disappears more quickly",
+    "C": "It is identical between the two",
+    "D": "It has no prognostic value"
+   },
+   "correct": "A",
+   "explanation": "Residual renal function persists longer and at a higher level in chronic peritoneal dialysis patients than in those on hemodialysis, so A is correct; it does not vanish faster, is not identical between modalities, and it does carry prognostic value. It contributes to salt and water removal and to small- and medium-molecule clearance, and it predicts patient outcome, perhaps through better endocrine and metabolic function and volume control. Because tubular secretion inflates creatinine clearance and reabsorption lowers urea clearance, their average estimates true GFR."
+  },
+  {
+   "topic": "Sodium sieving",
+   "question": "Sodium sieving during ultrafiltration in peritoneal dialysis means that:",
+   "options": {
+    "A": "Sodium losses are proportionately greater than water losses",
+    "B": "Water losses are proportionately greater than sodium losses",
+    "C": "Sodium and water are removed in equal proportion",
+    "D": "Neither sodium nor water is removed"
+   },
+   "correct": "B",
+   "explanation": "Sodium sieving during ultrafiltration means water losses are proportionately greater than sodium losses, so B is correct; sodium loss is not greater than, nor equal to, water loss, and both are removed. This happens because roughly half of ultrafiltration passes through aquaporin ultrapores as solute-free water. Consequently, early in a dwell dialysate sodium falls (ultrafiltrate carries only about 65 mM sodium), dropping from 132 toward 128 mM, then diffusion of sodium from tissues restores it later in the dwell."
+  },
+  {
+   "topic": "GFR estimate",
+   "question": "In the failing kidney, a reasonable estimate of true glomerular filtration rate is provided by:",
+   "options": {
+    "A": "Urea clearance alone",
+    "B": "Creatinine clearance alone",
+    "C": "The average of urea and creatinine clearance",
+    "D": "The sodium sieving ratio"
+   },
+   "correct": "C",
+   "explanation": "The average of urea and creatinine clearance provides a reasonable estimate of true GFR in the failing kidney, so C is correct. Creatinine clearance alone overestimates GFR because tubular secretion adds to it, while urea clearance alone underestimates GFR because tubular reabsorption of urea reduces it; averaging the two roughly cancels these opposing errors. The sodium sieving ratio is unrelated to GFR. This averaged estimate is used to calculate the renal contribution to total clearance in PD patients."
+  }
+ ]
+}

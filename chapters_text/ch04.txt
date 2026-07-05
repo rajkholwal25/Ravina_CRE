@@ -1,0 +1,1076 @@
+66
+Hemodialysis Apparatus
+Suhail Ahmad, Madhukar Misra, 
+ Nicholas Hoenich, and John T. 
+Daugirdas4
+Hemodialysis (HD) apparatus can be broadly divided into a blood 
+circuit and a dialysis solution circuit, which meet at the dialyzer. 
+The blood circuit begins at the vascular access. From there blood 
+is pumped through an “arterial blood line” to the dialyzer. Blood is 
+returned from the dialyzer to the patient via a “venous blood line. ” 
+These terms are used even though often only venous blood is be-
+ing accessed (such as when using a venous catheter). More precise 
+would be to term these the “inflow” blood line and “outflow” blood 
+line, but as often is the case, the traditional names rather than more 
+correct terms continue to be used. Various chambers, side ports, and 
+monitors are attached to the inflow and outflow blood lines, and are 
+used to infuse saline or heparin, to measure pressures and to detect 
+any entrance of air. The dialysis solution circuit includes the dialysis 
+solution (dialysate) supply system, which makes dialysate online by 
+mixing purified water with concentrated dialysate solutions.  The fi -
+nal dialysate is then pumped through the dialysate compartment of 
+the dialyzer, the latter being separated from blood compartment by 
+a semi-permeable membrane. The dialysis solution circuit includes 
+various monitors that make sure that the dialysis solution is at the 
+right temperature and has a safe concentration of dissolved compo -
+nents. Also, a blood leak detector is present with the purpose of stop-
+ping dialysis if blood products are detected in the outflow dialysate.
+ I. BLOOD CIRCUIT. T he inflow (arterial) blood line connects the 
+vascular access to the dialyzer, and the outflow (venous) blood 
+line runs from the dialyzer back to the vascular access. Blood is 
+moved through the dialyzer by a pump, usually a spring-loaded 
+roller pump. The roller moves blood through the blood tubing by 
+completely occluding a small segment of the tubing then rolling 
+the occluded segment forward (like milking a straw).
+A. Inflow blood line: Prepump segment.  The prepump segment is the 
+part of the blood line which links the patient’s access to the 
+blood pump. This segment contains a sampling port, a saline 
+infusion line, and, on some lines, a “prepump” pressure moni-
+tor (see P1 in Fig. 4.1).
+The sampling port is used to sample blood from the line 
+and is the point from which predialysis and postdialysis blood 
+Daugirdas9781451144291-ch004.indd   66 09/10/14   1:05 am
+Chapter 4 / Hemodialysis Apparatus 67
+is usually taken. The saline infusion “T” line is used to prime 
+the dialyzer circuit, and also to rinse-back the contents of the 
+blood compartment at the end of dialysis. Because all three 
+of these elements (sampling port, monitor, and saline “T”) are 
+located in the negative pressure portion of the blood line, if a 
+connection is broken here, air can quickly enter the blood line. 
+In the event of an incomplete connection, microbubbles can be 
+introduced, which can get trapped in the hollow fibers of the 
+dialyzer, which reduces the efficiency of dialysis, and can even 
+lead to clotting of the circuit.
+It is advisable to use blood lines with a prepump pres -
+sure monitor (P1), although not all blood lines have this. The 
+pressure monitor is linked via a small tubing attached at a 
+right angle to the blood line. This small tubing is kept filled 
+with air, and the other end is attached to an air chamber 
+that communicates through a filter to a pressure transducer. 
+Because the blood pump is demanding blood at a fairly fast 
+rate (200–600 mL/min) and because of the resistance to flow 
+at the “arterial” opening of the vascular access catheter or 
+“arterial” needle, the pressure in the segment of the “arterial” 
+line between the vascular access and the blood pump is nega-
+tive (below zero), and often substantially so. How negative, is 
+a function of the blood flow rate, the blood viscosity (which 
+increases with hematocrit), the size of the inflow  catheter 
+lumen or needle, and whether or not the end of the arterial 
+needle or catheter is partially obstructed by nearby tissue 
+from the inside wall of the vascular access.
+For safety, the pressure limits of the P1 monitor are set 
+above and below the usual normal working range for the patient. 
+This is generally performed automatically, and the range above 
+and below the prevailing pressure is machine dependent. If the 
+FIGURE 4.1 Pressure monitors (P1, P2, and P3) and pressures in blood circuit.
+S
+0
++300
+-300
+|← Inflow (arterial) blood line   ------------------→| →| ← Dialyzer →← Outflow (venous) blood line 
+P1 P2 P3
+Roller pump
+Saline Heparin
+P1 = prepump  P2 = postpump P3 = “venous” 
+Positive pressure
+Negative pressure 
+Sampling
+port
+Air
+detector
+Pressure drop
+(P2 vs. P3)
+Daugirdas9781451144291-ch004.indd   67 09/10/14   1:05 am
+Part II / Blood-Based Therapies
+68
+pressure goes out of range, an audible alarm will sound and the 
+blood pump stops. For example, the prepump pressure moni-
+tor might be set to alarm if the pressure rises above − 50 or 
+falls below −200 mm Hg. On the low (− 50) side, the pressure 
+limit alarm might be triggered by a line separation (accidental 
+disconnection of the blood tubing from the venous catheter 
+or arterial needle). In such a case, after the line separates, the 
+resistance to inflow will be suddenly reduced, and the nega-
+tive pressure may rise above −50 mm Hg, triggering the alarm. 
+However, this pressure alarm should never be relied upon to 
+detect a line separation, as the pressure may remain in range, 
+even after a line separation. For example, if there is a partial 
+blockage in the inflow line after line separation, or if an arterial 
+needle pulls out from the access, continued resistance to inflow 
+by the needle may keep pressure in the set range; then the alarm 
+may not sound, and the blood pump will keep on pumping air 
+into the circuit. The other use for the prepump pressure alarm 
+is on the “high” side: if there is obstruction to blood flow either 
+by a kink in the line or by a clot at the access needle lumen, the 
+arterial pressure may become more negative than the set limit 
+(e.g., −250 mm Hg); then  the alarm will be activated and the 
+blood pump will stop, giving the care provider the opportunity 
+to investigate the source of the problem.
+B. Roller pump segment.  The blood flow through the dialyzer is a 
+function of the roller pump rotation rate and the diameter and 
+the length of the blood line roller pump segment. In effect,
+BFR = 
+ rpm (revolutions per minute) × roller pump 
+ segment  volume (πr2 × length)
+where BFR is the blood flow rate. The roller pump is gener -
+ally self-occluding, that is, it adjusts to the dimension of the 
+blood pump insert, to ensure that the full “stroke volume” is 
+being delivered with each pass of the roller. With time, due to 
+the repeated compression and relaxation of the pump insert 
+with each passage of the rollers, the tubing can flatten. This 
+reduces the “stroke volume” of the blood line and can reduce 
+the effective blood flow rate. A similar effect may occur in the 
+presence of a high (negative) inflow pressure. More rigid blood 
+tubings have attempted to minimize this problem, and some 
+machines have a built-in correction factor for the pump speed 
+and the magnitude of negative pressure, a correction factor 
+that one uses to correct blood flow rates.
+C. Inflow (arterial) blood line: Postpump segment.  This contains a “T” 
+for heparin infusion, and also, in some lines, a small “T” con-
+nected to a postpump (P2 in Fig. 4.1) pressure monitor. The 
+pressure reading in this segment is always positive (above 
+atmospheric). The pressure at P2 can be combined with the 
+reading at the venous pressure monitor, P3, to estimate the 
+average pressure in the blood compartment of the dialyzer. 
+In some machines, this, in combination with the pressure 
+measured in the dialysis solution compartment, is used to 
+Daugirdas9781451144291-ch004.indd   68 09/10/14   1:05 am
+Chapter 4 / Hemodialysis Apparatus 69
+calculate how much ultrafiltration (UF) is taking place during 
+dialysis. The pressure at the postpump monitor is normally 
+quite high and depends on the blood flow rate, blood viscosity, 
+and downstream resistance at the dialyzer and beyond. A sud-
+den rise in the pressure at the P2 monitor is often a sign of im-
+pending clotting of the blood line and/or dialyzer. The heparin 
+line is connected to a syringe containing heparin. The syringe 
+is clamped into a mechanical device that slowly pushes on its 
+plunger, delivering heparin at a constant rate during dialysis.
+D. Outflow (venous) blood line: Air trap and pressure monitor.  The out -
+flow blood line contains a venous “drip chamber” that allows 
+for the collection and easy removal of any accumulated air 
+from the line, a so-called “venous” pressure monitor (P3 in 
+Fig. 4.1), and an air detector. The venous pressure can be used 
+to monitor the state of coagulation. Incipient clotting of the 
+blood circuit will usually first take place at the venous drip 
+chamber, and clotting will cause a progressive rise in pres-
+sures at both P3 and P2. Venous pressure during dialysis is a 
+function of blood flow rate, blood viscosity, and downstream 
+access (needle or catheter) resistance. In patients with AV 
+access, trends in venous pressure from dialysis to dialysis, 
+measured at a standard, low blood flow rate, and corrected 
+for patient’s blood pressure, height of the drip chamber and 
+needle size, have been used to predict the occurrence of ste-
+nosis of the downstream vascular access (see Chapter 8). Dur-
+ing dialysis, pressure cutoff limits in this venous (P3) monitor 
+are also set around the usual operating pressures. If there is a 
+sudden kink in the line, the pressure measured at P3 will sud-
+denly shoot up over the preset limit and the blood pump will 
+cut off. A sudden line disconnection may lower the pressure 
+at P3 below the lower alarm cutoff limit, again shutting down 
+the machine and limiting the extent of blood loss, but this by 
+no means occurs all the time, especially when an AV fistula 
+is used for access (Ribitsch, 2013) although a line separation 
+from a venous catheter also may fail to trigger a venous pres-
+sure alarm, particularly when the operating venous pressure is 
+relatively low. Again, with an AV access, if the venous needle is 
+inadvertently pulled out from the access, this may not change 
+the outflow pressure much, since most of the outflow resis-
+tance is in the venous needle. It is important to note that a 
+venous pressure alarm CANNOT be relied upon to detect a ve-
+nous line separation, and patients have exsanguinated due to 
+continued operation of the blood pump when line separation 
+went undetected (Axley, 2012; 
+ Ribitsch, 2013). For this reason, 
+in patients who are at a high risk for line separation, such as 
+those with cognitive defects, agitation, or those who repeat -
+edly thwart staff efforts to leave their access site exposed, 
+additional devices such as the Redsense sensor (Redsense 
+Medical, Inc., Chicago, IL) can be used to detect blood leak -
+age at the site of potential line separation. Attention must also 
+be paid to effective taping of access needle insertion sites and 
+Daugirdas9781451144291-ch004.indd   69 09/10/14   1:05 am
+Part II / Blood-Based Therapies
+70
+connections, and the site of the vascular access should always 
+be exposed to caregivers’ view (Axley, 2012).
+The venous air trap and detector are very important for 
+patient safety. The chamber traps any air that may have en -
+tered the blood line before the blood is returned to the patient. 
+Usually a level/air detector is placed around the top of the drip 
+chamber; any increase in air (resulting in the drop of blood 
+level) triggers an alarm. The power supply to the pump is then 
+cut off and dialysis stops. An additional safety device is a pow-
+erful clamp below the drip chamber through which the blood 
+tubing returning the blood to the patient passes , and which 
+is activated by the presence of air in the blood tubing. When 
+activated, the clamp snaps shut and blood pump is stopped; 
+any air/blood mixture that may be present in the blood line is 
+thereby prevented from passing back into the patient.
+Despite the presence of an air detector, microbubbles 
+can still pass to the patient. These microbubbles enter the 
+circulation; however, their consequences are largely un-
+known. One strategy to limit microbubble formation is to 
+maintain a high fluid level in the venous air chamber. The 
+use of dialyzers that are provided by the manufacturer with 
+fluid already filling the hollow fibers has also been shown to 
+limit the release of microbubbles into the circulation during 
+dialysis (Forsberg, 2013).
+Additional practical information about the interpreta -
+tion and use of pressure monitors during dialysis is given in 
+Chapter 10.
+II. DIALYSIS FLUID CIRCUIT.  The dialysis fluid circuit contains a
+number of distinct components: (a) a stand-alone water puri-
+fication system, (b) a proportionating system in which concen -
+trates and treated water are mixed and delivered to the dialyzer, 
+(c) 
+ monitors and alarms, (d) ultrafiltration  control, and (e) ad-
+vanced control options.
+A. Water purification system. Patients are exposed to about 120–200 L of 
+water during each dialysis treatment. All small- molecular-weight 
+substances present in the water can pass across the dialyzer and 
+enter the patient’s blood stream. For this reason, it is very impor-
+tant that the purity of the water used for dialysis be monitored 
+and controlled. The Association for the Advancement of Medical 
+Instrumentation (AAMI) has developed minimum standards for 
+the purity of water used in hemodialysis. These and the methods 
+of purifying water for dialysis are discussed in detail in Chapter 5.
+B. Proportioning system. The basics of making dialysis solution are 
+discussed in Chapter 5. Briefly, dialysis machines mix concen-
+trated electrolyte solutions or powders with purified water to 
+make a final dialysis solution that is delivered to the dialyzer. 
+The final dialysis solution must be delivered at an appropri-
+ate temperature and it must be free of excessive dissolved air. 
+This requires additional features, incorporating monitors and 
+alarms.
+Daugirdas9781451144291-ch004.indd   70 09/10/14   1:05 am
+Chapter 4 / Hemodialysis Apparatus 71
+Two types of proportioning systems  exist: In the c entral 
+delivery system, all of the dialysis solution used in the dialy-
+sis unit is produced by a single apparatus that mixes concen-
+trates with purified water. The final dialysis solution is pumped 
+through pipes to each dialysis machine. This approach offers 
+the advantage of a lower initial equipment cost and reduced 
+labor costs. However, it does not permit variations in the 
+composition of dialysis solution for individual patients, and 
+any error in the system exposes a large numbers of patients 
+to complications arising from such errors. The second type is 
+an individual system, in which each dialysis machine propor-
+tions its own dialysis solution concentrate with purified water.
+C. Heating and degassing. Dialysis solution must be delivered to the 
+dialyzer at the correct temperature (usually 35–38°C). Water 
+obtained from a city water supply is below room temperature 
+and must be heated; during  heating, gases dissolved in the 
+cold water expand and bubble out. The dialysis machine must 
+remove this air from the water before use. Degassing is per -
+formed by exposing the heated water to a negative pressure.
+D. Monitors and alarms. Several monitors and alarms are placed in 
+the dialysis solution circuit to ensure safety.
+1. Conductivity. If the proportioning system that dilutes the
+concentrates with water malfunctions, an excessively di -
+lute or concentrated dialysis solution can be produced. Ex-
+posure of blood to a severely hyperosmolar dialysis solution 
+can lead to hypernatremia and other electrolyte distur -
+bances. Exposure to a severely hypoosmolar dialysis solu-
+tion can result in rapid hemolysis and severe hyponatremia 
+and hyperkalemia. Because the primary solutes in dialysis
+solution are electrolytes, the degree of their concentration
+in dialysis solution will be reflected by its electrical con-
+ductivity. A meter that continuously monitors dialysis fluid 
+conductivity is incorporated in all proportionating sys -
+tems. Conductivity is measured in terms of milliSiemens
+(mS) per centimeter (cm). One Siemen (S) is equal to the
+reciprocal of one ohm (an alternative term for a Siemen is
+“mho”). The 
+ normal conductivity range for dialysis solution 
+is  12–16 mS/cm. If conductivity falls outside the preset lim-
+its, an alarm sounds and dialysate is prevented from pro-
+ceeding to the dialyzer by a valve that diverts the dialysis
+solution to the drain. In such an event, the system “goes
+into bypass” protecting the patient and dialysis stops until
+the problem has been resolved. Causes of dialysis solution
+conductivity out of range include the following:
+a. Empty concentrate container
+b. Concentrate line connector not plugged in
+c. Low water inlet pressure
+d. Incorrect concentrate being used
+e. Mixing chamber leakage
+2. Temperature. Malfunction of the heating element in the di-
+alysis machine can result in the production of excessively
+Daugirdas9781451144291-ch004.indd   71 09/10/14   1:05 am
+Part II / Blood-Based Therapies
+72
+cool or hot dialysis solution. Use of cool dialysis solution 
+(down to 35°C) is not dangerous unless the patient is un-
+conscious, in which case hypothermia can occur. A con-
+scious patient will complain of feeling cold and shiver. On 
+the other hand, use of a dialysis solution heated to >42°C 
+can lead to blood protein denaturation and, ultimately, to 
+hemolysis. The dialysis fluid circuit contains a temperature 
+sensor, and if the temperature is outside the acceptable 
+limits, the dialysis fluid is diverted to drain, as discussed 
+earlier.
+3. Bypass valve. As mentioned previously, if either the dialysis
+solution conductivity or the temperature is out of limits,
+a bypass valve is activated to divert the dialysis solution
+around the dialyzer directly to the drain.
+4. Blood leak detector.  Small blood leaks will be invisible to
+the naked eye. A blood leak detector is placed in the dialy-
+sate outflow line (line containing dialysis fluid after it has
+passed through the dialyzer). If the detector senses blood,
+as occurs when a leak develops through the dialyzer mem-
+brane, the appropriate alarm is activated and the blood
+flow through the dialyzer is stopped automatically, to pre -
+vent potentially catastrophic blood loss.
+5. Dialysate outflow pressure monitor.  In machines that do not
+have special pumps and circuitry to control the UF rate di-
+rectly, the pressure at this location can be used in conjunc-
+tion with the pressure at the blood outflow line to calculate 
+the dialyzer transmembrane pressure (TMP) and thereby
+estimate the UF rate.
+E. Ultrafiltration control.  With the use of high-flux/high-efficiency 
+dialyzers it is necessary to have machines that can accurately 
+control the UF rate throughout the treatment. There are sev-
+eral different methods in use and the hydraulics involved are 
+complex and beyond the scope of this handbook . Precise UF 
+control is a desirable feature for a dialysis machine to have and 
+a manual approach to determine the UF rate by estimating the 
+TMP is fraught with potential errors.
+The most advanced method of UF control is a volumetric 
+method. Such volumetric circuitry is incorporated into many 
+currently produced dialysis machines. With these machines, 
+even dialyzers that are very water permeable ( K
+UF >10 mL/h 
+per mm Hg) can be used safely. Such systems have methods 
+of tracking the dialysis solution inflow and matching it with 
+the dialysis solution outflow either by having balancing cham-
+bers or double-gear systems. This ensures that the volume of 
+fluid delivered to the dialyzer is equal to that removed from 
+the dialyzer. A separate line from the dialysate outflow line 
+goes through a UF pump, which sets the UF rate. The pump 
+is 
+ controlled by a central microprocessor, which tracks the 
+desired UF and the total UF and adjusts the UF pump speed 
+accordingly. The line exiting the UF pump rejoins the dialysis 
+solution outflow and both flows continue on to the drain.
+Daugirdas9781451144291-ch004.indd   72 09/10/14   1:05 am
+Chapter 4 / Hemodialysis Apparatus 73
+In simpler, older dialysis machines, the amount of fluid 
+removed is estimated based on the water permeability (K UF) 
+of the dialyzer and the pressures measured across the dialyzer 
+membrane, using data from the pressure sensors in the blood 
+line (P3 or the average of P2 and P3) and a pressure sensor in 
+the dialysis solution outflow line.
+F. Advanced control options
+1. Adjustable bicarbonate.  Machines using the three-stream
+method (i.e., acid concentrate, bicarbonate concentrate,
+and water) with a variable bicarbonate option can alter the 
+proportioning of the bicarbonate concentrate. These ma -
+chines allow delivery of final bicarbonate concentrations
+within the range of 20–40 mM, and this variable setting
+is useful in the treatment of acidotic patients or patients
+either with frank metabolic alkalemia (with high serum
+bicarbonate levels) or who are at high risk of developing
+respiratory alkalosis. 
+In most machines, the bicarbonate concentration 
+showing on the display panel is estimated from the con-
+ductivity, and it does not include additional base content in 
+the dialysate from acetate or citrate, which may be as high 
+as 8 mM. The need to consider not only dialysis solution 
+bicarbonate but total potential base content is discussed in 
+greater detail in Chapter 5.
+In order to aim for a stable dialysis solution sodium 
+level, whenever the delivery rate of the bicarbonate con -
+centrate is altered, a reciprocal change in the delivery rate 
+of the acid concentrate occurs. As a result, minor changes 
+in the other electrolytes such as calcium, magnesium, and 
+potassium that are provided by the acid concentrate can 
+take place. 
+2. Variable sodium.  This option permits alteration of the
+ dialysis solution sodium concentration by simply turning
+a dial.  The sodium concentration is usually altered by
+changing the proportions of “acid concentrate” and water.
+Changing the dialysis solution sodium level in this manner 
+will also slightly change the concentration of all the other
+solutes present in the “acid concentrate. ” The variable
+sodium option allows for the individualization of the
+dialysis solution sodium concentration on a patient-by-
+patient basis and also allows for the sodium concentration 
+to be changed during the dialysis procedure according
+to a preset profile. Use of such profiles may, however,
+expose patients to a potential sodium gain during dialysis
+treatment, leading to thirst, hypertension, and increased
+fluid intake between treatments.
+3. Programmable ultrafiltration. Normally, UF is performed at the
+same rate throughout the dialysis session. Some  believe
+that a constant rate of fluid removal is not necessarily the
+best approach, since patients can tolerate higher UF rates
+earlier as opposed to later in a dialysis treatment. Some
+Daugirdas9781451144291-ch004.indd   73 09/10/14   1:05 am
+Part II / Blood-Based Therapies
+74
+dialysis  machines allow for the bulk of the UF to be per -
+formed during the initial portion of a dialysis session and 
+also  allow the operator to devise any form of UF profile de-
+sired. The  clinical benefits of programmable UF have not 
+been demonstrated by controlled studies.
+4. Monitoring UV absorbance of spent dialysate (online  Kt/V). The 
+concentration of small molecular weight substances in the 
+spent dialysate can be monitored over the course of a dialy-
+sis treatment by following the ultraviolet light absorbance
+of spent dialysate as it leaves the dialyzer. The resulting
+curve reflects the change in blood urea concentration dur -
+ing the dialysis treatment, and can be used to calculate an
+online Kt/V.
+5. Online sodium clearance monitors.  The monitoring of dia -
+lyzer urea clearance can also be done based on conductiv-
+ity measurements. As sodium clearance is similar to urea
+clearance, it can be used to estimate the urea clearance
+of a dialyzer just prior to use and also during dialysis. In
+such an approach, the machine changes the concentrate
+to water proportioning ratio, which initiates a momentary
+change in the sodium concentration of the dialysis solution 
+flowing into the dialyzer. A conductivity sensor located at
+the dialysis solution inflow line measures the extent of this 
+perturbation. A second conductivity sensor located at the
+dialysate outflow line then evaluates to what extent this
+“pulse” of increased sodium was attenuated during passage 
+of dialysate through the dialyzer. Using this information,
+the dialyzer in vivo sodium clearance can be calculated,
+and this information can be combined with the V derived
+from anthropometric data or bioimpedance,  and with ses-
+sion treatment duration (t), to estimate Kt/V. Such sodium
+clearances can be repeated at any point in time during the
+treatment.
+6. Blood temperature control module.  Hemodialysis is associated
+with a heat gain during treatment, which, in turn, leads to
+vasodilation and a fall in blood pressure. By monitoring
+the temperature of the incoming and the exiting blood, as
+well as of the dialysis solution, it is possible to control heat 
+balance and achieve an “isothermic” dialysis for increased
+hemodynamic stability. The module may also be used to
+measure access recirculation or blood flow as described
+below.
+7. Modules to measure access recirculation or access blood flow. The
+presence of recirculation during dialysis decreases dialysis
+effectiveness, and generally occurs if the vascular access of
+the patient cannot deliver the required blood flow. Modules 
+that permit the measurement of recirculation work on the
+dilution principle (Fig.  4.2). The composition of the blood
+leaving the dialyzer is quickly altered by (a) injecting 5 mL of 
+isotonic or hypertonic saline, (b) acutely changing the dia -
+lyzer UF rate to promote hemoconcentration, or (c) acutely
+Daugirdas9781451144291-ch004.indd   74 09/10/14   1:05 am
+Chapter 4 / Hemodialysis Apparatus 75
+changing the dialysis solution temperature to cool the re -
+turning blood. A sensor attached to the blood inflow line is 
+used to detect the resulting change in conductivity, hema-
+tocrit, or temperature. If there is access recirculation, the 
+perturbation applied to the outflow line will almost imme -
+diately be detected at the inflow line sensor, and the magni-
+tude of the transmitted perturbation will reflect the degree 
+of recirculation. To measure access flow, the blood lines are 
+deliberately reversed, such that the inflow (arterial) needle 
+is drawing blood from the access “downstream” to the out-
+flow (venous) needle. In  this manner, access recirculation 
+is deliberately induced. The degree of recirculation is then 
+measured as above. The degree of recirculation will be pro-
+portional to the ratio of flows in the extracorporeal circuit 
+and access. Once the degree of recirculation has been mea-
+sured, since the extracorporeal blood flow rate is known, the 
+rate of access blood flow can be calculated (Krivitski, 1995).
+8. Blood volume monitors.  T hese use an ultrasonic or optical 
+sensor operating on the inflow blood line to detect changes 
+in hematocrit or plasma protein concentration during di -
+alysis. Normally, in the course of fluid removal, increases 
+in these blood values reflect the degree of plasma volume 
+reduction. A claimed feature of such monitors is their abil -
+ity to anticipate and prevent a hypotensive episode by re-
+ducing UF whenever a steep increase in hematocrit during 
+dialysis has occurred or when a “crash crit, ” identified dur-
+ing previous sessions, is being approached. Another poten-
+tial use is to identify patients with covert fluid overload by 
+recognizing that such patients tend to have only a minimal, 
+or no, increase in hematocrit during dialysis despite fluid 
+removal.
+FIGURE 4.2 Principles of measuring access recirculation (AR). (Reproduced from 
+ Daugirdas JT. Hypertens Dial Clin Nephrol. 1997. Available at: http://www.hdcn.com.)
+NEW METHODS TO MEASURE AR
+Inject
+cold saline
+Suddenly change:
+Dialysate Na
+Temp.
+Temp.
+Conductivity
+Hematocrit
+Impedence
+{Sensor
+{
+Daugirdas9781451144291-ch004.indd   75 09/10/14   1:05 am
+Part II / Blood-Based Therapies
+76
+9. Single blood pathway (“single-needle”) devices.  Most hemodi -
+alysis treatments are performed using two separate blood
+pathways: one to obtain blood from the patient and another 
+to return blood to the patient. Several systems allow dialy-
+sis to be performed using a Y-shaped single blood pathway. 
+Description and discussion of single-needle devices are
+beyond the scope of this book as they are used only rarely
+in the United States, however, their use is increasing in the
+context of home dialysis, notably, home nocturnal dialysis.
+III. THE DIALYZER.  The dialyzer is where the blood and dialysis so-
+lution circuits interact  and where the movement of molecules
+between dialysis solution and blood across a semipermeable
+membrane occurs. Basically, the dialyzer shell is a box or tube
+with four ports. Two ports communicate with a blood compart -
+ment and two with a dialysis solution compartment. The mem -
+brane within the dialyzer separates the two compartments.
+A. Structure. In the hollow-fiber (also called capillary) dialyzer, the 
+blood flows into a chamber at one end of the cylindrical shell, 
+called a header.  From there, blood enters thousands of small 
+capillaries tightly bound in a bundle (Fig. 4.3). The dialyzer is 
+designed so that blood flows through the fibers and dialysis 
+solution flows around the outside. Once through the capillar -
+ies, the blood collects in a header at the other end of the cylin-
+drical shell and is then routed back to the patient through the 
+venous tubing and venous access device. Historically, parallel 
+plate dialyzers were also used, and in such devices, blood and 
+dialysis solution pass through alternate spaces between the 
+membrane sheets. In both configurations, blood and dialysate 
+flows move in opposite directions, to maximize the concentra-
+tion gradient between blood and dialysate in all parts of the 
+dialyzer.
+1. Membranes. Currently the majority of clinically used dia-
+lyzers utilize a membrane manufactured from synthetic
+polymer blends. Such membranes include polysulfone,
+polyethersulfone, polyacrylonitrile (PAN), polyamide, and
+polymethylmethacrylate (PMMA). It should be noted that
+whilst several manufacturers utilize polysulfone mem-
+branes, subtle differences exist between them, and conse-
+quently they cannot be considered as identical. Synthetic
+membranes are more biocompatible than the historically
+used membranes made from cellulose, and for this reason,
+as well as due to the fact that cellulose-based membranes
+were historically perceived to be low-flux membranes, the
+use of cellulose-based membranes has declined. In fact, un-
+modified cellulose membranes such as Cuprophan are no
+longer in production.
+Cellulose membranes are made up of molecular 
+chains that contain hydroxyl (OH) groups. These hydroxyl 
+groups were largely responsible for the membranes’ poor 
+biocompatibility. Numerous attempts have been made to 
+Daugirdas9781451144291-ch004.indd   76 09/10/14   1:05 am
+Chapter 4 / Hemodialysis Apparatus 77
+improve biocompatibility by chemically replacing the hy -
+droxyl groups with acetate. Such membranes are known by 
+their chemical name: cellulose acetate, cellulose diacetate, 
+and cellulose triacetate depending on the number of the 
+OH groups that were replaced in the cellulose molecule. 
+Such membranes continue to be used clinically. Another 
+approach has been the addition of a tertiary amino com-
+pound to liquefied cellulose during formation of the mem-
+brane. As a result, the surface of the membrane is altered, 
+and biocompatibility is increased.
+2. Coated membranes.  Improved biocompatibility has also re -
+sulted from the coating of the membrane with an antioxi-
+dant such as vitamin E. The clinical use of such membranes 
+has resulted in an improved antioxidant profile in the blood 
+FIGURE 4.3 Blood and dialysis solution flow pathways through a hollow-fiber and parallel-
+plate dialyzer. (Modified from Man NK, Jungers P . Hemodialysis equipment. In: Hamburger 
+J, Crosnier J, Grunfeld JP , eds. Nephrology. New York, NY: Wiley; 1979:1206, 1207.)
+Daugirdas9781451144291-ch004.indd   77 09/10/14   1:05 am
+Part II / Blood-Based Therapies
+78
+of patients using the device, and in some studies, reduced 
+heparin requirements and reduced clotting.
+3. Protein-losing membranes.  Because some uremic toxins are
+tightly bound to albumin, one school of thought has been
+to use membranes with a high albumin permeability delib-
+erately. Albumin is lost during dialysis with the use of such
+membranes, but along with the albumin, protein-bound
+toxins would also be removed from the body. The clinical
+utilization of such membranes in routine dialysis treat -
+ment is not widespread. Very-high-molecular-weight cut -
+off membranes allow free passage of large macromolecules 
+but still substantially restrict the passage of albumin. Such
+have been used in the treatment of patients with light chain 
+deposition disease requiring dialysis for the removal of free 
+light chains from the blood.
+4. Membrane permeability to solutes and to water. The permeability 
+to solutes and water of each class of dialyzer membranes 
+can be altered markedly by adjusting the manufacturing
+process, changing the polymer ratio (which influences
+the membrane pore size distribution), or by adjusting the
+membrane thickness.
+5. Membrane efficiency versus flux.  The ability of a dialyzer to
+remove small-molecular-weight solutes, such as urea, is
+primarily a function of its membrane surface area mul -
+tiplied by the permeability of the membrane to urea. A
+high-
+ efficiency dialyzer is basically a big dialyzer that by
+virtue of its larger surface area has a high ability to remove 
+urea. High-efficiency dialyzers can have small or large
+pores, and thus can have either high or low clearance for
+larger-
+ molecular-weight solutes, such as β 2-microglobulin 
+(MW 11,800). High-flux membranes have large pores
+that are capable of allowing larger molecules, such as β
+2-
+microglobulin to pass through. Usually, β 2-microglobulin 
+clearances are not reported in standard dialyzer specifi -
+cation charts. High-flux membranes also have high water
+permeability, with coefficient of UF (K
+UF) values >10 mL/h 
+per mm Hg, and usually >20 mL/h per mm Hg.
+B. Interpreting a dialyzer specification sheet. Information usually pro-
+vided about dialyzers includes KUF (UF coefficient) clearance of 
+solutes such as urea, creatinine, vitamin B12, and phosphate (and 
+occasionally β2-microglobulin); membrane surface area; priming 
+volume; fiber length; and fiber wall thickness (Table 4.1).
+1. KUF. The UF coefficient, as defined in Chapter 3, is the vol-
+ume of plasma water filtered in milliliters per hour for each 
+mm Hg of TMP . Dialyzer membranes can be classified into
+low-flux or high-flux varieties in accordance with their K
+UF
+and large-molecule clearance. There is no universal classi-
+fication, but broadly speaking, dialyzers with K
+UF <8 mL/h 
+per mm Hg can be regarded as low-flux, whereas those with 
+K
+UF greater than 20 mL/h per mm Hg be regarded high-flux. 
+Dialyzers having a KUF between 8 and 20 mL/h per mm Hg
+Daugirdas9781451144291-ch004.indd   78 09/10/14   1:05 am
+Chapter 4 / Hemodialysis Apparatus 79
+are in an intermediate zone; those in the higher part of this 
+range may be regarded as high-flux dialyzers because of 
+their ability to pass β
+2-microglobulin. 
+For a dialyzer with a K UF of 2.0, in order to remove 
+1,000 mL/h, 500 mm Hg TMP will be needed. On the other 
+hand, if the K
+UF is 8.0, the TMP will have to be only 125 
+mm  Hg. When the K UF is high, small errors in setting the 
+TMP will result in large errors in the amount of ultrafil-
+trate removed. For this reason, dialyzers with a K
+UF >6.0 
+(certainly those with a K UF >8.0) should only be used with 
+dialysis machines that permit accurate UF control.
+The KUF values reported by manufacturers on dialyzer 
+specification sheets are usually in vitro values. In practice, 
+the in vivo K
+UF is often somewhat lower (5%–30%). Some 
+companies publish both an in vitro KUF and an “expected in 
+vivo KUF values. The numbers listed in Table 4.1 are mostly 
+in vitro values.
+2. Clearance. Similar to the native kidney, the solute removal
+efficiency can be expressed in terms of clearance. It can be
+defined as the volume of blood (plasma) from which a sol-
+ute is removed per unit time during its transit through the
+dialyzer. Clearance can be expressed as:
+Ks = QB
+ (Cbi − Cbo)
+Cbi
+where Ks = clearance of solute s, Cbi = blood concentration 
+of s at dialyzer inlet (arterial), Cbo = blood concentration 
+of s at dialyzer outlet (venous), and QB = blood flow rate.
+a. Mass transfer area coefficient  (K 0A). The K 0A is the maxi-
+mum theoretical clearance of the dialyzer in milliliters
+per minute for a given solute at infinite blood and dialy -
+sis solution flow rates. For any given membrane, K
+0A will 
+be proportional to the surface area of the membrane in
+the dialyzer, although there is a drop-off in the gain in
+K
+0A as membrane surface area becomes very large. The
+dialyzer mass transfer area coefficient for urea, K 0A, is a
+measure of dialyzer efficiency in clearing urea and other 
+solutes of similar molecular weight.
+Dialyzers with K
+0Aurea values <500 should only 
+be used for “low-efficiency” dialysis or for small pa-
+tients. Dialyzers with K
+0A values of 500–800 represent 
+ moderate-efficiency dialyzers, useful for routine ther -
+apy. Dialyzers with K 0A values >800 are used for “high-  
+efficiency” dialysis, although this is a relative term; many 
+modern dialyzers used routinely today have in vitro K
+0A 
+values of 1,200–1,600 mL/min.
+1. Urea clearance.  The clearance values provided by
+dialyzer manufacturers for urea (MW 60) are those
+measured in vitro. Clearances are usually reported at
+“blood” flow rates of 200, 300, and 400 mL/min. The
+Daugirdas9781451144291-ch004.indd   79 09/10/14   1:05 am
+Part II / Blood-Based Therapies
+80
+values in the specification sheet for urea clearance are 
+usually higher than those obtained during actual di-
+alysis but are useful for comparing dialyzers.
+b. Creatinine clearance. S ome manufacturers provide creati -
+nine (MW 113) clearance values. The dialyzer creatinine 
+clearance is usually about 80% of the urea clearance and 
+provides no clinically useful additional information, as 
+the clearances for the two molecules are almost always 
+proportional, regardless of  membrane or dialyzer type.
+c. Phosphate clearance.  B ecause of the growing interest in 
+prevention of hyperphosphatemia to improve outcome, 
+some dialyzer manufacturers have begun to optimize 
+the phosphate clearance of their dialyzers. This is of-
+ten reported on dialyzer specification sheets. The main 
+barrier to phosphate removal is the rather quick fall in 
+serum phosphorus level that occurs early during dialy -
+sis.  Because of this, only modest improvements in phos-
+phorus removal with optimized membranes are to be 
+expected, but the improvement is not negligible.
+d. Vitamin B 12 and β 2-microglobulin clearance.  I n vitro clear -
+ance of vitamin B 12 (MW 1,355) is an indication of how 
+well a membrane allows the passage of larger- molecular-
+weight solutes. Recently, it has become customary to 
+consider the clearance of β2-microglobulin (MW 11,800) 
+rather than that of vitamin B12 to characterize the flux of a 
+dialyzer, as both “low-flux” and “high-flux” dialyzers will 
+pass vitamin B 12. In vitro measures of β 2-microglobulin 
+clearance are problematic and are not reported. One 
+problem with making dialyzers very permeable in order 
+to increase β2-microglobulin removal has been increased 
+loss of albumin. It turns out that much of this problem 
+is due to the nonuniformity of pore size in such mem-
+branes. New “nanotechnology” approaches to manufac-
+turing high-flux membranes have resulted in relatively 
+high β2-microglobulin removal rates with very accept -
+able (low) levels of albumin loss.
+3. Surface area. T he membrane surface area of most dialyzers 
+suitable for the treatment of adult patients ranges between 
+0.8 and 2.5 m 2. Smaller-size dialyzers are available from 
+many manufacturers for the use of pediatric patients. Large 
+surface area dialyzers normally have high urea clearances, 
+although dialyzer design and thickness of the membrane 
+are also important properties. Historically, the surface area 
+played a role in respect of biocompatibility, particularly 
+with dialyzers using membranes made of unsubstituted 
+cellulose. This aspect of dialyzer function is less impor -
+tant in current dialyzers that predominantly use synthetic 
+membranes.
+4. Priming volume.  T he priming volume of most dialyzers is 
+usually within the range of 60–120 mL and is related to the 
+Daugirdas9781451144291-ch004.indd   80 09/10/14   1:05 am
+81
+Specifications of Selected Dialyzers and Hemofilters
+4.1
+TABLE
+Manufacturer Model
+Surface 
+Area (m2) Membrane Sterilization
+Performance
+KUF (mL/h 
+per mm Hg)
+Urea Cl QB 5 
+200 mL/min
+Urea Cl QB 5 
+300 mL/min K0A (mL/min)
+Priming 
+Volume (mL)
+ASAHI PAN 65DX 1.3 Polyacrylonitrile ETO 29.0 181 231 635 100
+85DX 1.7 Polyacrylonitrile ETO 38.0 190 251 839 124
+110DX 2.2 Polyacrylonitrile ETO 49.0 193 260 955 161
+APS 550S 1.1 Polysulfone Gamma 50.0 180 226 619 66
+650S 1.3 Polysulfone Gamma 57.0 186 240 731 80
+900S 1.8 Polysulfone Gamma 68.0 192 258 911 105
+1050S 2.1 Polysulfone Gamma 75.0 193 261 955 114
+Rexeed 15R 1.5 Polysulfone Gamma 63.0 196 1,138 82
+18R 1.8 Polysulfone Gamma 71.0 198 1,367 95
+21R 2.1 Polysulfone Gamma 74.0 199 1,597 112
+25R 2.5 Polysulfone Gamma 80.0 199 1,597 128
+25S 2.5 Polysulfone Gamma 80.0 199 1,597 128
+ViE 13 1.3 Polysulfone-vitamin E Gamma 37.0 183 670 80
+15 1.5 Polysulfone-vitamin E Gamma 40.0 187 755 90
+18 1.8 Polysulfone-vitamin E Gamma 43.0 190 839 105
+21 2.1 Polysulfone-vitamin E Gamma 45.0 192 911 114
+B BraunAvitum 
+AG
+Diacap LOPS 10 1.0 Polysulfone Gamma 6.8 176 217 562 58
+LOPS 10 1.2 Polysulfone Gamma 7.9 183 233 670 68
+LOPS 10 1.5 Polysulfone Gamma 9.8 189 240 809 90
+LOPS 10 1.8 Polysulfone Gamma 12.3 192 253 911 104
+(continued)
+Daugirdas9781451144291-ch004.indd   81 09/10/14   1:05 am
+82
+Manufacturer Model
+Surface 
+Area (m2) Membrane Sterilization
+Performance
+KUF (mL/h 
+per mm Hg)
+Urea Cl QB 5 
+200 mL/min
+Urea Cl QB 5 
+300 mL/min K0A (mL/min)
+Priming 
+Volume (mL)
+LOPS 10 2.0 Polysulfone Gamma 13.7 194 258 1,005 113
+HIPS 10 1.0 Polysulfone Gamma 34.0 180 223 619 58
+HIPS 12 1.2 Polysulfone Gamma 42.0 186 238 731 68
+HIPS 15 1.5 Polysulfone Gamma 50.0 190 245 839 90
+HIPS 18 1.8 Polysulfone Gamma 55.0 192 250 911 110
+HIPS 20 2.0 Polysulfone Gamma 58.0 194 253  1,005 121
+xevonta Lo 10 1.0 Polysulfone Gamma 8.0 184 236 680 61
+Lo 12 1.2 Polysulfone Gamma 9.0 189 249 812 74
+Lo 15 1.5 Polysulfone Gamma 10.0 194 267 1083 97
+Lo 18 1.8 Polysulfone Gamma 12.0 196 276 1292 110
+Lo 20 2.0 Polysulfone Gamma 14.0 198 281 1450 125
+Lo 23 2.3 Polysulfone Gamma 15.0 199 285 1614 141
+Hi 10 1.0 Polysulfone Gamma 58.0 186 241 847 61
+Hi 12 1.2 Polysulfone Gamma 69.0 191 255 1003 74
+Hi 15 1.5 Polysulfone Gamma 87.0 197 272 1312 97
+Hi 18 1.8 Polysulfone Gamma 99.0 198 281 1536 110
+Hi 20 2.0 Polysulfone Gamma 111.0 199 287 1725 125
+BAXTER PSN 120 1.2 Polysynthane ETO 6.7 180 228 619 75
+140 1.4 Polysynthane ETO 7.6 184 237 689 84
+CA 110 1.1 Cellulose acetate ETO or 
+Gamma
+5.3 176 215 562 74
+Specifications of Selected Dialyzers and Hemofilters (continued)
+4.1
+TABLE
+Daugirdas9781451144291-ch004.indd   82 09/10/14   1:05 am
+83
+130 1.3 Cellulose acetate ETO or 
+Gamma
+5.6 179 229 604 85
+150 1.5 Cellulose acetate ETO or 
+Gamma
+7.2 185 238 709 98
+170 1.7 Cellulose acetate ETO or 
+Gamma
+7.6 194 247 1,005 110
+190 1.9 Cellulose acetate ETO or 
+Gamma
+10.1 198 1,367 133
+CA-HP 90 0.9 Cellulose diacetate ETO 7.3 172 213 515 60
+110 1.1 Cellulose diacetate ETO 7.7 177 227 575 70
+130 1.3 Cellulose diacetate ETO 9.1 186 240 731 80
+150 1.5 Cellulose diacetate ETO 10.2 187 245 755 95
+170 1.7 Cellulose diacetate ETO 10.0 192 259 911 105
+210 2.1 Cellulose diacetate ETO 13.2 194 266 1,005 125
+DICEA 90G 0.8 Cellulose diacetate ETO or 
+Gamma
+6.8 173 214 526 60
+110G 1.1 Cellulose diacetate ETO or 
+Gamma
+8.4 179 229 604 70
+130G 1.3 Cellulose diacetate ETO or 
+Gamma
+10.0 186 239 731 80
+150G 1.5 Cellulose diacetate ETO or 
+Gamma
+11.4 189 248 809 95
+170G 1.7 Cellulose diacetate ETO or 
+Gamma
+12.5 191 260 873 105
+210G 2.1 Cellulose diacetate ETO or 
+Gamma
+15.5 196 268 1,138 125
+TRICEA 110G 1.1 Cellulose triacetate Gamma 25.0 188 259 781 65
+150G 1.5 Cellulose triacetate Gamma 29.0 197 278 1,233 90
+(continued)
+Daugirdas9781451144291-ch004.indd   83 09/10/14   1:05 am
+84
+Manufacturer Model
+Surface 
+Area (m2) Membrane Sterilization
+Performance
+KUF (mL/h 
+per mm Hg)
+Urea Cl QB 5 
+200 mL/min
+Urea Cl QB 5 
+300 mL/min K0A (mL/min)
+Priming 
+Volume (mL)
+190G 1.9 Cellulose triacetate Gamma 37.0 198 284 1,367 115
+210G 2.1 Cellulose triacetate Gamma 39.0 199 287 1,597 125
+EXELTRA 150 1.5 Cellulose triacetate Gamma 31.0 193 262 955 95
+170 1.7 Cellulose triacetate Gamma 34.0 196 268 1,138 105
+190 1.9 Cellulose triacetate Gamma 36.0 197 273 1,233 115
+210Plus 2.1 Cellulose triacetate Gamma 47.0 199 1,597 125
+SYNTRA 120 1.2 Polyethersulfone Gamma 58.0 185 238 709 87
+160 1.6 Polyethersulfone Gamma 73.0 190 253 839 117
+BELLCO-
+SORIN
+BLS 512 1.3 Polyethersulfone Gamma or 
+Heat
+10.0 226 599 77
+514 1.4 Polyethersulfone Gamma or 
+Heat
+12.0 229 621 85
+517 1.7 Polyethersulfone Gamma or 
+Heat
+17.0 234 662 99
+812 1.2 Polyethersulfone Gamma or 
+Heat
+51.0 241 726 73
+814 1.4 Polyethersulfone Gamma or 
+Heat
+61.0 246 778 85
+816 1.6 Polyethersulfone Gamma or 
+Heat
+68.0 250 824 94
+819 1.9 Polyethersulfone Gamma or 
+Heat
+80.0 255 888 109
+Specifications of Selected Dialyzers and Hemofilters (continued)
+4.1
+TABLE
+Daugirdas9781451144291-ch004.indd   84 09/10/14   1:05 am
+85
+FRESENIUS F 4HPS 0.8 Polysulfone Steam 8.0 170 190 494 51
+5HPS 1.0 Polysulfone Steam 10.0 179 217 604 63
+6HPS 1.3 Polysulfone Steam 13.0 186 237 731 78
+7HPS 1.6 Polysulfone Steam 16.0 188 240 781 96
+8HPS 1.8 Polysulfone Steam 18.0 252 849 113
+10HPS 2.1 Polysulfone Steam 21.0 259 945 132
+Optiflux F 160NR 1.5 Polysulfone e-Beam 45.0 266 1,064 84
+180A 1.8 Polysulfone e-Beam 55.0 274 1,239 105
+200A 2.0 Polysulfone e-Beam 56.0 277 1,321 113
+200NR 2.0 Polysulfone e-Beam 56.0 277 1,321 113
+250NR 2.5 Polysulfone e-Beam 107 198 286 1,662 135
+F 50S 1.0 Polysulfone Steam 30.0 178 589 63
+60S 1.3 Polysulfone Steam 40.0 185 709 82
+70S 1.6 Polysulfone Steam 50.0 190 839 98
+FX 40 0.6 Polysulfone Steam 20.0 170 494 32
+50 1.0 Polysulfone Steam 33.0 189 809 53
+60 1.4 Polysulfone Steam 46.0 193 955 74
+80 1.8 Polysulfone Steam 59.0 276 1,292 95
+100 2.2 Polysulfone Steam 73.0 278 1,351 116
+GAMBRO Polyflux 14S 1.4 Polyamide blend Steam 62.0 186 242 731 102
+17S 1.7 Polyamide blend Steam 71.0 191 254 873 121
+21S 2.1 Polyamide blend Steam 83.0 267 1,083 152
+24S 2.4 Polyamide blend Steam 60.0 274 1,239 165
+140H 1.4 Polyamide blend Steam 52.0 193 261 955 75
+170H 1.7 Polyamide blend Steam 65.0 195 268 1,065 94
+210H 2.1 Polyamide blend Steam 78.0 282 1,487 120
+17R 1.7 Polyamide blend Steam 71.0 254 874 121
+21R 2.1 Polyamide blend Steam 83.0 267 1,083 152
+(continued)
+Daugirdas9781451144291-ch004.indd   85 09/10/14   1:05 am
+86
+Manufacturer Model
+Surface 
+Area (m2) Membrane Sterilization
+Performance
+KUF (mL/h 
+per mm Hg)
+Urea Cl QB 5 
+200 mL/min
+Urea Cl QB 5 
+300 mL/min K0A (mL/min)
+Priming 
+Volume (mL)
+24R 2.4 Polyamide blend Steam 77.0 274 1,239 165
+14L 1.4 Polyamide blend Steam 10.0 252 849 81
+17L 1.7 Polyamide blend Steam 12.5 264 1,027 104
+21L 2.1 Polyamide blend Steam 15.0 275 1,265 123
+6L/6LR 1.4 Polyamide blend Steam 8.6 242 736 115
+8L/8LR 1.7 Polyamide blend Steam 11.3 253 861 125
+10L/10LR 2.1 Polyamide blend Steam 14.0 263 1,010 156
+HOSPAL Nephral 
+ST
+200 1.1 Polyacrylonitrile Gamma 33.0 173 216 526 64
+300 1.3 Polyacrylonitrile Gamma 40.0 181 231 635 81
+400 1.7 Polyacrylonitrile Gamma 50.0 189 250 809 98
+500 2.2 Polyacrylonitrile Gamma 65 195 1,065 126
+IDEMSA MHP 120 1.2 Polyethersulfone Gamma 29.0 180 220 619 71
+140 1.4 Polyethersulfone Gamma 33.0 182 224 652 81
+160 1.6 Polyethersulfone Gamma 37.0 186 233 731 88
+180 1.8 Polyethersulfone Gamma 44.0 193 245 955 104
+200 2.0 Polyethersulfone Gamma 50.0 195 251 1,065 112
+NIPROa Surelyzer 
+PES
+110DH 1.1 Polyethersulfone Gamma 32 187 755 68
+150DH 1.5 Polyethersulfone Gamma 43 195 249 1,065 93
+190DH 1.9 Polyethersulfone Gamma 55 198 1,367 118
+Specifications of Selected Dialyzers and Hemofilters (continued)
+4.1
+TABLE
+Daugirdas9781451144291-ch004.indd   86 09/10/14   1:05 am
+87
+Sureflux 150L 1.5 Cellulose triacetate Gamma 12.8 249 812 90
+150E 1.5 Cellulose triacetate Gamma 20.5 250 824 90
+FB 150U 1.5 Cellulose triacetate Gamma 29.8 263 1,010 90
+150UH 1.5 Cellulose triacetate Gamma 50.1 270 1,145 90
+Surelyzer 
+PES
+150DL 1.5 Polyethersulfone Gamma 16 231 637 90
+NIKKISO FLX 15GW 1.5 Polyester polymer alloy Gamma 39 193 955 92
+18GW 1.8 Polyester polymer alloy Gamma 47 197 1,233 108
+FDX 150GW 1.5 Polyester polymer alloy Gamma 50 190 839 91
+180GW 1.8 Polyester polymer alloy Gamma 57 192 911 108
+FDY 150GW 1.5 Polyester polymer alloy Gamma 52 191 873 91
+180GW 1.8 Polyester polymer alloy Gamma 59 193 955 108
+NEPHROS OLpur MD 190 1.9 Polyethersulfone E-beam 90 283b 1,527 140
+220 2.2 Polyethersulfone E-beam 105 291b 1,976 155
+TORAY B1-H 1.0 PMMA Gamma 9 169 484 73
+1.3 PMMA Gamma 12 180 619 86
+1.6 PMMA Gamma 14 187 755 98
+B3 1.0 PMMA Gamma 7 175 550 61
+1.3 PMMA Gamma 8.8 184 689 76
+1.6 PMMA Gamma 8.7 188 781 95
+2.0 PMMA Gamma 11 193 955 118
+BK-P 1.3 PMMA Gamma 26 182 652 76
+1.6 PMMA Gamma 33 189 809 94
+2.1 PMMA Gamma 41 194 1,005 126
+BS 1.3 Polysulfone Gamma 47 192 911 81
+1.6 Polysulfone Gamma 50.0 194 1,005 102
+1.8 Polysulfone Gamma 52.0 197 1,233 116
+Note: Apart from those made of cellulose material in the form of polysynthane and of various acetate salts of cellulose, all of the above filters are fashioned from synthetic material. All the filters above listed 
+consist of hollow fibers. aCl/K0A data are at QUF of 10 mL/min. bCl/K0A data at Qs = 200 mL/min.Cl, clearance; E-beam, electron-beam; ETO, ethylene oxide; Gamma, gamma irradiation; HD, hemodialysis; HDF, 
+hemodiafiltration; HF, hemofiltration; K0A, mass transfer area coefficient for urea; KUF, ultrafiltration coefficient; PMMA, polymethylmethacrylat; QB, blood flow rate; Qs, substitution fluid administration rate.
+Daugirdas9781451144291-ch004.indd   87 09/10/14   1:05 am
+Part II / Blood-Based Therapies
+88
+membrane surface area. It should be remembered that the 
+priming volume of the blood lines is about  100–150  mL. 
+Hence, total extracorporeal circuit volume will be 160–
+270  mL. The value of the extracorporeal volume of the 
+blood tubing sets and dialyzer is an important consider -
+ation when treating pediatric or very small adult patients.
+5. Fiber length and thickness.  T his information is of little clini -
+cal usefulness. Both parameters influence flow through the 
+fiber bundle, which, in turn, impacts on dialyzer efficiency.
+6. Mode of sterilization.  T he four primary methods of steriliza-
+tion are electron-beam, γ-irradiation, steam autoclaving, or 
+ethylene oxide gas. The use of ethylene oxide has lost popu-
+larity because of (a) the rare but serious occurrence of ana-
+phylactic reactions during dialysis in occasional patients 
+who are allergic to ethylene oxide and (b) environmental 
+concerns.
+References and Suggested Readings
+Axley B, et al. Venous needle dislodgement in patients on hemodialysis. Nephrol 
+ Nursing J. 2012;39:435–444.
+Core Curriculum for the Dialysis Technician 5th Edition. Medical Education Institute, 
+Madison, WI, 2013.
+Forsberg U, et al. A high blood level in the venous chamber and a wet-stored dialyzer 
+help to reduce exposure for microemboli during hemodialysis. Hemodial Int. 
+2013;17:612–617.
+Krivitski NM. Theory and validation of access flow measurement by dilution technique 
+during hemodialysis. Kidney Int. 1995;48:244–250.
+Misra M. Core curriculum: The basics of hemodialysis equipment. Hemodial Int.  
+2005;9:30–36.
+Ribitsch W , et al. Prevalence of detectable venous pressure drops expected with venous 
+needle dislodgement. Semin Dial. 2014;28:in press.
+VA Patient Safety Advisory. Bleeding Episodes During Hemodialysis. AD09-02. U.S. Veterans 
+Administration Warning System. October 21, 2008. http://www. patientsafety.va.gov/
+docs/alerts/BleedingEpisodesDuringDialysisAD09-02.pdf. Accessed March 27, 2014.
+Web Reference
+Dialyzer K0A calculator. http://www.hdcn.com/calc.htm.
+Daugirdas9781451144291-ch004.indd   88 09/10/14   1:05 am

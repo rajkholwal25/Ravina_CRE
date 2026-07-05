@@ -1,0 +1,390 @@
+{
+  "chapter": 34,
+  "questions": [
+    {
+      "topic": "Etiology of anemia in CKD",
+      "question": "What is the primary cause of the anemia of chronic kidney disease?",
+      "options": {"A": "Insufficient production of erythropoietin", "B": "Iron deficiency from chronic blood loss", "C": "Shortened red blood cell lifespan", "D": "Bone marrow suppression by uremic toxins"},
+      "correct": "A",
+      "explanation": "The anemia of CKD is primarily due to insufficient production of erythropoietin (EPO), a glycoprotein hormone whose renal production falls roughly in proportion to the declining glomerular filtration rate. EPO for erythropoiesis comes from endothelial cells near the renal tubules, so losing excretory function reduces its output. Iron deficiency from blood loss (B), an approximately 20%-30% shortened RBC lifespan (C), and other factors are real contributors but secondary; EPO deficiency is the indisputable primary cause. Untreated, hematocrit typically falls to 18%-24% in ESKD."
+    },
+    {
+      "topic": "EPO production site",
+      "question": "The erythropoietin required for erythropoiesis is generally produced by which cells?",
+      "options": {"A": "Hepatocytes in the liver", "B": "Endothelial cells in proximity to the renal tubules", "C": "Renal tubular epithelial cells", "D": "Bone marrow stromal cells"},
+      "correct": "B",
+      "explanation": "The EPO required for erythropoiesis is generally produced by endothelial cells in proximity to the renal tubules, which is why declining renal excretory function reduces EPO output and causes the anemia of CKD. Although EPO can be produced in many body tissues, this peritubular endothelial source is the physiologically relevant one for red cell production. Hepatocytes (A) are only a minor extrarenal source, and renal tubular epithelium (C) and bone marrow stroma (D) are not the sites the chapter identifies for erythropoietic EPO."
+    },
+    {
+      "topic": "Untreated anemia severity",
+      "question": "If left untreated, hematocrit values in end-stage kidney disease are typically in what range?",
+      "options": {"A": "30%–36%", "B": "25%–30%", "C": "18%–24%", "D": "10%–15%"},
+      "correct": "C",
+      "explanation": "If untreated, hematocrit values in ESKD of 18%-24% are typical, reflecting the severity of anemia when EPO deficiency is left uncorrected. Higher ranges such as 30%-36% (A) or 25%-30% (B) would represent mild or already-treated anemia, while 10%-15% (D) is more severe than usually seen. This degree of anemia drove development of ESAs; observational data link Hgb below 10 g/dL to increased mortality, which is why treatment aims at partial correction rather than leaving the hematocrit at these untreated levels."
+    },
+    {
+      "topic": "Symptoms of anemia",
+      "question": "Which are described as the most prominent symptoms of anemia?",
+      "options": {"A": "Headache and dizziness", "B": "Cold intolerance and sleep disorders", "C": "Palpitations and angina", "D": "Fatigue and dyspnea"},
+      "correct": "D",
+      "explanation": "The most prominent symptoms of anemia are fatigue and dyspnea, arising both from decreased oxygen delivery to tissues and from the heart's compensatory increase in cardiac output and left ventricular hypertrophy. Headache and dizziness (A), cold intolerance and sleep disorders (B), and palpitations and angina (C) are all mentioned as additional or later manifestations, but they are not the most prominent. Because symptoms develop slowly, patients often gradually constrict their activities and their overall sense of well-being is diminished."
+    },
+    {
+      "topic": "Physical examination of anemia",
+      "question": "The primary physical examination finding of anemia, pallor, is best detected at which sites?",
+      "options": {"A": "The palms, nail beds, and oral mucosa", "B": "The scalp and forehead", "C": "The soles of the feet and heels", "D": "The conjunctiva and sclera only"},
+      "correct": "A",
+      "explanation": "The primary physical finding of anemia is pallor, best detected on the palms of the hands, the nail beds, and the oral mucosa; a systolic ejection murmur from increased cardiac flow may also be heard over the precordium. The scalp and forehead (B), soles and heels (C), and conjunctiva and sclera alone (D) are not the sites the chapter specifies. The palms, nail beds, and oral mucosa give a more reliable assessment because these pigment-poor mucocutaneous surfaces reflect underlying perfusion and red cell mass."
+    },
+    {
+      "topic": "ESA terminology",
+      "question": "What is the currently preferred term for agents that replace erythropoietin in anemia treatment?",
+      "options": {"A": "Erythropoietin replacement drugs", "B": "Erythropoiesis-stimulating agents", "C": "Recombinant hematopoietic agents", "D": "Hemoglobin-enhancing factors"},
+      "correct": "B",
+      "explanation": "The currently preferred term is erythropoiesis-stimulating agents (ESA). This term was adopted because these drugs may be erythropoietin analogs or may stimulate erythropoiesis by other mechanisms, such as HIF stabilizers that raise endogenous EPO. Erythropoietin replacement drugs (A), recombinant hematopoietic agents (C), and hemoglobin-enhancing factors (D) are not the accepted terminology. Because EPO deficiency is the primary cause of CKD anemia, ESAs that replace or stimulate erythropoietin have a primary role in treatment."
+    },
+    {
+      "topic": "ESAs available in the US",
+      "question": "Which two erythropoietin analogs are noted as currently available in the United States?",
+      "options": {"A": "Mircera and peginesatide", "B": "Darbepoetin alfa and peginesatide", "C": "Epoetin alfa and darbepoetin alfa", "D": "Epoetin beta and methoxy-PEG-epoetin beta"},
+      "correct": "C",
+      "explanation": "Epoetin alfa (Epogen, Procrit) and darbepoetin alfa (Aranesp) are the two erythropoietin analogs currently available in the United States. Methoxy-PEG-epoetin beta (Mircera) is widely used in Europe and only expected in the US shortly, and peginesatide (Omontys) is not being marketed after allergic reactions, so any option naming Mircera or peginesatide (A, B, D) is wrong. Epoetin alfa is indistinguishable from native EPO, while darbepoetin has added carbohydrate that raises molecular weight and prolongs its half-life."
+    },
+    {
+      "topic": "Peginesatide",
+      "question": "Why is peginesatide (Omontys) currently not being marketed in the United States?",
+      "options": {"A": "It failed to demonstrate efficacy in trials", "B": "It caused pure red cell aplasia", "C": "It was too expensive to manufacture", "D": "A substantial number of allergic reactions occurred with its use"},
+      "correct": "D",
+      "explanation": "Peginesatide (Omontys) is not currently marketed in the US after a substantial number of allergic reactions occurred with its use, and the cause is under investigation. It did not fail for lack of efficacy (A) or cost (C), and pure red cell aplasia (B) is a separate ESA complication caused by antierythropoietin antibodies. Peginesatide is a synthetic PEG-attached peptide that mimics EPO's structure but has no amino acid sequence homology to EPO, a distinct design relevant to its immunogenic and allergic profile."
+    },
+    {
+      "topic": "Epoetin alfa half-life",
+      "question": "What is the approximate circulating half-life of epoetin alfa after intravenous administration?",
+      "options": {"A": "8 hours", "B": "24 hours", "C": "5.5 days", "D": "2 hours"},
+      "correct": "A",
+      "explanation": "Epoetin alfa has a circulating half-life after IV administration of approximately 8 hours. It is a recombinant glycoprotein indistinguishable from native EPO, with a molecular weight of about 30,400 Da. The 24-hour value (B) belongs to darbepoetin alfa, whose added carbohydrate raises molecular weight roughly 20% and about triples the half-life; 5.5 days (C) is Mircera's unusually long half-life, and 2 hours (D) is not cited. Epoetin's short 8-hour half-life explains why subcutaneous dosing improves its efficiency by prolonging receptor exposure."
+    },
+    {
+      "topic": "Darbepoetin alfa half-life",
+      "question": "The serum half-life of darbepoetin alfa is approximately how long?",
+      "options": {"A": "8 hours", "B": "24 hours", "C": "48 hours", "D": "5.5 days"},
+      "correct": "B",
+      "explanation": "Darbepoetin alfa has a serum half-life of approximately 24 hours, about three times longer than epoetin alfa's roughly 8 hours (A). This results from increased carbohydrate content that raises its molecular weight about 20% above native EPO and alters pharmacokinetics, allowing less frequent dosing such as 25 mcg once weekly in hemodialysis. 48 hours (C) is not cited, and 5.5 days (D) is Mircera's half-life. Because of this longer half-life, IV darbepoetin may not need subcutaneous dosing to be efficient."
+    },
+    {
+      "topic": "Mircera half-life",
+      "question": "Methoxy-polyethyleneglycol-epoetin beta (Mircera) has an unusually long serum half-life of approximately:",
+      "options": {"A": "24 hours", "B": "8 hours", "C": "5.5 days", "D": "12 days"},
+      "correct": "C",
+      "explanation": "Methoxy-PEG-epoetin beta (Mircera) has an unusually long serum half-life of approximately 5.5 days, which permits once-monthly dosing, typically 150 mcg. This is far longer than epoetin alfa's roughly 8 hours (B) or darbepoetin's roughly 24 hours (A); 12 days (D) is not cited. Because of this extended circulation there is probably no advantage to subcutaneous dosing for Mircera, so IV administration is appropriate. Mircera is widely used in Europe and expected to become available in the US shortly."
+    },
+    {
+      "topic": "HIF stabilizers",
+      "question": "How does the new class of ESAs that stabilize hypoxia inducible factor-1 (HIF) increase red cell production?",
+      "options": {"A": "By directly binding erythropoietin receptors", "B": "By prolonging red blood cell lifespan", "C": "By enhancing intestinal iron absorption", "D": "By increasing endogenous erythropoietin production, even in anephric individuals"},
+      "correct": "D",
+      "explanation": "HIF-stabilizing ESAs work by increasing endogenous erythropoietin production, even in anephric individuals. HIF synthesis rises with hypoxia and increases transcription of EPO, but HIF is rapidly degraded under normoxic conditions; drugs that stabilize HIF prevent that degradation and boost native EPO output. They do not directly bind EPO receptors (A), prolong RBC lifespan (B), or act primarily by enhancing intestinal iron absorption (C). This class is expected to be an important new option if proven safe and effective."
+    },
+    {
+      "topic": "Anemia and mortality",
+      "question": "Observational studies suggest anemia in hemodialysis patients is associated with increased mortality, particularly when hemoglobin is below what level?",
+      "options": {"A": "10 g/dL", "B": "12 g/dL", "C": "11 g/dL", "D": "9 g/dL"},
+      "correct": "A",
+      "explanation": "Cross-sectional and retrospective studies link anemia in hemodialysis patients to increased mortality, particularly when hemoglobin is below 10 g/dL (100 g/L). Database analyses also show mortality, hospitalization rate, and hospital days continue to fall even at Hgb above 11 g/dL, but these are observational; interventional trials targeting normal Hgb did not improve outcomes and often worsened cardiovascular risk. So 12 (B), 11 (C), and 9 g/dL (D) are not the cited threshold. This contrast underlies conservative, partial-correction targets."
+    },
+    {
+      "topic": "Transfusion reduction with ESA",
+      "question": "Prior to ESA therapy, approximately what proportion of dialysis patients required frequent transfusions?",
+      "options": {"A": "About 75%", "B": "Up to 20%", "C": "Up to 5%", "D": "About 50%"},
+      "correct": "B",
+      "explanation": "Prior to ESA therapy, up to 20% of dialysis patients required frequent transfusions, carrying risks of immediate transfusion reactions, viral infection, iron overload, and immune sensitization. ESA therapy greatly reduced transfusion rates, a benefit distinct from any effect on hard outcomes. About 75% (A) or 50% (D) overstate the pre-ESA transfusion burden, and up to 5% (C) understates it. Reducing immune sensitization is especially valuable for patients who may later need a kidney transplant."
+    },
+    {
+      "topic": "ESA randomized trials",
+      "question": "Which of the four noteworthy high-hemoglobin-target ESA trials was performed in dialysis patients?",
+      "options": {"A": "CREATE (Drueke, 2006)", "B": "CHOIR (Singh, 2006)", "C": "Normal Hematocrit Trial (Besarab, 1998)", "D": "TREAT (Pfeffer, 2009)"},
+      "correct": "C",
+      "explanation": "Only the Normal Hematocrit Trial (Besarab, 1998) was performed in dialysis patients; the other three high-Hgb-target trials recruited nondialysis CKD subjects, with normalized eGFR or CrCl of 15-35 mL/min in CREATE (A), 15-50 in CHOIR (B), and 20-60 in TREAT (D). Across these trials, targeting high Hgb of 13-15 g/dL produced a strong general trend toward increased cardiovascular risk, including death, which is why they collectively drove targets downward and FDA warnings."
+    },
+    {
+      "topic": "TREAT trial findings",
+      "question": "In the TREAT trial, targeting a high hemoglobin with an ESA was associated with which specific increased risk?",
+      "options": {"A": "The risk of myocardial infarction was tripled", "B": "The risk of graft thrombosis was doubled", "C": "The risk of seizures was doubled", "D": "The risk of stroke was doubled"},
+      "correct": "D",
+      "explanation": "In TREAT (Pfeffer, 2009), targeting a high Hgb with darbepoetin in type 2 diabetics with CKD doubled the risk of stroke and also increased cancer risk in the high-target group. It was not a tripled myocardial infarction (A), doubled graft thrombosis (B), or doubled seizures (C). These stroke and cancer signals, alongside the other high-target trials, prompted FDA black box warnings and downward revision of Hgb targets, reinforcing sparing ESA use with only partial correction of anemia."
+    },
+    {
+      "topic": "FDA response to ESA trials",
+      "question": "The results of the high-hemoglobin-target ESA trials prompted the FDA to take which action?",
+      "options": {"A": "Include 'black box' warnings in ESA product inserts", "B": "Withdraw all ESAs from the market", "C": "Approve higher dosing limits", "D": "Mandate subcutaneous-only administration"},
+      "correct": "A",
+      "explanation": "The high-Hgb-target ESA trials prompted the FDA to include black box warnings in ESA product inserts and led guideline committees to revise target Hgb downward, favoring sparing ESA use and only partial anemia correction. ESAs were not withdrawn (B), dosing limits were not raised (C), and subcutaneous-only administration was not mandated (D). The driving concern was a consistent signal of increased cardiovascular risk, including stroke and death, when Hgb was pushed toward 13-15 g/dL with ESAs."
+    },
+    {
+      "topic": "Initiation of ESA therapy",
+      "question": "ESA therapy should generally be initiated in CKD patients when the hemoglobin falls below which level?",
+      "options": {"A": "11.5 g/dL", "B": "10 g/dL", "C": "11.0 g/dL", "D": "9 g/dL"},
+      "correct": "B",
+      "explanation": "ESA therapy should generally be initiated in CKD patients when the Hgb falls below 10 g/dL (100 g/L). This threshold aligns with observational data linking Hgb below 10 to increased mortality while avoiding the cardiovascular risk seen at high targets. 11.5 g/dL (A) is the KDIGO upper ceiling rather than the initiation trigger, 11.0 (C) is the FDA hold level, and 9 g/dL (D) is lower than recommended for starting. Ideally, ESA therapy is begun in the pre-ESKD period if it is required."
+    },
+    {
+      "topic": "KDIGO Hgb ceiling",
+      "question": "The 2012 KDIGO anemia guidelines recommend that hemoglobin for dialysis patients should not exceed which value?",
+      "options": {"A": "13 g/dL", "B": "12 g/dL", "C": "11.5 g/dL", "D": "10 g/dL"},
+      "correct": "C",
+      "explanation": "The 2012 KDIGO anemia guidelines recommend that Hgb for dialysis patients should not exceed 11.5 g/dL (115 g/L). This is in some conflict with FDA instructions to hold ESA when Hgb is above 11.0 g/dL. Values of 13 (A), 12 (B), or 10 g/dL (D) are not the KDIGO ceiling. A reasonable practical dialysis target is 9.5-11.5 g/dL. These relatively low ceilings reflect trial evidence that pushing Hgb higher increases cardiovascular risk without improving outcomes."
+    },
+    {
+      "topic": "FDA holding instruction",
+      "question": "Current FDA prescribing instructions recommend holding ESA dosing when the hemoglobin exceeds what level?",
+      "options": {"A": "13.0 g/dL", "B": "12.0 g/dL", "C": "11.5 g/dL", "D": "11.0 g/dL"},
+      "correct": "D",
+      "explanation": "Current FDA prescribing instructions recommend holding ESA dosing when the hemoglobin is above 11.0 g/dL (110 g/L). This sits slightly below the KDIGO ceiling of 11.5 g/dL, creating some conflict between the two recommendations. 13.0 (A) and 12.0 (B) are above both thresholds, and 11.5 (C) is the KDIGO value rather than the FDA hold level. The intent is to avoid overshooting into the higher-Hgb range associated with increased cardiovascular events in the randomized ESA trials."
+    },
+    {
+      "topic": "Recommended Hgb target",
+      "question": "A reasonable hemoglobin target for patients on dialysis is:",
+      "options": {"A": "9.5–11.5 g/dL", "B": "11–13 g/dL", "C": "8–10 g/dL", "D": "12–14 g/dL"},
+      "correct": "A",
+      "explanation": "A reasonable hemoglobin target for dialysis patients is 9.5-11.5 g/dL (95-115 g/L), balancing the KDIGO ceiling of 11.5 and the FDA hold level of 11.0 against the initiation threshold of 10 g/dL. Ranges of 11-13 (B) or 12-14 g/dL (D) overshoot into the high-risk zone shown to increase cardiovascular events, while 8-10 g/dL (C) falls below effective correction. Because the optimal Hgb for ESKD is not actually known, partial and conservative correction is preferred over normalization."
+    },
+    {
+      "topic": "Volume status and Hgb",
+      "question": "Monday/Tuesday predialysis hemoglobin levels are at their weekly low point and are about how much lower than midweek predialysis levels?",
+      "options": {"A": "1.0 g/dL", "B": "0.3 g/dL", "C": "0.6 g/dL", "D": "1.5 g/dL"},
+      "correct": "B",
+      "explanation": "Monday/Tuesday predialysis Hgb levels are at their weekly low and are about 0.3 g/dL (3 g/L) lower than midweek predialysis levels, because the longer interdialytic interval causes greater fluid overload and dilution. So 1.0 (A), 0.6 (C), and 1.5 g/dL (D) overstate this effect. In markedly fluid-overloaded patients a change in predialysis Hgb may reflect fluid status more than red cell mass, an important caveat when using predialysis values to adjust ESA dose, since postdialysis Hgb can be much higher."
+    },
+    {
+      "topic": "Subcutaneous vs IV epoetin",
+      "question": "For short-acting epoetin alfa, subcutaneous administration reduces the dosing requirement by approximately how much compared with intravenous?",
+      "options": {"A": "About 50%", "B": "About 75%", "C": "About 25%", "D": "About 10%"},
+      "correct": "C",
+      "explanation": "The subcutaneous route reduces the dosing requirement of short-acting epoetin alfa by about 25% versus IV (Kaufman, 1998). Because epoetin's half-life is short (about 8 hours), IV dosing lets some drug clear before binding EPO receptors, whereas subcutaneous dosing extends the effective serum half-life for more efficient receptor binding and greater erythropoietic effect. 50% (A), 75% (B), and 10% (D) misstate the saving. Longer-acting agents such as darbepoetin or Mircera gain little from subcutaneous dosing."
+    },
+    {
+      "topic": "Route in peritoneal dialysis",
+      "question": "For patients on peritoneal dialysis, what is the dominant route of ESA administration?",
+      "options": {"A": "Intravenous", "B": "Intraperitoneal", "C": "Oral", "D": "Subcutaneous"},
+      "correct": "D",
+      "explanation": "For peritoneal dialysis patients, subcutaneous injection remains the dominant route of ESA administration, since these patients lack the ready IV access available during hemodialysis sessions. Intravenous (A) is the common route in US hemodialysis; intraperitoneal (B) and oral (C) routes are not used for ESAs. Typical PD dosing reflects the subcutaneous route, for example epoetin alfa 6,000 units once weekly or darbepoetin alfa 60 mcg every 2 weeks."
+    },
+    {
+      "topic": "Initial epoetin dose HD",
+      "question": "A reasonable starting dose of epoetin alfa for a hemodialysis patient is:",
+      "options": {"A": "2,000–3,000 units three times per week", "B": "6,000 units once per week", "C": "150 mcg once monthly", "D": "25 mcg once weekly"},
+      "correct": "A",
+      "explanation": "A reasonable starting dose of epoetin alfa for a hemodialysis patient is 2,000-3,000 units three times per week. 6,000 units once weekly (B) is the peritoneal dialysis epoetin starting dose; 150 mcg monthly (C) is a Mircera dose; and 25 mcg weekly (D) is a darbepoetin dose. Dose selection depends on how symptomatic the patient is and the starting Hgb, and an excessively rapid rise in Hgb should be avoided because it increases the risk of worsening hypertension."
+    },
+    {
+      "topic": "Initial darbepoetin dose HD",
+      "question": "A typical starting dose of darbepoetin alfa for a hemodialysis patient is approximately:",
+      "options": {"A": "60 mcg every 2 weeks", "B": "25 mcg once weekly", "C": "150 mcg once monthly", "D": "3,000 units three times weekly"},
+      "correct": "B",
+      "explanation": "A typical starting dose of darbepoetin alfa for a hemodialysis patient is approximately 25 mcg once weekly, consistent with its longer roughly 24-hour half-life. 60 mcg every 2 weeks (A) is the peritoneal dialysis darbepoetin dose, 150 mcg monthly (C) is Mircera, and 3,000 units three times weekly (D) is epoetin alfa. US practice data show a median darbepoetin dose of about 25 mcg per week, matching this starting point; doses are then titrated to the Hgb response."
+    },
+    {
+      "topic": "Mircera dosing",
+      "question": "A typical dose of Mircera would be:",
+      "options": {"A": "25 mcg once weekly", "B": "60 mcg every 2 weeks", "C": "150 mcg given once monthly", "D": "2,000 units three times weekly"},
+      "correct": "C",
+      "explanation": "A typical dose of Mircera (methoxy-PEG-epoetin beta) is 150 mcg given once monthly, enabled by its unusually long roughly 5.5-day half-life. 25 mcg weekly (A) is a darbepoetin dose, 60 mcg every 2 weeks (B) is peritoneal dialysis darbepoetin, and 2,000 units three times weekly (D) is epoetin alfa. The prolonged circulation means IV dosing is adequate for Mircera, and once-monthly administration reduces injection burden, an advantage for maintenance anemia management."
+    },
+    {
+      "topic": "Plateau effect cause",
+      "question": "During ESA initiation, a common 'plateauing' of the hemoglobin response is often due to what?",
+      "options": {"A": "Antibody formation against EPO", "B": "Hypertension", "C": "Hyperparathyroidism", "D": "Development of iron deficiency"},
+      "correct": "D",
+      "explanation": "During ESA initiation, a common plateauing of the Hgb response, where Hgb stops rising or escalating doses are needed, is often due to the development of iron deficiency, because rapid erythropoiesis quickly consumes available iron. It is not typically caused by anti-EPO antibodies (A, which produce pure red cell aplasia) or by hypertension (B) or hyperparathyroidism (C) in this early phase. Hgb is checked every 1-2 weeks during initiation, then every 2-4 weeks at target, with iron status monitored closely."
+    },
+    {
+      "topic": "KDIGO dose cap for resistance",
+      "question": "The 2012 KDIGO guidelines recommend not generally exceeding what dose when managing EPO-resistant patients?",
+      "options": {"A": "Four times the usual baseline weight-adjusted dose", "B": "Twice the usual baseline weight-adjusted dose", "C": "Six times the usual baseline weight-adjusted dose", "D": "10,000 units per week"},
+      "correct": "A",
+      "explanation": "The 2012 KDIGO guidelines recommend not generally exceeding four times the usual baseline weight-adjusted dose of EPO when managing EPO-resistant patients. Twice (B) or six times (C) baseline, or a flat 10,000 units per week (D), are not the recommended cap. The rationale is that response to ESAs plateaus at high doses, very high doses are uneconomical, and high-dose therapy is associated with worse outcomes, though it remains unclear whether the high dose itself is causal or a marker of illness severity."
+    },
+    {
+      "topic": "ESA worsening hypertension",
+      "question": "Which is a recognized risk factor for worsening hypertension during ESA therapy?",
+      "options": {"A": "Slow rise in hemoglobin", "B": "A rapid increase in hemoglobin", "C": "Bilateral nephrectomy", "D": "Baseline hemoglobin above 10 g/dL"},
+      "correct": "B",
+      "explanation": "A recognized risk factor for worsening hypertension during ESA therapy is a rapid increase in hemoglobin. Other listed risk factors are preexisting hypertension, the presence of dysfunctional native kidneys, and severe anemia before treatment. A slow Hgb rise (A) is protective, bilateral nephrectomy (C) would remove dysfunctional native kidneys rather than add risk, and baseline Hgb above 10 (D) is not a cited factor. Contributing mechanisms include reversal of hypoxic vasodilation and increased endothelin; ESA is rarely withdrawn for this."
+    },
+    {
+      "topic": "ESA and Kt/V",
+      "question": "How does an increase in hemoglobin from ESA therapy affect urea clearance and Kt/V-urea?",
+      "options": {"A": "It reduces Kt/V-urea proportionately", "B": "It increases urea clearance", "C": "Urea clearance and Kt/V-urea are not affected", "D": "It abolishes urea removal from red cells"},
+      "correct": "C",
+      "explanation": "Urea clearance and Kt/V-urea are not affected by an increase in Hgb because urea is removed from both red cells and plasma during dialysis. In contrast, creatinine and phosphorus are removed only from plasma as blood passes through the dialyzer, so as Hgb rises the plasma flow rate falls and their clearances are proportionately reduced. Therefore options claiming reduced Kt/V (A), increased urea clearance (B), or abolished red-cell urea removal (D) are incorrect for urea specifically."
+    },
+    {
+      "topic": "ESA and active malignancy",
+      "question": "For ESKD patients with active malignancy, the chapter suggests lowering the target hemoglobin to what range?",
+      "options": {"A": "11–12 g/dL", "B": "9.5–11.5 g/dL", "C": "7–8 g/dL", "D": "9–10 g/dL"},
+      "correct": "D",
+      "explanation": "For ESKD patients with active malignancy, whether or not on chemotherapy, a more conservative approach is advised, lowering the target Hgb to 9-10 g/dL (90-100 g/L). This reflects uncertainty about progression-free survival and increased thromboembolic risk in cancer patients, plus studies showing harm when ESAs targeted high Hgb (up to 16 g/dL in men). The usual 9.5-11.5 range (B) or higher targets (A) are avoided, and 7-8 (C) is lower than recommended; urgent symptomatic correction should use transfusion."
+    },
+    {
+      "topic": "Most important cause of ESA hyporesponse",
+      "question": "What is the most important cause of a suboptimal response to ESA therapy?",
+      "options": {"A": "Iron deficiency", "B": "Hyperparathyroidism", "C": "Inflammation", "D": "Aluminum intoxication"},
+      "correct": "A",
+      "explanation": "The most important cause of a suboptimal response to ESA therapy is iron deficiency, which may be present at the outset but more commonly develops during therapy from rapid iron utilization to support erythropoiesis or from blood loss. Hyperparathyroidism (B), inflammation (C), and aluminum intoxication (D) are all recognized causes of ESA resistance but are secondary in importance. This is why iron status is evaluated when a plateau or resistance develops, and why IV iron is often required in hemodialysis patients."
+    },
+    {
+      "topic": "Iron deficiency in HD patients",
+      "question": "Hemodialysis patients primarily develop iron deficiency because of what?",
+      "options": {"A": "Poor dietary intake", "B": "Chronic blood loss", "C": "Hemolysis", "D": "Impaired hepatic iron storage"},
+      "correct": "B",
+      "explanation": "Hemodialysis patients primarily develop iron deficiency because of chronic blood loss: blood retained in dialysis lines and filter, surgical loss, accidental access bleeding, laboratory sampling, and occult GI bleeding together produce substantial iron losses. Poor dietary intake (A), hemolysis (C), and impaired hepatic storage (D) are not the primary mechanism. Because of this ongoing loss, oral iron alone usually cannot maintain iron stores in HD patients, whereas peritoneal dialysis patients lose less and may manage on oral iron."
+    },
+    {
+      "topic": "Functional iron deficiency",
+      "question": "The phenomenon in which iron deficiency occurs during ESA treatment even in the face of normal body iron stores is termed:",
+      "options": {"A": "Reticuloendothelial blockade", "B": "Absolute iron deficiency", "C": "Functional iron deficiency", "D": "Anemia of chronic disease"},
+      "correct": "C",
+      "explanation": "When ESA treatment sharply increases erythropoiesis and iron demand outpaces the supply released from stores, iron deficiency can occur even with normal body iron stores; this is termed functional iron deficiency. Reticuloendothelial blockade (A) is the inflammation and hepcidin-mediated trapping of stored iron, absolute iron deficiency (B) means truly depleted stores, and anemia of chronic disease (D) is a broader entity. Functional iron deficiency classically shows a low TSAT with normal or elevated ferritin levels."
+    },
+    {
+      "topic": "Hepcidin and inflammation",
+      "question": "Occult inflammation in ESKD causes an increase in serum hepcidin, which results in what effect on iron?",
+      "options": {"A": "Increased intestinal iron absorption", "B": "Increased serum iron levels", "C": "Enhanced transferrin production", "D": "Reduced intestinal iron absorption and diminished iron availability from stores"},
+      "correct": "D",
+      "explanation": "Occult inflammation in ESKD raises serum hepcidin, which causes reduced intestinal iron absorption and diminished availability of iron from storage tissues (reticuloendothelial blockade). It does not increase absorption (A), raise serum iron (B), or enhance transferrin production (C); inflammation actually lowers serum iron and transferrin. This hepcidin effect explains why ferritin, an acute phase reactant, may be normal or high while functional iron available for erythropoiesis is poor, producing ESA hyporesponsiveness."
+    },
+    {
+      "topic": "Ferritin function",
+      "question": "What is the physiologic function of ferritin?",
+      "options": {"A": "To store iron inside cells in a nontoxic form", "B": "To transport iron in the circulation", "C": "To bind hemoglobin in red cells", "D": "To catalyze erythropoiesis"},
+      "correct": "A",
+      "explanation": "Ferritin's physiologic function is to store iron inside cells in a nontoxic form, since free iron is toxic and can generate free radicals. Although some ferritin appears in the circulation and reflects iron stores, its role is storage, not transport (B); transferrin transports iron. Ferritin does not bind hemoglobin (C) or catalyze erythropoiesis (D). Because ferritin is cleared by the liver and is an acute phase reactant, serum levels rise with hepatic insufficiency, inflammation, certain cancers, and malnutrition."
+    },
+    {
+      "topic": "Ferritin as acute phase reactant",
+      "question": "A common cause of an elevated serum ferritin level that does not reflect increased iron stores is:",
+      "options": {"A": "Dehydration", "B": "Inflammation, since ferritin is an acute phase reactant", "C": "Renal failure", "D": "Vitamin B12 deficiency"},
+      "correct": "B",
+      "explanation": "A common cause of an elevated serum ferritin that does not reflect true iron stores is inflammation, because ferritin is an acute phase reactant; levels also rise with certain cancers, with malnutrition, and with hepatic insufficiency since ferritin is liver-cleared. Dehydration (A), renal failure itself (C), and vitamin B12 deficiency (D) are not the cited causes. This is why absolute iron deficiency can coexist with a high ferritin, while a ferritin below 200 mcg/L makes iron deficiency quite likely."
+    },
+    {
+      "topic": "Transferrin saturation calculation",
+      "question": "How is the percent transferrin saturation (TSAT) calculated?",
+      "options": {"A": "TIBC divided by serum iron", "B": "Serum iron multiplied by ferritin", "C": "Serum iron divided by TIBC", "D": "Serum ferritin divided by TIBC"},
+      "correct": "C",
+      "explanation": "TSAT is calculated by dividing the serum iron by the TIBC, and normally is about 30% with a range of 20%-50%. TIBC is measured indirectly by loading a serum sample with iron and reflects transferrin, the glycoprotein that transports iron. The reversed ratio (A), serum iron times ferritin (B), and ferritin divided by TIBC (D) are incorrect formulas. In hemodialysis patients, intensification of iron therapy is considered when TSAT falls below 20% or serum ferritin below 200 ng/mL."
+    },
+    {
+      "topic": "Normal TIBC values",
+      "question": "Normal values for total iron binding capacity (TIBC) are:",
+      "options": {"A": "100–200 mcg/dL", "B": "500–700 mcg/dL", "C": "50–100 mcg/dL", "D": "240–450 mcg/dL"},
+      "correct": "D",
+      "explanation": "Normal values for total iron binding capacity (TIBC) are 240-450 mcg/dL (43-81 mcmol/L). TIBC is measured after loading a serum sample with iron and indirectly reflects transferrin, the iron-transport glycoprotein; TSAT equals serum iron divided by TIBC. The other ranges of 100-200 (A), 500-700 (B), and 50-100 mcg/dL (C) are not the cited normals. Because neither TSAT nor ferritin is very accurate in dialysis patients, results must be interpreted alongside Hgb level and ESA responsiveness."
+    },
+    {
+      "topic": "Iron therapy thresholds HD",
+      "question": "Intensification of iron therapy for hemodialysis patients should be considered at a serum ferritin below what level or a TSAT below what level?",
+      "options": {"A": "Ferritin <200 ng/mL or TSAT <20%", "B": "Ferritin <100 ng/mL or TSAT <10%", "C": "Ferritin <500 ng/mL or TSAT <30%", "D": "Ferritin <50 ng/mL or TSAT <15%"},
+      "correct": "A",
+      "explanation": "Intensification of iron therapy in hemodialysis patients should be considered at a serum ferritin below 200 ng/mL or a TSAT below 20%. For peritoneal dialysis patients, IV iron is used when ESA resistance is present with ferritin below 100 ng/mL and TSAT below 20%. The other cutoffs (B, C, D) are incorrect. Because these indices are only rough estimates, patients should not be treated intensively with IV iron based on them alone, and iron testing is usually delayed about 1 week after IV iron dosing."
+    },
+    {
+      "topic": "Reticulocyte hemoglobin content",
+      "question": "Patients are usually iron deficient and benefit from IV iron when the reticulocyte hemoglobin content (CHr) is below what value?",
+      "options": {"A": "20–25 pg/cell", "B": "29–32 pg/cell", "C": "35–40 pg/cell", "D": "15–18 pg/cell"},
+      "correct": "B",
+      "explanation": "Patients are usually iron deficient and benefit from IV iron when the reticulocyte hemoglobin content (CHr) is below 29-32 pg/cell. CHr is a more direct measure of iron availability at the level of red cell production and shows less variability than ferritin or TSAT, with good documented diagnostic accuracy and cost-effectiveness. The other ranges of 20-25 (A), 35-40 (C), and 15-18 pg/cell (D) are not the cited threshold. CHr can detect functional iron deficiency that ferritin and TSAT may miss."
+    },
+    {
+      "topic": "Oral iron in hemodialysis",
+      "question": "What do the three randomized trials of oral iron versus placebo or no treatment in hemodialysis patients demonstrate?",
+      "options": {"A": "Oral iron was superior to IV iron", "B": "Oral iron normalized ferritin in all patients", "C": "None was able to demonstrate any efficacy for oral iron", "D": "Oral iron reduced ESA dose by half"},
+      "correct": "C",
+      "explanation": "Three randomized trials comparing oral iron with placebo or no treatment in hemodialysis patients each failed to demonstrate any efficacy for oral iron, so oral iron should not be used for most HD patients. Thus oral iron was not superior to IV (A), did not normalize ferritin (B), and did not halve ESA dose (D). The likely reason is that ongoing chronic blood loss in hemodialysis outstrips what oral absorption can supply, so IV iron is generally required; in peritoneal dialysis, with less loss, oral iron may suffice."
+    },
+    {
+      "topic": "Oral iron dosing",
+      "question": "Oral iron for dialysis patients is usually given as ferrous sulfate, fumarate, or gluconate in a dosage of how much elemental iron per day?",
+      "options": {"A": "100 mg", "B": "325 mg", "C": "500 mg", "D": "200 mg"},
+      "correct": "D",
+      "explanation": "Oral iron for dialysis patients is usually given as ferrous sulfate, fumarate, or gluconate at a dosage of 200 mg of elemental iron per day, ideally on an empty stomach since the duodenum and proximal jejunum are the main absorption sites. 100 mg (A) underdoses, while 325 mg (B, a common ferrous sulfate tablet weight) and 500 mg (C) are not the cited elemental dose. GI symptoms are proportional to the elemental iron delivered at once, so smaller, more frequent, or bedtime dosing can improve tolerance."
+    },
+    {
+      "topic": "Iron absorption sites",
+      "question": "The primary sites of iron absorption in the gastrointestinal tract are:",
+      "options": {"A": "The duodenum and proximal jejunum", "B": "The stomach and pylorus", "C": "The ileum and colon", "D": "The distal jejunum only"},
+      "correct": "A",
+      "explanation": "The primary sites of iron absorption are the duodenum and proximal jejunum, which is why oral iron is ideally taken on an empty stomach and why GI symptoms are proportional to the elemental iron presented to the duodenum at one time. The stomach and pylorus (B), ileum and colon (C), and distal jejunum alone (D) are not the main sites. Phosphate binders, antacids, H2 blockers, and proton-pump inhibitors reduce iron absorption, while iron-containing binders such as ferric citrate can supply iron via the gut."
+    },
+    {
+      "topic": "IV iron preparations",
+      "question": "Which four intravenous iron preparations are noted as available in the United States?",
+      "options": {"A": "Iron dextran, ferric citrate, ferric pyrophosphate, and iron sucrose", "B": "Iron dextran, ferric gluconate, ferumoxytol, and iron sucrose", "C": "Ferumoxytol, ferric citrate, ferric gluconate, and Triferic", "D": "Iron sucrose, ferrous sulfate, ferrous fumarate, and iron dextran"},
+      "correct": "B",
+      "explanation": "The four IV iron preparations available in the US are iron dextran, ferric gluconate, ferumoxytol, and iron sucrose. Ferric citrate is an oral phosphate binder that supplies some iron, and ferric pyrophosphate citrate (Triferic) is added to dialysate and was not yet available, so lists including these or oral ferrous salts (A, C, D) are wrong. IV iron has superior availability and efficacy over oral iron, and most hemodialysis patients need it regularly because the target Hgb is hard to reach without it."
+    },
+    {
+      "topic": "IV iron anaphylaxis",
+      "question": "The anaphylactoid-type reaction to intravenous iron is characterized by which cluster of symptoms?",
+      "options": {"A": "Fever, chills, and rigors", "B": "Hypertension, headache, and seizures", "C": "Hypotension, dyspnea, flushing, and back pain", "D": "Bradycardia, nausea, and pruritus only"},
+      "correct": "C",
+      "explanation": "Anaphylactoid reactions to IV iron are characterized by the abrupt occurrence of hypotension, dyspnea, flushing, and back pain. Fever, chills, and rigors (A), hypertension with headache and seizures (B), and bradycardia with nausea and pruritus alone (D) do not describe this reaction, though milder hypersensitivity can cause itching and urticaria. These reactions are the best-understood IV iron complication, are rare overall, and are less frequent and milder with nondextran forms than with iron dextran."
+    },
+    {
+      "topic": "Iron dextran anaphylaxis rate",
+      "question": "With iron dextran, the rate of anaphylactoid reactions has been estimated at approximately:",
+      "options": {"A": "0.04%", "B": "5%", "C": "0.1%", "D": "0.7%"},
+      "correct": "D",
+      "explanation": "With iron dextran, the rate of anaphylactoid reactions has been estimated as 0.7% of treated patients, and such reactions are less frequent and milder with nondextran forms. By comparison, single-dose sodium ferric gluconate had a severe reaction rate of only 0.04% (A). 5% (B) and 0.1% (C) are incorrect. Because of this risk, iron dextran should generally be reserved for patients with a history of prior safe use, epinephrine must be at hand, and severe reactions cluster at the test or first therapeutic dose."
+    },
+    {
+      "topic": "Pure red cell aplasia cause",
+      "question": "ESA-associated pure red cell aplasia is caused by what mechanism?",
+      "options": {"A": "Development of antierythropoietin antibodies that neutralize therapeutic and endogenous EPO", "B": "Direct bone marrow toxicity of the drug", "C": "Iron overload of erythroid precursors", "D": "Viral infection of the marrow"},
+      "correct": "A",
+      "explanation": "ESA-associated pure red cell aplasia is caused by the development of antierythropoietin antibodies that neutralize both therapeutic and endogenous EPO, so Hgb and the reticulocyte count fall rapidly, patients become transfusion-dependent, and the marrow shows absent erythroid precursors. It is not direct marrow toxicity (B), iron overload (C), or viral marrow infection (D). Most cases occurred in Europe with epoetin alfa sold as Eprex, and certain biosimilar ESAs carry a greater risk of these antibodies."
+    },
+    {
+      "topic": "Pure red cell aplasia brand",
+      "question": "The majority of ESA-associated pure red cell aplasia cases occurred in Europe with epoetin alfa sold under which brand name?",
+      "options": {"A": "Epogen", "B": "Eprex", "C": "Procrit", "D": "Aranesp"},
+      "correct": "B",
+      "explanation": "The majority of ESA-associated pure red cell aplasia cases occurred in Europe with epoetin alfa sold under the brand name Eprex, with at least 184 cases reported between 1998 and 2003 and a peak in 2002. Epogen and Procrit (A, C) are US epoetin alfa brands, and Aranesp (D) is darbepoetin alfa. The syndrome results from neutralizing antierythropoietin antibodies whose exact trigger was never fully elucidated, and vigilance is needed as biosimilar ESA use increases."
+    },
+    {
+      "topic": "Hemolysis diagnosis",
+      "question": "Chronic hemolysis should be suspected when high-grade ESA resistance occurs in the presence of which laboratory findings?",
+      "options": {"A": "Increased haptoglobin and decreased LDH", "B": "Decreased bilirubin and increased ferritin", "C": "Increased LDH and unconjugated bilirubin, and decreased haptoglobin", "D": "Increased conjugated bilirubin only"},
+      "correct": "C",
+      "explanation": "Chronic hemolysis should be suspected when high-grade ESA resistance occurs with increased serum LDH, increased unconjugated bilirubin, or decreased serum haptoglobin. Options reversing these findings, such as increased haptoglobin and decreased LDH (A), decreased bilirubin (B), or conjugated bilirubin only (D), are wrong because hemolysis releases intracellular LDH and unconjugated bilirubin and consumes haptoglobin. Red cell survival is already about 30% shorter in renal failure, and severe hemolysis can cause pain, hypotension, and encephalopathy during dialysis."
+    },
+    {
+      "topic": "Correctible cause of hemolysis",
+      "question": "What is the most common correctible cause of hemolysis in dialysis patients?",
+      "options": {"A": "Autoimmune hemolytic anemia", "B": "Sickle cell disease", "C": "Drug reactions", "D": "Some problem with the hemodialysis system"},
+      "correct": "D",
+      "explanation": "The most common correctible cause of hemolysis in dialysis patients is a problem with the hemodialysis system: kinked or defective blood tubing causing mechanical RBC trauma, chloramine, a hypotonic or overheated dialysate, copper, zinc, or nitrate in the water supply, or residual formaldehyde after reprocessing. Autoimmune hemolytic anemia (A), sickle cell disease (B), and drug reactions (C) can occur but are not the most common correctible cause. Suspected acute severe hemolysis mandates immediate termination of dialysis and an ECG to check for hyperkalemia."
+    },
+    {
+      "topic": "Uremic hemostasis defect",
+      "question": "The most important contributor to the deranged state of uremic hemostasis is:",
+      "options": {"A": "Disordered platelet function (thrombasthenia)", "B": "Severe thrombocytopenia", "C": "Deficiency of clotting factors", "D": "Excess von Willebrand factor"},
+      "correct": "A",
+      "explanation": "The most important contributor to deranged uremic hemostasis is disordered platelet function (thrombasthenia). Platelet counts are commonly normal in well-dialyzed patients and severe thrombocytopenia (B) is uncommon, so quantity is not the main issue; clotting factor deficiency (C) and excess von Willebrand factor (D) are not the mechanism. Aggregation is impaired from reduced platelet granule ADP and serotonin, defective thromboxane A2, increased endothelial nitric oxide, and impaired GP IIb-IIIa activation, which dialysis partially restores."
+    },
+    {
+      "topic": "Bleeding time and hemorrhage risk",
+      "question": "The risk of hemorrhage increases when the bleeding time is elevated to more than how many minutes?",
+      "options": {"A": "5 minutes", "B": "10 minutes", "C": "15 minutes", "D": "20 minutes"},
+      "correct": "B",
+      "explanation": "The risk of hemorrhage increases when the bleeding time is elevated to more than 10 minutes. Bleeding time becomes abnormal when the platelet count is markedly decreased, platelet function is impaired, or the vascular wall is damaged. 5 (A), 15 (C), and 20 minutes (D) are not the cited threshold. Anemia itself worsens uremic bleeding, and prolonged bleeding time improves significantly when the hematocrit is raised above 30%, so correcting anemia is part of managing the uremic bleeding diathesis."
+    },
+    {
+      "topic": "Desmopressin dosing",
+      "question": "What is the recommended intravenous dose of desmopressin for uremic bleeding?",
+      "options": {"A": "3 mcg/kg as an IV bolus", "B": "0.03 mg/kg over 1 hour", "C": "0.3 mcg/kg diluted in 50 mL of saline over 30 minutes", "D": "1 mcg/kg subcutaneously"},
+      "correct": "C",
+      "explanation": "Desmopressin, a synthetic analog of antidiuretic hormone, increases release of von Willebrand factor multimers; the dose is 0.3 mcg/kg body weight diluted in 50 mL of saline given IV over 30 minutes, which reduced bleeding time within 1 hour with an effect lasting about 8 hours. The other doses (A, B, D) are incorrect. It has little vasoconstrictive effect and should not cause hyponatremia in ESKD. For longer correction, one 25-mg oral dose of conjugated estrogen normalizes bleeding time for up to 10 days."
+    }
+  ]
+}

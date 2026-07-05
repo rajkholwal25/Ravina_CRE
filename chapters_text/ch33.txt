@@ -1,0 +1,769 @@
+578
+33
+Treatment of hypertension represents a major area of intervention 
+for cardiovascular risk reduction in dialysis patients.
+ I. DEFINITION AND MEASUREMENT . Blood pressure (BP) is commonly 
+measured across hemodialysis, but peridialytic measurements 
+do not adequately reflect the BP burden. Indeed, measurements 
+made immediately before dialysis overestimate the underlying 
+average BP , and the reverse is true for postdialysis BP . Thus out-
+of-office BP monitoring is the preferable method for diagnosing 
+and monitoring BP in hemodialysis patients. Both home and 
+24-hour ambulatory BP monitoring (ABPM) can be applied, but 
+ABPM is rarely used in a routine chronic hemodialysis setting 
+unless some unusual problem with BP is suspected. Estimates 
+based on home BP are more reproducible than pre- and postdi-
+alysis BP , and associate with ABPM better than peridialytic mea-
+surements (Agarwal, 2012). Furthermore, home measurements 
+reflect target organ (left ventricular hypertrophy [LVH]) and 
+cardiovascular prognosis better than pre- and postdialysis mea-
+surements (Agarwal, 2009). Two daily home measurements, one 
+in the morning and the other before the night sleep, taken the 
+day after a midweek dialysis session, averaged over 4 weeks are 
+considered adequate for the diagnosis of hypertension  (Agarwal, 
+2009). The frequency of measurements should be higher when 
+BP lability is noted. Midweek median intradialytic BP is a more 
+sensitive indicator of the prevailing BP burden (i.e., average 
+ABPM) than predialysis or postdialysis BP and may be applied 
+when home measurements are not feasible (Agarwal and Light, 
+2010). When ABPM is done, the period of monitoring should ide-
+ally cover the whole interdialytic interval (44 hours with a 3-per-
+week schedule, beginning after the midweek session). Although 
+long sessions of ABPM are generally poorly tolerated, ABPM can 
+give some information regarding the nocturnal BP profile, which 
+is frequently altered in dialysis patients, but effective means of 
+correcting lack of nocturnal BP dipping in this population have 
+not been determined.
+The definition of hypertension (Table 33.1) depends on 
+the method of measurement (average home BP: > 135/85 mm 
+Hypertension
+Carmine Zoccali and Francesca 
+ Mallamaci
+Daugirdas9781451144291-ch033.indd   578 11/10/14   3:45 am
+579Chapter 33 / Hypertension
+Hg; ABPM: > 130/80 mm Hg;  midweek median intradialysis 
+BP: >140/90 mm Hg). Average home BP > 135/85 mm Hg is 
+considered a valid threshold for the definition of hypertension 
+in patients on both hemodialysis and peritoneal dialysis. High 
+visit-to-visit BP variability is common in end- stage kidney 
+disease (ESKD) patients and is a strong predictor of mortality 
+(Rossignol, 2012). Methods of reducing BP variability in this 
+population have not been systematically evaluated.
+ II. P ATHOPHYSIOLOGY
+A. Extracellular volume expansion and sodium retention  remains 
+the main cause of hypertension. A relationship between 
+chronic volume expansion and mortality is well estab -
+lished  (Wizemann, 2009). There is an association between 
+ECF  volume expansion and diastolic dysfunction in dialysis 
+patients (Joseph, 2006), and it is not always clear to what 
+extent volume overload is a cause rather than a marker for 
+severe cardiac disease. Recent attention has been called to 
+nonosmotic accumulation of sodium in the subcutaneous 
+space and in other organs. Nonosmotic accumulation of 
+sodium in the muscles has been found in human hyperten-
+sion (Kopp, 2013), and a similar finding was documented 
+over 30 years ago in dialysis patients (Montanari, 1978). The 
+consequences of nonosmotic sodium accumulation in vari -
+ous tissues are not fully known, but elevated sodium stores 
+may impact inflammatory and cardiac fibrotic processes 
+Definition
+Hypertension in dialysis patients should be preferentially defined on the basis of 
+home or 24h-ABPM measurements during a midweek dialysis interval. Thresholds 
+proposed by the European Society of Hypertension and the European Society of 
+Cardiology can be adopted for these measurements (Mancia 2013).
+Home measurements: systolic BP >135 mm Hg and/or diastolic pressure >85 mm 
+Hg
+24h-ABPM measurements (midweek dialysis interval): systolic BP >130 mm Hg 
+and/or diastolic pressure >80 mm Hg
+If home or 24h-ABPM cannot be applied, hypertension can be diagnosed as 
+midweek median intradialysis systolic pressure >140 and/or diastolic pressure 
+>90 mm Hg when the patient is believed to be at “dry weight” (see text).
+Drug therapy goals
+Arterial pressure goals should be established individually, taking into account age, 
+comorbid conditions, cardiac function, and neurologic status.
+Treatment targets: home BP <135/85 mm Hg or 24h-ABPM <130/80 or median 
+intradialysis BP <140/90 mm Hg.
+BP , blood pressure.
+Definition of Hypertension Indications for Drug Therapy of 
+Hypertension in Dialysis Patients33.1
+TABLE
+Daugirdas9781451144291-ch033.indd   579 11/10/14   3:45 am
+Part IV / Clinical Problem Areas
+580
+via vascular endothelial growth factor C (Mallamaci, 2008; 
+ Machnik, 2010) and other mechanisms.
+B. Inappropriately high vascular tone.  Sodium accumulation in 
+arterial smooth muscle cells may contribute to increased 
+ vascular stiffness. Sleep apnea, a condition characterized by 
+high sympathetic activity, is exceedingly common in dialysis 
+patients, and associates with vasoconstriction and nocturnal 
+hypertension. Sympathetic overactivity triggered by afferent 
+signals originating in diseased kidneys can cause secondary 
+activation of the renin–angiotensin system, and this may play 
+an important role in the high peripheral vascular resistance 
+seen in ESKD. In fact, there are reports of BP and sympathetic 
+activity both falling dramatically after bilateral nephrectomy 
+(Converse, 1992) in dialysis patients, and radiofrequency abla-
+tion of renal sympathetic nerve fibers produces similar effects 
+(Schlaich, 2013). Asymmetric dimethyl-arginine (ADMA), an 
+endogenous inhibitor of nitric oxide synthase, is elevated in 
+dialysis patients, and high levels associate with elevated sym-
+pathetic nervous system activity (Mallamaci, 2004).
+C. Hypertension and left ventricular hypertrophy.  The usual reasons 
+for treating hypertension are to reduce the risk of stroke and 
+cardiovascular events. One popular surrogate outcome for 
+cardiovascular events and mortality is the presence of left ven-
+tricular hypertrophy, and many studies looking at reduction 
+of fluid overload and/or antihypertensive treatment of dialysis 
+patients have focused on change in left ventricular mass. It is 
+important to realize that substantial left ventricular hypertro-
+phy can be present in dialysis patients even at normal levels 
+of BP (Mominadam, 2008), and that when one is optimizing 
+extracellular fluid status, one is doing it not only to control BP , 
+but also aiming at optimizing cardiac structure and function.
+ III. TREA TMENT
+A. Prevention
+1. Sodium and fluid restriction.  Most fluid intake is driven by salt 
+ingestion, and nutritional recommendations are discussed 
+in Chapter 31. Patients should be encouraged to restrict 
+sodium chloride ingestion to 5 g per day (2 g or 87 mmol 
+sodium). Another source of sodium is diffusive gain from 
+dialysis solution when the dialysate sodium is greater 
+than the predialysis plasma level. Many units tend to use 
+the same dialysate sodium level for all dialysis patients, 
+regardless of their predialysis sodium, while patients’ pre-
+dialysis sodium levels may range from 130 to 145 mmol/L. 
+Use of a dialysate sodium higher than that of plasma can 
+improve hemodynamic tolerance to fluid subtraction but 
+increases thirst and fluid intake postdialysis. This results in 
+an increased interdialytic weight gain, which then requires 
+a higher ultrafiltration rate during the next dialysis. Some 
+nephrologists favor use of “sodium profiling,” where, with 
+the aid of an advanced dialysis machine, one can begin 
+Daugirdas9781451144291-ch033.indd   580 11/10/14   3:45 am
+581Chapter 33 / Hypertension
+the dialysis session with a sodium level higher than the 
+patient’s plasma level, and then progressively reduce dialy-
+sate sodium during the treatment, so that dialysis ends 
+it with a dialysate sodium below the initial plasma level. 
+Sodium profiling can offer some of the benefits of higher 
+sodium dialysis in terms of hemodynamic stability while 
+minimizing the interdialytic weight gain effect, but only if 
+the time-averaged dialysate sodium level during the ses-
+sion does not exceed the initial plasma level.
+Preliminary data suggest that lowering dialysate so-
+dium unitwide ( from 140 to 137 mM) may reduce interdia-
+lytic weight gain as well as fluid-related hospitalization rate 
+(Lacson, 2011).
+2. Longer and/or more frequent dialysis sessions.  These are dis-
+cussed in Chapter 16. Frequent dialysis schedules and long, 
+nocturnal dialysis may substantially improve BP control 
+in hypertensive dialysis patients and revert LVH. Apart 
+from frequency, increasing the length of a dialysis session 
+allows for a slower ultrafiltration rate, and increases the 
+time available to finish dialysis at the desired postdialysis 
+weight.
+B. Correction of salt and fluid overload
+1. Clinical assessment of dry weight.  Ideally, a dialysis treatment 
+should bring the patient back to a normal extracellular 
+volume. In clinical practice, the “dry weight” is defined as 
+the level below which further fluid removal would produce 
+hypotension, muscle cramps, nausea, and vomiting. How-
+ever, the occurrence of such symptoms depends on how 
+quickly fluid is removed, on the dialysis strategy used, on 
+the predialysis volume status, and on concomitant drug 
+treatment (many antihypertensive drugs impair the reflex 
+cardiovascular adjustments to volume removal).
+a. T ime delay in BP fall after correction of fluid overload.  There 
+may be a time delay between lowering extracellular fluid 
+and correction of markedly elevated BP (Charra, 1998). 
+For this reason, if BP does not reduce initially after low-
+ering the dry weight, this does not exclude hypervolemia 
+as a cause of the hypertension. The lag phenomenon fits 
+well with the hypothesis that nonosmotic sodium accu-
+mulation may occur in dialysis patients. Although it may 
+take a considerable amount of time for this sodium to be 
+removed from various tissue spaces (this has not been 
+well studied), it is more likely that delayed improvement 
+in hypertension after correction of longstanding fluid 
+excess is due to vascular remodeling.
+b. Need for frequent reassessment.  Dry weight and the nutri-
+tional status should be reevaluated frequently, because 
+loss of muscle mass due to malnutrition or to intercur -
+rent illness can result in fluid overload. For example, 
+when a patient returns to the dialysis unit after a hos-
+pitalization, the previously determined level of “dry 
+Daugirdas9781451144291-ch033.indd   581 11/10/14   3:45 am
+Part IV / Clinical Problem Areas
+582
+weight” will almost always need to be reset to a lower 
+level, due to intercurrent loss of lean body mass.
+2. T echnology
+a. Bioimpedance analysis (BIA).  The assessment of dry weight 
+is based on subjective clinical assessment. Tracking opti-
+mal dry weight by the usual clinical criteria (presence 
+of edema, jugular venous distension, lung râles) may 
+be difficult. Furthermore, edema may not be detectable 
+until the interstitial volume has risen by about one-third 
+above normal (e.g., about 5 L). Multifrequency bioimped-
+ance spectroscopy has now emerged as a reliable method 
+to measure body fluids. The Body Composition Monitor 
+(BCM, Fresenius Medical Care, Germany) is one such 
+device that has been well validated in dialysis patients 
+(Moissl, 2006). The application of a BCM-based treat -
+ment policy aimed at minimizing fluid overload has been 
+used to control hypertension in a dialysis setting (Moissl, 
+2013). In a randomized controlled trial, a BCM-guided 
+fluid management approach led to clear-cut improve-
+ment in left ventricular mass index and vascular stiffness 
+(Hur, 2013). However, no evidence has been produced so 
+far that use of BCM-guided “dry weight” increases sur -
+vival or reduces fluid-related hospitalization.
+b. Other methods.  Continuous recording of hematocrit dur -
+ing dialysis (Crit-line Monitor) is considered a useful 
+method, but a clinical trial testing the hypothesis that 
+the systematic use of this device would improve clinical 
+outcomes found higher, rather than lower, nonvascular 
+and vascular access–related hospitalizations and mor -
+tality as compared with conventional monitoring (Red -
+dan, 2005). Ultrasonography of the inferior vena cava 
+diameter or the measurement of the diameter of the left 
+atrium are both sensitive to volume changes but do not 
+reflect interdialytic BP (Agarwal, 2011) and are therefore 
+of limited value for assessing dry weight. Serum levels 
+of brain natriuretic peptide (BNP) largely reflect left 
+ventricular mass (Zoccali, 2001) and are unsuitable for 
+volume monitoring (Agarwal, 2013). Pulmonary conges-
+tion can be detected and monitored by an easy to apply, 
+reliable ultrasound technique that can be performed 
+with virtually all ultrasound machines and probes (Mal-
+lamaci, 2010). Lung congestion is a strong predictor of 
+death and cardiovascular events (Zoccali, 2013). Use 
+of lung ultrasonography to help establish dry weight in 
+dialysis patients with heart disease is attractive in the-
+ory, but its ability to improve hard outcomes such as hos-
+pitalization or mortality has not been tested.
+C. Common clinical problems
+1. Excessive ultrafiltration.  Overzealous ultrafiltration may pre -
+cipitate severe hypotension and disastrous cardiovascular 
+consequences such as myocardial or cerebral infarction 
+Daugirdas9781451144291-ch033.indd   582 11/10/14   3:45 am
+583Chapter 33 / Hypertension
+and mesenteric ischemia. Frequent intradialytic hypo -
+tensive episodes are associated with increased mortality, 
+although it is not clear whether this association is causal 
+in nature (Shoji, 2004). Intradialytic hypotension is also 
+associated with “myocardial stunning” (manifesting as car-
+diac wall motion abnormalities) and with subtle ischemic 
+changes to brain white matter linked to mood and cogni-
+tion (Selby, 2014). Intensification of ultrafiltration without 
+markedly prolonging dialysis time improves hypertension 
+control, but increases hospitalizations for cardiovascular 
+complications, and also increases the risk of arteriovenous 
+fistula clotting (Curatola, 2011). It is possible that the inci-
+dence of falls may be increased. Rapid ultrafiltration rates 
+increase the risk of dialysis hypotension, and in one obser -
+vational study, ultrafiltration rates greater than 12.4 mL/kg 
+per hour were associated with increased mortality (Movilli, 
+2007). Methods of minimizing the risk of intradialytic hypo-
+tension are discussed in Chapter 12. Another issue with 
+reduction of extracellular fluid volume in both hemo- and 
+peritoneal dialysis patients is an associated fall in residual 
+urine volume. This urine volume is important in avoiding 
+spikes in extracellular fluid volume, as well as for associ-
+ated removal of phosphorus, higher weight middle mol-
+ecules, and protein-bound uremic toxins. In patients with 
+substantial residual urine output, it is not clear to what 
+extent it is possible to achieve optimum levels of extracel-
+lular fluid volume while still maintaining residual kidney 
+function. It may be that the loss of residual kidney function 
+in such circumstances is an unavoidable price that must be 
+paid.
+2. Intradialysis and end-dialysis hypertension  can occur in about 
+15% of dialysis patients and have been associated with a 
+higher death risk (Inrig, 2009). This disturbance is mul-
+tifactorial and may reflect subclinical volume overload. 
+Sympathetic and renin–angiotensin overactivity as well as 
+endothelial dysfunction also have been linked to this con -
+dition. At the present time, it is not clear how to treat this; 
+anecdotally, lowering the target dry weight has worked in 
+some patients, but it is by no means clear that such patients 
+are uniformly fluid-overloaded.
+3. Recurrent hypertension.  If hypertension recurs in a patient 
+after being well controlled by volume subtraction, the most 
+likely explanation is that the patient has returned to a state 
+of volume excess.
+D. Antihypertensive drug use.  In patients with baseline LVH, treat -
+ment by volume subtraction is more effective in reducing 
+LVH than BP lowering by antihypertensive drug treatment 
+ (Ozkahya, 2006). Still, a substantial number of dialysis patients 
+receive antihypertensive drug treatment, and observational 
+data suggest that such treatment lowers mortality overall, 
+with most documented benefits being reported for patients 
+Daugirdas9781451144291-ch033.indd   583 11/10/14   3:45 am
+Part IV / Clinical Problem Areas
+584
+taking renin–angiotensin–aldosterone system (RAAS) inhibi-
+tors or beta-blockers. The mean number of antihypertensive 
+drugs prescribed for incident hemodialysis and peritoneal 
+dialysis patients is 2.5 at the sixth month of dialysis treatment. 
+Prescription patterns of these drugs vary by dialysis modal-
+ity, and substantial changes in prescription patterns of beta-
+blockers, renin–angiotensin system antagonists, and calcium 
+channel blockers occur from the sixth month on. Further -
+more, prescription classes vary by comorbidity, race/ethnicity, 
+and age, but little by sex (St Peter, 2013).
+1. Angiotensin-converting enzyme (ACE) inhibitors and angiotensin II 
+receptor blockers (ARBs). These drugs are generally well toler-
+ated. The fact that serum plasma renin activity is overtly 
+high in some dialysis patients and inadequately suppressed 
+in volume-expanded patients provides a pathophysiologic 
+rationale for use of these drugs. Because angiotensin II is 
+strongly implicated in LVH even independently of hyper -
+tension, the use of this class of drugs would in theory be 
+particularly useful in dialysis patients, as so many have LVH 
+to begin with. However, randomized, placebo-controlled 
+trials using ramipril in normotensive dialysis patients (Yu, 
+2006) and in patients with LVH and normal or high BP 
+(Zannad, 2006) failed to show LVH regression. In hyperten-
+sive dialysis patients, open–label randomized trials with 
+candesartan (Takahashi, 2006) or with various angioten-
+sin receptor blockers (candesartan, losartan, or valsartan; 
+Suzuki, 2008) versus placebo showed a significant risk 
+reduction with ARBs (about 30%) for death and cardiovas-
+cular events, even though BP control in the ARB-treated 
+patients was almost identical to that in the corresponding 
+control arms. One large open-labeled trial with olmesartan 
+in hypertensive dialysis patients without previous cardio-
+vascular complications, failed to show a benefit on mortal-
+ity and cardiovascular events (Iseki, 2013).
+a. Side effects and dosing adjustments. ACE inhibitors, by inter-
+fering with bradykinin breakdown, may be associated 
+with an increased incidence of anaphylactoid reactions 
+during dialysis. ACE inhibitors have been associated 
+with hyperkalemia in patients with renal insufficiency, 
+but can often be used in dialysis patients with minor 
+adjustment to the potassium content of the diet, if 
+needed. Other side effects are cough, skin rash, altera-
+tion of taste, and, rarely, agranulocytosis or angioedema. 
+Lower angioedema and cough risk are factors in favor 
+of ARBs. Worsening of anemia and erythropoietin resis-
+tance is another purported side effect of ACE inhibitors, 
+an effect that depends on the accumulation of N-acetyl-
+seryl-aspartyl-lysyl-proline, a physiologic inhibitor of 
+hematopoiesis whose degradation depends on ACE. 
+Because plasma half-life of many ACE inhibitors (or of 
+their active metabolites) is prolonged in renal failure, 
+Daugirdas9781451144291-ch033.indd   584 11/10/14   3:45 am
+585Chapter 33 / Hypertension
+reduction in dosage is often required. ARBs are exten-
+sively metabolized by the liver and do not require dose 
+adjustment.
+2. Beta-, alpha/beta-, and alpha-adrenergic blockers.  Beta-  blockers 
+counteract the cardiovascular effects of high sympa-
+thetic activity and lower plasma renin activity (PRA) and 
+angiotensin II, which may all participate in causing high 
+BP in dialysis patients. Many show a documented cardio -
+protective effect in the setting of myocardial ischemia or 
+infarction. High plasma noradrenaline associates with car-
+diovascular mortality in ESKD (Zoccali, 2002). Carvedilol, 
+an alpha/beta-blocker, reduces morbidity and mortality 
+in dialysis patients with systolic dysfunction (Cice, 2003). 
+A  superior cardioprotective effect of beta-blockade by 
+atenolol over ACE inhibition by lisinopril has been recently 
+documented in the HDPAL trial (Agarwal, 2014). In this trial 
+of 200 dialysis patients who were randomized to receive 
+either lisinopril or atenolol, 44-hour ambulatory BP was 
+similarly reduced over time in the atenolol and lisinopril 
+groups (notwithstanding a greater decrease in postdialysis 
+body weight and an increased use of other antihypertensive 
+agents in lisonopril-treated patients). Importantly, the risk 
+of major cardiovascular events was halved in the atenolol 
+group as compared with the lisinopril group, to the point 
+that the safety monitoring board for the study recom-
+mended early termination of the trial.
+a. Side effects and dosing adjustments.  Alpha-blockers may 
+cause postural hypotension. Prazosin has been associ-
+ated with first-dose syncope, so the first dose must be 
+administered at bedtime. Beta-adrenergic blockers have 
+a high incidence of side effects, such as drowsiness, 
+lethargy, and depression. Non-selective beta-blockers 
+need to be used cautiously in patients with a tendency 
+toward pulmonary edema or asthma and in patients 
+already being treated with some calcium channel block -
+ers. Beta-blockers have an adverse effect on serum lipids; 
+they may also have an adverse effect on cell potassium 
+uptake, tending to increase the serum potassium level. 
+They can mask the symptoms of hypoglycemia and aug-
+ment insulin-induced hypoglycemia. All may cause bra-
+dycardia and interfere with reflex tachycardia following 
+volume depletion.
+Water-soluble beta-blockers atenolol, nadolol, and 
+bisprolol are removed substantially by hemodialysis and 
+should be preferentially administered postdialysis.
+3. Calcium channel blockers. These drugs are frequently used for 
+the treatment of volume-resistant hypertension in dialy -
+sis patients. A large meta-analysis of BP lowering drugs in 
+patients with hypertension and/or cardiovascular disease 
+showed that calcium antagonists are more efficacious than 
+other main classes of antihypertensive drugs, including 
+Daugirdas9781451144291-ch033.indd   585 11/10/14   3:45 am
+Part IV / Clinical Problem Areas
+586
+beta-blockers, ACE inhibitors, and angiotensin II recep-
+tor blockers in reducing the risk of stroke, and similarly 
+effective in preventing coronary heart disease events (Law, 
+2009). In a randomized, double blind trial in hypertensive 
+dialysis patients, amlodipine produced a 9-mm Hg fall in 
+systolic pressure and did not change diastolic pressure over 
+a 19-month follow-up. Amlodipine treatment in this trial 
+was associated with a 47% decrease in the combined sec-
+ondary end point (mortality from any cause or cardiovas-
+cular event), while the risk reduction (∼35%) for mortality 
+(primary end point) failed to achieve statistical signifi -
+cance (Tepel, 2008).
+a. Side effects and dosing adjustments.  Verapamil can cause 
+cardiac conduction problems, bradycardia, and consti-
+pation. Calcium channel blockers should be used very 
+cautiously in combination with beta-adrenergic block -
+ers, because congestive heart failure can be precipitated. 
+Other side effects are ankle edema, headache, flushing, 
+palpitations, and hypotension. Long-acting prepara-
+tions should be used. Calcium channel blockers are 
+excreted primarily by the liver, their pharmacokinetic 
+profile is unaltered in chronic renal failure and by dialy -
+sis (Table  33.2), and their dosage does not require any 
+adjustment.
+4. Sympatholytic drugs  (e.g., methyldopa, clonidine, guana-
+benz). As noted above, there appears to be increased tonic 
+sympathetic activity in dialysis patients, so use of central 
+sympatholytic drugs, which inhibit sympathetic outflow 
+by stimulating alpha-adrenoreceptors in the brain stem, is 
+theoretically attractive. One side benefit of clonidine is its 
+usefulness in the treatment of diarrhea due to autonomic 
+neuropathy. Moreover, methyldopa and clonidine are rela-
+tively inexpensive—often an important consideration. 
+Moxonidine added to other antihypertensive drugs was 
+well tolerated in one study of patients with advanced renal 
+failure, and was comparable to nitrendipine in terms of 
+efficacy (Vonend, 2003). A low, nonhypotensive dose of this 
+drug produces a sustained reduction in directly recorded 
+sympathetic activity in dialysis patients (Hausberg, 2010).
+a. Side effects and dosing adjustments.  This class of drugs does 
+have side effects. For clonidine these include sedation, 
+dry mouth, depression, and postural hypotension. The 
+last may be a particular problem in diabetic patients. 
+Clonidine may cause rebound hypertension if it is 
+abruptly withdrawn. Such side effects are substantially 
+reduced with the transdermal formulation. Guanabenz 
+and guanfacine are less likely to cause rebound hyper -
+tension but are more expensive. A large clinical trial of 
+moxonidine in heart failure, MOXCON, was stopped 
+because of excessive deaths in the moxonidine group 
+(Cohn, 2003), which contrasts with the beneficial effect 
+Daugirdas9781451144291-ch033.indd   586 11/10/14   3:45 am
+587Chapter 33 / Hypertension
+Drug
+Tablet Size 
+(mg)
+Initial Dose 
+in Dialysis 
+Patients (mg)
+Maintenance 
+Dose Dialysis 
+Patients (mg)
+Removal 
+During 
+Hemodialysis
+Ca antagonists
+Amlodipine 5 5 q24h 5 q24h No
+Diltiazem 
+extended 
+release
+120, 180, 240, 
+300, 360
+120 q24h 120–300 q24h No
+Felodipine 5, 10 5 q24h 5–10 q24h No
+Isradipine 5 5 q24h 5–10 q24h No
+Nicardipine 
+(slow release)
+30 30 b.i.d. 30–60 b.i.d. No
+Nifedipine XL 30, 60 30 q24h 30–60 q24h No
+Verapamil 40, 80, 120 40 b.i.d. 40–120 b.i.d. No
+ACE inhibitors
+Captopril 25, 50 12.5 q24h 25–50 q24h Yes a
+Benazepril 5, 10, 20, 40 5 q24h 5–20 q24h Yes a
+Enalapril 2.5, 5, 10, 20 2.5 q24h or 
+q48h
+2.5–10 q24h or 
+q48h
+Yesa
+Fosinopril 10, 20 10 q24h 10–20 q24h Yes a
+Lisinopril 5, 10, 20, 40 2.5 q24h or 
+q48h
+2.5–10 q24h or 
+q48h
+Yesa
+Perindopril 4 2 q48h 2 q48h Yes a
+Quinapril 5, 10, 20, 40 2.5 q24h 10–20 q24h No
+Ramipril 1.25, 2.5, 5, 10 2.5–5 q24h 2.5–10 q24h Yes a
+Beta-blockers
+Acebutolol 200, 400 200 q24h 200–300 q24h Yes a
+Atenolol 50, 100 25 q48h 25–50 q48h Yes a
+Bisoprolol 2.5 2.5 q24h 2.5 q24h Yes a
+Carvedilol 5 5 q24h 5 q24h Yes a
+Metoprolol 50, 100 50 b.i.d. 50–100 b.i.d. Yes a
+Nadolol 20, 40, 80, 
+120, 160
+40 q48h 40–120 q48h Yes a
+Pindolol 5, 10 5 b.i.d. 5–30 b.i.d. Yes a
+Propranolol 10, 40, 80 40 b.i.d. 40–80 b.i.d. Yes a
+Adrenergic 
+modulators
+Clonidine 0.1, 0.2, 0.3, 
+TTS 0.2
+0.1 b.i.d. 0.1–0.3 b.i.d., 
+TTS weekly
+No
+Antihypertensive Drugs in Dialysis Patients: Dosages and 
+Removal during Dialysis33.2
+TABLE
+(continued)
+Daugirdas9781451144291-ch033.indd   587 11/10/14   3:45 am
+Part IV / Clinical Problem Areas
+588
+Drug
+Tablet Size 
+(mg)
+Initial Dose 
+in Dialysis 
+Patients (mg)
+Maintenance 
+Dose Dialysis 
+Patients (mg)
+Removal 
+During 
+Hemodialysis
+Guanabenz 4, 8 4 b.i.d. 4–8 b.i.d. No
+Guanfacine 1, 2 1 q48h 1–2 q24h No
+Labetalol 100, 200, 300 200 b.i.d. 200–400 b.i.d. No
+Prazosin 1, 2, 5 1 b.i.d. 1–10 b.i.d. No
+Terazosin 1, 2, 5 1 b.i.d. 1–10 b.i.d. No
+Vasodilators
+Hydralazine 10, 25, 50, 100 25 b.i.d. 50 b.i.d. No
+Minoxidil 2.5, 10 2.5 b.i.d. 2.5–10 b.i.d. Yes a
+Angiotensin 
+II receptor 
+blockers
+Candesartan 4, 8, 16, 32 4 q24h 8–32 q24h No
+Eprosartan 400, 600 400 q24h 400–600 q24h No
+Irbesartan 75, 150, 300 75–150 q24h 150–300 q24h No
+Losartan 50 50 q24h 50–100 q24h No
+Telmisartan 40, 80 40 q24h 20–80 q24h No
+Valsartan 80, 160 80 q24h 80–160 q24h No
+Olmesartan 10-40 10 q24h 10-40 q24h No
+a The dose of drugs that are removed by hemodialysis should be scheduled so that it is adminis-
+tered after dialysis.
+None of the drugs in the table undergoes substantial removal during continuous ambulatory peri-
+toneal dialysis.
+q24h, daily; b.i.d., two times per day; q48h, every other day; ACE, angiotensin-converting enzyme; 
+TTS, transdermal therapeutic system.
+of beta-blockers in the same condition. The use of this 
+drug in dialysis patients with heart failure is therefore 
+unwarranted. Methyldopa may cause hepatotoxicity or 
+a positive direct or indirect Coombs test, interfering with 
+cross-matching of blood. Methyldopa, clonidine, and 
+guanfacine are excreted substantially by the kidneys, 
+and dosage reductions may be required. Methyldopa is 
+removed by hemodialysis to a substantial extent. Guana-
+benz is metabolized by the liver and requires no dosage 
+adjustment in renal failure.
+5. V asodilators  (e.g., hydralazine, minoxidil). These are third-
+line drugs. They usually require addition of a sympatho-
+lytic or beta-blocking drug because they tend to cause 
+reflex tachycardia. Side effects of both drugs relate primar-
+ily to this reflex tachycardia and resulting palpitations, 
+Antihypertensive Drugs in Dialysis Patients: Dosages and 
+Removal During Dialysis (continued)33.2
+TABLE
+Daugirdas9781451144291-ch033.indd   588 11/10/14   3:45 am
+589Chapter 33 / Hypertension
+dizziness, and worsening of angina pectoris. Hydralazine 
+is effective and inexpensive, but can cause a lupus-like 
+ syndrome at dosages of more than 200 mg per day. Because 
+of diminished renal excretion of its active metabolite(s), the 
+maximum allowable dosage should be reduced in dialysis 
+patients. Minoxidil has been associated with pericardi-
+tis and is generally avoided in women because of hyper -
+trichosis. Minoxidil is usually reserved to treat resistant 
+hypertension.
+ I V. HYPERTENSIVE URGENCIES AND EMERGENCIES
+A. Hypertensive urgency. The term hypertensive urgency is reserved 
+for patients who are at significant risk for a serious morbid 
+event within a matter of days if left untreated.
+1. T reatment.  The ideal rate of BP reduction in hypertensive 
+urgencies is a balance between the risks of inadequate ver-
+sus too-rapid lowering. In chronic hypertension, the range 
+of cerebral autoregulation is reset upward so that patients 
+may be less able to compensate for a sudden fall in BP , 
+which may precipitate cerebral infarction and blindness. 
+For this reason, abrupt forms of therapy should be avoided. 
+The short-acting formulation of nifedipine was used as a 
+first-line drug for severe hypertension in the past, but is no 
+longer recommended, as there are now a number of reports 
+documenting myocardial, cerebral, and retinal ischemia 
+after its use. The long-acting preparation of nifedipine or 
+other long-acting calcium antagonist, or clonidine, should 
+be used instead as first-line therapy. If the patient is already 
+on treatment with such drugs, a beta-blocker, an ACE 
+inhibitor, or a combination thereof could be added. If oral 
+therapy fails, parenteral drugs should be used (see below).
+B. Hypertensive emergencies  are defined as increases in arterial 
+pressure that, if sustained for a few hours, would cause irre-
+versible organ damage. Hypertensive encephalopathy, hyper -
+tensive left ventricular failure, hypertension associated with 
+unstable angina/myocardial infarction, hypertension with 
+aortic dissection, and cerebral hemorrhage/brain infarction 
+are such emergencies. Hypertensive emergencies should be 
+treated with parenteral drugs. Nitroprusside administered 
+by continuous IV infusion (0.3–0.8 mcg/kg per minute ini-
+tially to a maximum of 8 mcg/kg per minute) is particularly 
+useful in heart failure and dissecting aneurysm but requires 
+careful monitoring because its toxic metabolite (thiocya -
+nate) is retained in renal failure. Cyanide levels should be 
+monitored every 48 hours and should not exceed 10 mg/dL. 
+The symptoms of thiocyanate toxicity are nausea, vomiting, 
+myoclonic movements, and seizures. In general, the infusion 
+should not be prolonged for more than 48 hours. Both nitro-
+prusside and its metabolites are readily removed by dialy-
+sis. Intravenous labetalol may also be considered in patients 
+without heart failure, asthma, or heart block (2 mg/min to a 
+Daugirdas9781451144291-ch033.indd   589 11/10/14   3:45 am
+Part IV / Clinical Problem Areas
+590
+total of 2 mg/kg). Hydralazine 10–20 mg given slowly intra-
+venously is a well-tried alternative, but this drug should be 
+avoided in ischemic heart disease.
+References and Suggested Readings
+Agarwal R. The controversies of diagnosing and treating hypertension among 
+ hemodialysis patients. Semin Dial. 2012;25:370–376.
+Agarwal R. B-type natriuretic peptide is not a volume marker among patients on 
+hemodialysis. Nephrol Dial Transplant. 2013;28:3082–3089.
+Agarwal R, Light RP . Median intradialytic blood pressure can track changes evoked by 
+probing dry-weight. Clin J Am Soc Nephrol. 2010;5:897–904.
+Agarwal R, et al. Home blood pressure measurements for managing hypertension in 
+hemodialysis patients. Am J Nephrol. 2009;30:126–134.
+Agarwal R, et al. Inferior vena cava diameter and left atrial diameter measure volume 
+but not dry weight. Clin J Am Soc Nephrol. 2011;6:1066–1072.
+Agarwal R, et al. Hypertension in hemodialysis patients treated with atenolol or lisino-
+pril (HDPAL): a randomized controlled trial. Nephrol Dial Transplant. 2014;29:672–
+681.
+Charra B, Bergstrom J, Scribner BH. Blood pressure control in dialysis patients: impor-
+tance of the lag phenomenon. Am J Kidney Dis. 1998;32:720–724.
+Cice G, et al. Carvedilol increases two-year survivalin dialysis patients with dilated 
+cardiomyopathy: a prospective, placebo-controlled trial. J Am Coll Cardiol. 
+2003;41:1438–1444.
+Cohn JN, et al. Adverse mortality effect of central sympathetic inhibition with 
+ sustained-release moxonidine in patients with heart failure (MOXCON). Eur J 
+Heart Fail. 2003;5:659–667.
+Converse RL Jr, et al. Sympathetic overactivity in patients with chronic renal failure. N 
+Engl J Med. 1992;327:1912–1918.
+Curatola G, et al. Ultrafiltration intensification in hemodialysis patients improves 
+hypertension but increases AV fistula complications and cardiovascular events. 
+J Nephrol. 2011;24:465–473.
+Grassi G, et al. Sympathetic nerve traffic and asymmetric dimethylarginine in chronic 
+kidney disease. Clin J Am Soc Nephrol. 2011;6:2620–2627.
+Hausberg M, et al. Effects of moxonidine on sympathetic nerve activity in patients with 
+end-stage renal disease. J Hypertens. 2010;28:1920–1927.
+Hur E, et al. Effect of fluid management guided by bioimpedance spectroscopy on car-
+diovascular parameters in hemodialysis patients: a randomized controlled trial. 
+Am J Kidney Dis. 2013;61:957–965.
+Inrig JK, et al. Association of blood pressure increases during hemodialysis with 2-year 
+mortality in incident hemodialysis patients: a secondary analysis of the Dialysis 
+Morbidity and Mortality Wave 2 Study. Am J Kidney Dis. 2009;54:881–890.
+Iseki K, et al. Effects of angiotensin receptor blockade (ARB) on mortality and cardio-
+vascular outcomes in patients with long-term haemodialysis: a randomized con-
+trolled trial. Nephrol Dial Transplant. 2013;28:1579–1589.
+Joseph G, et al. Extravascular lung water and peripheral volume status in hemodialysis 
+patients with and without a history of heart failure. ASAIO J. 2006;52:423–429.
+Klassen PS, et al. Association between pulse pressure and mortality in patients under-
+going maintenance hemodialysis. JAMA. 2002;287:1548–1555.
+Kopp C, et al. Na magnetic resonance imaging-determined tissue sodium in healthy 
+subjects and hypertensive patients. Hypertension. 2013;61:635–640.
+Lacson EK, et al. Lower dialysate sodium impacts weight gain and fluid overload 
+ hospitalizations [abstract]. J Am Soc Nephrol. 2011;22:93A.
+Law MR, Morris JK, Wald NJ. Use of blood pressure lowering drugs in the prevention 
+of cardiovascular disease: meta-analysis of 147 randomised trials in the context 
+of expectations from prospective epidemiological studies. BMJ. 2009;338:b1665.
+Machnik A, et al. Mononuclear phagocyte system depletion blocks interstitial 
+ tonicity-responsive enhancer binding protein/vascular endothelial growth 
+ factor C expression and induces salt-sensitive hypertension in rats. Hypertension. 
+2010;55:755–761.
+Mallamaci F, et al. Analysis of the relationship between norepinephrine and asym-
+metric dimethyl arginine levels among patients with end-stage renal disease. J Am 
+Soc Nephrol. 2004;15:435–441.
+Daugirdas9781451144291-ch033.indd   590 11/10/14   3:45 am
+591Chapter 33 / Hypertension
+Mallamaci F, et al. Vascular endothelial growth factor, left ventricular dysfunction and 
+mortality in hemodialysis patients. J Hypertens. 2008;26:1875–1882.
+Mallamaci F, et al. Detection of pulmonary congestion by chest ultrasound in dialysis 
+patients. JACC Cardiovasc Imaging. 2010;3:586–594.
+Mancia G, et al. 2013 ESH/ESC Guidelines for the management of arterial hyperten-
+sion: the Task Force for the Management of Arterial Hypertension of the European 
+Society of Hypertension (ESH) and of the European Society of Cardiology (ESC).  
+J Hypertens. 2013;31:1281–1357.
+Moissl U, et al. Bioimpedance-guided fluid management in hemodialysis patients. Clin 
+J Am Soc Nephrol. 2013;8:1575–1582.
+Moissl UM, et al. Body fluid volume determination via body composition spectroscopy 
+in health and disease. Physiol Meas. 2006;27:921–933.
+Mominadam S, et al. Interdialytic blood pressure obtained by ambulatory blood pres-
+sure measurement and left ventricular structure in hypertensive hemodialysis 
+patients. Hemodial Int. 2008;12:322–327.
+Montanari A, et al. Studies on cell water and electrolytes in chronic renal failure. Clin 
+Nephrol. 1978;9:200–204.
+Movilli E, et al. Association between high ultrafiltration rates and mortality in uraemic 
+patients on regular haemodialysis: a 5-year prospective observational multicenter 
+study. Nephrol Dial Transplant. 2007;22:3547–3552.
+Ozkahya M, et al. Long-term survival rates in haemodialysis patients treated with 
+strict volume control. Nephrol Dial Transplant. 2006;21:3506–3513.
+Reddan DN, et al. Intradialytic blood volume monitoring in ambulatory hemodialysis 
+patients: a randomized trial. J Am Soc Nephrol. 2005;16:2162–2169.
+Rossignol P , et al. Visit-to-visit blood pressure variability is a strong predictor of 
+cardiovascular events in hemodialysis: insights from FOSIDIAL. Hypertension . 
+2012;60:339–346.
+Schlaich MP , et al. Feasibility of catheter-based renal nerve ablation and effects on 
+sympathetic nerve activity and blood pressure in patients with end-stage renal 
+disease. Int J Cardiol. 2013;168:2214–2220.
+Selby NM, McIntyre CW . How is the heart best protected in chronic dialysis patients? 
+Protecting the heart in dialysis patients—intradialytic issues. Semin Dial. 
+2014;27:332–335.
+Shoji T, et al. Hemodialysis-associated hypotension as an independent risk factor for 
+two-year mortality in hemodialysis patients. Kidney Int. 2004;66:1212–1220.
+St Peter WL, et al. Patterns in blood pressure medication use in US incident dialysis 
+patients over the first 6 months. BMC Nephrol. 2013;14:249.
+Suzuki H, et al. Effect of angiotensin receptor blockers on cardiovascular events in 
+patients undergoing hemodialysis: an open-label randomized controlled trial. Am 
+J Kidney Dis. 2008;52:501–506.
+Takahashi A, et al. Candesartan, an angiotensin II type-1 receptor blocker, reduces 
+cardiovascular events in patients on chronic haemodialysis—a randomized study. 
+Nephrol Dial Transplant. 2006;21:2507–2512.
+Tepel M, et al. Effect of amlodipine on cardiovascular events in hypertensive haemo-
+dialysis patients. Nephrol Dial Transplant. 2008;23:3605–3612.
+Vonend O, et al. Moxonidine treatment of hypertensive patients with advanced renal 
+failure. J Hypertens. 2003;21:1709–1717.
+Wizemann V , et al. The mortality risk of overhydration in haemodialysis patients. 
+Nephrol Dial Transplant. 2009;24:1574–1579.
+Yu WC, et al. Effect of ramipril on left ventricular mass in normotensive hemodialysis 
+patients. Am J Kidney Dis. 2006;47:478–484.
+Zannad F, et al. Prevention of cardiovascular events in end-stage renal disease: results 
+of a randomized trial of fosinopril and implications for future studies. Kidney Int. 
+2006;70:1318–1324.
+Zoccali C, et al. Cardiac natriuretic peptides are related to left ventricular mass and 
+function and predict mortality in dialysis patients. J Am Soc Nephrol . 2001;12:  
+1508–1515.
+Zoccali C, et al. Plasma norepinephrine predicts survival and incident cardiovas-
+cular events in patients with end-stage renal disease. Circulation . 2002;105:  
+1354–1359.
+Zoccali C, et al. Pulmonary congestion predicts cardiac events and mortality in ESRD. 
+J Am Soc Nephrol. 2013;24:639–646.
+Daugirdas9781451144291-ch033.indd   591 11/10/14   3:45 am
