@@ -50,12 +50,10 @@ app.secret_key = os.environ.get("SECRET_KEY", "dev-secret-change-me")
 from werkzeug.middleware.proxy_fix import ProxyFix
 app.wsgi_app = ProxyFix(app.wsgi_app, x_for=1, x_proto=1, x_host=1)
 
-# Email via Gmail SMTP (needs a Google "App Password", not your normal password).
-SMTP_HOST = os.environ.get("SMTP_HOST", "smtp.gmail.com")
-SMTP_PORT = int(os.environ.get("SMTP_PORT", "465"))
-SMTP_USER = os.environ.get("SMTP_USER", "")
-SMTP_PASSWORD = os.environ.get("SMTP_PASSWORD", "").replace(" ", "")
-MAIL_FROM = os.environ.get("MAIL_FROM", SMTP_USER)
+# Email via Resend (HTTP API). SMTP is blocked on Render's network, so we use
+# Resend's HTTPS API which works from Render.
+RESEND_API_KEY = os.environ.get("RESEND_API_KEY", "")
+RESEND_FROM = os.environ.get("RESEND_FROM", "Dialysis Quiz <onboarding@resend.dev>")
 
 PG = dict(
     host=os.environ["PGHOST"], port=os.environ.get("PGPORT", "5432"),
@@ -170,28 +168,22 @@ def admin_required(f):
 
 
 def send_email(to, subject, html):
-    """Send an email via Gmail SMTP. Returns (ok, message)."""
-    import smtplib
-    from email.message import EmailMessage
-    if not SMTP_USER or not SMTP_PASSWORD:
-        return False, "Email is not configured (set SMTP_USER and SMTP_PASSWORD)."
-    msg = EmailMessage()
-    msg["Subject"] = subject
-    msg["From"] = MAIL_FROM or SMTP_USER
-    msg["To"] = to
-    msg.set_content("Open this email in an HTML-capable client to reset your password.")
-    msg.add_alternative(html, subtype="html")
+    """Send an email via Resend's HTTPS API. Returns (ok, message)."""
+    if not RESEND_API_KEY:
+        return False, "Email is not configured (missing RESEND_API_KEY)."
+    payload = json.dumps({"from": RESEND_FROM, "to": [to],
+                          "subject": subject, "html": html}).encode()
+    req = urllib.request.Request(
+        "https://api.resend.com/emails", data=payload,
+        headers={"Authorization": f"Bearer {RESEND_API_KEY}",
+                 "Content-Type": "application/json",
+                 "User-Agent": "dialysis-quiz/1.0",
+                 "Accept": "application/json"}, method="POST")
     try:
-        if SMTP_PORT == 465:
-            with smtplib.SMTP_SSL(SMTP_HOST, SMTP_PORT, timeout=20) as s:
-                s.login(SMTP_USER, SMTP_PASSWORD)
-                s.send_message(msg)
-        else:
-            with smtplib.SMTP(SMTP_HOST, SMTP_PORT, timeout=20) as s:
-                s.starttls()
-                s.login(SMTP_USER, SMTP_PASSWORD)
-                s.send_message(msg)
-        return True, "sent"
+        with urllib.request.urlopen(req, timeout=20) as r:
+            return True, r.read().decode()
+    except urllib.error.HTTPError as e:
+        return False, f"{e.code}: {e.read().decode()[:300]}"
     except Exception as e:
         return False, str(e)
 
